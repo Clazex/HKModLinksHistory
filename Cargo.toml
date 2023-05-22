@@ -11,5 +11,5 @@ ureq = "2.6.2"
 
 [dependencies.hk_modlinks]
 git = "https://github.com/Clazex/hk_modlinks"
-rev = "ce5c8dc"
+rev = "9f9ba1c"
 features = ["json", "changelog-template"]
