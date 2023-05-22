@@ -1,0 +1,15 @@
+[package]
+name = "hk_modlinks_history"
+version = "0.1.0"
+edition = "2021"
+publish = false
+
+[dependencies]
+handlebars = "4.3.7"
+itertools = "0.10.5"
+ureq = "2.6.2"
+
+[dependencies.hk_modlinks]
+git = "https://github.com/Clazex/hk_modlinks"
+rev = "ce5c8dc"
+features = ["json", "changelog-template"]
