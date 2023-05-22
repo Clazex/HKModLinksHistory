@@ -1,0 +1,40 @@
+name: Archive
+on:
+  schedule:
+    - cron: "0 0 * * *"
+
+permissions:
+  contents: write
+
+jobs:
+  archive:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Update Rust
+        run: rustup update --no-self-update stable
+
+      - name: Checkout
+        uses: actions/checkout@v3
+      - name: Checkout last result
+        uses: actions/checkout@v3
+        with:
+          ref: dist
+          path: dist
+
+      - name: Build
+        run: cargo build -r
+
+      - name: Archive
+        run: cargo run -r
+
+      - name: Get Date
+        id: date
+        run: echo "DATE=$(date -uI)" >> $GITHUB_ENV
+
+      - name: "Deploy"
+        uses: JamesIves/github-pages-deploy-action@v4
+        with:
+          branch: dist
+          folder: dist
+          clean: true
+          commit-message: Update ${{ env.DATE }}
