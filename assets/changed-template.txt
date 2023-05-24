@@ -1,0 +1,10 @@
+{{#if new}}
+{{#each new}}
+{{@key}}
+{{/each}}
+{{/if}}
+{{#if updated}}
+{{#each updated}}
+{{@key}}
+{{/each}}
+{{/if}}

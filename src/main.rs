@@ -19,6 +19,9 @@ const NEW_TEMPLATE: &str = include_str!("../assets/new-template.txt");
 const UPDATED_TEMPLATE_NAME: &str = "updated";
 const UPDATED_TEMPLATE: &str = include_str!("../assets/updated-template.txt");
 
+const CHANGED_TEMPLATE_NAME: &str = "changed";
+const CHANGED_TEMPLATE: &str = include_str!("../assets/changed-template.txt");
+
 fn main() -> Result<(), Box<dyn Error>> {
     for i in (1..MONTH_DAYS).rev() {
         fs::rename(
@@ -43,10 +46,12 @@ fn main() -> Result<(), Box<dyn Error>> {
     handlebars.set_strict_mode(true);
     handlebars.register_template_string(UPDATED_TEMPLATE_NAME, UPDATED_TEMPLATE)?;
     handlebars.register_template_string(NEW_TEMPLATE_NAME, NEW_TEMPLATE)?;
+	handlebars.register_template_string(CHANGED_TEMPLATE_NAME, CHANGED_TEMPLATE)?;
     let handlebars = handlebars;
 
     let mut new_mods = Vec::with_capacity(MONTH_DAYS);
     let mut updated_mods = Vec::with_capacity(MONTH_DAYS);
+	let mut changed_mods = Vec::with_capacity(MONTH_DAYS);
     for (i, (new, old)) in modlinks.iter().tuple_windows().enumerate() {
         let changelog = new.changelog_since(old);
 
@@ -79,6 +84,20 @@ fn main() -> Result<(), Box<dyn Error>> {
             updated.as_str(),
         )?;
         updated_mods.push(updated);
+
+		let changed = handlebars
+            .render(CHANGED_TEMPLATE_NAME, changelog.json())?
+            .lines()
+            .unique()
+            .sorted()
+            .skip_while(|s| s.is_empty())
+            .map(|s| format!("{s}\n"))
+            .join("");
+        fs::write(
+            format!("{BASE_DIR}/ChangedMods-{}.txt", i + 1),
+            changed.as_str(),
+        )?;
+        changed_mods.push(changed);
     }
     let new_mods = new_mods;
     let updated_mods = updated_mods;
@@ -111,6 +130,17 @@ fn main() -> Result<(), Box<dyn Error>> {
             .map(|s| format!("{s}\n"))
             .join(""),
     )?;
+	fs::write(
+        format!("{BASE_DIR}/ChangedMods-Week.txt"),
+        changed_mods
+            .iter()
+            .take(WEEK_DAYS - 1)
+            .rev()
+            .flat_map(|s| s.lines())
+            .filter(|s| !s.is_empty())
+            .map(|s| format!("{s}\n"))
+            .join(""),
+    )?;
 
     fs::write(
         format!("{BASE_DIR}/Changelog-Month.md"),
@@ -131,6 +161,16 @@ fn main() -> Result<(), Box<dyn Error>> {
     fs::write(
         format!("{BASE_DIR}/UpdatedMods-Month.txt"),
         updated_mods
+            .iter()
+            .rev()
+            .flat_map(|s| s.lines())
+            .filter(|s| !s.is_empty())
+            .map(|s| format!("{s}\n"))
+            .join(""),
+    )?;
+	fs::write(
+        format!("{BASE_DIR}/ChangedMods-Month.txt"),
+        changed_mods
             .iter()
             .rev()
             .flat_map(|s| s.lines())
