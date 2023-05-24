@@ -3,11 +3,11 @@
 
 ## Updated mods
 
-### CondensedSpoilerLogger
+### Curse Randomizer
 
-- Version: 1.8.0.0 -> 1.9.0.0
+- Version: 3.2.2.0 -> 4.0.0.0
 
-### Randomizable Levers
+### RandoMapMod
 
-- Version: 1.2.4.1 -> 1.2.4.2
+- Version: 3.3.2.0 -> 3.4.0.0
 

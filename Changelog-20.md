@@ -3,7 +3,7 @@
 
 ## Updated mods
 
-### ItemSync
+### Lore Randomizer
 
-- Version: 2.6.1.0 -> 2.6.2.0
+- Version: 0.1.4.0 -> 0.1.5.0
 

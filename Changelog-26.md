@@ -1,9 +1,11 @@
 # Changelog
 
 
-## Updated mods
+## New mods
 
-### Better Godhome Music
+### Text Randomizer
 
-- Version: 1.0.0.4 -> 1.0.0.5
+- Description: Shuffles around all text in Hollow Knight
+- Dependencies
+  + Randomizer 4
 
