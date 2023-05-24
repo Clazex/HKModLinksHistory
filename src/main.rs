@@ -46,12 +46,12 @@ fn main() -> Result<(), Box<dyn Error>> {
     handlebars.set_strict_mode(true);
     handlebars.register_template_string(UPDATED_TEMPLATE_NAME, UPDATED_TEMPLATE)?;
     handlebars.register_template_string(NEW_TEMPLATE_NAME, NEW_TEMPLATE)?;
-	handlebars.register_template_string(CHANGED_TEMPLATE_NAME, CHANGED_TEMPLATE)?;
+    handlebars.register_template_string(CHANGED_TEMPLATE_NAME, CHANGED_TEMPLATE)?;
     let handlebars = handlebars;
 
     let mut new_mods = Vec::with_capacity(MONTH_DAYS);
     let mut updated_mods = Vec::with_capacity(MONTH_DAYS);
-	let mut changed_mods = Vec::with_capacity(MONTH_DAYS);
+    let mut changed_mods = Vec::with_capacity(MONTH_DAYS);
     for (i, (new, old)) in modlinks.iter().tuple_windows().enumerate() {
         let changelog = new.changelog_since(old);
 
@@ -60,39 +60,18 @@ fn main() -> Result<(), Box<dyn Error>> {
             changelog.to_markdown()?,
         )?;
 
-        let new = handlebars
-            .render(NEW_TEMPLATE_NAME, changelog.json())?
-            .lines()
-            .unique()
-            .sorted()
-            .skip_while(|s| s.is_empty())
-            .map(|s| format!("{s}\n"))
-            .join("");
+        let new = format_mod_list(handlebars.render(NEW_TEMPLATE_NAME, changelog.json())?);
         fs::write(format!("{BASE_DIR}/NewMods-{}.txt", i + 1), new.as_str())?;
         new_mods.push(new);
 
-        let updated = handlebars
-            .render(UPDATED_TEMPLATE_NAME, changelog.json())?
-            .lines()
-            .unique()
-            .sorted()
-            .skip_while(|s| s.is_empty())
-            .map(|s| format!("{s}\n"))
-            .join("");
+        let updated = format_mod_list(handlebars.render(UPDATED_TEMPLATE_NAME, changelog.json())?);
         fs::write(
             format!("{BASE_DIR}/UpdatedMods-{}.txt", i + 1),
             updated.as_str(),
         )?;
         updated_mods.push(updated);
 
-		let changed = handlebars
-            .render(CHANGED_TEMPLATE_NAME, changelog.json())?
-            .lines()
-            .unique()
-            .sorted()
-            .skip_while(|s| s.is_empty())
-            .map(|s| format!("{s}\n"))
-            .join("");
+        let changed = format_mod_list(handlebars.render(CHANGED_TEMPLATE_NAME, changelog.json())?);
         fs::write(
             format!("{BASE_DIR}/ChangedMods-{}.txt", i + 1),
             changed.as_str(),
@@ -110,36 +89,15 @@ fn main() -> Result<(), Box<dyn Error>> {
     )?;
     fs::write(
         format!("{BASE_DIR}/NewMods-Week.txt"),
-        new_mods
-            .iter()
-            .take(WEEK_DAYS - 1)
-            .rev()
-            .flat_map(|s| s.lines())
-            .filter(|s| !s.is_empty())
-            .map(|s| format!("{s}\n"))
-            .join(""),
+        merge_mod_list(new_mods.iter().take(WEEK_DAYS - 1)),
     )?;
     fs::write(
         format!("{BASE_DIR}/UpdatedMods-Week.txt"),
-        updated_mods
-            .iter()
-            .take(WEEK_DAYS - 1)
-            .rev()
-            .flat_map(|s| s.lines())
-            .filter(|s| !s.is_empty())
-            .map(|s| format!("{s}\n"))
-            .join(""),
+        merge_mod_list(updated_mods.iter().take(WEEK_DAYS - 1)),
     )?;
-	fs::write(
+    fs::write(
         format!("{BASE_DIR}/ChangedMods-Week.txt"),
-        changed_mods
-            .iter()
-            .take(WEEK_DAYS - 1)
-            .rev()
-            .flat_map(|s| s.lines())
-            .filter(|s| !s.is_empty())
-            .map(|s| format!("{s}\n"))
-            .join(""),
+        merge_mod_list(changed_mods.iter().take(WEEK_DAYS - 1)),
     )?;
 
     fs::write(
@@ -150,36 +108,36 @@ fn main() -> Result<(), Box<dyn Error>> {
     )?;
     fs::write(
         format!("{BASE_DIR}/NewMods-Month.txt"),
-        new_mods
-            .iter()
-            .rev()
-            .flat_map(|s| s.lines())
-            .filter(|s| !s.is_empty())
-            .map(|s| format!("{s}\n"))
-            .join(""),
+        merge_mod_list(new_mods.iter()),
     )?;
     fs::write(
         format!("{BASE_DIR}/UpdatedMods-Month.txt"),
-        updated_mods
-            .iter()
-            .rev()
-            .flat_map(|s| s.lines())
-            .filter(|s| !s.is_empty())
-            .map(|s| format!("{s}\n"))
-            .join(""),
+        merge_mod_list(updated_mods.iter()),
     )?;
-	fs::write(
+    fs::write(
         format!("{BASE_DIR}/ChangedMods-Month.txt"),
-        changed_mods
-            .iter()
-            .rev()
-            .flat_map(|s| s.lines())
-            .filter(|s| !s.is_empty())
-            .map(|s| format!("{s}\n"))
-            .join(""),
+        merge_mod_list(changed_mods.iter()),
     )?;
 
     fs::write(format!("{BASE_DIR}/modlinks.json"), modlinks[0].to_json()?)?;
 
     Ok(())
+}
+
+fn format_mod_list(mods: String) -> String {
+    mods.lines()
+        .unique()
+        .sorted()
+        .skip_while(|s| s.is_empty())
+        .map(|s| format!("{s}\n"))
+        .join("")
+}
+
+fn merge_mod_list<'a>(mods: impl Iterator<Item = &'a String> + DoubleEndedIterator) -> String {
+    mods.into_iter()
+        .rev()
+        .flat_map(|s| s.lines())
+        .filter(|s| !s.is_empty())
+        .map(|s| format!("{s}\n"))
+        .join("")
 }
