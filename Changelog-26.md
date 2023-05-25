@@ -1,11 +1,13 @@
 # Changelog
 
 
-## New mods
+## Updated mods
 
-### Text Randomizer
+### FStats
 
-- Description: Shuffles around all text in Hollow Knight
-- Dependencies
-  + Randomizer 4
+- Version: 2.0.0.0 -> 2.0.0.1
+
+### HKMP Tag
+
+- Version: 2.2.1.0 -> 2.3.1.0
 

@@ -3,11 +3,27 @@
 
 ## Updated mods
 
-### MoreLocations
+### Better Godhome Music
 
-- Version: 1.0.8508.1268 -> 1.0.8520.4027
+- Version: 1.0.0.5 -> 1.0.0.6
 
-### QoL
+### Disable Low Health Vignette
 
-- Version: 4.7.0.0 -> 4.8.0.0
+- Version: 1.0.0.0 -> 1.1.0.0
+
+### Scatternest
+
+- Version: 0.7.0.0 -> 1.0.0.0
+
+### Text Randomizer
+
+- Version: 1.0.0.0 -> 1.1.0.0
+- Dependencies
+  + Removed
+    - Randomizer 4
+  + Added
+    - Satchel
+- Integrations
+  + Added
+    - Randomizer 4
 

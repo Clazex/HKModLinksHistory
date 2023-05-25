@@ -79,7 +79,7 @@
 
 ### Curse Randomizer
 
-- Version: 3.2.2.0 -> 4.0.3.0
+- Version: 4.0.0.0 -> 4.0.3.0
 
 ### DebugMod
 
@@ -128,10 +128,6 @@
 ### QoL
 
 - Version: 4.7.0.0 -> 4.8.0.0
-
-### RandoMapMod
-
-- Version: 3.3.2.0 -> 3.4.0.0
 
 ### SFCore
 

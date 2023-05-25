@@ -5,9 +5,9 @@
 
 ### Curse Randomizer
 
-- Version: 3.2.2.0 -> 4.0.0.0
+- Version: 4.0.0.0 -> 4.0.2.0
 
-### RandoMapMod
+### SFCore
 
-- Version: 3.3.2.0 -> 3.4.0.0
+- Version: 1.5.8.1 -> 1.5.8.2
 
