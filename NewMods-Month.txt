@@ -6,3 +6,4 @@ FLACCodec
 Grub Names
 Snom
 Extra Rando
+CursedMod 🕶

@@ -3,11 +3,7 @@
 
 ## Updated mods
 
-### Curse Randomizer
+### Better Godhome Music
 
-- Version: 4.0.0.0 -> 4.0.2.0
-
-### SFCore
-
-- Version: 1.5.8.1 -> 1.5.8.2
+- Version: 1.0.0.4 -> 1.0.0.5
 

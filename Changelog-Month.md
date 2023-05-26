@@ -3,6 +3,12 @@
 
 ## New mods
 
+### CursedMod 🕶
+
+- Description: This mod does miscellaneous stuff. Like making the game window be dark mode on windows.
+- Tags
+  + Utility
+
 ### Disable Achievements
 
 - Description: Prevents the game from awarding achievements, both in-game and on all platforms (Steam, GoG etc.)
@@ -79,7 +85,7 @@
 
 ### Curse Randomizer
 
-- Version: 4.0.0.0 -> 4.0.3.0
+- Version: 4.0.2.0 -> 4.0.3.0
 
 ### DebugMod
 
@@ -128,10 +134,6 @@
 ### QoL
 
 - Version: 4.7.0.0 -> 4.8.0.0
-
-### SFCore
-
-- Version: 1.5.8.1 -> 1.5.8.2
 
 ### Scatternest
 

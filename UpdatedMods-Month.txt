@@ -1,5 +1,3 @@
-Curse Randomizer
-SFCore
 Better Godhome Music
 FStats
 HKMP Tag

@@ -915,6 +915,23 @@
       "Korz"
     ]
   },
+  "CursedMod 🕶": {
+    "description": "This mod does miscellaneous stuff. Like making the game window be dark mode on windows.",
+    "version": "1.0.0.0",
+    "links": {
+      "type": "universal",
+      "sha256": "C88CB6C2BB3BFEA39999627204A84173FE5B2750535255AB8C7BBA7AB2DDDE6A",
+      "url": "https://github.com/SFGrenade/CursedMod/releases/download/v1/CursedMod.zip"
+    },
+    "dependencies": [],
+    "repository": "https://github.com/SFGrenade/CursedMod/",
+    "tags": [
+      "Utility"
+    ],
+    "authors": [
+      "SFGrenade"
+    ]
+  },
   "Custom Knight": {
     "description": "Supports Skins for Player, Enemies and Area overhauls",
     "version": "2.2.0.0",

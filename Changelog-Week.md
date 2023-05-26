@@ -1,15 +1,20 @@
 # Changelog
 
 
+## New mods
+
+### CursedMod 🕶
+
+- Description: This mod does miscellaneous stuff. Like making the game window be dark mode on windows.
+- Tags
+  + Utility
+
+
 ## Updated mods
 
 ### Curse Randomizer
 
 - Version: 4.0.2.0 -> 4.0.3.0
-
-### Extra Rando
-
-- Version: 0.0.1.0 -> 0.0.2.0
 
 ### Grass Randomizer
 
