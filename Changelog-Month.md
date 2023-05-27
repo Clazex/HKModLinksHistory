@@ -81,7 +81,7 @@
 
 ### Better Godhome Music
 
-- Version: 1.0.0.4 -> 1.0.0.6
+- Version: 1.0.0.5 -> 1.0.0.6
 
 ### Curse Randomizer
 
