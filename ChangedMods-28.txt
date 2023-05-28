@@ -1,2 +1,2 @@
-FStats
-HKMP Tag
+MoreLocations
+QoL

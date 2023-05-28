@@ -58,16 +58,6 @@
 - Tags
   + Cosmetic
 
-### Text Randomizer
-
-- Description: Shuffles around all text in Hollow Knight
-- Dependencies
-  + Satchel
-- Integrations
-  + Randomizer 4
-- Tags
-  + Cosmetic
-
 ### TheGloryOfBeingAFoolRandomizer
 
 - Description: Randomizes the glory of being a Fool.
@@ -138,4 +128,19 @@
 ### Scatternest
 
 - Version: 0.7.0.0 -> 1.0.0.0
+
+### Text Randomizer
+
+- Version: 1.0.0.0 -> 1.1.0.0
+- Dependencies
+  + Removed
+    - Randomizer 4
+  + Added
+    - Satchel
+- Integrations
+  + Added
+    - Randomizer 4
+- Tags
+  + Removed
+    - Cosmetic
 

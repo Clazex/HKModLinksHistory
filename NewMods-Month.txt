@@ -1,4 +1,3 @@
-Text Randomizer
 Disable Achievements
 Grass Randomizer
 TheGloryOfBeingAFoolRandomizer

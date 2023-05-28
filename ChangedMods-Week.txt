@@ -1,6 +1,2 @@
-Curse Randomizer
-Lore Master
-Lore Randomizer
-LoreCore
 Grass Randomizer
 CursedMod 🕶
