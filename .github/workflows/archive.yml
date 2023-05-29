@@ -30,9 +30,11 @@ jobs:
 
       - name: Get Date
         id: date
-        run: echo "DATE=$(date -uI)" >> $GITHUB_ENV
+        run: |
+          echo "DATE=$(date -uI)" >> $GITHUB_ENV
+          date -u -Iseconds
 
-      - name: "Deploy"
+      - name: Deploy
         uses: JamesIves/github-pages-deploy-action@v4
         with:
           branch: dist
