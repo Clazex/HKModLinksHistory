@@ -1,5 +1,3 @@
-FStats
-HKMP Tag
 MoreLocations
 QoL
 Better Godhome Music

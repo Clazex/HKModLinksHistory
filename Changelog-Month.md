@@ -85,17 +85,9 @@
 
 - Version: 1.0.0.0 -> 1.1.0.0
 
-### FStats
-
-- Version: 2.0.0.0 -> 2.0.0.1
-
 ### GodSeekerPlus
 
 - Version: 0.23.1.0 -> 0.24.0.0
-
-### HKMP Tag
-
-- Version: 2.2.1.0 -> 2.3.1.0
 
 ### ItemSync
 

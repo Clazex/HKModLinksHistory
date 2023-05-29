@@ -1,2 +1,4 @@
-MoreLocations
-QoL
+Better Godhome Music
+Disable Low Health Vignette
+Scatternest
+Text Randomizer

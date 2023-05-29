@@ -3,11 +3,11 @@
 
 ## Updated mods
 
-### FStats
+### MoreLocations
 
-- Version: 2.0.0.0 -> 2.0.0.1
+- Version: 1.0.8508.1268 -> 1.0.8520.4027
 
-### HKMP Tag
+### QoL
 
-- Version: 2.2.1.0 -> 2.3.1.0
+- Version: 4.7.0.0 -> 4.8.0.0
 

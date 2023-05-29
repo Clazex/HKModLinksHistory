@@ -9,10 +9,3 @@
 - Tags
   + Utility
 
-
-## Updated mods
-
-### Grass Randomizer
-
-- Version: 1.0.0.0 -> 1.0.1.0
-
