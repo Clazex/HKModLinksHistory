@@ -1840,6 +1840,25 @@
       "SFGrenade"
     ]
   },
+  "Floor Time Counter": {
+    "description": "Adds a counter for how many frames you've touched the ground.",
+    "version": "1.0.0.0",
+    "links": {
+      "type": "universal",
+      "sha256": "C79E671C31B4439C8239FDCF671E4AFFAC2A3E25ABF8A0099837958EDAD3D8F7",
+      "url": "https://github.com/CharlesGameDev/FloorTimeCounter/releases/download/1.0.0.0/FloorTimeCounter1.0.0.0.zip"
+    },
+    "dependencies": [
+      "MagicUI"
+    ],
+    "repository": "https://github.com/CharlesGameDev/FloorTimeCounter",
+    "tags": [
+      "Cosmetic"
+    ],
+    "authors": [
+      "CharlesGameDev"
+    ]
+  },
   "FountainPreview": {
     "description": "Add-on for ItemChanger that makes the basin fountain show the item it's going to give.",
     "version": "0.2.1.0",

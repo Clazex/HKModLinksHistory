@@ -30,6 +30,14 @@
 - Tags
   + Library
 
+### Floor Time Counter
+
+- Description: Adds a counter for how many frames you&#x27;ve touched the ground.
+- Dependencies
+  + MagicUI
+- Tags
+  + Cosmetic
+
 ### Grass Randomizer
 
 - Description: Supplemental randomizer mod that randomizes the grass in the world. Currently only sees grass broken with nail (c-dash does not work).
@@ -105,17 +113,9 @@
 
 - Version: 0.4.2.0 -> 0.5.0.0
 
-### MoreLocations
-
-- Version: 1.0.8508.1268 -> 1.0.8520.4027
-
 ### No Particles
 
 - Version: 1.0.0.0 -> 1.0.1.0
-
-### QoL
-
-- Version: 4.7.0.0 -> 4.8.0.0
 
 ### Scatternest
 

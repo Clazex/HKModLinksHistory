@@ -1,5 +1,3 @@
-MoreLocations
-QoL
 Better Godhome Music
 Disable Low Health Vignette
 Scatternest
@@ -23,3 +21,4 @@ Lore Randomizer
 LoreCore
 Grass Randomizer
 CursedMod 🕶
+Floor Time Counter
