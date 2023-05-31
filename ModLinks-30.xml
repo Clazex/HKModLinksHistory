@@ -57,8 +57,8 @@
     <Manifest>
         <Name>Disable Low Health Vignette</Name>
         <Description>Disables the low health vignette.</Description>
-        <Version>1.0.0.0</Version>
-        <Link SHA256="83A06EF1D26D1F5BBD86052CC7CBE35B9FCA89699FB071D97896EC5FD60AABEF"><![CDATA[https://github.com/luizeldorado/DisableLowHealthVignetteMod/releases/download/v1.0.0.0/DisableLowHealthVignette.zip]]></Link>
+        <Version>1.1.0.0</Version>
+        <Link SHA256="6E31339ED844293F04799BF5AC11B5161ABAC1682BADDFF638B4D800129B101D"><![CDATA[https://github.com/luizeldorado/DisableLowHealthVignetteMod/releases/download/v1.1.0.0/DisableLowHealthVignette.zip]]></Link>
         <Dependencies />
         <Repository>
             <![CDATA[https://github.com/luizeldorado/DisableLowHealthVignetteMod]]>
@@ -89,9 +89,9 @@
     <Manifest>
         <Name>Better Godhome Music</Name>
         <Description>Replaces Haunted Foes with new Godhome versions of boss tracks (made by me)</Description>
-        <Version>1.0.0.5</Version>
-        <Link SHA256="82CB18E6177BAF3424F183B71F1A1E3839BEA2FFC17D8C6A5D2AB643D5FFE9AF">
-            <![CDATA[https://github.com/CharlesGameDev/BetterGodhomeMusic/releases/download/1.0.0.5/BetterGodhomeMusic1.0.0.5.zip]]>
+        <Version>1.0.0.6</Version>
+        <Link SHA256="9D60C778A633AD7CE97A9A0D184F1CD93339BB5448986A7B0864D4A5A957E27F">
+            <![CDATA[https://github.com/CharlesGameDev/BetterGodhomeMusic/releases/download/1.0.0.6/BetterGodhomeMusic1.0.0.6.zip]]>
         </Link>
         <Dependencies />
         <Repository><![CDATA[https://github.com/CharlesGameDev/BetterGodhomeMusic]]></Repository>
@@ -1122,9 +1122,9 @@
     <Manifest>
         <Name>Scatternest</Name>
         <Description>Addon for Randomizer and ItemSync allowing players to start at multiple different locations.</Description>
-        <Version>0.7.0.0</Version>
-        <Link SHA256="afafbd275dc7536a85e29299b92d6296cbf4554f40b5ce88772ceb89c39e9558">
-            <![CDATA[https://github.com/flibber-hk/HollowKnight.Scatternest/releases/download/v0.7.0.0/Scatternest.zip]]>
+        <Version>1.0.0.0</Version>
+        <Link SHA256="9318236313755062e4faa9be074bccef3902a6f074f04b568752dbe4777be636">
+            <![CDATA[https://github.com/flibber-hk/HollowKnight.Scatternest/releases/download/v1.0.0.0/Scatternest.zip]]>
         </Link>
         <Dependencies>
             <Dependency>Randomizer 4</Dependency>
@@ -5301,15 +5301,17 @@ This is a singleplayer mod. The "teamwork" refers to in-game events.</Descriptio
     <Manifest>
         <Name>Text Randomizer</Name>
         <Description>Shuffles around all text in Hollow Knight</Description>
-        <Version>1.0.0.0</Version>
-        <Link SHA256="C3E9C11EA8DC98FA49941273B6C9DE639903D8E5B9FF4934C25D2889DFECD59D"><![CDATA[https://github.com/ToboterXP/HollowKnight.TextRandomizer/releases/download/v1.0/TextRandomizer.zip]]></Link>
+        <Version>1.1.0.0</Version>
+        <Link SHA256="0B33EC88B3D737875AA09C75FB6EC0212495DE6EF7FF3315AE696419C07EC57D"><![CDATA[https://github.com/ToboterXP/HollowKnight.TextRandomizer/releases/download/v1.1/TextRandomizer.zip]]></Link>
         <Dependencies>
-            <Dependency>Randomizer 4</Dependency>
+            <Dependency>Satchel</Dependency>
         </Dependencies>
         <Repository>
             <![CDATA[https://github.com/ToboterXP/HollowKnight.TextRandomizer]]>
         </Repository>
-
+        <Integrations>
+            <Integration>Randomizer 4</Integration>
+        </Integrations>
         <Authors>
             <Author>Toboter</Author>
         </Authors>
