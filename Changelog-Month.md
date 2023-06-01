@@ -89,6 +89,14 @@
 
 - Version: 0.23.1.0 -> 0.24.0.0
 
+### Hallownest-Vocalized
+
+- Version: 1.0.0.0 -> 1.0.1.1
+
+### Hallownest-Vocalized-AudioLoader
+
+- Version: 1.0.0.0 -> 1.0.1.1
+
 ### ItemSync
 
 - Version: 2.6.1.0 -> 2.6.2.0
@@ -108,4 +116,8 @@
 ### No Particles
 
 - Version: 1.0.0.0 -> 1.0.1.0
+
+### Test of Teamwork
+
+- Version: 1.5.78.1 -> 1.5.79.0
 

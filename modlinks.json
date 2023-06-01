@@ -2568,11 +2568,11 @@
   },
   "Hallownest-Vocalized": {
     "description": "Adds English voice acting to all Hollow Knight's in-game dialogue.",
-    "version": "1.0.0.0",
+    "version": "1.0.1.1",
     "links": {
       "type": "universal",
-      "sha256": "C0A56C8373BDAFC30B94F6F5F2A48E4A9714C9D3FA2518D78C8C296A79ABE465",
-      "url": "https://github.com/Hallownest-Vocalized/Hallownest-Vocalized/releases/download/0.0.1.0/HKVocal.zip"
+      "sha256": "9ED326C5F00037423B7E9ECC96D6157D37B0C0B2A3910F39A8FD2D5A801151E6",
+      "url": "https://github.com/Hallownest-Vocalized/Hallownest-Vocalized/releases/download/0.0.1.1/HKVocal.zip"
     },
     "dependencies": [
       "Core.FsmUtil",
@@ -2597,11 +2597,11 @@
   },
   "Hallownest-Vocalized-AudioLoader": {
     "description": "A dependency for Hallownest Vocalized. Download this with the main mod if you haven't!",
-    "version": "1.0.0.0",
+    "version": "1.0.1.1",
     "links": {
       "type": "universal",
-      "sha256": "8D6CCCB585B3D9076448F71A5F96C66A1B5272EC3E44D029F994F729C3A7F8C9",
-      "url": "https://github.com/Hallownest-Vocalized/Hallownest-Vocalized-AudioLoader/releases/download/0.0.1.0/Hallownest-Vocalized-AudioLoader.zip"
+      "sha256": "2AF50A005CEF217BE45F36D0391587EA04C4A39E87F158F8E68639460B940E12",
+      "url": "https://github.com/Hallownest-Vocalized/Hallownest-Vocalized-AudioLoader/releases/download/0.0.1.1/Hallownest-Vocalized-AudioLoader.zip"
     },
     "dependencies": [],
     "repository": "https://github.com/Hallownest-Vocalized/Hallownest-Vocalized-AudioLoader",
@@ -4803,11 +4803,11 @@
   },
   "Test of Teamwork": {
     "description": "Adds a Path of Pain style section to the White Palace.\nStart by talking to people in and around dirtmouth.\nThis is a singleplayer mod. The \"teamwork\" refers to in-game events.",
-    "version": "1.5.78.1",
+    "version": "1.5.79.0",
     "links": {
       "type": "universal",
-      "sha256": "314F8A8914E89CB854FEF081F45B4C9024B8CCE9E8CCD070F7A2B12F3BD7F0A4",
-      "url": "https://github.com/SFGrenade/TestOfTeamwork/releases/download/v1.5.78.1/TestOfTeamwork.zip"
+      "sha256": "A1A63A9B335379DA6BD0F1D30AD70C5E43EF65F13E25C740E718DA7B0D7B0D58",
+      "url": "https://github.com/SFGrenade/TestOfTeamwork/releases/download/v1.5.79/TestOfTeamwork.zip"
     },
     "dependencies": [
       "SFCore"

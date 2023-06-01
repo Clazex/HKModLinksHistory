@@ -3,12 +3,6 @@
 
 ## New mods
 
-### CursedMod 🕶
-
-- Description: This mod does miscellaneous stuff. Like making the game window be dark mode on windows.
-- Tags
-  + Utility
-
 ### Floor Time Counter
 
 - Description: Adds a counter for how many frames you&#x27;ve touched the ground.
@@ -16,4 +10,19 @@
   + MagicUI
 - Tags
   + Cosmetic
+
+
+## Updated mods
+
+### Hallownest-Vocalized
+
+- Version: 1.0.0.0 -> 1.0.1.1
+
+### Hallownest-Vocalized-AudioLoader
+
+- Version: 1.0.0.0 -> 1.0.1.1
+
+### Test of Teamwork
+
+- Version: 1.5.78.1 -> 1.5.79.0
 

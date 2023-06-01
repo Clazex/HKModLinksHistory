@@ -9,3 +9,6 @@ Lore Master
 Lore Randomizer
 LoreCore
 Grass Randomizer
+Hallownest-Vocalized
+Hallownest-Vocalized-AudioLoader
+Test of Teamwork
