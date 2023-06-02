@@ -1,4 +1,3 @@
-ItemSync
 Lore Randomizer
 DebugMod
 GodSeekerPlus

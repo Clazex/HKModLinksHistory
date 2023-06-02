@@ -97,10 +97,6 @@
 
 - Version: 1.0.0.0 -> 1.0.1.1
 
-### ItemSync
-
-- Version: 2.6.1.0 -> 2.6.2.0
-
 ### Lore Master
 
 - Version: 2.3.2.0 -> 2.3.3.0
