@@ -1,4 +1,3 @@
-Lore Randomizer
 DebugMod
 GodSeekerPlus
 No Particles

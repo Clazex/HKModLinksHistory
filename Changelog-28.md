@@ -1,9 +1,11 @@
 # Changelog
 
 
-## Updated mods
+## New mods
 
-### DebugMod
+### Disable Achievements
 
-- Version: 1.4.10.1 -> 1.4.10.2
+- Description: Prevents the game from awarding achievements, both in-game and on all platforms (Steam, GoG etc.)
+- Tags
+  + Utility
 
