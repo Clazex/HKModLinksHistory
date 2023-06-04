@@ -3,6 +3,12 @@
 
 ## New mods
 
+### FiendMod
+
+- Description: A Hollow Knight mod that replaces the word fool with fiend
+- Tags
+  + Cosmetic
+
 ### Floor Time Counter
 
 - Description: Adds a counter for how many frames you&#x27;ve touched the ground.
@@ -10,6 +16,10 @@
   + MagicUI
 - Tags
   + Cosmetic
+
+### NoDying
+
+- Description: A simple mod that doesn&#x27;t allow your health to go below 1 health
 
 
 ## Updated mods
@@ -25,4 +35,8 @@
 ### Test of Teamwork
 
 - Version: 1.5.78.1 -> 1.5.79.0
+
+### UnityExplorerPlus
+
+- Version: 2.3.0.0 -> 2.4.0.0
 

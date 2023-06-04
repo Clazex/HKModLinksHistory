@@ -1821,6 +1821,23 @@
       "Boss"
     ]
   },
+  "FiendMod": {
+    "description": "A Hollow Knight mod that replaces the word fool with fiend",
+    "version": "1.0.0.0",
+    "links": {
+      "type": "universal",
+      "sha256": "FD1131817F2F6FF7ED4FF46CA51176DA1D6E896B4BE93BF32C42E0C7E679964E",
+      "url": "https://github.com/Zickles/FiendMod/releases/download/1.0.0.0/FiendMod.zip"
+    },
+    "dependencies": [],
+    "repository": "https://github.com/Zickles/FiendMod",
+    "tags": [
+      "Cosmetic"
+    ],
+    "authors": [
+      "Zickles"
+    ]
+  },
   "FireIsSmolBrain": {
     "description": "Adds a soul totem to dirtmouth and blocks off boss arenas.",
     "version": "1.5.0.0",
@@ -3642,6 +3659,20 @@
       "Clazex"
     ]
   },
+  "NoDying": {
+    "description": "A simple mod that doesn't allow your health to go below 1 health",
+    "version": "1.0.0.0",
+    "links": {
+      "type": "universal",
+      "sha256": "47415A24C018A6BA5BA7EE78065013CF425FCA19ADF67449E925E7E102426709",
+      "url": "https://github.com/TheMulhima/NoDying/releases/download/v1.0.0.0/NoDying.zip"
+    },
+    "dependencies": [],
+    "repository": "https://github.com/TheMulhima/NoDying/",
+    "authors": [
+      "Mulhima"
+    ]
+  },
   "NoSpiders": {
     "description": "A mod to remove the spiders in the foreground of deepnest",
     "version": "1.2.0.0",
@@ -5071,11 +5102,11 @@
   },
   "UnityExplorerPlus": {
     "description": "A mod that adds functionality to UnityExplorer",
-    "version": "2.3.0.0",
+    "version": "2.4.0.0",
     "links": {
       "type": "universal",
-      "sha256": "B630B9CE79581383A9953B66D9B8598CDC35FB1EA58A67B8BAD65FEE9988C17D",
-      "url": "https://github.com/HKLab/UnityExplorerPlus/releases/download/v2.4.0/Publish.zip"
+      "sha256": "ED99CB6206728965F6AAD28FF8BC9554E2A825E449173F7369D4C18509BAF1FE",
+      "url": "https://github.com/HKLab/UnityExplorerPlus/releases/download/v2.5.0.0/Publish.zip"
     },
     "dependencies": [
       "HKTool",

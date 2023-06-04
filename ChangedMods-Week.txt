@@ -2,3 +2,6 @@ Floor Time Counter
 Hallownest-Vocalized
 Hallownest-Vocalized-AudioLoader
 Test of Teamwork
+FiendMod
+NoDying
+UnityExplorerPlus

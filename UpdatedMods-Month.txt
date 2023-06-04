@@ -1,4 +1,3 @@
-DebugMod
 GodSeekerPlus
 No Particles
 Extra Rando
@@ -10,3 +9,4 @@ Grass Randomizer
 Hallownest-Vocalized
 Hallownest-Vocalized-AudioLoader
 Test of Teamwork
+UnityExplorerPlus

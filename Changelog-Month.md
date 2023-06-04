@@ -30,6 +30,12 @@
 - Tags
   + Library
 
+### FiendMod
+
+- Description: A Hollow Knight mod that replaces the word fool with fiend
+- Tags
+  + Cosmetic
+
 ### Floor Time Counter
 
 - Description: Adds a counter for how many frames you&#x27;ve touched the ground.
@@ -60,6 +66,10 @@
 - Tags
   + Gameplay
 
+### NoDying
+
+- Description: A simple mod that doesn&#x27;t allow your health to go below 1 health
+
 ### Snom
 
 - Description: Cosmetic mod that replaces Tiktiks in the game with Snoms
@@ -80,10 +90,6 @@
 ### Curse Randomizer
 
 - Version: 4.0.2.0 -> 4.0.3.0
-
-### DebugMod
-
-- Version: 1.4.10.1 -> 1.4.10.2
 
 ### GodSeekerPlus
 
@@ -116,4 +122,8 @@
 ### Test of Teamwork
 
 - Version: 1.5.78.1 -> 1.5.79.0
+
+### UnityExplorerPlus
+
+- Version: 2.3.0.0 -> 2.4.0.0
 
