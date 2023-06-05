@@ -9,14 +9,6 @@
 - Tags
   + Cosmetic
 
-### Floor Time Counter
-
-- Description: Adds a counter for how many frames you&#x27;ve touched the ground.
-- Dependencies
-  + MagicUI
-- Tags
-  + Cosmetic
-
 ### NoDying
 
 - Description: A simple mod that doesn&#x27;t allow your health to go below 1 health

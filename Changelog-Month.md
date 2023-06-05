@@ -9,12 +9,6 @@
 - Tags
   + Utility
 
-### Disable Achievements
-
-- Description: Prevents the game from awarding achievements, both in-game and on all platforms (Steam, GoG etc.)
-- Tags
-  + Utility
-
 ### Extra Rando
 
 - Description: Randomizer 4 connection with miscellaneous settings.

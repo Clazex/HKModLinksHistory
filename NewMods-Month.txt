@@ -1,4 +1,3 @@
-Disable Achievements
 Grass Randomizer
 TheGloryOfBeingAFoolRandomizer
 FLACCodec

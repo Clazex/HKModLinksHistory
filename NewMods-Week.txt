@@ -1,3 +1,2 @@
-Floor Time Counter
 FiendMod
 NoDying
