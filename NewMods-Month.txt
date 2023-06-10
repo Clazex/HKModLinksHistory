@@ -1,5 +1,3 @@
-Grass Randomizer
-TheGloryOfBeingAFoolRandomizer
 FLACCodec
 Grub Names
 Snom
@@ -8,3 +6,4 @@ CursedMod 🕶
 Floor Time Counter
 FiendMod
 NoDying
+BingoSync

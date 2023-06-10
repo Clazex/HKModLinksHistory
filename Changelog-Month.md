@@ -3,6 +3,12 @@
 
 ## New mods
 
+### BingoSync
+
+- Description: A Hollow Knight mod that automatically marks squares on bingosync.com
+- Dependencies
+  + MagicUI
+
 ### CursedMod 🕶
 
 - Description: This mod does miscellaneous stuff. Like making the game window be dark mode on windows.
@@ -38,20 +44,6 @@
 - Tags
   + Cosmetic
 
-### Grass Randomizer
-
-- Description: Supplemental randomizer mod that randomizes the grass in the world. Currently only sees grass broken with nail (c-dash does not work).
-- Dependencies
-  + ItemChanger
-  + MapChanger
-  + MenuChanger
-  + Randomizer 4
-  + RandomizerCore
-- Integrations
-  + RandoSettingsManager
-- Tags
-  + Gameplay
-
 ### Grub Names
 
 - Description: ItemChanger/Randomizer 4 add-on that replaces Grub names with Skurry&#x27;s Grub names
@@ -70,14 +62,6 @@
 - Tags
   + Cosmetic
 
-### TheGloryOfBeingAFoolRandomizer
-
-- Description: Randomizes the glory of being a Fool.
-- Dependencies
-  + Randomizer 4
-- Integrations
-  + RandoSettingsManager
-
 
 ## Updated mods
 
@@ -88,6 +72,10 @@
 ### GodSeekerPlus
 
 - Version: 0.23.1.0 -> 0.24.0.0
+
+### Grass Randomizer
+
+- Version: 1.0.0.0 -> 1.0.1.0
 
 ### Hallownest-Vocalized
 

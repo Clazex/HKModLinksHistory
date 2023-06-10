@@ -1,0 +1,4 @@
+Curse Randomizer
+Lore Master
+Lore Randomizer
+LoreCore

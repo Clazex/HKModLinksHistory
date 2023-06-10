@@ -1,5 +1,3 @@
-Grass Randomizer
-TheGloryOfBeingAFoolRandomizer
 FLACCodec
 GodSeekerPlus
 Grub Names
@@ -20,3 +18,4 @@ Test of Teamwork
 FiendMod
 NoDying
 UnityExplorerPlus
+BingoSync
