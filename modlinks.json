@@ -3571,6 +3571,19 @@
     ],
     "repository": "https://github.com/flibber-hk/HollowKnight.MylaFlower/"
   },
+  "Nailgod": {
+    "description": "Sly modded boss.",
+    "version": "1.0.0.0",
+    "links": {
+      "type": "universal",
+      "sha256": "CF797FAD17C0F309026C2F7243789E1BE6A3319E1F89F7234BED07CD193339A4",
+      "url": "https://github.com/nearrin/HollowKnight.Nailgod/releases/download/1.0.0.1/1.0.0.1.Release.zip"
+    },
+    "dependencies": [
+      "Satchel"
+    ],
+    "repository": "https://github.com/nearrin/HollowKnight.Nailgod/"
+  },
   "Nailmaster's Pride": {
     "description": "Nailmaster's Glory prevents regular Nail attacks but grants all Nail Arts and automatically charges them",
     "version": "1.0.0.37739",
@@ -4471,11 +4484,11 @@
   },
   "SFCore": {
     "description": "Library mod used by other mods.",
-    "version": "1.5.8.2",
+    "version": "1.5.9.0",
     "links": {
       "type": "universal",
-      "sha256": "6CC8CA3D14B13B67618CA0BE28E972289207C848D36F40834413BC75F8A88E0D",
-      "url": "https://github.com/SFGrenade/SFCore/releases/download/v1.5.8.2/SFCore.zip"
+      "sha256": "1DAE0AC19EC8DF9E822DA14BC3FEF93A3311F8CABBBAFEB18B0E3A06EDC79512",
+      "url": "https://github.com/SFGrenade/SFCore/releases/download/v1.5.9/SFCore.zip"
     },
     "dependencies": [],
     "repository": "https://github.com/SFGrenade/SFCore/",
