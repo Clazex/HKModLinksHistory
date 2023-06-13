@@ -2146,11 +2146,11 @@
   },
   "GodSeekerPlus": {
     "description": "Various tweaks and utilities to enhance your Godhome experience",
-    "version": "0.24.0.0",
+    "version": "0.24.1.0",
     "links": {
       "type": "universal",
-      "sha256": "360C53F01FD0A1FA766C9D3A824F277FB81BD96BDF7C0FD47ACDC6A8296B2B6D",
-      "url": "https://github.com/Clazex/HollowKnight.GodSeekerPlus/releases/download/v0.24.0/GodSeekerPlus.zip"
+      "sha256": "F223D7ABB7391C2FDF76036C442D8C66E8EBFDEC980CEAD643644F19F5D4F336",
+      "url": "https://github.com/Clazex/HollowKnight.GodSeekerPlus/releases/download/v0.24.1/GodSeekerPlus.zip"
     },
     "dependencies": [
       "Osmi",
@@ -3176,11 +3176,11 @@
   },
   "MagicUI": {
     "description": "A core mod to help other mods build UIs. Does nothing on its own.",
-    "version": "1.7.8481.39155",
+    "version": "1.8.8563.5913",
     "links": {
       "type": "universal",
-      "sha256": "E3333FA21C736D300C3CE7B3C2C632D6672F85AAA3FADF96D0771182023AFA2A",
-      "url": "https://github.com/BadMagic100/HollowKnight.MagicUI/releases/download/v1.7.8481.39155/MagicUI.zip"
+      "sha256": "0BA7614FCE0EAA645B817F70601BAA1C13ACB9BB6CCFF0CD376E79300826ACBE",
+      "url": "https://github.com/BadMagic100/HollowKnight.MagicUI/releases/download/v1.8.8563.5913/MagicUI.zip"
     },
     "dependencies": [],
     "repository": "https://github.com/BadMagic100/HollowKnight.MagicUI/",

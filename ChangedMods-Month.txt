@@ -17,3 +17,5 @@ BingoSync
 BingoSync
 Nailgod
 SFCore
+GodSeekerPlus
+MagicUI

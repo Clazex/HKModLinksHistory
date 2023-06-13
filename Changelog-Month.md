@@ -55,6 +55,10 @@
 
 - Version: 4.0.2.0 -> 4.0.3.0
 
+### GodSeekerPlus
+
+- Version: 0.24.0.0 -> 0.24.1.0
+
 ### Grass Randomizer
 
 - Version: 1.0.0.0 -> 1.0.1.0
@@ -78,6 +82,10 @@
 ### LoreCore
 
 - Version: 0.4.2.0 -> 0.5.0.0
+
+### MagicUI
+
+- Version: 1.7.8481.39155 -> 1.8.8563.5913
 
 ### SFCore
 

@@ -1,2 +1,2 @@
-Nailgod
-SFCore
+GodSeekerPlus
+MagicUI
