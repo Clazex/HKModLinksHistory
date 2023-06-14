@@ -15,15 +15,6 @@
 - Tags
   + Utility
 
-### Extra Rando
-
-- Description: Randomizer 4 connection with miscellaneous settings.
-- Dependencies
-  + KorzUtils
-  + Randomizer 4
-- Tags
-  + Gameplay
-
 ### FiendMod
 
 - Description: A Hollow Knight mod that replaces the word fool with fiend
@@ -54,6 +45,10 @@
 ### Curse Randomizer
 
 - Version: 4.0.2.0 -> 4.0.3.0
+
+### Extra Rando
+
+- Version: 0.0.1.0 -> 0.0.2.0
 
 ### GodSeekerPlus
 

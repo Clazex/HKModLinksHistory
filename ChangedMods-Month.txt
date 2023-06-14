@@ -1,5 +1,4 @@
 Extra Rando
-Extra Rando
 Curse Randomizer
 Lore Master
 Lore Randomizer
@@ -19,3 +18,4 @@ Nailgod
 SFCore
 GodSeekerPlus
 MagicUI
+BingoSync
