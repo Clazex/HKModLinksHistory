@@ -1,5 +1,4 @@
 BingoSync
-BingoSync
 Nailgod
 SFCore
 GodSeekerPlus

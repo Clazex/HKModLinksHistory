@@ -3,12 +3,6 @@
 
 ## New mods
 
-### BingoSync
-
-- Description: A Hollow Knight mod that automatically marks squares on bingosync.com
-- Dependencies
-  + MagicUI
-
 ### Nailgod
 
 - Description: Sly modded boss.
@@ -17,6 +11,10 @@
 
 
 ## Updated mods
+
+### BingoSync
+
+- Version: 0.0.0.1 -> 0.0.0.3
 
 ### GodSeekerPlus
 
