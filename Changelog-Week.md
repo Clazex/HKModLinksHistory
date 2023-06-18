@@ -1,30 +1,29 @@
 # Changelog
 
 
-## New mods
-
-### Nailgod
-
-- Description: Sly modded boss.
-- Dependencies
-  + Satchel
-
-
 ## Updated mods
 
 ### BingoSync
 
 - Version: 0.0.0.2 -> 0.0.0.3
 
+### Corrupted Kin
+
+- Version: 1.2.0.3 -> 1.2.0.4
+
 ### GodSeekerPlus
 
 - Version: 0.24.0.0 -> 0.24.1.0
+
+### Inferno King Grimm
+
+- Version: 4.1.0.3 -> 4.1.0.4
 
 ### MagicUI
 
 - Version: 1.7.8481.39155 -> 1.8.8563.5913
 
-### SFCore
+### WeaverCore
 
-- Version: 1.5.8.2 -> 1.5.9.0
+- Version: 1.1.0.3 -> 1.2.0.0
 

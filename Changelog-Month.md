@@ -42,13 +42,13 @@
 
 ## Updated mods
 
+### Corrupted Kin
+
+- Version: 1.2.0.3 -> 1.2.0.4
+
 ### Curse Randomizer
 
 - Version: 4.0.2.0 -> 4.0.3.0
-
-### Extra Rando
-
-- Version: 0.0.1.0 -> 0.0.2.0
 
 ### GodSeekerPlus
 
@@ -65,6 +65,10 @@
 ### Hallownest-Vocalized-AudioLoader
 
 - Version: 1.0.0.0 -> 1.0.1.1
+
+### Inferno King Grimm
+
+- Version: 4.1.0.3 -> 4.1.0.4
 
 ### Lore Master
 
@@ -93,4 +97,8 @@
 ### UnityExplorerPlus
 
 - Version: 2.3.0.0 -> 2.4.0.0
+
+### WeaverCore
+
+- Version: 1.1.0.3 -> 1.2.0.0
 

@@ -1,5 +1,6 @@
-Nailgod
-SFCore
 GodSeekerPlus
 MagicUI
 BingoSync
+Corrupted Kin
+Inferno King Grimm
+WeaverCore

@@ -819,11 +819,11 @@
   },
   "Corrupted Kin": {
     "description": "A mod that significantly changes up the Lost Kin bossfight",
-    "version": "1.2.0.3",
+    "version": "1.2.0.4",
     "links": {
       "type": "universal",
-      "sha256": "594E39BB697A372C84DE0054236B55E327466103594D0CB7CA3CD11299AC4C45",
-      "url": "https://github.com/nickc01/Corrupted-Kin/releases/download/v1.2.0.3/CorruptedKin.zip"
+      "sha256": "27E2FA342D3A58EBC31F7E3CB9DBFABF7BAB23AFE85F58EEABA54C7C2C69E6B2",
+      "url": "https://github.com/nickc01/Corrupted-Kin/releases/download/v1.2.0.4/CorruptedKin.zip"
     },
     "dependencies": [
       "WeaverCore"
@@ -2864,11 +2864,11 @@
   },
   "Inferno King Grimm": {
     "description": "A mod that significantly buffs Nightmare King Grimm into a multi-phase fight. It also includes a hard mode that can be configured on the main menu",
-    "version": "4.1.0.3",
+    "version": "4.1.0.4",
     "links": {
       "type": "universal",
-      "sha256": "9A5EE870DCDFCD3409EB91E780C722422992B8AC208CEFC20CA64DC54986A0D5",
-      "url": "https://github.com/nickc01/Inferno-King-Grimm/releases/download/v4.1.0.3/InfernoKingGrimm.zip"
+      "sha256": "53CE157FC3DD17DC88303B18CE238EC3B8CD7B7FB25A2D5C32760EA1DB68AA8B",
+      "url": "https://github.com/nickc01/Inferno-King-Grimm/releases/download/v4.1.0.4/InfernoKingGrimm.zip"
     },
     "dependencies": [
       "WeaverCore"
@@ -5220,11 +5220,11 @@
   },
   "WeaverCore": {
     "description": "Core mod required for mods built with WeaverCore, such as Inferno King Grimm and Corrupted Kin",
-    "version": "1.1.0.3",
+    "version": "1.2.0.0",
     "links": {
       "type": "universal",
-      "sha256": "B56A25F7959347269991FFFBD1F8824E245DBC275DFE6E47140F219D89754380",
-      "url": "https://github.com/nickc01/WeaverCore/releases/download/v1.1.0.3/WeaverCore.zip"
+      "sha256": "CAF0C37A46092B32FB5DBF134025305836657CA9054297536ABF86C237829A40",
+      "url": "https://github.com/nickc01/WeaverCore/releases/download/v1.2.0.0-beta/WeaverCore.zip"
     },
     "dependencies": [],
     "repository": "https://github.com/nickc01/WeaverCore/"
