@@ -11,17 +11,13 @@
 
 - Version: 1.2.0.3 -> 1.2.0.4
 
-### GodSeekerPlus
-
-- Version: 0.24.0.0 -> 0.24.1.0
-
 ### Inferno King Grimm
 
 - Version: 4.1.0.3 -> 4.1.0.4
 
-### MagicUI
+### RecentItemsDisplay
 
-- Version: 1.7.8481.39155 -> 1.8.8563.5913
+- Version: 1.2.1.4 -> 1.2.2.0
 
 ### WeaverCore
 

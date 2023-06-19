@@ -86,6 +86,10 @@
 
 - Version: 1.7.8481.39155 -> 1.8.8563.5913
 
+### RecentItemsDisplay
+
+- Version: 1.2.1.4 -> 1.2.2.0
+
 ### SFCore
 
 - Version: 1.5.8.2 -> 1.5.9.0
