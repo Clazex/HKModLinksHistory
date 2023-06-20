@@ -1,5 +1,5 @@
-BingoSync
 Corrupted Kin
 Inferno King Grimm
 WeaverCore
 RecentItemsDisplay
+Enemy Randomizer

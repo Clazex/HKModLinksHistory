@@ -3,7 +3,10 @@
 
 ## Updated mods
 
-### RecentItemsDisplay
+### Enemy Randomizer
 
-- Version: 1.2.1.4 -> 1.2.2.0
+- Version: 2023.0.8504.29513 -> 2023.0.8570.24099
+- Description
+  + Old: Mod for randomizing enemies, hazards, and effects.
+  + New: Mod for randomizing the enemies and related things.
 

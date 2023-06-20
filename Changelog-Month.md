@@ -46,9 +46,12 @@
 
 - Version: 1.2.0.3 -> 1.2.0.4
 
-### Curse Randomizer
+### Enemy Randomizer
 
-- Version: 4.0.2.0 -> 4.0.3.0
+- Version: 2023.0.8504.29513 -> 2023.0.8570.24099
+- Description
+  + Old: Mod for randomizing enemies, hazards, and effects.
+  + New: Mod for randomizing the enemies and related things.
 
 ### GodSeekerPlus
 
@@ -69,18 +72,6 @@
 ### Inferno King Grimm
 
 - Version: 4.1.0.3 -> 4.1.0.4
-
-### Lore Master
-
-- Version: 2.3.2.0 -> 2.3.3.0
-
-### Lore Randomizer
-
-- Version: 0.1.5.0 -> 0.2.0.0
-
-### LoreCore
-
-- Version: 0.4.2.0 -> 0.5.0.0
 
 ### MagicUI
 
