@@ -1,11 +1,9 @@
 # Changelog
 
 
-## New mods
+## Updated mods
 
 ### BingoSync
 
-- Description: A Hollow Knight mod that automatically marks squares on bingosync.com
-- Dependencies
-  + MagicUI
+- Version: 0.0.0.1 -> 0.0.0.2
 

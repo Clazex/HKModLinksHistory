@@ -57,10 +57,6 @@
 
 - Version: 0.24.0.0 -> 0.24.1.0
 
-### Grass Randomizer
-
-- Version: 1.0.0.0 -> 1.0.1.0
-
 ### Hallownest-Vocalized
 
 - Version: 1.0.0.0 -> 1.0.1.1

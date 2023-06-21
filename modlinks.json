@@ -2209,10 +2209,16 @@
     "links": {
       "type": "universal",
       "sha256": "C3D2FE63C8DBDE25F0D85B8EE780F4D2651E4992E5E59DF52DA8FC9EFDA8C031",
-      "url": "https://github.com/mandar1jn/GoldenGodhome/releases/download/1.1.0/GoldenGodhome.zip"
+      "url": "https://github.com/Fyremoth-project/GoldenGodhome/releases/download/1.1.0/GoldenGodhome.zip"
     },
     "dependencies": [],
-    "repository": "https://github.com/mandar1jn/GoldenGodhome/"
+    "repository": "https://github.com/Fyremoth-project/GoldenGodhome/",
+    "authors": [
+      "Godfriend",
+      "Mandar1jn",
+      "RedFrog",
+      "Rusty"
+    ]
   },
   "Gorb Plus": {
     "description": "A mod that adds an additional attack when fighting gorb: a nail barrage.",
