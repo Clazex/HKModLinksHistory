@@ -1,4 +1,3 @@
-CursedMod 🕶
 Floor Time Counter
 Hallownest-Vocalized
 Hallownest-Vocalized-AudioLoader
@@ -18,3 +17,4 @@ Inferno King Grimm
 WeaverCore
 RecentItemsDisplay
 Enemy Randomizer
+Grub Names

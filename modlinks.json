@@ -2353,11 +2353,11 @@
   },
   "Grub Names": {
     "description": "ItemChanger/Randomizer 4 add-on that replaces Grub names with Skurry's Grub names",
-    "version": "1.0.0.0",
+    "version": "2.0.0.2",
     "links": {
       "type": "universal",
-      "sha256": "D2CD9F08010975A4A1385AC2619964B8A00E4838A98F2554DAEAD426B46C4D9E",
-      "url": "https://github.com/CharlesGameDev/GrubNames/releases/download/release/GrubNames1.0.0.0.zip"
+      "sha256": "0430D64DB2260791915041DAF7D1CA04E908987786289B9604ECEC0FB77BB827",
+      "url": "https://github.com/CharlesGameDev/GrubNames/releases/download/2.0.0.2/GrubNames2.0.0.2.zip"
     },
     "dependencies": [
       "ItemChanger"
@@ -2367,7 +2367,8 @@
       "Gameplay"
     ],
     "authors": [
-      "CharlesGameDev"
+      "CharlesGameDev",
+      "limchi"
     ]
   },
   "GrubTrain": {

@@ -9,12 +9,6 @@
 - Dependencies
   + MagicUI
 
-### CursedMod 🕶
-
-- Description: This mod does miscellaneous stuff. Like making the game window be dark mode on windows.
-- Tags
-  + Utility
-
 ### FiendMod
 
 - Description: A Hollow Knight mod that replaces the word fool with fiend
@@ -56,6 +50,10 @@
 ### GodSeekerPlus
 
 - Version: 0.24.0.0 -> 0.24.1.0
+
+### Grub Names
+
+- Version: 1.0.0.0 -> 2.0.0.2
 
 ### Hallownest-Vocalized
 

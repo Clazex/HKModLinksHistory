@@ -1,4 +1,3 @@
-CursedMod 🕶
 Floor Time Counter
 FiendMod
 NoDying
