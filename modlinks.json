@@ -2287,14 +2287,17 @@
   },
   "GrassyKnight": {
     "description": "Tracks and shows you how much grass you've cut.",
-    "version": "2.0.0.30723",
+    "version": "2.1.0.35425",
     "links": {
       "type": "universal",
-      "sha256": "6D796C226E48972CE8E7950CB058A54928B9CADE702939BD85414B4F04F4DACC",
-      "url": "https://github.com/flibber-hk/GrassyKnight/releases/download/v2.0.0.30723/GrassyKnight.zip"
+      "sha256": "9F12921E792DF2243366456C958D5E1558E051F70D1AC8D5EDC4B70E203285B2",
+      "url": "https://github.com/flibber-hk/GrassyKnight/releases/download/v2.1.0.35425/GrassyKnight.zip"
     },
     "dependencies": [],
     "repository": "https://github.com/flibber-hk/GrassyKnight",
+    "integrations": [
+      "Grass Randomizer"
+    ],
     "authors": [
       "Flibber",
       "dvoyer",
@@ -4555,11 +4558,11 @@
   },
   "Scatternest": {
     "description": "Addon for Randomizer and ItemSync allowing players to start at multiple different locations.",
-    "version": "1.0.0.0",
+    "version": "1.0.1.0",
     "links": {
       "type": "universal",
-      "sha256": "9318236313755062E4FAA9BE074BCCEF3902A6F074F04B568752DBE4777BE636",
-      "url": "https://github.com/flibber-hk/HollowKnight.Scatternest/releases/download/v1.0.0.0/Scatternest.zip"
+      "sha256": "7F8A275E65E31AAAD91B0ECEEEE0314EDFB73A82CD0228C3D080DD215F2A03A9",
+      "url": "https://github.com/flibber-hk/HollowKnight.Scatternest/releases/download/v1.0.1.0/Scatternest.zip"
     },
     "dependencies": [
       "Randomizer 4"

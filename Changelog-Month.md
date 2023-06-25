@@ -51,6 +51,13 @@
 
 - Version: 0.24.0.0 -> 0.24.1.0
 
+### GrassyKnight
+
+- Version: 2.0.0.30723 -> 2.1.0.35425
+- Integrations
+  + Added
+    - Grass Randomizer
+
 ### Grub Names
 
 - Version: 1.0.0.0 -> 2.0.0.2
@@ -78,6 +85,10 @@
 ### SFCore
 
 - Version: 1.5.8.2 -> 1.5.9.0
+
+### Scatternest
+
+- Version: 1.0.0.0 -> 1.0.1.0
 
 ### Test of Teamwork
 

@@ -1,3 +1,4 @@
-RecentItemsDisplay
 Enemy Randomizer
 Grub Names
+GrassyKnight
+Scatternest

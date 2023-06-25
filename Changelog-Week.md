@@ -10,11 +10,18 @@
   + Old: Mod for randomizing enemies, hazards, and effects.
   + New: Mod for randomizing the enemies and related things.
 
+### GrassyKnight
+
+- Version: 2.0.0.30723 -> 2.1.0.35425
+- Integrations
+  + Added
+    - Grass Randomizer
+
 ### Grub Names
 
 - Version: 1.0.0.0 -> 2.0.0.2
 
-### RecentItemsDisplay
+### Scatternest
 
-- Version: 1.2.1.4 -> 1.2.2.0
+- Version: 1.0.0.0 -> 1.0.1.0
 
