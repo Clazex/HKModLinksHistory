@@ -2719,12 +2719,12 @@
     "repository": "https://github.com/fifty-six/HollowKnight.HellMod/"
   },
   "Hide Mod List": {
-    "description": "Allows you to hide your modlist",
-    "version": "0.2.2.1",
+    "description": "Allows you to hide your mod list or reduce the space the mod list takes on the screen.",
+    "version": "0.2.3.0",
     "links": {
       "type": "universal",
-      "sha256": "88268DD32BDC632C2004BA9CF62A308F796DD9D142CAC8C4FB38CFE1896E7F47",
-      "url": "https://github.com/TheMulhima/HollowKnight.HideModList/releases/download/v2.2.1/HideModList.zip"
+      "sha256": "4F68055EA5E2E88493E56E4AF3D74C3BFF729AF4CE994491F3347E00F341E59B",
+      "url": "https://github.com/TheMulhima/HollowKnight.HideModList/releases/download/v2.3/HideModList.zip"
     },
     "dependencies": [],
     "repository": "https://github.com/TheMulhima/HollowKnight.HideModList/",

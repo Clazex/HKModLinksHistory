@@ -15,3 +15,4 @@ Enemy Randomizer
 Grub Names
 GrassyKnight
 Scatternest
+Hide Mod List
