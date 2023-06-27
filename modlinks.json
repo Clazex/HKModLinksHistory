@@ -2608,11 +2608,11 @@
   },
   "Hallownest-Vocalized": {
     "description": "Adds English voice acting to all Hollow Knight's in-game dialogue.",
-    "version": "1.0.1.1",
+    "version": "1.0.1.2",
     "links": {
       "type": "universal",
-      "sha256": "9ED326C5F00037423B7E9ECC96D6157D37B0C0B2A3910F39A8FD2D5A801151E6",
-      "url": "https://github.com/Hallownest-Vocalized/Hallownest-Vocalized/releases/download/0.0.1.1/HKVocal.zip"
+      "sha256": "F9529A1D664C1020DD4AFE6A7E06BF77EEA614F5E5079E726CF5F7704CD01EFC",
+      "url": "https://github.com/Hallownest-Vocalized/Hallownest-Vocalized/releases/download/0.0.1.2/HKVocal.zip"
     },
     "dependencies": [
       "Core.FsmUtil",

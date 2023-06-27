@@ -64,7 +64,7 @@
 
 ### Hallownest-Vocalized
 
-- Version: 1.0.0.0 -> 1.0.1.1
+- Version: 1.0.0.0 -> 1.0.1.2
 
 ### Hallownest-Vocalized-AudioLoader
 

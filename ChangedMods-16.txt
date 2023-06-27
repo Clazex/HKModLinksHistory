@@ -1,1 +1,2 @@
-BingoSync
+Nailgod
+SFCore

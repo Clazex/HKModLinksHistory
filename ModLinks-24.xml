@@ -2,6 +2,22 @@
 <ModLinks xmlns="https://github.com/HollowKnight-Modding/HollowKnight.ModLinks/HollowKnight.ModManager"
     xmlns:xsd="http://www.w3.org/2001/XMLSchema"
     xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://raw.githubusercontent.com/HollowKnight-Modding/HollowKnight.ModLinks/main/Schemas/ModLinks.xml">
+<Manifest>
+    <Name>FiendMod</Name>
+    <Description>A Hollow Knight mod that replaces the word fool with fiend</Description>
+    <Version>1.0.0.0</Version>
+    <Link SHA256="FD1131817F2F6FF7ED4FF46CA51176DA1D6E896B4BE93BF32C42E0C7E679964E"><![CDATA[https://github.com/Zickles/FiendMod/releases/download/1.0.0.0/FiendMod.zip]]></Link>
+    <Dependencies/>
+    <Repository>
+        <![CDATA[https://github.com/Zickles/FiendMod]]>
+    </Repository>
+    <Tags>
+        <Tag>Cosmetic</Tag>
+    </Tags>
+    <Authors>
+        <Author>Zickles</Author>
+    </Authors>
+ </Manifest>
   <Manifest>
     <Name>Floor Time Counter</Name>
     <Description>Adds a counter for how many frames you've touched the ground.</Description>
@@ -2367,6 +2383,21 @@ This is a singleplayer mod. The "teamwork" refers to in-game events.</Descriptio
         </Authors>
     </Manifest>
     <Manifest>
+        <Name>NoDying</Name>
+        <Description>A simple mod that doesn't allow your health to go below 1 health</Description>
+        <Version>1.0.0.0</Version>
+        <Link SHA256="47415A24C018A6BA5BA7EE78065013CF425FCA19ADF67449E925E7E102426709">
+            <![CDATA[https://github.com/TheMulhima/NoDying/releases/download/v1.0.0.0/NoDying.zip]]>
+        </Link>
+        <Dependencies/>
+        <Repository>
+            <![CDATA[https://github.com/TheMulhima/NoDying/]]>
+        </Repository>
+        <Authors>
+            <Author>Mulhima</Author>
+        </Authors>
+    </Manifest>
+    <Manifest>
         <Name>WeaverCore</Name>
         <Description>Core mod required for mods built with WeaverCore, such as Inferno King Grimm and Corrupted Kin</Description>
         <Version>1.1.0.3</Version>
@@ -3905,9 +3936,9 @@ This is a singleplayer mod. The "teamwork" refers to in-game events.</Descriptio
     <Manifest>
         <Name>UnityExplorerPlus</Name>
         <Description>A mod that adds functionality to UnityExplorer</Description>
-        <Version>2.3.0.0</Version>
-        <Link SHA256="B630B9CE79581383A9953B66D9B8598CDC35FB1EA58A67B8BAD65FEE9988C17D">
-            <![CDATA[https://github.com/HKLab/UnityExplorerPlus/releases/download/v2.4.0/Publish.zip]]>
+        <Version>2.4.0.0</Version>
+        <Link SHA256="ED99CB6206728965F6AAD28FF8BC9554E2A825E449173F7369D4C18509BAF1FE">
+            <![CDATA[https://github.com/HKLab/UnityExplorerPlus/releases/download/v2.5.0.0/Publish.zip]]>
         </Link>
         <Dependencies>
             <Dependency>HKTool</Dependency>
