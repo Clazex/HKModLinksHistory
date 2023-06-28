@@ -15,14 +15,6 @@
 - Tags
   + Cosmetic
 
-### Floor Time Counter
-
-- Description: Adds a counter for how many frames you&#x27;ve touched the ground.
-- Dependencies
-  + MagicUI
-- Tags
-  + Cosmetic
-
 ### Nailgod
 
 - Description: Sly modded boss.
@@ -33,6 +25,12 @@
 
 - Description: A simple mod that doesn&#x27;t allow your health to go below 1 health
 
+### Soul Paladin
+
+- Description: A mod that speeds up the Soul Warrior fight and modifies it&#x27;s attacks.
+- Dependencies
+  + Vasi
+
 
 ## Updated mods
 
@@ -42,7 +40,7 @@
 
 ### Enemy Randomizer
 
-- Version: 2023.0.8504.29513 -> 2023.0.8570.24099
+- Version: 2023.0.8504.29513 -> 2023.0.8578.26385
 - Description
   + Old: Mod for randomizing enemies, hazards, and effects.
   + New: Mod for randomizing the enemies and related things.

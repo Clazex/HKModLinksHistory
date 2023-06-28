@@ -1620,11 +1620,11 @@
   },
   "Enemy Randomizer": {
     "description": "Mod for randomizing the enemies and related things.",
-    "version": "2023.0.8570.24099",
+    "version": "2023.0.8578.26385",
     "links": {
       "type": "universal",
-      "sha256": "129D1E4385235F4114F89D4612D31DB9D7FCD74ADC41EB9DA3B689BBD1DA3D5F",
-      "url": "https://github.com/Kerr1291/EnemyRandomizer/releases/download/2023.0.8570.24099/EnemyRandomizer_Alpha9_1_2.zip"
+      "sha256": "51DB50C124B10FE085DBC9989AB63FF9FD44EE2EC4B7EFB2EB04DE4046F0A76B",
+      "url": "https://github.com/Kerr1291/EnemyRandomizer/releases/download/2023.0.8578.26385/EnemyRandomizer_Alpha9_2.zip"
     },
     "dependencies": [
       "Satchel"
@@ -4797,6 +4797,19 @@
       "God Knight Jester",
       "Pro"
     ]
+  },
+  "Soul Paladin": {
+    "description": "A mod that speeds up the Soul Warrior fight and modifies it's attacks.",
+    "version": "0.0.0.3",
+    "links": {
+      "type": "universal",
+      "sha256": "CBC437B25329460A1CA4DA1326437917F8FA0ABF4552F7D9CFF83C23EC9294E6",
+      "url": "https://github.com/Samihamer1/Hollow-Knight-Soul-Paladin/releases/download/v0.0.0.3/SoulPaladin0003.zip"
+    },
+    "dependencies": [
+      "Vasi"
+    ],
+    "repository": "https://github.com/Samihamer1/Hollow-Knight-Soul-Paladin"
   },
   "SpeedRunQoL": {
     "description": "A debug Add On that adds new keybinds that are QoL for speedrunning practice. Currently adds Position Save States, Glitched Binds, Force Extra Uumuu attack and radiance quick reload",
