@@ -4,3 +4,4 @@ Scatternest
 Hide Mod List
 Hallownest-Vocalized
 Enemy Randomizer
+Enemy Randomizer

@@ -40,7 +40,7 @@
 
 ### Enemy Randomizer
 
-- Version: 2023.0.8504.29513 -> 2023.0.8578.26385
+- Version: 2023.0.8504.29513 -> 2023.0.8579.21244
 - Description
   + Old: Mod for randomizing enemies, hazards, and effects.
   + New: Mod for randomizing the enemies and related things.
