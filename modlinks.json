@@ -1620,11 +1620,11 @@
   },
   "Enemy Randomizer": {
     "description": "Mod for randomizing the enemies and related things.",
-    "version": "2023.0.8579.21244",
+    "version": "2023.0.8580.23150",
     "links": {
       "type": "universal",
-      "sha256": "A5788331B5F91C4F8DBAEFB6E61DF82F515A47E4D8AABBE3E8399D94550AFA43",
-      "url": "https://github.com/Kerr1291/EnemyRandomizer/releases/download/2023.0.8579.21244/EnemyRandomizer_Alpha9_2_2.zip"
+      "sha256": "B3F4D7852D3F4B561615782AFB4455077BB97CB9C916AD44DFB9B6226D320F3D",
+      "url": "https://github.com/Kerr1291/EnemyRandomizer/releases/download/2023.0.8580.23150/EnemyRandomizer_Alpha9_2_4.zip"
     },
     "dependencies": [
       "Satchel"

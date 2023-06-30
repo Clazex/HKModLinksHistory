@@ -14,7 +14,7 @@
 
 ### Enemy Randomizer
 
-- Version: 2023.0.8570.24099 -> 2023.0.8579.21244
+- Version: 2023.0.8570.24099 -> 2023.0.8580.23150
 
 ### GrassyKnight
 
@@ -22,10 +22,6 @@
 - Integrations
   + Added
     - Grass Randomizer
-
-### Grub Names
-
-- Version: 1.0.0.0 -> 2.0.0.2
 
 ### Hallownest-Vocalized
 

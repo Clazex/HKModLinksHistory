@@ -1,6 +1,3 @@
-Hallownest-Vocalized
-Hallownest-Vocalized-AudioLoader
-Test of Teamwork
 FiendMod
 NoDying
 UnityExplorerPlus
@@ -23,4 +20,5 @@ Hide Mod List
 Hallownest-Vocalized
 Enemy Randomizer
 Soul Paladin
+Enemy Randomizer
 Enemy Randomizer

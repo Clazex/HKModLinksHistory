@@ -40,7 +40,7 @@
 
 ### Enemy Randomizer
 
-- Version: 2023.0.8504.29513 -> 2023.0.8579.21244
+- Version: 2023.0.8504.29513 -> 2023.0.8580.23150
 - Description
   + Old: Mod for randomizing enemies, hazards, and effects.
   + New: Mod for randomizing the enemies and related things.
@@ -62,11 +62,7 @@
 
 ### Hallownest-Vocalized
 
-- Version: 1.0.0.0 -> 1.0.1.2
-
-### Hallownest-Vocalized-AudioLoader
-
-- Version: 1.0.0.0 -> 1.0.1.1
+- Version: 1.0.1.1 -> 1.0.1.2
 
 ### Hide Mod List
 
@@ -94,10 +90,6 @@
 ### Scatternest
 
 - Version: 1.0.0.0 -> 1.0.1.0
-
-### Test of Teamwork
-
-- Version: 1.5.78.1 -> 1.5.79.0
 
 ### UnityExplorerPlus
 
