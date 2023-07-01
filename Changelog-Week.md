@@ -16,12 +16,9 @@
 
 - Version: 2023.0.8570.24099 -> 2023.0.8580.23150
 
-### GrassyKnight
+### FrogCore
 
-- Version: 2.0.0.30723 -> 2.1.0.35425
-- Integrations
-  + Added
-    - Grass Randomizer
+- Version: 2.0.0.1 -> 2.0.0.2
 
 ### Hallownest-Vocalized
 
@@ -33,8 +30,4 @@
 - Description
   + Old: Allows you to hide your modlist
   + New: Allows you to hide your mod list or reduce the space the mod list takes on the screen.
-
-### Scatternest
-
-- Version: 1.0.0.0 -> 1.0.1.0
 

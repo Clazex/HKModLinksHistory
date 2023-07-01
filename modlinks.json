@@ -1929,11 +1929,11 @@
   },
   "FrogCore": {
     "description": "Library mod containing helpers for adding journal entries and npcs and many tk2d extension methods for editing and creating sprite collections and animations",
-    "version": "2.0.0.1",
+    "version": "2.0.0.2",
     "links": {
       "type": "universal",
-      "sha256": "FF89E538B74A7CDC7A5554B28E94F64646860768E0C6D7ADF4E15B6EB263E455",
-      "url": "https://github.com/RedFrog6002/FrogCore/releases/download/2.0.0.0/FrogCore.zip"
+      "sha256": "FDDBA4F9EA212A0E5EDC72821FC574024B5F4D477EE94BB069655081D07D9B24",
+      "url": "https://github.com/RedFrog6002/FrogCore/releases/download/2.0.0.1/FrogCore.zip"
     },
     "dependencies": [],
     "repository": "https://github.com/RedFrog6002/FrogCore/",

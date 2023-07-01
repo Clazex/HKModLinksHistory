@@ -3,7 +3,7 @@
 
 ## Updated mods
 
-### Enemy Randomizer
+### FrogCore
 
-- Version: 2023.0.8579.21244 -> 2023.0.8580.23150
+- Version: 2.0.0.1 -> 2.0.0.2
 

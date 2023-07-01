@@ -45,6 +45,10 @@
   + Old: Mod for randomizing enemies, hazards, and effects.
   + New: Mod for randomizing the enemies and related things.
 
+### FrogCore
+
+- Version: 2.0.0.1 -> 2.0.0.2
+
 ### GodSeekerPlus
 
 - Version: 0.24.0.0 -> 0.24.1.0
