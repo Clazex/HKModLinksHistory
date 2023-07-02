@@ -1,9 +1,18 @@
 # Changelog
 
 
+## New mods
+
+### Nailgod
+
+- Description: Sly modded boss.
+- Dependencies
+  + Satchel
+
+
 ## Updated mods
 
-### BingoSync
+### SFCore
 
-- Version: 0.0.0.1 -> 0.0.0.2
+- Version: 1.5.8.2 -> 1.5.9.0
 

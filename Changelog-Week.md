@@ -3,6 +3,24 @@
 
 ## New mods
 
+### Pale Court
+
+- Description: Challenge Hallownest&#x27;s mightiest champions in grand combat!
+Overcome your opponents with powerful new charms!
+Discover new secrets and stories!
+All with an incredible new soundtrack!
+- Dependencies
+  + FrogCore
+  + SFCore
+  + Vasi
+- Integrations
+  + Enemy HP Bar
+  + GodSeekerPlus
+- Tags
+  + Boss
+  + Expansion
+  + Gameplay
+
 ### Soul Paladin
 
 - Description: A mod that speeds up the Soul Warrior fight and modifies it&#x27;s attacks.
@@ -23,11 +41,4 @@
 ### Hallownest-Vocalized
 
 - Version: 1.0.1.1 -> 1.0.1.2
-
-### Hide Mod List
-
-- Version: 0.2.2.1 -> 0.2.3.0
-- Description
-  + Old: Allows you to hide your modlist
-  + New: Allows you to hide your mod list or reduce the space the mod list takes on the screen.
 
