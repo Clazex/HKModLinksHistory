@@ -38,7 +38,3 @@ All with an incredible new soundtrack!
 
 - Version: 2.0.0.1 -> 2.0.0.2
 
-### Hallownest-Vocalized
-
-- Version: 1.0.1.1 -> 1.0.1.2
-

@@ -3,15 +3,7 @@
 
 ## Updated mods
 
-### Corrupted Kin
+### RecentItemsDisplay
 
-- Version: 1.2.0.3 -> 1.2.0.4
-
-### Inferno King Grimm
-
-- Version: 4.1.0.3 -> 4.1.0.4
-
-### WeaverCore
-
-- Version: 1.1.0.3 -> 1.2.0.0
+- Version: 1.2.1.4 -> 1.2.2.0
 

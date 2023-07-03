@@ -1,6 +1,3 @@
-FiendMod
-NoDying
-UnityExplorerPlus
 BingoSync
 BingoSync
 Nailgod

@@ -9,21 +9,11 @@
 - Dependencies
   + MagicUI
 
-### FiendMod
-
-- Description: A Hollow Knight mod that replaces the word fool with fiend
-- Tags
-  + Cosmetic
-
 ### Nailgod
 
 - Description: Sly modded boss.
 - Dependencies
   + Satchel
-
-### NoDying
-
-- Description: A simple mod that doesn&#x27;t allow your health to go below 1 health
 
 ### Pale Court
 
@@ -112,10 +102,6 @@ All with an incredible new soundtrack!
 ### Scatternest
 
 - Version: 1.0.0.0 -> 1.0.1.0
-
-### UnityExplorerPlus
-
-- Version: 2.3.0.0 -> 2.4.0.0
 
 ### WeaverCore
 
