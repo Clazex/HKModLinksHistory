@@ -21,18 +21,12 @@ All with an incredible new soundtrack!
   + Expansion
   + Gameplay
 
-### Soul Paladin
-
-- Description: A mod that speeds up the Soul Warrior fight and modifies it&#x27;s attacks.
-- Dependencies
-  + Vasi
-
 
 ## Updated mods
 
 ### Enemy Randomizer
 
-- Version: 2023.0.8570.24099 -> 2023.0.8580.23150
+- Version: 2023.0.8578.26385 -> 2023.0.8580.23150
 
 ### FrogCore
 
