@@ -26,7 +26,7 @@ All with an incredible new soundtrack!
 
 ### Enemy Randomizer
 
-- Version: 2023.0.8578.26385 -> 2023.0.8580.23150
+- Version: 2023.0.8579.21244 -> 2023.0.8580.23150
 
 ### FrogCore
 

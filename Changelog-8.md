@@ -1,9 +1,18 @@
 # Changelog
 
 
+## New mods
+
+### Soul Paladin
+
+- Description: A mod that speeds up the Soul Warrior fight and modifies it&#x27;s attacks.
+- Dependencies
+  + Vasi
+
+
 ## Updated mods
 
-### Hallownest-Vocalized
+### Enemy Randomizer
 
-- Version: 1.0.1.1 -> 1.0.1.2
+- Version: 2023.0.8570.24099 -> 2023.0.8578.26385
 
