@@ -3772,11 +3772,21 @@
   },
   "Pale Court": {
     "description": "Challenge Hallownest's mightiest champions in grand combat!\nOvercome your opponents with powerful new charms!\nDiscover new secrets and stories!\nAll with an incredible new soundtrack!",
-    "version": "1.0.0.1",
+    "version": "1.0.0.4",
     "links": {
-      "type": "universal",
-      "sha256": "4172E140AAED794B4CBBF5DCD6EF8F27B09CE3E880613E6EBB43BD6D0F610692",
-      "url": "https://github.com/PaleCourt/PaleCourt/releases/download/1.0.0.1/PaleCourt.zip"
+      "type": "platform-dependent",
+      "windows": {
+        "sha256": "EB3C4CE478AFDAB3D2085B2E33BD7AE1AC398B4C82FBBBB485029004B93F8CE4",
+        "url": "https://github.com/PaleCourt/PaleCourt/releases/download/1.0.0.4/PaleCourt-Win.zip"
+      },
+      "mac": {
+        "sha256": "E00FF8C20E3052C4E09C5A773C59E28B87C0DB62E77C8627AE56BB07B47B319A",
+        "url": "https://github.com/PaleCourt/PaleCourt/releases/download/1.0.0.4/PaleCourt-Mac.zip"
+      },
+      "linux": {
+        "sha256": "EB3C4CE478AFDAB3D2085B2E33BD7AE1AC398B4C82FBBBB485029004B93F8CE4",
+        "url": "https://github.com/PaleCourt/PaleCourt/releases/download/1.0.0.4/PaleCourt-Win.zip"
+      }
     },
     "dependencies": [
       "FrogCore",

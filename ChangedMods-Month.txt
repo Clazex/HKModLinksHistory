@@ -21,3 +21,4 @@ Enemy Randomizer
 Enemy Randomizer
 FrogCore
 Pale Court
+Pale Court
