@@ -967,9 +967,9 @@
     <Manifest>
         <Name>Enemy Randomizer</Name>
         <Description>Mod for randomizing the enemies and related things.</Description>
-        <Version>2023.0.8570.24099</Version>
-        <Link SHA256="129D1E4385235F4114F89D4612D31DB9D7FCD74ADC41EB9DA3B689BBD1DA3D5F">
-            <![CDATA[https://github.com/Kerr1291/EnemyRandomizer/releases/download/2023.0.8570.24099/EnemyRandomizer_Alpha9_1_2.zip]]>
+        <Version>2023.0.8578.26385</Version>
+        <Link SHA256="51DB50C124B10FE085DBC9989AB63FF9FD44EE2EC4B7EFB2EB04DE4046F0A76B">
+            <![CDATA[https://github.com/Kerr1291/EnemyRandomizer/releases/download/2023.0.8578.26385/EnemyRandomizer_Alpha9_2.zip]]>
         </Link>
         <Dependencies>
             <Dependency>Satchel</Dependency>
@@ -5559,6 +5559,20 @@ This is a singleplayer mod. The "teamwork" refers to in-game events.</Descriptio
         </Dependencies>
         <Repository>
             <![CDATA[https://github.com/pedroteosousa/HollowKnight.BingoSync]]>
+        </Repository>
+    </Manifest>
+     <Manifest>
+        <Name>Soul Paladin</Name>
+        <Description>A mod that speeds up the Soul Warrior fight and modifies it's attacks.</Description>
+        <Version>0.0.0.3</Version>
+        <Link SHA256="CBC437B25329460A1CA4DA1326437917F8FA0ABF4552F7D9CFF83C23EC9294E6">
+            <![CDATA[https://github.com/Samihamer1/Hollow-Knight-Soul-Paladin/releases/download/v0.0.0.3/SoulPaladin0003.zip]]>
+        </Link>
+        <Dependencies>
+            <Dependency>Vasi</Dependency>
+        </Dependencies>
+        <Repository>
+            <![CDATA[https://github.com/Samihamer1/Hollow-Knight-Soul-Paladin]]>
         </Repository>
     </Manifest>
 </ModLinks>

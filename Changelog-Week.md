@@ -21,10 +21,3 @@ All with an incredible new soundtrack!
   + Expansion
   + Gameplay
 
-
-## Updated mods
-
-### FrogCore
-
-- Version: 2.0.0.1 -> 2.0.0.2
-
