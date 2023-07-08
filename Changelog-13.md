@@ -3,14 +3,10 @@
 
 ## Updated mods
 
-### GrassyKnight
+### Hide Mod List
 
-- Version: 2.0.0.30723 -> 2.1.0.35425
-- Integrations
-  + Added
-    - Grass Randomizer
-
-### Scatternest
-
-- Version: 1.0.0.0 -> 1.0.1.0
+- Version: 0.2.2.1 -> 0.2.3.0
+- Description
+  + Old: Allows you to hide your modlist
+  + New: Allows you to hide your mod list or reduce the space the mod list takes on the screen.
 
