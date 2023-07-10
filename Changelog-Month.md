@@ -38,7 +38,7 @@ All with an incredible new soundtrack!
 
 ### BingoSync
 
-- Version: 0.0.0.1 -> 0.0.0.3
+- Version: 0.0.0.2 -> 0.0.0.3
 
 ### Corrupted Kin
 
@@ -100,6 +100,10 @@ All with an incredible new soundtrack!
 ### Scatternest
 
 - Version: 1.0.0.0 -> 1.0.1.0
+
+### UnityExplorerPlus
+
+- Version: 2.4.0.0 -> 2.6.0.0
 
 ### WeaverCore
 

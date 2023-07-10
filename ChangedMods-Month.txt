@@ -1,4 +1,3 @@
-BingoSync
 Nailgod
 SFCore
 GodSeekerPlus
@@ -21,3 +20,4 @@ Enemy Randomizer
 FrogCore
 Pale Court
 Pale Court
+UnityExplorerPlus

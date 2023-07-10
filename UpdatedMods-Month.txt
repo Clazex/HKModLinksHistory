@@ -1,4 +1,3 @@
-BingoSync
 SFCore
 GodSeekerPlus
 MagicUI
@@ -18,3 +17,4 @@ Enemy Randomizer
 Enemy Randomizer
 FrogCore
 Pale Court
+UnityExplorerPlus
