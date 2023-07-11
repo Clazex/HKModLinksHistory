@@ -1,4 +1,3 @@
-SFCore
 GodSeekerPlus
 MagicUI
 BingoSync

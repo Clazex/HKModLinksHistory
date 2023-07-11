@@ -1,5 +1,3 @@
-Nailgod
-SFCore
 GodSeekerPlus
 MagicUI
 BingoSync

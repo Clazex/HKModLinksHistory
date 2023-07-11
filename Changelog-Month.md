@@ -3,12 +3,6 @@
 
 ## New mods
 
-### Nailgod
-
-- Description: Sly modded boss.
-- Dependencies
-  + Satchel
-
 ### Pale Court
 
 - Description: Challenge Hallownest&#x27;s mightiest champions in grand combat!
@@ -92,10 +86,6 @@ All with an incredible new soundtrack!
 ### RecentItemsDisplay
 
 - Version: 1.2.1.4 -> 1.2.2.0
-
-### SFCore
-
-- Version: 1.5.8.2 -> 1.5.9.0
 
 ### Scatternest
 
