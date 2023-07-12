@@ -166,7 +166,7 @@
     "links": {
       "type": "universal",
       "sha256": "603662BE702D9A35D45EB2F65960133E0E34CF64C84E32A745320C35B21AE492",
-      "url": "https://github.com/Ijwu/Archipelago.HollowKnight/releases/download/0.1.1.2/Archipelago.zip"
+      "url": "https://github.com/ArchipelagoMW-HollowKnight/Archipelago.HollowKnight/releases/download/0.1.1.2/Archipelago.zip"
     },
     "dependencies": [
       "Benchwarp",
@@ -174,7 +174,7 @@
       "MenuChanger",
       "QoL"
     ],
-    "repository": "https://github.com/Ijwu/Archipelago.HollowKnight/"
+    "repository": "https://github.com/ArchipelagoMW-HollowKnight/Archipelago.HollowKnight/"
   },
   "Archipelago Map Mod": {
     "description": "A conversion of the\n            Map Mod S that works with Archipelago Randomizer",
@@ -182,7 +182,7 @@
     "links": {
       "type": "universal",
       "sha256": "51572F3CB5A132285BCFF7EFE129E442967760CDC410C3E7E8774FFB94DC269C",
-      "url": "https://github.com/KonoTyran/HollowKnight.ArchipelagoMapMod/releases/download/V1.0.0/APMapMod.zip"
+      "url": "https://github.com/ArchipelagoMW-HollowKnight/HollowKnight.ArchipelagoMapMod/releases/download/V1.0.0/APMapMod.zip"
     },
     "dependencies": [
       "Archipelago",
@@ -193,7 +193,7 @@
       "Satchel",
       "Vasi"
     ],
-    "repository": "https://github.com/KonoTyran/HollowKnight.ArchipelagoMapMod/",
+    "repository": "https://github.com/ArchipelagoMW-HollowKnight/HollowKnight.ArchipelagoMapMod/",
     "integrations": [
       "AdditionalMaps",
       "Benchwarp"
@@ -819,16 +819,23 @@
   },
   "Corrupted Kin": {
     "description": "A mod that significantly changes up the Lost Kin bossfight",
-    "version": "1.2.0.4",
+    "version": "1.3.0.0",
     "links": {
       "type": "universal",
-      "sha256": "27E2FA342D3A58EBC31F7E3CB9DBFABF7BAB23AFE85F58EEABA54C7C2C69E6B2",
-      "url": "https://github.com/nickc01/Corrupted-Kin/releases/download/v1.2.0.4/CorruptedKin.zip"
+      "sha256": "7B3495C2AA28D47F7B5AF18F1DE6D30AC1697AE043D5328C402E6C18E23A702E",
+      "url": "https://github.com/nickc01/Corrupted-Kin/releases/download/v1.3.0.0/CorruptedKin.zip"
     },
     "dependencies": [
       "WeaverCore"
     ],
-    "repository": "https://github.com/nickc01/Corrupted-Kin/"
+    "repository": "https://github.com/nickc01/Corrupted-Kin/",
+    "tags": [
+      "Boss",
+      "Gameplay"
+    ],
+    "authors": [
+      "Nickc01"
+    ]
   },
   "CountDownForLife": {
     "description": "When CountDown went to zero,you will be punished",
@@ -884,6 +891,26 @@
     "repository": "https://github.com/beesnation/CriticalSlash",
     "tags": [
       "Gameplay"
+    ]
+  },
+  "Crystal Machinist": {
+    "description": "A mod that significantly changes up the Enraged Guardian bossfight",
+    "version": "1.0.0.0",
+    "links": {
+      "type": "universal",
+      "sha256": "363B4126A85CBB5ED8F23C0941EE1EACA605873BB400090118AA85B36237AF7A",
+      "url": "https://github.com/nickc01/Crystal-Machinist/releases/download/v1.0.0.0/CrystalMachinist.zip"
+    },
+    "dependencies": [
+      "WeaverCore"
+    ],
+    "repository": "https://github.com/nickc01/Crystal-Machinist/",
+    "tags": [
+      "Boss",
+      "Gameplay"
+    ],
+    "authors": [
+      "Nickc01"
     ]
   },
   "Crystalblobbles": {
@@ -2874,16 +2901,23 @@
   },
   "Inferno King Grimm": {
     "description": "A mod that significantly buffs Nightmare King Grimm into a multi-phase fight. It also includes a hard mode that can be configured on the main menu",
-    "version": "4.1.0.4",
+    "version": "4.2.0.0",
     "links": {
       "type": "universal",
-      "sha256": "53CE157FC3DD17DC88303B18CE238EC3B8CD7B7FB25A2D5C32760EA1DB68AA8B",
-      "url": "https://github.com/nickc01/Inferno-King-Grimm/releases/download/v4.1.0.4/InfernoKingGrimm.zip"
+      "sha256": "62CF38E81684B19012E9622A872067DFF2E5284DFB5B33E898A8C8587B69B8A8",
+      "url": "https://github.com/nickc01/Inferno-King-Grimm/releases/download/v4.2.0.0/InfernoKingGrimm.zip"
     },
     "dependencies": [
       "WeaverCore"
     ],
-    "repository": "https://github.com/nickc01/Inferno-King-Grimm/"
+    "repository": "https://github.com/nickc01/Inferno-King-Grimm/",
+    "tags": [
+      "Boss",
+      "Gameplay"
+    ],
+    "authors": [
+      "Nickc01"
+    ]
   },
   "Infinite AbsRad Phases": {
     "description": "Makes the selected AbsRad phase infinite",
@@ -5338,14 +5372,21 @@
   },
   "WeaverCore": {
     "description": "Core mod required for mods built with WeaverCore, such as Inferno King Grimm and Corrupted Kin",
-    "version": "1.2.0.0",
+    "version": "1.2.0.1",
     "links": {
       "type": "universal",
-      "sha256": "CAF0C37A46092B32FB5DBF134025305836657CA9054297536ABF86C237829A40",
-      "url": "https://github.com/nickc01/WeaverCore/releases/download/v1.2.0.0-beta/WeaverCore.zip"
+      "sha256": "E85137C0CAAF8107B96743B863733FEE093B7F9FCEC8314DE61D8347993C09BA",
+      "url": "https://github.com/nickc01/WeaverCore/releases/download/v1.2.0.1/WeaverCore.zip"
     },
     "dependencies": [],
-    "repository": "https://github.com/nickc01/WeaverCore/"
+    "repository": "https://github.com/nickc01/WeaverCore/",
+    "tags": [
+      "Library",
+      "Utility"
+    ],
+    "authors": [
+      "Nickc01"
+    ]
   },
   "WebPCodec": {
     "description": "WebP codec support for Texture2D",

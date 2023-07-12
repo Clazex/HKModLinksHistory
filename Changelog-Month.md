@@ -3,6 +3,15 @@
 
 ## New mods
 
+### Crystal Machinist
+
+- Description: A mod that significantly changes up the Enraged Guardian bossfight
+- Dependencies
+  + WeaverCore
+- Tags
+  + Boss
+  + Gameplay
+
 ### Pale Court
 
 - Description: Challenge Hallownest&#x27;s mightiest champions in grand combat!
@@ -36,7 +45,11 @@ All with an incredible new soundtrack!
 
 ### Corrupted Kin
 
-- Version: 1.2.0.3 -> 1.2.0.4
+- Version: 1.2.0.3 -> 1.3.0.0
+- Tags
+  + Removed
+    - Boss
+    - Gameplay
 
 ### Enemy Randomizer
 
@@ -48,10 +61,6 @@ All with an incredible new soundtrack!
 ### FrogCore
 
 - Version: 2.0.0.1 -> 2.0.0.2
-
-### GodSeekerPlus
-
-- Version: 0.24.0.0 -> 0.24.1.0
 
 ### GrassyKnight
 
@@ -77,11 +86,11 @@ All with an incredible new soundtrack!
 
 ### Inferno King Grimm
 
-- Version: 4.1.0.3 -> 4.1.0.4
-
-### MagicUI
-
-- Version: 1.7.8481.39155 -> 1.8.8563.5913
+- Version: 4.1.0.3 -> 4.2.0.0
+- Tags
+  + Removed
+    - Boss
+    - Gameplay
 
 ### RecentItemsDisplay
 
@@ -97,5 +106,9 @@ All with an incredible new soundtrack!
 
 ### WeaverCore
 
-- Version: 1.1.0.3 -> 1.2.0.0
+- Version: 1.1.0.3 -> 1.2.0.1
+- Tags
+  + Removed
+    - Library
+    - Utility
 

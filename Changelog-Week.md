@@ -1,13 +1,45 @@
 # Changelog
 
 
+## New mods
+
+### Crystal Machinist
+
+- Description: A mod that significantly changes up the Enraged Guardian bossfight
+- Dependencies
+  + WeaverCore
+- Tags
+  + Boss
+  + Gameplay
+
+
 ## Updated mods
 
-### Pale Court
+### Corrupted Kin
 
-- Version: 1.0.0.1 -> 1.0.0.4
+- Version: 1.2.0.4 -> 1.3.0.0
+- Tags
+  + Removed
+    - Boss
+    - Gameplay
+
+### Inferno King Grimm
+
+- Version: 4.1.0.4 -> 4.2.0.0
+- Tags
+  + Removed
+    - Boss
+    - Gameplay
 
 ### UnityExplorerPlus
 
 - Version: 2.4.0.0 -> 2.6.0.0
+
+### WeaverCore
+
+- Version: 1.2.0.0 -> 1.2.0.1
+- Tags
+  + Removed
+    - Library
+    - Utility
 
