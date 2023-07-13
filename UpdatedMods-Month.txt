@@ -1,4 +1,3 @@
-BingoSync
 Corrupted Kin
 Inferno King Grimm
 WeaverCore
@@ -17,4 +16,7 @@ Pale Court
 UnityExplorerPlus
 Corrupted Kin
 Inferno King Grimm
+WeaverCore
+Inferno King Grimm
+Transcendence
 WeaverCore

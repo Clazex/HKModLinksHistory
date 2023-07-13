@@ -25,11 +25,15 @@
 
 ### Inferno King Grimm
 
-- Version: 4.1.0.4 -> 4.2.0.0
+- Version: 4.1.0.4 -> 4.2.0.1
 - Tags
   + Removed
     - Boss
     - Gameplay
+
+### Transcendence
+
+- Version: 1.4.2.0 -> 1.5.0.0
 
 ### UnityExplorerPlus
 
@@ -37,9 +41,8 @@
 
 ### WeaverCore
 
-- Version: 1.2.0.0 -> 1.2.0.1
+- Version: 1.2.0.0 -> 1.2.0.2
 - Tags
   + Removed
     - Library
-    - Utility
 

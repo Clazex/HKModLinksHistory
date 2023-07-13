@@ -39,10 +39,6 @@ All with an incredible new soundtrack!
 
 ## Updated mods
 
-### BingoSync
-
-- Version: 0.0.0.2 -> 0.0.0.3
-
 ### Corrupted Kin
 
 - Version: 1.2.0.3 -> 1.3.0.0
@@ -86,7 +82,7 @@ All with an incredible new soundtrack!
 
 ### Inferno King Grimm
 
-- Version: 4.1.0.3 -> 4.2.0.0
+- Version: 4.1.0.3 -> 4.2.0.1
 - Tags
   + Removed
     - Boss
@@ -100,15 +96,18 @@ All with an incredible new soundtrack!
 
 - Version: 1.0.0.0 -> 1.0.1.0
 
+### Transcendence
+
+- Version: 1.4.2.0 -> 1.5.0.0
+
 ### UnityExplorerPlus
 
 - Version: 2.4.0.0 -> 2.6.0.0
 
 ### WeaverCore
 
-- Version: 1.1.0.3 -> 1.2.0.1
+- Version: 1.1.0.3 -> 1.2.0.2
 - Tags
   + Removed
     - Library
-    - Utility
 

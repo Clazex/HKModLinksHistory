@@ -2901,11 +2901,11 @@
   },
   "Inferno King Grimm": {
     "description": "A mod that significantly buffs Nightmare King Grimm into a multi-phase fight. It also includes a hard mode that can be configured on the main menu",
-    "version": "4.2.0.0",
+    "version": "4.2.0.1",
     "links": {
       "type": "universal",
-      "sha256": "62CF38E81684B19012E9622A872067DFF2E5284DFB5B33E898A8C8587B69B8A8",
-      "url": "https://github.com/nickc01/Inferno-King-Grimm/releases/download/v4.2.0.0/InfernoKingGrimm.zip"
+      "sha256": "DED394AD594F5503053DE3426EB064B10B96D8CCFAF4F6F266282883ED39C50F",
+      "url": "https://github.com/nickc01/Inferno-King-Grimm/releases/download/v4.2.0.1/InfernoKingGrimm.zip"
     },
     "dependencies": [
       "WeaverCore"
@@ -5203,11 +5203,11 @@
   },
   "Transcendence": {
     "description": "Adds 15 new charms with various abilities. Can be used with the randomizer.",
-    "version": "1.4.2.0",
+    "version": "1.5.0.0",
     "links": {
       "type": "universal",
-      "sha256": "F8674FFD227FAC52DB30F1FE356CBB36A22E3BDE85CC35075776F17AF9BEEA94",
-      "url": "https://github.com/dpinela/Transcendence/releases/download/v1.4.2/Transcendence.zip"
+      "sha256": "41B048BA1920166866F5B0732F3166AC9B5AD88842E21C22ACF317BD1AE71623",
+      "url": "https://github.com/dpinela/Transcendence/releases/download/v1.5/Transcendence.zip"
     },
     "dependencies": [
       "ItemChanger",
@@ -5372,17 +5372,16 @@
   },
   "WeaverCore": {
     "description": "Core mod required for mods built with WeaverCore, such as Inferno King Grimm and Corrupted Kin",
-    "version": "1.2.0.1",
+    "version": "1.2.0.2",
     "links": {
       "type": "universal",
-      "sha256": "E85137C0CAAF8107B96743B863733FEE093B7F9FCEC8314DE61D8347993C09BA",
-      "url": "https://github.com/nickc01/WeaverCore/releases/download/v1.2.0.1/WeaverCore.zip"
+      "sha256": "553A7967A346032E4CA5AC41677A84288435AC36B2FCA3A881B1393B75B82931",
+      "url": "https://github.com/nickc01/WeaverCore/releases/download/v1.2.0.2/WeaverCore.zip"
     },
     "dependencies": [],
     "repository": "https://github.com/nickc01/WeaverCore/",
     "tags": [
-      "Library",
-      "Utility"
+      "Library"
     ],
     "authors": [
       "Nickc01"
