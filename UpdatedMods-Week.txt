@@ -5,3 +5,4 @@ WeaverCore
 Inferno King Grimm
 Transcendence
 WeaverCore
+Crystal Machinist
