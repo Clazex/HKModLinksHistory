@@ -35,10 +35,6 @@
 
 - Version: 1.4.2.0 -> 1.5.0.0
 
-### UnityExplorerPlus
-
-- Version: 2.4.0.0 -> 2.6.0.0
-
 ### WeaverCore
 
 - Version: 1.2.0.0 -> 1.2.0.2
