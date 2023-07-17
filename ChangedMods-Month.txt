@@ -1,6 +1,3 @@
-Corrupted Kin
-Inferno King Grimm
-WeaverCore
 RecentItemsDisplay
 Enemy Randomizer
 Grub Names

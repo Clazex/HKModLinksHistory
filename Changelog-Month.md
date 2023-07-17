@@ -41,7 +41,7 @@ All with an incredible new soundtrack!
 
 ### Corrupted Kin
 
-- Version: 1.2.0.3 -> 1.3.0.0
+- Version: 1.2.0.4 -> 1.3.0.0
 - Tags
   + Removed
     - Boss
@@ -82,7 +82,7 @@ All with an incredible new soundtrack!
 
 ### Inferno King Grimm
 
-- Version: 4.1.0.3 -> 4.2.0.1
+- Version: 4.1.0.4 -> 4.2.0.1
 - Tags
   + Removed
     - Boss
@@ -106,7 +106,7 @@ All with an incredible new soundtrack!
 
 ### WeaverCore
 
-- Version: 1.1.0.3 -> 1.2.0.2
+- Version: 1.2.0.0 -> 1.2.0.2
 - Tags
   + Removed
     - Library
