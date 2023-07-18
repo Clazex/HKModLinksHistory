@@ -88,10 +88,6 @@ All with an incredible new soundtrack!
     - Boss
     - Gameplay
 
-### RecentItemsDisplay
-
-- Version: 1.2.1.4 -> 1.2.2.0
-
 ### Scatternest
 
 - Version: 1.0.0.0 -> 1.0.1.0
