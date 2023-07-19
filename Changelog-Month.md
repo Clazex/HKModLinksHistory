@@ -49,10 +49,7 @@ All with an incredible new soundtrack!
 
 ### Enemy Randomizer
 
-- Version: 2023.0.8504.29513 -> 2023.0.8580.23150
-- Description
-  + Old: Mod for randomizing enemies, hazards, and effects.
-  + New: Mod for randomizing the enemies and related things.
+- Version: 2023.0.8570.24099 -> 2023.0.8580.23150
 
 ### FrogCore
 
