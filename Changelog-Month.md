@@ -39,6 +39,10 @@ All with an incredible new soundtrack!
 
 ## Updated mods
 
+### Additional Timelines
+
+- Version: 1.0.2.0 -> 1.0.3.0
+
 ### Corrupted Kin
 
 - Version: 1.2.0.4 -> 1.3.0.0

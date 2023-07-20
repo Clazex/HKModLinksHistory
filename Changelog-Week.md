@@ -3,7 +3,7 @@
 
 ## Updated mods
 
-### Crystal Machinist
+### Additional Timelines
 
-- Version: 1.0.0.0 -> 1.0.0.1
+- Version: 1.0.2.0 -> 1.0.3.0
 
