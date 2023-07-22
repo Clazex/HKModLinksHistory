@@ -400,14 +400,15 @@
   },
   "BingoSync": {
     "description": "A Hollow Knight mod that automatically marks squares on bingosync.com",
-    "version": "0.0.0.3",
+    "version": "0.0.0.5",
     "links": {
       "type": "universal",
-      "sha256": "F8EEF256974014CFF8F40922C3806795132494430CCCDFC2AAD82D6B648069E8",
-      "url": "https://github.com/pedroteosousa/HollowKnight.BingoSync/releases/download/0.0.0.3/BingoSync.zip"
+      "sha256": "66736B28B4FCA83A7D6CBDE4D752F914DC29AFDA6F97243A49C48BFE0796C7E1",
+      "url": "https://github.com/pedroteosousa/HollowKnight.BingoSync/releases/download/0.0.0.5/BingoSync.zip"
     },
     "dependencies": [
-      "MagicUI"
+      "MagicUI",
+      "Satchel"
     ],
     "repository": "https://github.com/pedroteosousa/HollowKnight.BingoSync"
   },
@@ -1941,6 +1942,9 @@
     "repository": "https://github.com/Mimijackz-HKModding/FragilePurse",
     "tags": [
       "Gameplay"
+    ],
+    "authors": [
+      "Mimijackz"
     ]
   },
   "FragileStrengthForNailArts": {
@@ -2897,6 +2901,9 @@
     "repository": "https://github.com/Mimijackz/HKModding.Infectionbomb",
     "tags": [
       "Gameplay"
+    ],
+    "authors": [
+      "Mimijackz"
     ]
   },
   "Inferno King Grimm": {
@@ -3430,7 +3437,10 @@
       "url": "https://github.com/Mimijackz-HKModding/MirroredHallownest/releases/download/v0.1.8247.18606/Mirrored_Hallownest.zip"
     },
     "dependencies": [],
-    "repository": "https://github.com/Mimijackz-HKModding/MirroredHallownest"
+    "repository": "https://github.com/Mimijackz-HKModding/MirroredHallownest",
+    "authors": [
+      "Mimijackz"
+    ]
   },
   "ModConsole": {
     "description": "In-game C# REPL which allows you to easily test code.",
@@ -3727,6 +3737,26 @@
     ],
     "authors": [
       "Clazex"
+    ]
+  },
+  "NoBlur": {
+    "description": "Clean your glasses and see Hollow Knight's background objects without blur. Mod Options for removing Blur planes, Fog objects, and Haze objects.",
+    "version": "0.0.0.0",
+    "links": {
+      "type": "universal",
+      "sha256": "56BDF35F6AE52411910D4F2CA403A287DA0B8863112C1C23624ABC4228E103C0",
+      "url": "https://github.com/Destalta/NoBlur/releases/download/v1.0/NoBlur.zip"
+    },
+    "dependencies": [
+      "Satchel"
+    ],
+    "repository": "https://github.com/Destalta/NoBlur",
+    "issues": "https://github.com/Destalta/NoBlur/issues",
+    "tags": [
+      "Cosmetic"
+    ],
+    "authors": [
+      "Destalta"
     ]
   },
   "NoDying": {
@@ -4811,6 +4841,9 @@
     "repository": "https://github.com/Mimijackz-HKModding/SitButton",
     "tags": [
       "Cosmetic"
+    ],
+    "authors": [
+      "Mimijackz"
     ]
   },
   "SkillUpgrades": {
@@ -5253,11 +5286,11 @@
   },
   "Twister Indicator": {
     "description": "Adds a gray tint (can be customised) to your soul bar when you can use spells with the Spell Twister charm",
-    "version": "0.1.0.0",
+    "version": "0.1.0.1",
     "links": {
       "type": "universal",
-      "sha256": "4EF3DEC308F8532D33AB01BF8BE9D35C9BBE9C6E427166DEA7E4AD3F47BD0632",
-      "url": "https://github.com/Mimijackz-HKModding/TwisterIndicator/releases/download/v0.1.0.0/TwisterIndicator.zip"
+      "sha256": "7A481DAEC55D3338E195CA44AF8DEE09421D1FC89C6D47180B5EE10F80E6DD3C",
+      "url": "https://github.com/Mimijackz-HKModding/TwisterIndicator/releases/download/v0.1.0.1/TwisterIndicator.zip"
     },
     "dependencies": [
       "Satchel"
@@ -5265,6 +5298,9 @@
     "repository": "https://github.com/Mimijackz-HKModding/TwisterIndicator",
     "tags": [
       "Cosmetic"
+    ],
+    "authors": [
+      "Mimijackz"
     ]
   },
   "Unity Explorer": {

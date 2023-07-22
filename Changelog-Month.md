@@ -12,6 +12,14 @@
   + Boss
   + Gameplay
 
+### NoBlur
+
+- Description: Clean your glasses and see Hollow Knight&#x27;s background objects without blur. Mod Options for removing Blur planes, Fog objects, and Haze objects.
+- Dependencies
+  + Satchel
+- Tags
+  + Cosmetic
+
 ### Pale Court
 
 - Description: Challenge Hallownest&#x27;s mightiest champions in grand combat!
@@ -42,6 +50,13 @@ All with an incredible new soundtrack!
 ### Additional Timelines
 
 - Version: 1.0.2.0 -> 1.0.3.0
+
+### BingoSync
+
+- Version: 0.0.0.3 -> 0.0.0.5
+- Dependencies
+  + Added
+    - Satchel
 
 ### Corrupted Kin
 
@@ -96,6 +111,10 @@ All with an incredible new soundtrack!
 ### Transcendence
 
 - Version: 1.4.2.0 -> 1.5.0.0
+
+### Twister Indicator
+
+- Version: 0.1.0.0 -> 0.1.0.1
 
 ### UnityExplorerPlus
 

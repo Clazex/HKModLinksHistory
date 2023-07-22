@@ -20,3 +20,6 @@ Transcendence
 WeaverCore
 Crystal Machinist
 Additional Timelines
+BingoSync
+NoBlur
+Twister Indicator

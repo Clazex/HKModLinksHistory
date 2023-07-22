@@ -17,3 +17,5 @@ Transcendence
 WeaverCore
 Crystal Machinist
 Additional Timelines
+BingoSync
+Twister Indicator
