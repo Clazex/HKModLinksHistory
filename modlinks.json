@@ -3042,6 +3042,26 @@
     ],
     "repository": "https://github.com/Shadudev/HollowKnight.MultiWorld/"
   },
+  "Keep Me Geo": {
+    "description": "Don't want the anxiety of losing everything when you die? Then Keep Me Geo will take your worries away! You won't lose any more geo than you want to when you die!",
+    "version": "1.0.0.0",
+    "links": {
+      "type": "universal",
+      "sha256": "58299D08B89FA9ECC2C3E3D94EC5EA8934C0950BA06127E875C467817DB6F8FD",
+      "url": "https://github.com/CDoggggg/KeepMeGeo/releases/download/v1.0.0.0/Keep.Me.Geo.zip"
+    },
+    "dependencies": [
+      "Satchel"
+    ],
+    "repository": "https://github.com/CDoggggg/KeepMeGeo",
+    "issues": "https://github.com/CDoggggg/KeepMeGeo/issues",
+    "tags": [
+      "Gameplay"
+    ],
+    "authors": [
+      "CDog"
+    ]
+  },
   "KeybindChaos": {
     "description": "Randomize the keybinds after a certain (configurable) amount of time has passed.",
     "version": "0.9.0.0",
@@ -3737,26 +3757,6 @@
     ],
     "authors": [
       "Clazex"
-    ]
-  },
-  "NoBlur": {
-    "description": "Clean your glasses and see Hollow Knight's background objects without blur. Mod Options for removing Blur planes, Fog objects, and Haze objects.",
-    "version": "0.0.0.0",
-    "links": {
-      "type": "universal",
-      "sha256": "56BDF35F6AE52411910D4F2CA403A287DA0B8863112C1C23624ABC4228E103C0",
-      "url": "https://github.com/Destalta/NoBlur/releases/download/v1.0/NoBlur.zip"
-    },
-    "dependencies": [
-      "Satchel"
-    ],
-    "repository": "https://github.com/Destalta/NoBlur",
-    "issues": "https://github.com/Destalta/NoBlur/issues",
-    "tags": [
-      "Cosmetic"
-    ],
-    "authors": [
-      "Destalta"
     ]
   },
   "NoDying": {
@@ -4811,6 +4811,24 @@
       "Gameplay"
     ]
   },
+  "ShyKnight": {
+    "description": "Removes the audience from Godhome arenas and Colosseum of Fools",
+    "version": "1.3.0.0",
+    "links": {
+      "type": "universal",
+      "sha256": "2FAB6EC14FAFF4C5CE2B4773F2C6FA2516AF82E08173374374151B4E5050EA5C",
+      "url": "https://github.com/Acu1000/ShyKnight/releases/download/v1.3.0.0/ShyKnight.zip"
+    },
+    "dependencies": [],
+    "repository": "https://github.com/Acu1000/ShyKnight",
+    "issues": "https://github.com/Acu1000/ShyKnight/issues",
+    "tags": [
+      "Cosmetic"
+    ],
+    "authors": [
+      "Acu1000"
+    ]
+  },
   "SilkSong (but not really)": {
     "description": "Allows the player to play as hornet.",
     "version": "0.4.0.1",
@@ -5448,6 +5466,24 @@
     ],
     "authors": [
       "Clazex"
+    ]
+  },
+  "WideCamera": {
+    "description": "Make ultrawide screens possible without black bars. Should also work for thinner than 16:9. In theory.",
+    "version": "1.5.0.0",
+    "links": {
+      "type": "universal",
+      "sha256": "6C5E1BF0D6E58BBFDE9FFA8B90A194526D802E117C762DD2A81A84753B7C8287",
+      "url": "https://github.com/SFGrenade/WideCamera/releases/download/v1.5/WideCamera.zip"
+    },
+    "dependencies": [],
+    "repository": "https://github.com/SFGrenade/WideCamera/",
+    "issues": "https://github.com/SFGrenade/WideCamera/issues",
+    "tags": [
+      "Utility"
+    ],
+    "authors": [
+      "SFGrenade"
     ]
   },
   "Zaliants Surprise": {

@@ -1,4 +1,3 @@
-Grub Names
 GrassyKnight
 Scatternest
 Hide Mod List
@@ -23,3 +22,6 @@ Additional Timelines
 BingoSync
 NoBlur
 Twister Indicator
+Keep Me Geo
+ShyKnight
+WideCamera

@@ -1,1 +1,4 @@
 NoBlur
+Keep Me Geo
+ShyKnight
+WideCamera
