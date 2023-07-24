@@ -5,3 +5,6 @@ Twister Indicator
 Keep Me Geo
 ShyKnight
 WideCamera
+BingoSync
+EasySoulRefill
+NoBlur

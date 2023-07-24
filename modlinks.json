@@ -400,13 +400,14 @@
   },
   "BingoSync": {
     "description": "A Hollow Knight mod that automatically marks squares on bingosync.com",
-    "version": "0.0.0.5",
+    "version": "0.0.0.6",
     "links": {
       "type": "universal",
-      "sha256": "66736B28B4FCA83A7D6CBDE4D752F914DC29AFDA6F97243A49C48BFE0796C7E1",
-      "url": "https://github.com/pedroteosousa/HollowKnight.BingoSync/releases/download/0.0.0.5/BingoSync.zip"
+      "sha256": "71F9BF58CFCF295CBF3C15D1A7877A411842FAD59D748B5DAEF80408D7B658DF",
+      "url": "https://github.com/pedroteosousa/HollowKnight.BingoSync/releases/download/0.0.0.6/BingoSync.zip"
     },
     "dependencies": [
+      "ItemChanger",
       "MagicUI",
       "Satchel"
     ],
@@ -1591,6 +1592,26 @@
     "dependencies": [],
     "repository": "https://github.com/homothetyhk/HollowKnight.EasyMode/"
   },
+  "EasySoulRefill": {
+    "description": "Instantly refills your soul meter whenever you respawn, sit on a bench or enter a dream boss arena (compatible with Pale Court)",
+    "version": "1.0.0.2",
+    "links": {
+      "type": "universal",
+      "sha256": "34AE1059FACB7BAF22714CAF66AB3584705F30AD6D3A1E35C71ED944B121B838",
+      "url": "https://github.com/Acu1000/EasySoulRefill/releases/download/v1.0.0.2/EasySoulRefill.zip"
+    },
+    "dependencies": [
+      "Satchel"
+    ],
+    "repository": "https://github.com/Acu1000/EasySoulRefill",
+    "issues": "https://github.com/Acu1000/EasySoulRefill/issues",
+    "tags": [
+      "Gameplay"
+    ],
+    "authors": [
+      "Acu1000"
+    ]
+  },
   "EmoteWheel": {
     "description": "A mod that allows using custom emotes (also works during multiplay if server has HkmpPouch).",
     "version": "1.1.0.0",
@@ -2576,7 +2597,7 @@
     ]
   },
   "HKTool Legacy": {
-    "description": "A library mod.No longer maintained!!!",
+    "description": "A library mod.No longer maintained!!!**If it crashes your game, this is normal and the reason is unknown**",
     "version": "1.11.8.0",
     "links": {
       "type": "universal",
@@ -3757,6 +3778,26 @@
     ],
     "authors": [
       "Clazex"
+    ]
+  },
+  "NoBlur": {
+    "description": "Clean your glasses and see Hollow Knight's background objects without blur. Options for removing Blur planes, Fog objects, and Haze objects.",
+    "version": "1.1.0.0",
+    "links": {
+      "type": "universal",
+      "sha256": "3046198428F3E72BE08BF94C2DA86AE26F8A3AA6CE8C13C95FB27BF721A49EA6",
+      "url": "https://github.com/Destalta/NoBlur/releases/download/v1.1/NoBlur.zip"
+    },
+    "dependencies": [
+      "Satchel"
+    ],
+    "repository": "https://github.com/Destalta/NoBlur",
+    "issues": "https://github.com/Destalta/NoBlur/issues",
+    "tags": [
+      "Cosmetic"
+    ],
+    "authors": [
+      "Destalta"
     ]
   },
   "NoDying": {

@@ -1,5 +1,3 @@
-GrassyKnight
-Scatternest
 Hide Mod List
 Hallownest-Vocalized
 Enemy Randomizer
@@ -25,3 +23,6 @@ Twister Indicator
 Keep Me Geo
 ShyKnight
 WideCamera
+BingoSync
+EasySoulRefill
+NoBlur

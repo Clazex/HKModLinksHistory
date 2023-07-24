@@ -2,3 +2,5 @@ NoBlur
 Keep Me Geo
 ShyKnight
 WideCamera
+EasySoulRefill
+NoBlur
