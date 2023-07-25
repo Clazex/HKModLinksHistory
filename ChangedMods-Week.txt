@@ -8,3 +8,5 @@ WideCamera
 BingoSync
 EasySoulRefill
 NoBlur
+BingoSync
+Keep Me Geo

@@ -400,11 +400,11 @@
   },
   "BingoSync": {
     "description": "A Hollow Knight mod that automatically marks squares on bingosync.com",
-    "version": "0.0.0.6",
+    "version": "0.0.0.7",
     "links": {
       "type": "universal",
-      "sha256": "71F9BF58CFCF295CBF3C15D1A7877A411842FAD59D748B5DAEF80408D7B658DF",
-      "url": "https://github.com/pedroteosousa/HollowKnight.BingoSync/releases/download/0.0.0.6/BingoSync.zip"
+      "sha256": "901F5CD45123076D9EBDDA73F81B60C817DF17FC12938049D71D718396F11096",
+      "url": "https://github.com/pedroteosousa/HollowKnight.BingoSync/releases/download/0.0.0.7/BingoSync.zip"
     },
     "dependencies": [
       "ItemChanger",
@@ -3065,11 +3065,11 @@
   },
   "Keep Me Geo": {
     "description": "Don't want the anxiety of losing everything when you die? Then Keep Me Geo will take your worries away! You won't lose any more geo than you want to when you die!",
-    "version": "1.0.0.0",
+    "version": "1.1.0.2",
     "links": {
       "type": "universal",
-      "sha256": "58299D08B89FA9ECC2C3E3D94EC5EA8934C0950BA06127E875C467817DB6F8FD",
-      "url": "https://github.com/CDoggggg/KeepMeGeo/releases/download/v1.0.0.0/Keep.Me.Geo.zip"
+      "sha256": "FE250408D45FD1E6DB62B83258E1216E9F07C81D7A4FF8C2163EB83936B7B5FE",
+      "url": "https://github.com/CDoggggg/KeepMeGeo/releases/download/v1.1.0.2/Keep.Me.Geo.zip"
     },
     "dependencies": [
       "Satchel"

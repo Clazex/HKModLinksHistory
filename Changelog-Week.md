@@ -48,7 +48,7 @@
 
 ### BingoSync
 
-- Version: 0.0.0.3 -> 0.0.0.6
+- Version: 0.0.0.3 -> 0.0.0.7
 - Dependencies
   + Added
     - ItemChanger

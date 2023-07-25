@@ -81,7 +81,7 @@ All with an incredible new soundtrack!
 
 ### BingoSync
 
-- Version: 0.0.0.3 -> 0.0.0.6
+- Version: 0.0.0.3 -> 0.0.0.7
 - Dependencies
   + Added
     - ItemChanger
@@ -106,13 +106,6 @@ All with an incredible new soundtrack!
 ### Hallownest-Vocalized
 
 - Version: 1.0.1.1 -> 1.0.1.2
-
-### Hide Mod List
-
-- Version: 0.2.2.1 -> 0.2.3.0
-- Description
-  + Old: Allows you to hide your modlist
-  + New: Allows you to hide your mod list or reduce the space the mod list takes on the screen.
 
 ### Inferno King Grimm
 
