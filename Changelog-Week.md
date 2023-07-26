@@ -3,6 +3,14 @@
 
 ## New mods
 
+### DarkerTransitions
+
+- Description: Turns bright screen transitions black.
+- Dependencies
+  + Satchel
+- Tags
+  + Cosmetic
+
 ### EasySoulRefill
 
 - Description: Instantly refills your soul meter whenever you respawn, sit on a bench or enter a dream boss arena (compatible with Pale Court)
@@ -41,10 +49,6 @@
 
 
 ## Updated mods
-
-### Additional Timelines
-
-- Version: 1.0.2.0 -> 1.0.3.0
 
 ### BingoSync
 

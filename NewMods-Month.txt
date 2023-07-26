@@ -7,3 +7,4 @@ ShyKnight
 WideCamera
 EasySoulRefill
 NoBlur
+DarkerTransitions

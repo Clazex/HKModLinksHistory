@@ -1,4 +1,3 @@
-Additional Timelines
 BingoSync
 NoBlur
 Twister Indicator
@@ -10,3 +9,4 @@ EasySoulRefill
 NoBlur
 BingoSync
 Keep Me Geo
+DarkerTransitions

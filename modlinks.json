@@ -1216,6 +1216,25 @@
       "Cosmetic"
     ]
   },
+  "DarkerTransitions": {
+    "description": "Turns bright screen transitions black.",
+    "version": "0.1.8606.28270",
+    "links": {
+      "type": "universal",
+      "sha256": "1A91F9A9DE30DDC2D6D320ED1A3B51E14A253B745CDBD1271996996E1263BB03",
+      "url": "https://github.com/RiverRobot/DarkerTransitions/releases/download/1.0/DarkerTransitions.zip"
+    },
+    "dependencies": [
+      "Satchel"
+    ],
+    "repository": "https://github.com/RiverRobot/DarkerTransitions",
+    "tags": [
+      "Cosmetic"
+    ],
+    "authors": [
+      "RiverRobot"
+    ]
+  },
   "Darkness": {
     "description": "Makes every room into a dark room (akin to rooms which require lantern without it).",
     "version": "1.2.0.0",

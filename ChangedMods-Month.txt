@@ -1,4 +1,3 @@
-Hallownest-Vocalized
 Enemy Randomizer
 Soul Paladin
 Enemy Randomizer
@@ -27,3 +26,4 @@ EasySoulRefill
 NoBlur
 BingoSync
 Keep Me Geo
+DarkerTransitions

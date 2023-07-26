@@ -12,6 +12,14 @@
   + Boss
   + Gameplay
 
+### DarkerTransitions
+
+- Description: Turns bright screen transitions black.
+- Dependencies
+  + Satchel
+- Tags
+  + Cosmetic
+
 ### EasySoulRefill
 
 - Description: Instantly refills your soul meter whenever you respawn, sit on a bench or enter a dream boss arena (compatible with Pale Court)
@@ -102,10 +110,6 @@ All with an incredible new soundtrack!
 ### FrogCore
 
 - Version: 2.0.0.1 -> 2.0.0.2
-
-### Hallownest-Vocalized
-
-- Version: 1.0.1.1 -> 1.0.1.2
 
 ### Inferno King Grimm
 
