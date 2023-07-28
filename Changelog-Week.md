@@ -27,14 +27,6 @@
 - Tags
   + Gameplay
 
-### NoBlur
-
-- Description: Clean your glasses and see Hollow Knight&#x27;s background objects without blur. Options for removing Blur planes, Fog objects, and Haze objects.
-- Dependencies
-  + Satchel
-- Tags
-  + Cosmetic
-
 ### ShyKnight
 
 - Description: Removes the audience from Godhome arenas and Colosseum of Fools
@@ -52,13 +44,15 @@
 
 ### BingoSync
 
-- Version: 0.0.0.3 -> 0.0.0.7
+- Version: 0.0.0.5 -> 0.0.0.7
 - Dependencies
   + Added
     - ItemChanger
-    - Satchel
 
-### Twister Indicator
+### NoBlur
 
-- Version: 0.1.0.0 -> 0.1.0.1
+- Version: 0.0.0.0 -> 1.1.0.0
+- Description
+  + Old: Clean your glasses and see Hollow Knight&#x27;s background objects without blur. Mod Options for removing Blur planes, Fog objects, and Haze objects.
+  + New: Clean your glasses and see Hollow Knight&#x27;s background objects without blur. Options for removing Blur planes, Fog objects, and Haze objects.
 
