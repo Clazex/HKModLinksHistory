@@ -1,4 +1,3 @@
-FrogCore
 Pale Court
 Pale Court
 UnityExplorerPlus
@@ -23,3 +22,4 @@ NoBlur
 BingoSync
 Keep Me Geo
 DarkerTransitions
+Crystal Machinist

@@ -1,4 +1,3 @@
-FrogCore
 Pale Court
 UnityExplorerPlus
 Corrupted Kin
@@ -14,3 +13,4 @@ Twister Indicator
 BingoSync
 BingoSync
 Keep Me Geo
+Crystal Machinist

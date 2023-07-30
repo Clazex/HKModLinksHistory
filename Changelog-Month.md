@@ -97,10 +97,6 @@ All with an incredible new soundtrack!
     - Boss
     - Gameplay
 
-### FrogCore
-
-- Version: 2.0.0.1 -> 2.0.0.2
-
 ### Inferno King Grimm
 
 - Version: 4.1.0.4 -> 4.2.0.1

@@ -897,11 +897,11 @@
   },
   "Crystal Machinist": {
     "description": "A mod that significantly changes up the Enraged Guardian bossfight",
-    "version": "1.0.0.1",
+    "version": "2.0.0.0",
     "links": {
       "type": "universal",
-      "sha256": "D46133953CA07821FE75BE708F244295DAC6E6EC3161B1280EC8EDAF63F6878D",
-      "url": "https://github.com/nickc01/Crystal-Machinist/releases/download/v1.0.0.1/CrystalMachinist.zip"
+      "sha256": "BE59CDD00AD4F777BF25EAC0871DAA5597FB0DFEA97574D5E6E8B803DD6958B7",
+      "url": "https://github.com/nickc01/Crystal-Machinist/releases/download/v2.0.0.0/CrystalMachinist.zip"
     },
     "dependencies": [
       "WeaverCore"
