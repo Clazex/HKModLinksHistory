@@ -1,5 +1,4 @@
 Pale Court
-Pale Court
 UnityExplorerPlus
 Corrupted Kin
 Crystal Machinist
@@ -23,3 +22,4 @@ BingoSync
 Keep Me Geo
 DarkerTransitions
 Crystal Machinist
+CustomJournal

@@ -14,15 +14,11 @@
 
 ## Updated mods
 
-### BingoSync
-
-- Version: 0.0.0.6 -> 0.0.0.7
-
 ### Crystal Machinist
 
 - Version: 1.0.0.1 -> 2.0.0.0
 
-### Keep Me Geo
+### CustomJournal
 
-- Version: 1.0.0.0 -> 1.1.0.2
+- Version: 1.0.0.0 -> 1.0.0.1
 

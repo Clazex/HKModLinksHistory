@@ -44,24 +44,6 @@
 - Tags
   + Cosmetic
 
-### Pale Court
-
-- Description: Challenge Hallownest&#x27;s mightiest champions in grand combat!
-Overcome your opponents with powerful new charms!
-Discover new secrets and stories!
-All with an incredible new soundtrack!
-- Dependencies
-  + FrogCore
-  + SFCore
-  + Vasi
-- Integrations
-  + Enemy HP Bar
-  + GodSeekerPlus
-- Tags
-  + Boss
-  + Expansion
-  + Gameplay
-
 ### ShyKnight
 
 - Description: Removes the audience from Godhome arenas and Colosseum of Fools
@@ -97,6 +79,10 @@ All with an incredible new soundtrack!
     - Boss
     - Gameplay
 
+### CustomJournal
+
+- Version: 1.0.0.0 -> 1.0.0.1
+
 ### Inferno King Grimm
 
 - Version: 4.1.0.4 -> 4.2.0.1
@@ -104,6 +90,10 @@ All with an incredible new soundtrack!
   + Removed
     - Boss
     - Gameplay
+
+### Pale Court
+
+- Version: 1.0.0.1 -> 1.0.0.4
 
 ### Transcendence
 
