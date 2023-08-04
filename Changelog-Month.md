@@ -91,10 +91,6 @@
     - Boss
     - Gameplay
 
-### Pale Court
-
-- Version: 1.0.0.1 -> 1.0.0.4
-
 ### Transcendence
 
 - Version: 1.4.2.0 -> 1.5.0.0
