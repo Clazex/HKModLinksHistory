@@ -3896,20 +3896,20 @@
   },
   "Pale Court": {
     "description": "Challenge Hallownest's mightiest champions in grand combat!\nOvercome your opponents with powerful new charms!\nDiscover new secrets and stories!\nAll with an incredible new soundtrack!",
-    "version": "1.0.0.4",
+    "version": "1.0.1.0",
     "links": {
       "type": "platform-dependent",
       "windows": {
-        "sha256": "EB3C4CE478AFDAB3D2085B2E33BD7AE1AC398B4C82FBBBB485029004B93F8CE4",
-        "url": "https://github.com/PaleCourt/PaleCourt/releases/download/1.0.0.4/PaleCourt-Win.zip"
+        "sha256": "A7AB92D4FBB352D2A18FD31CD9F01370EB91488EEEB485AB915A9DDE01C54ADA",
+        "url": "https://github.com/PaleCourt/PaleCourt/releases/download/1.0.1.0/PaleCourt-Win.zip"
       },
       "mac": {
-        "sha256": "E00FF8C20E3052C4E09C5A773C59E28B87C0DB62E77C8627AE56BB07B47B319A",
-        "url": "https://github.com/PaleCourt/PaleCourt/releases/download/1.0.0.4/PaleCourt-Mac.zip"
+        "sha256": "5FAB7AFF27C610C5DA2E25EEE90DCEDF887C26259D672250D7EC2624B4CF0F0A",
+        "url": "https://github.com/PaleCourt/PaleCourt/releases/download/1.0.1.0/PaleCourt-Mac.zip"
       },
       "linux": {
-        "sha256": "EB3C4CE478AFDAB3D2085B2E33BD7AE1AC398B4C82FBBBB485029004B93F8CE4",
-        "url": "https://github.com/PaleCourt/PaleCourt/releases/download/1.0.0.4/PaleCourt-Win.zip"
+        "sha256": "3B074BA2FFEF9575D2157CB80325F6C80C419D6B42BC2DE116E32B1CDF21AF78",
+        "url": "https://github.com/PaleCourt/PaleCourt/releases/download/1.0.1.0/PaleCourt-Lin.zip"
       }
     },
     "dependencies": [
@@ -5583,6 +5583,19 @@
     "tags": [
       "Gameplay"
     ]
+  },
+  "ZoteCollectorHelper": {
+    "description": "Tweaks to Grey Prince Zote and ascended Collector, like the HP of zotelings and more.",
+    "version": "1.0.0.0",
+    "links": {
+      "type": "universal",
+      "sha256": "83CB2C38D51FAF8BD6A0106F95586BEC5580CF8D8173185CF76550A74C7DF1B9",
+      "url": "https://github.com/nearrin/HollowKnight.ZoteCollectorHelper/releases/download/1.0.0.0/ZoteCollectorHelper.zip"
+    },
+    "dependencies": [
+      "Satchel"
+    ],
+    "repository": "https://github.com/nearrin/HollowKnight.ZoteCollectorHelper/"
   },
   "press g to dab": {
     "description": "press g and the knight will dab",

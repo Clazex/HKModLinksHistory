@@ -22,3 +22,5 @@ Keep Me Geo
 DarkerTransitions
 Crystal Machinist
 CustomJournal
+Pale Court
+ZoteCollectorHelper

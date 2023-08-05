@@ -3,25 +3,28 @@
 
 ## New mods
 
-### NoBlur
+### Keep Me Geo
 
-- Description: Clean your glasses and see Hollow Knight&#x27;s background objects without blur. Mod Options for removing Blur planes, Fog objects, and Haze objects.
+- Description: Don&#x27;t want the anxiety of losing everything when you die? Then Keep Me Geo will take your worries away! You won&#x27;t lose any more geo than you want to when you die!
 - Dependencies
   + Satchel
 - Tags
+  + Gameplay
+
+### ShyKnight
+
+- Description: Removes the audience from Godhome arenas and Colosseum of Fools
+- Tags
   + Cosmetic
 
+### WideCamera
 
-## Updated mods
+- Description: Make ultrawide screens possible without black bars. Should also work for thinner than 16:9. In theory.
+- Tags
+  + Utility
 
-### BingoSync
 
-- Version: 0.0.0.3 -> 0.0.0.5
-- Dependencies
-  + Added
-    - Satchel
+## Removed mods
 
-### Twister Indicator
-
-- Version: 0.1.0.0 -> 0.1.0.1
+- [object]
 

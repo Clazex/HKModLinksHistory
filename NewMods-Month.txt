@@ -6,3 +6,4 @@ WideCamera
 EasySoulRefill
 NoBlur
 DarkerTransitions
+ZoteCollectorHelper
