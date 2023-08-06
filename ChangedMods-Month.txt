@@ -24,3 +24,5 @@ Crystal Machinist
 CustomJournal
 Pale Court
 ZoteCollectorHelper
+BingoSync
+RecentItemsDisplay

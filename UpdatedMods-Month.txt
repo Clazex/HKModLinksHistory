@@ -15,3 +15,5 @@ Keep Me Geo
 Crystal Machinist
 CustomJournal
 Pale Court
+BingoSync
+RecentItemsDisplay

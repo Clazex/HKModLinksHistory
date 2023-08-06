@@ -71,7 +71,7 @@
 
 ### BingoSync
 
-- Version: 0.0.0.3 -> 0.0.0.7
+- Version: 0.0.0.3 -> 1.0.0.1
 - Dependencies
   + Added
     - ItemChanger
@@ -100,6 +100,10 @@
 ### Pale Court
 
 - Version: 1.0.0.4 -> 1.0.1.0
+
+### RecentItemsDisplay
+
+- Version: 1.2.2.0 -> 1.2.2.1
 
 ### Transcendence
 

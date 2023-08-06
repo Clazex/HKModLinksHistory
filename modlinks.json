@@ -400,11 +400,11 @@
   },
   "BingoSync": {
     "description": "A Hollow Knight mod that automatically marks squares on bingosync.com",
-    "version": "0.0.0.7",
+    "version": "1.0.0.1",
     "links": {
       "type": "universal",
-      "sha256": "901F5CD45123076D9EBDDA73F81B60C817DF17FC12938049D71D718396F11096",
-      "url": "https://github.com/pedroteosousa/HollowKnight.BingoSync/releases/download/0.0.0.7/BingoSync.zip"
+      "sha256": "CF28A435F890E92A3A2333AA62B920689FDBA64B425B569D00A0A9C2B18AB799",
+      "url": "https://github.com/pedroteosousa/HollowKnight.BingoSync/releases/download/1.0.0.1/BingoSync.zip"
     },
     "dependencies": [
       "ItemChanger",
@@ -4603,11 +4603,11 @@
   },
   "RecentItemsDisplay": {
     "description": "Add-on for ItemChanger (and Rando) which displays recently obtained pickups in the top-right of the screen.",
-    "version": "1.2.2.0",
+    "version": "1.2.2.1",
     "links": {
       "type": "universal",
-      "sha256": "C4DB0C152898B55D28D48C3D5C2CECA48B56BB592945C5E5AE7BF0EAAB90EF89",
-      "url": "https://github.com/flibber-hk/HollowKnight.RecentItemsDisplay/releases/download/v1.2.2.0/RecentItemsDisplay.zip"
+      "sha256": "78FBCADF34693DCE2D7C10569DDB96251D2DC1427CC43B6669BE46B796966177",
+      "url": "https://github.com/flibber-hk/HollowKnight.RecentItemsDisplay/releases/download/v1.2.2.1/RecentItemsDisplay.zip"
     },
     "dependencies": [
       "ItemChanger"

@@ -1,3 +1,4 @@
-CustomJournal
 Pale Court
 ZoteCollectorHelper
+BingoSync
+RecentItemsDisplay
