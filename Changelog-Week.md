@@ -14,7 +14,7 @@
 
 ### BingoSync
 
-- Version: 0.0.0.7 -> 1.0.0.1
+- Version: 0.0.0.7 -> 1.0.0.2
 
 ### Pale Court
 

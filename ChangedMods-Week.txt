@@ -2,3 +2,4 @@ Pale Court
 ZoteCollectorHelper
 BingoSync
 RecentItemsDisplay
+BingoSync

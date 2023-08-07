@@ -17,3 +17,4 @@ CustomJournal
 Pale Court
 BingoSync
 RecentItemsDisplay
+BingoSync

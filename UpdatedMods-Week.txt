@@ -1,3 +1,4 @@
 Pale Court
 BingoSync
 RecentItemsDisplay
+BingoSync
