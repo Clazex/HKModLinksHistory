@@ -113,10 +113,6 @@
 
 - Version: 0.1.0.0 -> 0.1.0.1
 
-### UnityExplorerPlus
-
-- Version: 2.4.0.0 -> 2.6.0.0
-
 ### WeaverCore
 
 - Version: 1.2.0.0 -> 1.2.0.2
