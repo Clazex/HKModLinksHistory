@@ -7,3 +7,5 @@ EasySoulRefill
 NoBlur
 DarkerTransitions
 ZoteCollectorHelper
+LessVisualNoise
+Nosk God

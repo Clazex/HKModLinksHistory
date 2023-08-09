@@ -3,3 +3,7 @@ ZoteCollectorHelper
 BingoSync
 RecentItemsDisplay
 BingoSync
+HKTool
+LessVisualNoise
+Nosk God
+TheGloryOfBeingAFoolRandomizer

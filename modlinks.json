@@ -2603,11 +2603,11 @@
   },
   "HKTool": {
     "description": "A library mod",
-    "version": "2.2.0.0",
+    "version": "2.2.1.0",
     "links": {
       "type": "universal",
-      "sha256": "65F7DB3342E0386B48A07DDF47731562294FBE06DCAA1898371F2312AFBC7DA0",
-      "url": "https://github.com/HKLab/HollowKnightMod.Tool/releases/download/v2.2.0.1/Publish.zip"
+      "sha256": "FCE0348C4D69925195690E19DC6D334D5D46F8721173CDBD798E73F9820CBEAF",
+      "url": "https://github.com/HKLab/HollowKnightMod.Tool/releases/download/v2.2.1.0/Publish.zip"
     },
     "dependencies": [],
     "repository": "https://github.com/HKLab/HollowKnightMod.Tool/",
@@ -3188,6 +3188,24 @@
     "authors": [
       "Mulhima",
       "SFGrenade"
+    ]
+  },
+  "LessVisualNoise": {
+    "description": "Reduces amount of visuals in the game for accessibility purposes. Still in development. Recommended to use along with the No Particles mod",
+    "version": "1.0.7.1",
+    "links": {
+      "type": "universal",
+      "sha256": "CCF9F4E8BCAD76CD879F79105FF02D4C4A2624A23DA18355BC9012F397B652A8",
+      "url": "https://github.com/Acu1000/LessVisualNoise/releases/download/v1.0.7.1/LessVisualNoise.dll"
+    },
+    "dependencies": [],
+    "repository": "https://github.com/Acu1000/LessVisualNoise",
+    "issues": "https://github.com/Acu1000/LessVisualNoise/issues",
+    "tags": [
+      "Cosmetic"
+    ],
+    "authors": [
+      "Acu1000"
     ]
   },
   "LoadNormalizer": {
@@ -3857,6 +3875,32 @@
     },
     "dependencies": [],
     "repository": "https://github.com/lukeadickinson/HollowKnight.NoWalkOfShame"
+  },
+  "Nosk God": {
+    "description": "",
+    "version": "1.0.0.0",
+    "links": {
+      "type": "platform-dependent",
+      "windows": {
+        "sha256": "F8C6348BE8ECFBFAF6CCBB1EBCB9F48E415951A2C9B32125374CE71869A036A1",
+        "url": "https://github.com/HKLab/NoskGod/releases/download/v1.1/Publish-Windows.zip"
+      },
+      "mac": {
+        "sha256": "3A92084878FA02074CD71E1AFE02269A410DF397117BEA43899EA805BDCF112E",
+        "url": "https://github.com/HKLab/NoskGod/releases/download/v1.1/Publish-OSX.zip"
+      },
+      "linux": {
+        "sha256": "9B821AEF12E3F0414594F93BED6B370248C98172451BA39D140B0AE25D3B2388",
+        "url": "https://github.com/HKLab/NoskGod/releases/download/v1.1/Publish-Linux.zip"
+      }
+    },
+    "dependencies": [
+      "HKTool"
+    ],
+    "repository": "https://github.com/HKLab/NoskGod/",
+    "tags": [
+      "Boss"
+    ]
   },
   "OrbTracker": {
     "description": "Points an arrow to the closest Whispering Root orb, and counts how many you have gotten.",
@@ -5214,11 +5258,11 @@
   },
   "TheGloryOfBeingAFoolRandomizer": {
     "description": "Randomizes the glory of being a Fool.",
-    "version": "1.0.0.0",
+    "version": "1.0.1.0",
     "links": {
       "type": "universal",
-      "sha256": "8D28C07AAA5AF9F54F4F724C93BAA826509CF81D73EF49DB97DBB6E94E694A8B",
-      "url": "https://github.com/dpinela/TheGloryOfBeingAFoolRandomizer/releases/download/v1.0/TheGloryOfBeingAFoolRandomizer.zip"
+      "sha256": "5F86963EDFEE812FBAF36371CD0A9EB760E298C21ED8B0290BB5D67813CF1246",
+      "url": "https://github.com/dpinela/TheGloryOfBeingAFoolRandomizer/releases/download/v1.0.1/TheGloryOfBeingAFoolRandomizer.zip"
     },
     "dependencies": [
       "Randomizer 4"

@@ -17,3 +17,5 @@ Pale Court
 BingoSync
 RecentItemsDisplay
 BingoSync
+HKTool
+TheGloryOfBeingAFoolRandomizer
