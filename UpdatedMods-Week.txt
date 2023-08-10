@@ -4,3 +4,5 @@ RecentItemsDisplay
 BingoSync
 HKTool
 TheGloryOfBeingAFoolRandomizer
+BingoSync
+Nosk God

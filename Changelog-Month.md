@@ -3,15 +3,6 @@
 
 ## New mods
 
-### Crystal Machinist
-
-- Description: A mod that significantly changes up the Enraged Guardian bossfight
-- Dependencies
-  + WeaverCore
-- Tags
-  + Boss
-  + Gameplay
-
 ### DarkerTransitions
 
 - Description: Turns bright screen transitions black.
@@ -85,19 +76,15 @@
 
 ### BingoSync
 
-- Version: 0.0.0.3 -> 1.0.0.2
+- Version: 0.0.0.3 -> 1.0.0.3
 - Dependencies
   + Added
     - ItemChanger
     - Satchel
 
-### Corrupted Kin
+### Crystal Machinist
 
-- Version: 1.2.0.4 -> 1.3.0.0
-- Tags
-  + Removed
-    - Boss
-    - Gameplay
+- Version: 1.0.0.0 -> 2.0.0.0
 
 ### CustomJournal
 
@@ -109,11 +96,7 @@
 
 ### Inferno King Grimm
 
-- Version: 4.1.0.4 -> 4.2.0.1
-- Tags
-  + Removed
-    - Boss
-    - Gameplay
+- Version: 4.2.0.0 -> 4.2.0.1
 
 ### Pale Court
 
@@ -137,8 +120,8 @@
 
 ### WeaverCore
 
-- Version: 1.2.0.0 -> 1.2.0.2
+- Version: 1.2.0.1 -> 1.2.0.2
 - Tags
-  + Removed
-    - Library
+  + Added
+    - Utility
 

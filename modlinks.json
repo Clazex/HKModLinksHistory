@@ -400,11 +400,11 @@
   },
   "BingoSync": {
     "description": "A Hollow Knight mod that automatically marks squares on bingosync.com",
-    "version": "1.0.0.2",
+    "version": "1.0.0.3",
     "links": {
       "type": "universal",
-      "sha256": "6A6B22886D15C34A68200A05F6A88095A781C0CAE4B31A8D1F30AA3A7153F5D6",
-      "url": "https://github.com/pedroteosousa/HollowKnight.BingoSync/releases/download/1.0.0.2/BingoSync.zip"
+      "sha256": "6012BBF1B1132BE3E28FDE9D228688B5816F1136A0947A3A357991A6E993A443",
+      "url": "https://github.com/pedroteosousa/HollowKnight.BingoSync/releases/download/1.0.0.3/BingoSync.zip"
     },
     "dependencies": [
       "ItemChanger",
@@ -3878,20 +3878,20 @@
   },
   "Nosk God": {
     "description": "",
-    "version": "1.0.0.0",
+    "version": "1.1.0.0",
     "links": {
       "type": "platform-dependent",
       "windows": {
-        "sha256": "F8C6348BE8ECFBFAF6CCBB1EBCB9F48E415951A2C9B32125374CE71869A036A1",
-        "url": "https://github.com/HKLab/NoskGod/releases/download/v1.1/Publish-Windows.zip"
+        "sha256": "807C7FA235243FB7E35A8122184D8824A1E173E0085CD156A2BBFD40BF6B34AE",
+        "url": "https://github.com/HKLab/NoskGod/releases/download/v1.1.0.0/Publish-Windows.zip"
       },
       "mac": {
-        "sha256": "3A92084878FA02074CD71E1AFE02269A410DF397117BEA43899EA805BDCF112E",
-        "url": "https://github.com/HKLab/NoskGod/releases/download/v1.1/Publish-OSX.zip"
+        "sha256": "6471E84C453CAA2F9A311FE02A8AE5469AF6C869CE2510846EC8282EFC4E849C",
+        "url": "https://github.com/HKLab/NoskGod/releases/download/v1.1.0.0/Publish-OSX.zip"
       },
       "linux": {
-        "sha256": "9B821AEF12E3F0414594F93BED6B370248C98172451BA39D140B0AE25D3B2388",
-        "url": "https://github.com/HKLab/NoskGod/releases/download/v1.1/Publish-Linux.zip"
+        "sha256": "0D9143C198C54F17F276F94C240B09D810850816B75A394EB8871001FF22997F",
+        "url": "https://github.com/HKLab/NoskGod/releases/download/v1.1.0.0/Publish-Linux.zip"
       }
     },
     "dependencies": [

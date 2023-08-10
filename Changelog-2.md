@@ -1,2 +1,30 @@
 # Changelog
 
+
+## New mods
+
+### LessVisualNoise
+
+- Description: Reduces amount of visuals in the game for accessibility purposes. Still in development. Recommended to use along with the No Particles mod
+- Tags
+  + Cosmetic
+
+### Nosk God
+
+- Description: 
+- Dependencies
+  + HKTool
+- Tags
+  + Boss
+
+
+## Updated mods
+
+### HKTool
+
+- Version: 2.2.0.0 -> 2.2.1.0
+
+### TheGloryOfBeingAFoolRandomizer
+
+- Version: 1.0.0.0 -> 1.0.1.0
+

@@ -4053,9 +4053,9 @@ This is a singleplayer mod. The "teamwork" refers to in-game events.</Descriptio
     <Manifest>
         <Name>HKTool</Name>
         <Description>A library mod</Description>
-        <Version>2.2.0.0</Version>
-        <Link SHA256="65F7DB3342E0386B48A07DDF47731562294FBE06DCAA1898371F2312AFBC7DA0">
-            <![CDATA[https://github.com/HKLab/HollowKnightMod.Tool/releases/download/v2.2.0.1/Publish.zip]]>
+        <Version>2.2.1.0</Version>
+        <Link SHA256="FCE0348C4D69925195690E19DC6D334D5D46F8721173CDBD798E73F9820CBEAF">
+            <![CDATA[https://github.com/HKLab/HollowKnightMod.Tool/releases/download/v2.2.1.0/Publish.zip]]>
         </Link>
         <Dependencies />
         <Repository>
@@ -4063,6 +4063,31 @@ This is a singleplayer mod. The "teamwork" refers to in-game events.</Descriptio
         </Repository>
         <Tags>
             <Tag>Library</Tag>
+        </Tags>
+    </Manifest>
+    <Manifest>
+        <Name>Nosk God</Name>
+        <Description></Description>
+        <Version>1.0.0.0</Version>
+        <Links>
+            <Linux SHA256="9B821AEF12E3F0414594F93BED6B370248C98172451BA39D140B0AE25D3B2388">
+                <![CDATA[https://github.com/HKLab/NoskGod/releases/download/v1.1/Publish-Linux.zip]]>
+            </Linux>
+            <Mac SHA256="3A92084878FA02074CD71E1AFE02269A410DF397117BEA43899EA805BDCF112E">
+                <![CDATA[https://github.com/HKLab/NoskGod/releases/download/v1.1/Publish-OSX.zip]]>
+            </Mac>
+            <Windows SHA256="F8C6348BE8ECFBFAF6CCBB1EBCB9F48E415951A2C9B32125374CE71869A036A1">
+                <![CDATA[https://github.com/HKLab/NoskGod/releases/download/v1.1/Publish-Windows.zip]]>
+            </Windows>
+        </Links>
+        <Dependencies>
+			<Dependency>HKTool</Dependency>
+		</Dependencies>
+        <Repository>
+            <![CDATA[https://github.com/HKLab/NoskGod/]]>
+        </Repository>
+        <Tags>
+            <Tag>Boss</Tag>
         </Tags>
     </Manifest>
     <Manifest>
@@ -5710,8 +5735,8 @@ This is a singleplayer mod. The "teamwork" refers to in-game events.</Descriptio
     <Manifest>
         <Name>TheGloryOfBeingAFoolRandomizer</Name>
         <Description>Randomizes the glory of being a Fool.</Description>
-        <Version>1.0.0.0</Version>
-        <Link SHA256="8d28c07aaa5af9f54f4f724c93baa826509cf81d73ef49db97dbb6e94e694a8b">https://github.com/dpinela/TheGloryOfBeingAFoolRandomizer/releases/download/v1.0/TheGloryOfBeingAFoolRandomizer.zip</Link>
+        <Version>1.0.1.0</Version>
+        <Link SHA256="5f86963edfee812fbaf36371cd0a9eb760e298c21ed8b0290bb5d67813cf1246">https://github.com/dpinela/TheGloryOfBeingAFoolRandomizer/releases/download/v1.0.1/TheGloryOfBeingAFoolRandomizer.zip</Link>
         <Dependencies>
             <Dependency>Randomizer 4</Dependency>
         </Dependencies>
@@ -5861,6 +5886,26 @@ This is a singleplayer mod. The "teamwork" refers to in-game events.</Descriptio
 		</Issues>
 		<Tags>
 			<Tag>Gameplay</Tag>
+		</Tags>
+		<Authors>
+			<Author>Acu1000</Author>
+		</Authors>
+	</Manifest>
+
+	<Manifest>
+		<Name>LessVisualNoise</Name>
+		<Description>Reduces amount of visuals in the game for accessibility purposes. Still in development. Recommended to use along with the No Particles mod</Description>
+		<Version>1.0.7.1</Version>
+		<Link SHA256="CCF9F4E8BCAD76CD879F79105FF02D4C4A2624A23DA18355BC9012F397B652A8"><![CDATA[https://github.com/Acu1000/LessVisualNoise/releases/download/v1.0.7.1/LessVisualNoise.dll]]></Link>
+		<Dependencies />
+		<Repository>
+			<![CDATA[https://github.com/Acu1000/LessVisualNoise]]>
+		</Repository>
+		<Issues>
+			<![CDATA[https://github.com/Acu1000/LessVisualNoise/issues]]>
+		</Issues>
+		<Tags>
+			<Tag>Cosmetic</Tag>
 		</Tags>
 		<Authors>
 			<Author>Acu1000</Author>

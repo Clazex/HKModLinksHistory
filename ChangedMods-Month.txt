@@ -1,7 +1,3 @@
-Corrupted Kin
-Crystal Machinist
-Inferno King Grimm
-WeaverCore
 Inferno King Grimm
 Transcendence
 WeaverCore
@@ -30,3 +26,5 @@ HKTool
 LessVisualNoise
 Nosk God
 TheGloryOfBeingAFoolRandomizer
+BingoSync
+Nosk God

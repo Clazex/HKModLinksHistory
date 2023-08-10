@@ -28,7 +28,7 @@
 
 ### BingoSync
 
-- Version: 0.0.0.7 -> 1.0.0.2
+- Version: 0.0.0.7 -> 1.0.0.3
 
 ### HKTool
 

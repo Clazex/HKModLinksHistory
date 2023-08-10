@@ -7,3 +7,5 @@ HKTool
 LessVisualNoise
 Nosk God
 TheGloryOfBeingAFoolRandomizer
+BingoSync
+Nosk God
