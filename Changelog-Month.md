@@ -94,10 +94,6 @@
 
 - Version: 2.2.0.0 -> 2.2.1.0
 
-### Inferno King Grimm
-
-- Version: 4.2.0.0 -> 4.2.0.1
-
 ### Pale Court
 
 - Version: 1.0.0.4 -> 1.0.1.0
@@ -110,18 +106,7 @@
 
 - Version: 1.0.0.0 -> 1.0.1.0
 
-### Transcendence
-
-- Version: 1.4.2.0 -> 1.5.0.0
-
 ### Twister Indicator
 
 - Version: 0.1.0.0 -> 0.1.0.1
-
-### WeaverCore
-
-- Version: 1.2.0.1 -> 1.2.0.2
-- Tags
-  + Added
-    - Utility
 

@@ -1,3 +1,2 @@
-ZoteCollectorHelper
 LessVisualNoise
 Nosk God
