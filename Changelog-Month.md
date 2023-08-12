@@ -84,7 +84,7 @@
 
 ### Crystal Machinist
 
-- Version: 1.0.0.0 -> 2.0.0.0
+- Version: 1.0.0.1 -> 2.0.0.0
 
 ### CustomJournal
 
@@ -93,6 +93,15 @@
 ### HKTool
 
 - Version: 2.2.0.0 -> 2.2.1.0
+
+### KorzUtils
+
+- Version: 0.4.0.0 -> 0.6.0.0
+- Tags
+  + Removed
+    - Library
+  + Added
+    - Utility
 
 ### Pale Court
 

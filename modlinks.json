@@ -3138,16 +3138,16 @@
   },
   "KorzUtils": {
     "description": "Library mod that provide useful functions for other mods.",
-    "version": "0.4.0.0",
+    "version": "0.6.0.0",
     "links": {
       "type": "universal",
-      "sha256": "A80658B0B8D3BF786FC14A7A392EFE4436C41A1C6DEE98013A648BC7B451D860",
-      "url": "https://github.com/Korzer420/KorzUtils/releases/download/v0.4.0/KorzUtils.zip"
+      "sha256": "CA2CBDFAE5F6289F03E3556AF02A43DB53DC87165BE01578847B131936923470",
+      "url": "https://github.com/Korzer420/KorzUtils/releases/download/v0.6.0/KorzUtils.zip"
     },
     "dependencies": [],
     "repository": "https://github.com/Korzer420/KorzUtils",
     "tags": [
-      "Utility"
+      "Library"
     ],
     "authors": [
       "Korz"
