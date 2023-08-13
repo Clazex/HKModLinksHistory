@@ -1,8 +1,9 @@
-BingoSync
 HKTool
 LessVisualNoise
 Nosk God
 TheGloryOfBeingAFoolRandomizer
 BingoSync
 Nosk God
+KorzUtils
+Curse Randomizer
 KorzUtils

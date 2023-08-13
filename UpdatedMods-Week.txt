@@ -1,6 +1,7 @@
-BingoSync
 HKTool
 TheGloryOfBeingAFoolRandomizer
 BingoSync
 Nosk God
+KorzUtils
+Curse Randomizer
 KorzUtils

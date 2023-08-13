@@ -938,11 +938,11 @@
   },
   "Curse Randomizer": {
     "description": "Randomizer 4 connection that adds additional cursed options.",
-    "version": "4.0.3.0",
+    "version": "5.0.0.0",
     "links": {
       "type": "universal",
-      "sha256": "50A71E5C77B6DB72C0E330629DC0598014A384B860DE6E2DDE079F34E2D0054C",
-      "url": "https://github.com/Korzer420/CurseRandomizer/releases/download/v4.0.3/CurseRandomizer.zip"
+      "sha256": "50D44E032963D6FE71A2A0DA493C63637B066701FFBE8A27181EED11C7D76EAE",
+      "url": "https://github.com/Korzer420/CurseRandomizer/releases/download/v5.0.0/CurseRandomizer.zip"
     },
     "dependencies": [
       "Benchwarp",
@@ -985,7 +985,7 @@
     "dependencies": [
       "Satchel"
     ],
-    "repository": "https://github.com/Zickles/HollowKnight.CustomKnight/"
+    "repository": "https://github.com/PrashantMohta/HollowKnight.CustomKnight/"
   },
   "Custom Trial": {
     "description": "Allows creation of custom trials for the Colosseum of Fools.",
@@ -3138,11 +3138,11 @@
   },
   "KorzUtils": {
     "description": "Library mod that provide useful functions for other mods.",
-    "version": "0.6.0.0",
+    "version": "0.6.1.0",
     "links": {
       "type": "universal",
-      "sha256": "CA2CBDFAE5F6289F03E3556AF02A43DB53DC87165BE01578847B131936923470",
-      "url": "https://github.com/Korzer420/KorzUtils/releases/download/v0.6.0/KorzUtils.zip"
+      "sha256": "FF2E3A34B3E0E06FEA51D793C9DBBC6CCC21FFE60A5CA84E7CF09425C367B7D0",
+      "url": "https://github.com/Korzer420/KorzUtils/releases/download/v0.6.1/KorzUtils.zip"
     },
     "dependencies": [],
     "repository": "https://github.com/Korzer420/KorzUtils",

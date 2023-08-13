@@ -86,6 +86,10 @@
 
 - Version: 1.0.0.1 -> 2.0.0.0
 
+### Curse Randomizer
+
+- Version: 4.0.3.0 -> 5.0.0.0
+
 ### CustomJournal
 
 - Version: 1.0.0.0 -> 1.0.0.1
@@ -96,7 +100,7 @@
 
 ### KorzUtils
 
-- Version: 0.4.0.0 -> 0.6.0.0
+- Version: 0.4.0.0 -> 0.6.1.0
 - Tags
   + Removed
     - Library
