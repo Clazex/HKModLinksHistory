@@ -27,3 +27,6 @@ Nosk God
 KorzUtils
 Curse Randomizer
 KorzUtils
+Archipelago
+Archipelago Map Mod
+Extra Rando

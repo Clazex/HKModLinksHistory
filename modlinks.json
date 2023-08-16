@@ -162,11 +162,11 @@
   },
   "Archipelago": {
     "description": "Enables play with the Archipelago multiworld system.",
-    "version": "0.1.1.2",
+    "version": "0.2.0.0",
     "links": {
       "type": "universal",
-      "sha256": "603662BE702D9A35D45EB2F65960133E0E34CF64C84E32A745320C35B21AE492",
-      "url": "https://github.com/ArchipelagoMW-HollowKnight/Archipelago.HollowKnight/releases/download/0.1.1.2/Archipelago.zip"
+      "sha256": "2FF9599A6C139E1F74D0120C8185BA7E81ABCE8F51752646C14A7B9B9C702563",
+      "url": "https://github.com/ArchipelagoMW-HollowKnight/Archipelago.HollowKnight/releases/download/v0.2.0/Archipelago.zip"
     },
     "dependencies": [
       "Benchwarp",
@@ -177,23 +177,24 @@
     "repository": "https://github.com/ArchipelagoMW-HollowKnight/Archipelago.HollowKnight/"
   },
   "Archipelago Map Mod": {
-    "description": "A conversion of the\n            Map Mod S that works with Archipelago Randomizer",
-    "version": "1.0.0.0",
+    "description": "A conversion of RandoMapMod that works with the Archipelago multiworld randomizer",
+    "version": "2.0.0.0",
     "links": {
       "type": "universal",
-      "sha256": "51572F3CB5A132285BCFF7EFE129E442967760CDC410C3E7E8774FFB94DC269C",
-      "url": "https://github.com/ArchipelagoMW-HollowKnight/HollowKnight.ArchipelagoMapMod/releases/download/V1.0.0/APMapMod.zip"
+      "sha256": "DD8F7D5CDC8588F78F6376AAEFC1BE4B1BBE36C00621E84A3997B7F255649B1B",
+      "url": "https://github.com/ArchipelagoMW-HollowKnight/Archipelago.APMapMod/releases/download/v2.0.0/ArchipelagoMapMod.zip"
     },
     "dependencies": [
       "Archipelago",
+      "ConnectionMetadataInjector",
       "ItemChanger",
       "MagicUI",
-      "MenuChanger",
+      "MapChanger",
+      "RCPathfinder",
       "RandomizerCore",
-      "Satchel",
-      "Vasi"
+      "Satchel"
     ],
-    "repository": "https://github.com/ArchipelagoMW-HollowKnight/HollowKnight.ArchipelagoMapMod/",
+    "repository": "https://github.com/ArchipelagoMW-HollowKnight/Archipelago.APMapMod",
     "integrations": [
       "AdditionalMaps",
       "Benchwarp"
@@ -1752,11 +1753,11 @@
   },
   "Extra Rando": {
     "description": "Randomizer 4 connection with miscellaneous settings.",
-    "version": "0.0.2.0",
+    "version": "0.1.0.0",
     "links": {
       "type": "universal",
-      "sha256": "44C16C585A08598AE1AC8C5A81D58AC3834E54E667273DB1B4DBA933D2B5E87C",
-      "url": "https://github.com/Korzer420/ExtraRando/releases/download/v0.0.2/ExtraRando.zip"
+      "sha256": "F0C66E70C40DA9C5A3B5A29EE908E4A5D7555FC87E95B343D52FA190F97EF003",
+      "url": "https://github.com/Korzer420/ExtraRando/releases/download/v0.1.0/ExtraRando.zip"
     },
     "dependencies": [
       "KorzUtils",
