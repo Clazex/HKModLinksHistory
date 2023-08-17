@@ -3841,6 +3841,9 @@ This is a singleplayer mod. The "teamwork" refers to in-game events.</Descriptio
         <Tags>
             <Tag>Gameplay</Tag>
         </Tags>
+	<Authors>
+            <Author>Mimijackz</Author>
+        </Authors>
     </Manifest>
     <Manifest>
         <Name>DeathCounter</Name>
@@ -4345,6 +4348,9 @@ This is a singleplayer mod. The "teamwork" refers to in-game events.</Descriptio
         <Repository>
             <![CDATA[https://github.com/Mimijackz-HKModding/MirroredHallownest]]>
         </Repository>
+	<Authors>
+            <Author>Mimijackz</Author>
+        </Authors>
     </Manifest>
     <Manifest>
         <Name>Archipelago</Name>
@@ -4930,6 +4936,9 @@ This is a singleplayer mod. The "teamwork" refers to in-game events.</Descriptio
         <Tags>
             <Tag>Gameplay</Tag>
         </Tags>
+	<Authors>
+            <Author>Mimijackz</Author>
+        </Authors>
     </Manifest>
     <Manifest>
         <Name>DarknessRandomizer</Name>
@@ -5076,8 +5085,8 @@ This is a singleplayer mod. The "teamwork" refers to in-game events.</Descriptio
     <Manifest>
         <Name>Twister Indicator</Name>
         <Description>Adds a gray tint (can be customised) to your soul bar when you can use spells with the Spell Twister charm</Description>
-        <Version>0.1.0.0</Version>
-        <Link SHA256="4EF3DEC308F8532D33AB01BF8BE9D35C9BBE9C6E427166DEA7E4AD3F47BD0632"><![CDATA[https://github.com/Mimijackz-HKModding/TwisterIndicator/releases/download/v0.1.0.0/TwisterIndicator.zip]]></Link>
+        <Version>0.1.0.1</Version>
+        <Link SHA256="7A481DAEC55D3338E195CA44AF8DEE09421D1FC89C6D47180B5EE10F80E6DD3C"><![CDATA[https://github.com/Mimijackz-HKModding/TwisterIndicator/releases/download/v0.1.0.1/TwisterIndicator.zip]]></Link>
         <Dependencies>
             <Dependency>Satchel</Dependency>
         </Dependencies>
@@ -5085,6 +5094,9 @@ This is a singleplayer mod. The "teamwork" refers to in-game events.</Descriptio
         <Tags>
             <Tag>Cosmetic</Tag>
         </Tags>
+	<Authors>
+            <Author>Mimijackz</Author>
+        </Authors>
     </Manifest>
     <Manifest>
         <Name>Carefree Grimm</Name>
@@ -5111,6 +5123,9 @@ This is a singleplayer mod. The "teamwork" refers to in-game events.</Descriptio
         <Tags>
             <Tag>Cosmetic</Tag>
         </Tags>
+    	<Authors>
+            <Author>Mimijackz</Author>
+        </Authors>
     </Manifest>
     <Manifest>
         <Name>CustomKnightPlus</Name>
@@ -5682,12 +5697,13 @@ This is a singleplayer mod. The "teamwork" refers to in-game events.</Descriptio
     <Manifest>
         <Name>BingoSync</Name>
         <Description>A Hollow Knight mod that automatically marks squares on bingosync.com</Description>
-        <Version>0.0.0.3</Version>
-        <Link SHA256="F8EEF256974014CFF8F40922C3806795132494430CCCDFC2AAD82D6B648069E8">
-            <![CDATA[https://github.com/pedroteosousa/HollowKnight.BingoSync/releases/download/0.0.0.3/BingoSync.zip]]>
+        <Version>0.0.0.5</Version>
+        <Link SHA256="66736B28B4FCA83A7D6CBDE4D752F914DC29AFDA6F97243A49C48BFE0796C7E1">
+            <![CDATA[https://github.com/pedroteosousa/HollowKnight.BingoSync/releases/download/0.0.0.5/BingoSync.zip]]>
         </Link>
         <Dependencies>
             <Dependency>MagicUI</Dependency>
+            <Dependency>Satchel</Dependency>
         </Dependencies>
         <Repository>
             <![CDATA[https://github.com/pedroteosousa/HollowKnight.BingoSync]]>
@@ -5707,4 +5723,27 @@ This is a singleplayer mod. The "teamwork" refers to in-game events.</Descriptio
             <![CDATA[https://github.com/Samihamer1/Hollow-Knight-Soul-Paladin]]>
         </Repository>
     </Manifest>
+    	<Manifest>
+	  <Name>NoBlur</Name>
+	  <Description>
+	    Clean your glasses and see Hollow Knight's background objects without blur. Mod Options for removing Blur planes, Fog objects, and Haze objects.
+	  </Description>
+	  <Version>0.0.0.0</Version>
+	  <Link SHA256="56BDF35F6AE52411910D4F2CA403A287DA0B8863112C1C23624ABC4228E103C0"><![CDATA[https://github.com/Destalta/NoBlur/releases/download/v1.0/NoBlur.zip]]></Link>
+	  <Dependencies>
+	    <Dependency>Satchel</Dependency>
+	  </Dependencies>
+	  <Repository>
+	    <![CDATA[https://github.com/Destalta/NoBlur]]>
+	  </Repository>
+	  <Issues>
+	    <![CDATA[https://github.com/Destalta/NoBlur/issues]]>
+	  </Issues>
+	  <Tags>
+	    <Tag>Cosmetic</Tag>
+	  </Tags>
+	  <Authors>
+	    <Author>Destalta</Author>
+	  </Authors>
+	</Manifest>
 </ModLinks>
