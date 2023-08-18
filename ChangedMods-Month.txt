@@ -1,4 +1,3 @@
-Additional Timelines
 BingoSync
 NoBlur
 Twister Indicator

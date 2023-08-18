@@ -33,10 +33,5 @@
 
 ### KorzUtils
 
-- Version: 0.4.0.0 -> 0.6.1.0
-- Tags
-  + Removed
-    - Library
-  + Added
-    - Utility
+- Version: 0.6.0.0 -> 0.6.1.0
 

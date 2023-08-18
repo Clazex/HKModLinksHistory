@@ -70,10 +70,6 @@
 
 ## Updated mods
 
-### Additional Timelines
-
-- Version: 1.0.2.0 -> 1.0.3.0
-
 ### Archipelago
 
 - Version: 0.1.1.2 -> 0.2.0.0

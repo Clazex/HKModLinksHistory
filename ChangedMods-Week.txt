@@ -1,4 +1,3 @@
-KorzUtils
 Curse Randomizer
 KorzUtils
 Archipelago
