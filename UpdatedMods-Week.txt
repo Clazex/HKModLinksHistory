@@ -1,5 +1,3 @@
-Curse Randomizer
-KorzUtils
 Archipelago
 Archipelago Map Mod
 Extra Rando
