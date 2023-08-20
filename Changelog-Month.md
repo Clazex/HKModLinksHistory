@@ -33,14 +33,6 @@
 - Tags
   + Cosmetic
 
-### NoBlur
-
-- Description: Clean your glasses and see Hollow Knight&#x27;s background objects without blur. Options for removing Blur planes, Fog objects, and Haze objects.
-- Dependencies
-  + Satchel
-- Tags
-  + Cosmetic
-
 ### Nosk God
 
 - Description: 
@@ -92,11 +84,10 @@
 
 ### BingoSync
 
-- Version: 0.0.0.3 -> 1.0.0.3
+- Version: 0.0.0.5 -> 1.0.0.3
 - Dependencies
   + Added
     - ItemChanger
-    - Satchel
 
 ### Crystal Machinist
 
@@ -127,6 +118,13 @@
   + Added
     - Utility
 
+### NoBlur
+
+- Version: 0.0.0.0 -> 1.1.0.0
+- Description
+  + Old: Clean your glasses and see Hollow Knight&#x27;s background objects without blur. Mod Options for removing Blur planes, Fog objects, and Haze objects.
+  + New: Clean your glasses and see Hollow Knight&#x27;s background objects without blur. Options for removing Blur planes, Fog objects, and Haze objects.
+
 ### Pale Court
 
 - Version: 1.0.0.4 -> 1.0.1.0
@@ -138,8 +136,4 @@
 ### TheGloryOfBeingAFoolRandomizer
 
 - Version: 1.0.0.0 -> 1.0.1.0
-
-### Twister Indicator
-
-- Version: 0.1.0.0 -> 0.1.0.1
 
