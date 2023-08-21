@@ -1,3 +1,4 @@
 Archipelago
 Archipelago Map Mod
 Extra Rando
+Curse Randomizer

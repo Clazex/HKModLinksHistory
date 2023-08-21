@@ -19,17 +19,17 @@
 - Tags
   + Gameplay
 
-### Keep Me Geo
-
-- Description: Don&#x27;t want the anxiety of losing everything when you die? Then Keep Me Geo will take your worries away! You won&#x27;t lose any more geo than you want to when you die!
-- Dependencies
-  + Satchel
-- Tags
-  + Gameplay
-
 ### LessVisualNoise
 
 - Description: Reduces amount of visuals in the game for accessibility purposes. Still in development. Recommended to use along with the No Particles mod
+- Tags
+  + Cosmetic
+
+### NoBlur
+
+- Description: Clean your glasses and see Hollow Knight&#x27;s background objects without blur. Options for removing Blur planes, Fog objects, and Haze objects.
+- Dependencies
+  + Satchel
 - Tags
   + Cosmetic
 
@@ -40,18 +40,6 @@
   + HKTool
 - Tags
   + Boss
-
-### ShyKnight
-
-- Description: Removes the audience from Godhome arenas and Colosseum of Fools
-- Tags
-  + Cosmetic
-
-### WideCamera
-
-- Description: Make ultrawide screens possible without black bars. Should also work for thinner than 16:9. In theory.
-- Tags
-  + Utility
 
 ### ZoteCollectorHelper
 
@@ -95,7 +83,7 @@
 
 ### Curse Randomizer
 
-- Version: 4.0.3.0 -> 5.0.0.0
+- Version: 4.0.3.0 -> 5.1.0.0
 
 ### CustomJournal
 
@@ -109,6 +97,10 @@
 
 - Version: 2.2.0.0 -> 2.2.1.0
 
+### Keep Me Geo
+
+- Version: 1.0.0.0 -> 1.1.0.2
+
 ### KorzUtils
 
 - Version: 0.4.0.0 -> 0.6.1.0
@@ -117,13 +109,6 @@
     - Library
   + Added
     - Utility
-
-### NoBlur
-
-- Version: 0.0.0.0 -> 1.1.0.0
-- Description
-  + Old: Clean your glasses and see Hollow Knight&#x27;s background objects without blur. Mod Options for removing Blur planes, Fog objects, and Haze objects.
-  + New: Clean your glasses and see Hollow Knight&#x27;s background objects without blur. Options for removing Blur planes, Fog objects, and Haze objects.
 
 ### Pale Court
 

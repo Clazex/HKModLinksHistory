@@ -939,11 +939,11 @@
   },
   "Curse Randomizer": {
     "description": "Randomizer 4 connection that adds additional cursed options.",
-    "version": "5.0.0.0",
+    "version": "5.1.0.0",
     "links": {
       "type": "universal",
-      "sha256": "50D44E032963D6FE71A2A0DA493C63637B066701FFBE8A27181EED11C7D76EAE",
-      "url": "https://github.com/Korzer420/CurseRandomizer/releases/download/v5.0.0/CurseRandomizer.zip"
+      "sha256": "FED6365DC451FCC3C5651231353360E65E88BD23D2111DB6D30FF32888A824BF",
+      "url": "https://github.com/Korzer420/CurseRandomizer/releases/download/v5.1.0/CurseRandomizer.zip"
     },
     "dependencies": [
       "Benchwarp",
