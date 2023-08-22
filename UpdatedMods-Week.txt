@@ -1,4 +1,5 @@
-Archipelago
-Archipelago Map Mod
-Extra Rando
 Curse Randomizer
+BingoSync
+Curse Randomizer
+MoreLocations
+TheRealJournalRando

@@ -3,31 +3,19 @@
 
 ## Updated mods
 
-### Archipelago
+### BingoSync
 
-- Version: 0.1.1.2 -> 0.2.0.0
-
-### Archipelago Map Mod
-
-- Version: 1.0.0.0 -> 2.0.0.0
-- Description
-  + Old: A conversion of the
-            Map Mod S that works with Archipelago Randomizer
-  + New: A conversion of RandoMapMod that works with the Archipelago multiworld randomizer
-- Dependencies
-  + Removed
-    - MenuChanger
-    - Vasi
-  + Added
-    - ConnectionMetadataInjector
-    - MapChanger
-    - RCPathfinder
+- Version: 1.0.0.3 -> 1.0.0.4
 
 ### Curse Randomizer
 
-- Version: 5.0.0.0 -> 5.1.0.0
+- Version: 5.0.0.0 -> 5.1.1.0
 
-### Extra Rando
+### MoreLocations
 
-- Version: 0.0.2.0 -> 0.1.0.0
+- Version: 1.0.8520.4027 -> 1.0.8633.9529
+
+### TheRealJournalRando
+
+- Version: 2.1.8506.38031 -> 2.2.8633.8591
 

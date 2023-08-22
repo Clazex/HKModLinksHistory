@@ -11,25 +11,9 @@
 - Tags
   + Cosmetic
 
-### EasySoulRefill
-
-- Description: Instantly refills your soul meter whenever you respawn, sit on a bench or enter a dream boss arena (compatible with Pale Court)
-- Dependencies
-  + Satchel
-- Tags
-  + Gameplay
-
 ### LessVisualNoise
 
 - Description: Reduces amount of visuals in the game for accessibility purposes. Still in development. Recommended to use along with the No Particles mod
-- Tags
-  + Cosmetic
-
-### NoBlur
-
-- Description: Clean your glasses and see Hollow Knight&#x27;s background objects without blur. Options for removing Blur planes, Fog objects, and Haze objects.
-- Dependencies
-  + Satchel
 - Tags
   + Cosmetic
 
@@ -72,10 +56,7 @@
 
 ### BingoSync
 
-- Version: 0.0.0.5 -> 1.0.0.3
-- Dependencies
-  + Added
-    - ItemChanger
+- Version: 0.0.0.6 -> 1.0.0.4
 
 ### Crystal Machinist
 
@@ -83,7 +64,7 @@
 
 ### Curse Randomizer
 
-- Version: 4.0.3.0 -> 5.1.0.0
+- Version: 4.0.3.0 -> 5.1.1.0
 
 ### CustomJournal
 
@@ -110,6 +91,10 @@
   + Added
     - Utility
 
+### MoreLocations
+
+- Version: 1.0.8520.4027 -> 1.0.8633.9529
+
 ### Pale Court
 
 - Version: 1.0.0.4 -> 1.0.1.0
@@ -121,4 +106,8 @@
 ### TheGloryOfBeingAFoolRandomizer
 
 - Version: 1.0.0.0 -> 1.0.1.0
+
+### TheRealJournalRando
+
+- Version: 2.1.8506.38031 -> 2.2.8633.8591
 

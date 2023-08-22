@@ -1,5 +1,3 @@
-EasySoulRefill
-NoBlur
 DarkerTransitions
 ZoteCollectorHelper
 LessVisualNoise
