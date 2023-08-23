@@ -1,5 +1,3 @@
-BingoSync
-Keep Me Geo
 DarkerTransitions
 Crystal Machinist
 CustomJournal

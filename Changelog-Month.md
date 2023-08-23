@@ -56,7 +56,7 @@
 
 ### BingoSync
 
-- Version: 0.0.0.6 -> 1.0.0.4
+- Version: 0.0.0.7 -> 1.0.0.4
 
 ### Crystal Machinist
 
@@ -77,10 +77,6 @@
 ### HKTool
 
 - Version: 2.2.0.0 -> 2.2.1.0
-
-### Keep Me Geo
-
-- Version: 1.0.0.0 -> 1.1.0.2
 
 ### KorzUtils
 
