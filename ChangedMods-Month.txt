@@ -1,4 +1,3 @@
-DarkerTransitions
 Crystal Machinist
 CustomJournal
 Pale Court
@@ -23,3 +22,4 @@ BingoSync
 Curse Randomizer
 MoreLocations
 TheRealJournalRando
+BingoSync

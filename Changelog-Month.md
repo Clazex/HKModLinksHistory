@@ -3,14 +3,6 @@
 
 ## New mods
 
-### DarkerTransitions
-
-- Description: Turns bright screen transitions black.
-- Dependencies
-  + Satchel
-- Tags
-  + Cosmetic
-
 ### LessVisualNoise
 
 - Description: Reduces amount of visuals in the game for accessibility purposes. Still in development. Recommended to use along with the No Particles mod
@@ -56,7 +48,7 @@
 
 ### BingoSync
 
-- Version: 0.0.0.7 -> 1.0.0.4
+- Version: 0.0.0.7 -> 1.1.0.0
 
 ### Crystal Machinist
 

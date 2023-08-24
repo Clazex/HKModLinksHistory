@@ -1,4 +1,3 @@
-DarkerTransitions
 ZoteCollectorHelper
 LessVisualNoise
 Nosk God

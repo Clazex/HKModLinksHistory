@@ -5,7 +5,7 @@
 
 ### BingoSync
 
-- Version: 1.0.0.3 -> 1.0.0.4
+- Version: 1.0.0.3 -> 1.1.0.0
 
 ### Curse Randomizer
 

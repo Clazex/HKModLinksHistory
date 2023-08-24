@@ -401,11 +401,11 @@
   },
   "BingoSync": {
     "description": "A Hollow Knight mod that automatically marks squares on bingosync.com",
-    "version": "1.0.0.4",
+    "version": "1.1.0.0",
     "links": {
       "type": "universal",
-      "sha256": "154CCE50D20A00A2559149A3386803B8E1CBB2F9C97AC1A30D8C1C61E50AF31B",
-      "url": "https://github.com/pedroteosousa/HollowKnight.BingoSync/releases/download/1.0.0.4/BingoSync.zip"
+      "sha256": "273FCD94E692FA08D3C92EBEB4BEB8361AA54695701EB98585B7773F9CBBA0E8",
+      "url": "https://github.com/pedroteosousa/HollowKnight.BingoSync/releases/download/1.1.0.0/BingoSync.zip"
     },
     "dependencies": [
       "ItemChanger",
