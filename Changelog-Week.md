@@ -9,7 +9,7 @@
 
 ### Curse Randomizer
 
-- Version: 5.0.0.0 -> 5.1.1.0
+- Version: 5.1.0.0 -> 5.1.1.0
 
 ### MoreLocations
 
