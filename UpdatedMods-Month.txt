@@ -1,4 +1,3 @@
-Crystal Machinist
 CustomJournal
 Pale Court
 BingoSync
