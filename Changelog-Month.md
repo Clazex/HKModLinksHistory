@@ -54,10 +54,6 @@
 
 - Version: 4.0.3.0 -> 5.1.1.0
 
-### CustomJournal
-
-- Version: 1.0.0.0 -> 1.0.0.1
-
 ### Extra Rando
 
 - Version: 0.0.2.0 -> 0.1.0.0

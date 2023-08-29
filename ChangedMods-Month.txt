@@ -1,4 +1,3 @@
-CustomJournal
 Pale Court
 ZoteCollectorHelper
 BingoSync
