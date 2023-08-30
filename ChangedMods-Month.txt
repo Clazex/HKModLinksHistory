@@ -21,3 +21,4 @@ Curse Randomizer
 MoreLocations
 TheRealJournalRando
 BingoSync
+Legacy Charm Costs

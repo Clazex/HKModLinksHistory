@@ -1,9 +1,12 @@
 # Changelog
 
 
-## Updated mods
+## New mods
 
-### BingoSync
+### Legacy Charm Costs
 
-- Version: 1.0.0.4 -> 1.1.0.0
+- Description: A mod that reverts Quick Slash and Flukenest to their older notch costs (2 notches). Offers the option to make the changes persistent on opened saves after being diabled.
+- Tags
+  + Gameplay
+  + Utility
 

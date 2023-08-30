@@ -3191,6 +3191,25 @@
       "SFGrenade"
     ]
   },
+  "Legacy Charm Costs": {
+    "description": "A mod that reverts Quick Slash and Flukenest to their older notch costs (2 notches). Offers the option to make the changes persistent on opened saves after being diabled.",
+    "version": "1.0.1.1",
+    "links": {
+      "type": "universal",
+      "sha256": "5EA6875FEE87BDB09F707C5F5BE6208073B0FB025021579B724087CBD5F61096",
+      "url": "https://github.com/Arwangha/LegacyCharmCosts/releases/download/v1.0.1.1/Legacy.Charm.Costs.zip"
+    },
+    "dependencies": [],
+    "repository": "https://github.com/Arwangha/LegacyCharmCosts",
+    "issues": "https://github.com/Arwangha/LegacyCharmCosts/issues",
+    "tags": [
+      "Gameplay",
+      "Utility"
+    ],
+    "authors": [
+      "Wangha"
+    ]
+  },
   "LessVisualNoise": {
     "description": "Reduces amount of visuals in the game for accessibility purposes. Still in development. Recommended to use along with the No Particles mod",
     "version": "1.0.7.1",

@@ -3,6 +3,13 @@
 
 ## New mods
 
+### Legacy Charm Costs
+
+- Description: A mod that reverts Quick Slash and Flukenest to their older notch costs (2 notches). Offers the option to make the changes persistent on opened saves after being diabled.
+- Tags
+  + Gameplay
+  + Utility
+
 ### LessVisualNoise
 
 - Description: Reduces amount of visuals in the game for accessibility purposes. Still in development. Recommended to use along with the No Particles mod
