@@ -1,5 +1,3 @@
-Pale Court
-ZoteCollectorHelper
 BingoSync
 RecentItemsDisplay
 BingoSync
@@ -22,3 +20,4 @@ MoreLocations
 TheRealJournalRando
 BingoSync
 Legacy Charm Costs
+ControllerFixes

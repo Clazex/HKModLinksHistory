@@ -525,24 +525,6 @@
       "Link459"
     ]
   },
-  "Button Prompt Switcher": {
-    "description": "Select the type of button prompts the game will display + solutions for other gamepad issues. Original steam discussion: https://steamcommunity.com/sharedfiles/filedetails/?id=2525497719",
-    "version": "0.0.1.0",
-    "links": {
-      "type": "universal",
-      "sha256": "270E59F65A5E0BC094D31FF69B3AB9ADCAB0780A18A65DBD254E658810EA490E",
-      "url": "https://github.com/TheMulhima/Button-Prompt-Switcher/releases/download/v0.0.1.0/Button.Prompt.Switcher.zip"
-    },
-    "dependencies": [
-      "HKMirror",
-      "Satchel"
-    ],
-    "repository": "https://github.com/TheMulhima/Button-Prompt-Switcher/",
-    "authors": [
-      "Mulhima",
-      "Tintingaroo"
-    ]
-  },
   "Cagney Carnation": {
     "description": "Hollow Knight mod that adds Cagney Carnation boss from Cuphead.",
     "version": "1.0.3.0",
@@ -785,6 +767,25 @@
     ],
     "authors": [
       "Clazex"
+    ]
+  },
+  "ControllerFixes": {
+    "description": "Fixes some controller issues and adds related features.",
+    "version": "1.0.1.0",
+    "links": {
+      "type": "universal",
+      "sha256": "688DCC5A83D5C1228D8780424434C7211293B47A29214E450FEB6A3755675835",
+      "url": "https://github.com/syyePhenomenol/ControllerFixes/releases/download/v1.0.1/ControllerFixes.zip"
+    },
+    "dependencies": [
+      "HKMirror",
+      "Satchel"
+    ],
+    "repository": "https://github.com/syyePhenomenol/ControllerFixes/",
+    "authors": [
+      "Mulhima",
+      "Phenomenol",
+      "Tintingaroo"
     ]
   },
   "Convenient Path of Pain": {

@@ -3,6 +3,13 @@
 
 ## New mods
 
+### ControllerFixes
+
+- Description: Fixes some controller issues and adds related features.
+- Dependencies
+  + HKMirror
+  + Satchel
+
 ### Legacy Charm Costs
 
 - Description: A mod that reverts Quick Slash and Flukenest to their older notch costs (2 notches). Offers the option to make the changes persistent on opened saves after being diabled.
@@ -24,11 +31,10 @@
 - Tags
   + Boss
 
-### ZoteCollectorHelper
 
-- Description: Tweaks to Grey Prince Zote and ascended Collector, like the HP of zotelings and more.
-- Dependencies
-  + Satchel
+## Removed mods
+
+- [object]
 
 
 ## Updated mods
@@ -81,10 +87,6 @@
 ### MoreLocations
 
 - Version: 1.0.8520.4027 -> 1.0.8633.9529
-
-### Pale Court
-
-- Version: 1.0.0.4 -> 1.0.1.0
 
 ### RecentItemsDisplay
 
