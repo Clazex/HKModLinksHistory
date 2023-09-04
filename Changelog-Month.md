@@ -61,7 +61,7 @@
 
 ### BingoSync
 
-- Version: 0.0.0.7 -> 1.1.0.0
+- Version: 1.0.0.1 -> 1.1.0.0
 
 ### Curse Randomizer
 
@@ -87,10 +87,6 @@
 ### MoreLocations
 
 - Version: 1.0.8520.4027 -> 1.0.8633.9529
-
-### RecentItemsDisplay
-
-- Version: 1.2.2.0 -> 1.2.2.1
 
 ### TheGloryOfBeingAFoolRandomizer
 

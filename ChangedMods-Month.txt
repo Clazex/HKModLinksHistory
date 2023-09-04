@@ -1,6 +1,4 @@
 BingoSync
-RecentItemsDisplay
-BingoSync
 HKTool
 LessVisualNoise
 Nosk God
