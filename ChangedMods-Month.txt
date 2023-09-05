@@ -1,4 +1,3 @@
-BingoSync
 HKTool
 LessVisualNoise
 Nosk God
