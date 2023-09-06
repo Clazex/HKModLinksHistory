@@ -3072,11 +3072,11 @@
   },
   "ItemSync": {
     "description": "A RandomizerMod 4 add-on for sharing item pickups between players.",
-    "version": "2.6.2.0",
+    "version": "2.6.3.0",
     "links": {
       "type": "universal",
-      "sha256": "389598161AD500827F4008C87932FD7657AD83501162D4BDED2544A9C75697D8",
-      "url": "https://github.com/Shadudev/HollowKnight.MultiWorld/releases/download/itemsync-v2.6.2/ItemSync.zip"
+      "sha256": "91CEE1FEE652A8C6E404CDCC2666AC2601B6EEBA2907B4FBF44A63CBC0A2DF76",
+      "url": "https://github.com/Shadudev/HollowKnight.MultiWorld/releases/download/itemsync-v2.6.3/ItemSync.zip"
     },
     "dependencies": [
       "MultiWorldLib",
@@ -3673,11 +3673,11 @@
   },
   "MultiWorld": {
     "description": "A RandomizerMod 4 add-on for distributing players' items between all their worlds.",
-    "version": "1.2.1.0",
+    "version": "1.2.2.0",
     "links": {
       "type": "universal",
-      "sha256": "F2A42AECB8D3F1CC8ED9363EB3DD290B6138DA5E2F132703EF5A74A70EE02844",
-      "url": "https://github.com/Shadudev/HollowKnight.MultiWorld/releases/download/multiworld-v1.2.1/MultiWorldMod.zip"
+      "sha256": "11AF38EC6DD3DCA92030D75E14A3E36F0657D9A7515318D629F071EE12112148",
+      "url": "https://github.com/Shadudev/HollowKnight.MultiWorld/releases/download/multiworld-v1.2.2/MultiWorldMod.zip"
     },
     "dependencies": [
       "MultiWorldLib",
@@ -3687,11 +3687,11 @@
   },
   "MultiWorldLib": {
     "description": "A library for ItemSync and MultiWorld network transmission.",
-    "version": "1.0.0.8",
+    "version": "1.0.0.9",
     "links": {
       "type": "universal",
-      "sha256": "55B8E6D926D1E39758B4A39D60BA0ED2B3DE61057BF4371078C4DD0DE3E894FB",
-      "url": "https://github.com/Shadudev/HollowKnight.MultiWorld/releases/download/common-files-is260-mw120/MultiWorldLib.zip"
+      "sha256": "CC1B628F51A277E2D3638D08F4CFEA3E4F42C757B6B7E93963061AF36E95D4DB",
+      "url": "https://github.com/Shadudev/HollowKnight.MultiWorld/releases/download/common-files-is263-mw122/MultiWorldLib.zip"
     },
     "dependencies": [],
     "repository": "https://github.com/Shadudev/HollowKnight.MultiWorld/"
@@ -4668,11 +4668,11 @@
   },
   "RecentItemsDisplay": {
     "description": "Add-on for ItemChanger (and Rando) which displays recently obtained pickups in the top-right of the screen.",
-    "version": "1.2.2.1",
+    "version": "1.2.2.2",
     "links": {
       "type": "universal",
-      "sha256": "78FBCADF34693DCE2D7C10569DDB96251D2DC1427CC43B6669BE46B796966177",
-      "url": "https://github.com/flibber-hk/HollowKnight.RecentItemsDisplay/releases/download/v1.2.2.1/RecentItemsDisplay.zip"
+      "sha256": "49E43F37279F0ECCA9C0A7CC81E33B9B54A84075FD61BF61076547874D9B8974",
+      "url": "https://github.com/flibber-hk/HollowKnight.RecentItemsDisplay/releases/download/v1.2.2.2/RecentItemsDisplay.zip"
     },
     "dependencies": [
       "ItemChanger"
@@ -4842,11 +4842,11 @@
   },
   "Scatternest": {
     "description": "Addon for Randomizer and ItemSync allowing players to start at multiple different locations.",
-    "version": "1.0.1.0",
+    "version": "1.1.0.0",
     "links": {
       "type": "universal",
-      "sha256": "7F8A275E65E31AAAD91B0ECEEEE0314EDFB73A82CD0228C3D080DD215F2A03A9",
-      "url": "https://github.com/flibber-hk/HollowKnight.Scatternest/releases/download/v1.0.1.0/Scatternest.zip"
+      "sha256": "827FD14661E18E2000CD47F724D3112577E2DF9DAB411D9B5BDFF23D132A3403",
+      "url": "https://github.com/flibber-hk/HollowKnight.Scatternest/releases/download/v1.1.0.0/Scatternest.zip"
     },
     "dependencies": [
       "Randomizer 4"

@@ -14,3 +14,8 @@ Curse Randomizer
 MoreLocations
 TheRealJournalRando
 BingoSync
+ItemSync
+MultiWorld
+MultiWorldLib
+RecentItemsDisplay
+Scatternest

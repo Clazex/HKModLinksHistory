@@ -18,3 +18,8 @@ TheRealJournalRando
 BingoSync
 Legacy Charm Costs
 ControllerFixes
+ItemSync
+MultiWorld
+MultiWorldLib
+RecentItemsDisplay
+Scatternest

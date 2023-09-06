@@ -1,1 +1,6 @@
 ControllerFixes
+ItemSync
+MultiWorld
+MultiWorldLib
+RecentItemsDisplay
+Scatternest

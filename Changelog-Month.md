@@ -75,6 +75,10 @@
 
 - Version: 2.2.0.0 -> 2.2.1.0
 
+### ItemSync
+
+- Version: 2.6.2.0 -> 2.6.3.0
+
 ### KorzUtils
 
 - Version: 0.4.0.0 -> 0.6.1.0
@@ -87,6 +91,22 @@
 ### MoreLocations
 
 - Version: 1.0.8520.4027 -> 1.0.8633.9529
+
+### MultiWorld
+
+- Version: 1.2.1.0 -> 1.2.2.0
+
+### MultiWorldLib
+
+- Version: 1.0.0.8 -> 1.0.0.9
+
+### RecentItemsDisplay
+
+- Version: 1.2.2.1 -> 1.2.2.2
+
+### Scatternest
+
+- Version: 1.0.1.0 -> 1.1.0.0
 
 ### TheGloryOfBeingAFoolRandomizer
 
