@@ -4,3 +4,4 @@ MultiWorld
 MultiWorldLib
 RecentItemsDisplay
 Scatternest
+TheGloryOfBeingAFoolRandomizer

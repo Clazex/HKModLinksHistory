@@ -38,3 +38,7 @@
 
 - Version: 1.0.1.0 -> 1.1.0.0
 
+### TheGloryOfBeingAFoolRandomizer
+
+- Version: 1.0.1.0 -> 1.0.2.0
+

@@ -5279,11 +5279,11 @@
   },
   "TheGloryOfBeingAFoolRandomizer": {
     "description": "Randomizes the glory of being a Fool.",
-    "version": "1.0.1.0",
+    "version": "1.0.2.0",
     "links": {
       "type": "universal",
-      "sha256": "5F86963EDFEE812FBAF36371CD0A9EB760E298C21ED8B0290BB5D67813CF1246",
-      "url": "https://github.com/dpinela/TheGloryOfBeingAFoolRandomizer/releases/download/v1.0.1/TheGloryOfBeingAFoolRandomizer.zip"
+      "sha256": "C23F0C6A9B870B83CAEA0E877289E62FCE18552BFA7FCF110CA90E05EE3925B1",
+      "url": "https://github.com/dpinela/TheGloryOfBeingAFoolRandomizer/releases/download/v1.0.2/TheGloryOfBeingAFoolRandomizer.zip"
     },
     "dependencies": [
       "Randomizer 4"

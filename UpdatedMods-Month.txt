@@ -1,5 +1,3 @@
-HKTool
-TheGloryOfBeingAFoolRandomizer
 BingoSync
 Nosk God
 KorzUtils
@@ -19,3 +17,4 @@ MultiWorld
 MultiWorldLib
 RecentItemsDisplay
 Scatternest
+TheGloryOfBeingAFoolRandomizer
