@@ -47,7 +47,7 @@
 
 ### BingoSync
 
-- Version: 1.0.0.2 -> 1.1.0.0
+- Version: 1.0.0.3 -> 1.1.0.0
 
 ### Curse Randomizer
 
@@ -81,10 +81,6 @@
 ### MultiWorldLib
 
 - Version: 1.0.0.8 -> 1.0.0.9
-
-### Nosk God
-
-- Version: 1.0.0.0 -> 1.1.0.0
 
 ### RecentItemsDisplay
 

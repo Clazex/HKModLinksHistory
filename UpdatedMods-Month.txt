@@ -1,5 +1,3 @@
-BingoSync
-Nosk God
 KorzUtils
 Curse Randomizer
 KorzUtils
