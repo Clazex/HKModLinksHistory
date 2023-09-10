@@ -63,12 +63,7 @@
 
 ### KorzUtils
 
-- Version: 0.4.0.0 -> 0.6.1.0
-- Tags
-  + Removed
-    - Library
-  + Added
-    - Utility
+- Version: 0.6.0.0 -> 0.6.1.0
 
 ### MoreLocations
 
@@ -81,6 +76,10 @@
 ### MultiWorldLib
 
 - Version: 1.0.0.8 -> 1.0.0.9
+
+### RandoPlus
+
+- Version: 1.6.0.3 -> 1.6.1.0
 
 ### RecentItemsDisplay
 

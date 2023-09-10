@@ -15,6 +15,10 @@
 
 - Version: 1.0.0.8 -> 1.0.0.9
 
+### RandoPlus
+
+- Version: 1.6.0.3 -> 1.6.1.0
+
 ### RecentItemsDisplay
 
 - Version: 1.2.2.1 -> 1.2.2.2
