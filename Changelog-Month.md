@@ -51,7 +51,7 @@
 
 ### Curse Randomizer
 
-- Version: 4.0.3.0 -> 5.1.1.0
+- Version: 5.0.0.0 -> 5.1.1.0
 
 ### Extra Rando
 
@@ -60,10 +60,6 @@
 ### ItemSync
 
 - Version: 2.6.2.0 -> 2.6.3.0
-
-### KorzUtils
-
-- Version: 0.6.0.0 -> 0.6.1.0
 
 ### MoreLocations
 
