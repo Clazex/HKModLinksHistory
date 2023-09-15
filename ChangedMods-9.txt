@@ -1,5 +1,1 @@
-ItemSync
-MultiWorld
-MultiWorldLib
-RecentItemsDisplay
-Scatternest
+TheGloryOfBeingAFoolRandomizer
