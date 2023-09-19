@@ -1,4 +1,3 @@
-Curse Randomizer
 BingoSync
 Curse Randomizer
 MoreLocations
@@ -13,3 +12,9 @@ RecentItemsDisplay
 Scatternest
 TheGloryOfBeingAFoolRandomizer
 RandoPlus
+Benchwarp
+CustomConstraintInjector
+ItemChanger
+Randomizer 4
+Static Camera
+Vessel May Cry
