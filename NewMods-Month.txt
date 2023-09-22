@@ -2,3 +2,5 @@ Legacy Charm Costs
 ControllerFixes
 Static Camera
 Vessel May Cry
+AbsRad Configurable Attacks
+AbsRad Teleport Control

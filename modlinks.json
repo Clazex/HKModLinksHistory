@@ -1,4 +1,46 @@
 {
+  "AbsRad Configurable Attacks": {
+    "description": "Allows configuration of Absolute Radiance's attack frequencies.",
+    "version": "1.0.3.0",
+    "links": {
+      "type": "universal",
+      "sha256": "A6A7C272634908C6443CB6DFC2DDD05BDE1F43D3A586F6DCCC9F4DF2F71751B7",
+      "url": "https://github.com/EarlyHemisphere/HK.AbsRadConfigurableAttacks/releases/download/v1.0.3/AbsRadConfigurableAttacks.zip"
+    },
+    "dependencies": [
+      "SFCore",
+      "Satchel"
+    ],
+    "repository": "https://github.com/EarlyHemisphere/HK.AbsRadConfigurableAttacks",
+    "issues": "https://github.com/EarlyHemisphere/HK.AbsRadConfigurableAttacks/issues",
+    "tags": [
+      "Utility"
+    ],
+    "authors": [
+      "EarlyHemisphere"
+    ]
+  },
+  "AbsRad Teleport Control": {
+    "description": "Allows disabling teleport locations in the platform and final phases of the Absolute Radiance fight.",
+    "version": "1.0.1.0",
+    "links": {
+      "type": "universal",
+      "sha256": "91E6EBD84CB4CCEEBD38A109B3253FBB258E94398D973E3A3735E2F21DAA8EFC",
+      "url": "https://github.com/EarlyHemisphere/HK.RadianceTeleportControl/releases/download/v1.0.1/RadianceTeleportControl.zip"
+    },
+    "dependencies": [
+      "SFCore",
+      "Satchel"
+    ],
+    "repository": "https://github.com/EarlyHemisphere/HK.RadianceTeleportControl",
+    "issues": "https://github.com/EarlyHemisphere/HK.RadianceTeleportControl/issues",
+    "tags": [
+      "Utility"
+    ],
+    "authors": [
+      "EarlyHemisphere"
+    ]
+  },
   "Abskoth": {
     "description": "A gameplay mod that adds invincible Markoths to the Absolute Radiance fight.",
     "version": "1.0.0.0",
@@ -4778,11 +4820,11 @@
   },
   "SFCore": {
     "description": "Library mod used by other mods.",
-    "version": "1.5.9.0",
+    "version": "1.5.9.1",
     "links": {
       "type": "universal",
-      "sha256": "1DAE0AC19EC8DF9E822DA14BC3FEF93A3311F8CABBBAFEB18B0E3A06EDC79512",
-      "url": "https://github.com/SFGrenade/SFCore/releases/download/v1.5.9/SFCore.zip"
+      "sha256": "C0F4C4F252A536057F0BDE52A6D6C6F8CA100D7934947067A5043D2FBCFB1126",
+      "url": "https://github.com/SFGrenade/SFCore/releases/download/v1.5.9.1/SFCore.zip"
     },
     "dependencies": [],
     "repository": "https://github.com/SFGrenade/SFCore/",

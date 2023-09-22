@@ -3,6 +3,24 @@
 
 ## New mods
 
+### AbsRad Configurable Attacks
+
+- Description: Allows configuration of Absolute Radiance&#x27;s attack frequencies.
+- Dependencies
+  + SFCore
+  + Satchel
+- Tags
+  + Utility
+
+### AbsRad Teleport Control
+
+- Description: Allows disabling teleport locations in the platform and final phases of the Absolute Radiance fight.
+- Dependencies
+  + SFCore
+  + Satchel
+- Tags
+  + Utility
+
 ### Static Camera
 
 - Description: Locks the camera in place with a keybind.
@@ -38,4 +56,8 @@
 ### Randomizer 4
 
 - Version: 4.1.2.1 -> 4.1.3.0
+
+### SFCore
+
+- Version: 1.5.9.0 -> 1.5.9.1
 

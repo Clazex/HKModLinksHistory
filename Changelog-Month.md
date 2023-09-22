@@ -3,6 +3,24 @@
 
 ## New mods
 
+### AbsRad Configurable Attacks
+
+- Description: Allows configuration of Absolute Radiance&#x27;s attack frequencies.
+- Dependencies
+  + SFCore
+  + Satchel
+- Tags
+  + Utility
+
+### AbsRad Teleport Control
+
+- Description: Allows disabling teleport locations in the platform and final phases of the Absolute Radiance fight.
+- Dependencies
+  + SFCore
+  + Satchel
+- Tags
+  + Utility
+
 ### ControllerFixes
 
 - Description: Fixes some controller issues and adds related features.
@@ -46,10 +64,6 @@
 
 - Version: 3.2.3.0 -> 3.2.4.0
 
-### BingoSync
-
-- Version: 1.0.0.4 -> 1.1.0.0
-
 ### CustomConstraintInjector
 
 - Version: 1.0.0.0 -> 1.0.1.0
@@ -81,6 +95,10 @@
 ### RecentItemsDisplay
 
 - Version: 1.2.2.1 -> 1.2.2.2
+
+### SFCore
+
+- Version: 1.5.9.0 -> 1.5.9.1
 
 ### Scatternest
 

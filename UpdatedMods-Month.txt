@@ -1,4 +1,3 @@
-BingoSync
 ItemSync
 MultiWorld
 MultiWorldLib
@@ -10,3 +9,4 @@ Benchwarp
 CustomConstraintInjector
 ItemChanger
 Randomizer 4
+SFCore
