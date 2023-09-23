@@ -64,6 +64,10 @@
 
 - Version: 3.2.3.0 -> 3.2.4.0
 
+### Charm Changer
+
+- Version: 1.0.2.31248 -> 1.0.3.246
+
 ### CustomConstraintInjector
 
 - Version: 1.0.0.0 -> 1.0.1.0

@@ -634,11 +634,11 @@
   },
   "Charm Changer": {
     "description": "Lets you customize the strength of some Charm effects",
-    "version": "1.0.2.31248",
+    "version": "1.0.3.246",
     "links": {
       "type": "universal",
-      "sha256": "30618B2FCA688847E26835B207F4CA07F9A92126510D9A718F7D067051726211",
-      "url": "https://github.com/Exempt-Medic/CharmChanger/releases/download/v1.0.2.31248/CharmChanger.zip"
+      "sha256": "C78ED6231EE977770DB053DF341DD7F750B3A5161AA5914459793ACBDB2E5AAF",
+      "url": "https://github.com/Exempt-Medic/CharmChanger/releases/download/v1.0.3.246/CharmChanger.zip"
     },
     "dependencies": [
       "HKMirror",
