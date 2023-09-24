@@ -11,3 +11,4 @@ ItemChanger
 Randomizer 4
 SFCore
 Charm Changer
+MultiWorld

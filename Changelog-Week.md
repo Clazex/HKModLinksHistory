@@ -57,6 +57,10 @@
 
 - Version: 2.1.2.0 -> 2.1.3.0
 
+### MultiWorld
+
+- Version: 1.2.2.0 -> 1.2.3.0
+
 ### Randomizer 4
 
 - Version: 4.1.2.1 -> 4.1.3.0
