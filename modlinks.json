@@ -655,11 +655,11 @@
   },
   "Charm Crab": {
     "description": "New Charm Mechanics, New Charms, New Spells, and Rebalances",
-    "version": "1.0.2.0",
+    "version": "1.0.6.0",
     "links": {
       "type": "universal",
-      "sha256": "C5A41616231E19BD15F9F536D691AF93860B9FE96EDE25706A1B98533AB08143",
-      "url": "https://github.com/DistractionCrab/Charm-Crab/releases/download/v1.0.3/CharmCrab.zip"
+      "sha256": "E55F481430D2111E0E9F19D2EE0A7675D739173E25E2BAF20D466B87040A77E9",
+      "url": "https://github.com/DistractionCrab/Charm-Crab/releases/download/v1.0.6/CharmCrab.zip"
     },
     "dependencies": [
       "SFCore",

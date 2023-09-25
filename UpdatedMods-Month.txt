@@ -12,3 +12,4 @@ Randomizer 4
 SFCore
 Charm Changer
 MultiWorld
+Charm Crab

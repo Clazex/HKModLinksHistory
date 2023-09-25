@@ -18,3 +18,4 @@ AbsRad Teleport Control
 SFCore
 Charm Changer
 MultiWorld
+Charm Crab
