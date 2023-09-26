@@ -1,2 +1,3 @@
 AbsRad Configurable Attacks
 AbsRad Teleport Control
+Steady Hands (automap)

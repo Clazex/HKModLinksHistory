@@ -3,7 +3,7 @@
 
 ## Updated mods
 
-### MultiWorld
+### Charm Crab
 
-- Version: 1.2.2.0 -> 1.2.3.0
+- Version: 1.0.2.0 -> 1.0.6.0
 

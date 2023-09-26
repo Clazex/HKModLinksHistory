@@ -19,3 +19,5 @@ SFCore
 Charm Changer
 MultiWorld
 Charm Crab
+Charm Overhaul
+Steady Hands (automap)

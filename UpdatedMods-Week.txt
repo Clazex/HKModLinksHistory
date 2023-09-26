@@ -2,3 +2,4 @@ SFCore
 Charm Changer
 MultiWorld
 Charm Crab
+Charm Overhaul
