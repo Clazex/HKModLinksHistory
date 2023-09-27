@@ -5239,11 +5239,11 @@
   },
   "Steady Hands (automap)": {
     "description": "Steadies the Knight's hands so they can draw while walking (updates map automatically without needing to rest at a bench)",
-    "version": "0.1.8668.10249",
+    "version": "1.0.8669.11302",
     "links": {
       "type": "universal",
-      "sha256": "57FE7BD723F06D5482DA406A574AFECEA99C76FF6E6569EAB8107EF9409FC3D0",
-      "url": "https://github.com/AuthorX/SteadyHands/releases/download/v0.1.8668.10249/SteadyHands.zip"
+      "sha256": "B24105BC62CDF5541A846891F5746DFEA0ADAD137951DD488C78BBD66477768D",
+      "url": "https://github.com/AuthorX/SteadyHands/releases/download/v1.0.8669.11302/SteadyHands.zip"
     },
     "dependencies": [
       "Satchel"
