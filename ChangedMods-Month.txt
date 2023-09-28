@@ -1,4 +1,3 @@
-Legacy Charm Costs
 ControllerFixes
 ItemSync
 MultiWorld
