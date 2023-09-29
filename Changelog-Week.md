@@ -14,9 +14,9 @@
 
 ## Updated mods
 
-### Charm Changer
+### BingoSync
 
-- Version: 1.0.2.31248 -> 1.0.3.246
+- Version: 1.1.0.0 -> 1.2.0.0
 
 ### Charm Crab
 
