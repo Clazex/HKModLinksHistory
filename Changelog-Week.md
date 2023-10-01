@@ -16,11 +16,7 @@
 
 ### BingoSync
 
-- Version: 1.1.0.0 -> 1.2.0.0
-
-### Charm Crab
-
-- Version: 1.0.2.0 -> 1.0.6.0
+- Version: 1.1.0.0 -> 1.2.1.0
 
 ### Charm Overhaul
 

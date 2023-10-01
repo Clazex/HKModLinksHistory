@@ -16,3 +16,4 @@ Charm Crab
 Charm Overhaul
 Steady Hands (automap)
 BingoSync
+BingoSync
