@@ -1,24 +1,13 @@
 # Changelog
 
 
-## New mods
-
-### Steady Hands (automap)
-
-- Description: Steadies the Knight&#x27;s hands so they can draw while walking (updates map automatically without needing to rest at a bench)
-- Dependencies
-  + Satchel
-- Tags
-  + Utility
-
-
 ## Updated mods
 
 ### BingoSync
 
 - Version: 1.1.0.0 -> 1.2.1.0
 
-### Charm Overhaul
+### Steady Hands (automap)
 
-- Version: 1.2.0.30958 -> 1.3.0.38330
+- Version: 0.1.8668.10249 -> 1.0.8669.11302
 

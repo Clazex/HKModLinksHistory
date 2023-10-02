@@ -21,13 +21,6 @@
 - Tags
   + Utility
 
-### ControllerFixes
-
-- Description: Fixes some controller issues and adds related features.
-- Dependencies
-  + HKMirror
-  + Satchel
-
 ### Static Camera
 
 - Description: Locks the camera in place with a keybind.
@@ -52,11 +45,6 @@
   + Vasi
 - Tags
   + Gameplay
-
-
-## Removed mods
-
-- [object]
 
 
 ## Updated mods
