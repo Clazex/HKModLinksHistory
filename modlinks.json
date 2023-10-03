@@ -4189,6 +4189,24 @@
       "Gameplay"
     ]
   },
+  "PersistentDivine": {
+    "description": "A mod that keeps Divines tent in Dirtmouth even after you banish the Grimm Troupe so you don't accidentally miss the chance to get unbreakable charms",
+    "version": "1.0.0.1",
+    "links": {
+      "type": "universal",
+      "sha256": "78FAE35AEA88840B8C2EB6CA13ECDEDCD1A552F07B4B6E88EC1E972F51C43321",
+      "url": "https://github.com/YoJames2019/PersistentDivine/releases/download/v1.0.0/PersistentDivine-1.0.zip"
+    },
+    "dependencies": [],
+    "repository": "https://github.com/YoJames2019/PersistentDivine/",
+    "issues": "https://github.com/YoJames2019/PersistentDivine/issues",
+    "tags": [
+      "Gameplay"
+    ],
+    "authors": [
+      "therealyojames"
+    ]
+  },
   "Pet": {
     "description": "Gives pets that follow the hero.",
     "version": "0.1.4.0",
