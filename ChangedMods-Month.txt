@@ -1,8 +1,3 @@
-ItemSync
-MultiWorld
-MultiWorldLib
-RecentItemsDisplay
-Scatternest
 TheGloryOfBeingAFoolRandomizer
 RandoPlus
 Benchwarp
@@ -22,4 +17,5 @@ Steady Hands (automap)
 Steady Hands (automap)
 BingoSync
 BingoSync
+PersistentDivine
 PersistentDivine
