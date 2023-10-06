@@ -1,4 +1,3 @@
-TheGloryOfBeingAFoolRandomizer
 RandoPlus
 Benchwarp
 CustomConstraintInjector
