@@ -12,7 +12,7 @@
 
 ## Updated mods
 
-### BingoSync
+### HKMP
 
-- Version: 1.2.0.0 -> 1.2.1.0
+- Version: 2.3.0.0 -> 2.4.0.0
 

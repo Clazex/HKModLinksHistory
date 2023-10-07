@@ -12,3 +12,4 @@ Steady Hands (automap)
 BingoSync
 BingoSync
 PersistentDivine
+HKMP

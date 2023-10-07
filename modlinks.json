@@ -2523,11 +2523,11 @@
   },
   "HKMP": {
     "description": "Hollow Knight Multiplayer allows people to host games and let others join them in their adventures.",
-    "version": "2.3.0.0",
+    "version": "2.4.0.0",
     "links": {
       "type": "universal",
-      "sha256": "2C018037E72142B4CF236951424982141503BB34C2363CBE168986634CC156BE",
-      "url": "https://github.com/Extremelyd1/HKMP/releases/download/v2.3.0/HKMP.zip"
+      "sha256": "06766A69B781D280F5E28B1628AB9BD7A6C52EE488A44754F70BF663D8AF28B7",
+      "url": "https://github.com/Extremelyd1/HKMP/releases/download/v2.4.0/HKMP.zip"
     },
     "dependencies": [],
     "repository": "https://github.com/Extremelyd1/HKMP/",
