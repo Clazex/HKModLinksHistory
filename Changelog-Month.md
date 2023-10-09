@@ -81,7 +81,7 @@
 
 ### HKMP
 
-- Version: 2.3.0.0 -> 2.4.0.0
+- Version: 2.3.0.0 -> 2.4.1.0
 
 ### Hallownest-Vocalized
 
@@ -98,10 +98,6 @@
 ### MultiWorld
 
 - Version: 1.2.2.0 -> 1.2.3.0
-
-### RandoPlus
-
-- Version: 1.6.0.3 -> 1.6.1.0
 
 ### Randomizer 4
 

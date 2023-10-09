@@ -1,4 +1,3 @@
-RandoPlus
 Benchwarp
 CustomConstraintInjector
 ItemChanger
@@ -15,3 +14,4 @@ PersistentDivine
 HKMP
 Hallownest-Vocalized
 Hallownest-Vocalized-AudioLoader
+HKMP
