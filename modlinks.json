@@ -443,11 +443,11 @@
   },
   "BingoSync": {
     "description": "A Hollow Knight mod that automatically marks squares on bingosync.com",
-    "version": "1.2.1.0",
+    "version": "1.2.2.0",
     "links": {
       "type": "universal",
-      "sha256": "B332F97911D79FA6CFDD874A85A998E6AFF687895FD558740BA8E1CC723569CF",
-      "url": "https://github.com/pedroteosousa/HollowKnight.BingoSync/releases/download/1.2.1.0/BingoSync.zip"
+      "sha256": "872077342CDEC63940A910D55A6CFB2BD7571FAC91208E897BF15DC6476E0376",
+      "url": "https://github.com/pedroteosousa/HollowKnight.BingoSync/releases/download/1.2.2.0/BingoSync.zip"
     },
     "dependencies": [
       "ItemChanger",
@@ -813,11 +813,11 @@
   },
   "ControllerFixes": {
     "description": "Fixes some controller issues and adds related features.",
-    "version": "1.0.1.0",
+    "version": "1.0.2.0",
     "links": {
       "type": "universal",
-      "sha256": "688DCC5A83D5C1228D8780424434C7211293B47A29214E450FEB6A3755675835",
-      "url": "https://github.com/syyePhenomenol/ControllerFixes/releases/download/v1.0.1/ControllerFixes.zip"
+      "sha256": "D3DD3041C46EF1644512AF7EB9F3E5F50EE996EF99FEB7960172FE284DA9E3BD",
+      "url": "https://github.com/syyePhenomenol/ControllerFixes/releases/download/v1.0.2/ControllerFixes.zip"
     },
     "dependencies": [
       "HKMirror",
