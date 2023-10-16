@@ -17,3 +17,5 @@ Hallownest-Vocalized-AudioLoader
 HKMP
 BingoSync
 ControllerFixes
+Extra Rando
+KorzUtils

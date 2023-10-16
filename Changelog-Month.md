@@ -83,6 +83,10 @@
 
 - Version: 1.0.0.0 -> 1.0.1.0
 
+### Extra Rando
+
+- Version: 0.1.0.0 -> 0.2.0.0
+
 ### HKMP
 
 - Version: 2.3.0.0 -> 2.4.1.0
@@ -98,6 +102,10 @@
 ### ItemChanger
 
 - Version: 2.1.2.0 -> 2.1.3.0
+
+### KorzUtils
+
+- Version: 0.6.1.0 -> 0.7.0.0
 
 ### MultiWorld
 
