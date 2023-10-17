@@ -3,11 +3,11 @@
 
 ## Updated mods
 
-### BingoSync
+### Extra Rando
 
-- Version: 1.2.1.0 -> 1.2.2.0
+- Version: 0.1.0.0 -> 0.2.0.0
 
-### ControllerFixes
+### KorzUtils
 
-- Version: 1.0.1.0 -> 1.0.2.0
+- Version: 0.6.1.0 -> 0.7.0.0
 
