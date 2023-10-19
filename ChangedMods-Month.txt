@@ -19,3 +19,4 @@ BingoSync
 ControllerFixes
 Extra Rando
 KorzUtils
+Kindred Spirit
