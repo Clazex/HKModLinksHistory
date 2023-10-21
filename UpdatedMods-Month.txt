@@ -1,4 +1,3 @@
-SFCore
 Charm Changer
 MultiWorld
 Charm Crab
