@@ -33,10 +33,6 @@
 
 - Version: 1.1.0.0 -> 1.2.2.0
 
-### Charm Changer
-
-- Version: 1.0.2.31248 -> 1.0.3.246
-
 ### Charm Crab
 
 - Version: 1.0.2.0 -> 1.0.6.0
