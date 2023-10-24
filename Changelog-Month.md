@@ -33,10 +33,6 @@
 
 - Version: 1.1.0.0 -> 1.2.2.0
 
-### Charm Crab
-
-- Version: 1.0.2.0 -> 1.0.6.0
-
 ### Charm Overhaul
 
 - Version: 1.2.0.30958 -> 1.3.0.38330
