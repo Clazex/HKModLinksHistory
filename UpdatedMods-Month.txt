@@ -1,4 +1,3 @@
-Charm Overhaul
 Steady Hands (automap)
 BingoSync
 BingoSync

@@ -18,24 +18,12 @@
 - Tags
   + Gameplay
 
-### Steady Hands (automap)
-
-- Description: Steadies the Knight&#x27;s hands so they can draw while walking (updates map automatically without needing to rest at a bench)
-- Dependencies
-  + Satchel
-- Tags
-  + Utility
-
 
 ## Updated mods
 
 ### BingoSync
 
 - Version: 1.1.0.0 -> 1.2.2.0
-
-### Charm Overhaul
-
-- Version: 1.2.0.30958 -> 1.3.0.38330
 
 ### ControllerFixes
 
@@ -60,4 +48,8 @@
 ### KorzUtils
 
 - Version: 0.6.1.0 -> 0.7.0.0
+
+### Steady Hands (automap)
+
+- Version: 0.1.8668.10249 -> 1.0.8669.11302
 
