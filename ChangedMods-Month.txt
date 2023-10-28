@@ -1,5 +1,4 @@
 BingoSync
-BingoSync
 PersistentDivine
 PersistentDivine
 HKMP
