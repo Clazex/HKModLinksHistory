@@ -10,3 +10,4 @@ ControllerFixes
 Extra Rando
 KorzUtils
 Kindred Spirit
+Nailgod

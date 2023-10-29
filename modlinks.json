@@ -3789,16 +3789,16 @@
   },
   "Nailgod": {
     "description": "Sly modded boss.",
-    "version": "1.0.0.0",
+    "version": "1.0.0.2",
     "links": {
       "type": "universal",
-      "sha256": "CF797FAD17C0F309026C2F7243789E1BE6A3319E1F89F7234BED07CD193339A4",
-      "url": "https://github.com/nearrin/HollowKnight.Nailgod/releases/download/1.0.0.1/1.0.0.1.Release.zip"
+      "sha256": "7FA0EFF39C455FCEC4FCD38E4AC30F3D682055E448EB173A0302B533AB6D736B",
+      "url": "https://github.com/andieroot/HollowKnight.Nailgod/releases/download/1.0.0.2/Nailgod.1.0.0.2.zip"
     },
     "dependencies": [
       "Satchel"
     ],
-    "repository": "https://github.com/nearrin/HollowKnight.Nailgod/"
+    "repository": "https://github.com/andieroot/HollowKnight.Nailgod/"
   },
   "Nailmaster's Pride": {
     "description": "Nailmaster's Glory prevents regular Nail attacks but grants all Nail Arts and automatically charges them",

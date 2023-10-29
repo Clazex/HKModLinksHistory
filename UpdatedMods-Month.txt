@@ -8,3 +8,4 @@ BingoSync
 ControllerFixes
 Extra Rando
 KorzUtils
+Nailgod
