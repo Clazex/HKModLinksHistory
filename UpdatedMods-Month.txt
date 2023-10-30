@@ -1,4 +1,3 @@
-BingoSync
 PersistentDivine
 HKMP
 Hallownest-Vocalized
