@@ -1,5 +1,4 @@
 PersistentDivine
-PersistentDivine
 HKMP
 Hallownest-Vocalized
 Hallownest-Vocalized-AudioLoader
