@@ -3,6 +3,12 @@
 
 ## New mods
 
+### DapperMapperSpoils
+
+- Description: Adds a category to the condensed spoiler log which shows the locations of the 13 maps.
+- Integrations
+  + CondensedSpoilerLogger
+
 ### Kindred Spirit
 
 - Description: Replaces the Massive Mosscharger&#x27;s statue in Godhome with a dream and non dream version of the Greenpath Vessel.
@@ -18,6 +24,10 @@
 ### BingoSync
 
 - Version: 1.2.1.0 -> 1.2.2.0
+
+### CondensedSpoilerLogger
+
+- Version: 1.9.0.0 -> 1.10.0.0
 
 ### ControllerFixes
 

@@ -8,3 +8,4 @@ ControllerFixes
 Extra Rando
 KorzUtils
 Nailgod
+CondensedSpoilerLogger

@@ -748,11 +748,11 @@
   },
   "CondensedSpoilerLogger": {
     "description": "Creates a Condensed Spoiler Log (and several others) in the Rando Logs directory with the key information about the seed.",
-    "version": "1.9.0.0",
+    "version": "1.10.0.0",
     "links": {
       "type": "universal",
-      "sha256": "611B20EC4B6099DDD07F1FF75D2A41714576FB64A7CDBA6569EA2C1E4996B5C7",
-      "url": "https://github.com/flibber-hk/HollowKnight.CondensedSpoilerLogger/releases/download/v1.9.0.0/CondensedSpoilerLogger.zip"
+      "sha256": "3718A726C19FF5C65A86555DED7B00975D833346E58C6BA4EAF72CBF287C003B",
+      "url": "https://github.com/flibber-hk/HollowKnight.CondensedSpoilerLogger/releases/download/v1.10.0.0/CondensedSpoilerLogger.zip"
     },
     "dependencies": [
       "Randomizer 4"
@@ -1258,6 +1258,20 @@
     "repository": "https://github.com/jngo102/DamageValues",
     "tags": [
       "Cosmetic"
+    ]
+  },
+  "DapperMapperSpoils": {
+    "description": "Adds a category to the condensed spoiler log which shows the locations of the 13 maps.",
+    "version": "1.0.0.1",
+    "links": {
+      "type": "universal",
+      "sha256": "2AC7AD5C10E1999130A6FF74DE89307A15EDA588C4768E2F9AC18D764E2156F9",
+      "url": "https://github.com/flibber-hk/HollowKnight.DapperMapperSpoils/releases/download/v1.0.0.1/DapperMapperSpoils.zip"
+    },
+    "dependencies": [],
+    "repository": "https://github.com/flibber-hk/HollowKnight.DapperMapperSpoils/",
+    "integrations": [
+      "CondensedSpoilerLogger"
     ]
   },
   "DarkerTransitions": {

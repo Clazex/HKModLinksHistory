@@ -9,3 +9,5 @@ Extra Rando
 KorzUtils
 Kindred Spirit
 Nailgod
+CondensedSpoilerLogger
+DapperMapperSpoils
