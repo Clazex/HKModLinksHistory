@@ -16,7 +16,7 @@
 
 - Version: 1.9.0.0 -> 1.10.0.0
 
-### Nailgod
+### Kindred Spirit
 
-- Version: 1.0.0.0 -> 1.0.0.2
+- Version: 1.0.0.0 -> 1.0.0.1
 

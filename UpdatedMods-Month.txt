@@ -8,3 +8,4 @@ Extra Rando
 KorzUtils
 Nailgod
 CondensedSpoilerLogger
+Kindred Spirit

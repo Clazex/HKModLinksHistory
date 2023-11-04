@@ -3180,11 +3180,11 @@
   },
   "Kindred Spirit": {
     "description": "Replaces the Massive Mosscharger's statue in Godhome with a dream and non dream version of the Greenpath Vessel.",
-    "version": "1.0.0.0",
+    "version": "1.0.0.1",
     "links": {
       "type": "universal",
-      "sha256": "A42ECC94A8C2395BAF76983AEF780D225F5C8652C0E1BCE7C1C081F13F4AADE1",
-      "url": "https://github.com/Samihamer1/Hollow-Knight-Kindred-Spirit/releases/download/v1.0.0.0/KindredSpirit1.zip"
+      "sha256": "437CFF5829CD63CC393250F358742A7D1DE1EE15227B1340B33D12FE730A0059",
+      "url": "https://github.com/Samihamer1/Hollow-Knight-Kindred-Spirit/releases/download/v1.0.0.1/KS1001.zip"
     },
     "dependencies": [
       "FrogCore",
