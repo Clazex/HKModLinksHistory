@@ -41,14 +41,6 @@
 
 - Version: 2.4.0.0 -> 2.4.1.0
 
-### Hallownest-Vocalized
-
-- Version: 1.0.1.2 -> 1.0.1.3
-
-### Hallownest-Vocalized-AudioLoader
-
-- Version: 1.0.1.1 -> 1.0.1.2
-
 ### KorzUtils
 
 - Version: 0.6.1.0 -> 0.7.0.0
