@@ -1,4 +1,3 @@
-HKMP
 BingoSync
 ControllerFixes
 Extra Rando
