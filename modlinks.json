@@ -1933,6 +1933,28 @@
       "Gameplay"
     ]
   },
+  "Fart Knight": {
+    "description": "Adds fart attack",
+    "version": "0.1.0.0",
+    "links": {
+      "type": "universal",
+      "sha256": "F8EAC10BB6184E372DF34855192F8CE4111F3810E10C5A89EB616F3606151F02",
+      "url": "https://github.com/AbsoluteStratos/FartKnight/releases/download/v0.1.0/FartKnight.zip"
+    },
+    "dependencies": [
+      "FrogCore",
+      "SFCore",
+      "Satchel"
+    ],
+    "repository": "https://github.com/AbsoluteStratos/FartKnight",
+    "issues": "https://github.com/AbsoluteStratos/FartKnight/issues",
+    "tags": [
+      "Gameplay"
+    ],
+    "authors": [
+      "Stratos"
+    ]
+  },
   "Fast Travel": {
     "description": "Travel anywhere within Hallownest by clicking on the map.",
     "version": "1.0.0.3",
