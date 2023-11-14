@@ -1,11 +1,11 @@
 {
   "AbsRad Configurable Attacks": {
-    "description": "Allows configuration of Absolute Radiance's attack frequencies.",
-    "version": "1.0.3.0",
+    "description": "Allows configuration of Absolute Radiance's attack frequencies. Works with multiple Radiances at once.",
+    "version": "1.1.1.0",
     "links": {
       "type": "universal",
-      "sha256": "A6A7C272634908C6443CB6DFC2DDD05BDE1F43D3A586F6DCCC9F4DF2F71751B7",
-      "url": "https://github.com/EarlyHemisphere/HK.AbsRadConfigurableAttacks/releases/download/v1.0.3/AbsRadConfigurableAttacks.zip"
+      "sha256": "3227C21CEFC7806182EDCB482912F1F8EA2B9F2F60C67018946AC54EF4AEC886",
+      "url": "https://github.com/EarlyHemisphere/HK.AbsRadConfigurableAttacks/releases/download/v1.1.1/AbsRadConfigurableAttacks.dll"
     },
     "dependencies": [
       "SFCore",
@@ -21,12 +21,12 @@
     ]
   },
   "AbsRad Teleport Control": {
-    "description": "Allows disabling teleport locations in the platform and final phases of the Absolute Radiance fight.",
-    "version": "1.0.1.0",
+    "description": "Allows disabling teleport locations in the platform and final phases of the Absolute Radiance fight. Works with multiple Radiances at once.",
+    "version": "1.1.1.0",
     "links": {
       "type": "universal",
-      "sha256": "91E6EBD84CB4CCEEBD38A109B3253FBB258E94398D973E3A3735E2F21DAA8EFC",
-      "url": "https://github.com/EarlyHemisphere/HK.RadianceTeleportControl/releases/download/v1.0.1/RadianceTeleportControl.zip"
+      "sha256": "AD155396CFE4DF7451F8BCDF18EFEFAA12A99EA2D0A4B81DC5C17F34F5EB8046",
+      "url": "https://github.com/EarlyHemisphere/HK.RadianceTeleportControl/releases/download/v1.1.1/RadianceTeleportControl.dll"
     },
     "dependencies": [
       "SFCore",
@@ -4442,6 +4442,26 @@
       "Phenomenol"
     ]
   },
+  "Radiance Multiplier": {
+    "description": "Allows fighting up to ten Absolute Radiances at once. Uses shared HP.",
+    "version": "1.0.1.0",
+    "links": {
+      "type": "universal",
+      "sha256": "B03F19455D6613E2B0B9088B2BF43A030AF2D3B059CEE611E5AF43E229DE54C0",
+      "url": "https://github.com/EarlyHemisphere/HK.RadianceMultiplier/releases/download/v1.0.1/RadianceMultipler.dll"
+    },
+    "dependencies": [
+      "Satchel"
+    ],
+    "repository": "https://github.com/EarlyHemisphere/HK.RadianceMultiplier",
+    "issues": "https://github.com/EarlyHemisphere/HK.RadianceMultiplier/issues",
+    "tags": [
+      "Gameplay"
+    ],
+    "authors": [
+      "EarlyHemisphere"
+    ]
+  },
   "RadianceExtras": {
     "description": "Adds Extra Things to the Abs Rad Fight",
     "version": "1.0.3.0",
@@ -4895,11 +4915,11 @@
   },
   "SFCore": {
     "description": "Library mod used by other mods.",
-    "version": "1.5.9.1",
+    "version": "1.5.10.0",
     "links": {
       "type": "universal",
-      "sha256": "C0F4C4F252A536057F0BDE52A6D6C6F8CA100D7934947067A5043D2FBCFB1126",
-      "url": "https://github.com/SFGrenade/SFCore/releases/download/v1.5.9.1/SFCore.zip"
+      "sha256": "61FAA600041F9737A560AB3CA478B4A5435F1E212F883EE8A8FA8E87D42EAFD3",
+      "url": "https://github.com/SFGrenade/SFCore/releases/download/v1.5.10/SFCore.zip"
     },
     "dependencies": [],
     "repository": "https://github.com/SFGrenade/SFCore/",
@@ -4908,7 +4928,9 @@
     ],
     "authors": [
       "Clazex",
-      "SFGrenade"
+      "Dandy",
+      "SFGrenade",
+      "dplochcoder"
     ]
   },
   "STFUGrimmChild": {
@@ -5708,11 +5730,11 @@
   },
   "Vessel May Cry": {
     "description": "A mod that overhauls the Knight's moveset to match Vergil's. Reading the mod page is recommended.",
-    "version": "1.0.0.0",
+    "version": "1.0.0.1",
     "links": {
       "type": "universal",
-      "sha256": "6B07083BB5D9342ACFC878744E8014BD785E3B64E583A7D2C0267F14FD4DE59F",
-      "url": "https://github.com/Samihamer1/Hollow-Knight-VesselMayCry/releases/download/v1.0.0.0/VMC1000.zip"
+      "sha256": "3B247B0B811F792155AF41C5108860A4926970D6A6C5E42F26E46FCE4FB97E8B",
+      "url": "https://github.com/Samihamer1/Hollow-Knight-VesselMayCry/releases/download/v1.0.0.1/VMC1001.zip"
     },
     "dependencies": [
       "FrogCore",

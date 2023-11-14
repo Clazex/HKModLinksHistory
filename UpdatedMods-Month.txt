@@ -1,7 +1,9 @@
-Extra Rando
-KorzUtils
 Nailgod
 CondensedSpoilerLogger
 Kindred Spirit
 Kindred Spirit
 Archipelago
+AbsRad Configurable Attacks
+AbsRad Teleport Control
+SFCore
+Vessel May Cry
