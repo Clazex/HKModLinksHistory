@@ -61,6 +61,10 @@
 
 - Version: 1.9.0.0 -> 1.10.0.0
 
+### Extra Rando
+
+- Version: 0.2.0.0 -> 0.2.2.0
+
 ### Nailgod
 
 - Version: 1.0.0.0 -> 1.0.0.2
