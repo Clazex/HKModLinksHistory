@@ -46,10 +46,6 @@
 
 - Version: 0.2.0.0 -> 0.2.2.0
 
-### Kindred Spirit
-
-- Version: 1.0.0.1 -> 1.0.0.2
-
 ### SFCore
 
 - Version: 1.5.9.1 -> 1.5.10.0
