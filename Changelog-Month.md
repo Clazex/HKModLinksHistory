@@ -19,15 +19,6 @@
 - Tags
   + Gameplay
 
-### Kindred Spirit
-
-- Description: Replaces the Massive Mosscharger&#x27;s statue in Godhome with a dream and non dream version of the Greenpath Vessel.
-- Dependencies
-  + FrogCore
-  + Vasi
-- Tags
-  + Boss
-
 ### Radiance Multiplier
 
 - Description: Allows fighting up to ten Absolute Radiances at once. Uses shared HP.
@@ -64,6 +55,10 @@
 ### Extra Rando
 
 - Version: 0.2.0.0 -> 0.2.2.0
+
+### Kindred Spirit
+
+- Version: 1.0.0.0 -> 1.0.0.2
 
 ### Nailgod
 

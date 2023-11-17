@@ -1,4 +1,3 @@
-Fart Knight
 Archipelago
 AbsRad Configurable Attacks
 AbsRad Teleport Control
