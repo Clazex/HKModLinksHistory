@@ -28,10 +28,6 @@
   + Old: Allows disabling teleport locations in the platform and final phases of the Absolute Radiance fight.
   + New: Allows disabling teleport locations in the platform and final phases of the Absolute Radiance fight. Works with multiple Radiances at once.
 
-### Archipelago
-
-- Version: 0.2.0.0 -> 0.2.1.0
-
 ### Extra Rando
 
 - Version: 0.2.0.0 -> 0.2.2.0
