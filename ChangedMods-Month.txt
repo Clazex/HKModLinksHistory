@@ -11,3 +11,5 @@ Radiance Multiplier
 SFCore
 Vessel May Cry
 Extra Rando
+FStats
+Randomizable Levers

@@ -1873,11 +1873,11 @@
   },
   "FStats": {
     "description": "Displays some stats about a run after the credits screen.",
-    "version": "2.0.0.1",
+    "version": "2.0.1.0",
     "links": {
       "type": "universal",
-      "sha256": "1F4B4F765A046024AD5EFD03BFD3ABAA380401A46B098AC8F083673E98474600",
-      "url": "https://github.com/flibber-hk/HollowKnight.FStats/releases/download/v2.0.0.1/FStats.zip"
+      "sha256": "42194BE0D64CA62A40877690C5CDDCA7CBB8F7FAF5661C9DA4732B344EF797EC",
+      "url": "https://github.com/flibber-hk/HollowKnight.FStats/releases/download/v2.0.1.0/FStats.zip"
     },
     "dependencies": [
       "Vasi"
@@ -4743,11 +4743,11 @@
   },
   "Randomizable Levers": {
     "description": "Randomizer 4 addon that adds the option to randomize levers. Activate lever rando in the Connections menu of Randomizer 4.",
-    "version": "1.2.4.2",
+    "version": "1.2.4.3",
     "links": {
       "type": "universal",
-      "sha256": "3C63AF850590CABFC8BF2D8A49DE042ABC9A6A52E3BBA1799483D53302467190",
-      "url": "https://github.com/flibber-hk/HollowKnight.RandomizableLevers/releases/download/v1.2.4.2/RandomizableLevers.zip"
+      "sha256": "BE42B162988354D7259EDAAF6681507131A31F3DF671D9EC18C77548FB96E118",
+      "url": "https://github.com/flibber-hk/HollowKnight.RandomizableLevers/releases/download/v1.2.4.3/RandomizableLevers.zip"
     },
     "dependencies": [
       "ItemChanger"
