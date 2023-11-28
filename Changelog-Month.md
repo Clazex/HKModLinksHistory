@@ -70,7 +70,7 @@
 
 ### SFCore
 
-- Version: 1.5.9.1 -> 1.5.10.0
+- Version: 1.5.9.1 -> 1.5.11.0
 
 ### Vessel May Cry
 

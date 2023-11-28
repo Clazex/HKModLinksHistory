@@ -1,9 +1,15 @@
 # Changelog
 
 
-## Updated mods
+## New mods
 
-### Kindred Spirit
+### Fart Knight
 
-- Version: 1.0.0.1 -> 1.0.0.2
+- Description: Adds fart attack
+- Dependencies
+  + FrogCore
+  + SFCore
+  + Satchel
+- Tags
+  + Gameplay
 

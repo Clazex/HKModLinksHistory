@@ -12,3 +12,4 @@ Vessel May Cry
 Extra Rando
 FStats
 Randomizable Levers
+SFCore
