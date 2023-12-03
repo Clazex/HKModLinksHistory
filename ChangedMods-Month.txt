@@ -1,5 +1,4 @@
 Kindred Spirit
-Kindred Spirit
 Fart Knight
 Archipelago
 AbsRad Configurable Attacks
@@ -11,3 +10,4 @@ Extra Rando
 FStats
 Randomizable Levers
 SFCore
+Core.FsmUtil

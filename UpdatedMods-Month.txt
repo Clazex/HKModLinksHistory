@@ -1,5 +1,4 @@
 Kindred Spirit
-Kindred Spirit
 Archipelago
 AbsRad Configurable Attacks
 AbsRad Teleport Control
@@ -9,3 +8,4 @@ Extra Rando
 FStats
 Randomizable Levers
 SFCore
+Core.FsmUtil

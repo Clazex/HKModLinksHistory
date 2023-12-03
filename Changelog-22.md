@@ -1,15 +1,9 @@
 # Changelog
 
 
-## New mods
+## Updated mods
 
-### Fart Knight
+### Archipelago
 
-- Description: Adds fart attack
-- Dependencies
-  + FrogCore
-  + SFCore
-  + Satchel
-- Tags
-  + Gameplay
+- Version: 0.2.0.0 -> 0.2.1.0
 

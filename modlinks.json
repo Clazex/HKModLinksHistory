@@ -846,11 +846,11 @@
   },
   "Core.FsmUtil": {
     "description": "A library mod for fsm editing.",
-    "version": "1.0.0.0",
+    "version": "1.1.0.0",
     "links": {
       "type": "universal",
-      "sha256": "C9CBE0AD0ACA52ECAAADA722751B1BBEEA7BD50E2AAAF8AFB518611C4D30A8BA",
-      "url": "https://github.com/hk-modding/HK.Core.FsmUtil/releases/download/v1/Core_FsmUtil.zip"
+      "sha256": "D81F5672A1C90C69E2CB5CA0DB303BA7514582FA284A4FA3D56EB5677C3F90F8",
+      "url": "https://github.com/hk-modding/HK.Core.FsmUtil/releases/download/v1.1/Core_FsmUtil.zip"
     },
     "dependencies": [],
     "repository": "https://github.com/hk-modding/HK.Core.FsmUtil",
