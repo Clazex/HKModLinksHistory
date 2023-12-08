@@ -12,3 +12,4 @@ Randomizable Levers
 SFCore
 Core.FsmUtil
 Extra Rando
+SFCore
