@@ -54,10 +54,6 @@
 
 - Version: 2.0.0.1 -> 2.0.1.0
 
-### Kindred Spirit
-
-- Version: 1.0.0.1 -> 1.0.0.2
-
 ### Randomizable Levers
 
 - Version: 1.2.4.2 -> 1.2.4.3
