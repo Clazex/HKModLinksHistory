@@ -3,16 +3,6 @@
 
 ## New mods
 
-### Fart Knight
-
-- Description: Adds fart attack
-- Dependencies
-  + FrogCore
-  + SFCore
-  + Satchel
-- Tags
-  + Gameplay
-
 ### Radiance Multiplier
 
 - Description: Allows fighting up to ten Absolute Radiances at once. Uses shared HP.
