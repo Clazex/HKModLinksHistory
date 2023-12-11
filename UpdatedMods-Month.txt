@@ -1,4 +1,3 @@
-Archipelago
 AbsRad Configurable Attacks
 AbsRad Teleport Control
 SFCore
@@ -10,3 +9,4 @@ SFCore
 Core.FsmUtil
 Extra Rando
 SFCore
+MoreDoors

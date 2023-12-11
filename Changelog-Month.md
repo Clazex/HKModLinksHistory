@@ -28,10 +28,6 @@
   + Old: Allows disabling teleport locations in the platform and final phases of the Absolute Radiance fight.
   + New: Allows disabling teleport locations in the platform and final phases of the Absolute Radiance fight. Works with multiple Radiances at once.
 
-### Archipelago
-
-- Version: 0.2.0.0 -> 0.2.1.0
-
 ### Core.FsmUtil
 
 - Version: 1.0.0.0 -> 1.1.0.0
@@ -43,6 +39,10 @@
 ### FStats
 
 - Version: 2.0.0.1 -> 2.0.1.0
+
+### MoreDoors
+
+- Version: 2.0.7.0 -> 2.0.8.0
 
 ### Randomizable Levers
 

@@ -3,7 +3,7 @@
 
 ## Updated mods
 
-### Core.FsmUtil
+### Extra Rando
 
-- Version: 1.0.0.0 -> 1.1.0.0
+- Version: 0.2.2.0 -> 0.2.3.0
 
