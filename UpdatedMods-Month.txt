@@ -1,7 +1,3 @@
-AbsRad Configurable Attacks
-AbsRad Teleport Control
-SFCore
-Vessel May Cry
 Extra Rando
 FStats
 Randomizable Levers
