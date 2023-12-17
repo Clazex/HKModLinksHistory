@@ -733,11 +733,11 @@
   },
   "CompassAlwaysOn": {
     "description": "Makes it so the Knight's icon always appears on the map, even if Wayward Compass isn't in your inventory.",
-    "version": "1.2.0.0",
+    "version": "1.2.1.0",
     "links": {
       "type": "universal",
-      "sha256": "B6D50F37B941BDD32FF4097AE0204C864A0C0559EC2D7C98954A1AFE6DAD46DC",
-      "url": "https://github.com/flibber-hk/HollowKnight.CompassAlwaysOn/releases/download/v1.2/CompassAlwaysOn.zip"
+      "sha256": "1C61505306092D651C360A60AF1175A7FF8CD6F273AD7B3A0F9C1145E9001A2E",
+      "url": "https://github.com/flibber-hk/HollowKnight.CompassAlwaysOn/releases/download/v1.2.1.0/CompassAlwaysOn.zip"
     },
     "dependencies": [],
     "repository": "https://github.com/flibber-hk/HollowKnight.CompassAlwaysOn/",

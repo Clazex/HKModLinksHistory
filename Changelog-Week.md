@@ -3,7 +3,7 @@
 
 ## Updated mods
 
-### MoreDoors
+### CompassAlwaysOn
 
-- Version: 2.0.7.0 -> 2.0.8.0
+- Version: 1.2.0.0 -> 1.2.1.0
 

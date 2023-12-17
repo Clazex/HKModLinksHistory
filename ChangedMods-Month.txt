@@ -5,3 +5,4 @@ Core.FsmUtil
 Extra Rando
 SFCore
 MoreDoors
+CompassAlwaysOn
