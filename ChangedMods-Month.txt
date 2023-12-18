@@ -6,3 +6,6 @@ Extra Rando
 SFCore
 MoreDoors
 CompassAlwaysOn
+MoreDoors
+PurenailCore
+RandoPlus

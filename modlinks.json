@@ -3686,11 +3686,11 @@
   },
   "MoreDoors": {
     "description": "A Rando 4 connection which adds more locked doors to Hallownest.",
-    "version": "2.0.8.0",
+    "version": "2.1.0.0",
     "links": {
       "type": "universal",
-      "sha256": "D8E91148BAA93B1C56FBCE1BD5E99185F58419430BF778D40B708FEB3A6B050B",
-      "url": "https://github.com/dplochcoder/HollowKnight.MoreDoors/releases/download/v2.0.8.0/MoreDoors.zip"
+      "sha256": "6A276671056834EA3F9CA23F546B53E3053373F332C4F24E0C63AD9E5EE3EE3E",
+      "url": "https://github.com/dplochcoder/HollowKnight.MoreDoors/releases/download/v2.1.0.0/MoreDoors.zip"
     },
     "dependencies": [
       "ItemChanger",
@@ -4346,11 +4346,11 @@
   },
   "PurenailCore": {
     "description": "Common utilities and interop for Purenail mods",
-    "version": "1.1.7.0",
+    "version": "1.1.8.0",
     "links": {
       "type": "universal",
-      "sha256": "2C44C842B51F55F4BA85D145DC72D9B731CE74E12084BF0A92BED7A4F10C4D1D",
-      "url": "https://github.com/dplochcoder/HollowKnight.PurenailCore/releases/download/v1.1.7.0/PurenailCore.zip"
+      "sha256": "DBC7A11A3D5C5387F49A34BEDA0A47A28AC88203E22B93E9F1932D6BAA7C4F6D",
+      "url": "https://github.com/dplochcoder/HollowKnight.PurenailCore/releases/download/v1.1.8.0/PurenailCore.zip"
     },
     "dependencies": [
       "Randomizer 4"
@@ -4584,11 +4584,11 @@
   },
   "RandoPlus": {
     "description": "Add-on for Randomizer 4 that adds more Randomization options; for example, randomize Mr Mushroom locations.",
-    "version": "1.6.1.0",
+    "version": "1.6.2.0",
     "links": {
       "type": "universal",
-      "sha256": "0F73421C9B6090E58B0ED34153AD8ACFF5317DC5A7FE7724E2DF6BBBCD498673",
-      "url": "https://github.com/flibber-hk/HollowKnight.RandoPlus/releases/download/v1.6.1.0/RandoPlus.zip"
+      "sha256": "A59DA21110F17BA4BBD60F04B4170D6D48B07C7804E1910074C4997EC4E38CBF",
+      "url": "https://github.com/flibber-hk/HollowKnight.RandoPlus/releases/download/v1.6.2.0/RandoPlus.zip"
     },
     "dependencies": [
       "ConnectionMetadataInjector",
