@@ -7,9 +7,13 @@
 
 - Version: 1.2.0.0 -> 1.2.1.0
 
+### DarknessRandomizer
+
+- Version: 1.4.6.0 -> 1.4.6.1
+
 ### MoreDoors
 
-- Version: 2.0.8.0 -> 2.1.0.0
+- Version: 2.0.8.0 -> 2.1.1.0
 
 ### PurenailCore
 
