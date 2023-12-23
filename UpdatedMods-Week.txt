@@ -1,6 +1,7 @@
-CompassAlwaysOn
 MoreDoors
 PurenailCore
 RandoPlus
 DarknessRandomizer
 MoreDoors
+Benchwarp
+ItemChangerDataLoader

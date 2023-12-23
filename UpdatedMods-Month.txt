@@ -11,3 +11,5 @@ PurenailCore
 RandoPlus
 DarknessRandomizer
 MoreDoors
+Benchwarp
+ItemChangerDataLoader

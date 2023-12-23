@@ -3,6 +3,10 @@
 
 ## Updated mods
 
+### Benchwarp
+
+- Version: 3.2.4.0 -> 3.2.5.0
+
 ### CompassAlwaysOn
 
 - Version: 1.2.0.0 -> 1.2.1.0
@@ -22,6 +26,10 @@
 ### FStats
 
 - Version: 2.0.0.1 -> 2.0.1.0
+
+### ItemChangerDataLoader
+
+- Version: 1.1.1.0 -> 1.1.2.0
 
 ### MoreDoors
 
