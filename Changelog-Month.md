@@ -23,10 +23,6 @@
 
 - Version: 0.2.2.0 -> 0.2.3.0
 
-### FStats
-
-- Version: 2.0.0.1 -> 2.0.1.0
-
 ### ItemChangerDataLoader
 
 - Version: 1.1.1.0 -> 1.1.2.0
@@ -42,10 +38,6 @@
 ### RandoPlus
 
 - Version: 1.6.1.0 -> 1.6.2.0
-
-### Randomizable Levers
-
-- Version: 1.2.4.2 -> 1.2.4.3
 
 ### SFCore
 

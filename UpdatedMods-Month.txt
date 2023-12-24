@@ -1,5 +1,3 @@
-FStats
-Randomizable Levers
 SFCore
 Core.FsmUtil
 Extra Rando
