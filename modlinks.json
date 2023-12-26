@@ -902,11 +902,11 @@
   },
   "Crafted Town": {
     "description": "The Crafted Town adds a new location, several spell alternatives and some charm upgrades (on alpha as of now).",
-    "version": "0.0.1.0",
+    "version": "0.1.0.0",
     "links": {
       "type": "universal",
-      "sha256": "55CBF3AB66AFA6F03553FA806F23A3BD1D33BA5836FA54FCEBE73811FD902FF7",
-      "url": "https://github.com/pronoespro/PronoesProMod/releases/download/DeeShield/PronoesProMod.zip"
+      "sha256": "9758DB20162351BF698CE37DCD9845AE7943D59B9D00A144313318EB184762CE",
+      "url": "https://github.com/pronoespro/PronoesProMod/releases/download/Christmas-time/PronoesProMod.zip"
     },
     "dependencies": [
       "SFCore",

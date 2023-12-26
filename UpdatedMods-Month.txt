@@ -11,3 +11,4 @@ DarknessRandomizer
 MoreDoors
 Benchwarp
 ItemChangerDataLoader
+Crafted Town
