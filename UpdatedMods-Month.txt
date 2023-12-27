@@ -1,4 +1,3 @@
-SFCore
 Core.FsmUtil
 Extra Rando
 SFCore
