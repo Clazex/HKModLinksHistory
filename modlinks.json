@@ -3009,6 +3009,27 @@
     ],
     "repository": "https://github.com/homothetyhk/ICExtraDeployers/"
   },
+  "ImmortalLight": {
+    "description": "A modboss for Absolute Radiance",
+    "version": "0.0.1.1",
+    "links": {
+      "type": "universal",
+      "sha256": "1CCE66D86D4ACE7B040465BB5A9F5E6F3B05280874A1AF032CCEB27A1FFC5B05",
+      "url": "https://github.com/MCXGK3/ImmortalLight/releases/download/0.0.1.1/ImmortalLight.zip"
+    },
+    "dependencies": [
+      "SFCore",
+      "Satchel"
+    ],
+    "repository": "https://github.com/MCXGK3/ImmortalLight",
+    "issues": "https://github.com/MCXGK3/ImmortalLight/issues",
+    "tags": [
+      "Boss"
+    ],
+    "authors": [
+      "MCXGK3"
+    ]
+  },
   "Infection Bomb": {
     "description": "Spawns radiance whenever you kill an infected(or any) bug",
     "version": "0.1.0.0",
@@ -3421,6 +3442,24 @@
     ],
     "tags": [
       "Gameplay"
+    ]
+  },
+  "LostFocus": {
+    "description": "A mod that automatically pauses and mutes the game when you switch tabs.",
+    "version": "1.0.0.0",
+    "links": {
+      "type": "universal",
+      "sha256": "7E86E7C9CF44F6A1D5BDC7CD942FD8D12EFAFDDEE6AD7745D7B6A49677601968",
+      "url": "https://github.com/Ruttie2006/LostFocus/releases/download/v1.0/LostFocus.zip"
+    },
+    "dependencies": [],
+    "repository": "https://github.com/Ruttie2006/LostFocus",
+    "issues": "https://github.com/Ruttie2006/LostFocus/issues",
+    "tags": [
+      "Utility"
+    ],
+    "authors": [
+      "Ruttie"
     ]
   },
   "MagicUI": {

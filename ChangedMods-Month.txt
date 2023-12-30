@@ -11,3 +11,5 @@ MoreDoors
 Benchwarp
 ItemChangerDataLoader
 Crafted Town
+ImmortalLight
+LostFocus
