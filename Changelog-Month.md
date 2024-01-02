@@ -48,13 +48,13 @@
 
 - Version: 1.4.6.0 -> 1.4.6.1
 
-### Extra Rando
-
-- Version: 0.2.2.0 -> 0.2.3.0
-
 ### ItemChangerDataLoader
 
 - Version: 1.1.1.0 -> 1.1.2.0
+
+### ItemSync
+
+- Version: 2.6.3.0 -> 2.7.0.0
 
 ### MoreDoors
 

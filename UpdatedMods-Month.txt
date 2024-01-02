@@ -1,4 +1,3 @@
-Extra Rando
 SFCore
 MoreDoors
 CompassAlwaysOn
@@ -10,3 +9,4 @@ MoreDoors
 Benchwarp
 ItemChangerDataLoader
 Crafted Town
+ItemSync
