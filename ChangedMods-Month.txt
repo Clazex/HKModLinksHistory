@@ -13,3 +13,4 @@ ImmortalLight
 LostFocus
 HKViz
 ItemSync
+HKViz

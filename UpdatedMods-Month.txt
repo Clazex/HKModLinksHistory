@@ -10,3 +10,4 @@ Benchwarp
 ItemChangerDataLoader
 Crafted Town
 ItemSync
+HKViz
