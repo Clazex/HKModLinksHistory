@@ -32,6 +32,10 @@
 
 ## Updated mods
 
+### Archipelago
+
+- Version: 0.2.1.0 -> 0.3.0.0
+
 ### Benchwarp
 
 - Version: 3.2.4.0 -> 3.2.5.0

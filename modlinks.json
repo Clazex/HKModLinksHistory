@@ -204,11 +204,11 @@
   },
   "Archipelago": {
     "description": "Enables play with the Archipelago multiworld system.",
-    "version": "0.2.1.0",
+    "version": "0.3.0.0",
     "links": {
       "type": "universal",
-      "sha256": "DE921EBACA35302560E2B7BF3F0B14056289BEE5324A7AC9EAE6D68614DB5991",
-      "url": "https://github.com/ArchipelagoMW-HollowKnight/Archipelago.HollowKnight/releases/download/v0.2.1/Archipelago.zip"
+      "sha256": "7EDE1835DC0162C5450736EC2A448AC79CAD2E91A3962CAF052F3BD7CF5606F2",
+      "url": "https://github.com/ArchipelagoMW-HollowKnight/Archipelago.HollowKnight/releases/download/v0.3.0/Archipelago.zip"
     },
     "dependencies": [
       "Benchwarp",
@@ -5863,7 +5863,9 @@
       "sha256": "6C5E1BF0D6E58BBFDE9FFA8B90A194526D802E117C762DD2A81A84753B7C8287",
       "url": "https://github.com/SFGrenade/WideCamera/releases/download/v1.5/WideCamera.zip"
     },
-    "dependencies": [],
+    "dependencies": [
+      "SFCore"
+    ],
     "repository": "https://github.com/SFGrenade/WideCamera/",
     "issues": "https://github.com/SFGrenade/WideCamera/issues",
     "tags": [

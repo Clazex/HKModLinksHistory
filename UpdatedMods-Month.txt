@@ -11,3 +11,4 @@ ItemChangerDataLoader
 Crafted Town
 ItemSync
 HKViz
+Archipelago

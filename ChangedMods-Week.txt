@@ -3,3 +3,4 @@ LostFocus
 HKViz
 ItemSync
 HKViz
+Archipelago
