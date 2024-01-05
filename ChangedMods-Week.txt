@@ -1,6 +1,8 @@
-ImmortalLight
-LostFocus
 HKViz
 ItemSync
 HKViz
 Archipelago
+Corrupted Kin
+Crystal Machinist
+Inferno King Grimm
+WeaverCore

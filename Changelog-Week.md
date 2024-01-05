@@ -14,21 +14,6 @@
 - Tags
   + Utility
 
-### ImmortalLight
-
-- Description: A modboss for Absolute Radiance
-- Dependencies
-  + SFCore
-  + Satchel
-- Tags
-  + Boss
-
-### LostFocus
-
-- Description: A mod that automatically pauses and mutes the game when you switch tabs.
-- Tags
-  + Utility
-
 
 ## Updated mods
 
@@ -36,7 +21,23 @@
 
 - Version: 0.2.1.0 -> 0.3.0.0
 
+### Corrupted Kin
+
+- Version: 1.3.0.0 -> 1.3.1.0
+
+### Crystal Machinist
+
+- Version: 2.0.0.0 -> 2.0.1.0
+
+### Inferno King Grimm
+
+- Version: 4.2.0.1 -> 4.2.1.0
+
 ### ItemSync
 
 - Version: 2.6.3.0 -> 2.7.0.0
+
+### WeaverCore
+
+- Version: 1.2.0.2 -> 2.0.0.0
 

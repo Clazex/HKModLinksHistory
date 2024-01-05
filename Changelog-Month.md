@@ -44,13 +44,25 @@
 
 - Version: 1.2.0.0 -> 1.2.1.0
 
+### Corrupted Kin
+
+- Version: 1.3.0.0 -> 1.3.1.0
+
 ### Crafted Town
 
 - Version: 0.0.1.0 -> 0.1.0.0
 
+### Crystal Machinist
+
+- Version: 2.0.0.0 -> 2.0.1.0
+
 ### DarknessRandomizer
 
 - Version: 1.4.6.0 -> 1.4.6.1
+
+### Inferno King Grimm
+
+- Version: 4.2.0.1 -> 4.2.1.0
 
 ### ItemChangerDataLoader
 
@@ -75,4 +87,8 @@
 ### SFCore
 
 - Version: 1.5.11.0 -> 1.5.11.1
+
+### WeaverCore
+
+- Version: 1.2.0.2 -> 2.0.0.0
 
