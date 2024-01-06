@@ -1,4 +1,3 @@
-SFCore
 MoreDoors
 CompassAlwaysOn
 MoreDoors
@@ -19,3 +18,5 @@ Corrupted Kin
 Crystal Machinist
 Inferno King Grimm
 WeaverCore
+CustomKnightSuperAnimationAddon
+FrogCore

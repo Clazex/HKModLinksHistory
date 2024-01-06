@@ -3,16 +3,14 @@
 
 ## New mods
 
-### HKViz
+### CustomKnightSuperAnimationAddon
 
-- Description: A mod that records analytics like movement, deaths, equipped charms, abilities used and many others to allows visualizing those analytics on hkviz.olii.dev
+- Description: Allows inserting custom spritesheets for animations.
 - Dependencies
-  + Core.FsmUtil
-  + HKMirror
-  + MapChanger
-  + Satchel
+  + Custom Knight
+  + FrogCore
 - Tags
-  + Utility
+  + Cosmetic
 
 
 ## Updated mods
@@ -28,6 +26,17 @@
 ### Crystal Machinist
 
 - Version: 2.0.0.0 -> 2.0.1.0
+
+### FrogCore
+
+- Version: 2.0.0.2 -> 2.0.1.0
+- Description
+  + Old: Library mod containing helpers for adding journal entries and npcs and many tk2d extension methods for editing and creating sprite collections and animations
+  + New: Library mod containing helpers for adding journal entries, npcs, shops and many tk2d helpers for editing and creating sprite collections and animations.
+
+### HKViz
+
+- Version: 1.2.0.0 -> 1.3.0.0
 
 ### Inferno King Grimm
 

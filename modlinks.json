@@ -1157,6 +1157,23 @@
       "Cosmetic"
     ]
   },
+  "CustomKnightSuperAnimationAddon": {
+    "description": "Allows inserting custom spritesheets for animations.",
+    "version": "1.0.0.1",
+    "links": {
+      "type": "universal",
+      "sha256": "F041694E6046A4B266901F128C1F10B8F093273CDEA12E068F0856A73222BE58",
+      "url": "https://github.com/RedFrog6002/CustomKnightSuperAnimationAddon/releases/download/v1.0.0.1/CustomKnightSuperAnimationAddon.zip"
+    },
+    "dependencies": [
+      "Custom Knight",
+      "FrogCore"
+    ],
+    "repository": "https://github.com/RedFrog6002/CustomKnightSuperAnimationAddon/",
+    "tags": [
+      "Cosmetic"
+    ]
+  },
   "CustomLogicInjector": {
     "description": "A Randomizer 4 add-on for providing user-defined logic edits.",
     "version": "1.1.0.0",
@@ -2079,12 +2096,12 @@
     "repository": "https://github.com/Araraura/FragileStrengthForNailArts/"
   },
   "FrogCore": {
-    "description": "Library mod containing helpers for adding journal entries and npcs and many tk2d extension methods for editing and creating sprite collections and animations",
-    "version": "2.0.0.2",
+    "description": "Library mod containing helpers for adding journal entries, npcs, shops and many tk2d helpers for editing and creating sprite collections and animations.",
+    "version": "2.0.1.0",
     "links": {
       "type": "universal",
-      "sha256": "FDDBA4F9EA212A0E5EDC72821FC574024B5F4D477EE94BB069655081D07D9B24",
-      "url": "https://github.com/RedFrog6002/FrogCore/releases/download/2.0.0.1/FrogCore.zip"
+      "sha256": "2943D569C5643521AB29BA17E8BA904FE1250719B2B1AD5E6116AFDA7F7BCDF8",
+      "url": "https://github.com/RedFrog6002/FrogCore/releases/download/v2.0.1.0/FrogCore.zip"
     },
     "dependencies": [],
     "repository": "https://github.com/RedFrog6002/FrogCore/",

@@ -3,6 +3,15 @@
 
 ## New mods
 
+### CustomKnightSuperAnimationAddon
+
+- Description: Allows inserting custom spritesheets for animations.
+- Dependencies
+  + Custom Knight
+  + FrogCore
+- Tags
+  + Cosmetic
+
 ### HKViz
 
 - Description: A mod that records analytics like movement, deaths, equipped charms, abilities used and many others to allows visualizing those analytics on hkviz.olii.dev
@@ -60,6 +69,13 @@
 
 - Version: 1.4.6.0 -> 1.4.6.1
 
+### FrogCore
+
+- Version: 2.0.0.2 -> 2.0.1.0
+- Description
+  + Old: Library mod containing helpers for adding journal entries and npcs and many tk2d extension methods for editing and creating sprite collections and animations
+  + New: Library mod containing helpers for adding journal entries, npcs, shops and many tk2d helpers for editing and creating sprite collections and animations.
+
 ### Inferno King Grimm
 
 - Version: 4.2.0.1 -> 4.2.1.0
@@ -83,10 +99,6 @@
 ### RandoPlus
 
 - Version: 1.6.1.0 -> 1.6.2.0
-
-### SFCore
-
-- Version: 1.5.11.0 -> 1.5.11.1
 
 ### WeaverCore
 
