@@ -16,3 +16,4 @@ Crystal Machinist
 Inferno King Grimm
 WeaverCore
 FrogCore
+DapperMapperSpoils

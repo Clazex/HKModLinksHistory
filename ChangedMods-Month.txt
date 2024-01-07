@@ -20,3 +20,4 @@ Inferno King Grimm
 WeaverCore
 CustomKnightSuperAnimationAddon
 FrogCore
+DapperMapperSpoils

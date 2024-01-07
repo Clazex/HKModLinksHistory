@@ -65,6 +65,10 @@
 
 - Version: 2.0.0.0 -> 2.0.1.0
 
+### DapperMapperSpoils
+
+- Version: 1.0.0.1 -> 1.1.0.0
+
 ### DarknessRandomizer
 
 - Version: 1.4.6.0 -> 1.4.6.1
