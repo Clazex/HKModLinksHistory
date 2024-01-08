@@ -1,4 +1,3 @@
-ItemSync
 HKViz
 Archipelago
 Corrupted Kin
@@ -8,3 +7,4 @@ WeaverCore
 CustomKnightSuperAnimationAddon
 FrogCore
 DapperMapperSpoils
+NotSpikesmas

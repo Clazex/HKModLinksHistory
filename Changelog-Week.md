@@ -12,6 +12,18 @@
 - Tags
   + Cosmetic
 
+### NotSpikesmas
+
+- Description: Adds an item to the randomization pool that protects against damage from spikes.
+- Dependencies
+  + ItemChanger
+  + MenuChanger
+  + RandomizerCore
+- Integrations
+  + CondensedSpoilerLogger
+  + RandoSettingsManager
+  + Randomizer 4
+
 
 ## Updated mods
 
@@ -45,10 +57,6 @@
 ### Inferno King Grimm
 
 - Version: 4.2.0.1 -> 4.2.1.0
-
-### ItemSync
-
-- Version: 2.6.3.0 -> 2.7.0.0
 
 ### WeaverCore
 

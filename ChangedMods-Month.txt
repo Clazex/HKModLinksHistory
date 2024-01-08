@@ -21,3 +21,4 @@ WeaverCore
 CustomKnightSuperAnimationAddon
 FrogCore
 DapperMapperSpoils
+NotSpikesmas
