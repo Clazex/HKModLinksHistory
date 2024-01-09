@@ -12,6 +12,14 @@
 - Tags
   + Cosmetic
 
+### Nightmare and Void
+
+- Description: Converts the Nightmare King Grimm fight into a custom duo boss with the Pure Vessel.
+- Dependencies
+  + Vasi
+- Tags
+  + Boss
+
 ### NotSpikesmas
 
 - Description: Adds an item to the randomization pool that protects against damage from spikes.
@@ -49,10 +57,6 @@
 - Description
   + Old: Library mod containing helpers for adding journal entries and npcs and many tk2d extension methods for editing and creating sprite collections and animations
   + New: Library mod containing helpers for adding journal entries, npcs, shops and many tk2d helpers for editing and creating sprite collections and animations.
-
-### HKViz
-
-- Version: 1.2.0.0 -> 1.3.0.0
 
 ### Inferno King Grimm
 

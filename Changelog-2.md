@@ -1,9 +1,17 @@
 # Changelog
 
 
-## Updated mods
+## New mods
 
-### DapperMapperSpoils
+### NotSpikesmas
 
-- Version: 1.0.0.1 -> 1.1.0.0
+- Description: Adds an item to the randomization pool that protects against damage from spikes.
+- Dependencies
+  + ItemChanger
+  + MenuChanger
+  + RandomizerCore
+- Integrations
+  + CondensedSpoilerLogger
+  + RandoSettingsManager
+  + Randomizer 4
 

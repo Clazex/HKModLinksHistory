@@ -38,6 +38,14 @@
 - Tags
   + Utility
 
+### Nightmare and Void
+
+- Description: Converts the Nightmare King Grimm fight into a custom duo boss with the Pure Vessel.
+- Dependencies
+  + Vasi
+- Tags
+  + Boss
+
 ### NotSpikesmas
 
 - Description: Adds an item to the randomization pool that protects against damage from spikes.
@@ -106,7 +114,7 @@
 
 ### MoreDoors
 
-- Version: 2.0.7.0 -> 2.1.1.0
+- Version: 2.0.8.0 -> 2.1.1.0
 
 ### PurenailCore
 

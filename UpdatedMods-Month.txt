@@ -1,4 +1,3 @@
-MoreDoors
 CompassAlwaysOn
 MoreDoors
 PurenailCore

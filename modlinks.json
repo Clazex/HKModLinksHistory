@@ -3997,6 +3997,26 @@
       "Gameplay"
     ]
   },
+  "Nightmare and Void": {
+    "description": "Converts the Nightmare King Grimm fight into a custom duo boss with the Pure Vessel.",
+    "version": "1.0.0.0",
+    "links": {
+      "type": "universal",
+      "sha256": "A4F5573835E72783320C4DDEE8DCAC802E32C7FF2DA09384F52FED4928AFC227",
+      "url": "https://github.com/Samihamer1/Hollow-Knight-NightmareVoid/releases/download/v1.0.0.0/NightmareVoid0001.zip"
+    },
+    "dependencies": [
+      "Vasi"
+    ],
+    "repository": "https://github.com/Samihamer1/Hollow-Knight-NightmareVoid",
+    "issues": "https://github.com/Samihamer1/Hollow-Knight-NightmareVoid/issues",
+    "tags": [
+      "Boss"
+    ],
+    "authors": [
+      "Samihamer1"
+    ]
+  },
   "No Particles": {
     "description": "Disables most of the particle effects.",
     "version": "1.0.1.0",
