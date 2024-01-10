@@ -35,10 +35,6 @@
 
 ## Updated mods
 
-### Archipelago
-
-- Version: 0.2.1.0 -> 0.3.0.0
-
 ### Corrupted Kin
 
 - Version: 1.3.0.0 -> 1.3.1.0
