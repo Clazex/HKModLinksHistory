@@ -22,3 +22,5 @@ FrogCore
 DapperMapperSpoils
 NotSpikesmas
 Nightmare and Void
+HKMP
+Stop Hitting Yourself

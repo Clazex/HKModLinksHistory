@@ -11,15 +11,16 @@
 - Tags
   + Boss
 
-### NotSpikesmas
+### Stop Hitting Yourself
 
-- Description: Adds an item to the randomization pool that protects against damage from spikes.
-- Dependencies
-  + ItemChanger
-  + MenuChanger
-  + RandomizerCore
-- Integrations
-  + CondensedSpoilerLogger
-  + RandoSettingsManager
-  + Randomizer 4
+- Description: The night becomes clumsy
+- Tags
+  + Gameplay
+
+
+## Updated mods
+
+### HKMP
+
+- Version: 2.4.1.0 -> 2.4.2.0
 

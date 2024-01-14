@@ -16,3 +16,4 @@ Inferno King Grimm
 WeaverCore
 FrogCore
 DapperMapperSpoils
+HKMP

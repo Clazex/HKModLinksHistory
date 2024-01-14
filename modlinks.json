@@ -2576,11 +2576,11 @@
   },
   "HKMP": {
     "description": "Hollow Knight Multiplayer allows people to host games and let others join them in their adventures.",
-    "version": "2.4.1.0",
+    "version": "2.4.2.0",
     "links": {
       "type": "universal",
-      "sha256": "AF8D21C7F73EDEBFCA91F56F3209A0309D5C9D9D823D92E776841D60AF90518F",
-      "url": "https://github.com/Extremelyd1/HKMP/releases/download/v2.4.1/HKMP.zip"
+      "sha256": "B1FE2C315B811AE959D4DC2AEDF7DA81B1624FD588DA74537B2EDA1E0844FDF4",
+      "url": "https://github.com/Extremelyd1/HKMP/releases/download/v2.4.2/HKMP.zip"
     },
     "dependencies": [],
     "repository": "https://github.com/Extremelyd1/HKMP/",
@@ -5483,6 +5483,24 @@
     },
     "dependencies": [],
     "repository": "https://github.com/dpinela/SteelSoulHUD/"
+  },
+  "Stop Hitting Yourself": {
+    "description": "The night becomes clumsy",
+    "version": "1.3.0.0",
+    "links": {
+      "type": "universal",
+      "sha256": "19B1230DD84A8C01D95A4E412268AEA124F2C19A6E33C9A5CAF2ABEEF925B91B",
+      "url": "https://github.com/ChouchIsCool/Stop_Hitting_Yourself_HK_Mod/releases/download/Gameplay/Stop_Hitting_Yourself_HK_Mod-main.zip"
+    },
+    "dependencies": [],
+    "repository": "https://github.com/ChouchIsCool/Stop_Hitting_Yourself_HK_Mod",
+    "issues": "https://github.com/ChouchIsCool/Stop_Hitting_Yourself_HK_Mod/issues",
+    "tags": [
+      "Gameplay"
+    ],
+    "authors": [
+      "ChouchIsCool"
+    ]
   },
   "Test of Teamwork": {
     "description": "Adds a Path of Pain style section to the White Palace.\nStart by talking to people in and around dirtmouth.\nThis is a singleplayer mod. The \"teamwork\" refers to in-game events.",
