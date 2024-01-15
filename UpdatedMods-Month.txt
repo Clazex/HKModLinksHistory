@@ -1,4 +1,3 @@
-CompassAlwaysOn
 MoreDoors
 PurenailCore
 RandoPlus
@@ -17,3 +16,4 @@ WeaverCore
 FrogCore
 DapperMapperSpoils
 HKMP
+MajorItemByAreaTracker
