@@ -5,7 +5,7 @@
 
 ### CustomKnightSuperAnimationAddon
 
-- Description: Allows inserting custom spritesheets for animations.
+- Description: Allows inserting custom spritesheets for animations. To export spritesheets, use https://github.com/RedFrog6002/sseadv
 - Dependencies
   + Custom Knight
   + FrogCore
@@ -14,7 +14,7 @@
 
 ### HKViz
 
-- Description: A mod that records analytics like movement, deaths, equipped charms, abilities used and many others to allows visualizing those analytics on hkviz.olii.dev
+- Description: A mod that records analytics like movement, deaths, equipped charms, abilities used and much more to allows visualizing those analytics on hkviz.org
 - Dependencies
   + Core.FsmUtil
   + HKMirror
@@ -124,15 +124,7 @@
 
 ### MoreDoors
 
-- Version: 2.0.8.0 -> 2.1.1.0
-
-### PurenailCore
-
-- Version: 1.1.7.0 -> 1.1.8.0
-
-### RandoPlus
-
-- Version: 1.6.1.0 -> 1.6.2.0
+- Version: 2.1.0.0 -> 2.1.1.0
 
 ### WeaverCore
 

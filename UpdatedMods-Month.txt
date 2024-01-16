@@ -1,6 +1,3 @@
-MoreDoors
-PurenailCore
-RandoPlus
 DarknessRandomizer
 MoreDoors
 Benchwarp
@@ -17,3 +14,4 @@ FrogCore
 DapperMapperSpoils
 HKMP
 MajorItemByAreaTracker
+HKViz
