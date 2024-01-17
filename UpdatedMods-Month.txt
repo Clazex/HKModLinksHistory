@@ -15,3 +15,4 @@ DapperMapperSpoils
 HKMP
 MajorItemByAreaTracker
 HKViz
+ItemSync

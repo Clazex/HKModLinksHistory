@@ -22,3 +22,4 @@ HKMP
 Stop Hitting Yourself
 MajorItemByAreaTracker
 HKViz
+ItemSync

@@ -116,7 +116,7 @@
 
 ### ItemSync
 
-- Version: 2.6.3.0 -> 2.7.0.0
+- Version: 2.6.3.0 -> 2.7.1.0
 
 ### MajorItemByAreaTracker
 
