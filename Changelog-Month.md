@@ -91,10 +91,6 @@
 
 - Version: 1.0.0.1 -> 1.1.0.0
 
-### DarknessRandomizer
-
-- Version: 1.4.6.0 -> 1.4.6.1
-
 ### FrogCore
 
 - Version: 2.0.0.2 -> 2.0.1.0
@@ -121,10 +117,6 @@
 ### MajorItemByAreaTracker
 
 - Version: 1.3.8345.32777 -> 1.4.8779.34978
-
-### MoreDoors
-
-- Version: 2.1.0.0 -> 2.1.1.0
 
 ### WeaverCore
 
