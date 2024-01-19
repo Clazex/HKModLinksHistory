@@ -846,11 +846,11 @@
   },
   "Core.FsmUtil": {
     "description": "A library mod for fsm editing.",
-    "version": "1.1.0.0",
+    "version": "1.1.1.0",
     "links": {
       "type": "universal",
-      "sha256": "D81F5672A1C90C69E2CB5CA0DB303BA7514582FA284A4FA3D56EB5677C3F90F8",
-      "url": "https://github.com/hk-modding/HK.Core.FsmUtil/releases/download/v1.1/Core_FsmUtil.zip"
+      "sha256": "3A04BCFA5B329855D8AD117FB63788A32F9FF623CFD5B0C18CED6C3C6B98934B",
+      "url": "https://github.com/hk-modding/HK.Core.FsmUtil/releases/download/v1.1.1/Core_FsmUtil.zip"
     },
     "dependencies": [],
     "repository": "https://github.com/hk-modding/HK.Core.FsmUtil",
@@ -2752,11 +2752,11 @@
   },
   "HKViz": {
     "description": "A mod that records analytics like movement, deaths, equipped charms, abilities used and much more to allows visualizing those analytics on hkviz.org",
-    "version": "1.4.0.0",
+    "version": "1.5.0.0",
     "links": {
       "type": "universal",
-      "sha256": "F66334AE472ACC127459431E6E7B2CF52DB9E2ED2AD06A37147379C4E42D5583",
-      "url": "https://github.com/hkviz/hkviz-mod/releases/download/v1.4.0.0/HKViz.zip"
+      "sha256": "AEF4AAFE293141404EC4AFB1060147EC7F496DB19BE659A04A84E6969D253836",
+      "url": "https://github.com/hkviz/hkviz-mod/releases/download/v1.5.0.0/HKViz.zip"
     },
     "dependencies": [
       "Core.FsmUtil",
@@ -3211,11 +3211,11 @@
   },
   "ItemSync": {
     "description": "A RandomizerMod 4 add-on for sharing item pickups between players.",
-    "version": "2.7.1.0",
+    "version": "2.7.2.0",
     "links": {
       "type": "universal",
-      "sha256": "2777D1E991991956143A5025F3B5CB47B9DE74EBD3C611A27D4A4887B5F48124",
-      "url": "https://github.com/Shadudev/HollowKnight.MultiWorld/releases/download/itemsync-v2.7.1/ItemSync.zip"
+      "sha256": "02D7E50982C2F824C5542F31649B1F6454EE7DF3FABFE6978A926BA6DEB97760",
+      "url": "https://github.com/Shadudev/HollowKnight.MultiWorld/releases/download/itemsync-v2.7.2/ItemSync.zip"
     },
     "dependencies": [
       "MultiWorldLib",
@@ -4465,11 +4465,11 @@
   },
   "PurenailCore": {
     "description": "Common utilities and interop for Purenail mods",
-    "version": "1.1.8.0",
+    "version": "1.2.0.0",
     "links": {
       "type": "universal",
-      "sha256": "DBC7A11A3D5C5387F49A34BEDA0A47A28AC88203E22B93E9F1932D6BAA7C4F6D",
-      "url": "https://github.com/dplochcoder/HollowKnight.PurenailCore/releases/download/v1.1.8.0/PurenailCore.zip"
+      "sha256": "CB9B5A517551EF3D2B2DFF675CC092E28DC020B0D2F839C49D090518A38F99F3",
+      "url": "https://github.com/dplochcoder/HollowKnight.PurenailCore/releases/download/v1.2.0.0/PurenailCore.zip"
     },
     "dependencies": [
       "Randomizer 4"

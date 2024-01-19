@@ -3,18 +3,14 @@
 
 ## New mods
 
-### ImmortalLight
+### HKViz
 
-- Description: A modboss for Absolute Radiance
+- Description: A mod that records analytics like movement, deaths, equipped charms, abilities used and many others to allows visualizing those analytics on hkviz.olii.dev
 - Dependencies
-  + SFCore
+  + Core.FsmUtil
+  + HKMirror
+  + MapChanger
   + Satchel
-- Tags
-  + Boss
-
-### LostFocus
-
-- Description: A mod that automatically pauses and mutes the game when you switch tabs.
 - Tags
   + Utility
 

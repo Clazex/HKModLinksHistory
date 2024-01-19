@@ -3,3 +3,7 @@ Stop Hitting Yourself
 MajorItemByAreaTracker
 HKViz
 ItemSync
+Core.FsmUtil
+HKViz
+ItemSync
+PurenailCore

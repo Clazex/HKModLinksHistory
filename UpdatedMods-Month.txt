@@ -14,3 +14,7 @@ HKMP
 MajorItemByAreaTracker
 HKViz
 ItemSync
+Core.FsmUtil
+HKViz
+ItemSync
+PurenailCore
