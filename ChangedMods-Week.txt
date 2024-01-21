@@ -1,4 +1,3 @@
-MajorItemByAreaTracker
 HKViz
 ItemSync
 Core.FsmUtil
