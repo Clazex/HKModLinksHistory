@@ -118,6 +118,10 @@
 
 - Version: 1.1.8.0 -> 1.2.0.0
 
+### Scatternest
+
+- Version: 1.1.0.0 -> 1.2.0.0
+
 ### WeaverCore
 
 - Version: 1.2.0.2 -> 2.0.0.0

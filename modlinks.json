@@ -3907,13 +3907,13 @@
     "version": "1.0.0.2",
     "links": {
       "type": "universal",
-      "sha256": "7FA0EFF39C455FCEC4FCD38E4AC30F3D682055E448EB173A0302B533AB6D736B",
-      "url": "https://github.com/andieroot/HollowKnight.Nailgod/releases/download/1.0.0.2/Nailgod.1.0.0.2.zip"
+      "sha256": "B7AE9607DEF72FACFDEF00142C0269273506D55897EE835A9B3374887CA73335",
+      "url": "https://github.com/danirainy/HollowKnight.Nailgod/releases/download/1.0.0.2.fix/Nailgod.zip"
     },
     "dependencies": [
       "Satchel"
     ],
-    "repository": "https://github.com/andieroot/HollowKnight.Nailgod/"
+    "repository": "https://github.com/danirainy/HollowKnight.Nailgod/"
   },
   "Nailmaster's Pride": {
     "description": "Nailmaster's Glory prevents regular Nail attacks but grants all Nail Arts and automatically charges them",
@@ -5100,11 +5100,11 @@
   },
   "Scatternest": {
     "description": "Addon for Randomizer and ItemSync allowing players to start at multiple different locations.",
-    "version": "1.1.0.0",
+    "version": "1.2.0.0",
     "links": {
       "type": "universal",
-      "sha256": "827FD14661E18E2000CD47F724D3112577E2DF9DAB411D9B5BDFF23D132A3403",
-      "url": "https://github.com/flibber-hk/HollowKnight.Scatternest/releases/download/v1.1.0.0/Scatternest.zip"
+      "sha256": "B77842BC4984E16724A48F86C8BCD401B8E6AC43D3B648ACFB6937A3A04D131C",
+      "url": "https://github.com/flibber-hk/HollowKnight.Scatternest/releases/download/v1.2.0.0/Scatternest.zip"
     },
     "dependencies": [
       "Randomizer 4"
