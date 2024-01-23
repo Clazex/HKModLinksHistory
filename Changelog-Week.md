@@ -13,7 +13,7 @@
 
 ### ItemSync
 
-- Version: 2.7.0.0 -> 2.7.2.0
+- Version: 2.7.1.0 -> 2.7.2.0
 
 ### PurenailCore
 
@@ -21,5 +21,5 @@
 
 ### Scatternest
 
-- Version: 1.1.0.0 -> 1.2.0.0
+- Version: 1.1.0.0 -> 1.2.0.1
 

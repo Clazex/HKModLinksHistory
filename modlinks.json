@@ -5100,11 +5100,11 @@
   },
   "Scatternest": {
     "description": "Addon for Randomizer and ItemSync allowing players to start at multiple different locations.",
-    "version": "1.2.0.0",
+    "version": "1.2.0.1",
     "links": {
       "type": "universal",
-      "sha256": "B77842BC4984E16724A48F86C8BCD401B8E6AC43D3B648ACFB6937A3A04D131C",
-      "url": "https://github.com/flibber-hk/HollowKnight.Scatternest/releases/download/v1.2.0.0/Scatternest.zip"
+      "sha256": "FA7F173BDC756647FC515A53AD43BD62D00D879C72615F4827F6A00C697334F4",
+      "url": "https://github.com/flibber-hk/HollowKnight.Scatternest/releases/download/v1.2.0.1/Scatternest.zip"
     },
     "dependencies": [
       "Randomizer 4"
