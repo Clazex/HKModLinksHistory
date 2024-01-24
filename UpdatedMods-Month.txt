@@ -1,4 +1,3 @@
-Crafted Town
 ItemSync
 HKViz
 Archipelago

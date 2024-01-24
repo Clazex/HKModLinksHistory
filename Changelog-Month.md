@@ -79,10 +79,6 @@
 
 - Version: 1.3.0.0 -> 1.3.1.0
 
-### Crafted Town
-
-- Version: 0.0.1.0 -> 0.1.0.0
-
 ### Crystal Machinist
 
 - Version: 2.0.0.0 -> 2.0.1.0
