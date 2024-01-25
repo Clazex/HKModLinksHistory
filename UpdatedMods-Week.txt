@@ -1,6 +1,2 @@
-Core.FsmUtil
-HKViz
-ItemSync
-PurenailCore
 Scatternest
 Scatternest
