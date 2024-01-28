@@ -1,5 +1,3 @@
-ImmortalLight
-LostFocus
 HKViz
 CustomKnightSuperAnimationAddon
 NotSpikesmas
