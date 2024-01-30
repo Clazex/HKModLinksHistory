@@ -2145,12 +2145,12 @@
     ]
   },
   "Fyrenest": {
-    "description": "Fyrenest v3 Adds over 30 charms, and remaps the Ancient Basin, Hive, Abyss, Resting Grounds, and Crystal Peak! It also rewrites dialogue for most of the NPCs like The Seer, The Last Stag, Elderbug, Cornifer, Iselda, and more! Fyrenest now changes almost every aspect of the game.",
-    "version": "3.0.0.0",
+    "description": "Adds 30 new charms and creates new things to explore! The full map recreation is now being rolled back. If you want to continue playing with the map changes, either don't update or get the latest version off the repository.",
+    "version": "3.0.0.1",
     "links": {
       "type": "universal",
-      "sha256": "D1552CD836BF01B92DE66FBE83C744A131787D22F25C10F53E40405AF22179B3",
-      "url": "https://github.com/BubkisLord/Fyrenest/releases/download/v3/Fyrenest.zip"
+      "sha256": "74302DBF315A5CF592408D78CDB43F1C3F8490AE5923D866F058803F1F4F8C1E",
+      "url": "https://github.com/BubkisLord/Fyrenest/releases/download/v2.12.45.65/Fyrenest.zip"
     },
     "dependencies": [
       "ItemChanger",
@@ -4089,8 +4089,8 @@
     "version": "1.0.0.0",
     "links": {
       "type": "universal",
-      "sha256": "7F70F3BADD1405B143B01FCF54E6F02C2B16724830C09A926AB7B8CEE150628A",
-      "url": "https://github.com/lukeadickinson/HollowKnight.NoWalkOfShame/releases/download/1.0.0.2/NoWalkOfShame.zip"
+      "sha256": "C71C8F3EEB3C6D724AEE810DDAAC7E2558B8FF62FE9E57CEECB89DD09D185D27",
+      "url": "https://github.com/lukeadickinson/HollowKnight.NoWalkOfShame/releases/download/1.0.0.3/NoWalkOfShame.zip"
     },
     "dependencies": [],
     "repository": "https://github.com/lukeadickinson/HollowKnight.NoWalkOfShame"
