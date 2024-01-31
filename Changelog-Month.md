@@ -38,6 +38,12 @@
 - Tags
   + Gameplay
 
+### UnlimitedShades
+
+- Description: Multiple shades can coexist, so geo is never truly lost.
+- Dependencies
+  + Satchel
+
 
 ## Updated mods
 
@@ -96,7 +102,7 @@
 
 ### ItemSync
 
-- Version: 2.6.3.0 -> 2.7.2.0
+- Version: 2.7.0.0 -> 2.7.2.0
 
 ### MajorItemByAreaTracker
 

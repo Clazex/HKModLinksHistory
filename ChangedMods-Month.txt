@@ -1,4 +1,3 @@
-ItemSync
 HKViz
 Archipelago
 Corrupted Kin
@@ -23,3 +22,4 @@ Scatternest
 Scatternest
 Extra Rando
 Fyrenest
+UnlimitedShades

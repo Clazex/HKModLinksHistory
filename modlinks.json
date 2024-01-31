@@ -5794,6 +5794,22 @@
       "Utility"
     ]
   },
+  "UnlimitedShades": {
+    "description": "Multiple shades can coexist, so geo is never truly lost.",
+    "version": "1.0.0.0",
+    "links": {
+      "type": "universal",
+      "sha256": "20A962541F1016AA4CA89450096BFAC927B00EB42701B649F992EFE986D2CA98",
+      "url": "https://github.com/TheMathGeek314/UnlimitedShades/releases/download/v1.1.0.1/UnlimitedShades.zip"
+    },
+    "dependencies": [
+      "Satchel"
+    ],
+    "repository": "https://github.com/TheMathGeek314/UnlimitedShades/",
+    "authors": [
+      "TheMathGeek_314"
+    ]
+  },
   "Upgraded DreamShield": {
     "description": "Turns the Dream Shield into a bow of sorts that can block lasers.",
     "version": "0.0.0.1",
