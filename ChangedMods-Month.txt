@@ -1,4 +1,3 @@
-HKViz
 Archipelago
 Corrupted Kin
 Crystal Machinist
@@ -23,3 +22,4 @@ Scatternest
 Extra Rando
 Fyrenest
 UnlimitedShades
+NoWalkOfShame

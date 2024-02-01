@@ -4086,7 +4086,7 @@
   },
   "NoWalkOfShame": {
     "description": "Respawns you in the room you died in (skipping darkrooms/dreamrooms/colosseum)",
-    "version": "1.0.0.0",
+    "version": "1.0.0.3",
     "links": {
       "type": "universal",
       "sha256": "C71C8F3EEB3C6D724AEE810DDAAC7E2558B8FF62FE9E57CEECB89DD09D185D27",
