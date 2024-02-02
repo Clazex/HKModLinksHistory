@@ -47,10 +47,6 @@
 
 ## Updated mods
 
-### Archipelago
-
-- Version: 0.2.1.0 -> 0.3.0.0
-
 ### Core.FsmUtil
 
 - Version: 1.1.0.0 -> 1.1.1.0
