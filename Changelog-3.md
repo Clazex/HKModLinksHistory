@@ -1,11 +1,9 @@
 # Changelog
 
 
-## New mods
+## Updated mods
 
-### UnlimitedShades
+### NoWalkOfShame
 
-- Description: Multiple shades can coexist, so geo is never truly lost.
-- Dependencies
-  + Satchel
+- Version: 1.0.0.0 -> 1.0.0.3
 

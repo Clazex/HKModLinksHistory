@@ -3,6 +3,16 @@
 
 ## New mods
 
+### CarThingMod
+
+- Description: Throws a car everytime the player swings their nail
+- Dependencies
+  + FrogCore
+  + SFCore
+  + Satchel
+- Tags
+  + Gameplay
+
 ### CustomKnightSuperAnimationAddon
 
 - Description: Allows inserting custom spritesheets for animations. To export spritesheets, use https://github.com/RedFrog6002/sseadv
@@ -51,14 +61,6 @@
 
 - Version: 1.1.0.0 -> 1.1.1.0
 
-### Corrupted Kin
-
-- Version: 1.3.0.0 -> 1.3.1.0
-
-### Crystal Machinist
-
-- Version: 2.0.0.0 -> 2.0.1.0
-
 ### DapperMapperSpoils
 
 - Version: 1.0.0.1 -> 1.1.0.0
@@ -92,10 +94,6 @@
   + Old: A mod that records analytics like movement, deaths, equipped charms, abilities used and many others to allows visualizing those analytics on hkviz.olii.dev
   + New: A mod that records analytics like movement, deaths, equipped charms, abilities used and much more to allows visualizing those analytics on hkviz.org
 
-### Inferno King Grimm
-
-- Version: 4.2.0.1 -> 4.2.1.0
-
 ### ItemSync
 
 - Version: 2.7.0.0 -> 2.7.2.0
@@ -115,8 +113,4 @@
 ### Scatternest
 
 - Version: 1.1.0.0 -> 1.2.0.1
-
-### WeaverCore
-
-- Version: 1.2.0.2 -> 2.0.0.0
 

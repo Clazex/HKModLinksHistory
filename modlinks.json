@@ -583,6 +583,28 @@
       "Boss"
     ]
   },
+  "CarThingMod": {
+    "description": "Throws a car everytime the player swings their nail",
+    "version": "1.0.0.0",
+    "links": {
+      "type": "universal",
+      "sha256": "9426F901A54B11EE1626A14830AD4C1340295A78E89C092EEB99D837226BC899",
+      "url": "https://github.com/Foxyrobo/CarThingMod/releases/download/1.0.0/CarThingMod.zip"
+    },
+    "dependencies": [
+      "FrogCore",
+      "SFCore",
+      "Satchel"
+    ],
+    "repository": "https://github.com/Foxyrobo/CarThingMod",
+    "issues": "https://github.com/Foxyrobo/CarThingMod/issues",
+    "tags": [
+      "Gameplay"
+    ],
+    "authors": [
+      "Foxyrobo"
+    ]
+  },
   "Carefree Grimm": {
     "description": "Allows you to have Carefree Melody and Grimmchild at the same time",
     "version": "1.0.0.2",

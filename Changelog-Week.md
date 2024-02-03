@@ -3,6 +3,16 @@
 
 ## New mods
 
+### CarThingMod
+
+- Description: Throws a car everytime the player swings their nail
+- Dependencies
+  + FrogCore
+  + SFCore
+  + Satchel
+- Tags
+  + Gameplay
+
 ### UnlimitedShades
 
 - Description: Multiple shades can coexist, so geo is never truly lost.

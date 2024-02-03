@@ -1,7 +1,3 @@
-Corrupted Kin
-Crystal Machinist
-Inferno King Grimm
-WeaverCore
 CustomKnightSuperAnimationAddon
 FrogCore
 DapperMapperSpoils
@@ -22,3 +18,4 @@ Extra Rando
 Fyrenest
 UnlimitedShades
 NoWalkOfShame
+CarThingMod
