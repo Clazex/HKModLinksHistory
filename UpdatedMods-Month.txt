@@ -1,4 +1,3 @@
-FrogCore
 DapperMapperSpoils
 HKMP
 MajorItemByAreaTracker

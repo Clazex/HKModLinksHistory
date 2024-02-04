@@ -1,5 +1,3 @@
-CustomKnightSuperAnimationAddon
-FrogCore
 DapperMapperSpoils
 NotSpikesmas
 Nightmare and Void
