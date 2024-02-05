@@ -1,2 +1,22 @@
-Fyrenest
 NoWalkOfShame
+BenchRando
+Benchwarp
+CondensedSpoilerLogger
+CustomGroupInjector
+CustomLogicInjector
+DarknessRandomizer
+ItemChanger
+ItemChangerDataLoader
+MapChanger
+MoreDoors
+MoreLocations
+PurenailCore
+RandoMapMod
+RandoPlus
+Randomizable Levers
+Randomizer 4
+RandomizerCore
+SkillUpgrades
+TheRealJournalRando
+TrandoPlus
+Transcendence
