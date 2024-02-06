@@ -1,6 +1,8 @@
-NotSpikesmas
 Nightmare and Void
 Stop Hitting Yourself
 UnlimitedShades
 CarThingMod
 RandomizerCore.Json
+Deez Nuts Mod
+GrassCore
+HallOfGodsRandomizer

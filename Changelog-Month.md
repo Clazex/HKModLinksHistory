@@ -13,6 +13,30 @@
 - Tags
   + Gameplay
 
+### Deez Nuts Mod
+
+- Description: Replaces all text with Deez Nuts
+- Tags
+  + Cosmetic
+
+### GrassCore
+
+- Description: A core mod for grass-related activities.
+- Tags
+  + Library
+
+### HallOfGodsRandomizer
+
+- Description: A Randomizer add-on for Hall of Gods statues.
+- Dependencies
+  + ItemChanger
+  + ItemChangerDataLoader
+  + KorzUtils
+  + MenuChanger
+  + Randomizer 4
+- Tags
+  + Gameplay
+
 ### Nightmare and Void
 
 - Description: Converts the Nightmare King Grimm fight into a custom duo boss with the Pure Vessel.
@@ -20,18 +44,6 @@
   + Vasi
 - Tags
   + Boss
-
-### NotSpikesmas
-
-- Description: Adds an item to the randomization pool that protects against damage from spikes.
-- Dependencies
-  + ItemChanger
-  + MenuChanger
-  + RandomizerCore
-- Integrations
-  + CondensedSpoilerLogger
-  + RandoSettingsManager
-  + Randomizer 4
 
 ### RandomizerCore.Json
 
@@ -51,6 +63,13 @@
 
 
 ## Updated mods
+
+### Archipelago Map Mod
+
+- Version: 2.0.0.0 -> 2.1.0.0
+- Dependencies
+  + Added
+    - RandomizerCore.Json
 
 ### BenchRando
 
@@ -82,7 +101,7 @@
 
 ### Extra Rando
 
-- Version: 0.2.3.0 -> 0.3.0.0
+- Version: 0.2.3.0 -> 0.4.0.0
 
 ### Fyrenest
 
@@ -114,6 +133,10 @@
 
 - Version: 2.7.0.0 -> 2.7.2.0
 
+### Lore Randomizer
+
+- Version: 0.2.0.0 -> 0.2.1.0
+
 ### MajorItemByAreaTracker
 
 - Version: 1.3.8345.32777 -> 1.4.8779.34978
@@ -143,7 +166,7 @@
 
 ### RandoMapMod
 
-- Version: 3.4.0.0 -> 3.4.1.0
+- Version: 3.4.0.0 -> 3.4.2.0
 
 ### RandoPlus
 

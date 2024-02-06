@@ -13,18 +13,43 @@
 - Tags
   + Gameplay
 
+### Deez Nuts Mod
+
+- Description: Replaces all text with Deez Nuts
+- Tags
+  + Cosmetic
+
+### GrassCore
+
+- Description: A core mod for grass-related activities.
+- Tags
+  + Library
+
+### HallOfGodsRandomizer
+
+- Description: A Randomizer add-on for Hall of Gods statues.
+- Dependencies
+  + ItemChanger
+  + ItemChangerDataLoader
+  + KorzUtils
+  + MenuChanger
+  + Randomizer 4
+- Tags
+  + Gameplay
+
 ### RandomizerCore.Json
 
 - Description: A library which adds support for json-encoded logic data to RandomizerCore.
 
-### UnlimitedShades
-
-- Description: Multiple shades can coexist, so geo is never truly lost.
-- Dependencies
-  + Satchel
-
 
 ## Updated mods
+
+### Archipelago Map Mod
+
+- Version: 2.0.0.0 -> 2.1.0.0
+- Dependencies
+  + Added
+    - RandomizerCore.Json
 
 ### BenchRando
 
@@ -50,6 +75,10 @@
 
 - Version: 1.4.6.1 -> 1.4.7.0
 
+### Extra Rando
+
+- Version: 0.3.0.0 -> 0.4.0.0
+
 ### ItemChanger
 
 - Version: 2.1.3.0 -> 2.1.4.0
@@ -57,6 +86,10 @@
 ### ItemChangerDataLoader
 
 - Version: 1.1.2.0 -> 1.1.3.0
+
+### Lore Randomizer
+
+- Version: 0.2.0.0 -> 0.2.1.0
 
 ### MapChanger
 
@@ -83,7 +116,7 @@
 
 ### RandoMapMod
 
-- Version: 3.4.0.0 -> 3.4.1.0
+- Version: 3.4.0.0 -> 3.4.2.0
 
 ### RandoPlus
 

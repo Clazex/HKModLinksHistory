@@ -220,11 +220,11 @@
   },
   "Archipelago Map Mod": {
     "description": "A conversion of RandoMapMod that works with the Archipelago multiworld randomizer",
-    "version": "2.0.0.0",
+    "version": "2.1.0.0",
     "links": {
       "type": "universal",
-      "sha256": "DD8F7D5CDC8588F78F6376AAEFC1BE4B1BBE36C00621E84A3997B7F255649B1B",
-      "url": "https://github.com/ArchipelagoMW-HollowKnight/Archipelago.APMapMod/releases/download/v2.0.0/ArchipelagoMapMod.zip"
+      "sha256": "377ECFE97E107FC6B4AF2CC9E72C4FCA95336CDEBECB08E679A920C17CF73D4F",
+      "url": "https://github.com/ArchipelagoMW-HollowKnight/Archipelago.APMapMod/releases/download/v2.1.0/Archipelago.Map.Mod.zip"
     },
     "dependencies": [
       "Archipelago",
@@ -234,6 +234,7 @@
       "MapChanger",
       "RCPathfinder",
       "RandomizerCore",
+      "RandomizerCore.Json",
       "Satchel"
     ],
     "repository": "https://github.com/ArchipelagoMW-HollowKnight/Archipelago.APMapMod",
@@ -1506,6 +1507,24 @@
       "Gameplay"
     ]
   },
+  "Deez Nuts Mod": {
+    "description": "Replaces all text with Deez Nuts",
+    "version": "1.0.0.0",
+    "links": {
+      "type": "universal",
+      "sha256": "87BA571E0ACBDD4930104C016EFCBFDFC33FF3A5DB27D62063AA544A03C850BC",
+      "url": "https://github.com/Foxyrobo/Deez-Nuts-Mod/releases/download/1.0.0/Deez_Nuts_Mod.zip"
+    },
+    "dependencies": [],
+    "repository": "https://github.com/Foxyrobo/Deez-Nuts-Mod",
+    "issues": "https://github.com/Foxyrobo/Deez-Nuts-Mod/issues",
+    "tags": [
+      "Cosmetic"
+    ],
+    "authors": [
+      "Foxyrobo"
+    ]
+  },
   "Disable Achievements": {
     "description": "Prevents the game from awarding achievements, both in-game and on all platforms (Steam, GoG etc.)",
     "version": "1.0.0.0",
@@ -1849,11 +1868,11 @@
   },
   "Extra Rando": {
     "description": "Randomizer 4 connection with miscellaneous settings.",
-    "version": "0.3.0.0",
+    "version": "0.4.0.0",
     "links": {
       "type": "universal",
-      "sha256": "E21DF53EF178E3CD72220FBDB673359231868219F83B3D3BAF66EEABB383A7F2",
-      "url": "https://github.com/Korzer420/ExtraRando/releases/download/v0.3.0/ExtraRando.zip"
+      "sha256": "E78BF5F18C966467427CB66CE05F0EAB13A6D4E65C33B229A7BF3161793C94A9",
+      "url": "https://github.com/Korzer420/ExtraRando/releases/download/v0.4.0/ExtraRando.zip"
     },
     "dependencies": [
       "KorzUtils",
@@ -2475,6 +2494,24 @@
       "StormZillaa"
     ]
   },
+  "GrassCore": {
+    "description": "A core mod for grass-related activities.",
+    "version": "1.0.0.0",
+    "links": {
+      "type": "universal",
+      "sha256": "EC6AA77380687F7B090AC1F7029345363D77E3370BF2CC40C3D2EE72DA34EA04",
+      "url": "https://github.com/ManicJamie/GrassCore/releases/download/v1.0/GrassCore.zip"
+    },
+    "dependencies": [],
+    "repository": "https://github.com/ManicJamie/GrassCore",
+    "issues": "https://github.com/ManicJamie/GrassCore/issues",
+    "tags": [
+      "Library"
+    ],
+    "authors": [
+      "ManicJamie"
+    ]
+  },
   "GrassyKnight": {
     "description": "Tracks and shows you how much grass you've cut.",
     "version": "2.1.0.35425",
@@ -2818,6 +2855,30 @@
       "Vasi"
     ],
     "repository": "https://github.com/jngo102/HoGExtras/"
+  },
+  "HallOfGodsRandomizer": {
+    "description": "A Randomizer add-on for Hall of Gods statues.",
+    "version": "1.0.0.0",
+    "links": {
+      "type": "universal",
+      "sha256": "3C24DF465F1F9D8DFB66E570F974A01BFD9D5EDCB53EE0F96E9720FA676809F0",
+      "url": "https://github.com/nerthul11/HallOfGodsRandomizer/releases/download/1.0.0.0/HallOfGodsRandomizer.zip"
+    },
+    "dependencies": [
+      "ItemChanger",
+      "ItemChangerDataLoader",
+      "KorzUtils",
+      "MenuChanger",
+      "Randomizer 4"
+    ],
+    "repository": "https://github.com/nerthul11/HallOfGodsRandomizer",
+    "issues": "https://github.com/nerthul11/HallOfGodsRandomizer/issues",
+    "tags": [
+      "Gameplay"
+    ],
+    "authors": [
+      "nerthul11"
+    ]
   },
   "Hallownest-Vocalized": {
     "description": "Adds English voice acting to all Hollow Knight's in-game dialogue.",
@@ -3446,11 +3507,11 @@
   },
   "Lore Randomizer": {
     "description": "Randomizer 4 connection that adds a bunch of lore related items and locations.",
-    "version": "0.2.0.0",
+    "version": "0.2.1.0",
     "links": {
       "type": "universal",
-      "sha256": "071C2666E72BD2959C6068234D35E24F1057740DF1E7B63AC0F8A57EE22641E6",
-      "url": "https://github.com/Korzer420/LoreRandomizer/releases/download/v0.2.0/LoreRandomizer.zip"
+      "sha256": "EB33D0C61D76F835D884DE56DED0C1DBA4B0477B6F8BFB23372D0F2A673FE029",
+      "url": "https://github.com/Korzer420/LoreRandomizer/releases/download/v0.2.1/LoreRandomizer.zip"
     },
     "dependencies": [
       "LoreCore",
@@ -4695,11 +4756,11 @@
   },
   "RandoMapMod": {
     "description": "A Randomizer 4 overhaul of the World Map to help find item and transition checks.",
-    "version": "3.4.1.0",
+    "version": "3.4.2.0",
     "links": {
       "type": "universal",
-      "sha256": "0EB2D92B5E387C4B3DECB80FC65FC228DF0F80226C229AC43321E836D3351EEC",
-      "url": "https://github.com/syyePhenomenol/RandoMapMod/releases/download/v3.4.1/RandoMapMod.zip"
+      "sha256": "DA840234F9FD1BF823AE738E898116D68E5CE9E903CCDD4B56060B83959B7C75",
+      "url": "https://github.com/syyePhenomenol/RandoMapMod/releases/download/v3.4.2/RandoMapMod.zip"
     },
     "dependencies": [
       "ConnectionMetadataInjector",

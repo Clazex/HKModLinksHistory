@@ -1,4 +1,3 @@
-UnlimitedShades
 NoWalkOfShame
 CarThingMod
 BenchRando
@@ -23,3 +22,10 @@ SkillUpgrades
 TheRealJournalRando
 TrandoPlus
 Transcendence
+Archipelago Map Mod
+Deez Nuts Mod
+Extra Rando
+GrassCore
+HallOfGodsRandomizer
+Lore Randomizer
+RandoMapMod
