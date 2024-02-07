@@ -46,7 +46,7 @@
 
 ### Archipelago Map Mod
 
-- Version: 2.0.0.0 -> 2.1.0.0
+- Version: 2.0.0.0 -> 2.1.1.0
 - Dependencies
   + Added
     - RandomizerCore.Json
@@ -61,7 +61,7 @@
 
 ### CondensedSpoilerLogger
 
-- Version: 1.10.0.0 -> 1.10.1.0
+- Version: 1.10.0.0 -> 1.10.1.1
 
 ### CustomGroupInjector
 
@@ -78,6 +78,10 @@
 ### Extra Rando
 
 - Version: 0.3.0.0 -> 0.4.0.0
+
+### Hit Counter
+
+- Version: 1.0.1.0 -> 1.1.0.0
 
 ### ItemChanger
 
@@ -102,10 +106,6 @@
 ### MoreLocations
 
 - Version: 1.0.8633.9529 -> 1.1.8792.42313
-
-### NoWalkOfShame
-
-- Version: 1.0.0.0 -> 1.0.0.3
 
 ### PurenailCore
 
@@ -137,6 +137,10 @@
 
 - Version: 1.1.2.0 -> 2.0.1.0
 
+### Scatternest
+
+- Version: 1.2.0.1 -> 1.2.1.0
+
 ### SkillUpgrades
 
 - Version: 0.12.0.0 -> 0.12.1.0
@@ -155,4 +159,8 @@
 - Integrations
   + Added
     - Randomizer 4
+
+### UnlimitedShades
+
+- Version: 1.0.0.0 -> 1.1.0.2
 

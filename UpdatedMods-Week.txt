@@ -1,4 +1,3 @@
-NoWalkOfShame
 BenchRando
 Benchwarp
 CondensedSpoilerLogger
@@ -24,3 +23,8 @@ Archipelago Map Mod
 Extra Rando
 Lore Randomizer
 RandoMapMod
+Archipelago Map Mod
+CondensedSpoilerLogger
+Hit Counter
+Scatternest
+UnlimitedShades

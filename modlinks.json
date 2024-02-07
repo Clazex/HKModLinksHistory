@@ -220,11 +220,11 @@
   },
   "Archipelago Map Mod": {
     "description": "A conversion of RandoMapMod that works with the Archipelago multiworld randomizer",
-    "version": "2.1.0.0",
+    "version": "2.1.1.0",
     "links": {
       "type": "universal",
-      "sha256": "377ECFE97E107FC6B4AF2CC9E72C4FCA95336CDEBECB08E679A920C17CF73D4F",
-      "url": "https://github.com/ArchipelagoMW-HollowKnight/Archipelago.APMapMod/releases/download/v2.1.0/Archipelago.Map.Mod.zip"
+      "sha256": "02BDCC1B2E15910D772EF6E3A6EC7D57816E52BF53FFC89BCE79CEB348DFEEAA",
+      "url": "https://github.com/ArchipelagoMW-HollowKnight/Archipelago.APMapMod/releases/download/v2.1.1/Archipelago.Map.Mod.zip"
     },
     "dependencies": [
       "Archipelago",
@@ -771,11 +771,11 @@
   },
   "CondensedSpoilerLogger": {
     "description": "Creates a Condensed Spoiler Log (and several others) in the Rando Logs directory with the key information about the seed.",
-    "version": "1.10.1.0",
+    "version": "1.10.1.1",
     "links": {
       "type": "universal",
-      "sha256": "FB67B2A89E7E2340D3015E00FE35AF6B6E03EC85F13DBFC03B5B5102A4F9F211",
-      "url": "https://github.com/flibber-hk/HollowKnight.CondensedSpoilerLogger/releases/download/v1.10.1.0/CondensedSpoilerLogger.zip"
+      "sha256": "6A391827DCF6B0A3625D865400EA0B863BA75B4AF6F1AC65539F017F8A008EAC",
+      "url": "https://github.com/flibber-hk/HollowKnight.CondensedSpoilerLogger/releases/download/v1.10.1.1/CondensedSpoilerLogger.zip"
     },
     "dependencies": [
       "Randomizer 4"
@@ -3011,11 +3011,11 @@
   },
   "Hit Counter": {
     "description": "Allow creating custom counters for counting hits.",
-    "version": "1.0.1.0",
+    "version": "1.1.0.0",
     "links": {
       "type": "universal",
-      "sha256": "E39521819BEB50F64A77F2ACF4A3346EB7D3486B5E90C28CBDECB80E1606D136",
-      "url": "https://github.com/Dastan21/HollowKnight.HitCounter/releases/download/v1.0.1/HitCounter.zip"
+      "sha256": "ABF089466F5D32CF5B1D770655A23C34FBE9E16131E168427A35F8FF6A52DA10",
+      "url": "https://github.com/Dastan21/HollowKnight.HitCounter/releases/download/v1.1.0/HitCounter.zip"
     },
     "dependencies": [
       "Satchel"
@@ -5196,11 +5196,11 @@
   },
   "Scatternest": {
     "description": "Addon for Randomizer and ItemSync allowing players to start at multiple different locations.",
-    "version": "1.2.0.1",
+    "version": "1.2.1.0",
     "links": {
       "type": "universal",
-      "sha256": "FA7F173BDC756647FC515A53AD43BD62D00D879C72615F4827F6A00C697334F4",
-      "url": "https://github.com/flibber-hk/HollowKnight.Scatternest/releases/download/v1.2.0.1/Scatternest.zip"
+      "sha256": "569106877433828CE42552A0BE1DAFE1DCD082BD2593A2C5843840371BD54766",
+      "url": "https://github.com/flibber-hk/HollowKnight.Scatternest/releases/download/v1.2.1.0/Scatternest.zip"
     },
     "dependencies": [
       "Randomizer 4"
@@ -5895,11 +5895,11 @@
   },
   "UnlimitedShades": {
     "description": "Multiple shades can coexist, so geo is never truly lost.",
-    "version": "1.0.0.0",
+    "version": "1.1.0.2",
     "links": {
       "type": "universal",
-      "sha256": "20A962541F1016AA4CA89450096BFAC927B00EB42701B649F992EFE986D2CA98",
-      "url": "https://github.com/TheMathGeek314/UnlimitedShades/releases/download/v1.1.0.1/UnlimitedShades.zip"
+      "sha256": "BC74C43D41B27FE7AA044D968E2E3F078084E412C10AB1B7C633D6CBDEE29818",
+      "url": "https://github.com/TheMathGeek314/UnlimitedShades/releases/download/v1.1.0.2/UnlimitedShades.zip"
     },
     "dependencies": [
       "Satchel"

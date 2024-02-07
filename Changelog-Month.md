@@ -37,14 +37,6 @@
 - Tags
   + Gameplay
 
-### Nightmare and Void
-
-- Description: Converts the Nightmare King Grimm fight into a custom duo boss with the Pure Vessel.
-- Dependencies
-  + Vasi
-- Tags
-  + Boss
-
 ### RandomizerCore.Json
 
 - Description: A library which adds support for json-encoded logic data to RandomizerCore.
@@ -66,7 +58,7 @@
 
 ### Archipelago Map Mod
 
-- Version: 2.0.0.0 -> 2.1.0.0
+- Version: 2.0.0.0 -> 2.1.1.0
 - Dependencies
   + Added
     - RandomizerCore.Json
@@ -81,7 +73,7 @@
 
 ### CondensedSpoilerLogger
 
-- Version: 1.10.0.0 -> 1.10.1.0
+- Version: 1.10.0.0 -> 1.10.1.1
 
 ### Core.FsmUtil
 
@@ -120,6 +112,10 @@
 - Description
   + Old: A mod that records analytics like movement, deaths, equipped charms, abilities used and many others to allows visualizing those analytics on hkviz.olii.dev
   + New: A mod that records analytics like movement, deaths, equipped charms, abilities used and much more to allows visualizing those analytics on hkviz.org
+
+### Hit Counter
+
+- Version: 1.0.1.0 -> 1.1.0.0
 
 ### ItemChanger
 
@@ -189,7 +185,7 @@
 
 ### Scatternest
 
-- Version: 1.1.0.0 -> 1.2.0.1
+- Version: 1.1.0.0 -> 1.2.1.0
 
 ### SkillUpgrades
 

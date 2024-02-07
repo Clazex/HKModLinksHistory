@@ -1,4 +1,3 @@
-Nightmare and Void
 HKMP
 Stop Hitting Yourself
 MajorItemByAreaTracker
@@ -44,3 +43,8 @@ GrassCore
 HallOfGodsRandomizer
 Lore Randomizer
 RandoMapMod
+Archipelago Map Mod
+CondensedSpoilerLogger
+Hit Counter
+Scatternest
+UnlimitedShades

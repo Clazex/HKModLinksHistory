@@ -4559,14 +4559,15 @@ This is a singleplayer mod. The "teamwork" refers to in-game events.</Descriptio
     <Manifest>
         <Name>Archipelago Map Mod</Name>
         <Description>A conversion of RandoMapMod that works with the Archipelago multiworld randomizer</Description>
-        <Version>2.0.0.0</Version>
-        <Link SHA256="DD8F7D5CDC8588F78F6376AAEFC1BE4B1BBE36C00621E84A3997B7F255649B1B">
-            <![CDATA[https://github.com/ArchipelagoMW-HollowKnight/Archipelago.APMapMod/releases/download/v2.0.0/ArchipelagoMapMod.zip]]>
+        <Version>2.1.0.0</Version>
+        <Link SHA256="377ECFE97E107FC6B4AF2CC9E72C4FCA95336CDEBECB08E679A920C17CF73D4F">
+            <![CDATA[https://github.com/ArchipelagoMW-HollowKnight/Archipelago.APMapMod/releases/download/v2.1.0/Archipelago.Map.Mod.zip]]>
         </Link>
         <Dependencies>
             <Dependency>Archipelago</Dependency>
             <Dependency>RCPathfinder</Dependency>
             <Dependency>RandomizerCore</Dependency>
+            <Dependency>RandomizerCore.Json</Dependency>
             <Dependency>ItemChanger</Dependency>
             <Dependency>MapChanger</Dependency>
             <Dependency>Satchel</Dependency>
@@ -5074,9 +5075,9 @@ This is a singleplayer mod. The "teamwork" refers to in-game events.</Descriptio
     <Manifest>
         <Name>Lore Randomizer</Name>
         <Description>Randomizer 4 connection that adds a bunch of lore related items and locations.</Description>
-        <Version>0.2.0.0</Version>
-        <Link SHA256="071c2666e72bd2959c6068234d35e24f1057740df1e7b63ac0f8a57ee22641e6">
-            <![CDATA[https://github.com/Korzer420/LoreRandomizer/releases/download/v0.2.0/LoreRandomizer.zip]]></Link>
+        <Version>0.2.1.0</Version>
+        <Link SHA256="eb33d0c61d76f835d884de56ded0c1dba4b0477b6f8bfb23372d0f2a673fe029">
+            <![CDATA[https://github.com/Korzer420/LoreRandomizer/releases/download/v0.2.1/LoreRandomizer.zip]]></Link>
         <Dependencies>
             <Dependency>Randomizer 4</Dependency>
             <Dependency>LoreCore</Dependency>
@@ -5094,9 +5095,9 @@ This is a singleplayer mod. The "teamwork" refers to in-game events.</Descriptio
 	<Manifest>
         <Name>Extra Rando</Name>
         <Description>Randomizer 4 connection with miscellaneous settings.</Description>
-        <Version>0.3.0.0</Version>
-        <Link SHA256="e21df53ef178e3cd72220fbdb673359231868219f83b3d3baf66eeabb383a7f2">
-            <![CDATA[https://github.com/Korzer420/ExtraRando/releases/download/v0.3.0/ExtraRando.zip]]></Link>
+        <Version>0.4.0.0</Version>
+        <Link SHA256="e78bf5f18c966467427cb66ce05f0eab13a6d4e65c33b229a7bf3161793c94a9">
+            <![CDATA[https://github.com/Korzer420/ExtraRando/releases/download/v0.4.0/ExtraRando.zip]]></Link>
         <Dependencies>
             <Dependency>Randomizer 4</Dependency>
             <Dependency>KorzUtils</Dependency>
@@ -5241,9 +5242,9 @@ This is a singleplayer mod. The "teamwork" refers to in-game events.</Descriptio
     <Manifest>
         <Name>RandoMapMod</Name>
         <Description>A Randomizer 4 overhaul of the World Map to help find item and transition checks.</Description>
-        <Version>3.4.1.0</Version>
-        <Link SHA256="0EB2D92B5E387C4B3DECB80FC65FC228DF0F80226C229AC43321E836D3351EEC">
-            <![CDATA[https://github.com/syyePhenomenol/RandoMapMod/releases/download/v3.4.1/RandoMapMod.zip]]>
+        <Version>3.4.2.0</Version>
+        <Link SHA256="DA840234F9FD1BF823AE738E898116D68E5CE9E903CCDD4B56060B83959B7C75">
+            <![CDATA[https://github.com/syyePhenomenol/RandoMapMod/releases/download/v3.4.2/RandoMapMod.zip]]>
         </Link>
         <Dependencies>
             <Dependency>ConnectionMetadataInjector</Dependency>
@@ -5883,6 +5884,25 @@ This is a singleplayer mod. The "teamwork" refers to in-game events.</Descriptio
     </Authors>
 </Manifest>
     <Manifest>
+        <Name>GrassCore</Name>
+        <Description>A core mod for grass-related activities.</Description>
+        <Version>1.0.0.0</Version>
+        <Link SHA256="EC6AA77380687F7B090AC1F7029345363D77E3370BF2CC40C3D2EE72DA34EA04"><![CDATA[https://github.com/ManicJamie/GrassCore/releases/download/v1.0/GrassCore.zip]]></Link>
+        <Dependencies />
+        <Repository>
+            <![CDATA[https://github.com/ManicJamie/GrassCore]]>
+        </Repository>
+        <Issues>
+            <![CDATA[https://github.com/ManicJamie/GrassCore/issues]]>
+        </Issues>
+        <Tags>
+            <Tag>Library</Tag>
+        </Tags>
+        <Authors>
+            <Author>ManicJamie</Author>
+        </Authors>
+    </Manifest>
+    <Manifest>
         <Name>BingoSync</Name>
         <Description>A Hollow Knight mod that automatically marks squares on bingosync.com</Description>
         <Version>1.2.2.0</Version>
@@ -6364,5 +6384,53 @@ This is a singleplayer mod. The "teamwork" refers to in-game events.</Descriptio
 	    <Authors>
 	        <Author>Foxyrobo</Author>
 	    </Authors>
+    </Manifest>
+    <Manifest>
+    	<Name>Deez Nuts Mod</Name>
+    	<Description>Replaces all text with Deez Nuts</Description>
+    	<Version>1.0.0.0</Version>
+    	<Link SHA256="87BA571E0ACBDD4930104C016EFCBFDFC33FF3A5DB27D62063AA544A03C850BC">
+	    <![CDATA[https://github.com/Foxyrobo/Deez-Nuts-Mod/releases/download/1.0.0/Deez_Nuts_Mod.zip]]>
+	</Link>
+	<Dependencies />
+    	<Repository>
+	    <![CDATA[https://github.com/Foxyrobo/Deez-Nuts-Mod]]>
+    	</Repository>
+    	<Issues>
+	    <![CDATA[https://github.com/Foxyrobo/Deez-Nuts-Mod/issues]]>
+    	</Issues>
+    	<Tags>
+	    <Tag>Cosmetic</Tag>
+    	</Tags>
+    	<Authors>
+	    <Author>Foxyrobo</Author>
+    	</Authors>
+    </Manifest>
+    <Manifest>
+    	<Name>HallOfGodsRandomizer</Name>
+    	<Description>A Randomizer add-on for Hall of Gods statues.</Description>
+    	<Version>1.0.0.0</Version>
+    	<Link SHA256="3c24df465f1f9d8dfb66e570f974a01bfd9d5edcb53ee0f96e9720fa676809f0">
+	    <![CDATA[https://github.com/nerthul11/HallOfGodsRandomizer/releases/download/1.0.0.0/HallOfGodsRandomizer.zip]]>
+	</Link>
+	<Dependencies>
+        <Dependency>ItemChanger</Dependency>
+        <Dependency>ItemChangerDataLoader</Dependency>
+        <Dependency>KorzUtils</Dependency>
+        <Dependency>MenuChanger</Dependency>
+        <Dependency>Randomizer 4</Dependency>
+    </Dependencies>
+    	<Repository>
+	    <![CDATA[https://github.com/nerthul11/HallOfGodsRandomizer]]>
+    	</Repository>
+    	<Issues>
+	    <![CDATA[https://github.com/nerthul11/HallOfGodsRandomizer/issues]]>
+    	</Issues>
+    	<Tags>
+	    <Tag>Gameplay</Tag>
+    	</Tags>
+    	<Authors>
+	    <Author>nerthul11</Author>
+    	</Authors>
     </Manifest>
 </ModLinks>
