@@ -77,7 +77,7 @@
 
 ### Extra Rando
 
-- Version: 0.3.0.0 -> 0.4.0.0
+- Version: 0.3.0.0 -> 0.4.1.0
 
 ### Hit Counter
 
@@ -93,7 +93,7 @@
 
 ### Lore Randomizer
 
-- Version: 0.2.0.0 -> 0.2.1.0
+- Version: 0.2.0.0 -> 0.2.2.0
 
 ### MapChanger
 

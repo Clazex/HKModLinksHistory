@@ -1868,11 +1868,11 @@
   },
   "Extra Rando": {
     "description": "Randomizer 4 connection with miscellaneous settings.",
-    "version": "0.4.0.0",
+    "version": "0.4.1.0",
     "links": {
       "type": "universal",
-      "sha256": "E78BF5F18C966467427CB66CE05F0EAB13A6D4E65C33B229A7BF3161793C94A9",
-      "url": "https://github.com/Korzer420/ExtraRando/releases/download/v0.4.0/ExtraRando.zip"
+      "sha256": "C1364D56BBA73F3F54C38A3F2D6AE410FA77E1490094E8A02CA753246B321373",
+      "url": "https://github.com/Korzer420/ExtraRando/releases/download/v0.4.1/ExtraRando.zip"
     },
     "dependencies": [
       "KorzUtils",
@@ -3507,11 +3507,11 @@
   },
   "Lore Randomizer": {
     "description": "Randomizer 4 connection that adds a bunch of lore related items and locations.",
-    "version": "0.2.1.0",
+    "version": "0.2.2.0",
     "links": {
       "type": "universal",
-      "sha256": "EB33D0C61D76F835D884DE56DED0C1DBA4B0477B6F8BFB23372D0F2A673FE029",
-      "url": "https://github.com/Korzer420/LoreRandomizer/releases/download/v0.2.1/LoreRandomizer.zip"
+      "sha256": "2E832438BEF3EFE2D30856C03ADECC5252DC46C55F047694C39B9356D6056D5B",
+      "url": "https://github.com/Korzer420/LoreRandomizer/releases/download/v0.2.2/LoreRandomizer.zip"
     },
     "dependencies": [
       "LoreCore",
