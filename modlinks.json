@@ -220,11 +220,11 @@
   },
   "Archipelago Map Mod": {
     "description": "A conversion of RandoMapMod that works with the Archipelago multiworld randomizer",
-    "version": "2.1.1.0",
+    "version": "2.1.2.0",
     "links": {
       "type": "universal",
-      "sha256": "02BDCC1B2E15910D772EF6E3A6EC7D57816E52BF53FFC89BCE79CEB348DFEEAA",
-      "url": "https://github.com/ArchipelagoMW-HollowKnight/Archipelago.APMapMod/releases/download/v2.1.1/Archipelago.Map.Mod.zip"
+      "sha256": "80DB56648FA81BF174153B96E6653EDB682A0C40AC9D985DC4995ECF35063A0B",
+      "url": "https://github.com/ArchipelagoMW-HollowKnight/Archipelago.APMapMod/releases/download/v2.1.2/Archipelago.Map.Mod.zip"
     },
     "dependencies": [
       "Archipelago",
@@ -3848,11 +3848,11 @@
   },
   "MoreDoors": {
     "description": "A Rando 4 connection which adds more locked doors to Hallownest.",
-    "version": "2.1.2.0",
+    "version": "3.0.1.0",
     "links": {
       "type": "universal",
-      "sha256": "AE9C29ABF4EDB4E935401AAEE31A01981685FC3A012066C035B09C278927CD3F",
-      "url": "https://github.com/dplochcoder/HollowKnight.MoreDoors/releases/download/v2.1.2.0/MoreDoors.zip"
+      "sha256": "A155A7530FCA041F056332DDFC629D5EA53FE44968B7979B10313CE8CEAD510D",
+      "url": "https://github.com/dplochcoder/HollowKnight.MoreDoors/releases/download/v3.0.1.0/MoreDoors.zip"
     },
     "dependencies": [
       "ItemChanger",
@@ -5114,19 +5114,26 @@
     ]
   },
   "Rope Rando": {
-    "description": "Adds the rope / chandelier in the Watcher Knights boss room to Randomizer 4. That's it for now.",
-    "version": "1.0.0.0",
+    "description": "Adds the rope / chandelier in the Watcher Knights boss room to Randomizer 4.",
+    "version": "1.1.0.0",
     "links": {
       "type": "universal",
-      "sha256": "6EA7680D3C69D18A700EC23E58504180F8C96404B8FB3A80F0D453B69033414C",
-      "url": "https://github.com/Bentechy66/HollowKnight.RopeRando/releases/download/release/RopeRando.zip"
+      "sha256": "6EB5239EBC99D71BA9648BB0228F30C20D10ED6FDC0CCF8431E828491B3C07BC",
+      "url": "https://github.com/ManicJamie/HollowKnight.RopeRando/releases/download/v1.1/RopeRando.zip"
     },
     "dependencies": [
       "Randomizer 4",
-      "SFCore",
       "Satchel"
     ],
-    "repository": "https://github.com/Bentechy66/HollowKnight.RopeRando/"
+    "repository": "https://github.com/ManicJamie/HollowKnight.RopeRando/",
+    "issues": "https://github.com/ManicJamie/HollowKnight.RopeRando/issues",
+    "integrations": [
+      "RandoSettingsManager"
+    ],
+    "authors": [
+      "BenTechy66",
+      "ManicJamie"
+    ]
   },
   "SFCore": {
     "description": "Library mod used by other mods.",

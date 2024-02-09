@@ -1346,19 +1346,28 @@ All with an incredible new soundtrack!</Description>
     </Manifest>
     <Manifest>
         <Name>Rope Rando</Name>
-        <Description>Adds the rope / chandelier in the Watcher Knights boss room to Randomizer 4. That's it for now.</Description>
-        <Version>1.0.0.0</Version>
-        <Link SHA256="6EA7680D3C69D18A700EC23E58504180F8C96404B8FB3A80F0D453B69033414C">
-            <![CDATA[https://github.com/Bentechy66/HollowKnight.RopeRando/releases/download/release/RopeRando.zip]]>
+        <Description>Adds the rope / chandelier in the Watcher Knights boss room to Randomizer 4.</Description>
+        <Version>1.1.0.0</Version>
+        <Link SHA256="6EB5239EBC99D71BA9648BB0228F30C20D10ED6FDC0CCF8431E828491B3C07BC">
+            <![CDATA[https://github.com/ManicJamie/HollowKnight.RopeRando/releases/download/v1.1/RopeRando.zip]]>
         </Link>
         <Dependencies>
             <Dependency>Randomizer 4</Dependency>
             <Dependency>Satchel</Dependency>
-            <Dependency>SFCore</Dependency>
         </Dependencies>
         <Repository>
-            <![CDATA[https://github.com/Bentechy66/HollowKnight.RopeRando/]]>
+            <![CDATA[https://github.com/ManicJamie/HollowKnight.RopeRando/]]>
         </Repository>
+        <Issues>
+            <![CDATA[https://github.com/ManicJamie/HollowKnight.RopeRando/issues]]>
+          </Issues>
+        <Integrations>
+            <Integration>RandoSettingsManager</Integration>
+        </Integrations>
+        <Authors>
+            <Author>ManicJamie</Author>
+            <Author>BenTechy66</Author>
+        </Authors>
     </Manifest>
     <Manifest>
         <Name>TrandoPlus</Name>
@@ -4559,9 +4568,9 @@ This is a singleplayer mod. The "teamwork" refers to in-game events.</Descriptio
     <Manifest>
         <Name>Archipelago Map Mod</Name>
         <Description>A conversion of RandoMapMod that works with the Archipelago multiworld randomizer</Description>
-        <Version>2.1.1.0</Version>
-        <Link SHA256="02BDCC1B2E15910D772EF6E3A6EC7D57816E52BF53FFC89BCE79CEB348DFEEAA">
-            <![CDATA[https://github.com/ArchipelagoMW-HollowKnight/Archipelago.APMapMod/releases/download/v2.1.1/Archipelago.Map.Mod.zip]]>
+        <Version>2.1.2.0</Version>
+        <Link SHA256="80DB56648FA81BF174153B96E6653EDB682A0C40AC9D985DC4995ECF35063A0B">
+            <![CDATA[https://github.com/ArchipelagoMW-HollowKnight/Archipelago.APMapMod/releases/download/v2.1.2/Archipelago.Map.Mod.zip]]>
         </Link>
         <Dependencies>
             <Dependency>Archipelago</Dependency>
@@ -5156,9 +5165,9 @@ This is a singleplayer mod. The "teamwork" refers to in-game events.</Descriptio
     <Manifest>
         <Name>MoreDoors</Name>
         <Description>A Rando 4 connection which adds more locked doors to Hallownest.</Description>
-        <Version>2.1.2.0</Version>
-        <Link SHA256="AE9C29ABF4EDB4E935401AAEE31A01981685FC3A012066C035B09C278927CD3F">
-            <![CDATA[https://github.com/dplochcoder/HollowKnight.MoreDoors/releases/download/v2.1.2.0/MoreDoors.zip]]>
+        <Version>3.0.1.0</Version>
+        <Link SHA256="A155A7530FCA041F056332DDFC629D5EA53FE44968B7979B10313CE8CEAD510D">
+            <![CDATA[https://github.com/dplochcoder/HollowKnight.MoreDoors/releases/download/v3.0.1.0/MoreDoors.zip]]>
         </Link>
         <Dependencies>
             <Dependency>ItemChanger</Dependency>

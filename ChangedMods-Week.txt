@@ -1,4 +1,3 @@
-CarThingMod
 BenchRando
 Benchwarp
 CondensedSpoilerLogger
@@ -35,3 +34,6 @@ Scatternest
 UnlimitedShades
 Extra Rando
 Lore Randomizer
+Archipelago Map Mod
+MoreDoors
+Rope Rando
