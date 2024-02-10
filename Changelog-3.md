@@ -3,23 +3,11 @@
 
 ## Updated mods
 
-### Archipelago Map Mod
+### Extra Rando
 
-- Version: 2.1.0.0 -> 2.1.1.0
+- Version: 0.4.0.0 -> 0.4.1.0
 
-### CondensedSpoilerLogger
+### Lore Randomizer
 
-- Version: 1.10.1.0 -> 1.10.1.1
-
-### Hit Counter
-
-- Version: 1.0.1.0 -> 1.1.0.0
-
-### Scatternest
-
-- Version: 1.2.0.1 -> 1.2.1.0
-
-### UnlimitedShades
-
-- Version: 1.0.0.0 -> 1.1.0.2
+- Version: 0.2.1.0 -> 0.2.2.0
 
