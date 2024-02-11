@@ -53,3 +53,4 @@ Lore Randomizer
 Archipelago Map Mod
 MoreDoors
 Rope Rando
+Archipelago Map Mod

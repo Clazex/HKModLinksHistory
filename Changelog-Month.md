@@ -58,7 +58,7 @@
 
 ### Archipelago Map Mod
 
-- Version: 2.0.0.0 -> 2.1.2.0
+- Version: 2.0.0.0 -> 2.1.3.0
 - Dependencies
   + Added
     - RandomizerCore.Json
