@@ -1,11 +1,4 @@
 Archipelago Map Mod
-Deez Nuts Mod
-Extra Rando
-GrassCore
-HallOfGodsRandomizer
-Lore Randomizer
-RandoMapMod
-Archipelago Map Mod
 CondensedSpoilerLogger
 Hit Counter
 Scatternest
@@ -16,3 +9,6 @@ Archipelago Map Mod
 MoreDoors
 Rope Rando
 Archipelago Map Mod
+Lost Artifacts
+MoreDoors
+MylaFlower

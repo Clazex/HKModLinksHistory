@@ -41,12 +41,6 @@
 
 - Description: A library which adds support for json-encoded logic data to RandomizerCore.
 
-### Stop Hitting Yourself
-
-- Description: The night becomes clumsy
-- Tags
-  + Gameplay
-
 ### UnlimitedShades
 
 - Description: Multiple shades can coexist, so geo is never truly lost.
@@ -102,10 +96,6 @@
   + Old: Fyrenest v3 Adds over 30 charms, and remaps the Ancient Basin, Hive, Abyss, Resting Grounds, and Crystal Peak! It also rewrites dialogue for most of the NPCs like The Seer, The Last Stag, Elderbug, Cornifer, Iselda, and more! Fyrenest now changes almost every aspect of the game.
   + New: Adds 30 new charms and creates new things to explore! The full map recreation is now being rolled back. If you want to continue playing with the map changes, either don&#x27;t update or get the latest version off the repository.
 
-### HKMP
-
-- Version: 2.4.1.0 -> 2.4.2.0
-
 ### HKViz
 
 - Version: 1.3.0.0 -> 1.5.0.0
@@ -133,6 +123,10 @@
 
 - Version: 0.2.0.0 -> 0.2.2.0
 
+### Lost Artifacts
+
+- Version: 1.1.0.0 -> 1.1.1.0
+
 ### MajorItemByAreaTracker
 
 - Version: 1.3.8345.32777 -> 1.4.8779.34978
@@ -143,11 +137,18 @@
 
 ### MoreDoors
 
-- Version: 2.1.1.0 -> 3.0.1.0
+- Version: 2.1.1.0 -> 3.0.3.0
 
 ### MoreLocations
 
 - Version: 1.0.8633.9529 -> 1.1.8792.42313
+
+### MylaFlower
+
+- Version: 1.1.0.0 -> 2.0.0.0
+- Integrations
+  + Added
+    - Randomizer 4
 
 ### NoWalkOfShame
 

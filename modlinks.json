@@ -3547,11 +3547,11 @@
   },
   "Lost Artifacts": {
     "description": "A mod that adds powerful artifacts scattered all across Hallownest that can be equipped to the nail! Compatible with Randomizer 4.",
-    "version": "1.1.0.0",
+    "version": "1.1.1.0",
     "links": {
       "type": "universal",
-      "sha256": "DC22EFD7BFB1754A3AD31F766EB472250EA1B46F4E116548A043E884F69C3CDE",
-      "url": "https://github.com/Hoo-Knows/HollowKnight.LostArtifacts/releases/download/v1.1.0.0/LostArtifacts.zip"
+      "sha256": "737AA541F50AD457E760115D520853EBBB6D7C921677F3873EB73093B340135C",
+      "url": "https://github.com/Hoo-Knows/HollowKnight.LostArtifacts/releases/download/v1.1.1.0/LostArtifacts.zip"
     },
     "dependencies": [
       "ItemChanger",
@@ -3848,11 +3848,11 @@
   },
   "MoreDoors": {
     "description": "A Rando 4 connection which adds more locked doors to Hallownest.",
-    "version": "3.0.1.0",
+    "version": "3.0.3.0",
     "links": {
       "type": "universal",
-      "sha256": "A155A7530FCA041F056332DDFC629D5EA53FE44968B7979B10313CE8CEAD510D",
-      "url": "https://github.com/dplochcoder/HollowKnight.MoreDoors/releases/download/v3.0.1.0/MoreDoors.zip"
+      "sha256": "662A3F2A6E69908EF12BBC1DAAAAA2500E5C46852F271E65FBDC3E64755D9162",
+      "url": "https://github.com/dplochcoder/HollowKnight.MoreDoors/releases/download/v3.0.3.0/MoreDoors.zip"
     },
     "dependencies": [
       "ItemChanger",
@@ -3974,16 +3974,19 @@
   },
   "MylaFlower": {
     "description": "Protect Myla from the infection by bringing her a flower.",
-    "version": "1.1.0.0",
+    "version": "2.0.0.0",
     "links": {
       "type": "universal",
-      "sha256": "EAACD97C592FB3A9C76BA741F05E6862A2458731E8DB48071CB693CC2D9BAC18",
-      "url": "https://github.com/flibber-hk/HollowKnight.MylaFlower/releases/download/v1.1.0.0/MylaFlower.zip"
+      "sha256": "94C9DA348C80F68076B493CED1726709166BC19B5D32B6043DED282DE9238128",
+      "url": "https://github.com/flibber-hk/HollowKnight.MylaFlower/releases/download/v2.0.0.0/MylaFlower.zip"
     },
     "dependencies": [
       "Vasi"
     ],
-    "repository": "https://github.com/flibber-hk/HollowKnight.MylaFlower/"
+    "repository": "https://github.com/flibber-hk/HollowKnight.MylaFlower/",
+    "integrations": [
+      "Randomizer 4"
+    ]
   },
   "Nailgod": {
     "description": "Sly modded boss.",

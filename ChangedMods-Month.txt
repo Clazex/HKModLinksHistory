@@ -1,5 +1,3 @@
-HKMP
-Stop Hitting Yourself
 MajorItemByAreaTracker
 HKViz
 ItemSync
@@ -54,3 +52,6 @@ Archipelago Map Mod
 MoreDoors
 Rope Rando
 Archipelago Map Mod
+Lost Artifacts
+MoreDoors
+MylaFlower

@@ -1,4 +1,3 @@
-Stop Hitting Yourself
 UnlimitedShades
 CarThingMod
 RandomizerCore.Json

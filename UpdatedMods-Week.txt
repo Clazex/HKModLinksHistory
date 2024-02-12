@@ -1,8 +1,4 @@
 Archipelago Map Mod
-Extra Rando
-Lore Randomizer
-RandoMapMod
-Archipelago Map Mod
 CondensedSpoilerLogger
 Hit Counter
 Scatternest
@@ -13,3 +9,6 @@ Archipelago Map Mod
 MoreDoors
 Rope Rando
 Archipelago Map Mod
+Lost Artifacts
+MoreDoors
+MylaFlower
