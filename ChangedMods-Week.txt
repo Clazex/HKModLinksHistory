@@ -1,8 +1,3 @@
-Archipelago Map Mod
-CondensedSpoilerLogger
-Hit Counter
-Scatternest
-UnlimitedShades
 Extra Rando
 Lore Randomizer
 Archipelago Map Mod
@@ -12,3 +7,4 @@ Archipelago Map Mod
 Lost Artifacts
 MoreDoors
 MylaFlower
+HallOfGodsRandomizer

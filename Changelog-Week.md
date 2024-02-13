@@ -5,19 +5,15 @@
 
 ### Archipelago Map Mod
 
-- Version: 2.1.0.0 -> 2.1.3.0
-
-### CondensedSpoilerLogger
-
-- Version: 1.10.1.0 -> 1.10.1.1
+- Version: 2.1.1.0 -> 2.1.3.0
 
 ### Extra Rando
 
 - Version: 0.4.0.0 -> 0.4.1.0
 
-### Hit Counter
+### HallOfGodsRandomizer
 
-- Version: 1.0.1.0 -> 1.1.0.0
+- Version: 1.0.0.0 -> 1.1.1.0
 
 ### Lore Randomizer
 
@@ -50,12 +46,4 @@
 - Integrations
   + Added
     - RandoSettingsManager
-
-### Scatternest
-
-- Version: 1.2.0.1 -> 1.2.1.0
-
-### UnlimitedShades
-
-- Version: 1.0.0.0 -> 1.1.0.2
 
