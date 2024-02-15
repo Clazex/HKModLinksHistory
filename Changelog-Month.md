@@ -114,7 +114,7 @@
 
 ### ItemSync
 
-- Version: 2.7.0.0 -> 2.7.2.0
+- Version: 2.7.1.0 -> 2.7.2.0
 
 ### Lore Randomizer
 

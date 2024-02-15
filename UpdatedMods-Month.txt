@@ -1,4 +1,3 @@
-ItemSync
 Core.FsmUtil
 HKViz
 ItemSync
@@ -47,4 +46,5 @@ Archipelago Map Mod
 Lost Artifacts
 MoreDoors
 MylaFlower
+HallOfGodsRandomizer
 HallOfGodsRandomizer

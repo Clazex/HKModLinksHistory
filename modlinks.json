@@ -2858,11 +2858,11 @@
   },
   "HallOfGodsRandomizer": {
     "description": "A Randomizer add-on for Hall of Gods statues.",
-    "version": "1.1.1.0",
+    "version": "1.1.1.1",
     "links": {
       "type": "universal",
-      "sha256": "F52FFC95BC771DC20DFFBD3C679F59BE281A312059C1BCDC2B3F9479BB78A346",
-      "url": "https://github.com/nerthul11/HallOfGodsRandomizer/releases/download/1.1.1.0/HallOfGodsRandomizer.zip"
+      "sha256": "BD4054643F9796AB1F8C8FA81869B684C823E6DFBC1A8304A1D933543A847CA9",
+      "url": "https://github.com/nerthul11/HallOfGodsRandomizer/releases/download/1.1.1.1/HallOfGodsRandomizer.zip"
     },
     "dependencies": [
       "ItemChanger",
