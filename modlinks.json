@@ -869,18 +869,19 @@
   },
   "Core.FsmUtil": {
     "description": "A library mod for fsm editing.",
-    "version": "1.1.1.0",
+    "version": "1.1.1.1",
     "links": {
       "type": "universal",
-      "sha256": "3A04BCFA5B329855D8AD117FB63788A32F9FF623CFD5B0C18CED6C3C6B98934B",
-      "url": "https://github.com/hk-modding/HK.Core.FsmUtil/releases/download/v1.1.1/Core_FsmUtil.zip"
+      "sha256": "79578233F83E6AB655E680F168AD1266465FA6FF6A61DFA38DF9E069D941A1DD",
+      "url": "https://github.com/SFGrenade/HK.Core.FsmUtil/releases/download/v1.1.1.1/Core_FsmUtil.zip"
     },
     "dependencies": [],
-    "repository": "https://github.com/hk-modding/HK.Core.FsmUtil",
+    "repository": "https://github.com/SFGrenade/HK.Core.FsmUtil",
     "tags": [
       "Library"
     ],
     "authors": [
+      "Clazex",
       "Flibber",
       "Mulhima",
       "SFGrenade"

@@ -1,7 +1,3 @@
-Core.FsmUtil
-HKViz
-ItemSync
-PurenailCore
 Scatternest
 Scatternest
 Extra Rando
@@ -48,3 +44,4 @@ MoreDoors
 MylaFlower
 HallOfGodsRandomizer
 HallOfGodsRandomizer
+Core.FsmUtil

@@ -3,9 +3,9 @@
 
 ## Updated mods
 
-### Archipelago Map Mod
+### Core.FsmUtil
 
-- Version: 2.1.2.0 -> 2.1.3.0
+- Version: 1.1.1.0 -> 1.1.1.1
 
 ### HallOfGodsRandomizer
 
