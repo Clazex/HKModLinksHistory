@@ -1,3 +1,2 @@
 HallOfGodsRandomizer
-HallOfGodsRandomizer
 Core.FsmUtil
