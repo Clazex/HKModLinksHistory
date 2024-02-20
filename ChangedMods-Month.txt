@@ -1,5 +1,4 @@
 Scatternest
-Scatternest
 Extra Rando
 Fyrenest
 UnlimitedShades
@@ -51,3 +50,4 @@ MylaFlower
 HallOfGodsRandomizer
 HallOfGodsRandomizer
 Core.FsmUtil
+PurenailCore

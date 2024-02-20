@@ -4552,11 +4552,11 @@
   },
   "PurenailCore": {
     "description": "Common utilities and interop for Purenail mods",
-    "version": "1.2.1.0",
+    "version": "1.2.2.0",
     "links": {
       "type": "universal",
-      "sha256": "13E12F3706FC439A01960D32032F4236E06EA05B9FD93A86162B46BA14CD8993",
-      "url": "https://github.com/dplochcoder/HollowKnight.PurenailCore/releases/download/v1.2.1.0/PurenailCore.zip"
+      "sha256": "08B6A737F2519D9F6B0E5F5EB5476D51380508D104D4A8F7625E83EA69702044",
+      "url": "https://github.com/dplochcoder/HollowKnight.PurenailCore/releases/download/v1.2.2.0/PurenailCore.zip"
     },
     "dependencies": [
       "Randomizer 4",

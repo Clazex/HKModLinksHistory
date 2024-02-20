@@ -1,5 +1,4 @@
 Scatternest
-Scatternest
 Extra Rando
 Fyrenest
 NoWalkOfShame
@@ -45,3 +44,4 @@ MylaFlower
 HallOfGodsRandomizer
 HallOfGodsRandomizer
 Core.FsmUtil
+PurenailCore
