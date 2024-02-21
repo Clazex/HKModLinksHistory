@@ -1,3 +1,2 @@
-HallOfGodsRandomizer
 Core.FsmUtil
 PurenailCore
