@@ -1,4 +1,5 @@
 Archipelago Map Mod
-Extra Rando
-Lore Randomizer
-RandoMapMod
+CondensedSpoilerLogger
+Hit Counter
+Scatternest
+UnlimitedShades

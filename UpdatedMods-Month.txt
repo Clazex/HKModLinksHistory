@@ -44,3 +44,4 @@ HallOfGodsRandomizer
 HallOfGodsRandomizer
 Core.FsmUtil
 PurenailCore
+ItemChangerDataLoader

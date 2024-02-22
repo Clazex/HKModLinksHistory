@@ -3280,11 +3280,11 @@
   },
   "ItemChangerDataLoader": {
     "description": "Mod for creating backups of randomizer saves and launching plandos.",
-    "version": "1.1.3.0",
+    "version": "1.1.4.0",
     "links": {
       "type": "universal",
-      "sha256": "24F370AF832614453C8FA82CC1C4FF963E01458B1511E03C04ED90A649C44C76",
-      "url": "https://github.com/homothetyhk/ItemChangerDataLoader/releases/download/v1.1.3/ItemChangerDataLoader.zip"
+      "sha256": "ADF63E3EAD7830672A03511253327FCDCE1398F732B1ECA8F794256325953F57",
+      "url": "https://github.com/homothetyhk/ItemChangerDataLoader/releases/download/v1.1.4/ItemChangerDataLoader.zip"
     },
     "dependencies": [
       "ItemChanger",
