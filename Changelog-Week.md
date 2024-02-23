@@ -3,10 +3,6 @@
 
 ## Updated mods
 
-### Core.FsmUtil
-
-- Version: 1.1.1.0 -> 1.1.1.1
-
 ### ItemChangerDataLoader
 
 - Version: 1.1.3.0 -> 1.1.4.0
