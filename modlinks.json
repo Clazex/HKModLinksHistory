@@ -889,11 +889,11 @@
   },
   "Corrupted Kin": {
     "description": "A mod that significantly changes up the Lost Kin bossfight",
-    "version": "1.3.1.0",
+    "version": "1.3.2.0",
     "links": {
       "type": "universal",
-      "sha256": "C6EEE3AA7FE7CEEC9552FF47AFF99D5D0CE531F23EB10A8168FD986B2F2DE4B4",
-      "url": "https://github.com/nickc01/Corrupted-Kin/releases/download/v1.3.1.0/CorruptedKin.zip"
+      "sha256": "2414AD7E7338A45A6B4E825BBF14F06CFE116F6CDC99387894E90BA5E2093B56",
+      "url": "https://github.com/nickc01/Corrupted-Kin/releases/download/v1.3.2.0/CorruptedKin.zip"
     },
     "dependencies": [
       "WeaverCore"
@@ -965,11 +965,11 @@
   },
   "Crystal Machinist": {
     "description": "A mod that significantly changes up the Enraged Guardian bossfight",
-    "version": "2.0.1.0",
+    "version": "2.0.1.1",
     "links": {
       "type": "universal",
-      "sha256": "869DD9591893A28FC0A9BCAD6F7B225F21FA8A7790450C86B684FAD8DF4A3524",
-      "url": "https://github.com/nickc01/Crystal-Machinist/releases/download/v2.0.1.0/CrystalMachinist.zip"
+      "sha256": "175AF74FE084759BCC0F11C9302A6497B5C30808CCACDF374CC1FF1FD56F0752",
+      "url": "https://github.com/nickc01/Crystal-Machinist/releases/download/v2.0.1.1/CrystalMachinist.zip"
     },
     "dependencies": [
       "WeaverCore"
@@ -2859,11 +2859,11 @@
   },
   "HallOfGodsRandomizer": {
     "description": "A Randomizer add-on for Hall of Gods statues.",
-    "version": "1.1.1.1",
+    "version": "1.1.1.2",
     "links": {
       "type": "universal",
-      "sha256": "BD4054643F9796AB1F8C8FA81869B684C823E6DFBC1A8304A1D933543A847CA9",
-      "url": "https://github.com/nerthul11/HallOfGodsRandomizer/releases/download/1.1.1.1/HallOfGodsRandomizer.zip"
+      "sha256": "2140688E6B35F783F0F776B6BAA92980A941C028CC8147EB02872BF11B9B0B59",
+      "url": "https://github.com/nerthul11/HallOfGodsRandomizer/releases/download/1.1.1.2/HallOfGodsRandomizer.zip"
     },
     "dependencies": [
       "ItemChanger",
@@ -3173,11 +3173,11 @@
   },
   "Inferno King Grimm": {
     "description": "A mod that significantly buffs Nightmare King Grimm into a multi-phase fight. It also includes a hard mode that can be configured on the main menu",
-    "version": "4.2.1.0",
+    "version": "4.2.2.0",
     "links": {
       "type": "universal",
-      "sha256": "9F1D7E4576A7C034BFC70DD15D17246A79A7614F62CBE0722E862296369D9263",
-      "url": "https://github.com/nickc01/Inferno-King-Grimm/releases/download/v4.2.1.0/InfernoKingGrimm.zip"
+      "sha256": "47093E88C19513BD1C0468B16508CF5E109736A42A658CB07ABAD4798A1E0A2F",
+      "url": "https://github.com/nickc01/Inferno-King-Grimm/releases/download/v4.2.2.0/InfernoKingGrimm.zip"
     },
     "dependencies": [
       "WeaverCore"
@@ -3701,11 +3701,11 @@
   },
   "Mask Maker Notches": {
     "description": "A mod that adds a few buyable Charm Notches in Mask Maker's room.",
-    "version": "1.2.2.0",
+    "version": "1.2.3.0",
     "links": {
       "type": "universal",
-      "sha256": "B71E29677E9FE6E8CE7CA32A7305032A67F9D8645B3C51FF25071F79151878EB",
-      "url": "https://github.com/IronLucario2012/MaskMakerNotchesMod/releases/download/v1.2.2/MaskMakerNotches.zip"
+      "sha256": "BECC5D919002F9AEC0BE4E3C2B360A26B80A43492C2F244EED160C9478B33310",
+      "url": "https://github.com/IronLucario2012/MaskMakerNotchesMod/releases/download/v1.2.3/MaskMakerNotches.zip"
     },
     "dependencies": [
       "ItemChanger"
@@ -6014,11 +6014,11 @@
   },
   "WeaverCore": {
     "description": "Core mod required for mods built with WeaverCore, such as Inferno King Grimm and Corrupted Kin",
-    "version": "2.0.0.0",
+    "version": "2.1.0.0",
     "links": {
       "type": "universal",
-      "sha256": "7F83539C91DD8701B80DA33B901F7AC541DF8249BD060D2F374CE5745C551E7B",
-      "url": "https://github.com/nickc01/WeaverCore/releases/download/v2.0.0.0/WeaverCore.zip"
+      "sha256": "4EE407FB4690DF0BF3FBC9864271DF9EECEC32FBC871E9EE7D820C90992CAE73",
+      "url": "https://github.com/nickc01/WeaverCore/releases/download/v2.1.0.0/WeaverCore.zip"
     },
     "dependencies": [],
     "repository": "https://github.com/nickc01/WeaverCore/",

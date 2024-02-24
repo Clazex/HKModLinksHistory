@@ -45,3 +45,9 @@ HallOfGodsRandomizer
 Core.FsmUtil
 PurenailCore
 ItemChangerDataLoader
+Corrupted Kin
+Crystal Machinist
+HallOfGodsRandomizer
+Inferno King Grimm
+Mask Maker Notches
+WeaverCore
