@@ -3173,11 +3173,11 @@
   },
   "Inferno King Grimm": {
     "description": "A mod that significantly buffs Nightmare King Grimm into a multi-phase fight. It also includes a hard mode that can be configured on the main menu",
-    "version": "4.2.2.0",
+    "version": "4.2.2.1",
     "links": {
       "type": "universal",
-      "sha256": "47093E88C19513BD1C0468B16508CF5E109736A42A658CB07ABAD4798A1E0A2F",
-      "url": "https://github.com/nickc01/Inferno-King-Grimm/releases/download/v4.2.2.0/InfernoKingGrimm.zip"
+      "sha256": "AA512ABDE3BC02F76648A3909F901D389469BB120FC2272DE177A28BD8ADAD15",
+      "url": "https://github.com/nickc01/Inferno-King-Grimm/releases/download/v4.2.2.1/InfernoKingGrimm.zip"
     },
     "dependencies": [
       "WeaverCore"
@@ -6014,11 +6014,11 @@
   },
   "WeaverCore": {
     "description": "Core mod required for mods built with WeaverCore, such as Inferno King Grimm and Corrupted Kin",
-    "version": "2.1.0.0",
+    "version": "2.1.0.1",
     "links": {
       "type": "universal",
-      "sha256": "4EE407FB4690DF0BF3FBC9864271DF9EECEC32FBC871E9EE7D820C90992CAE73",
-      "url": "https://github.com/nickc01/WeaverCore/releases/download/v2.1.0.0/WeaverCore.zip"
+      "sha256": "759AD0DBCBA8846C4F621BD007DE45E473FE707290082CFC2C17FF03E2CFC0DA",
+      "url": "https://github.com/nickc01/WeaverCore/releases/download/v2.1.0.1/WeaverCore.zip"
     },
     "dependencies": [],
     "repository": "https://github.com/nickc01/WeaverCore/",

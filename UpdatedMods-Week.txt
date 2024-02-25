@@ -6,3 +6,5 @@ HallOfGodsRandomizer
 Inferno King Grimm
 Mask Maker Notches
 WeaverCore
+Inferno King Grimm
+WeaverCore

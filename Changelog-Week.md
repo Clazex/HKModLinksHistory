@@ -17,7 +17,7 @@
 
 ### Inferno King Grimm
 
-- Version: 4.2.1.0 -> 4.2.2.0
+- Version: 4.2.1.0 -> 4.2.2.1
 
 ### ItemChangerDataLoader
 
@@ -33,5 +33,5 @@
 
 ### WeaverCore
 
-- Version: 2.0.0.0 -> 2.1.0.0
+- Version: 2.0.0.0 -> 2.1.0.1
 
