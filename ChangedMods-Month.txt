@@ -1,4 +1,3 @@
-Fyrenest
 UnlimitedShades
 NoWalkOfShame
 CarThingMod
@@ -58,3 +57,5 @@ Mask Maker Notches
 WeaverCore
 Inferno King Grimm
 WeaverCore
+PurenailCore
+SpicyRando

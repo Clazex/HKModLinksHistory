@@ -1,6 +1,21 @@
 # Changelog
 
 
+## New mods
+
+### SpicyRando
+
+- Description: Various difficulty increases in specific parts of rando
+- Dependencies
+  + ItemChanger
+  + MenuChanger
+  + PurenailCore
+  + RandomizerCore.Json
+- Integrations
+  + RandoSettingsManager
+  + Randomizer 4
+
+
 ## Updated mods
 
 ### Corrupted Kin
@@ -19,11 +34,11 @@
 
 - Version: 4.2.1.0 -> 4.2.2.1
 
-### ItemChangerDataLoader
-
-- Version: 1.1.3.0 -> 1.1.4.0
-
 ### Mask Maker Notches
+
+- Version: 1.2.2.0 -> 1.2.3.0
+
+### PurenailCore
 
 - Version: 1.2.2.0 -> 1.2.3.0
 

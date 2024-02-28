@@ -1,4 +1,3 @@
-ItemChangerDataLoader
 Corrupted Kin
 Crystal Machinist
 HallOfGodsRandomizer
@@ -7,3 +6,5 @@ Mask Maker Notches
 WeaverCore
 Inferno King Grimm
 WeaverCore
+PurenailCore
+SpicyRando

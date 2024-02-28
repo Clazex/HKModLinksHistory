@@ -41,6 +41,18 @@
 
 - Description: A library which adds support for json-encoded logic data to RandomizerCore.
 
+### SpicyRando
+
+- Description: Various difficulty increases in specific parts of rando
+- Dependencies
+  + ItemChanger
+  + MenuChanger
+  + PurenailCore
+  + RandomizerCore.Json
+- Integrations
+  + RandoSettingsManager
+  + Randomizer 4
+
 ### UnlimitedShades
 
 - Description: Multiple shades can coexist, so geo is never truly lost.
@@ -97,13 +109,6 @@
 
 - Version: 0.3.0.0 -> 0.4.1.0
 
-### Fyrenest
-
-- Version: 3.0.0.0 -> 3.0.0.1
-- Description
-  + Old: Fyrenest v3 Adds over 30 charms, and remaps the Ancient Basin, Hive, Abyss, Resting Grounds, and Crystal Peak! It also rewrites dialogue for most of the NPCs like The Seer, The Last Stag, Elderbug, Cornifer, Iselda, and more! Fyrenest now changes almost every aspect of the game.
-  + New: Adds 30 new charms and creates new things to explore! The full map recreation is now being rolled back. If you want to continue playing with the map changes, either don&#x27;t update or get the latest version off the repository.
-
 ### Hit Counter
 
 - Version: 1.0.1.0 -> 1.1.0.0
@@ -157,7 +162,7 @@
 
 ### PurenailCore
 
-- Version: 1.2.0.0 -> 1.2.2.0
+- Version: 1.2.0.0 -> 1.2.3.0
 - Dependencies
   + Added
     - RandomizerCore.Json

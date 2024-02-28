@@ -4,3 +4,4 @@ RandomizerCore.Json
 Deez Nuts Mod
 GrassCore
 HallOfGodsRandomizer
+SpicyRando
