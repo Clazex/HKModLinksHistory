@@ -53,12 +53,6 @@
   + RandoSettingsManager
   + Randomizer 4
 
-### UnlimitedShades
-
-- Description: Multiple shades can coexist, so geo is never truly lost.
-- Dependencies
-  + Satchel
-
 
 ## Updated mods
 
@@ -109,6 +103,10 @@
 
 - Version: 0.3.0.0 -> 0.4.1.0
 
+### HKViz
+
+- Version: 1.5.0.0 -> 1.5.1.0
+
 ### Hit Counter
 
 - Version: 1.0.1.0 -> 1.1.0.0
@@ -143,7 +141,7 @@
 
 ### MoreDoors
 
-- Version: 2.1.1.0 -> 3.0.3.0
+- Version: 2.1.1.0 -> 3.0.4.0
 
 ### MoreLocations
 
@@ -225,6 +223,10 @@
 - Integrations
   + Added
     - Randomizer 4
+
+### UnlimitedShades
+
+- Version: 1.0.0.0 -> 1.1.0.2
 
 ### WeaverCore
 

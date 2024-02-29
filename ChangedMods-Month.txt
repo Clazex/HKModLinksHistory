@@ -1,4 +1,3 @@
-UnlimitedShades
 NoWalkOfShame
 CarThingMod
 BenchRando
@@ -59,3 +58,6 @@ Inferno King Grimm
 WeaverCore
 PurenailCore
 SpicyRando
+HKViz
+HallOfGodsRandomizer
+MoreDoors

@@ -52,3 +52,6 @@ WeaverCore
 Inferno King Grimm
 WeaverCore
 PurenailCore
+HKViz
+HallOfGodsRandomizer
+MoreDoors

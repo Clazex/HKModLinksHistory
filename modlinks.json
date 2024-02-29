@@ -2812,11 +2812,11 @@
   },
   "HKViz": {
     "description": "A mod that records analytics like movement, deaths, equipped charms, abilities used and much more to allows visualizing those analytics on hkviz.org",
-    "version": "1.5.0.0",
+    "version": "1.5.1.0",
     "links": {
       "type": "universal",
-      "sha256": "AEF4AAFE293141404EC4AFB1060147EC7F496DB19BE659A04A84E6969D253836",
-      "url": "https://github.com/hkviz/hkviz-mod/releases/download/v1.5.0.0/HKViz.zip"
+      "sha256": "ABF6386111943AB1DC2705EFFA376D3C3DCE5BBCDD4417D561F63822E0B70CA5",
+      "url": "https://github.com/hkviz/hkviz-mod/releases/download/v1.5.1.0/HKViz.zip"
     },
     "dependencies": [
       "Core.FsmUtil",
@@ -2859,11 +2859,11 @@
   },
   "HallOfGodsRandomizer": {
     "description": "A Randomizer add-on for Hall of Gods statues.",
-    "version": "1.1.1.2",
+    "version": "1.1.1.3",
     "links": {
       "type": "universal",
-      "sha256": "2140688E6B35F783F0F776B6BAA92980A941C028CC8147EB02872BF11B9B0B59",
-      "url": "https://github.com/nerthul11/HallOfGodsRandomizer/releases/download/1.1.1.2/HallOfGodsRandomizer.zip"
+      "sha256": "A9E56970BF29161B601A04FFE7191AE52FF6B27ADDEF5BC7766CC2C071F2BEAC",
+      "url": "https://github.com/nerthul11/HallOfGodsRandomizer/releases/download/1.1.1.3/HallOfGodsRandomizer.zip"
     },
     "dependencies": [
       "ItemChanger",
@@ -3849,11 +3849,11 @@
   },
   "MoreDoors": {
     "description": "A Rando 4 connection which adds more locked doors to Hallownest.",
-    "version": "3.0.3.0",
+    "version": "3.0.4.0",
     "links": {
       "type": "universal",
-      "sha256": "662A3F2A6E69908EF12BBC1DAAAAA2500E5C46852F271E65FBDC3E64755D9162",
-      "url": "https://github.com/dplochcoder/HollowKnight.MoreDoors/releases/download/v3.0.3.0/MoreDoors.zip"
+      "sha256": "E46ACD59EC0FF671C7F99566AA404CA4D9D780FC3A154CECD05B836D332518C0",
+      "url": "https://github.com/dplochcoder/HollowKnight.MoreDoors/releases/download/v3.0.4.0/MoreDoors.zip"
     },
     "dependencies": [
       "ItemChanger",

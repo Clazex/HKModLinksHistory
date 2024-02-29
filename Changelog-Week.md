@@ -26,9 +26,13 @@
 
 - Version: 2.0.1.0 -> 2.0.1.1
 
+### HKViz
+
+- Version: 1.5.0.0 -> 1.5.1.0
+
 ### HallOfGodsRandomizer
 
-- Version: 1.1.1.1 -> 1.1.1.2
+- Version: 1.1.1.1 -> 1.1.1.3
 
 ### Inferno King Grimm
 
@@ -37,6 +41,10 @@
 ### Mask Maker Notches
 
 - Version: 1.2.2.0 -> 1.2.3.0
+
+### MoreDoors
+
+- Version: 3.0.3.0 -> 3.0.4.0
 
 ### PurenailCore
 

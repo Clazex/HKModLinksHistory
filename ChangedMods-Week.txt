@@ -8,3 +8,6 @@ Inferno King Grimm
 WeaverCore
 PurenailCore
 SpicyRando
+HKViz
+HallOfGodsRandomizer
+MoreDoors
