@@ -1,4 +1,3 @@
-NoWalkOfShame
 CarThingMod
 BenchRando
 Benchwarp
@@ -61,3 +60,6 @@ SpicyRando
 HKViz
 HallOfGodsRandomizer
 MoreDoors
+Grass Randomizer
+GrassCore
+GrassyKnight

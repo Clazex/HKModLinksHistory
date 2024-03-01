@@ -1,12 +1,9 @@
-Corrupted Kin
-Crystal Machinist
-HallOfGodsRandomizer
-Inferno King Grimm
-Mask Maker Notches
-WeaverCore
 Inferno King Grimm
 WeaverCore
 PurenailCore
 HKViz
 HallOfGodsRandomizer
 MoreDoors
+Grass Randomizer
+GrassCore
+GrassyKnight

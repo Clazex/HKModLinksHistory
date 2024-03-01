@@ -1,4 +1,3 @@
-NoWalkOfShame
 BenchRando
 Benchwarp
 CondensedSpoilerLogger
@@ -55,3 +54,6 @@ PurenailCore
 HKViz
 HallOfGodsRandomizer
 MoreDoors
+Grass Randomizer
+GrassCore
+GrassyKnight
