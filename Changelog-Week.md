@@ -49,9 +49,13 @@
 
 - Version: 1.1.1.2 -> 1.1.1.3
 
-### Inferno King Grimm
+### Lore Randomizer
 
-- Version: 4.2.2.0 -> 4.2.2.1
+- Version: 0.2.2.0 -> 0.3.0.0
+
+### LoreCore
+
+- Version: 0.5.0.0 -> 0.6.0.0
 
 ### MoreDoors
 
@@ -60,8 +64,4 @@
 ### PurenailCore
 
 - Version: 1.2.2.0 -> 1.2.3.0
-
-### WeaverCore
-
-- Version: 2.1.0.0 -> 2.1.0.1
 

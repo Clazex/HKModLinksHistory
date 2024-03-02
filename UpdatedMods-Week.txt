@@ -1,5 +1,3 @@
-Inferno King Grimm
-WeaverCore
 PurenailCore
 HKViz
 HallOfGodsRandomizer
@@ -7,3 +5,5 @@ MoreDoors
 Grass Randomizer
 GrassCore
 GrassyKnight
+Lore Randomizer
+LoreCore
