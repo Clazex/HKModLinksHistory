@@ -3,16 +3,6 @@
 
 ## New mods
 
-### CarThingMod
-
-- Description: Throws a car everytime the player swings their nail
-- Dependencies
-  + FrogCore
-  + SFCore
-  + Satchel
-- Tags
-  + Gameplay
-
 ### Deez Nuts Mod
 
 - Description: Replaces all text with Deez Nuts
@@ -93,7 +83,7 @@
 
 ### CustomLogicInjector
 
-- Version: 1.1.0.0 -> 1.1.1.0
+- Version: 1.1.0.0 -> 1.1.2.0
 
 ### DarknessRandomizer
 
@@ -102,6 +92,10 @@
 ### Extra Rando
 
 - Version: 0.3.0.0 -> 0.4.1.0
+
+### Graphic Options
+
+- Version: 1.5.1.0 -> 1.5.1.1
 
 ### Grass Randomizer
 
@@ -205,7 +199,7 @@
 
 ### RandomizerCore
 
-- Version: 1.1.2.0 -> 2.0.1.0
+- Version: 1.1.2.0 -> 2.0.2.0
 
 ### Rope Rando
 

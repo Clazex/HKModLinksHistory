@@ -59,3 +59,7 @@ GrassCore
 GrassyKnight
 Lore Randomizer
 LoreCore
+CustomLogicInjector
+Graphic Options
+RandomizerCore
+RandomizerCore.Json

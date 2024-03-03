@@ -1200,11 +1200,11 @@
   },
   "CustomLogicInjector": {
     "description": "A Randomizer 4 add-on for providing user-defined logic edits.",
-    "version": "1.1.1.0",
+    "version": "1.1.2.0",
     "links": {
       "type": "universal",
-      "sha256": "0D3394CB7AB91955531F02EB7EE28F07B48301C7EFC491122423C4C31C0C1ECD",
-      "url": "https://github.com/homothetyhk/CustomLogicInjector/releases/download/v1.1.1/CustomLogicInjector.zip"
+      "sha256": "0914CD274FF11A5F2F9751D98AB98CFFFD10FB619AEC0FAD1D627AEF3BF4C270",
+      "url": "https://github.com/homothetyhk/CustomLogicInjector/releases/download/v1.1.2/CustomLogicInjector.zip"
     },
     "dependencies": [
       "Randomizer 4"
@@ -2451,11 +2451,11 @@
   },
   "Graphic Options": {
     "description": "Adds a \"few\" graphics options. Some of those \"might\" be unstable to change.",
-    "version": "1.5.1.0",
+    "version": "1.5.1.1",
     "links": {
       "type": "universal",
-      "sha256": "D6F8FB62D1EFE835818B924D1821B72D0382D287DC34BB29AD22606E91B911D7",
-      "url": "https://github.com/SFGrenade/GraphicOptions/releases/download/v1.5.1/GraphicOptions.zip"
+      "sha256": "A40DBEF1814D9DCE9A08693DD70CF15F3C11203B7F502233CF2F5F27E1F87222",
+      "url": "https://github.com/SFGrenade/GraphicOptions/releases/download/v1.5.1.1/GraphicOptions.zip"
     },
     "dependencies": [
       "SFCore",
@@ -4985,22 +4985,22 @@
   },
   "RandomizerCore": {
     "description": "A library for randomizer logic and algorithms.",
-    "version": "2.0.1.0",
+    "version": "2.0.2.0",
     "links": {
       "type": "universal",
-      "sha256": "98976F3A3FDE2EC20F828FD235B9711171B88BC0E8338A11402CEB13F1601AA5",
-      "url": "https://github.com/homothetyhk/RandomizerCore/releases/download/v2.0.1/RandomizerCore.zip"
+      "sha256": "B9E19B4CB59B88F64A3284E823576DB181864BFF2F11D8357F6CE21BDCBAF67A",
+      "url": "https://github.com/homothetyhk/RandomizerCore/releases/download/v2.0.2/RandomizerCore.zip"
     },
     "dependencies": [],
     "repository": "https://github.com/homothetyhk/RandomizerCore/"
   },
   "RandomizerCore.Json": {
     "description": "A library which adds support for json-encoded logic data to RandomizerCore.",
-    "version": "1.0.0.0",
+    "version": "1.0.1.0",
     "links": {
       "type": "universal",
-      "sha256": "DB40B6B910DD3DB3EDEF47EA7BB8CEB53E810A918856296BF0ADF4C8D2AF3D84",
-      "url": "https://github.com/homothetyhk/RandomizerCore.Json/releases/download/v1.0.0/RandomizerCore.Json.zip"
+      "sha256": "3821DC60FA1C8D53E4AF3D2CB86B1615F169E5112B8656E7A1F9FCC5A0C7A1E5",
+      "url": "https://github.com/homothetyhk/RandomizerCore.Json/releases/download/v1.0.1/RandomizerCore.Json.zip"
     },
     "dependencies": [],
     "repository": "https://github.com/homothetyhk/RandomizerCore.Json/"
