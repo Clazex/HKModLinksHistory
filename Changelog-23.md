@@ -3,7 +3,18 @@
 
 ## Updated mods
 
-### Archipelago Map Mod
+### Lost Artifacts
 
-- Version: 2.1.2.0 -> 2.1.3.0
+- Version: 1.1.0.0 -> 1.1.1.0
+
+### MoreDoors
+
+- Version: 3.0.1.0 -> 3.0.3.0
+
+### MylaFlower
+
+- Version: 1.1.0.0 -> 2.0.0.0
+- Integrations
+  + Added
+    - Randomizer 4
 

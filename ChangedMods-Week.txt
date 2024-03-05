@@ -1,5 +1,3 @@
-PurenailCore
-SpicyRando
 HKViz
 HallOfGodsRandomizer
 MoreDoors
