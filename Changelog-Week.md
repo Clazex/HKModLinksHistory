@@ -34,14 +34,6 @@
 
 - Version: 2.1.0.35425 -> 2.1.2.38663
 
-### HKViz
-
-- Version: 1.5.0.0 -> 1.5.1.0
-
-### HallOfGodsRandomizer
-
-- Version: 1.1.1.2 -> 1.1.1.3
-
 ### Lore Randomizer
 
 - Version: 0.2.2.0 -> 0.3.0.0
@@ -49,10 +41,6 @@
 ### LoreCore
 
 - Version: 0.5.0.0 -> 0.6.0.0
-
-### MoreDoors
-
-- Version: 3.0.3.0 -> 3.0.4.0
 
 ### RandomizerCore
 

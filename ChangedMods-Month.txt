@@ -1,11 +1,4 @@
 Archipelago Map Mod
-Deez Nuts Mod
-Extra Rando
-GrassCore
-HallOfGodsRandomizer
-Lore Randomizer
-RandoMapMod
-Archipelago Map Mod
 CondensedSpoilerLogger
 Hit Counter
 Scatternest
