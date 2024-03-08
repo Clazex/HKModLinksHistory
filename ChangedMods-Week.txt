@@ -1,5 +1,3 @@
-Lore Randomizer
-LoreCore
 CustomLogicInjector
 Graphic Options
 RandomizerCore
