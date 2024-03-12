@@ -85,24 +85,13 @@
 
 - Version: 0.5.0.0 -> 0.6.0.0
 
-### Lost Artifacts
-
-- Version: 1.1.0.0 -> 1.1.1.0
-
 ### Mask Maker Notches
 
 - Version: 1.2.2.0 -> 1.2.3.0
 
 ### MoreDoors
 
-- Version: 3.0.1.0 -> 3.0.4.0
-
-### MylaFlower
-
-- Version: 1.1.0.0 -> 2.0.0.0
-- Integrations
-  + Added
-    - Randomizer 4
+- Version: 3.0.3.0 -> 3.0.4.0
 
 ### PurenailCore
 
