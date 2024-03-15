@@ -40,7 +40,7 @@
 
 ### Grass Randomizer
 
-- Version: 1.0.1.0 -> 1.1.0.0
+- Version: 1.0.1.0 -> 1.1.1.0
 - Description
   + Old: Supplemental randomizer mod that randomizes the grass in the world. Currently only sees grass broken with nail (c-dash does not work).
   + New: Randomizer 4 connection that adds grass to the pool of randomized items and locations.
@@ -67,7 +67,7 @@
 
 ### HallOfGodsRandomizer
 
-- Version: 1.1.1.0 -> 1.1.1.3
+- Version: 1.1.1.1 -> 1.1.1.3
 
 ### Inferno King Grimm
 

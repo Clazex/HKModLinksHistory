@@ -2471,11 +2471,11 @@
   },
   "Grass Randomizer": {
     "description": "Randomizer 4 connection that adds grass to the pool of randomized items and locations.",
-    "version": "1.1.0.0",
+    "version": "1.1.1.0",
     "links": {
       "type": "universal",
-      "sha256": "EA3078AF9E3E082C45A761EF1C1C558B447C387AF8C15B0B203053D4375310AA",
-      "url": "https://github.com/ManicJamie/HollowKnightGrassRando/releases/download/v1.1.0/GrassRandoV2.zip"
+      "sha256": "081B7130DCE02071FA3B42A1DC9B23B3F104305004FD45781D20851FFFE763A5",
+      "url": "https://github.com/ManicJamie/HollowKnightGrassRando/releases/download/v1.1.1/GrassRandoV2.zip"
     },
     "dependencies": [
       "GrassCore",

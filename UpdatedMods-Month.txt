@@ -1,4 +1,3 @@
-HallOfGodsRandomizer
 Core.FsmUtil
 PurenailCore
 ItemChangerDataLoader
@@ -23,3 +22,4 @@ CustomLogicInjector
 Graphic Options
 RandomizerCore
 RandomizerCore.Json
+Grass Randomizer
