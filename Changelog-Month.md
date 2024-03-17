@@ -18,10 +18,6 @@
 
 ## Updated mods
 
-### Core.FsmUtil
-
-- Version: 1.1.1.0 -> 1.1.1.1
-
 ### Corrupted Kin
 
 - Version: 1.3.1.0 -> 1.3.2.0
