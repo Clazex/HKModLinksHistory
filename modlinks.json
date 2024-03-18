@@ -3872,11 +3872,11 @@
   },
   "MoreHealing": {
     "description": "Adds more healing charms.",
-    "version": "1.5.0.0",
+    "version": "1.5.2.0",
     "links": {
       "type": "universal",
-      "sha256": "D6C69911FAB117B18995E749EEB204BF0E5B3E1F3141BD952139CFDC48585638",
-      "url": "https://github.com/SFGrenade/MoreHealing/releases/download/v1.5.1/MoreHealing.zip"
+      "sha256": "F038226A9D2655DF0C9541F7F306DF528D8BF9DA964A995F75CF4F4415DF0BCC",
+      "url": "https://github.com/SFGrenade/MoreHealing/releases/download/v1.5.2/MoreHealing.zip"
     },
     "dependencies": [
       "SFCore"

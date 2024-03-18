@@ -23,3 +23,4 @@ Graphic Options
 RandomizerCore
 RandomizerCore.Json
 Grass Randomizer
+MoreHealing
