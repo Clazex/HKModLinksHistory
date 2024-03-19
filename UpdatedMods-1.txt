@@ -1,1 +1,5 @@
-MoreHealing
+MapChanger
+RCPathfinder
+RandoMapMod
+TheRealJournalRando
+Vanilla Map Mod
