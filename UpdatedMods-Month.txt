@@ -1,4 +1,3 @@
-PurenailCore
 ItemChangerDataLoader
 Corrupted Kin
 Crystal Machinist

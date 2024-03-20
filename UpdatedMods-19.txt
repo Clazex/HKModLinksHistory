@@ -1,3 +1,2 @@
-Grass Randomizer
-GrassCore
-GrassyKnight
+Lore Randomizer
+LoreCore
