@@ -7,10 +7,6 @@
 
 - Version: 1.1.1.0 -> 1.2.0.0
 
-### MoreHealing
-
-- Version: 1.5.0.0 -> 1.5.2.0
-
 ### RCPathfinder
 
 - Version: 1.0.0.0 -> 1.1.0.0

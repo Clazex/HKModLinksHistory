@@ -18,14 +18,6 @@
 
 ## Updated mods
 
-### Corrupted Kin
-
-- Version: 1.3.1.0 -> 1.3.2.0
-
-### Crystal Machinist
-
-- Version: 2.0.1.0 -> 2.0.1.1
-
 ### CustomLogicInjector
 
 - Version: 1.1.1.0 -> 1.1.2.0
@@ -63,11 +55,11 @@
 
 ### HallOfGodsRandomizer
 
-- Version: 1.1.1.1 -> 1.1.1.3
+- Version: 1.1.1.2 -> 1.1.1.3
 
 ### Inferno King Grimm
 
-- Version: 4.2.1.0 -> 4.2.2.1
+- Version: 4.2.2.0 -> 4.2.2.1
 
 ### Lore Randomizer
 
@@ -80,10 +72,6 @@
 ### MapChanger
 
 - Version: 1.1.1.0 -> 1.2.0.0
-
-### Mask Maker Notches
-
-- Version: 1.2.2.0 -> 1.2.3.0
 
 ### MoreDoors
 
@@ -123,5 +111,5 @@
 
 ### WeaverCore
 
-- Version: 2.0.0.0 -> 2.1.0.1
+- Version: 2.1.0.0 -> 2.1.0.1
 
