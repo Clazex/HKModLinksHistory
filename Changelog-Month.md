@@ -57,10 +57,6 @@
 
 - Version: 1.1.1.2 -> 1.1.1.3
 
-### Inferno King Grimm
-
-- Version: 4.2.2.0 -> 4.2.2.1
-
 ### Lore Randomizer
 
 - Version: 0.2.2.0 -> 0.3.0.0
@@ -108,8 +104,4 @@
 ### Vanilla Map Mod
 
 - Version: 2.0.2.0 -> 2.1.0.0
-
-### WeaverCore
-
-- Version: 2.1.0.0 -> 2.1.0.1
 
