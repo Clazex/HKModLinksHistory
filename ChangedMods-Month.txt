@@ -19,3 +19,4 @@ RCPathfinder
 RandoMapMod
 TheRealJournalRando
 Vanilla Map Mod
+RandoMapMod

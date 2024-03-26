@@ -87,7 +87,7 @@
 
 ### RandoMapMod
 
-- Version: 3.4.2.0 -> 3.5.0.0
+- Version: 3.4.2.0 -> 3.5.1.0
 
 ### RandomizerCore
 
