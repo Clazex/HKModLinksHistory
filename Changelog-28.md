@@ -1,24 +1,17 @@
 # Changelog
 
 
-## New mods
-
-### SpicyRando
-
-- Description: Various difficulty increases in specific parts of rando
-- Dependencies
-  + ItemChanger
-  + MenuChanger
-  + PurenailCore
-  + RandomizerCore.Json
-- Integrations
-  + RandoSettingsManager
-  + Randomizer 4
-
-
 ## Updated mods
 
-### PurenailCore
+### HKViz
 
-- Version: 1.2.2.0 -> 1.2.3.0
+- Version: 1.5.0.0 -> 1.5.1.0
+
+### HallOfGodsRandomizer
+
+- Version: 1.1.1.2 -> 1.1.1.3
+
+### MoreDoors
+
+- Version: 3.0.3.0 -> 3.0.4.0
 
