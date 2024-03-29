@@ -202,6 +202,19 @@
       "jngo102"
     ]
   },
+  "AnyZote": {
+    "description": "Most powerful zote modded boss ever.",
+    "version": "2.3.0.0",
+    "links": {
+      "type": "universal",
+      "sha256": "DF51A8886E7865608137BDC451AECF06BA3E76CB127DFE745B5A8BE8B51B82A2",
+      "url": "https://github.com/danirainy/HollowKnight.AbsoluteZote/releases/download/2.3/AnyZote.2.3.zip"
+    },
+    "dependencies": [
+      "Satchel"
+    ],
+    "repository": "https://github.com/danirainy/HollowKnight.AbsoluteZote/tree/anyzote/"
+  },
   "Archipelago": {
     "description": "Enables play with the Archipelago multiworld system.",
     "version": "0.3.0.0",
@@ -494,11 +507,11 @@
   },
   "Bomber Knight": {
     "description": "Adds a bomb ability, along a few new charms and custom \"bosses\".",
-    "version": "1.2.1.0",
+    "version": "1.2.2.0",
     "links": {
       "type": "universal",
-      "sha256": "42D453BC67AC2FBBEADB840AB2E29ABE22F3B081CDDD73B78603B8AD0F58F84A",
-      "url": "https://github.com/Korzer420/BomberKnight/releases/download/v1.2.1/BomberKnight.zip"
+      "sha256": "CB2FBEB280B786B7A689155391652023F70529D82C26E2A52ADE54A8E29EB14D",
+      "url": "https://github.com/Korzer420/BomberKnight/releases/download/v1.2.2/BomberKnight.zip"
     },
     "dependencies": [
       "ItemChanger",
@@ -1869,11 +1882,11 @@
   },
   "Extra Rando": {
     "description": "Randomizer 4 connection with miscellaneous settings.",
-    "version": "0.4.1.0",
+    "version": "0.5.0.0",
     "links": {
       "type": "universal",
-      "sha256": "C1364D56BBA73F3F54C38A3F2D6AE410FA77E1490094E8A02CA753246B321373",
-      "url": "https://github.com/Korzer420/ExtraRando/releases/download/v0.4.1/ExtraRando.zip"
+      "sha256": "4E0C5A9080A6D768E404F430F1A16B417330F0A8CC8026407237ECD247C46F59",
+      "url": "https://github.com/Korzer420/ExtraRando/releases/download/v0.5.0/ExtraRando.zip"
     },
     "dependencies": [
       "KorzUtils",

@@ -3,15 +3,26 @@
 
 ## Updated mods
 
-### HKViz
+### Grass Randomizer
 
-- Version: 1.5.0.0 -> 1.5.1.0
+- Version: 1.0.1.0 -> 1.1.0.0
+- Description
+  + Old: Supplemental randomizer mod that randomizes the grass in the world. Currently only sees grass broken with nail (c-dash does not work).
+  + New: Randomizer 4 connection that adds grass to the pool of randomized items and locations.
+- Dependencies
+  + Removed
+    - ItemChanger
+    - MapChanger
+    - MenuChanger
+    - RandomizerCore
+  + Added
+    - GrassCore
 
-### HallOfGodsRandomizer
+### GrassCore
 
-- Version: 1.1.1.2 -> 1.1.1.3
+- Version: 1.0.0.0 -> 1.1.0.0
 
-### MoreDoors
+### GrassyKnight
 
-- Version: 3.0.3.0 -> 3.0.4.0
+- Version: 2.1.0.35425 -> 2.1.2.38663
 

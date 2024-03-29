@@ -1,11 +1,28 @@
 # Changelog
 
 
+## New mods
+
+### AnyZote
+
+- Description: Most powerful zote modded boss ever.
+- Dependencies
+  + Satchel
+
+
 ## Updated mods
+
+### Bomber Knight
+
+- Version: 1.2.1.0 -> 1.2.2.0
 
 ### CustomLogicInjector
 
 - Version: 1.1.1.0 -> 1.1.2.0
+
+### Extra Rando
+
+- Version: 0.4.1.0 -> 0.5.0.0
 
 ### Graphic Options
 
@@ -34,14 +51,6 @@
 
 - Version: 2.1.0.35425 -> 2.1.2.38663
 
-### HKViz
-
-- Version: 1.5.0.0 -> 1.5.1.0
-
-### HallOfGodsRandomizer
-
-- Version: 1.1.1.2 -> 1.1.1.3
-
 ### Lore Randomizer
 
 - Version: 0.2.2.0 -> 0.3.0.0
@@ -53,10 +62,6 @@
 ### MapChanger
 
 - Version: 1.1.1.0 -> 1.2.0.0
-
-### MoreDoors
-
-- Version: 3.0.3.0 -> 3.0.4.0
 
 ### MoreHealing
 
