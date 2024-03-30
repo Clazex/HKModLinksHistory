@@ -3,11 +3,19 @@
 
 ## Updated mods
 
-### Lore Randomizer
+### CustomLogicInjector
 
-- Version: 0.2.2.0 -> 0.3.0.0
+- Version: 1.1.1.0 -> 1.1.2.0
 
-### LoreCore
+### Graphic Options
 
-- Version: 0.5.0.0 -> 0.6.0.0
+- Version: 1.5.1.0 -> 1.5.1.1
+
+### RandomizerCore
+
+- Version: 2.0.1.0 -> 2.0.2.0
+
+### RandomizerCore.Json
+
+- Version: 1.0.0.0 -> 1.0.1.0
 
