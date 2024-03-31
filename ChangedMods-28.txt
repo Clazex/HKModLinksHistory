@@ -1,4 +1,0 @@
-CustomLogicInjector
-Graphic Options
-RandomizerCore
-RandomizerCore.Json
