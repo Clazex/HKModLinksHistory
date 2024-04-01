@@ -16,17 +16,9 @@
 
 - Version: 1.2.1.0 -> 1.2.2.0
 
-### CustomLogicInjector
-
-- Version: 1.1.1.0 -> 1.1.2.0
-
 ### Extra Rando
 
 - Version: 0.4.1.0 -> 0.5.0.0
-
-### Graphic Options
-
-- Version: 1.5.1.0 -> 1.5.1.1
 
 ### Grass Randomizer
 
@@ -47,14 +39,6 @@
 ### RandoMapMod
 
 - Version: 3.4.2.0 -> 3.5.1.0
-
-### RandomizerCore
-
-- Version: 2.0.1.0 -> 2.0.2.0
-
-### RandomizerCore.Json
-
-- Version: 1.0.0.0 -> 1.0.1.0
 
 ### TheRealJournalRando
 

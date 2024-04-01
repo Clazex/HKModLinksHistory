@@ -1,4 +1,3 @@
-RandoMapMod
 AnyZote
 Bomber Knight
 Extra Rando
