@@ -9,6 +9,10 @@
 - Dependencies
   + Satchel
 
+### SiblingClimb
+
+- Description: Removes platforms from the lighthouse climb.
+
 
 ## Updated mods
 
@@ -39,6 +43,10 @@
 ### RandoMapMod
 
 - Version: 3.4.2.0 -> 3.5.1.0
+
+### SpicyRando
+
+- Version: 1.0.0.0 -> 1.1.0.0
 
 ### TheRealJournalRando
 

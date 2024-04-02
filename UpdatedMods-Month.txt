@@ -8,3 +8,4 @@ Vanilla Map Mod
 RandoMapMod
 Bomber Knight
 Extra Rando
+SpicyRando

@@ -9,3 +9,5 @@ RandoMapMod
 AnyZote
 Bomber Knight
 Extra Rando
+SiblingClimb
+SpicyRando

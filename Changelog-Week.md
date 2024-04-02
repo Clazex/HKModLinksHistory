@@ -9,6 +9,10 @@
 - Dependencies
   + Satchel
 
+### SiblingClimb
+
+- Description: Removes platforms from the lighthouse climb.
+
 
 ## Updated mods
 
@@ -19,4 +23,8 @@
 ### Extra Rando
 
 - Version: 0.4.1.0 -> 0.5.0.0
+
+### SpicyRando
+
+- Version: 1.0.0.0 -> 1.1.0.0
 

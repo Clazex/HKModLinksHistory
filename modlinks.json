@@ -5331,6 +5331,20 @@
       "Acu1000"
     ]
   },
+  "SiblingClimb": {
+    "description": "Removes platforms from the lighthouse climb.",
+    "version": "1.2.2.2",
+    "links": {
+      "type": "universal",
+      "sha256": "9B01DB9E928032539654F1D462DFC2A10D25C1B9A04D01F9E645E5E1EC4722DA",
+      "url": "https://github.com/TheMathGeek314/SiblingClimb/releases/download/v1.2.2.2/SiblingClimb.zip"
+    },
+    "dependencies": [],
+    "repository": "https://github.com/TheMathGeek314/SiblingClimb/",
+    "authors": [
+      "TheMathGeek_314"
+    ]
+  },
   "SilkSong (but not really)": {
     "description": "Allows the player to play as hornet.",
     "version": "0.4.0.1",
@@ -5516,11 +5530,11 @@
   },
   "SpicyRando": {
     "description": "Various difficulty increases in specific parts of rando",
-    "version": "1.0.0.0",
+    "version": "1.1.0.0",
     "links": {
       "type": "universal",
-      "sha256": "C9E2169435B68E94BBC2D83823B32436C06E0E20D24B4F73B1EBF58FF140D599",
-      "url": "https://github.com/dplochcoder/HollowKnight.SpicyRando/releases/download/v1.0.0.0/SpicyRando.zip"
+      "sha256": "BBFFB9D1731368CFEE6F7CDEBCEEA520EF0CC5A916D8C7BFBA849986687FFCAF",
+      "url": "https://github.com/dplochcoder/HollowKnight.SpicyRando/releases/download/v1.1.0.0/SpicyRando.zip"
     },
     "dependencies": [
       "ItemChanger",
