@@ -3,3 +3,5 @@ Bomber Knight
 Extra Rando
 SiblingClimb
 SpicyRando
+Archipelago
+HallOfGodsRandomizer

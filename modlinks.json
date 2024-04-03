@@ -217,11 +217,11 @@
   },
   "Archipelago": {
     "description": "Enables play with the Archipelago multiworld system.",
-    "version": "0.3.0.0",
+    "version": "0.4.0.0",
     "links": {
       "type": "universal",
-      "sha256": "7EDE1835DC0162C5450736EC2A448AC79CAD2E91A3962CAF052F3BD7CF5606F2",
-      "url": "https://github.com/ArchipelagoMW-HollowKnight/Archipelago.HollowKnight/releases/download/v0.3.0/Archipelago.zip"
+      "sha256": "BB09CDCC7C66488F266D3F42A6A696600BFFCF77C3F51BC9C56DB10BF232CC87",
+      "url": "https://github.com/ArchipelagoMW-HollowKnight/Archipelago.HollowKnight/releases/download/v0.4.0/Archipelago.zip"
     },
     "dependencies": [
       "Benchwarp",
@@ -2871,11 +2871,11 @@
   },
   "HallOfGodsRandomizer": {
     "description": "A Randomizer add-on for Hall of Gods statues.",
-    "version": "1.1.1.3",
+    "version": "1.1.2.0",
     "links": {
       "type": "universal",
-      "sha256": "A9E56970BF29161B601A04FFE7191AE52FF6B27ADDEF5BC7766CC2C071F2BEAC",
-      "url": "https://github.com/nerthul11/HallOfGodsRandomizer/releases/download/1.1.1.3/HallOfGodsRandomizer.zip"
+      "sha256": "F9484A8838D8269B2663E284D5F67E2AE68C815C52DF94F5F08332715CB1CA18",
+      "url": "https://github.com/nerthul11/HallOfGodsRandomizer/releases/download/1.1.2.0/HallOfGodsRandomizer.zip"
     },
     "dependencies": [
       "ItemChanger",
