@@ -1,6 +1,3 @@
-AnyZote
-Bomber Knight
-Extra Rando
 SiblingClimb
 SpicyRando
 Archipelago

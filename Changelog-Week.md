@@ -3,12 +3,6 @@
 
 ## New mods
 
-### AnyZote
-
-- Description: Most powerful zote modded boss ever.
-- Dependencies
-  + Satchel
-
 ### SiblingClimb
 
 - Description: Removes platforms from the lighthouse climb.
@@ -19,14 +13,6 @@
 ### Archipelago
 
 - Version: 0.3.0.0 -> 0.4.0.0
-
-### Bomber Knight
-
-- Version: 1.2.1.0 -> 1.2.2.0
-
-### Extra Rando
-
-- Version: 0.4.1.0 -> 0.5.0.0
 
 ### HallOfGodsRandomizer
 
