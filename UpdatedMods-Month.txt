@@ -11,3 +11,5 @@ Extra Rando
 SpicyRando
 Archipelago
 HallOfGodsRandomizer
+RCPathfinder
+RandoMapMod

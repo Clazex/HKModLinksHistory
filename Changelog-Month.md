@@ -9,9 +9,26 @@
 - Dependencies
   + Satchel
 
+### GodhomeRandomizer
+
+- Description: A Randomizer add-on for Godhome elements.
+- Dependencies
+  + ItemChanger
+  + ItemChangerDataLoader
+  + KorzUtils
+  + MenuChanger
+  + Randomizer 4
+- Tags
+  + Gameplay
+
 ### SiblingClimb
 
 - Description: Removes platforms from the lighthouse climb.
+
+
+## Removed mods
+
+- HallOfGodsRandomizer
 
 
 ## Updated mods
@@ -32,10 +49,6 @@
 
 - Version: 1.1.0.0 -> 1.1.1.0
 
-### HallOfGodsRandomizer
-
-- Version: 1.1.1.3 -> 1.1.2.0
-
 ### MapChanger
 
 - Version: 1.1.1.0 -> 1.2.0.0
@@ -46,11 +59,11 @@
 
 ### RCPathfinder
 
-- Version: 1.0.0.0 -> 1.1.0.0
+- Version: 1.0.0.0 -> 1.2.0.0
 
 ### RandoMapMod
 
-- Version: 3.4.2.0 -> 3.5.1.0
+- Version: 3.4.2.0 -> 3.5.2.0
 
 ### SpicyRando
 

@@ -2,3 +2,6 @@ SiblingClimb
 SpicyRando
 Archipelago
 HallOfGodsRandomizer
+GodhomeRandomizer
+RCPathfinder
+RandoMapMod
