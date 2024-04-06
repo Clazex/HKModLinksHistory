@@ -16,3 +16,4 @@ HallOfGodsRandomizer
 GodhomeRandomizer
 RCPathfinder
 RandoMapMod
+SpicyRando

@@ -3,3 +3,4 @@ Archipelago
 HallOfGodsRandomizer
 RCPathfinder
 RandoMapMod
+SpicyRando

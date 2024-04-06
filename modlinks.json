@@ -5530,11 +5530,11 @@
   },
   "SpicyRando": {
     "description": "Various difficulty increases in specific parts of rando",
-    "version": "1.1.0.0",
+    "version": "1.1.1.0",
     "links": {
       "type": "universal",
-      "sha256": "BBFFB9D1731368CFEE6F7CDEBCEEA520EF0CC5A916D8C7BFBA849986687FFCAF",
-      "url": "https://github.com/dplochcoder/HollowKnight.SpicyRando/releases/download/v1.1.0.0/SpicyRando.zip"
+      "sha256": "27DDDE9140FCD69164446CA4BA7F45081B6DA05694ABDAB9DC84516AB2D100A6",
+      "url": "https://github.com/dplochcoder/HollowKnight.SpicyRando/releases/download/v1.1.1.0/SpicyRando.zip"
     },
     "dependencies": [
       "ItemChanger",
