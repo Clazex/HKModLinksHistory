@@ -14,3 +14,6 @@ HallOfGodsRandomizer
 RCPathfinder
 RandoMapMod
 SpicyRando
+Archipelago
+RCPathfinder
+RandoMapMod
