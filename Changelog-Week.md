@@ -15,10 +15,6 @@
 - Tags
   + Gameplay
 
-### SiblingClimb
-
-- Description: Removes platforms from the lighthouse climb.
-
 
 ## Removed mods
 
@@ -41,5 +37,5 @@
 
 ### SpicyRando
 
-- Version: 1.0.0.0 -> 1.1.1.0
+- Version: 1.1.0.0 -> 1.1.1.0
 

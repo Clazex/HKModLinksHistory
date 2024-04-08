@@ -1,5 +1,3 @@
-SiblingClimb
-SpicyRando
 Archipelago
 HallOfGodsRandomizer
 GodhomeRandomizer
