@@ -9,6 +9,15 @@
 - Dependencies
   + Satchel
 
+### CelesteDash
+
+- Description: Bring a Celeste-like dash system into Hollow Knight
+- Dependencies
+  + HKMirror
+  + Satchel
+- Tags
+  + Gameplay
+
 ### GodhomeRandomizer
 
 - Description: A Randomizer add-on for Godhome elements.
@@ -59,11 +68,11 @@
 
 ### RCPathfinder
 
-- Version: 1.0.0.0 -> 1.3.0.0
+- Version: 1.0.0.0 -> 1.3.1.0
 
 ### RandoMapMod
 
-- Version: 3.4.2.0 -> 3.5.3.0
+- Version: 3.4.2.0 -> 3.5.4.0
 
 ### SpicyRando
 

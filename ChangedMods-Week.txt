@@ -1,9 +1,11 @@
-Archipelago
-HallOfGodsRandomizer
 GodhomeRandomizer
 RCPathfinder
 RandoMapMod
 SpicyRando
 Archipelago
+RCPathfinder
+RandoMapMod
+CelesteDash
+GodhomeRandomizer
 RCPathfinder
 RandoMapMod
