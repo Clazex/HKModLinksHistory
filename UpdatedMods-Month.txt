@@ -20,3 +20,5 @@ RandoMapMod
 GodhomeRandomizer
 RCPathfinder
 RandoMapMod
+CelesteDash
+RCPathfinder

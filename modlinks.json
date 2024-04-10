@@ -637,11 +637,11 @@
   },
   "CelesteDash": {
     "description": "Bring a Celeste-like dash system into Hollow Knight",
-    "version": "1.2.2.0",
+    "version": "1.2.3.0",
     "links": {
       "type": "universal",
-      "sha256": "F314ECEB78C929DEBE69C4EC9EDCDA28F2C5AB889F1EE6E9FF4CDE1DD72D4494",
-      "url": "https://github.com/kot9pa16lvl/HKCelesteDash/releases/download/v1.2.2.0/CelesteDash.zip"
+      "sha256": "DB20ED7E7F4538CA7F84FABD1BACE232B8DF5A7CEAE43034ABDB31EB1915259E",
+      "url": "https://github.com/kot9pa16lvl/HKCelesteDash/releases/download/v1.2.3.0/CelesteDash.zip"
     },
     "dependencies": [
       "HKMirror",
@@ -4664,11 +4664,11 @@
   },
   "RCPathfinder": {
     "description": "A pathfinder library for RandomizerCore.",
-    "version": "1.3.1.0",
+    "version": "1.3.2.0",
     "links": {
       "type": "universal",
-      "sha256": "6B404971C8F996E4AE458DD6E2D0AFC685EE7E6B106D7D47EB544D7910E6CCA7",
-      "url": "https://github.com/syyePhenomenol/RCPathfinder/releases/download/v1.3.1/RCPathfinder.zip"
+      "sha256": "79EFDCC9F9DB0D0C05B38F4ACF78EB05D45B0768E9D821D65DB2DF2F6BF7F31B",
+      "url": "https://github.com/syyePhenomenol/RCPathfinder/releases/download/v1.3.2/RCPathfinder.zip"
     },
     "dependencies": [
       "RandomizerCore"
