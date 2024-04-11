@@ -869,11 +869,11 @@
   },
   "ControllerFixes": {
     "description": "Fixes some controller issues and adds related features.",
-    "version": "1.0.2.0",
+    "version": "1.0.3.0",
     "links": {
       "type": "universal",
-      "sha256": "D3DD3041C46EF1644512AF7EB9F3E5F50EE996EF99FEB7960172FE284DA9E3BD",
-      "url": "https://github.com/syyePhenomenol/ControllerFixes/releases/download/v1.0.2/ControllerFixes.zip"
+      "sha256": "B1A0022F34480586486ABA9558A8E0ED19CEB3CAB6A0775E1E1E645B022FD8FF",
+      "url": "https://github.com/syyePhenomenol/ControllerFixes/releases/download/v1.0.3/ControllerFixes.zip"
     },
     "dependencies": [
       "HKMirror",
@@ -2435,11 +2435,11 @@
   },
   "GodhomeRandomizer": {
     "description": "A Randomizer add-on for Godhome elements.",
-    "version": "2.1.0.0",
+    "version": "2.1.1.0",
     "links": {
       "type": "universal",
-      "sha256": "174A841BBE2EDF28866B6969830DA9203D4BD8E0EEA3CD5D7CF06053EA69F213",
-      "url": "https://github.com/nerthul11/GodhomeRandomizer/releases/download/2.1.0.0/GodhomeRandomizer.zip"
+      "sha256": "14AE00AD07C4B9197D6F8346C3C7D08ED0F13CB73057677CBAA3323860DB8FBE",
+      "url": "https://github.com/nerthul11/GodhomeRandomizer/releases/download/2.1.1.0/GodhomeRandomizer.zip"
     },
     "dependencies": [
       "ItemChanger",

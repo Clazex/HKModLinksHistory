@@ -26,3 +26,5 @@ RCPathfinder
 RandoMapMod
 CelesteDash
 RCPathfinder
+ControllerFixes
+GodhomeRandomizer
