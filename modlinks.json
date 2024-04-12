@@ -2435,11 +2435,11 @@
   },
   "GodhomeRandomizer": {
     "description": "A Randomizer add-on for Godhome elements.",
-    "version": "2.1.1.0",
+    "version": "2.1.1.1",
     "links": {
       "type": "universal",
-      "sha256": "14AE00AD07C4B9197D6F8346C3C7D08ED0F13CB73057677CBAA3323860DB8FBE",
-      "url": "https://github.com/nerthul11/GodhomeRandomizer/releases/download/2.1.1.0/GodhomeRandomizer.zip"
+      "sha256": "3121C20BFD53A4953BBCF8DC73C0C8496DDAB35E2DFCBD21DDF3C0822EA64B54",
+      "url": "https://github.com/nerthul11/GodhomeRandomizer/releases/download/2.1.1.1/GodhomeRandomizer.zip"
     },
     "dependencies": [
       "ItemChanger",

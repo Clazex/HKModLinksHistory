@@ -1,0 +1,4 @@
+CelesteDash
+GodhomeRandomizer
+RCPathfinder
+RandoMapMod
