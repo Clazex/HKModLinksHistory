@@ -1,4 +1,3 @@
-Grass Randomizer
 MoreHealing
 MapChanger
 RCPathfinder
@@ -29,3 +28,9 @@ RCPathfinder
 ControllerFixes
 GodhomeRandomizer
 GodhomeRandomizer
+Ancient Aspid
+Corrupted Kin
+Crystal Machinist
+Inferno King Grimm
+More Godhome Space
+WeaverCore

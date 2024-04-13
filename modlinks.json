@@ -173,6 +173,28 @@
       "Exempt-Medic"
     ]
   },
+  "Ancient Aspid": {
+    "description": "A mod for Hollow Knight that adds a brand new, challenging bossfight to Kingdom's Edge",
+    "version": "1.0.0.0",
+    "links": {
+      "type": "universal",
+      "sha256": "03DEBFD869714A27985B27EC139C0C23F047E016AD93ABF8C28C1E146D1D26A3",
+      "url": "https://github.com/nickc01/Ancient-Aspid/releases/download/v1.0.0.0/Ancient-Aspid.zip"
+    },
+    "dependencies": [
+      "More Godhome Space",
+      "SFCore",
+      "WeaverCore"
+    ],
+    "repository": "https://github.com/nickc01/Ancient-Aspid/",
+    "tags": [
+      "Boss",
+      "Gameplay"
+    ],
+    "authors": [
+      "Nickc01"
+    ]
+  },
   "Any Radiance 3.0": {
     "description": "Any Radiance 3.0",
     "version": "1.0.0.0",
@@ -922,11 +944,11 @@
   },
   "Corrupted Kin": {
     "description": "A mod that significantly changes up the Lost Kin bossfight",
-    "version": "1.3.2.0",
+    "version": "1.4.0.0",
     "links": {
       "type": "universal",
-      "sha256": "2414AD7E7338A45A6B4E825BBF14F06CFE116F6CDC99387894E90BA5E2093B56",
-      "url": "https://github.com/nickc01/Corrupted-Kin/releases/download/v1.3.2.0/CorruptedKin.zip"
+      "sha256": "7ED6F6698389DD4A854E1FAA95638445219563C2E79719B200B1B689CFF424BE",
+      "url": "https://github.com/nickc01/Corrupted-Kin/releases/download/v1.4.0.0/CorruptedKin.zip"
     },
     "dependencies": [
       "WeaverCore"
@@ -998,11 +1020,11 @@
   },
   "Crystal Machinist": {
     "description": "A mod that significantly changes up the Enraged Guardian bossfight",
-    "version": "2.0.1.1",
+    "version": "2.0.2.0",
     "links": {
       "type": "universal",
-      "sha256": "175AF74FE084759BCC0F11C9302A6497B5C30808CCACDF374CC1FF1FD56F0752",
-      "url": "https://github.com/nickc01/Crystal-Machinist/releases/download/v2.0.1.1/CrystalMachinist.zip"
+      "sha256": "6781ACCF0ED64B75B62C710EFF5F80842AD79D5BEAB02E345974881309965AE8",
+      "url": "https://github.com/nickc01/Crystal-Machinist/releases/download/v2.0.2.0/CrystalMachinist.zip"
     },
     "dependencies": [
       "WeaverCore"
@@ -3205,11 +3227,11 @@
   },
   "Inferno King Grimm": {
     "description": "A mod that significantly buffs Nightmare King Grimm into a multi-phase fight. It also includes a hard mode that can be configured on the main menu",
-    "version": "4.2.2.1",
+    "version": "4.2.3.0",
     "links": {
       "type": "universal",
-      "sha256": "AA512ABDE3BC02F76648A3909F901D389469BB120FC2272DE177A28BD8ADAD15",
-      "url": "https://github.com/nickc01/Inferno-King-Grimm/releases/download/v4.2.2.1/InfernoKingGrimm.zip"
+      "sha256": "BE3B07402949FBFAAE59C9B7E213CF0E501A11D04EAECBB6439E913F7A9A3269",
+      "url": "https://github.com/nickc01/Inferno-King-Grimm/releases/download/v4.2.3.0/InfernoKingGrimm.zip"
     },
     "dependencies": [
       "WeaverCore"
@@ -3877,6 +3899,25 @@
     ],
     "authors": [
       "BadMagic"
+    ]
+  },
+  "More Godhome Space": {
+    "description": "Adds a third floor to the Hall of Gods area so more modded bosses can be added",
+    "version": "1.0.0.0",
+    "links": {
+      "type": "universal",
+      "sha256": "D248088E9474D27E3A3FCF5580043D53AFDE28F56F708829F537F33D2CB00A7C",
+      "url": "https://github.com/nickc01/MoreGodhomeSpace/releases/download/v1.0.0.0/MoreGodhomeSpace.zip"
+    },
+    "dependencies": [
+      "WeaverCore"
+    ],
+    "repository": "https://github.com/nickc01/MoreGodhomeSpace/",
+    "tags": [
+      "Gameplay"
+    ],
+    "authors": [
+      "Nickc01"
     ]
   },
   "MoreDoors": {
@@ -6080,11 +6121,11 @@
   },
   "WeaverCore": {
     "description": "Core mod required for mods built with WeaverCore, such as Inferno King Grimm and Corrupted Kin",
-    "version": "2.1.0.1",
+    "version": "2.2.0.0",
     "links": {
       "type": "universal",
-      "sha256": "759AD0DBCBA8846C4F621BD007DE45E473FE707290082CFC2C17FF03E2CFC0DA",
-      "url": "https://github.com/nickc01/WeaverCore/releases/download/v2.1.0.1/WeaverCore.zip"
+      "sha256": "821514ECDCD91623FB4E4315DB390EF9F3FA1CDE6D853D1B455D0885BE54D459",
+      "url": "https://github.com/nickc01/WeaverCore/releases/download/v2.2.0.0/WeaverCore.zip"
     },
     "dependencies": [],
     "repository": "https://github.com/nickc01/WeaverCore/",

@@ -3,6 +3,17 @@
 
 ## New mods
 
+### Ancient Aspid
+
+- Description: A mod for Hollow Knight that adds a brand new, challenging bossfight to Kingdom&#x27;s Edge
+- Dependencies
+  + More Godhome Space
+  + SFCore
+  + WeaverCore
+- Tags
+  + Boss
+  + Gameplay
+
 ### CelesteDash
 
 - Description: Bring a Celeste-like dash system into Hollow Knight
@@ -12,26 +23,46 @@
 - Tags
   + Gameplay
 
+### More Godhome Space
+
+- Description: Adds a third floor to the Hall of Gods area so more modded bosses can be added
+- Dependencies
+  + WeaverCore
+- Tags
+  + Gameplay
+
 
 ## Updated mods
-
-### Archipelago
-
-- Version: 0.4.0.0 -> 0.4.1.0
 
 ### ControllerFixes
 
 - Version: 1.0.2.0 -> 1.0.3.0
 
+### Corrupted Kin
+
+- Version: 1.3.2.0 -> 1.4.0.0
+
+### Crystal Machinist
+
+- Version: 2.0.1.1 -> 2.0.2.0
+
 ### GodhomeRandomizer
 
 - Version: 2.0.0.0 -> 2.1.1.1
 
+### Inferno King Grimm
+
+- Version: 4.2.2.1 -> 4.2.3.0
+
 ### RCPathfinder
 
-- Version: 1.2.0.0 -> 1.3.2.0
+- Version: 1.3.0.0 -> 1.3.2.0
 
 ### RandoMapMod
 
-- Version: 3.5.2.0 -> 3.5.4.0
+- Version: 3.5.3.0 -> 3.5.4.0
+
+### WeaverCore
+
+- Version: 2.1.0.1 -> 2.2.0.0
 
