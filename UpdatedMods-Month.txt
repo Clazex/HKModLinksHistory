@@ -28,3 +28,5 @@ Corrupted Kin
 Crystal Machinist
 Inferno King Grimm
 WeaverCore
+Ancient Aspid
+WeaverCore

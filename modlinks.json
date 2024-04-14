@@ -175,11 +175,11 @@
   },
   "Ancient Aspid": {
     "description": "A mod for Hollow Knight that adds a brand new, challenging bossfight to Kingdom's Edge",
-    "version": "1.0.0.0",
+    "version": "1.0.0.3",
     "links": {
       "type": "universal",
-      "sha256": "03DEBFD869714A27985B27EC139C0C23F047E016AD93ABF8C28C1E146D1D26A3",
-      "url": "https://github.com/nickc01/Ancient-Aspid/releases/download/v1.0.0.0/Ancient-Aspid.zip"
+      "sha256": "8495AB240EB0962D309A69EF1A664213FA48934E45EC3D66F35AB251EEDE8DFD",
+      "url": "https://github.com/nickc01/Ancient-Aspid/releases/download/v1.0.0.3/Ancient-Aspid.zip"
     },
     "dependencies": [
       "More Godhome Space",
@@ -6121,11 +6121,11 @@
   },
   "WeaverCore": {
     "description": "Core mod required for mods built with WeaverCore, such as Inferno King Grimm and Corrupted Kin",
-    "version": "2.2.0.0",
+    "version": "2.2.0.1",
     "links": {
       "type": "universal",
-      "sha256": "821514ECDCD91623FB4E4315DB390EF9F3FA1CDE6D853D1B455D0885BE54D459",
-      "url": "https://github.com/nickc01/WeaverCore/releases/download/v2.2.0.0/WeaverCore.zip"
+      "sha256": "390E0D7C075E4AC07D6AD51A8879437C3962936A33A3151833912BD87377BECA",
+      "url": "https://github.com/nickc01/WeaverCore/releases/download/v2.2.0.1/WeaverCore.zip"
     },
     "dependencies": [],
     "repository": "https://github.com/nickc01/WeaverCore/",
