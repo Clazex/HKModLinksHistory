@@ -175,11 +175,11 @@
   },
   "Ancient Aspid": {
     "description": "A mod for Hollow Knight that adds a brand new, challenging bossfight to Kingdom's Edge",
-    "version": "1.0.0.3",
+    "version": "1.0.0.4",
     "links": {
       "type": "universal",
-      "sha256": "8495AB240EB0962D309A69EF1A664213FA48934E45EC3D66F35AB251EEDE8DFD",
-      "url": "https://github.com/nickc01/Ancient-Aspid/releases/download/v1.0.0.3/Ancient-Aspid.zip"
+      "sha256": "24BF77EBEC070BBA708D124F24E99C50A8FEABEA4FD8C73A00EF7E43A7100D64",
+      "url": "https://github.com/nickc01/Ancient-Aspid/releases/download/v1.0.0.4/Ancient-Aspid.zip"
     },
     "dependencies": [
       "More Godhome Space",
@@ -255,11 +255,11 @@
   },
   "Archipelago Map Mod": {
     "description": "A conversion of RandoMapMod that works with the Archipelago multiworld randomizer",
-    "version": "2.1.3.0",
+    "version": "2.2.0.0",
     "links": {
       "type": "universal",
-      "sha256": "4D1F2F518BAEAB578B47C909F2C935DDFB9072788E5338809390034450F9B219",
-      "url": "https://github.com/ArchipelagoMW-HollowKnight/Archipelago.APMapMod/releases/download/v2.1.3/Archipelago.Map.Mod.zip"
+      "sha256": "E42C1B5BD170483CA4C12C58A972B1B3E74E15934C25232EA5F3F02AA50D47DD",
+      "url": "https://github.com/ArchipelagoMW-HollowKnight/Archipelago.APMapMod/releases/download/v2.2.0/Archipelago.Map.Mod.zip"
     },
     "dependencies": [
       "Archipelago",
@@ -3187,6 +3187,25 @@
     ],
     "repository": "https://github.com/homothetyhk/ICExtraDeployers/"
   },
+  "ICPlandoTools": {
+    "description": "Adds assorted utilities for plando authors.",
+    "version": "1.0.8870.7969",
+    "links": {
+      "type": "universal",
+      "sha256": "6F7517711D7FC256C5B76D4ECCD4E3F32843CA8B45622436AF287CEDD7072351",
+      "url": "https://github.com/BadMagic100/ICPlandoTools/releases/download/v1.0.8870.7969/ICPlandoTools.zip"
+    },
+    "dependencies": [
+      "ItemChanger"
+    ],
+    "repository": "https://github.com/BadMagic100/ICPlandoTools",
+    "tags": [
+      "Library"
+    ],
+    "authors": [
+      "BadMagic"
+    ]
+  },
   "ImmortalLight": {
     "description": "A modboss for Absolute Radiance",
     "version": "0.0.1.1",
@@ -4339,20 +4358,20 @@
   },
   "Pale Court": {
     "description": "Challenge Hallownest's mightiest champions in grand combat!\nOvercome your opponents with powerful new charms!\nDiscover new secrets and stories!\nAll with an incredible new soundtrack!",
-    "version": "1.0.1.0",
+    "version": "1.1.0.0",
     "links": {
       "type": "platform-dependent",
       "windows": {
-        "sha256": "A7AB92D4FBB352D2A18FD31CD9F01370EB91488EEEB485AB915A9DDE01C54ADA",
-        "url": "https://github.com/PaleCourt/PaleCourt/releases/download/1.0.1.0/PaleCourt-Win.zip"
+        "sha256": "2B1D6F9A81F8039AE326328EADE19F923DFE73631C2917520BABA93983155085",
+        "url": "https://github.com/PaleCourt/PaleCourt/releases/download/1.1.0.0/PaleCourt-Win.zip"
       },
       "mac": {
-        "sha256": "5FAB7AFF27C610C5DA2E25EEE90DCEDF887C26259D672250D7EC2624B4CF0F0A",
-        "url": "https://github.com/PaleCourt/PaleCourt/releases/download/1.0.1.0/PaleCourt-Mac.zip"
+        "sha256": "3925C682FC68A60F56939E49C1D32090F27072729387490122126774FEF26BA8",
+        "url": "https://github.com/PaleCourt/PaleCourt/releases/download/1.1.0.0/PaleCourt-Mac.zip"
       },
       "linux": {
-        "sha256": "3B074BA2FFEF9575D2157CB80325F6C80C419D6B42BC2DE116E32B1CDF21AF78",
-        "url": "https://github.com/PaleCourt/PaleCourt/releases/download/1.0.1.0/PaleCourt-Lin.zip"
+        "sha256": "FDFD057399BC185AA89601669D44B1096223ABB0445E6435CBA759D202D8F86E",
+        "url": "https://github.com/PaleCourt/PaleCourt/releases/download/1.1.0.0/PaleCourt-Lin.zip"
       }
     },
     "dependencies": [
@@ -5355,25 +5374,6 @@
     ],
     "repository": "https://github.com/HKLab/DCParry/"
   },
-  "Shuriken": {
-    "description": "A tiny rando extension a new skill to the game: a shuriken that you can teleport to.",
-    "version": "1.0.0.1",
-    "links": {
-      "type": "universal",
-      "sha256": "0604B59C2113D499FC06ECDF50650DE98C32E4B0A711AC69C37D42067283BEF3",
-      "url": "https://github.com/randomscorp/Shuriken/releases/download/1.0.0.1/Shuriken.zip"
-    },
-    "dependencies": [
-      "Satchel"
-    ],
-    "repository": "https://github.com/randomscorp/Shuriken",
-    "integrations": [
-      "Randomizer 4"
-    ],
-    "tags": [
-      "Gameplay"
-    ]
-  },
   "ShyKnight": {
     "description": "Removes the audience from Godhome arenas and Colosseum of Fools",
     "version": "1.3.0.0",
@@ -6121,11 +6121,11 @@
   },
   "WeaverCore": {
     "description": "Core mod required for mods built with WeaverCore, such as Inferno King Grimm and Corrupted Kin",
-    "version": "2.2.0.1",
+    "version": "2.2.0.2",
     "links": {
       "type": "universal",
-      "sha256": "390E0D7C075E4AC07D6AD51A8879437C3962936A33A3151833912BD87377BECA",
-      "url": "https://github.com/nickc01/WeaverCore/releases/download/v2.2.0.1/WeaverCore.zip"
+      "sha256": "FBA933459C74587A5B4EFC385B2E9F68A6B596C6139EAD330A025E094E94E32C",
+      "url": "https://github.com/nickc01/WeaverCore/releases/download/v2.2.0.2/WeaverCore.zip"
     },
     "dependencies": [],
     "repository": "https://github.com/nickc01/WeaverCore/",

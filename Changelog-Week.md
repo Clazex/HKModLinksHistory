@@ -14,14 +14,13 @@
   + Boss
   + Gameplay
 
-### CelesteDash
+### ICPlandoTools
 
-- Description: Bring a Celeste-like dash system into Hollow Knight
+- Description: Adds assorted utilities for plando authors.
 - Dependencies
-  + HKMirror
-  + Satchel
+  + ItemChanger
 - Tags
-  + Gameplay
+  + Library
 
 ### More Godhome Space
 
@@ -32,7 +31,20 @@
   + Gameplay
 
 
+## Removed mods
+
+- Shuriken
+
+
 ## Updated mods
+
+### Archipelago Map Mod
+
+- Version: 2.1.3.0 -> 2.2.0.0
+
+### CelesteDash
+
+- Version: 1.2.2.0 -> 1.2.3.0
 
 ### ControllerFixes
 
@@ -48,21 +60,21 @@
 
 ### GodhomeRandomizer
 
-- Version: 2.0.0.0 -> 2.1.1.1
+- Version: 2.1.0.0 -> 2.1.1.1
 
 ### Inferno King Grimm
 
 - Version: 4.2.2.1 -> 4.2.3.0
 
+### Pale Court
+
+- Version: 1.0.1.0 -> 1.1.0.0
+
 ### RCPathfinder
 
-- Version: 1.3.0.0 -> 1.3.2.0
-
-### RandoMapMod
-
-- Version: 3.5.3.0 -> 3.5.4.0
+- Version: 1.3.1.0 -> 1.3.2.0
 
 ### WeaverCore
 
-- Version: 2.1.0.1 -> 2.2.0.1
+- Version: 2.1.0.1 -> 2.2.0.2
 

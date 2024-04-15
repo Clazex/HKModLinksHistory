@@ -41,6 +41,14 @@
 - Tags
   + Gameplay
 
+### ICPlandoTools
+
+- Description: Adds assorted utilities for plando authors.
+- Dependencies
+  + ItemChanger
+- Tags
+  + Library
+
 ### More Godhome Space
 
 - Description: Adds a third floor to the Hall of Gods area so more modded bosses can be added
@@ -57,6 +65,7 @@
 ## Removed mods
 
 - HallOfGodsRandomizer
+- Shuriken
 
 
 ## Updated mods
@@ -64,6 +73,10 @@
 ### Archipelago
 
 - Version: 0.3.0.0 -> 0.4.1.0
+
+### Archipelago Map Mod
+
+- Version: 2.1.3.0 -> 2.2.0.0
 
 ### Bomber Knight
 
@@ -97,6 +110,10 @@
 
 - Version: 1.5.0.0 -> 1.5.2.0
 
+### Pale Court
+
+- Version: 1.0.1.0 -> 1.1.0.0
+
 ### RCPathfinder
 
 - Version: 1.0.0.0 -> 1.3.2.0
@@ -119,5 +136,5 @@
 
 ### WeaverCore
 
-- Version: 2.1.0.1 -> 2.2.0.1
+- Version: 2.1.0.1 -> 2.2.0.2
 

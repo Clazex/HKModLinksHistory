@@ -30,3 +30,7 @@ Inferno King Grimm
 WeaverCore
 Ancient Aspid
 WeaverCore
+Ancient Aspid
+Archipelago Map Mod
+Pale Court
+WeaverCore

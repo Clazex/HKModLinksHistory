@@ -1,8 +1,4 @@
 CelesteDash
-GodhomeRandomizer
-RCPathfinder
-RandoMapMod
-CelesteDash
 RCPathfinder
 ControllerFixes
 GodhomeRandomizer
@@ -14,4 +10,9 @@ Inferno King Grimm
 More Godhome Space
 WeaverCore
 Ancient Aspid
+WeaverCore
+Ancient Aspid
+Archipelago Map Mod
+ICPlandoTools
+Pale Court
 WeaverCore
