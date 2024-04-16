@@ -1,5 +1,3 @@
-CelesteDash
-RCPathfinder
 ControllerFixes
 GodhomeRandomizer
 GodhomeRandomizer

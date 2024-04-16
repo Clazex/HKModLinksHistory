@@ -42,10 +42,6 @@
 
 - Version: 2.1.3.0 -> 2.2.0.0
 
-### CelesteDash
-
-- Version: 1.2.2.0 -> 1.2.3.0
-
 ### ControllerFixes
 
 - Version: 1.0.2.0 -> 1.0.3.0
@@ -69,10 +65,6 @@
 ### Pale Court
 
 - Version: 1.0.1.0 -> 1.1.0.0
-
-### RCPathfinder
-
-- Version: 1.3.1.0 -> 1.3.2.0
 
 ### WeaverCore
 
