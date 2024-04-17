@@ -5127,6 +5127,19 @@
     ],
     "repository": "https://github.com/flibber-hk/HollowKnight.RecentItemsDisplay/"
   },
+  "RecentItemsDisplayNoGrass": {
+    "description": "RecentItemsDisplay GrassRando notDisplay Grass",
+    "version": "1.0.0.0",
+    "links": {
+      "type": "universal",
+      "sha256": "7F9DD0D9AAA3D135F39D881F2FB7E45DFE173906BDAB899B7EC27A44115A1A8E",
+      "url": "https://github.com/wdghzym/RecentItemsDisplayNoGrass/releases/download/v1.0/RecentItemsDisplayNoGrass.zip"
+    },
+    "dependencies": [
+      "RecentItemsDisplay"
+    ],
+    "repository": "https://github.com/wdghzym/RecentItemsDisplayNoGrass"
+  },
   "RedoBirthplace": {
     "description": "Redo the Birthplace cutscene.",
     "version": "1.5.0.0",

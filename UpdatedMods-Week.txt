@@ -1,5 +1,3 @@
-ControllerFixes
-GodhomeRandomizer
 GodhomeRandomizer
 Corrupted Kin
 Crystal Machinist

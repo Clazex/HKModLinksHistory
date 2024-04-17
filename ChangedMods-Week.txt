@@ -1,5 +1,3 @@
-ControllerFixes
-GodhomeRandomizer
 GodhomeRandomizer
 Ancient Aspid
 Corrupted Kin
@@ -14,3 +12,4 @@ Archipelago Map Mod
 ICPlandoTools
 Pale Court
 WeaverCore
+RecentItemsDisplayNoGrass

@@ -30,6 +30,12 @@
 - Tags
   + Gameplay
 
+### RecentItemsDisplayNoGrass
+
+- Description: RecentItemsDisplay GrassRando notDisplay Grass
+- Dependencies
+  + RecentItemsDisplay
+
 
 ## Removed mods
 
@@ -42,10 +48,6 @@
 
 - Version: 2.1.3.0 -> 2.2.0.0
 
-### ControllerFixes
-
-- Version: 1.0.2.0 -> 1.0.3.0
-
 ### Corrupted Kin
 
 - Version: 1.3.2.0 -> 1.4.0.0
@@ -56,7 +58,7 @@
 
 ### GodhomeRandomizer
 
-- Version: 2.1.0.0 -> 2.1.1.1
+- Version: 2.1.1.0 -> 2.1.1.1
 
 ### Inferno King Grimm
 
