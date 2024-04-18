@@ -36,3 +36,4 @@ ICPlandoTools
 Pale Court
 WeaverCore
 RecentItemsDisplayNoGrass
+LockResolution

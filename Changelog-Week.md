@@ -22,6 +22,10 @@
 - Tags
   + Library
 
+### LockResolution
+
+- Description: Lock Resolution On GamePlay
+
 ### More Godhome Space
 
 - Description: Adds a third floor to the Hall of Gods area so more modded bosses can be added
@@ -55,10 +59,6 @@
 ### Crystal Machinist
 
 - Version: 2.0.1.1 -> 2.0.2.0
-
-### GodhomeRandomizer
-
-- Version: 2.1.1.0 -> 2.1.1.1
 
 ### Inferno King Grimm
 

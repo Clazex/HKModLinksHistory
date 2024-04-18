@@ -2,3 +2,4 @@ Ancient Aspid
 More Godhome Space
 ICPlandoTools
 RecentItemsDisplayNoGrass
+LockResolution

@@ -49,6 +49,10 @@
 - Tags
   + Library
 
+### LockResolution
+
+- Description: Lock Resolution On GamePlay
+
 ### More Godhome Space
 
 - Description: Adds a third floor to the Hall of Gods area so more modded bosses can be added
