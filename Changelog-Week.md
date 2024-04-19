@@ -3,17 +3,6 @@
 
 ## New mods
 
-### Ancient Aspid
-
-- Description: A mod for Hollow Knight that adds a brand new, challenging bossfight to Kingdom&#x27;s Edge
-- Dependencies
-  + More Godhome Space
-  + SFCore
-  + WeaverCore
-- Tags
-  + Boss
-  + Gameplay
-
 ### ICPlandoTools
 
 - Description: Adds assorted utilities for plando authors.
@@ -26,13 +15,12 @@
 
 - Description: Lock Resolution On GamePlay
 
-### More Godhome Space
+### MetalPipeHM
 
-- Description: Adds a third floor to the Hall of Gods area so more modded bosses can be added
+- Description: A hollow knight mod that plays the metal pipe falling sound whenever the knight swings their nail.
 - Dependencies
-  + WeaverCore
-- Tags
-  + Gameplay
+  + SFCore
+  + Satchel
 
 ### RecentItemsDisplayNoGrass
 
@@ -48,21 +36,13 @@
 
 ## Updated mods
 
+### Ancient Aspid
+
+- Version: 1.0.0.0 -> 1.0.0.4
+
 ### Archipelago Map Mod
 
 - Version: 2.1.3.0 -> 2.2.0.0
-
-### Corrupted Kin
-
-- Version: 1.3.2.0 -> 1.4.0.0
-
-### Crystal Machinist
-
-- Version: 2.0.1.1 -> 2.0.2.0
-
-### Inferno King Grimm
-
-- Version: 4.2.2.1 -> 4.2.3.0
 
 ### Pale Court
 
@@ -70,5 +50,12 @@
 
 ### WeaverCore
 
-- Version: 2.1.0.1 -> 2.2.0.2
+- Version: 2.2.0.0 -> 2.2.0.2
+
+### press g to dab
+
+- Version: 1.0.0.0 -> 1.2.0.0
+- Integrations
+  + Added
+    - Custom Knight
 

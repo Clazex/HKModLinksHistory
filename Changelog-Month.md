@@ -53,6 +53,13 @@
 
 - Description: Lock Resolution On GamePlay
 
+### MetalPipeHM
+
+- Description: A hollow knight mod that plays the metal pipe falling sound whenever the knight swings their nail.
+- Dependencies
+  + SFCore
+  + Satchel
+
 ### More Godhome Space
 
 - Description: Adds a third floor to the Hall of Gods area so more modded bosses can be added
@@ -131,4 +138,11 @@
 ### WeaverCore
 
 - Version: 2.1.0.1 -> 2.2.0.2
+
+### press g to dab
+
+- Version: 1.0.0.0 -> 1.2.0.0
+- Integrations
+  + Added
+    - Custom Knight
 

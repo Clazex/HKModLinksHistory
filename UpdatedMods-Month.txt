@@ -28,3 +28,4 @@ Ancient Aspid
 Archipelago Map Mod
 Pale Court
 WeaverCore
+press g to dab
