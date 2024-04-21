@@ -3,17 +3,35 @@
 
 ## New mods
 
-### ICPlandoTools
+### BingoGoalPack1
 
-- Description: Adds assorted utilities for plando authors.
+- Description: Adds more goals to BingoSync and includes new board types
 - Dependencies
-  + ItemChanger
+  + BingoSyncExtension
+  + Satchel
+
+### BingoSyncExtension
+
+- Description: A library mod that provides an interface to add extra automarking logic to BingoSync
+- Dependencies
+  + BingoSync
 - Tags
   + Library
 
 ### LockResolution
 
-- Description: Lock Resolution On GamePlay
+- Description: Lock Resolution On GamePlay. VSync On LostFocus
+
+### MapSyncMod
+
+- Description: Sync Map and Bench on ItemSyncMOD
+- Dependencies
+  + Benchwarp
+  + ItemSync
+  + MapChanger
+- Integrations
+  + RandoMapMod
+  + RecentItemsDisplay
 
 ### MetalPipeHM
 
@@ -29,28 +47,15 @@
   + RecentItemsDisplay
 
 
-## Removed mods
-
-- Shuriken
-
-
 ## Updated mods
 
 ### Ancient Aspid
 
-- Version: 1.0.0.3 -> 1.0.0.4
-
-### Archipelago Map Mod
-
-- Version: 2.1.3.0 -> 2.2.0.0
-
-### Pale Court
-
-- Version: 1.0.1.0 -> 1.1.0.0
+- Version: 1.0.0.4 -> 1.0.0.5
 
 ### WeaverCore
 
-- Version: 2.2.0.1 -> 2.2.0.2
+- Version: 2.2.0.2 -> 2.2.0.3
 
 ### press g to dab
 

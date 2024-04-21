@@ -8,3 +8,6 @@ ICPlandoTools
 RecentItemsDisplayNoGrass
 LockResolution
 MetalPipeHM
+BingoGoalPack1
+BingoSyncExtension
+MapSyncMod

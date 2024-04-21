@@ -39,3 +39,9 @@ RecentItemsDisplayNoGrass
 LockResolution
 MetalPipeHM
 press g to dab
+Ancient Aspid
+BingoGoalPack1
+BingoSyncExtension
+LockResolution
+MapSyncMod
+WeaverCore

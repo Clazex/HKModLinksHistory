@@ -20,6 +20,21 @@
 - Dependencies
   + Satchel
 
+### BingoGoalPack1
+
+- Description: Adds more goals to BingoSync and includes new board types
+- Dependencies
+  + BingoSyncExtension
+  + Satchel
+
+### BingoSyncExtension
+
+- Description: A library mod that provides an interface to add extra automarking logic to BingoSync
+- Dependencies
+  + BingoSync
+- Tags
+  + Library
+
 ### CelesteDash
 
 - Description: Bring a Celeste-like dash system into Hollow Knight
@@ -51,7 +66,18 @@
 
 ### LockResolution
 
-- Description: Lock Resolution On GamePlay
+- Description: Lock Resolution On GamePlay. VSync On LostFocus
+
+### MapSyncMod
+
+- Description: Sync Map and Bench on ItemSyncMOD
+- Dependencies
+  + Benchwarp
+  + ItemSync
+  + MapChanger
+- Integrations
+  + RandoMapMod
+  + RecentItemsDisplay
 
 ### MetalPipeHM
 
@@ -137,7 +163,7 @@
 
 ### WeaverCore
 
-- Version: 2.1.0.1 -> 2.2.0.2
+- Version: 2.1.0.1 -> 2.2.0.3
 
 ### press g to dab
 

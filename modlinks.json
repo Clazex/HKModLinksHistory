@@ -175,11 +175,11 @@
   },
   "Ancient Aspid": {
     "description": "A mod for Hollow Knight that adds a brand new, challenging bossfight to Kingdom's Edge",
-    "version": "1.0.0.4",
+    "version": "1.0.0.5",
     "links": {
       "type": "universal",
-      "sha256": "24BF77EBEC070BBA708D124F24E99C50A8FEABEA4FD8C73A00EF7E43A7100D64",
-      "url": "https://github.com/nickc01/Ancient-Aspid/releases/download/v1.0.0.4/Ancient-Aspid.zip"
+      "sha256": "5DAC090D58644B03C1E879C5F009FB48B061F9BC33F931954F541198CF10C2B6",
+      "url": "https://github.com/nickc01/Ancient-Aspid/releases/download/v1.0.0.5/Ancient-Aspid.zip"
     },
     "dependencies": [
       "More Godhome Space",
@@ -477,6 +477,25 @@
     ],
     "repository": "https://github.com/JasonILTG/HollowKnight.BingoBoard/"
   },
+  "BingoGoalPack1": {
+    "description": "Adds more goals to BingoSync and includes new board types",
+    "version": "1.0.0.1",
+    "links": {
+      "type": "universal",
+      "sha256": "AEEB0F074DF698FE513A2F96E586843244FEF74C7CA0CD14949107CF496B694A",
+      "url": "https://github.com/TheMathGeek314/BingoSyncGoalPack1/releases/download/v1.0.0.2/BingoGoalPack1.zip"
+    },
+    "dependencies": [
+      "BingoSyncExtension",
+      "Satchel"
+    ],
+    "repository": "https://github.com/TheMathGeek314/BingoSyncGoalPack1/",
+    "authors": [
+      "Alph4",
+      "Le__Bun",
+      "TheMathGeek_314"
+    ]
+  },
   "BingoSync": {
     "description": "A Hollow Knight mod that automatically marks squares on bingosync.com",
     "version": "1.2.2.0",
@@ -491,6 +510,25 @@
       "Satchel"
     ],
     "repository": "https://github.com/pedroteosousa/HollowKnight.BingoSync"
+  },
+  "BingoSyncExtension": {
+    "description": "A library mod that provides an interface to add extra automarking logic to BingoSync",
+    "version": "1.0.0.0",
+    "links": {
+      "type": "universal",
+      "sha256": "6C2EF7171E39A38DA97B027E5C84F382FD2F4152417410BBAC493745E6470025",
+      "url": "https://github.com/TheRealAlph4/BingoSyncExtension/releases/download/v1.0.0.0/BingoSyncExtension.zip"
+    },
+    "dependencies": [
+      "BingoSync"
+    ],
+    "repository": "https://github.com/TheRealAlph4/BingoSyncExtension/",
+    "tags": [
+      "Library"
+    ],
+    "authors": [
+      "Alph4"
+    ]
   },
   "BingoUI": {
     "description": "Automatic tracking of bingo goals for randomizer and speedrun bingo races.",
@@ -3558,12 +3596,12 @@
     "repository": "https://github.com/homothetyhk/HollowKnight.LoadNormalizer/"
   },
   "LockResolution": {
-    "description": "Lock Resolution On GamePlay",
-    "version": "1.1.0.0",
+    "description": "Lock Resolution On GamePlay. VSync On LostFocus",
+    "version": "1.2.0.0",
     "links": {
       "type": "universal",
-      "sha256": "72C3E4B5472F5F1C533FC45EB78BC5AEEC2F5F4CDE298E5E9B9F5A7E9BFFEE37",
-      "url": "https://github.com/wdghzym/HollowKnight.LockResolution/releases/download/v1.1/LockResolution.v1.1.zip"
+      "sha256": "D680459018B4016CCCCCE9A4D67E36B2A68F53C587EA545F6DD74D7D9736370C",
+      "url": "https://github.com/wdghzym/HollowKnight.LockResolution/releases/download/v1.2/LockResolution.zip"
     },
     "dependencies": [],
     "repository": "https://github.com/wdghzym/HollowKnight.LockResolution",
@@ -3752,6 +3790,28 @@
     ],
     "authors": [
       "Phenomenol"
+    ]
+  },
+  "MapSyncMod": {
+    "description": "Sync Map and Bench on ItemSyncMOD",
+    "version": "1.0.0.0",
+    "links": {
+      "type": "universal",
+      "sha256": "224FB62A39A183ADF9BC07783FAEF956C570F3B4598ADABF387D39981FC5D745",
+      "url": "https://github.com/wdghzym/HollowKnight.MapSyncMod/releases/download/v1.0/MapSyncMod.v1.0.zip"
+    },
+    "dependencies": [
+      "Benchwarp",
+      "ItemSync",
+      "MapChanger"
+    ],
+    "repository": "https://github.com/wdghzym/HollowKnight.MapSyncMod",
+    "integrations": [
+      "RandoMapMod",
+      "RecentItemsDisplay"
+    ],
+    "authors": [
+      "wdghzym"
     ]
   },
   "Mash Dash": {
@@ -6168,11 +6228,11 @@
   },
   "WeaverCore": {
     "description": "Core mod required for mods built with WeaverCore, such as Inferno King Grimm and Corrupted Kin",
-    "version": "2.2.0.2",
+    "version": "2.2.0.3",
     "links": {
       "type": "universal",
-      "sha256": "FBA933459C74587A5B4EFC385B2E9F68A6B596C6139EAD330A025E094E94E32C",
-      "url": "https://github.com/nickc01/WeaverCore/releases/download/v2.2.0.2/WeaverCore.zip"
+      "sha256": "836B0C1E3BE5BAF521BC16BA914A1B155F4E45F58DF1BB0AE0968A7E39DC0C09",
+      "url": "https://github.com/nickc01/WeaverCore/releases/download/v2.2.0.3/WeaverCore.zip"
     },
     "dependencies": [],
     "repository": "https://github.com/nickc01/WeaverCore/",
