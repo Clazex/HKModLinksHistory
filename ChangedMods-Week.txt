@@ -8,3 +8,7 @@ BingoSyncExtension
 LockResolution
 MapSyncMod
 WeaverCore
+Ancient Aspid
+RandoMapMod
+TheHuntIsOn
+WeaverCore

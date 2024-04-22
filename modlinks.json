@@ -175,11 +175,11 @@
   },
   "Ancient Aspid": {
     "description": "A mod for Hollow Knight that adds a brand new, challenging bossfight to Kingdom's Edge",
-    "version": "1.0.0.5",
+    "version": "1.0.0.6",
     "links": {
       "type": "universal",
-      "sha256": "5DAC090D58644B03C1E879C5F009FB48B061F9BC33F931954F541198CF10C2B6",
-      "url": "https://github.com/nickc01/Ancient-Aspid/releases/download/v1.0.0.5/Ancient-Aspid.zip"
+      "sha256": "34EE2B5661CB82DFAD312C307572037C5490FF34A95755382A8861D58397B468",
+      "url": "https://github.com/nickc01/Ancient-Aspid/releases/download/v1.0.0.6/Ancient-Aspid.zip"
     },
     "dependencies": [
       "More Godhome Space",
@@ -4943,11 +4943,11 @@
   },
   "RandoMapMod": {
     "description": "A Randomizer 4 overhaul of the World Map to help find item and transition checks.",
-    "version": "3.5.4.0",
+    "version": "3.5.5.0",
     "links": {
       "type": "universal",
-      "sha256": "80337F1ED1E82CE0E28882DE61CBBA02D5AF15D11325223F04281A78C6EA6CBE",
-      "url": "https://github.com/syyePhenomenol/RandoMapMod/releases/download/v3.5.4/RandoMapMod.zip"
+      "sha256": "47E7031F724E47093036F977A18F50D1830E3F9DB01AC1195C33773D5824DF04",
+      "url": "https://github.com/syyePhenomenol/RandoMapMod/releases/download/v3.5.5/RandoMapMod.zip"
     },
     "dependencies": [
       "ConnectionMetadataInjector",
@@ -5930,6 +5930,29 @@
       "RandoSettingsManager"
     ]
   },
+  "TheHuntIsOn": {
+    "description": "A mod for manhunting. Provides modules to change how the game affects hunter and speedrunner.",
+    "version": "0.4.0.0",
+    "links": {
+      "type": "universal",
+      "sha256": "C00A03199F5E6D846609D9312F5F8989CDF390D7CC562DCA0CA2D21283DC9BD2",
+      "url": "https://github.com/Korzer420/TheHuntIsOn/releases/download/v0.4.0/TheHuntIsOn.zip"
+    },
+    "dependencies": [
+      "HKMP",
+      "KorzUtils",
+      "Satchel"
+    ],
+    "repository": "https://github.com/Korzer420/TheHuntIsOn",
+    "tags": [
+      "Gameplay"
+    ],
+    "authors": [
+      "Extremelyd1",
+      "Fireb0rn",
+      "Korz"
+    ]
+  },
   "TheRealJournalRando": {
     "description": "Randomizer 4 addon that adds the option to randomize all other Hunter's Journal entries. Activate in the Connections menu of Randomizer 4.",
     "version": "2.3.8843.8416",
@@ -6228,11 +6251,11 @@
   },
   "WeaverCore": {
     "description": "Core mod required for mods built with WeaverCore, such as Inferno King Grimm and Corrupted Kin",
-    "version": "2.2.0.3",
+    "version": "2.2.0.4",
     "links": {
       "type": "universal",
-      "sha256": "836B0C1E3BE5BAF521BC16BA914A1B155F4E45F58DF1BB0AE0968A7E39DC0C09",
-      "url": "https://github.com/nickc01/WeaverCore/releases/download/v2.2.0.3/WeaverCore.zip"
+      "sha256": "790DD2B5311466B13589E8972E2E9B3F07E76B0C1091476EAF4D342A8A307D6A",
+      "url": "https://github.com/nickc01/WeaverCore/releases/download/v2.2.0.4/WeaverCore.zip"
     },
     "dependencies": [],
     "repository": "https://github.com/nickc01/WeaverCore/",

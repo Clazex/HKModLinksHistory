@@ -1,3 +1,1 @@
-BingoGoalPack1
-BingoSyncExtension
-MapSyncMod
+TheHuntIsOn

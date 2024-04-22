@@ -2,3 +2,6 @@ press g to dab
 Ancient Aspid
 LockResolution
 WeaverCore
+Ancient Aspid
+RandoMapMod
+WeaverCore

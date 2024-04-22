@@ -104,6 +104,16 @@
 
 - Description: Removes platforms from the lighthouse climb.
 
+### TheHuntIsOn
+
+- Description: A mod for manhunting. Provides modules to change how the game affects hunter and speedrunner.
+- Dependencies
+  + HKMP
+  + KorzUtils
+  + Satchel
+- Tags
+  + Gameplay
+
 
 ## Removed mods
 
@@ -155,7 +165,7 @@
 
 ### RandoMapMod
 
-- Version: 3.5.0.0 -> 3.5.4.0
+- Version: 3.5.0.0 -> 3.5.5.0
 
 ### SpicyRando
 
@@ -163,7 +173,7 @@
 
 ### WeaverCore
 
-- Version: 2.1.0.1 -> 2.2.0.3
+- Version: 2.1.0.1 -> 2.2.0.4
 
 ### press g to dab
 
