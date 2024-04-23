@@ -49,3 +49,5 @@ Ancient Aspid
 RandoMapMod
 TheHuntIsOn
 WeaverCore
+BingoGoalPack1
+SpicyRando

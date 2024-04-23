@@ -40,12 +40,6 @@
   + SFCore
   + Satchel
 
-### RecentItemsDisplayNoGrass
-
-- Description: RecentItemsDisplay GrassRando notDisplay Grass
-- Dependencies
-  + RecentItemsDisplay
-
 ### TheHuntIsOn
 
 - Description: A mod for manhunting. Provides modules to change how the game affects hunter and speedrunner.
@@ -66,6 +60,10 @@
 ### RandoMapMod
 
 - Version: 3.5.4.0 -> 3.5.5.0
+
+### SpicyRando
+
+- Version: 1.1.1.0 -> 1.2.1.0
 
 ### WeaverCore
 

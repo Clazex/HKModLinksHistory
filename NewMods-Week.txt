@@ -1,4 +1,3 @@
-RecentItemsDisplayNoGrass
 LockResolution
 MetalPipeHM
 BingoGoalPack1
