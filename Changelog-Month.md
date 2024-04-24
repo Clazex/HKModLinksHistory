@@ -53,6 +53,7 @@
   + KorzUtils
   + MenuChanger
   + Randomizer 4
+  + Satchel
 - Tags
   + Gameplay
 
@@ -165,7 +166,7 @@
 
 ### RandoMapMod
 
-- Version: 3.5.0.0 -> 3.5.5.0
+- Version: 3.5.1.0 -> 3.5.5.0
 
 ### SpicyRando
 

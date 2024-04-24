@@ -5304,9 +5304,9 @@ This is a singleplayer mod. The "teamwork" refers to in-game events.</Descriptio
     <Manifest>
         <Name>RandoMapMod</Name>
         <Description>A Randomizer 4 overhaul of the World Map to help find item and transition checks.</Description>
-        <Version>3.5.1.0</Version>
-        <Link SHA256="E57C2EE8FDF194D88D4DBA1281768EC5152ABCDC6BDBF728BD1F2C8D6A8F3874">
-            <![CDATA[https://github.com/syyePhenomenol/RandoMapMod/releases/download/v3.5.1/RandoMapMod.zip]]>
+        <Version>3.5.2.0</Version>
+        <Link SHA256="7894FED49D627E9B7B886BB2D6158AAE1078B3AEDA45CF3FB479EA65AA963315">
+            <![CDATA[https://github.com/syyePhenomenol/RandoMapMod/releases/download/v3.5.2/RandoMapMod.zip]]>
         </Link>
         <Dependencies>
             <Dependency>ConnectionMetadataInjector</Dependency>
@@ -5752,9 +5752,9 @@ This is a singleplayer mod. The "teamwork" refers to in-game events.</Descriptio
     <Manifest>
         <Name>RCPathfinder</Name>
         <Description>A pathfinder library for RandomizerCore.</Description>
-        <Version>1.1.0.0</Version>
-        <Link SHA256="8D532C93C6E147BDF360BAF8B1B40F49C6F93A5D1DB1420B8700C5A26C7F9888">
-            <![CDATA[https://github.com/syyePhenomenol/RCPathfinder/releases/download/v1.1.0/RCPathfinder.zip]]>
+        <Version>1.2.0.0</Version>
+        <Link SHA256="2F0603C4447859946DFDEB8A8AF690CB36CF7693A9A610C3E3586D2025ED4F0F">
+            <![CDATA[https://github.com/syyePhenomenol/RCPathfinder/releases/download/v1.2.0/RCPathfinder.zip]]>
         </Link>
         <Dependencies>
             <Dependency>RandomizerCore</Dependency>
@@ -6468,24 +6468,24 @@ This is a singleplayer mod. The "teamwork" refers to in-game events.</Descriptio
     	</Authors>
     </Manifest>
     <Manifest>
-    	<Name>HallOfGodsRandomizer</Name>
-    	<Description>A Randomizer add-on for Hall of Gods statues.</Description>
-    	<Version>1.1.2.0</Version>
-    	<Link SHA256="f9484a8838d8269b2663e284d5f67e2ae68c815c52df94f5f08332715cb1ca18">
-	    <![CDATA[https://github.com/nerthul11/HallOfGodsRandomizer/releases/download/1.1.2.0/HallOfGodsRandomizer.zip]]>
+    	<Name>GodhomeRandomizer</Name>
+    	<Description>A Randomizer add-on for Godhome elements.</Description>
+    	<Version>2.0.0.0</Version>
+    	<Link SHA256="28d19e1810a377eac87df38b32527fc2f5b54dc9d86b4c5eb077342e48ec7226">
+	    <![CDATA[https://github.com/nerthul11/GodhomeRandomizer/releases/download/2.0.0.0/GodhomeRandomizer.zip]]>
 	</Link>
 	<Dependencies>
-        <Dependency>ItemChanger</Dependency>
-        <Dependency>ItemChangerDataLoader</Dependency>
-        <Dependency>KorzUtils</Dependency>
-        <Dependency>MenuChanger</Dependency>
-        <Dependency>Randomizer 4</Dependency>
-    </Dependencies>
+		<Dependency>ItemChanger</Dependency>
+		<Dependency>ItemChangerDataLoader</Dependency>
+		<Dependency>KorzUtils</Dependency>
+		<Dependency>MenuChanger</Dependency>
+		<Dependency>Randomizer 4</Dependency>
+	</Dependencies>
     	<Repository>
-	    <![CDATA[https://github.com/nerthul11/HallOfGodsRandomizer]]>
+	    <![CDATA[https://github.com/nerthul11/GodhomeRandomizer]]>
     	</Repository>
     	<Issues>
-	    <![CDATA[https://github.com/nerthul11/HallOfGodsRandomizer/issues]]>
+	    <![CDATA[https://github.com/nerthul11/GodhomeRandomizer/issues]]>
     	</Issues>
     	<Tags>
 	    <Tag>Gameplay</Tag>

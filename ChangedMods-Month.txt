@@ -1,4 +1,3 @@
-RandoMapMod
 AnyZote
 Bomber Knight
 Extra Rando
@@ -51,3 +50,4 @@ TheHuntIsOn
 WeaverCore
 BingoGoalPack1
 SpicyRando
+GodhomeRandomizer

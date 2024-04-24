@@ -7,3 +7,4 @@ RandoMapMod
 WeaverCore
 BingoGoalPack1
 SpicyRando
+GodhomeRandomizer

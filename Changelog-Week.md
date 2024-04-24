@@ -18,10 +18,6 @@
 - Tags
   + Library
 
-### LockResolution
-
-- Description: Lock Resolution On GamePlay. VSync On LostFocus
-
 ### MapSyncMod
 
 - Description: Sync Map and Bench on ItemSyncMOD
@@ -56,6 +52,20 @@
 ### Ancient Aspid
 
 - Version: 1.0.0.4 -> 1.0.0.6
+
+### GodhomeRandomizer
+
+- Version: 2.1.1.1 -> 2.1.2.0
+- Dependencies
+  + Added
+    - Satchel
+
+### LockResolution
+
+- Version: 1.1.0.0 -> 1.2.0.0
+- Description
+  + Old: Lock Resolution On GamePlay
+  + New: Lock Resolution On GamePlay. VSync On LostFocus
 
 ### RandoMapMod
 
