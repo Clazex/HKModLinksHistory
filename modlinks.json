@@ -2495,11 +2495,11 @@
   },
   "GodhomeRandomizer": {
     "description": "A Randomizer add-on for Godhome elements.",
-    "version": "2.1.2.0",
+    "version": "2.1.2.1",
     "links": {
       "type": "universal",
-      "sha256": "A90F2E7B6D58F1D125994DE750CB76A33DEAB46F851CDD52C4557CB375D0EA97",
-      "url": "https://github.com/nerthul11/GodhomeRandomizer/releases/download/2.1.2.0/GodhomeRandomizer.zip"
+      "sha256": "1D96DBF57F367BB0D6E9F5714D9A54DE5B45EC595CB7B92593C83B6E4FD046F3",
+      "url": "https://github.com/nerthul11/GodhomeRandomizer/releases/download/2.1.2.1/GodhomeRandomizer.zip"
     },
     "dependencies": [
       "ItemChanger",
@@ -4270,11 +4270,11 @@
   },
   "Nightmare and Void": {
     "description": "Converts the Nightmare King Grimm fight into a custom duo boss with the Pure Vessel.",
-    "version": "1.0.0.0",
+    "version": "1.0.0.1",
     "links": {
       "type": "universal",
-      "sha256": "A4F5573835E72783320C4DDEE8DCAC802E32C7FF2DA09384F52FED4928AFC227",
-      "url": "https://github.com/Samihamer1/Hollow-Knight-NightmareVoid/releases/download/v1.0.0.0/NightmareVoid0001.zip"
+      "sha256": "8C4A675FE484FFB1A48AF3EF71E70E8369493B8A38BA7352778F8734DCB2B3F2",
+      "url": "https://github.com/Samihamer1/Hollow-Knight-NightmareVoid/releases/download/v1.0.0.1/NightmareVoid1001.zip"
     },
     "dependencies": [
       "Vasi"
@@ -5675,6 +5675,26 @@
       "Vasi"
     ],
     "repository": "https://github.com/Samihamer1/Hollow-Knight-Soul-Paladin"
+  },
+  "Soul Sovereign": {
+    "description": "Provides a rework to the Soul Tyrant fight to make it more challenging.",
+    "version": "1.0.0.0",
+    "links": {
+      "type": "universal",
+      "sha256": "C3A3B189A00D1EBDE3C6BB90FA0EF31D0936A726E8BBB2B02C33CDC52AC724BF",
+      "url": "https://github.com/Samihamer1/Hollow-Knight-Soul-Sovereign/releases/download/v1.0.0.0/SoulSovereign1000.zip"
+    },
+    "dependencies": [
+      "Vasi"
+    ],
+    "repository": "https://github.com/Samihamer1/Hollow-Knight-Soul-Sovereign",
+    "issues": "https://github.com/Samihamer1/Hollow-Knight-Soul-Sovereign/issues",
+    "tags": [
+      "Boss"
+    ],
+    "authors": [
+      "Samihamer1"
+    ]
   },
   "SpeedRunQoL": {
     "description": "A debug Add On that adds new keybinds that are QoL for speedrunning practice. Currently adds Position Save States, Glitched Binds, Force Extra Uumuu attack and radiance quick reload",

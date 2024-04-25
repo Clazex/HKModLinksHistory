@@ -1,5 +1,3 @@
-MetalPipeHM
-press g to dab
 Ancient Aspid
 BingoGoalPack1
 BingoSyncExtension
@@ -13,3 +11,6 @@ WeaverCore
 BingoGoalPack1
 SpicyRando
 GodhomeRandomizer
+GodhomeRandomizer
+Nightmare and Void
+Soul Sovereign

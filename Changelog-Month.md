@@ -105,6 +105,14 @@
 
 - Description: Removes platforms from the lighthouse climb.
 
+### Soul Sovereign
+
+- Description: Provides a rework to the Soul Tyrant fight to make it more challenging.
+- Dependencies
+  + Vasi
+- Tags
+  + Boss
+
 ### TheHuntIsOn
 
 - Description: A mod for manhunting. Provides modules to change how the game affects hunter and speedrunner.
@@ -155,6 +163,10 @@
 ### Inferno King Grimm
 
 - Version: 4.2.2.1 -> 4.2.3.0
+
+### Nightmare and Void
+
+- Version: 1.0.0.0 -> 1.0.0.1
 
 ### Pale Court
 

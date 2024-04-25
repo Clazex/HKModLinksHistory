@@ -51,3 +51,6 @@ WeaverCore
 BingoGoalPack1
 SpicyRando
 GodhomeRandomizer
+GodhomeRandomizer
+Nightmare and Void
+Soul Sovereign

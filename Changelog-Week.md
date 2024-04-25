@@ -29,12 +29,13 @@
   + RandoMapMod
   + RecentItemsDisplay
 
-### MetalPipeHM
+### Soul Sovereign
 
-- Description: A hollow knight mod that plays the metal pipe falling sound whenever the knight swings their nail.
+- Description: Provides a rework to the Soul Tyrant fight to make it more challenging.
 - Dependencies
-  + SFCore
-  + Satchel
+  + Vasi
+- Tags
+  + Boss
 
 ### TheHuntIsOn
 
@@ -55,7 +56,7 @@
 
 ### GodhomeRandomizer
 
-- Version: 2.1.1.1 -> 2.1.2.0
+- Version: 2.1.1.1 -> 2.1.2.1
 - Dependencies
   + Added
     - Satchel
@@ -66,6 +67,10 @@
 - Description
   + Old: Lock Resolution On GamePlay
   + New: Lock Resolution On GamePlay. VSync On LostFocus
+
+### Nightmare and Void
+
+- Version: 1.0.0.0 -> 1.0.0.1
 
 ### RandoMapMod
 
@@ -78,11 +83,4 @@
 ### WeaverCore
 
 - Version: 2.2.0.2 -> 2.2.0.4
-
-### press g to dab
-
-- Version: 1.0.0.0 -> 1.2.0.0
-- Integrations
-  + Added
-    - Custom Knight
 
