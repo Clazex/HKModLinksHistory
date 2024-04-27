@@ -1,5 +1,3 @@
-Bomber Knight
-Extra Rando
 SpicyRando
 Archipelago
 HallOfGodsRandomizer
@@ -41,3 +39,5 @@ GodhomeRandomizer
 Nightmare and Void
 SpicyRando
 TheRealJournalRando
+Custom Knight
+Satchel

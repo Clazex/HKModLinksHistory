@@ -1137,11 +1137,11 @@
   },
   "Custom Knight": {
     "description": "Supports Skins for Player, Enemies and Area overhauls",
-    "version": "2.2.0.0",
+    "version": "3.0.0.0",
     "links": {
       "type": "universal",
-      "sha256": "4A195F66DDE0D4A5553169B3AF062CF566C2A45D973216EB020C14FD36B7DB1A",
-      "url": "https://github.com/PrashantMohta/HollowKnight.CustomKnight/releases/download/v2.2.0/CustomKnight.zip"
+      "sha256": "FC0983356921A0BC2CEF2D5D3BA9EF7A9F3B7E6B73C3D87B84DEC03D987A9324",
+      "url": "https://github.com/PrashantMohta/HollowKnight.CustomKnight/releases/download/v3.0.0/CustomKnight.zip"
     },
     "dependencies": [
       "Satchel"
@@ -5387,12 +5387,12 @@
     "repository": "https://github.com/fifty-six/HollowKnight.Sanic/"
   },
   "Satchel": {
-    "description": "A bag of tricks for other mods, does nothing by itself, allows other mods to do cool things.",
-    "version": "0.8.12.0",
+    "description": "A bag of tricks for other Mods, does nothing by itself, allows other mods to do cool things.",
+    "version": "0.9.1.0",
     "links": {
       "type": "universal",
-      "sha256": "1A3E7395515D349485AC01972FE53D2CBC32EBDC910D44492B1ABAA2C2EFE247",
-      "url": "https://github.com/PrashantMohta/Satchel/releases/download/v0.8.12/Satchel.zip"
+      "sha256": "54C52F069B8C3C20BB7EA756C5ABAA7B03F4EBFB9711EC86C7A5AE7090DC8799",
+      "url": "https://github.com/PrashantMohta/Satchel/releases/download/v0.9.1/Satchel.zip"
     },
     "dependencies": [],
     "repository": "https://github.com/PrashantMohta/Satchel/",

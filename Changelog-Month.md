@@ -14,12 +14,6 @@
   + Boss
   + Gameplay
 
-### AnyZote
-
-- Description: Most powerful zote modded boss ever.
-- Dependencies
-  + Satchel
-
 ### BingoGoalPack1
 
 - Description: Adds more goals to BingoSync and includes new board types
@@ -140,10 +134,6 @@
 
 - Version: 2.1.3.0 -> 2.2.0.0
 
-### Bomber Knight
-
-- Version: 1.2.1.0 -> 1.2.2.0
-
 ### ControllerFixes
 
 - Version: 1.0.2.0 -> 1.0.3.0
@@ -156,9 +146,9 @@
 
 - Version: 2.0.1.1 -> 2.0.2.0
 
-### Extra Rando
+### Custom Knight
 
-- Version: 0.4.1.0 -> 0.5.0.0
+- Version: 2.2.0.0 -> 3.0.0.0
 
 ### Inferno King Grimm
 
@@ -179,6 +169,13 @@
 ### RandoMapMod
 
 - Version: 3.5.1.0 -> 3.5.5.0
+
+### Satchel
+
+- Version: 0.8.12.0 -> 0.9.1.0
+- Description
+  + Old: A bag of tricks for other mods, does nothing by itself, allows other mods to do cool things.
+  + New: A bag of tricks for other Mods, does nothing by itself, allows other mods to do cool things.
 
 ### SpicyRando
 

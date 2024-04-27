@@ -5,8 +5,8 @@
 <Manifest>
     <Name>BingoGoalPack1</Name>
     <Description>Adds more goals to BingoSync and includes new board types</Description>
-    <Version>1.0.0.1</Version>
-    <Link SHA256="aeeb0f074df698fe513a2f96e586843244fef74c7ca0cd14949107cf496b694a"><![CDATA[https://github.com/TheMathGeek314/BingoSyncGoalPack1/releases/download/v1.0.0.2/BingoGoalPack1.zip]]></Link>
+    <Version>1.0.0.4</Version>
+    <Link SHA256="32d3b474c8497252ea2461e8ee5a1d761fe19508d64cadfc35d0f8e5e323a409"><![CDATA[https://github.com/TheMathGeek314/BingoSyncGoalPack1/releases/download/v1.0.0.4/BingoGoalPack1.zip]]></Link>
     <Dependencies>
         <Dependency>BingoSyncExtension</Dependency>
     	<Dependency>Satchel</Dependency>
@@ -5362,9 +5362,9 @@ This is a singleplayer mod. The "teamwork" refers to in-game events.</Descriptio
     <Manifest>
         <Name>SpicyRando</Name>
         <Description>Various difficulty increases in specific parts of rando</Description>
-        <Version>1.1.1.0</Version>
-        <Link SHA256="27DDDE9140FCD69164446CA4BA7F45081B6DA05694ABDAB9DC84516AB2D100A6">
-            <![CDATA[https://github.com/dplochcoder/HollowKnight.SpicyRando/releases/download/v1.1.1.0/SpicyRando.zip]]>
+        <Version>1.2.1.0</Version>
+        <Link SHA256="A59E93306DE6A8A1617C45D8553C55003D102BEE6AA1FBEF4BE4D4988867A00F">
+            <![CDATA[https://github.com/dplochcoder/HollowKnight.SpicyRando/releases/download/v1.2.1.0/SpicyRando.zip]]>
         </Link>
         <Dependencies>
 	    <Dependency>ItemChanger</Dependency>
