@@ -148,7 +148,7 @@
 
 ### Custom Knight
 
-- Version: 2.2.0.0 -> 3.0.0.0
+- Version: 2.2.0.0 -> 3.0.1.0
 
 ### Inferno King Grimm
 

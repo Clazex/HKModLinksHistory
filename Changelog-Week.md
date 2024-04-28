@@ -11,22 +11,8 @@
 - Tags
   + Boss
 
-### TheHuntIsOn
-
-- Description: A mod for manhunting. Provides modules to change how the game affects hunter and speedrunner.
-- Dependencies
-  + HKMP
-  + KorzUtils
-  + Satchel
-- Tags
-  + Gameplay
-
 
 ## Updated mods
-
-### Ancient Aspid
-
-- Version: 1.0.0.5 -> 1.0.0.6
 
 ### BingoGoalPack1
 
@@ -34,7 +20,7 @@
 
 ### Custom Knight
 
-- Version: 2.2.0.0 -> 3.0.0.0
+- Version: 2.2.0.0 -> 3.0.1.0
 
 ### GodhomeRandomizer
 
@@ -46,10 +32,6 @@
 ### Nightmare and Void
 
 - Version: 1.0.0.0 -> 1.0.0.1
-
-### RandoMapMod
-
-- Version: 3.5.4.0 -> 3.5.5.0
 
 ### Satchel
 
@@ -65,8 +47,4 @@
 ### TheRealJournalRando
 
 - Version: 2.3.8843.8416 -> 2.4.8880.41963
-
-### WeaverCore
-
-- Version: 2.2.0.3 -> 2.2.0.4
 

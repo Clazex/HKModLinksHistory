@@ -1137,11 +1137,11 @@
   },
   "Custom Knight": {
     "description": "Supports Skins for Player, Enemies and Area overhauls",
-    "version": "3.0.0.0",
+    "version": "3.0.1.0",
     "links": {
       "type": "universal",
-      "sha256": "FC0983356921A0BC2CEF2D5D3BA9EF7A9F3B7E6B73C3D87B84DEC03D987A9324",
-      "url": "https://github.com/PrashantMohta/HollowKnight.CustomKnight/releases/download/v3.0.0/CustomKnight.zip"
+      "sha256": "A025795AA4ADE5CAACB2E78D0D19C33471432BF4C2A3984CC3A5C045D88B3DA3",
+      "url": "https://github.com/PrashantMohta/HollowKnight.CustomKnight/releases/download/v3.0.1/CustomKnight.zip"
     },
     "dependencies": [
       "Satchel"

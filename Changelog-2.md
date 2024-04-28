@@ -3,11 +3,14 @@
 
 ## Updated mods
 
-### SpicyRando
+### Custom Knight
 
-- Version: 1.2.1.0 -> 1.2.1.1
+- Version: 2.2.0.0 -> 3.0.0.0
 
-### TheRealJournalRando
+### Satchel
 
-- Version: 2.3.8843.8416 -> 2.4.8880.41963
+- Version: 0.8.12.0 -> 0.9.1.0
+- Description
+  + Old: A bag of tricks for other mods, does nothing by itself, allows other mods to do cool things.
+  + New: A bag of tricks for other Mods, does nothing by itself, allows other mods to do cool things.
 
