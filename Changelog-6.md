@@ -3,11 +3,10 @@
 
 ## Updated mods
 
-### BingoGoalPack1
+### GodhomeRandomizer
 
-- Version: 1.0.0.1 -> 1.0.0.4
-
-### SpicyRando
-
-- Version: 1.1.1.0 -> 1.2.1.0
+- Version: 2.1.1.1 -> 2.1.2.0
+- Dependencies
+  + Added
+    - Satchel
 

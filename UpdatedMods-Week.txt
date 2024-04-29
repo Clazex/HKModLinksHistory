@@ -1,5 +1,3 @@
-BingoGoalPack1
-SpicyRando
 GodhomeRandomizer
 GodhomeRandomizer
 Nightmare and Void
@@ -8,3 +6,6 @@ TheRealJournalRando
 Custom Knight
 Satchel
 Custom Knight
+Ancient Aspid
+SpicyRando
+WeaverCore

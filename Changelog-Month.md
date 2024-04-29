@@ -179,7 +179,7 @@
 
 ### SpicyRando
 
-- Version: 1.0.0.0 -> 1.2.1.1
+- Version: 1.0.0.0 -> 1.2.2.0
 
 ### TheRealJournalRando
 
@@ -187,7 +187,7 @@
 
 ### WeaverCore
 
-- Version: 2.1.0.1 -> 2.2.0.4
+- Version: 2.1.0.1 -> 2.2.0.5
 
 ### press g to dab
 

@@ -42,3 +42,6 @@ TheRealJournalRando
 Custom Knight
 Satchel
 Custom Knight
+Ancient Aspid
+SpicyRando
+WeaverCore

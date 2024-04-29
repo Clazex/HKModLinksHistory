@@ -175,11 +175,11 @@
   },
   "Ancient Aspid": {
     "description": "A mod for Hollow Knight that adds a brand new, challenging bossfight to Kingdom's Edge",
-    "version": "1.0.0.6",
+    "version": "1.0.0.7",
     "links": {
       "type": "universal",
-      "sha256": "34EE2B5661CB82DFAD312C307572037C5490FF34A95755382A8861D58397B468",
-      "url": "https://github.com/nickc01/Ancient-Aspid/releases/download/v1.0.0.6/Ancient-Aspid.zip"
+      "sha256": "05651FA09CD7BBD1F47295A94F03864B080AC27A38B34EB06EDD4FF6108A32EB",
+      "url": "https://github.com/nickc01/Ancient-Aspid/releases/download/v1.0.0.7/Ancient-Aspid.zip"
     },
     "dependencies": [
       "More Godhome Space",
@@ -5719,11 +5719,11 @@
   },
   "SpicyRando": {
     "description": "Various difficulty increases in specific parts of rando",
-    "version": "1.2.1.1",
+    "version": "1.2.2.0",
     "links": {
       "type": "universal",
-      "sha256": "996E59EECC2096D20C181A004F0542EA26CBE0C776E3B5CCC9D4DF4DEF07E67E",
-      "url": "https://github.com/dplochcoder/HollowKnight.SpicyRando/releases/download/v1.2.1.1/SpicyRando.zip"
+      "sha256": "3D1A2E6FF6AA0C2A9F97F643C764779A8D843433D3C118FE73F5DC9396077B33",
+      "url": "https://github.com/dplochcoder/HollowKnight.SpicyRando/releases/download/v1.2.2.0/SpicyRando.zip"
     },
     "dependencies": [
       "ItemChanger",
@@ -6272,11 +6272,11 @@
   },
   "WeaverCore": {
     "description": "Core mod required for mods built with WeaverCore, such as Inferno King Grimm and Corrupted Kin",
-    "version": "2.2.0.4",
+    "version": "2.2.0.5",
     "links": {
       "type": "universal",
-      "sha256": "790DD2B5311466B13589E8972E2E9B3F07E76B0C1091476EAF4D342A8A307D6A",
-      "url": "https://github.com/nickc01/WeaverCore/releases/download/v2.2.0.4/WeaverCore.zip"
+      "sha256": "B0DCC2F109D8944350C530592FBE0F42D22ACB2ADC78502638888448605C691C",
+      "url": "https://github.com/nickc01/WeaverCore/releases/download/v2.2.0.5/WeaverCore.zip"
     },
     "dependencies": [],
     "repository": "https://github.com/nickc01/WeaverCore/",
