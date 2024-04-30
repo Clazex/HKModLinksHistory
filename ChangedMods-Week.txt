@@ -1,5 +1,4 @@
 GodhomeRandomizer
-GodhomeRandomizer
 Nightmare and Void
 Soul Sovereign
 SpicyRando
@@ -10,3 +9,5 @@ Custom Knight
 Ancient Aspid
 SpicyRando
 WeaverCore
+HallOfGodsRandomizer
+LessHealing

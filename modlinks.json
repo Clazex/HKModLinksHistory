@@ -2974,6 +2974,30 @@
     ],
     "repository": "https://github.com/jngo102/HoGExtras/"
   },
+  "HallOfGodsRandomizer": {
+    "description": "DEPRECATED - A randomizer add-on for Hall of Gods bosses.",
+    "version": "1.1.2.1",
+    "links": {
+      "type": "universal",
+      "sha256": "2CF93185A74A911102618D3DBDC071BCFFF1BC9773166F1564A28EC1CF8D3AF1",
+      "url": "https://github.com/nerthul11/HallOfGodsRandomizer/releases/download/1.1.2.1/HallOfGodsRandomizer.zip"
+    },
+    "dependencies": [
+      "ItemChanger",
+      "ItemChangerDataLoader",
+      "KorzUtils",
+      "MenuChanger",
+      "Randomizer 4"
+    ],
+    "repository": "https://github.com/nerthul11/HallOfGodsRandomizer",
+    "issues": "https://github.com/nerthul11/HallOfGodsRandomizer/issues",
+    "tags": [
+      "Gameplay"
+    ],
+    "authors": [
+      "nerthul11"
+    ]
+  },
   "Hallownest-Vocalized": {
     "description": "Adds English voice acting to all Hollow Knight's in-game dialogue.",
     "version": "1.0.1.3",
@@ -3565,6 +3589,25 @@
     ],
     "authors": [
       "Wangha"
+    ]
+  },
+  "LessHealing": {
+    "description": "A Hollow Knight mod that adds toggleable options that remove various healing methods from the game.",
+    "version": "1.0.5.0",
+    "links": {
+      "type": "universal",
+      "sha256": "17BC007E94234201FEAC56DE828ED20A36931E9CCAB70FF20D87F1C3F21D5780",
+      "url": "https://github.com/Briskless/LessHealing/releases/download/v1.0.5/Less_Healing.zip"
+    },
+    "dependencies": [
+      "SFCore"
+    ],
+    "repository": "https://github.com/Briskless/LessHealing",
+    "tags": [
+      "Gameplay"
+    ],
+    "authors": [
+      "Briskless"
     ]
   },
   "LessVisualNoise": {

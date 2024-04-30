@@ -3,6 +3,26 @@
 
 ## New mods
 
+### HallOfGodsRandomizer
+
+- Description: DEPRECATED - A randomizer add-on for Hall of Gods bosses.
+- Dependencies
+  + ItemChanger
+  + ItemChangerDataLoader
+  + KorzUtils
+  + MenuChanger
+  + Randomizer 4
+- Tags
+  + Gameplay
+
+### LessHealing
+
+- Description: A Hollow Knight mod that adds toggleable options that remove various healing methods from the game.
+- Dependencies
+  + SFCore
+- Tags
+  + Gameplay
+
 ### Soul Sovereign
 
 - Description: Provides a rework to the Soul Tyrant fight to make it more challenging.
@@ -24,10 +44,7 @@
 
 ### GodhomeRandomizer
 
-- Version: 2.1.1.1 -> 2.1.2.1
-- Dependencies
-  + Added
-    - Satchel
+- Version: 2.1.2.0 -> 2.1.2.1
 
 ### Nightmare and Void
 

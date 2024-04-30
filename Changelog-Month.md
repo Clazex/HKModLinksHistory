@@ -59,6 +59,14 @@
 - Tags
   + Library
 
+### LessHealing
+
+- Description: A Hollow Knight mod that adds toggleable options that remove various healing methods from the game.
+- Dependencies
+  + SFCore
+- Tags
+  + Gameplay
+
 ### LockResolution
 
 - Description: Lock Resolution On GamePlay. VSync On LostFocus
@@ -120,7 +128,6 @@
 
 ## Removed mods
 
-- HallOfGodsRandomizer
 - Shuriken
 
 
@@ -149,6 +156,13 @@
 ### Custom Knight
 
 - Version: 2.2.0.0 -> 3.0.1.0
+
+### HallOfGodsRandomizer
+
+- Version: 1.1.1.3 -> 1.1.2.1
+- Description
+  + Old: A Randomizer add-on for Hall of Gods statues.
+  + New: DEPRECATED - A randomizer add-on for Hall of Gods bosses.
 
 ### Inferno King Grimm
 
