@@ -1,5 +1,3 @@
-SiblingClimb
-SpicyRando
 Archipelago
 HallOfGodsRandomizer
 GodhomeRandomizer
@@ -61,3 +59,4 @@ SpicyRando
 WeaverCore
 HallOfGodsRandomizer
 LessHealing
+GodhomeRandomizer

@@ -2495,11 +2495,11 @@
   },
   "GodhomeRandomizer": {
     "description": "A Randomizer add-on for Godhome elements.",
-    "version": "2.1.2.1",
+    "version": "2.1.3.0",
     "links": {
       "type": "universal",
-      "sha256": "1D96DBF57F367BB0D6E9F5714D9A54DE5B45EC595CB7B92593C83B6E4FD046F3",
-      "url": "https://github.com/nerthul11/GodhomeRandomizer/releases/download/2.1.2.1/GodhomeRandomizer.zip"
+      "sha256": "F0120AB2257F3B4365659619AEA11C3D54A0DAF504818CB63B5FD23F357F987B",
+      "url": "https://github.com/nerthul11/GodhomeRandomizer/releases/download/2.1.3.0/GodhomeRandomizer.zip"
     },
     "dependencies": [
       "ItemChanger",
@@ -2975,7 +2975,7 @@
     "repository": "https://github.com/jngo102/HoGExtras/"
   },
   "HallOfGodsRandomizer": {
-    "description": "DEPRECATED - A randomizer add-on for Hall of Gods bosses.",
+    "description": "DEPRECATED. USE GODHOME RANDOMIZER INSTEAD - A randomizer add-on for Hall of Gods bosses.",
     "version": "1.1.2.1",
     "links": {
       "type": "universal",

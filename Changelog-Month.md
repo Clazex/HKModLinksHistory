@@ -103,10 +103,6 @@
 - Dependencies
   + RecentItemsDisplay
 
-### SiblingClimb
-
-- Description: Removes platforms from the lighthouse climb.
-
 ### Soul Sovereign
 
 - Description: Provides a rework to the Soul Tyrant fight to make it more challenging.
@@ -162,7 +158,7 @@
 - Version: 1.1.1.3 -> 1.1.2.1
 - Description
   + Old: A Randomizer add-on for Hall of Gods statues.
-  + New: DEPRECATED - A randomizer add-on for Hall of Gods bosses.
+  + New: DEPRECATED. USE GODHOME RANDOMIZER INSTEAD - A randomizer add-on for Hall of Gods bosses.
 
 ### Inferno King Grimm
 
@@ -193,7 +189,7 @@
 
 ### SpicyRando
 
-- Version: 1.0.0.0 -> 1.2.2.0
+- Version: 1.1.0.0 -> 1.2.2.0
 
 ### TheRealJournalRando
 
