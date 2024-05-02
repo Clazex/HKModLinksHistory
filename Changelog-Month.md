@@ -131,7 +131,7 @@
 
 ### Archipelago
 
-- Version: 0.3.0.0 -> 0.4.1.0
+- Version: 0.4.0.0 -> 0.4.1.0
 
 ### Archipelago Map Mod
 
@@ -155,7 +155,7 @@
 
 ### HallOfGodsRandomizer
 
-- Version: 1.1.1.3 -> 1.1.2.1
+- Version: 1.1.2.0 -> 1.1.2.1
 - Description
   + Old: A Randomizer add-on for Hall of Gods statues.
   + New: DEPRECATED. USE GODHOME RANDOMIZER INSTEAD - A randomizer add-on for Hall of Gods bosses.
@@ -197,7 +197,7 @@
 
 ### WeaverCore
 
-- Version: 2.1.0.1 -> 2.2.0.5
+- Version: 2.1.0.1 -> 2.2.0.6
 
 ### press g to dab
 

@@ -1,3 +1,2 @@
-Ancient Aspid
-RandoMapMod
-WeaverCore
+BingoGoalPack1
+SpicyRando

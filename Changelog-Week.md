@@ -28,7 +28,7 @@
 
 ### Ancient Aspid
 
-- Version: 1.0.0.6 -> 1.0.0.7
+- Version: 1.0.0.6 -> 1.0.0.8
 
 ### Custom Knight
 
@@ -47,13 +47,9 @@
 
 ### SpicyRando
 
-- Version: 1.2.1.0 -> 1.2.2.0
-
-### TheRealJournalRando
-
-- Version: 2.3.8843.8416 -> 2.4.8880.41963
+- Version: 1.2.1.1 -> 1.2.2.0
 
 ### WeaverCore
 
-- Version: 2.2.0.4 -> 2.2.0.5
+- Version: 2.2.0.4 -> 2.2.0.6
 
