@@ -3,7 +3,11 @@
 
 ## Updated mods
 
-### GodhomeRandomizer
+### Ancient Aspid
 
-- Version: 2.1.2.1 -> 2.1.3.0
+- Version: 1.0.0.7 -> 1.0.0.8
+
+### WeaverCore
+
+- Version: 2.2.0.5 -> 2.2.0.6
 

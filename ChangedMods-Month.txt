@@ -1,6 +1,3 @@
-GodhomeRandomizer
-RCPathfinder
-RandoMapMod
 SpicyRando
 Archipelago
 RCPathfinder
@@ -60,3 +57,4 @@ LessHealing
 GodhomeRandomizer
 Ancient Aspid
 WeaverCore
+AccessRandomizer

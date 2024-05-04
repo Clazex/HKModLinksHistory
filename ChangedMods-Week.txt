@@ -1,4 +1,3 @@
-Custom Knight
 Ancient Aspid
 SpicyRando
 WeaverCore
@@ -7,3 +6,4 @@ LessHealing
 GodhomeRandomizer
 Ancient Aspid
 WeaverCore
+AccessRandomizer

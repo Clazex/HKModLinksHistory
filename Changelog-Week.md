@@ -3,6 +3,19 @@
 
 ## New mods
 
+### AccessRandomizer
+
+- Description: A randomizer add-on for miscellaneous access checks.
+- Dependencies
+  + ItemChanger
+  + ItemChangerDataLoader
+  + KorzUtils
+  + MenuChanger
+  + Randomizer 4
+  + Satchel
+- Tags
+  + Gameplay
+
 ### HallOfGodsRandomizer
 
 - Description: DEPRECATED. USE GODHOME RANDOMIZER INSTEAD - A randomizer add-on for Hall of Gods bosses.
@@ -29,10 +42,6 @@
 ### Ancient Aspid
 
 - Version: 1.0.0.6 -> 1.0.0.8
-
-### Custom Knight
-
-- Version: 3.0.0.0 -> 3.0.1.0
 
 ### GodhomeRandomizer
 

@@ -1,4 +1,3 @@
-GodhomeRandomizer
 CelesteDash
 Ancient Aspid
 More Godhome Space
@@ -13,3 +12,4 @@ TheHuntIsOn
 Soul Sovereign
 HallOfGodsRandomizer
 LessHealing
+AccessRandomizer

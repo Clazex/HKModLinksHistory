@@ -1,2 +1,3 @@
 HallOfGodsRandomizer
 LessHealing
+AccessRandomizer

@@ -3,6 +3,19 @@
 
 ## New mods
 
+### AccessRandomizer
+
+- Description: A randomizer add-on for miscellaneous access checks.
+- Dependencies
+  + ItemChanger
+  + ItemChangerDataLoader
+  + KorzUtils
+  + MenuChanger
+  + Randomizer 4
+  + Satchel
+- Tags
+  + Gameplay
+
 ### Ancient Aspid
 
 - Description: A mod for Hollow Knight that adds a brand new, challenging bossfight to Kingdom&#x27;s Edge
@@ -38,16 +51,15 @@
 - Tags
   + Gameplay
 
-### GodhomeRandomizer
+### HallOfGodsRandomizer
 
-- Description: A Randomizer add-on for Godhome elements.
+- Description: DEPRECATED. USE GODHOME RANDOMIZER INSTEAD - A randomizer add-on for Hall of Gods bosses.
 - Dependencies
   + ItemChanger
   + ItemChangerDataLoader
   + KorzUtils
   + MenuChanger
   + Randomizer 4
-  + Satchel
 - Tags
   + Gameplay
 
@@ -153,12 +165,12 @@
 
 - Version: 2.2.0.0 -> 3.0.1.0
 
-### HallOfGodsRandomizer
+### GodhomeRandomizer
 
-- Version: 1.1.2.0 -> 1.1.2.1
-- Description
-  + Old: A Randomizer add-on for Hall of Gods statues.
-  + New: DEPRECATED. USE GODHOME RANDOMIZER INSTEAD - A randomizer add-on for Hall of Gods bosses.
+- Version: 2.0.0.0 -> 2.1.3.0
+- Dependencies
+  + Added
+    - Satchel
 
 ### Inferno King Grimm
 
@@ -174,11 +186,11 @@
 
 ### RCPathfinder
 
-- Version: 1.1.0.0 -> 1.3.2.0
+- Version: 1.2.0.0 -> 1.3.2.0
 
 ### RandoMapMod
 
-- Version: 3.5.1.0 -> 3.5.5.0
+- Version: 3.5.2.0 -> 3.5.5.0
 
 ### Satchel
 

@@ -71,6 +71,31 @@
       "PureZote"
     ]
   },
+  "AccessRandomizer": {
+    "description": "A randomizer add-on for miscellaneous access checks.",
+    "version": "1.0.0.0",
+    "links": {
+      "type": "universal",
+      "sha256": "08B1C83E531019B83103428351F910C1CFA3E9597B23863219FE207DFFA189E3",
+      "url": "https://github.com/nerthul11/AccessRandomizer/releases/download/1.0.0.0/AccessRandomizer.zip"
+    },
+    "dependencies": [
+      "ItemChanger",
+      "ItemChangerDataLoader",
+      "KorzUtils",
+      "MenuChanger",
+      "Randomizer 4",
+      "Satchel"
+    ],
+    "repository": "https://github.com/nerthul11/AccessRandomizer",
+    "issues": "https://github.com/nerthul11/AccessRandomizer/issues",
+    "tags": [
+      "Gameplay"
+    ],
+    "authors": [
+      "nerthul11"
+    ]
+  },
   "Additional Challenge": {
     "description": "A mod that allows you to use 46 different effects to make your game more challenging. There are 4 types of effects (Persistent, Cooldown, Boss Attack, Enemy Follow) that can be enabled from modmenu. There is also a choas mode that randomly selects effects to happen periodically.",
     "version": "0.0.2.2",
@@ -363,12 +388,12 @@
     "links": {
       "type": "universal",
       "sha256": "54874EB6D71CF5B4E5B931F87123E1172B7F6A3D2FA07895DEF18F969C9154DD",
-      "url": "https://github.com/HKLab/HK.BackDash/releases/download/v0/Output.zip"
+      "url": "https://github.com/Box074/HK.BackDash/releases/download/v0/Output.zip"
     },
     "dependencies": [
       "HKTool Legacy"
     ],
-    "repository": "https://github.com/HKLab/HK.BackDash/"
+    "repository": "https://github.com/Box074/HK.BackDash/"
   },
   "BenchRando": {
     "description": "A Randomizer 4 add-on for randomizing benches to new locations and randomizing the ability to warp to benches as items.",
@@ -1264,12 +1289,12 @@
     "links": {
       "type": "universal",
       "sha256": "D6B830191F87C6CE3E09F517E25AA1D392D3ECA6757D1B2D3DCCBF40412A2850",
-      "url": "https://github.com/HKLab/CustomKnightPlus/releases/download/v0.0.1/CustomKnightPlus.zip"
+      "url": "https://github.com/Box074/CustomKnightPlus/releases/download/v0.0.1/CustomKnightPlus.zip"
     },
     "dependencies": [
       "Custom Knight"
     ],
-    "repository": "https://github.com/HKLab/CustomKnightPlus/",
+    "repository": "https://github.com/Box074/CustomKnightPlus/",
     "tags": [
       "Cosmetic"
     ]
@@ -1354,12 +1379,12 @@
     "links": {
       "type": "universal",
       "sha256": "A3A6B2C0294A28DE26BDA4CABA4CF14BC80FCEA31DCE4A25259E158774EFA50B",
-      "url": "https://github.com/HKLab/NailMaster/releases/download/v1/NailMaster.zip"
+      "url": "https://github.com/Box074/NailMaster/releases/download/v1/NailMaster.zip"
     },
     "dependencies": [
       "HKTool Legacy"
     ],
-    "repository": "https://github.com/HKLab/NailMaster/",
+    "repository": "https://github.com/Box074/NailMaster/",
     "tags": [
       "Gameplay"
     ]
@@ -1370,12 +1395,12 @@
     "links": {
       "type": "universal",
       "sha256": "B7D9CD795F0957873B433A96DF0F4E1E8F59A13CA94B7C63A263FF364D12605C",
-      "url": "https://github.com/HKLab/CycloneOut/releases/download/v0.0.0.0/CycloneOut.dll"
+      "url": "https://github.com/Box074/CycloneOut/releases/download/v0.0.0.0/CycloneOut.dll"
     },
     "dependencies": [
       "HKTool Legacy"
     ],
-    "repository": "https://github.com/HKLab/CycloneOut/",
+    "repository": "https://github.com/Box074/CycloneOut/",
     "tags": [
       "Gameplay"
     ]
@@ -1470,12 +1495,12 @@
     "links": {
       "type": "universal",
       "sha256": "E0C38393F9A52D7CE4E7089DF56F21E631874A2C9F10BDAA23467A5D05395125",
-      "url": "https://github.com/HKLab/DCBarrelLauncher/releases/download/v0.0.0.0/DCBarrelLauncher.dll"
+      "url": "https://github.com/Box074/DCBarrelLauncher/releases/download/v0.0.0.0/DCBarrelLauncher.dll"
     },
     "dependencies": [
       "HKTool Legacy"
     ],
-    "repository": "https://github.com/HKLab/DCBarrelLauncher/",
+    "repository": "https://github.com/Box074/DCBarrelLauncher/",
     "tags": [
       "Gameplay"
     ]
@@ -1486,12 +1511,12 @@
     "links": {
       "type": "universal",
       "sha256": "5C6F7F31D68A7285CE7897C4E90ACC480C50755CF00664418E8B42F15E6F3659",
-      "url": "https://github.com/HKLab/DCBosses/releases/download/v1.1.0.2/Publish.zip"
+      "url": "https://github.com/Box074/DCBosses/releases/download/v1.1.0.2/Publish.zip"
     },
     "dependencies": [
       "HKTool"
     ],
-    "repository": "https://github.com/HKLab/DCBosses/",
+    "repository": "https://github.com/Box074/DCBosses/",
     "tags": [
       "Boss"
     ]
@@ -1502,13 +1527,13 @@
     "links": {
       "type": "universal",
       "sha256": "15447A2921D1F2B57F47ADE8DAB14AE5439EC1DE151CECAA86E349865800AF5B",
-      "url": "https://github.com/HKLab/DCQueen/releases/download/l/DCQueenLoader.dll"
+      "url": "https://github.com/Box074/DCQueen/releases/download/l/DCQueenLoader.dll"
     },
     "dependencies": [
       "Dead Cells Bosses",
       "HKTool Legacy"
     ],
-    "repository": "https://github.com/HKLab/DCQueen/",
+    "repository": "https://github.com/Box074/DCQueen/",
     "tags": [
       "Boss"
     ]
@@ -1519,12 +1544,12 @@
     "links": {
       "type": "universal",
       "sha256": "E67E8DFC5B71DB5F016AAD9A65EEBFA15AE6992D4B4E54BCEE46A0120C65987C",
-      "url": "https://github.com/HKLab/DCTimeKeeper/releases/download/v0.0.0.0/Output.zip"
+      "url": "https://github.com/Box074/DCTimeKeeper/releases/download/v0.0.0.0/Output.zip"
     },
     "dependencies": [
       "HKTool Legacy"
     ],
-    "repository": "https://github.com/HKLab/DCTimeKeeper/",
+    "repository": "https://github.com/Box074/DCTimeKeeper/",
     "tags": [
       "Boss"
     ]
@@ -2881,10 +2906,10 @@
     "links": {
       "type": "universal",
       "sha256": "FCE0348C4D69925195690E19DC6D334D5D46F8721173CDBD798E73F9820CBEAF",
-      "url": "https://github.com/HKLab/HollowKnightMod.Tool/releases/download/v2.2.1.0/Publish.zip"
+      "url": "https://github.com/Box074/HollowKnightMod.Tool/releases/download/v2.2.1.0/Publish.zip"
     },
     "dependencies": [],
-    "repository": "https://github.com/HKLab/HollowKnightMod.Tool/",
+    "repository": "https://github.com/Box074/HollowKnightMod.Tool/",
     "tags": [
       "Library"
     ]
@@ -2895,12 +2920,12 @@
     "links": {
       "type": "universal",
       "sha256": "407D2FEF66E28E9A729C34EC0B4F57A5F5247EB1DED4B4C59C30E27FD970E9BB",
-      "url": "https://github.com/HKLab/HollowKnightMod.Tool/releases/download/Legacy-v0/Output.zip"
+      "url": "https://github.com/Box074/HollowKnightMod.Tool/releases/download/Legacy-v0/Output.zip"
     },
     "dependencies": [
       "HKTool"
     ],
-    "repository": "https://github.com/HKLab/HollowKnightMod.Tool/",
+    "repository": "https://github.com/Box074/HollowKnightMod.Tool/",
     "tags": [
       "Library"
     ]
@@ -4416,21 +4441,21 @@
       "type": "platform-dependent",
       "windows": {
         "sha256": "807C7FA235243FB7E35A8122184D8824A1E173E0085CD156A2BBFD40BF6B34AE",
-        "url": "https://github.com/HKLab/NoskGod/releases/download/v1.1.0.0/Publish-Windows.zip"
+        "url": "https://github.com/Box074/NoskGod/releases/download/v1.1.0.0/Publish-Windows.zip"
       },
       "mac": {
         "sha256": "6471E84C453CAA2F9A311FE02A8AE5469AF6C869CE2510846EC8282EFC4E849C",
-        "url": "https://github.com/HKLab/NoskGod/releases/download/v1.1.0.0/Publish-OSX.zip"
+        "url": "https://github.com/Box074/NoskGod/releases/download/v1.1.0.0/Publish-OSX.zip"
       },
       "linux": {
         "sha256": "0D9143C198C54F17F276F94C240B09D810850816B75A394EB8871001FF22997F",
-        "url": "https://github.com/HKLab/NoskGod/releases/download/v1.1.0.0/Publish-Linux.zip"
+        "url": "https://github.com/Box074/NoskGod/releases/download/v1.1.0.0/Publish-Linux.zip"
       }
     },
     "dependencies": [
       "HKTool"
     ],
-    "repository": "https://github.com/HKLab/NoskGod/",
+    "repository": "https://github.com/Box074/NoskGod/",
     "tags": [
       "Boss"
     ]
@@ -5518,12 +5543,12 @@
     "links": {
       "type": "universal",
       "sha256": "5E69F89E73D9DB65505F123676C2EE4CB070D8D914D23A8FA5C9218DACD104C1",
-      "url": "https://github.com/HKLab/DCParry/releases/download/v0.0.0.2/DCParry.dll"
+      "url": "https://github.com/Box074/DCParry/releases/download/v0.0.0.2/DCParry.dll"
     },
     "dependencies": [
       "HKTool Legacy"
     ],
-    "repository": "https://github.com/HKLab/DCParry/"
+    "repository": "https://github.com/Box074/DCParry/"
   },
   "ShyKnight": {
     "description": "Removes the audience from Godhome arenas and Colosseum of Fools",
@@ -6190,13 +6215,13 @@
     "links": {
       "type": "universal",
       "sha256": "3742BA1A2946023345220B4C409BACD996F0B9288DF67A64E87A6229F9C6D919",
-      "url": "https://github.com/HKLab/UnityExplorerPlus/releases/download/v2.6.0.0/Publish.zip"
+      "url": "https://github.com/Box074/UnityExplorerPlus/releases/download/v2.6.0.0/Publish.zip"
     },
     "dependencies": [
       "HKTool",
       "Unity Explorer"
     ],
-    "repository": "https://github.com/HKLab/UnityExplorerPlus/",
+    "repository": "https://github.com/Box074/UnityExplorerPlus/",
     "integrations": [
       "Game Object Dump",
       "Satchel"
@@ -6247,12 +6272,12 @@
     "links": {
       "type": "universal",
       "sha256": "026767ED592E3108868FBCEEF379EBAE71AD0DB72BDC29B941BEEA78D3F6B011",
-      "url": "https://github.com/HKLab/UumuuPlus/releases/download/v1.0.3.0/Output.zip"
+      "url": "https://github.com/Box074/UumuuPlus/releases/download/v1.0.3.0/Output.zip"
     },
     "dependencies": [
       "HKTool Legacy"
     ],
-    "repository": "https://github.com/HKLab/UumuuPlus/",
+    "repository": "https://github.com/Box074/UumuuPlus/",
     "tags": [
       "Boss"
     ]
@@ -6405,12 +6430,12 @@
     "links": {
       "type": "universal",
       "sha256": "C0E1D68D361F54F551277A77014F013F808150455FAD25F4809615211ED7BF4D",
-      "url": "https://github.com/HKLab/ZoteKiller/releases/download/v0.1/ZoteKiller.dll"
+      "url": "https://github.com/Box074/ZoteKiller/releases/download/v0.1/ZoteKiller.dll"
     },
     "dependencies": [
       "HKTool Legacy"
     ],
-    "repository": "https://github.com/HKLab/ZoteKiller/",
+    "repository": "https://github.com/Box074/ZoteKiller/",
     "tags": [
       "Gameplay"
     ]
