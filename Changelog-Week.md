@@ -41,17 +41,13 @@
 
 ### Ancient Aspid
 
-- Version: 1.0.0.6 -> 1.0.0.8
+- Version: 1.0.0.7 -> 1.0.0.8
 
 ### GodhomeRandomizer
 
 - Version: 2.1.2.1 -> 2.1.3.0
 
-### SpicyRando
-
-- Version: 1.2.1.1 -> 1.2.2.0
-
 ### WeaverCore
 
-- Version: 2.2.0.4 -> 2.2.0.6
+- Version: 2.2.0.5 -> 2.2.0.6
 
