@@ -1,6 +1,3 @@
-Archipelago
-RCPathfinder
-RandoMapMod
 GodhomeRandomizer
 RCPathfinder
 RandoMapMod

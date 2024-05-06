@@ -16,23 +16,15 @@
 - Tags
   + Gameplay
 
-### HallOfGodsRandomizer
+### Elderbugnest
 
-- Description: DEPRECATED. USE GODHOME RANDOMIZER INSTEAD - A randomizer add-on for Hall of Gods bosses.
+- Description: Replaces a bunch of NPCs with the sweet old friend
 - Dependencies
-  + ItemChanger
-  + ItemChangerDataLoader
-  + KorzUtils
-  + MenuChanger
-  + Randomizer 4
-- Tags
-  + Gameplay
+  + Satchel
 
-### LessHealing
+### UnrestrictedSteelSoul
 
-- Description: A Hollow Knight mod that adds toggleable options that remove various healing methods from the game.
-- Dependencies
-  + SFCore
+- Description: A Hollow Knight mod that enables permadeath in dream/godhome zones when playing in steel soul mode.
 - Tags
   + Gameplay
 

@@ -3,47 +3,28 @@
 
 ## New mods
 
-### BingoGoalPack1
+### TheHuntIsOn
 
-- Description: Adds more goals to BingoSync and includes new board types
+- Description: A mod for manhunting. Provides modules to change how the game affects hunter and speedrunner.
 - Dependencies
-  + BingoSyncExtension
+  + HKMP
+  + KorzUtils
   + Satchel
-
-### BingoSyncExtension
-
-- Description: A library mod that provides an interface to add extra automarking logic to BingoSync
-- Dependencies
-  + BingoSync
 - Tags
-  + Library
-
-### MapSyncMod
-
-- Description: Sync Map and Bench on ItemSyncMOD
-- Dependencies
-  + Benchwarp
-  + ItemSync
-  + MapChanger
-- Integrations
-  + RandoMapMod
-  + RecentItemsDisplay
+  + Gameplay
 
 
 ## Updated mods
 
 ### Ancient Aspid
 
-- Version: 1.0.0.4 -> 1.0.0.5
+- Version: 1.0.0.5 -> 1.0.0.6
 
-### LockResolution
+### RandoMapMod
 
-- Version: 1.1.0.0 -> 1.2.0.0
-- Description
-  + Old: Lock Resolution On GamePlay
-  + New: Lock Resolution On GamePlay. VSync On LostFocus
+- Version: 3.5.4.0 -> 3.5.5.0
 
 ### WeaverCore
 
-- Version: 2.2.0.2 -> 2.2.0.3
+- Version: 2.2.0.3 -> 2.2.0.4
 

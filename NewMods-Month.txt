@@ -13,3 +13,5 @@ Soul Sovereign
 HallOfGodsRandomizer
 LessHealing
 AccessRandomizer
+Elderbugnest
+UnrestrictedSteelSoul

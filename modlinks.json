@@ -1866,6 +1866,22 @@
       "Acu1000"
     ]
   },
+  "Elderbugnest": {
+    "description": "Replaces a bunch of NPCs with the sweet old friend",
+    "version": "1.0.1.0",
+    "links": {
+      "type": "universal",
+      "sha256": "6698B3BE8C20A890F290E949825FA64A72D13A4E5AE6D6E7DFEBF4BD4BFFD10F",
+      "url": "https://github.com/TheMathGeek314/Elderbugnest/releases/download/v1.0.1.0/Elderbugnest.zip"
+    },
+    "dependencies": [
+      "Satchel"
+    ],
+    "repository": "https://github.com/TheMathGeek314/Elderbugnest/",
+    "authors": [
+      "TheMathGeek_314"
+    ]
+  },
   "EmoteWheel": {
     "description": "A mod that allows using custom emotes (also works during multiplay if server has HkmpPouch).",
     "version": "1.1.0.0",
@@ -6244,6 +6260,23 @@
     "repository": "https://github.com/TheMathGeek314/UnlimitedShades/",
     "authors": [
       "TheMathGeek_314"
+    ]
+  },
+  "UnrestrictedSteelSoul": {
+    "description": "A Hollow Knight mod that enables permadeath in dream/godhome zones when playing in steel soul mode.",
+    "version": "1.0.0.0",
+    "links": {
+      "type": "universal",
+      "sha256": "3BB7BDBBAA8856D38034F37105888F90BDB80BEFF8DB3EC2DF60C106FBA18D8D",
+      "url": "https://github.com/Briskless/UnrestrictedSteelSoul/releases/download/v1.0.0/Deathless.zip"
+    },
+    "dependencies": [],
+    "repository": "https://github.com/Briskless/UnrestrictedSteelSoul",
+    "tags": [
+      "Gameplay"
+    ],
+    "authors": [
+      "Briskless"
     ]
   },
   "Upgraded DreamShield": {

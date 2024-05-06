@@ -1,2 +1,5 @@
 Ancient Aspid
+Archipelago Map Mod
+ICPlandoTools
+Pale Court
 WeaverCore

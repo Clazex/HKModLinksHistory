@@ -51,6 +51,12 @@
 - Tags
   + Gameplay
 
+### Elderbugnest
+
+- Description: Replaces a bunch of NPCs with the sweet old friend
+- Dependencies
+  + Satchel
+
 ### HallOfGodsRandomizer
 
 - Description: DEPRECATED. USE GODHOME RANDOMIZER INSTEAD - A randomizer add-on for Hall of Gods bosses.
@@ -133,6 +139,12 @@
 - Tags
   + Gameplay
 
+### UnrestrictedSteelSoul
+
+- Description: A Hollow Knight mod that enables permadeath in dream/godhome zones when playing in steel soul mode.
+- Tags
+  + Gameplay
+
 
 ## Removed mods
 
@@ -140,10 +152,6 @@
 
 
 ## Updated mods
-
-### Archipelago
-
-- Version: 0.4.0.0 -> 0.4.1.0
 
 ### Archipelago Map Mod
 
@@ -186,11 +194,11 @@
 
 ### RCPathfinder
 
-- Version: 1.2.0.0 -> 1.3.2.0
+- Version: 1.3.0.0 -> 1.3.2.0
 
 ### RandoMapMod
 
-- Version: 3.5.2.0 -> 3.5.5.0
+- Version: 3.5.3.0 -> 3.5.5.0
 
 ### Satchel
 

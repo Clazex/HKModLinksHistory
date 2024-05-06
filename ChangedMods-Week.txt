@@ -1,6 +1,6 @@
-HallOfGodsRandomizer
-LessHealing
 GodhomeRandomizer
 Ancient Aspid
 WeaverCore
 AccessRandomizer
+Elderbugnest
+UnrestrictedSteelSoul

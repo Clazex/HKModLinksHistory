@@ -1,6 +1,3 @@
-Archipelago
-RCPathfinder
-RandoMapMod
 CelesteDash
 GodhomeRandomizer
 RCPathfinder
@@ -57,3 +54,5 @@ GodhomeRandomizer
 Ancient Aspid
 WeaverCore
 AccessRandomizer
+Elderbugnest
+UnrestrictedSteelSoul
