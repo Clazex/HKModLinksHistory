@@ -39,3 +39,4 @@ WeaverCore
 GodhomeRandomizer
 Ancient Aspid
 WeaverCore
+AccessRandomizer

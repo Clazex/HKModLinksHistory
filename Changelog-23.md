@@ -1,13 +1,37 @@
 # Changelog
 
 
+## New mods
+
+### ICPlandoTools
+
+- Description: Adds assorted utilities for plando authors.
+- Dependencies
+  + ItemChanger
+- Tags
+  + Library
+
+
+## Removed mods
+
+- Shuriken
+
+
 ## Updated mods
 
 ### Ancient Aspid
 
-- Version: 1.0.0.0 -> 1.0.0.3
+- Version: 1.0.0.3 -> 1.0.0.4
+
+### Archipelago Map Mod
+
+- Version: 2.1.3.0 -> 2.2.0.0
+
+### Pale Court
+
+- Version: 1.0.1.0 -> 1.1.0.0
 
 ### WeaverCore
 
-- Version: 2.2.0.0 -> 2.2.0.1
+- Version: 2.2.0.1 -> 2.2.0.2
 

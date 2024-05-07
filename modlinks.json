@@ -73,15 +73,14 @@
   },
   "AccessRandomizer": {
     "description": "A randomizer add-on for miscellaneous access checks.",
-    "version": "1.0.0.0",
+    "version": "1.0.0.1",
     "links": {
       "type": "universal",
-      "sha256": "08B1C83E531019B83103428351F910C1CFA3E9597B23863219FE207DFFA189E3",
-      "url": "https://github.com/nerthul11/AccessRandomizer/releases/download/1.0.0.0/AccessRandomizer.zip"
+      "sha256": "EBEE81DC45CEAB1CF6D25F21F5D437C7979C02CFAE518D4A38758C370A6C4A59",
+      "url": "https://github.com/nerthul11/AccessRandomizer/releases/download/1.0.0.1/AccessRandomizer.zip"
     },
     "dependencies": [
       "ItemChanger",
-      "ItemChangerDataLoader",
       "KorzUtils",
       "MenuChanger",
       "Randomizer 4",
@@ -2544,7 +2543,6 @@
     },
     "dependencies": [
       "ItemChanger",
-      "ItemChangerDataLoader",
       "KorzUtils",
       "MenuChanger",
       "Randomizer 4",
@@ -3025,7 +3023,6 @@
     },
     "dependencies": [
       "ItemChanger",
-      "ItemChangerDataLoader",
       "KorzUtils",
       "MenuChanger",
       "Randomizer 4"

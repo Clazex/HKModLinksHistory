@@ -8,7 +8,6 @@
 - Description: A randomizer add-on for miscellaneous access checks.
 - Dependencies
   + ItemChanger
-  + ItemChangerDataLoader
   + KorzUtils
   + MenuChanger
   + Randomizer 4
@@ -62,7 +61,6 @@
 - Description: DEPRECATED. USE GODHOME RANDOMIZER INSTEAD - A randomizer add-on for Hall of Gods bosses.
 - Dependencies
   + ItemChanger
-  + ItemChangerDataLoader
   + KorzUtils
   + MenuChanger
   + Randomizer 4
@@ -177,6 +175,8 @@
 
 - Version: 2.0.0.0 -> 2.1.3.0
 - Dependencies
+  + Removed
+    - ItemChangerDataLoader
   + Added
     - Satchel
 

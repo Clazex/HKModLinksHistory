@@ -8,7 +8,6 @@
 - Description: A randomizer add-on for miscellaneous access checks.
 - Dependencies
   + ItemChanger
-  + ItemChangerDataLoader
   + KorzUtils
   + MenuChanger
   + Randomizer 4
@@ -34,10 +33,6 @@
 ### Ancient Aspid
 
 - Version: 1.0.0.7 -> 1.0.0.8
-
-### GodhomeRandomizer
-
-- Version: 2.1.2.1 -> 2.1.3.0
 
 ### WeaverCore
 
