@@ -1,8 +1,4 @@
 CelesteDash
-GodhomeRandomizer
-RCPathfinder
-RandoMapMod
-CelesteDash
 RCPathfinder
 ControllerFixes
 GodhomeRandomizer
@@ -57,3 +53,4 @@ AccessRandomizer
 Elderbugnest
 UnrestrictedSteelSoul
 AccessRandomizer
+CarThingMod

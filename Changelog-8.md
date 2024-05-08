@@ -1,25 +1,9 @@
 # Changelog
 
 
-## New mods
+## Updated mods
 
-### HallOfGodsRandomizer
+### GodhomeRandomizer
 
-- Description: DEPRECATED - A randomizer add-on for Hall of Gods bosses.
-- Dependencies
-  + ItemChanger
-  + ItemChangerDataLoader
-  + KorzUtils
-  + MenuChanger
-  + Randomizer 4
-- Tags
-  + Gameplay
-
-### LessHealing
-
-- Description: A Hollow Knight mod that adds toggleable options that remove various healing methods from the game.
-- Dependencies
-  + SFCore
-- Tags
-  + Gameplay
+- Version: 2.1.2.1 -> 2.1.3.0
 

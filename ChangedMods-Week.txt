@@ -1,6 +1,5 @@
-Ancient Aspid
-WeaverCore
 AccessRandomizer
 Elderbugnest
 UnrestrictedSteelSoul
 AccessRandomizer
+CarThingMod

@@ -41,15 +41,6 @@
 - Tags
   + Library
 
-### CelesteDash
-
-- Description: Bring a Celeste-like dash system into Hollow Knight
-- Dependencies
-  + HKMirror
-  + Satchel
-- Tags
-  + Gameplay
-
 ### Elderbugnest
 
 - Description: Replaces a bunch of NPCs with the sweet old friend
@@ -155,6 +146,14 @@
 
 - Version: 2.1.3.0 -> 2.2.0.0
 
+### CarThingMod
+
+- Version: 1.0.0.0 -> 1.1.1.1
+
+### CelesteDash
+
+- Version: 1.2.2.0 -> 1.2.3.0
+
 ### ControllerFixes
 
 - Version: 1.0.2.0 -> 1.0.3.0
@@ -173,7 +172,7 @@
 
 ### GodhomeRandomizer
 
-- Version: 2.0.0.0 -> 2.1.3.0
+- Version: 2.1.0.0 -> 2.1.3.0
 - Dependencies
   + Removed
     - ItemChangerDataLoader
@@ -194,11 +193,11 @@
 
 ### RCPathfinder
 
-- Version: 1.3.0.0 -> 1.3.2.0
+- Version: 1.3.1.0 -> 1.3.2.0
 
 ### RandoMapMod
 
-- Version: 3.5.3.0 -> 3.5.5.0
+- Version: 3.5.4.0 -> 3.5.5.0
 
 ### Satchel
 

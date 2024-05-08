@@ -683,11 +683,11 @@
   },
   "CarThingMod": {
     "description": "Throws a car everytime the player swings their nail",
-    "version": "1.0.0.0",
+    "version": "1.1.1.1",
     "links": {
       "type": "universal",
-      "sha256": "9426F901A54B11EE1626A14830AD4C1340295A78E89C092EEB99D837226BC899",
-      "url": "https://github.com/Foxyrobo/CarThingMod/releases/download/1.0.0/CarThingMod.zip"
+      "sha256": "B58DF218709EF42D7CE10457F16489527FB46FC20F17ACB3D3E76F5931BAF197",
+      "url": "https://github.com/Foxyrobo/CarThingMod/releases/download/1.1.1.1/CarThingMod.zip"
     },
     "dependencies": [
       "FrogCore",
