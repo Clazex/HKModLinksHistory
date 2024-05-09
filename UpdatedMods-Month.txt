@@ -1,5 +1,3 @@
-CelesteDash
-RCPathfinder
 ControllerFixes
 GodhomeRandomizer
 GodhomeRandomizer
@@ -38,3 +36,5 @@ Ancient Aspid
 WeaverCore
 AccessRandomizer
 CarThingMod
+AccessRandomizer
+Dead Cells Bosses

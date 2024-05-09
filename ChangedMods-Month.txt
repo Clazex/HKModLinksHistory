@@ -1,5 +1,3 @@
-CelesteDash
-RCPathfinder
 ControllerFixes
 GodhomeRandomizer
 GodhomeRandomizer
@@ -54,3 +52,5 @@ Elderbugnest
 UnrestrictedSteelSoul
 AccessRandomizer
 CarThingMod
+AccessRandomizer
+Dead Cells Bosses

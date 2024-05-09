@@ -3,3 +3,5 @@ Elderbugnest
 UnrestrictedSteelSoul
 AccessRandomizer
 CarThingMod
+AccessRandomizer
+Dead Cells Bosses

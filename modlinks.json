@@ -73,11 +73,11 @@
   },
   "AccessRandomizer": {
     "description": "A randomizer add-on for miscellaneous access checks.",
-    "version": "1.0.0.1",
+    "version": "1.1.0.0",
     "links": {
       "type": "universal",
-      "sha256": "EBEE81DC45CEAB1CF6D25F21F5D437C7979C02CFAE518D4A38758C370A6C4A59",
-      "url": "https://github.com/nerthul11/AccessRandomizer/releases/download/1.0.0.1/AccessRandomizer.zip"
+      "sha256": "A93C59F996AFA9369C873DF12CA1BF42B552A2048B376F0E3C705A462B8EC367",
+      "url": "https://github.com/nerthul11/AccessRandomizer/releases/download/1.1.0.0/AccessRandomizer.zip"
     },
     "dependencies": [
       "ItemChanger",
@@ -386,13 +386,13 @@
     "version": "0.0.0.2",
     "links": {
       "type": "universal",
-      "sha256": "54874EB6D71CF5B4E5B931F87123E1172B7F6A3D2FA07895DEF18F969C9154DD",
-      "url": "https://github.com/Box074/HK.BackDash/releases/download/v0/Output.zip"
+      "sha256": "BD2D44A817D8C7E1FFC1D96064C5E5C8D3B203E1B01BDFD49BA6DA494AC2F7EE",
+      "url": "https://github.com/HK-Modding-Preservation/Box074/raw/master/BackDash.zip"
     },
     "dependencies": [
       "HKTool Legacy"
     ],
-    "repository": "https://github.com/Box074/HK.BackDash/"
+    "repository": "https://github.com/HK-Modding-Preservation/Box074/"
   },
   "BenchRando": {
     "description": "A Randomizer 4 add-on for randomizing benches to new locations and randomizing the ability to warp to benches as items.",
@@ -1287,13 +1287,13 @@
     "version": "0.0.1.0",
     "links": {
       "type": "universal",
-      "sha256": "D6B830191F87C6CE3E09F517E25AA1D392D3ECA6757D1B2D3DCCBF40412A2850",
-      "url": "https://github.com/Box074/CustomKnightPlus/releases/download/v0.0.1/CustomKnightPlus.zip"
+      "sha256": "6C2FC45834B547D6C08534968209B61705383F5036FE9F4925A3ACA4E4B9BE6A",
+      "url": "https://github.com/HK-Modding-Preservation/Box074/raw/master/CustomKnightPlus.zip"
     },
     "dependencies": [
       "Custom Knight"
     ],
-    "repository": "https://github.com/Box074/CustomKnightPlus/",
+    "repository": "https://github.com/HK-Modding-Preservation/Box074/",
     "tags": [
       "Cosmetic"
     ]
@@ -1377,13 +1377,13 @@
     "version": "0.0.0.0",
     "links": {
       "type": "universal",
-      "sha256": "A3A6B2C0294A28DE26BDA4CABA4CF14BC80FCEA31DCE4A25259E158774EFA50B",
-      "url": "https://github.com/Box074/NailMaster/releases/download/v1/NailMaster.zip"
+      "sha256": "8C0347D2D6141D98FF00AF559C99EF3A9D2269F2F81BEDEDE65242407A95E5E1",
+      "url": "https://github.com/HK-Modding-Preservation/Box074/raw/master/Cyclone%20Real%20Combat.zip"
     },
     "dependencies": [
       "HKTool Legacy"
     ],
-    "repository": "https://github.com/Box074/NailMaster/",
+    "repository": "https://github.com/HK-Modding-Preservation/Box074/",
     "tags": [
       "Gameplay"
     ]
@@ -1393,13 +1393,13 @@
     "version": "0.0.0.0",
     "links": {
       "type": "universal",
-      "sha256": "B7D9CD795F0957873B433A96DF0F4E1E8F59A13CA94B7C63A263FF364D12605C",
-      "url": "https://github.com/Box074/CycloneOut/releases/download/v0.0.0.0/CycloneOut.dll"
+      "sha256": "57BF6A0197A629A1D751AE900DAEBBE11700EC5052EAC6CA22E02F51E603CCB0",
+      "url": "https://github.com/HK-Modding-Preservation/Box074/raw/master/Cyclone%20Throws%200.0.0.0.zip"
     },
     "dependencies": [
       "HKTool Legacy"
     ],
-    "repository": "https://github.com/Box074/CycloneOut/",
+    "repository": "https://github.com/HK-Modding-Preservation/Box074/",
     "tags": [
       "Gameplay"
     ]
@@ -1493,29 +1493,29 @@
     "version": "0.0.0.0",
     "links": {
       "type": "universal",
-      "sha256": "E0C38393F9A52D7CE4E7089DF56F21E631874A2C9F10BDAA23467A5D05395125",
-      "url": "https://github.com/Box074/DCBarrelLauncher/releases/download/v0.0.0.0/DCBarrelLauncher.dll"
+      "sha256": "1EDD2F08130D82ABD7DA96FF9F79B37BC1AE48969691415E0A5F35322E4D20B4",
+      "url": "https://github.com/HK-Modding-Preservation/Box074/raw/master/Dead%20Cells%20Barrel%20Launcher.zip"
     },
     "dependencies": [
       "HKTool Legacy"
     ],
-    "repository": "https://github.com/Box074/DCBarrelLauncher/",
+    "repository": "https://github.com/HK-Modding-Preservation/Box074/",
     "tags": [
       "Gameplay"
     ]
   },
   "Dead Cells Bosses": {
     "description": "Add Dead Cells' Bosses to Hollow Knight",
-    "version": "1.1.0.2",
+    "version": "1.1.0.0",
     "links": {
       "type": "universal",
-      "sha256": "5C6F7F31D68A7285CE7897C4E90ACC480C50755CF00664418E8B42F15E6F3659",
-      "url": "https://github.com/Box074/DCBosses/releases/download/v1.1.0.2/Publish.zip"
+      "sha256": "464F01D054314FC357CB1A70E9815A8D549295F7173A9D153606BCA06F7C0F59",
+      "url": "https://github.com/HK-Modding-Preservation/Box074/raw/master/Dead%20Cells%20Bosses%201.1.0.0.zip"
     },
     "dependencies": [
       "HKTool"
     ],
-    "repository": "https://github.com/Box074/DCBosses/",
+    "repository": "https://github.com/HK-Modding-Preservation/Box074/",
     "tags": [
       "Boss"
     ]
@@ -1525,14 +1525,14 @@
     "version": "0.0.0.1",
     "links": {
       "type": "universal",
-      "sha256": "15447A2921D1F2B57F47ADE8DAB14AE5439EC1DE151CECAA86E349865800AF5B",
-      "url": "https://github.com/Box074/DCQueen/releases/download/l/DCQueenLoader.dll"
+      "sha256": "7E932BD2100007D23B7685359191C03F05575FEA12464E36BC9A03291282B49A",
+      "url": "https://github.com/HK-Modding-Preservation/Box074/raw/master/DCQueenLoader.zip"
     },
     "dependencies": [
       "Dead Cells Bosses",
       "HKTool Legacy"
     ],
-    "repository": "https://github.com/Box074/DCQueen/",
+    "repository": "https://github.com/HK-Modding-Preservation/Box074/",
     "tags": [
       "Boss"
     ]
@@ -1542,13 +1542,13 @@
     "version": "0.0.0.0",
     "links": {
       "type": "universal",
-      "sha256": "E67E8DFC5B71DB5F016AAD9A65EEBFA15AE6992D4B4E54BCEE46A0120C65987C",
-      "url": "https://github.com/Box074/DCTimeKeeper/releases/download/v0.0.0.0/Output.zip"
+      "sha256": "2D3472CFE806D27805D1E29B4E61E9759E52CFE4C04A48E03C00821DB7881501",
+      "url": "https://github.com/HK-Modding-Preservation/Box074/raw/master/Dead%20Cells%20Time%20Keeper.zip"
     },
     "dependencies": [
       "HKTool Legacy"
     ],
-    "repository": "https://github.com/Box074/DCTimeKeeper/",
+    "repository": "https://github.com/HK-Modding-Preservation/Box074/",
     "tags": [
       "Boss"
     ]
@@ -2919,11 +2919,11 @@
     "version": "2.2.1.0",
     "links": {
       "type": "universal",
-      "sha256": "FCE0348C4D69925195690E19DC6D334D5D46F8721173CDBD798E73F9820CBEAF",
-      "url": "https://github.com/Box074/HollowKnightMod.Tool/releases/download/v2.2.1.0/Publish.zip"
+      "sha256": "0D72B8D1ABEAF1AC4CF1493BD5A34EC050F9C1DCC96E983900113FC98D27AE26",
+      "url": "https://github.com/HK-Modding-Preservation/Box074/raw/master/HKTool.zip"
     },
     "dependencies": [],
-    "repository": "https://github.com/Box074/HollowKnightMod.Tool/",
+    "repository": "https://github.com/HK-Modding-Preservation/Box074/",
     "tags": [
       "Library"
     ]
@@ -2933,13 +2933,13 @@
     "version": "1.11.8.0",
     "links": {
       "type": "universal",
-      "sha256": "407D2FEF66E28E9A729C34EC0B4F57A5F5247EB1DED4B4C59C30E27FD970E9BB",
-      "url": "https://github.com/Box074/HollowKnightMod.Tool/releases/download/Legacy-v0/Output.zip"
+      "sha256": "7F2E8838968E98B3EF2F520F254EE1BCD2204ADEC79F0461C64771A62D2AE70F",
+      "url": "https://github.com/HK-Modding-Preservation/Box074/raw/master/HKTool%20Legacy.zip"
     },
     "dependencies": [
       "HKTool"
     ],
-    "repository": "https://github.com/Box074/HollowKnightMod.Tool/",
+    "repository": "https://github.com/HK-Modding-Preservation/Box074/",
     "tags": [
       "Library"
     ]
@@ -4453,22 +4453,22 @@
     "links": {
       "type": "platform-dependent",
       "windows": {
-        "sha256": "807C7FA235243FB7E35A8122184D8824A1E173E0085CD156A2BBFD40BF6B34AE",
-        "url": "https://github.com/Box074/NoskGod/releases/download/v1.1.0.0/Publish-Windows.zip"
+        "sha256": "B8E15D0CDFC153F15F9B96AA812112805418885D90818BE8B03439A24F601DAF",
+        "url": "https://github.com/HK-Modding-Preservation/Box074/raw/master/Nosk%20God%201.1.0.0%20Windows.zip"
       },
       "mac": {
-        "sha256": "6471E84C453CAA2F9A311FE02A8AE5469AF6C869CE2510846EC8282EFC4E849C",
-        "url": "https://github.com/Box074/NoskGod/releases/download/v1.1.0.0/Publish-OSX.zip"
+        "sha256": "A51C6790EBED029B1AC7F372593F418A2A9B4FC9AF906AB654D9D77248DC7914",
+        "url": "https://github.com/HK-Modding-Preservation/Box074/raw/master/Nosk%20God%201.1.0.0%20Mac.zip"
       },
       "linux": {
-        "sha256": "0D9143C198C54F17F276F94C240B09D810850816B75A394EB8871001FF22997F",
-        "url": "https://github.com/Box074/NoskGod/releases/download/v1.1.0.0/Publish-Linux.zip"
+        "sha256": "0A16FAB05BC59C808649C051EE073FD7AAC57784BD4B9441E8776708DAA684D6",
+        "url": "https://github.com/HK-Modding-Preservation/Box074/raw/master/Nosk%20God%201.1.0.0%20Linux.zip"
       }
     },
     "dependencies": [
       "HKTool"
     ],
-    "repository": "https://github.com/Box074/NoskGod/",
+    "repository": "https://github.com/HK-Modding-Preservation/Box074/",
     "tags": [
       "Boss"
     ]
@@ -5555,13 +5555,13 @@
     "version": "0.0.0.2",
     "links": {
       "type": "universal",
-      "sha256": "5E69F89E73D9DB65505F123676C2EE4CB070D8D914D23A8FA5C9218DACD104C1",
-      "url": "https://github.com/Box074/DCParry/releases/download/v0.0.0.2/DCParry.dll"
+      "sha256": "AAED3E940CE1983C2D6D7CA6D5363E99619A4EC9B32E59E29FB9DA09C588B11D",
+      "url": "https://github.com/HK-Modding-Preservation/Box074/raw/master/ShieldParry.zip"
     },
     "dependencies": [
       "HKTool Legacy"
     ],
-    "repository": "https://github.com/Box074/DCParry/"
+    "repository": "https://github.com/HK-Modding-Preservation/Box074/"
   },
   "ShyKnight": {
     "description": "Removes the audience from Godhome arenas and Colosseum of Fools",
@@ -6227,14 +6227,14 @@
     "version": "2.6.0.0",
     "links": {
       "type": "universal",
-      "sha256": "3742BA1A2946023345220B4C409BACD996F0B9288DF67A64E87A6229F9C6D919",
-      "url": "https://github.com/Box074/UnityExplorerPlus/releases/download/v2.6.0.0/Publish.zip"
+      "sha256": "15AE5FE62DCE557A17AF71797EB3179174A635F429636DC4B32F2AE1A43B54E1",
+      "url": "https://github.com/HK-Modding-Preservation/Box074/raw/master/UnityExplorerPlus.zip"
     },
     "dependencies": [
       "HKTool",
       "Unity Explorer"
     ],
-    "repository": "https://github.com/Box074/UnityExplorerPlus/",
+    "repository": "https://github.com/HK-Modding-Preservation/Box074/",
     "integrations": [
       "Game Object Dump",
       "Satchel"
@@ -6301,13 +6301,13 @@
     "version": "1.0.3.0",
     "links": {
       "type": "universal",
-      "sha256": "026767ED592E3108868FBCEEF379EBAE71AD0DB72BDC29B941BEEA78D3F6B011",
-      "url": "https://github.com/Box074/UumuuPlus/releases/download/v1.0.3.0/Output.zip"
+      "sha256": "7F6B2A196DD7E38841607BBD7A79DB21C4BF4FE81FDEB2FFA1BBBFBBE3A9D6A9",
+      "url": "https://github.com/HK-Modding-Preservation/Box074/raw/master/Uumuu%20Plus.zip"
     },
     "dependencies": [
       "HKTool Legacy"
     ],
-    "repository": "https://github.com/Box074/UumuuPlus/",
+    "repository": "https://github.com/HK-Modding-Preservation/Box074/",
     "tags": [
       "Boss"
     ]
@@ -6459,13 +6459,13 @@
     "version": "0.1.0.0",
     "links": {
       "type": "universal",
-      "sha256": "C0E1D68D361F54F551277A77014F013F808150455FAD25F4809615211ED7BF4D",
-      "url": "https://github.com/Box074/ZoteKiller/releases/download/v0.1/ZoteKiller.dll"
+      "sha256": "1918F8B2E5112AEE6F21836A10D45195129C6258CD9E8EBA341E86924DA03BFA",
+      "url": "https://github.com/HK-Modding-Preservation/Box074/raw/master/Zote%20Killer.zip"
     },
     "dependencies": [
       "HKTool Legacy"
     ],
-    "repository": "https://github.com/Box074/ZoteKiller/",
+    "repository": "https://github.com/HK-Modding-Preservation/Box074/",
     "tags": [
       "Gameplay"
     ]
