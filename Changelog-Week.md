@@ -3,21 +3,15 @@
 
 ## New mods
 
-### AccessRandomizer
-
-- Description: A randomizer add-on for miscellaneous access checks.
-- Dependencies
-  + ItemChanger
-  + KorzUtils
-  + MenuChanger
-  + Randomizer 4
-  + Satchel
-- Tags
-  + Gameplay
-
 ### Elderbugnest
 
 - Description: Replaces a bunch of NPCs with the sweet old friend
+- Dependencies
+  + Satchel
+
+### SaferWhitePalace
+
+- Description: Allows you to remove the dangers of White Palace
 - Dependencies
   + Satchel
 
@@ -30,9 +24,20 @@
 
 ## Updated mods
 
+### AccessRandomizer
+
+- Version: 1.0.0.0 -> 1.1.0.0
+- Dependencies
+  + Removed
+    - ItemChangerDataLoader
+
 ### CarThingMod
 
 - Version: 1.0.0.0 -> 1.1.1.1
+
+### Carefree Grimm
+
+- Version: 1.0.0.2 -> 1.0.1.0
 
 ### Dead Cells Bosses
 

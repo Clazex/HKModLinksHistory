@@ -705,11 +705,11 @@
   },
   "Carefree Grimm": {
     "description": "Allows you to have Carefree Melody and Grimmchild at the same time",
-    "version": "1.0.0.2",
+    "version": "1.0.1.0",
     "links": {
       "type": "universal",
-      "sha256": "3ADEEB75BEE0B48032B36BFC7D7AD3B9B20909135F6E27863C3413623613240C",
-      "url": "https://github.com/ilcheese2/CarefreeGrimm/releases/download/1.0.0.2/CarefreeGrimm.dll"
+      "sha256": "2DDBCD04198E88690C21104F579764C28ABCC2DF87AAF9D60A834969F3F0CA27",
+      "url": "https://github.com/ilcheese2/CarefreeGrimm/releases/download/1.0.1.0/CarefreeGrimm.dll"
     },
     "dependencies": [
       "SFCore"
@@ -5452,6 +5452,22 @@
     "repository": "https://github.com/Zickles/STFUGrimmChild",
     "authors": [
       "Zickles"
+    ]
+  },
+  "SaferWhitePalace": {
+    "description": "Allows you to remove the dangers of White Palace",
+    "version": "1.0.0.0",
+    "links": {
+      "type": "universal",
+      "sha256": "6B895334775A1A4AE18C23D45B6AE36C7A49951529960C7A59205B1CC76749DF",
+      "url": "https://github.com/TheMathGeek314/SaferWhitePalace/releases/download/v1.0.0.0/Safer_White_Palace.zip"
+    },
+    "dependencies": [
+      "Satchel"
+    ],
+    "repository": "https://github.com/TheMathGeek314/SaferWhitePalace/",
+    "authors": [
+      "TheMathGeek_314"
     ]
   },
   "Sanic": {

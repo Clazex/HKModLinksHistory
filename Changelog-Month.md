@@ -110,6 +110,12 @@
 - Dependencies
   + RecentItemsDisplay
 
+### SaferWhitePalace
+
+- Description: Allows you to remove the dangers of White Palace
+- Dependencies
+  + Satchel
+
 ### Soul Sovereign
 
 - Description: Provides a rework to the Soul Tyrant fight to make it more challenging.
@@ -150,9 +156,9 @@
 
 - Version: 1.0.0.0 -> 1.1.1.1
 
-### ControllerFixes
+### Carefree Grimm
 
-- Version: 1.0.2.0 -> 1.0.3.0
+- Version: 1.0.0.2 -> 1.0.1.0
 
 ### Corrupted Kin
 
@@ -172,7 +178,7 @@
 
 ### GodhomeRandomizer
 
-- Version: 2.1.0.0 -> 2.1.3.0
+- Version: 2.1.1.0 -> 2.1.3.0
 - Dependencies
   + Removed
     - ItemChangerDataLoader

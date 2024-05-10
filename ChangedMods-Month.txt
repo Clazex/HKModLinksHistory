@@ -1,5 +1,3 @@
-ControllerFixes
-GodhomeRandomizer
 GodhomeRandomizer
 Ancient Aspid
 Corrupted Kin
@@ -54,3 +52,5 @@ AccessRandomizer
 CarThingMod
 AccessRandomizer
 Dead Cells Bosses
+Carefree Grimm
+SaferWhitePalace

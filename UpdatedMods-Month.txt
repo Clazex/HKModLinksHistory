@@ -1,5 +1,3 @@
-ControllerFixes
-GodhomeRandomizer
 GodhomeRandomizer
 Corrupted Kin
 Crystal Machinist
@@ -38,3 +36,4 @@ AccessRandomizer
 CarThingMod
 AccessRandomizer
 Dead Cells Bosses
+Carefree Grimm
