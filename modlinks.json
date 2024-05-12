@@ -1466,11 +1466,11 @@
   },
   "DarknessRandomizer": {
     "description": "A Rando 4 connection to randomize the dark corners of Hallownest.",
-    "version": "1.4.7.0",
+    "version": "1.4.8.0",
     "links": {
       "type": "universal",
-      "sha256": "C66B4D14223D44611E2873809FD557ECE4E4EB3587F79A29EF20FE9356978B00",
-      "url": "https://github.com/dplochcoder/HollowKnight.DarknessRandomizer/releases/download/v1.4.7.0/DarknessRandomizer.zip"
+      "sha256": "4EF09E9AFEA6F7ADB9D3436FEBC3CF8E941C9B0E8D0C1EAA02F22235AF1525BE",
+      "url": "https://github.com/dplochcoder/HollowKnight.DarknessRandomizer/releases/download/v1.4.8.0/DarknessRandomizer.zip"
     },
     "dependencies": [
       "ItemChanger",

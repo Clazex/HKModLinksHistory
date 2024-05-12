@@ -15,17 +15,6 @@
 - Tags
   + Gameplay
 
-### Ancient Aspid
-
-- Description: A mod for Hollow Knight that adds a brand new, challenging bossfight to Kingdom&#x27;s Edge
-- Dependencies
-  + More Godhome Space
-  + SFCore
-  + WeaverCore
-- Tags
-  + Boss
-  + Gameplay
-
 ### BingoGoalPack1
 
 - Description: Adds more goals to BingoSync and includes new board types
@@ -96,14 +85,6 @@
   + SFCore
   + Satchel
 
-### More Godhome Space
-
-- Description: Adds a third floor to the Hall of Gods area so more modded bosses can be added
-- Dependencies
-  + WeaverCore
-- Tags
-  + Gameplay
-
 ### RecentItemsDisplayNoGrass
 
 - Description: RecentItemsDisplay GrassRando notDisplay Grass
@@ -148,6 +129,10 @@
 
 ## Updated mods
 
+### Ancient Aspid
+
+- Version: 1.0.0.0 -> 1.0.0.8
+
 ### Archipelago Map Mod
 
 - Version: 2.1.3.0 -> 2.2.0.0
@@ -160,17 +145,13 @@
 
 - Version: 1.0.0.2 -> 1.0.1.0
 
-### Corrupted Kin
-
-- Version: 1.3.2.0 -> 1.4.0.0
-
-### Crystal Machinist
-
-- Version: 2.0.1.1 -> 2.0.2.0
-
 ### Custom Knight
 
 - Version: 2.2.0.0 -> 3.0.1.0
+
+### DarknessRandomizer
+
+- Version: 1.4.7.0 -> 1.4.8.0
 
 ### Dead Cells Bosses
 
@@ -184,10 +165,6 @@
     - ItemChangerDataLoader
   + Added
     - Satchel
-
-### Inferno King Grimm
-
-- Version: 4.2.2.1 -> 4.2.3.0
 
 ### Nightmare and Void
 
@@ -218,7 +195,7 @@
 
 ### WeaverCore
 
-- Version: 2.1.0.1 -> 2.2.0.6
+- Version: 2.2.0.0 -> 2.2.0.6
 
 ### press g to dab
 

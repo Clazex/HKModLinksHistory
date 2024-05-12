@@ -1,8 +1,7 @@
-Elderbugnest
-UnrestrictedSteelSoul
 AccessRandomizer
 CarThingMod
 AccessRandomizer
 Dead Cells Bosses
 Carefree Grimm
 SaferWhitePalace
+DarknessRandomizer

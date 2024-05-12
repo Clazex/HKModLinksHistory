@@ -3,23 +3,11 @@
 
 ## New mods
 
-### Elderbugnest
-
-- Description: Replaces a bunch of NPCs with the sweet old friend
-- Dependencies
-  + Satchel
-
 ### SaferWhitePalace
 
 - Description: Allows you to remove the dangers of White Palace
 - Dependencies
   + Satchel
-
-### UnrestrictedSteelSoul
-
-- Description: A Hollow Knight mod that enables permadeath in dream/godhome zones when playing in steel soul mode.
-- Tags
-  + Gameplay
 
 
 ## Updated mods
@@ -38,6 +26,10 @@
 ### Carefree Grimm
 
 - Version: 1.0.0.2 -> 1.0.1.0
+
+### DarknessRandomizer
+
+- Version: 1.4.7.0 -> 1.4.8.0
 
 ### Dead Cells Bosses
 
