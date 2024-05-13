@@ -1,0 +1,6 @@
+Ancient Aspid
+BingoGoalPack1
+BingoSyncExtension
+LockResolution
+MapSyncMod
+WeaverCore

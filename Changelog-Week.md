@@ -14,10 +14,7 @@
 
 ### AccessRandomizer
 
-- Version: 1.0.0.0 -> 1.1.0.0
-- Dependencies
-  + Removed
-    - ItemChangerDataLoader
+- Version: 1.0.0.1 -> 1.1.0.0
 
 ### CarThingMod
 
@@ -29,9 +26,13 @@
 
 ### DarknessRandomizer
 
-- Version: 1.4.7.0 -> 1.4.8.0
+- Version: 1.4.7.0 -> 1.4.8.1
 
 ### Dead Cells Bosses
 
 - Version: 1.1.0.2 -> 1.1.0.0
+
+### MoreDoors
+
+- Version: 3.0.4.0 -> 3.0.4.1
 

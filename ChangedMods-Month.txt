@@ -1,6 +1,4 @@
 Ancient Aspid
-WeaverCore
-Ancient Aspid
 Archipelago Map Mod
 ICPlandoTools
 Pale Court
@@ -48,3 +46,5 @@ Dead Cells Bosses
 Carefree Grimm
 SaferWhitePalace
 DarknessRandomizer
+DarknessRandomizer
+MoreDoors

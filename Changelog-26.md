@@ -3,9 +3,7 @@
 
 ## New mods
 
-### RecentItemsDisplayNoGrass
+### LockResolution
 
-- Description: RecentItemsDisplay GrassRando notDisplay Grass
-- Dependencies
-  + RecentItemsDisplay
+- Description: Lock Resolution On GamePlay
 

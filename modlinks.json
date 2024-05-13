@@ -1466,11 +1466,11 @@
   },
   "DarknessRandomizer": {
     "description": "A Rando 4 connection to randomize the dark corners of Hallownest.",
-    "version": "1.4.8.0",
+    "version": "1.4.8.1",
     "links": {
       "type": "universal",
-      "sha256": "4EF09E9AFEA6F7ADB9D3436FEBC3CF8E941C9B0E8D0C1EAA02F22235AF1525BE",
-      "url": "https://github.com/dplochcoder/HollowKnight.DarknessRandomizer/releases/download/v1.4.8.0/DarknessRandomizer.zip"
+      "sha256": "6974AAEDB4AFF5B2F3FF89ABBEF44731317145E75782845518A5D85DD3F23FBF",
+      "url": "https://github.com/dplochcoder/HollowKnight.DarknessRandomizer/releases/download/v1.4.8.1/DarknessRandomizer.zip"
     },
     "dependencies": [
       "ItemChanger",
@@ -4114,11 +4114,11 @@
   },
   "MoreDoors": {
     "description": "A Rando 4 connection which adds more locked doors to Hallownest.",
-    "version": "3.0.4.0",
+    "version": "3.0.4.1",
     "links": {
       "type": "universal",
-      "sha256": "E46ACD59EC0FF671C7F99566AA404CA4D9D780FC3A154CECD05B836D332518C0",
-      "url": "https://github.com/dplochcoder/HollowKnight.MoreDoors/releases/download/v3.0.4.0/MoreDoors.zip"
+      "sha256": "945EA865F25754C83D902240E36EAF023C5AD3346320DFFC5D6883543F26969C",
+      "url": "https://github.com/dplochcoder/HollowKnight.MoreDoors/releases/download/v3.0.4.1/MoreDoors.zip"
     },
     "dependencies": [
       "ItemChanger",

@@ -131,7 +131,7 @@
 
 ### Ancient Aspid
 
-- Version: 1.0.0.0 -> 1.0.0.8
+- Version: 1.0.0.3 -> 1.0.0.8
 
 ### Archipelago Map Mod
 
@@ -151,7 +151,7 @@
 
 ### DarknessRandomizer
 
-- Version: 1.4.7.0 -> 1.4.8.0
+- Version: 1.4.7.0 -> 1.4.8.1
 
 ### Dead Cells Bosses
 
@@ -165,6 +165,10 @@
     - ItemChangerDataLoader
   + Added
     - Satchel
+
+### MoreDoors
+
+- Version: 3.0.4.0 -> 3.0.4.1
 
 ### Nightmare and Void
 
@@ -195,7 +199,7 @@
 
 ### WeaverCore
 
-- Version: 2.2.0.0 -> 2.2.0.6
+- Version: 2.2.0.1 -> 2.2.0.6
 
 ### press g to dab
 
