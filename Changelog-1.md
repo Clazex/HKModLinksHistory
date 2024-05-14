@@ -3,11 +3,11 @@
 
 ## Updated mods
 
-### DarknessRandomizer
+### CustomBgm
 
-- Version: 1.4.8.0 -> 1.4.8.1
+- Version: 1.5.2.0 -> 1.5.3.1
 
-### MoreDoors
+### SFCore
 
-- Version: 3.0.4.0 -> 3.0.4.1
+- Version: 1.5.11.1 -> 1.5.11.2
 

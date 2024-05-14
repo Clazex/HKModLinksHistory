@@ -1,7 +1,8 @@
-CarThingMod
 AccessRandomizer
 Dead Cells Bosses
 Carefree Grimm
 DarknessRandomizer
 DarknessRandomizer
 MoreDoors
+CustomBgm
+SFCore

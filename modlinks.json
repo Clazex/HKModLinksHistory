@@ -1204,11 +1204,11 @@
   },
   "CustomBgm": {
     "description": "Allows customization of background music. See its readme for a how-to.",
-    "version": "1.5.2.0",
+    "version": "1.5.3.1",
     "links": {
       "type": "universal",
-      "sha256": "89E2FAE03D4E479EDCCD4596D7F7E1DEE0BAF9138811753CFC811D00949BC966",
-      "url": "https://github.com/SFGrenade/CustomBgm/releases/download/v1.5.2/CustomBgm.zip"
+      "sha256": "DB1146368FAC7954A703055B00930242FAE1391AAED1662FA417420D18CED0F5",
+      "url": "https://github.com/SFGrenade/CustomBgm/releases/download/v1.5.3.1/CustomBgm.zip"
     },
     "dependencies": [],
     "repository": "https://github.com/SFGrenade/CustomBgm/",
@@ -5422,11 +5422,11 @@
   },
   "SFCore": {
     "description": "Library mod used by other mods.",
-    "version": "1.5.11.1",
+    "version": "1.5.11.2",
     "links": {
       "type": "universal",
-      "sha256": "05786F9A78ADDD6F37EAFD31183C7CDB16090171CFF8764148A4D5CB1B03CB34",
-      "url": "https://github.com/SFGrenade/SFCore/releases/download/v1.5.11.1/SFCore.zip"
+      "sha256": "3B6FF93F435C054A94696D947EF8132A5263E6342F02871BA963822168618BD4",
+      "url": "https://github.com/SFGrenade/SFCore/releases/download/v1.5.11.2/SFCore.zip"
     },
     "dependencies": [],
     "repository": "https://github.com/SFGrenade/SFCore/",

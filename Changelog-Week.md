@@ -16,13 +16,13 @@
 
 - Version: 1.0.0.1 -> 1.1.0.0
 
-### CarThingMod
-
-- Version: 1.0.0.0 -> 1.1.1.1
-
 ### Carefree Grimm
 
 - Version: 1.0.0.2 -> 1.0.1.0
+
+### CustomBgm
+
+- Version: 1.5.2.0 -> 1.5.3.1
 
 ### DarknessRandomizer
 
@@ -35,4 +35,8 @@
 ### MoreDoors
 
 - Version: 3.0.4.0 -> 3.0.4.1
+
+### SFCore
+
+- Version: 1.5.11.1 -> 1.5.11.2
 

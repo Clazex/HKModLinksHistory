@@ -47,14 +47,6 @@
 - Tags
   + Gameplay
 
-### ICPlandoTools
-
-- Description: Adds assorted utilities for plando authors.
-- Dependencies
-  + ItemChanger
-- Tags
-  + Library
-
 ### LessHealing
 
 - Description: A Hollow Knight mod that adds toggleable options that remove various healing methods from the game.
@@ -122,20 +114,11 @@
   + Gameplay
 
 
-## Removed mods
-
-- Shuriken
-
-
 ## Updated mods
 
 ### Ancient Aspid
 
-- Version: 1.0.0.3 -> 1.0.0.8
-
-### Archipelago Map Mod
-
-- Version: 2.1.3.0 -> 2.2.0.0
+- Version: 1.0.0.4 -> 1.0.0.8
 
 ### CarThingMod
 
@@ -148,6 +131,10 @@
 ### Custom Knight
 
 - Version: 2.2.0.0 -> 3.0.1.0
+
+### CustomBgm
+
+- Version: 1.5.2.0 -> 1.5.3.1
 
 ### DarknessRandomizer
 
@@ -174,13 +161,13 @@
 
 - Version: 1.0.0.0 -> 1.0.0.1
 
-### Pale Court
-
-- Version: 1.0.1.0 -> 1.1.0.0
-
 ### RandoMapMod
 
 - Version: 3.5.4.0 -> 3.5.5.0
+
+### SFCore
+
+- Version: 1.5.11.1 -> 1.5.11.2
 
 ### Satchel
 
@@ -199,7 +186,7 @@
 
 ### WeaverCore
 
-- Version: 2.2.0.1 -> 2.2.0.6
+- Version: 2.2.0.2 -> 2.2.0.6
 
 ### press g to dab
 

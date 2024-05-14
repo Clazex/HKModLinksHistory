@@ -1,7 +1,3 @@
-Ancient Aspid
-Archipelago Map Mod
-Pale Court
-WeaverCore
 press g to dab
 Ancient Aspid
 LockResolution
@@ -33,3 +29,5 @@ Carefree Grimm
 DarknessRandomizer
 DarknessRandomizer
 MoreDoors
+CustomBgm
+SFCore

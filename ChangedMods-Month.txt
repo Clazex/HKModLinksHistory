@@ -1,8 +1,3 @@
-Ancient Aspid
-Archipelago Map Mod
-ICPlandoTools
-Pale Court
-WeaverCore
 RecentItemsDisplayNoGrass
 LockResolution
 MetalPipeHM
@@ -48,3 +43,5 @@ SaferWhitePalace
 DarknessRandomizer
 DarknessRandomizer
 MoreDoors
+CustomBgm
+SFCore
