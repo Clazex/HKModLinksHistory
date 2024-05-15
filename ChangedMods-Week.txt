@@ -1,5 +1,3 @@
-AccessRandomizer
-Dead Cells Bosses
 Carefree Grimm
 SaferWhitePalace
 DarknessRandomizer
@@ -7,3 +5,5 @@ DarknessRandomizer
 MoreDoors
 CustomBgm
 SFCore
+BingoGoalPack1
+BingoSyncExtension

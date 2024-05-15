@@ -27,6 +27,7 @@
 - Description: A library mod that provides an interface to add extra automarking logic to BingoSync
 - Dependencies
   + BingoSync
+  + MagicUI
 - Tags
   + Library
 
