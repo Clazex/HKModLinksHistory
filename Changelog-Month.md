@@ -15,6 +15,12 @@
 - Tags
   + Gameplay
 
+### BenchDeploy
+
+- Description: Deploy Multi Bench use controller/keyboard
+- Dependencies
+  + Benchwarp
+
 ### BingoGoalPack1
 
 - Description: Adds more goals to BingoSync and includes new board types
@@ -30,6 +36,14 @@
   + MagicUI
 - Tags
   + Library
+
+### BossSync
+
+- Description: An extension mod for ItemSync that allows for the synchronization of bosses!
+- Dependencies
+  + ItemSync
+  + MenuChanger
+  + Randomizer 4
 
 ### Elderbugnest
 
@@ -77,12 +91,6 @@
 - Dependencies
   + SFCore
   + Satchel
-
-### RecentItemsDisplayNoGrass
-
-- Description: RecentItemsDisplay GrassRando notDisplay Grass
-- Dependencies
-  + RecentItemsDisplay
 
 ### SaferWhitePalace
 
@@ -147,7 +155,7 @@
 
 ### GodhomeRandomizer
 
-- Version: 2.1.1.1 -> 2.1.3.0
+- Version: 2.1.1.1 -> 2.2.0.0
 - Dependencies
   + Removed
     - ItemChangerDataLoader

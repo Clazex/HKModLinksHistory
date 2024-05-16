@@ -1,4 +1,3 @@
-RecentItemsDisplayNoGrass
 LockResolution
 MetalPipeHM
 press g to dab
@@ -47,3 +46,7 @@ CustomBgm
 SFCore
 BingoGoalPack1
 BingoSyncExtension
+AccessRandomizer
+BenchDeploy
+BossSync
+GodhomeRandomizer
