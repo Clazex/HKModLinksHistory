@@ -1,17 +1,25 @@
 # Changelog
 
 
-## Updated mods
+## New mods
 
-### Ancient Aspid
+### HallOfGodsRandomizer
 
-- Version: 1.0.0.6 -> 1.0.0.7
+- Description: DEPRECATED - A randomizer add-on for Hall of Gods bosses.
+- Dependencies
+  + ItemChanger
+  + ItemChangerDataLoader
+  + KorzUtils
+  + MenuChanger
+  + Randomizer 4
+- Tags
+  + Gameplay
 
-### SpicyRando
+### LessHealing
 
-- Version: 1.2.1.1 -> 1.2.2.0
-
-### WeaverCore
-
-- Version: 2.2.0.4 -> 2.2.0.5
+- Description: A Hollow Knight mod that adds toggleable options that remove various healing methods from the game.
+- Dependencies
+  + SFCore
+- Tags
+  + Gameplay
 

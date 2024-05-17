@@ -70,10 +70,6 @@
 - Tags
   + Gameplay
 
-### LockResolution
-
-- Description: Lock Resolution On GamePlay. VSync On LostFocus
-
 ### MapSyncMod
 
 - Description: Sync Map and Bench on ItemSyncMOD
@@ -129,6 +125,10 @@
 
 - Version: 1.0.0.4 -> 1.0.0.8
 
+### Bomber Knight
+
+- Version: 1.2.2.0 -> 1.2.3.0
+
 ### CarThingMod
 
 - Version: 1.0.0.0 -> 1.1.1.1
@@ -161,6 +161,24 @@
     - ItemChangerDataLoader
   + Added
     - Satchel
+
+### LockResolution
+
+- Version: 1.1.0.0 -> 1.2.0.0
+- Description
+  + Old: Lock Resolution On GamePlay
+  + New: Lock Resolution On GamePlay. VSync On LostFocus
+
+### Lore Randomizer
+
+- Version: 0.3.0.0 -> 0.3.0.1
+
+### Lost Artifacts
+
+- Version: 1.1.1.0 -> 1.1.1.1
+- Integrations
+  + Added
+    - RandoSettingsManager
 
 ### MoreDoors
 

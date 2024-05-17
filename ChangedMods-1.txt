@@ -1,4 +1,4 @@
 AccessRandomizer
-BenchDeploy
-BossSync
-GodhomeRandomizer
+Bomber Knight
+Lore Randomizer
+Lost Artifacts

@@ -7,3 +7,7 @@ BingoGoalPack1
 BingoSyncExtension
 AccessRandomizer
 GodhomeRandomizer
+AccessRandomizer
+Bomber Knight
+Lore Randomizer
+Lost Artifacts

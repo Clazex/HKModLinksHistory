@@ -589,9 +589,9 @@ All with an incredible new soundtrack!</Description>
     <Manifest>
         <Name>Lost Artifacts</Name>
         <Description>A mod that adds powerful artifacts scattered all across Hallownest that can be equipped to the nail! Compatible with Randomizer 4.</Description>
-        <Version>1.1.1.0</Version>
-        <Link SHA256="737AA541F50AD457E760115D520853EBBB6D7C921677F3873EB73093B340135C">
-            <![CDATA[https://github.com/Hoo-Knows/HollowKnight.LostArtifacts/releases/download/v1.1.1.0/LostArtifacts.zip]]>
+        <Version>1.1.1.1</Version>
+        <Link SHA256="3CD429C4B94BE6F0C4AB549C8D97DAFD8BC51B8575C72090A635675596B779F5">
+            <![CDATA[https://github.com/Hoo-Knows/HollowKnight.LostArtifacts/releases/download/v1.1.1.1/LostArtifacts.zip]]>
         </Link>
         <Dependencies>
             <Dependency>SFCore</Dependency>
@@ -604,6 +604,7 @@ All with an incredible new soundtrack!</Description>
         <Integrations>
             <Integration>Randomizer 4</Integration>
             <Integration>DebugMod</Integration>
+	    <Integration>RandoSettingsManager</Integration>
         </Integrations>
         <Tags>
             <Tag>Gameplay</Tag>
@@ -5193,9 +5194,9 @@ This is a singleplayer mod. The "teamwork" refers to in-game events.</Descriptio
     <Manifest>
         <Name>Bomber Knight</Name>
         <Description>Adds a bomb ability, along a few new charms and custom "bosses".</Description>
-        <Version>1.2.2.0</Version>
-        <Link SHA256="cb2fbeb280b786b7a689155391652023f70529d82c26e2a52ade54a8e29eb14d">
-            <![CDATA[https://github.com/Korzer420/BomberKnight/releases/download/v1.2.2/BomberKnight.zip]]></Link>
+        <Version>1.2.3.0</Version>
+        <Link SHA256="bf27d3d82495bdaa24ddffe782c7aae283bfc0f65b1348c749905fd76146dd14">
+            <![CDATA[https://github.com/Korzer420/BomberKnight/releases/download/v1.2.3/BomberKnight.zip]]></Link>
         <Dependencies>
             <Dependency>ItemChanger</Dependency>
             <Dependency>SFCore</Dependency>
@@ -5252,9 +5253,9 @@ This is a singleplayer mod. The "teamwork" refers to in-game events.</Descriptio
     <Manifest>
         <Name>Lore Randomizer</Name>
         <Description>Randomizer 4 connection that adds a bunch of lore related items and locations.</Description>
-        <Version>0.3.0.0</Version>
-        <Link SHA256="c5b820ae122a5e235466c72e89d719562a602ab556310e6b41c2b60488c85287">
-            <![CDATA[https://github.com/Korzer420/LoreRandomizer/releases/download/v0.3.0/LoreRandomizer.zip]]></Link>
+        <Version>0.3.0.1</Version>
+        <Link SHA256="25f15cd2849c6820f7174cf235f144c486e98ce8cc76cbffd4fbc44bb0ecdf1d">
+            <![CDATA[https://github.com/Korzer420/LoreRandomizer/releases/download/v0.3.1/LoreRandomizer.zip]]></Link>
         <Dependencies>
             <Dependency>Randomizer 4</Dependency>
             <Dependency>LoreCore</Dependency>
@@ -6815,9 +6816,9 @@ This is a singleplayer mod. The "teamwork" refers to in-game events.</Descriptio
     <Manifest>
     	<Name>AccessRandomizer</Name>
     	<Description>A randomizer add-on for miscellaneous access checks.</Description>
-    	<Version>1.2.0.0</Version>
-    	<Link SHA256="5319703d3684d782ad4d404650e30fbb7b941bef1c1c5a4d7417d26198237b25">
-	    <![CDATA[https://github.com/nerthul11/AccessRandomizer/releases/download/1.2.0.0/AccessRandomizer.zip]]>
+    	<Version>1.2.0.1</Version>
+    	<Link SHA256="9d8b5634d206e826dd27d0d07f008556633c518e99b36e3077f62bb4560a627a">
+	    <![CDATA[https://github.com/nerthul11/AccessRandomizer/releases/download/1.2.0.1/AccessRandomizer.zip]]>
 	</Link>
 	<Dependencies>
 		<Dependency>ItemChanger</Dependency>

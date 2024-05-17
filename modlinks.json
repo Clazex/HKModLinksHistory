@@ -73,11 +73,11 @@
   },
   "AccessRandomizer": {
     "description": "A randomizer add-on for miscellaneous access checks.",
-    "version": "1.2.0.0",
+    "version": "1.2.0.1",
     "links": {
       "type": "universal",
-      "sha256": "5319703D3684D782AD4D404650E30FBB7B941BEF1C1C5A4D7417D26198237B25",
-      "url": "https://github.com/nerthul11/AccessRandomizer/releases/download/1.2.0.0/AccessRandomizer.zip"
+      "sha256": "9D8B5634D206E826DD27D0D07F008556633C518E99B36E3077F62BB4560A627A",
+      "url": "https://github.com/nerthul11/AccessRandomizer/releases/download/1.2.0.1/AccessRandomizer.zip"
     },
     "dependencies": [
       "ItemChanger",
@@ -609,11 +609,11 @@
   },
   "Bomber Knight": {
     "description": "Adds a bomb ability, along a few new charms and custom \"bosses\".",
-    "version": "1.2.2.0",
+    "version": "1.2.3.0",
     "links": {
       "type": "universal",
-      "sha256": "CB2FBEB280B786B7A689155391652023F70529D82C26E2A52ADE54A8E29EB14D",
-      "url": "https://github.com/Korzer420/BomberKnight/releases/download/v1.2.2/BomberKnight.zip"
+      "sha256": "BF27D3D82495BDAA24DDFFE782C7AAE283BFC0F65B1348C749905FD76146DD14",
+      "url": "https://github.com/Korzer420/BomberKnight/releases/download/v1.2.3/BomberKnight.zip"
     },
     "dependencies": [
       "ItemChanger",
@@ -3752,11 +3752,11 @@
   },
   "Lore Randomizer": {
     "description": "Randomizer 4 connection that adds a bunch of lore related items and locations.",
-    "version": "0.3.0.0",
+    "version": "0.3.0.1",
     "links": {
       "type": "universal",
-      "sha256": "C5B820AE122A5E235466C72E89D719562A602AB556310E6B41C2B60488C85287",
-      "url": "https://github.com/Korzer420/LoreRandomizer/releases/download/v0.3.0/LoreRandomizer.zip"
+      "sha256": "25F15CD2849C6820F7174CF235F144C486E98CE8CC76CBFFD4FBC44BB0ECDF1D",
+      "url": "https://github.com/Korzer420/LoreRandomizer/releases/download/v0.3.1/LoreRandomizer.zip"
     },
     "dependencies": [
       "LoreCore",
@@ -3792,11 +3792,11 @@
   },
   "Lost Artifacts": {
     "description": "A mod that adds powerful artifacts scattered all across Hallownest that can be equipped to the nail! Compatible with Randomizer 4.",
-    "version": "1.1.1.0",
+    "version": "1.1.1.1",
     "links": {
       "type": "universal",
-      "sha256": "737AA541F50AD457E760115D520853EBBB6D7C921677F3873EB73093B340135C",
-      "url": "https://github.com/Hoo-Knows/HollowKnight.LostArtifacts/releases/download/v1.1.1.0/LostArtifacts.zip"
+      "sha256": "3CD429C4B94BE6F0C4AB549C8D97DAFD8BC51B8575C72090A635675596B779F5",
+      "url": "https://github.com/Hoo-Knows/HollowKnight.LostArtifacts/releases/download/v1.1.1.1/LostArtifacts.zip"
     },
     "dependencies": [
       "ItemChanger",
@@ -3806,6 +3806,7 @@
     "repository": "https://github.com/Hoo-Knows/HollowKnight.LostArtifacts",
     "integrations": [
       "DebugMod",
+      "RandoSettingsManager",
       "Randomizer 4"
     ],
     "tags": [

@@ -1,4 +1,3 @@
-LockResolution
 MetalPipeHM
 press g to dab
 Ancient Aspid
@@ -50,3 +49,7 @@ AccessRandomizer
 BenchDeploy
 BossSync
 GodhomeRandomizer
+AccessRandomizer
+Bomber Knight
+Lore Randomizer
+Lost Artifacts

@@ -9,3 +9,7 @@ AccessRandomizer
 BenchDeploy
 BossSync
 GodhomeRandomizer
+AccessRandomizer
+Bomber Knight
+Lore Randomizer
+Lost Artifacts
