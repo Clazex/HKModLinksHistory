@@ -1,4 +1,3 @@
-MetalPipeHM
 BingoGoalPack1
 BingoSyncExtension
 MapSyncMod

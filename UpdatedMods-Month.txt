@@ -1,4 +1,3 @@
-press g to dab
 Ancient Aspid
 LockResolution
 WeaverCore
@@ -39,3 +38,5 @@ AccessRandomizer
 Bomber Knight
 Lore Randomizer
 Lost Artifacts
+AccessRandomizer
+GodhomeRandomizer

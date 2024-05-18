@@ -22,7 +22,7 @@
 
 ### AccessRandomizer
 
-- Version: 1.1.0.0 -> 1.2.0.1
+- Version: 1.1.0.0 -> 1.2.0.2
 
 ### BingoGoalPack1
 
@@ -45,11 +45,11 @@
 
 ### DarknessRandomizer
 
-- Version: 1.4.7.0 -> 1.4.8.1
+- Version: 1.4.8.0 -> 1.4.8.1
 
 ### GodhomeRandomizer
 
-- Version: 2.1.3.0 -> 2.2.0.0
+- Version: 2.1.3.0 -> 2.2.1.0
 
 ### Lore Randomizer
 

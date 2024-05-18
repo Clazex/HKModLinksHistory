@@ -73,11 +73,11 @@
   },
   "AccessRandomizer": {
     "description": "A randomizer add-on for miscellaneous access checks.",
-    "version": "1.2.0.1",
+    "version": "1.2.0.2",
     "links": {
       "type": "universal",
-      "sha256": "9D8B5634D206E826DD27D0D07F008556633C518E99B36E3077F62BB4560A627A",
-      "url": "https://github.com/nerthul11/AccessRandomizer/releases/download/1.2.0.1/AccessRandomizer.zip"
+      "sha256": "B6B61547C761355CA36D4B784FE51F5758EC1472270064A1F2A6159C8F2F426C",
+      "url": "https://github.com/nerthul11/AccessRandomizer/releases/download/1.2.0.2/AccessRandomizer.zip"
     },
     "dependencies": [
       "ItemChanger",
@@ -2572,11 +2572,11 @@
   },
   "GodhomeRandomizer": {
     "description": "A Randomizer add-on for Godhome elements.",
-    "version": "2.2.0.0",
+    "version": "2.2.1.0",
     "links": {
       "type": "universal",
-      "sha256": "DAC939294A6F8AA21CEA0DEF9CE0AD2A412498569CCA56059ED9508AF29E2F8C",
-      "url": "https://github.com/nerthul11/GodhomeRandomizer/releases/download/2.2.0.0/GodhomeRandomizer.zip"
+      "sha256": "3ACB3055098D1748CFB979E3ACAA2BD1E3952373ADBEC68A46303E5998EFBCEF",
+      "url": "https://github.com/nerthul11/GodhomeRandomizer/releases/download/2.2.1.0/GodhomeRandomizer.zip"
     },
     "dependencies": [
       "ItemChanger",

@@ -1,5 +1,4 @@
 DarknessRandomizer
-DarknessRandomizer
 MoreDoors
 CustomBgm
 SFCore
@@ -13,3 +12,5 @@ AccessRandomizer
 Bomber Knight
 Lore Randomizer
 Lost Artifacts
+AccessRandomizer
+GodhomeRandomizer

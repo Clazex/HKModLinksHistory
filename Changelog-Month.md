@@ -81,13 +81,6 @@
   + RandoMapMod
   + RecentItemsDisplay
 
-### MetalPipeHM
-
-- Description: A hollow knight mod that plays the metal pipe falling sound whenever the knight swings their nail.
-- Dependencies
-  + SFCore
-  + Satchel
-
 ### SaferWhitePalace
 
 - Description: Allows you to remove the dangers of White Palace
@@ -155,7 +148,7 @@
 
 ### GodhomeRandomizer
 
-- Version: 2.1.1.1 -> 2.2.0.0
+- Version: 2.1.1.1 -> 2.2.1.0
 - Dependencies
   + Removed
     - ItemChangerDataLoader
@@ -214,11 +207,4 @@
 ### WeaverCore
 
 - Version: 2.2.0.2 -> 2.2.0.6
-
-### press g to dab
-
-- Version: 1.0.0.0 -> 1.2.0.0
-- Integrations
-  + Added
-    - Custom Knight
 
