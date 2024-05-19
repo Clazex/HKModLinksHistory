@@ -53,3 +53,4 @@ Lore Randomizer
 Lost Artifacts
 AccessRandomizer
 GodhomeRandomizer
+MapSyncMod

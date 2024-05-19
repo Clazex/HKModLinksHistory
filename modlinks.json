@@ -3913,12 +3913,12 @@
     ]
   },
   "MapSyncMod": {
-    "description": "Sync Map and Bench on ItemSyncMOD",
-    "version": "1.0.0.0",
+    "description": "Sync Map Bench battle boss lever wall Floor door and other on ItemSyncMOD",
+    "version": "1.2.0.0",
     "links": {
       "type": "universal",
-      "sha256": "224FB62A39A183ADF9BC07783FAEF956C570F3B4598ADABF387D39981FC5D745",
-      "url": "https://github.com/wdghzym/HollowKnight.MapSyncMod/releases/download/v1.0/MapSyncMod.v1.0.zip"
+      "sha256": "FD0BA202F638942EC39B0C08E419BD3E948895299018B5A74D216454CDDB5B2A",
+      "url": "https://github.com/wdghzym/HollowKnight.MapSyncMod/releases/download/v1.2/MapSyncMod.v.1.2.zip"
     },
     "dependencies": [
       "Benchwarp",

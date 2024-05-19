@@ -72,7 +72,7 @@
 
 ### MapSyncMod
 
-- Description: Sync Map and Bench on ItemSyncMOD
+- Description: Sync Map Bench battle boss lever wall Floor door and other on ItemSyncMOD
 - Dependencies
   + Benchwarp
   + ItemSync

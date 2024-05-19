@@ -43,10 +43,6 @@
 
 - Version: 1.5.2.0 -> 1.5.3.1
 
-### DarknessRandomizer
-
-- Version: 1.4.8.0 -> 1.4.8.1
-
 ### GodhomeRandomizer
 
 - Version: 2.1.3.0 -> 2.2.1.0
@@ -62,9 +58,12 @@
   + Added
     - RandoSettingsManager
 
-### MoreDoors
+### MapSyncMod
 
-- Version: 3.0.4.0 -> 3.0.4.1
+- Version: 1.0.0.0 -> 1.2.0.0
+- Description
+  + Old: Sync Map and Bench on ItemSyncMOD
+  + New: Sync Map Bench battle boss lever wall Floor door and other on ItemSyncMOD
 
 ### SFCore
 

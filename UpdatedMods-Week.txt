@@ -1,5 +1,3 @@
-DarknessRandomizer
-MoreDoors
 CustomBgm
 SFCore
 BingoGoalPack1
@@ -12,3 +10,4 @@ Lore Randomizer
 Lost Artifacts
 AccessRandomizer
 GodhomeRandomizer
+MapSyncMod
