@@ -3,11 +3,14 @@
 
 ## Updated mods
 
-### CustomBgm
+### BingoGoalPack1
 
-- Version: 1.5.2.0 -> 1.5.3.1
+- Version: 1.0.0.4 -> 1.2.1.0
 
-### SFCore
+### BingoSyncExtension
 
-- Version: 1.5.11.1 -> 1.5.11.2
+- Version: 1.0.0.0 -> 1.1.0.0
+- Dependencies
+  + Added
+    - MagicUI
 

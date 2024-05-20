@@ -1,17 +1,12 @@
 # Changelog
 
 
-## New mods
+## Updated mods
 
-### Elderbugnest
+### AccessRandomizer
 
-- Description: Replaces a bunch of NPCs with the sweet old friend
+- Version: 1.0.0.0 -> 1.0.0.1
 - Dependencies
-  + Satchel
-
-### UnrestrictedSteelSoul
-
-- Description: A Hollow Knight mod that enables permadeath in dream/godhome zones when playing in steel soul mode.
-- Tags
-  + Gameplay
+  + Removed
+    - ItemChangerDataLoader
 

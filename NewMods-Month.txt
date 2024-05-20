@@ -1,6 +1,3 @@
-BingoGoalPack1
-BingoSyncExtension
-MapSyncMod
 TheHuntIsOn
 Soul Sovereign
 HallOfGodsRandomizer

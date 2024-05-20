@@ -21,22 +21,6 @@
 - Dependencies
   + Benchwarp
 
-### BingoGoalPack1
-
-- Description: Adds more goals to BingoSync and includes new board types
-- Dependencies
-  + BingoSyncExtension
-  + Satchel
-
-### BingoSyncExtension
-
-- Description: A library mod that provides an interface to add extra automarking logic to BingoSync
-- Dependencies
-  + BingoSync
-  + MagicUI
-- Tags
-  + Library
-
 ### BossSync
 
 - Description: An extension mod for ItemSync that allows for the synchronization of bosses!
@@ -69,17 +53,6 @@
   + SFCore
 - Tags
   + Gameplay
-
-### MapSyncMod
-
-- Description: Sync Map Bench battle boss lever wall Floor door and other on ItemSyncMOD
-- Dependencies
-  + Benchwarp
-  + ItemSync
-  + MapChanger
-- Integrations
-  + RandoMapMod
-  + RecentItemsDisplay
 
 ### SaferWhitePalace
 
@@ -116,7 +89,18 @@
 
 ### Ancient Aspid
 
-- Version: 1.0.0.4 -> 1.0.0.8
+- Version: 1.0.0.5 -> 1.0.0.8
+
+### BingoGoalPack1
+
+- Version: 1.0.0.1 -> 1.2.1.0
+
+### BingoSyncExtension
+
+- Version: 1.0.0.0 -> 1.1.0.0
+- Dependencies
+  + Added
+    - MagicUI
 
 ### Bomber Knight
 
@@ -155,13 +139,6 @@
   + Added
     - Satchel
 
-### LockResolution
-
-- Version: 1.1.0.0 -> 1.2.0.0
-- Description
-  + Old: Lock Resolution On GamePlay
-  + New: Lock Resolution On GamePlay. VSync On LostFocus
-
 ### Lore Randomizer
 
 - Version: 0.3.0.0 -> 0.3.0.1
@@ -172,6 +149,17 @@
 - Integrations
   + Added
     - RandoSettingsManager
+
+### MapChanger
+
+- Version: 1.2.0.0 -> 1.2.1.0
+
+### MapSyncMod
+
+- Version: 1.0.0.0 -> 1.2.0.0
+- Description
+  + Old: Sync Map and Bench on ItemSyncMOD
+  + New: Sync Map Bench battle boss lever wall Floor door and other on ItemSyncMOD
 
 ### MoreDoors
 
@@ -206,5 +194,5 @@
 
 ### WeaverCore
 
-- Version: 2.2.0.2 -> 2.2.0.6
+- Version: 2.2.0.3 -> 2.2.0.6
 

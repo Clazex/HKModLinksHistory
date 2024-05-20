@@ -1,10 +1,4 @@
 Ancient Aspid
-BingoGoalPack1
-BingoSyncExtension
-LockResolution
-MapSyncMod
-WeaverCore
-Ancient Aspid
 RandoMapMod
 TheHuntIsOn
 WeaverCore
@@ -54,3 +48,4 @@ Lost Artifacts
 AccessRandomizer
 GodhomeRandomizer
 MapSyncMod
+MapChanger

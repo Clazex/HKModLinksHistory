@@ -1,5 +1,3 @@
-CustomBgm
-SFCore
 BingoGoalPack1
 BingoSyncExtension
 AccessRandomizer
@@ -11,3 +9,4 @@ Lost Artifacts
 AccessRandomizer
 GodhomeRandomizer
 MapSyncMod
+MapChanger
