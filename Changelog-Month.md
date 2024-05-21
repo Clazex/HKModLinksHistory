@@ -68,16 +68,6 @@
 - Tags
   + Boss
 
-### TheHuntIsOn
-
-- Description: A mod for manhunting. Provides modules to change how the game affects hunter and speedrunner.
-- Dependencies
-  + HKMP
-  + KorzUtils
-  + Satchel
-- Tags
-  + Gameplay
-
 ### UnrestrictedSteelSoul
 
 - Description: A Hollow Knight mod that enables permadeath in dream/godhome zones when playing in steel soul mode.
@@ -89,7 +79,7 @@
 
 ### Ancient Aspid
 
-- Version: 1.0.0.5 -> 1.0.0.8
+- Version: 1.0.0.6 -> 1.0.0.8
 
 ### BingoGoalPack1
 
@@ -169,10 +159,6 @@
 
 - Version: 1.0.0.0 -> 1.0.0.1
 
-### RandoMapMod
-
-- Version: 3.5.4.0 -> 3.5.5.0
-
 ### SFCore
 
 - Version: 1.5.11.1 -> 1.5.11.2
@@ -194,5 +180,5 @@
 
 ### WeaverCore
 
-- Version: 2.2.0.3 -> 2.2.0.6
+- Version: 2.2.0.4 -> 2.2.0.6
 
