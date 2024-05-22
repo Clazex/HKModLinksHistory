@@ -83,7 +83,7 @@
 
 ### BingoGoalPack1
 
-- Version: 1.0.0.1 -> 1.2.1.0
+- Version: 1.0.0.4 -> 1.2.1.0
 
 ### BingoSyncExtension
 
@@ -172,7 +172,7 @@
 
 ### SpicyRando
 
-- Version: 1.1.1.0 -> 1.2.2.0
+- Version: 1.2.1.0 -> 1.2.2.0
 
 ### TheRealJournalRando
 
