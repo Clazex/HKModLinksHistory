@@ -1,6 +1,3 @@
-GodhomeRandomizer
-Nightmare and Void
-Soul Sovereign
 SpicyRando
 TheRealJournalRando
 Custom Knight
@@ -42,3 +39,6 @@ AccessRandomizer
 GodhomeRandomizer
 MapSyncMod
 MapChanger
+AccessRandomizer
+BenchDeploy
+GodhomeRandomizer

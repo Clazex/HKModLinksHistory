@@ -1,4 +1,5 @@
-AccessRandomizer
-GodhomeRandomizer
 MapSyncMod
 MapChanger
+AccessRandomizer
+BenchDeploy
+GodhomeRandomizer

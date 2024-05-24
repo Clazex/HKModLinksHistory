@@ -73,11 +73,11 @@
   },
   "AccessRandomizer": {
     "description": "A randomizer add-on for miscellaneous access checks.",
-    "version": "1.2.0.2",
+    "version": "1.2.0.3",
     "links": {
       "type": "universal",
-      "sha256": "B6B61547C761355CA36D4B784FE51F5758EC1472270064A1F2A6159C8F2F426C",
-      "url": "https://github.com/nerthul11/AccessRandomizer/releases/download/1.2.0.2/AccessRandomizer.zip"
+      "sha256": "F160F0E2C9FC519D4C0C58D1B42EBDA4FD6521BBCC513A3D048880372860F794",
+      "url": "https://github.com/nerthul11/AccessRandomizer/releases/download/1.2.0.3/AccessRandomizer.zip"
     },
     "dependencies": [
       "ItemChanger",
@@ -396,14 +396,15 @@
   },
   "BenchDeploy": {
     "description": "Deploy Multi Bench use controller/keyboard",
-    "version": "1.1.0.0",
+    "version": "1.2.1.0",
     "links": {
       "type": "universal",
-      "sha256": "10369494FC281375D23EF5F7C23E2EA2629F5C7AAE6BE5BEE3259EA3D829D362",
-      "url": "https://github.com/wdghzym/HollowKnight.BenchDeploy/releases/download/v1.1/BenchDeploy.v1.1.zip"
+      "sha256": "385B9E6597C662273FE96D0D61DA84645E3F98CE5FA85AB5DC0DCFDE8EC7E24C",
+      "url": "https://github.com/wdghzym/HollowKnight.BenchDeploy/releases/download/v1.2.1.0/BenchDeploy.V1.2.1.0.zip"
     },
     "dependencies": [
-      "Benchwarp"
+      "Benchwarp",
+      "MagicUI"
     ],
     "repository": "https://github.com/wdghzym/HollowKnight.BenchDeploy",
     "authors": [
@@ -2572,11 +2573,11 @@
   },
   "GodhomeRandomizer": {
     "description": "A Randomizer add-on for Godhome elements.",
-    "version": "2.2.1.0",
+    "version": "2.2.2.0",
     "links": {
       "type": "universal",
-      "sha256": "3ACB3055098D1748CFB979E3ACAA2BD1E3952373ADBEC68A46303E5998EFBCEF",
-      "url": "https://github.com/nerthul11/GodhomeRandomizer/releases/download/2.2.1.0/GodhomeRandomizer.zip"
+      "sha256": "E44758870261B3AD0FF7C498578267DA808EA0995BFB1398FDBA219B218AD7CF",
+      "url": "https://github.com/nerthul11/GodhomeRandomizer/releases/download/2.2.2.0/GodhomeRandomizer.zip"
     },
     "dependencies": [
       "ItemChanger",

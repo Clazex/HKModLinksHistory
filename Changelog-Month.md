@@ -20,6 +20,7 @@
 - Description: Deploy Multi Bench use controller/keyboard
 - Dependencies
   + Benchwarp
+  + MagicUI
 
 ### BossSync
 
@@ -59,14 +60,6 @@
 - Description: Allows you to remove the dangers of White Palace
 - Dependencies
   + Satchel
-
-### Soul Sovereign
-
-- Description: Provides a rework to the Soul Tyrant fight to make it more challenging.
-- Dependencies
-  + Vasi
-- Tags
-  + Boss
 
 ### UnrestrictedSteelSoul
 
@@ -122,7 +115,7 @@
 
 ### GodhomeRandomizer
 
-- Version: 2.1.2.0 -> 2.2.1.0
+- Version: 2.1.2.1 -> 2.2.2.0
 - Dependencies
   + Removed
     - ItemChangerDataLoader
@@ -152,10 +145,6 @@
 ### MoreDoors
 
 - Version: 3.0.4.0 -> 3.0.4.1
-
-### Nightmare and Void
-
-- Version: 1.0.0.0 -> 1.0.0.1
 
 ### SFCore
 
