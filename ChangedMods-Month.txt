@@ -1,6 +1,4 @@
 Custom Knight
-Satchel
-Custom Knight
 Ancient Aspid
 SpicyRando
 WeaverCore
@@ -40,3 +38,6 @@ MapChanger
 AccessRandomizer
 BenchDeploy
 GodhomeRandomizer
+Ancient Aspid
+Archipelago
+WeaverCore

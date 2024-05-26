@@ -1,4 +1,6 @@
-MapChanger
 AccessRandomizer
 BenchDeploy
 GodhomeRandomizer
+Ancient Aspid
+Archipelago
+WeaverCore
