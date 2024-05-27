@@ -73,11 +73,11 @@
   },
   "AccessRandomizer": {
     "description": "A randomizer add-on for miscellaneous access checks.",
-    "version": "1.2.0.3",
+    "version": "1.2.1.0",
     "links": {
       "type": "universal",
-      "sha256": "F160F0E2C9FC519D4C0C58D1B42EBDA4FD6521BBCC513A3D048880372860F794",
-      "url": "https://github.com/nerthul11/AccessRandomizer/releases/download/1.2.0.3/AccessRandomizer.zip"
+      "sha256": "C843CDDE27465ED9ECC61A1B5DA9CB54032598E448E981772FCC00CD677CA076",
+      "url": "https://github.com/nerthul11/AccessRandomizer/releases/download/1.2.1.0/AccessRandomizer.zip"
     },
     "dependencies": [
       "ItemChanger",
@@ -3924,12 +3924,12 @@
     "dependencies": [
       "Benchwarp",
       "ItemSync",
-      "MapChanger"
+      "MapChanger",
+      "RecentItemsDisplay"
     ],
     "repository": "https://github.com/wdghzym/HollowKnight.MapSyncMod",
     "integrations": [
-      "RandoMapMod",
-      "RecentItemsDisplay"
+      "RandoMapMod"
     ],
     "authors": [
       "wdghzym"

@@ -1,4 +1,3 @@
-Custom Knight
 Ancient Aspid
 SpicyRando
 WeaverCore
@@ -41,3 +40,4 @@ GodhomeRandomizer
 Ancient Aspid
 Archipelago
 WeaverCore
+AccessRandomizer

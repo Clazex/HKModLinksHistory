@@ -4,3 +4,4 @@ GodhomeRandomizer
 Ancient Aspid
 Archipelago
 WeaverCore
+AccessRandomizer

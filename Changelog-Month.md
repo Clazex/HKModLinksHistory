@@ -101,10 +101,6 @@
 
 - Version: 1.0.0.2 -> 1.0.1.0
 
-### Custom Knight
-
-- Version: 3.0.0.0 -> 3.0.1.0
-
 ### CustomBgm
 
 - Version: 1.5.2.0 -> 1.5.3.1
@@ -145,6 +141,12 @@
 - Description
   + Old: Sync Map and Bench on ItemSyncMOD
   + New: Sync Map Bench battle boss lever wall Floor door and other on ItemSyncMOD
+- Dependencies
+  + Added
+    - RecentItemsDisplay
+- Integrations
+  + Removed
+    - RecentItemsDisplay
 
 ### MoreDoors
 
