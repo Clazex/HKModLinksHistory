@@ -1,6 +1,3 @@
-Ancient Aspid
-SpicyRando
-WeaverCore
 HallOfGodsRandomizer
 LessHealing
 GodhomeRandomizer
@@ -41,3 +38,4 @@ Ancient Aspid
 Archipelago
 WeaverCore
 AccessRandomizer
+MapSyncMod

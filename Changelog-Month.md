@@ -72,7 +72,7 @@
 
 ### Ancient Aspid
 
-- Version: 1.0.0.6 -> 1.0.0.9
+- Version: 1.0.0.7 -> 1.0.0.9
 
 ### Archipelago
 
@@ -137,16 +137,10 @@
 
 ### MapSyncMod
 
-- Version: 1.0.0.0 -> 1.2.0.0
+- Version: 1.0.0.0 -> 1.2.2.0
 - Description
   + Old: Sync Map and Bench on ItemSyncMOD
   + New: Sync Map Bench battle boss lever wall Floor door and other on ItemSyncMOD
-- Dependencies
-  + Added
-    - RecentItemsDisplay
-- Integrations
-  + Removed
-    - RecentItemsDisplay
 
 ### MoreDoors
 
@@ -156,11 +150,7 @@
 
 - Version: 1.5.11.1 -> 1.5.11.2
 
-### SpicyRando
-
-- Version: 1.2.1.1 -> 1.2.2.0
-
 ### WeaverCore
 
-- Version: 2.2.0.4 -> 2.2.0.7
+- Version: 2.2.0.5 -> 2.2.0.7
 

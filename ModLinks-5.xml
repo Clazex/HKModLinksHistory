@@ -6639,9 +6639,9 @@ This is a singleplayer mod. The "teamwork" refers to in-game events.</Descriptio
     <Manifest>
     	<Name>GodhomeRandomizer</Name>
     	<Description>A Randomizer add-on for Godhome elements.</Description>
-    	<Version>2.2.1.0</Version>
-    	<Link SHA256="3acb3055098d1748cfb979e3acaa2bd1e3952373adbec68a46303e5998efbcef">
-	    <![CDATA[https://github.com/nerthul11/GodhomeRandomizer/releases/download/2.2.1.0/GodhomeRandomizer.zip]]>
+    	<Version>2.2.2.0</Version>
+    	<Link SHA256="e44758870261b3ad0ff7c498578267da808ea0995bfb1398fdba219b218ad7cf">
+	    <![CDATA[https://github.com/nerthul11/GodhomeRandomizer/releases/download/2.2.2.0/GodhomeRandomizer.zip]]>
 	</Link>
 	<Dependencies>
 		<Dependency>ItemChanger</Dependency>
@@ -6742,12 +6742,13 @@ This is a singleplayer mod. The "teamwork" refers to in-game events.</Descriptio
     <Manifest>
         <Name>BenchDeploy</Name>
         <Description>Deploy Multi Bench use controller/keyboard</Description>
-        <Version>1.1.0.0</Version>
-        <Link SHA256="10369494FC281375D23EF5F7C23E2EA2629F5C7AAE6BE5BEE3259EA3D829D362">
-            <![CDATA[https://github.com/wdghzym/HollowKnight.BenchDeploy/releases/download/v1.1/BenchDeploy.v1.1.zip]]>
+        <Version>1.2.1.0</Version>
+        <Link SHA256="385B9E6597C662273FE96D0D61DA84645E3F98CE5FA85AB5DC0DCFDE8EC7E24C">
+            <![CDATA[https://github.com/wdghzym/HollowKnight.BenchDeploy/releases/download/v1.2.1.0/BenchDeploy.V1.2.1.0.zip]]>
         </Link>
 	<Dependencies>
             <Dependency>Benchwarp</Dependency>
+            <Dependency>MagicUI</Dependency>
         </Dependencies>
         <Repository>
             <![CDATA[https://github.com/wdghzym/HollowKnight.BenchDeploy]]>
@@ -6816,9 +6817,9 @@ This is a singleplayer mod. The "teamwork" refers to in-game events.</Descriptio
     <Manifest>
     	<Name>AccessRandomizer</Name>
     	<Description>A randomizer add-on for miscellaneous access checks.</Description>
-    	<Version>1.2.0.2</Version>
-    	<Link SHA256="b6b61547c761355ca36d4b784fe51f5758ec1472270064a1f2a6159c8f2f426c">
-	    <![CDATA[https://github.com/nerthul11/AccessRandomizer/releases/download/1.2.0.2/AccessRandomizer.zip]]>
+    	<Version>1.2.0.3</Version>
+    	<Link SHA256="f160f0e2c9fc519d4c0c58d1b42ebda4fd6521bbcc513a3d048880372860f794">
+	    <![CDATA[https://github.com/nerthul11/AccessRandomizer/releases/download/1.2.0.3/AccessRandomizer.zip]]>
 	</Link>
 	<Dependencies>
 		<Dependency>ItemChanger</Dependency>
