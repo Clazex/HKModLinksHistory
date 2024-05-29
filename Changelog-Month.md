@@ -36,25 +36,6 @@
 - Dependencies
   + Satchel
 
-### HallOfGodsRandomizer
-
-- Description: DEPRECATED. USE GODHOME RANDOMIZER INSTEAD - A randomizer add-on for Hall of Gods bosses.
-- Dependencies
-  + ItemChanger
-  + KorzUtils
-  + MenuChanger
-  + Randomizer 4
-- Tags
-  + Gameplay
-
-### LessHealing
-
-- Description: A Hollow Knight mod that adds toggleable options that remove various healing methods from the game.
-- Dependencies
-  + SFCore
-- Tags
-  + Gameplay
-
 ### SaferWhitePalace
 
 - Description: Allows you to remove the dangers of White Palace
