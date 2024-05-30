@@ -96,7 +96,7 @@
 
 ### GodhomeRandomizer
 
-- Version: 2.1.2.1 -> 2.2.2.0
+- Version: 2.1.3.0 -> 2.2.2.0
 - Dependencies
   + Removed
     - ItemChangerDataLoader
