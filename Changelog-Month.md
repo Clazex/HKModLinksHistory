@@ -53,7 +53,7 @@
 
 ### Ancient Aspid
 
-- Version: 1.0.0.7 -> 1.0.0.9
+- Version: 1.0.0.8 -> 1.0.0.9
 
 ### Archipelago
 
@@ -133,5 +133,5 @@
 
 ### WeaverCore
 
-- Version: 2.2.0.5 -> 2.2.0.7
+- Version: 2.2.0.6 -> 2.2.0.7
 

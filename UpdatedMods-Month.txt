@@ -1,5 +1,3 @@
-Ancient Aspid
-WeaverCore
 AccessRandomizer
 CarThingMod
 AccessRandomizer
