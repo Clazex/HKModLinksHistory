@@ -1,5 +1,3 @@
-Ancient Aspid
-Archipelago
-WeaverCore
 AccessRandomizer
 MapSyncMod
+AccessRandomizer

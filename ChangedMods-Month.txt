@@ -34,3 +34,4 @@ Archipelago
 WeaverCore
 AccessRandomizer
 MapSyncMod
+AccessRandomizer
