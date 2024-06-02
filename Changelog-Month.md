@@ -3,18 +3,6 @@
 
 ## New mods
 
-### AccessRandomizer
-
-- Description: A randomizer add-on for miscellaneous access checks.
-- Dependencies
-  + ItemChanger
-  + KorzUtils
-  + MenuChanger
-  + Randomizer 4
-  + Satchel
-- Tags
-  + Gameplay
-
 ### BenchDeploy
 
 - Description: Deploy Multi Bench use controller/keyboard
@@ -50,6 +38,13 @@
 
 
 ## Updated mods
+
+### AccessRandomizer
+
+- Version: 1.0.0.0 -> 1.2.1.1
+- Dependencies
+  + Removed
+    - ItemChangerDataLoader
 
 ### Ancient Aspid
 
