@@ -1,2 +1,2 @@
-MapSyncMod
 AccessRandomizer
+SpeedRunQoL

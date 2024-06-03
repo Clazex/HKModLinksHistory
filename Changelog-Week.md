@@ -7,13 +7,7 @@
 
 - Version: 1.2.1.0 -> 1.2.1.1
 
-### MapSyncMod
+### SpeedRunQoL
 
-- Version: 1.2.0.0 -> 1.2.2.0
-- Dependencies
-  + Removed
-    - RecentItemsDisplay
-- Integrations
-  + Added
-    - RecentItemsDisplay
+- Version: 0.6.0.0 -> 0.6.1.0
 

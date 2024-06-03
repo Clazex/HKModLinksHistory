@@ -34,3 +34,4 @@ WeaverCore
 AccessRandomizer
 MapSyncMod
 AccessRandomizer
+SpeedRunQoL

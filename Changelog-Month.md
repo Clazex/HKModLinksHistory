@@ -126,6 +126,10 @@
 
 - Version: 1.5.11.1 -> 1.5.11.2
 
+### SpeedRunQoL
+
+- Version: 0.6.0.0 -> 0.6.1.0
+
 ### WeaverCore
 
 - Version: 2.2.0.6 -> 2.2.0.7
