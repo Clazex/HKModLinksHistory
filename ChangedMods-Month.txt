@@ -1,5 +1,3 @@
-Elderbugnest
-UnrestrictedSteelSoul
 AccessRandomizer
 CarThingMod
 AccessRandomizer
@@ -35,3 +33,4 @@ AccessRandomizer
 MapSyncMod
 AccessRandomizer
 SpeedRunQoL
+GodhomeRandomizer

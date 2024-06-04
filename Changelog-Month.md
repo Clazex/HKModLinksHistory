@@ -18,23 +18,11 @@
   + MenuChanger
   + Randomizer 4
 
-### Elderbugnest
-
-- Description: Replaces a bunch of NPCs with the sweet old friend
-- Dependencies
-  + Satchel
-
 ### SaferWhitePalace
 
 - Description: Allows you to remove the dangers of White Palace
 - Dependencies
   + Satchel
-
-### UnrestrictedSteelSoul
-
-- Description: A Hollow Knight mod that enables permadeath in dream/godhome zones when playing in steel soul mode.
-- Tags
-  + Gameplay
 
 
 ## Updated mods
@@ -91,7 +79,7 @@
 
 ### GodhomeRandomizer
 
-- Version: 2.1.3.0 -> 2.2.2.0
+- Version: 2.1.3.0 -> 2.2.3.0
 - Dependencies
   + Removed
     - ItemChangerDataLoader

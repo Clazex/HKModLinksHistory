@@ -30,3 +30,4 @@ AccessRandomizer
 MapSyncMod
 AccessRandomizer
 SpeedRunQoL
+GodhomeRandomizer
