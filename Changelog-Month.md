@@ -29,10 +29,7 @@
 
 ### AccessRandomizer
 
-- Version: 1.0.0.0 -> 1.2.1.1
-- Dependencies
-  + Removed
-    - ItemChangerDataLoader
+- Version: 1.0.0.1 -> 1.2.1.1
 
 ### Ancient Aspid
 
@@ -80,9 +77,6 @@
 ### GodhomeRandomizer
 
 - Version: 2.1.3.0 -> 2.2.3.0
-- Dependencies
-  + Removed
-    - ItemChangerDataLoader
 
 ### Lore Randomizer
 
