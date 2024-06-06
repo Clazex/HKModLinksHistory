@@ -1,3 +1,4 @@
 AccessRandomizer
 SpeedRunQoL
 GodhomeRandomizer
+BingoSyncExtension

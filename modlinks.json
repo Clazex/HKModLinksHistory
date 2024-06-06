@@ -554,11 +554,11 @@
   },
   "BingoSyncExtension": {
     "description": "A library mod that provides an interface to add extra automarking logic to BingoSync",
-    "version": "1.1.0.0",
+    "version": "1.1.1.0",
     "links": {
       "type": "universal",
-      "sha256": "209AF0873618BFAB94C276DA45DEE0F6A878171CA42B01D345BE4C5DF2532FAF",
-      "url": "https://github.com/TheRealAlph4/BingoSyncExtension/releases/download/v1.1.0.0/BingoSyncExtension.zip"
+      "sha256": "0B7F2884AE3FF5B741320F87ACB5E5F2701A5B28D62B751AFFAAA81A00D18DCA",
+      "url": "https://github.com/TheRealAlph4/BingoSyncExtension/releases/download/v1.1.1.0/BingoSyncExtension.zip"
     },
     "dependencies": [
       "BingoSync",
