@@ -29,7 +29,7 @@
 
 ### AccessRandomizer
 
-- Version: 1.0.0.1 -> 1.2.1.1
+- Version: 1.1.0.0 -> 1.2.1.1
 
 ### Ancient Aspid
 
@@ -65,10 +65,6 @@
 ### DarknessRandomizer
 
 - Version: 1.4.7.0 -> 1.4.8.1
-
-### Dead Cells Bosses
-
-- Version: 1.1.0.2 -> 1.1.0.0
 
 ### GodhomeRandomizer
 

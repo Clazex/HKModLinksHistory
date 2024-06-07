@@ -1,2 +1,2 @@
-BingoGoalPack1
-BingoSyncExtension
+AccessRandomizer
+GodhomeRandomizer
