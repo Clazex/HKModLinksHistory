@@ -1,30 +1,24 @@
 # Changelog
 
 
-## New mods
-
-### BenchDeploy
-
-- Description: Deploy Multi Bench use controller/keyboard
-- Dependencies
-  + Benchwarp
-
-### BossSync
-
-- Description: An extension mod for ItemSync that allows for the synchronization of bosses!
-- Dependencies
-  + ItemSync
-  + MenuChanger
-  + Randomizer 4
-
-
 ## Updated mods
 
 ### AccessRandomizer
 
-- Version: 1.1.0.0 -> 1.2.0.0
+- Version: 1.2.0.0 -> 1.2.0.1
 
-### GodhomeRandomizer
+### Bomber Knight
 
-- Version: 2.1.3.0 -> 2.2.0.0
+- Version: 1.2.2.0 -> 1.2.3.0
+
+### Lore Randomizer
+
+- Version: 0.3.0.0 -> 0.3.0.1
+
+### Lost Artifacts
+
+- Version: 1.1.1.0 -> 1.1.1.1
+- Integrations
+  + Added
+    - RandoSettingsManager
 

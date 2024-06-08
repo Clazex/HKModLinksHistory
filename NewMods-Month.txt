@@ -1,3 +1,2 @@
-SaferWhitePalace
 BenchDeploy
 BossSync

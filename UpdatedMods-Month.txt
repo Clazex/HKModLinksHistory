@@ -1,4 +1,3 @@
-Carefree Grimm
 DarknessRandomizer
 DarknessRandomizer
 MoreDoors
@@ -28,3 +27,4 @@ AccessRandomizer
 SpeedRunQoL
 GodhomeRandomizer
 BingoSyncExtension
+BingoGoalPack1

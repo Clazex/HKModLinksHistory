@@ -18,12 +18,6 @@
   + MenuChanger
   + Randomizer 4
 
-### SaferWhitePalace
-
-- Description: Allows you to remove the dangers of White Palace
-- Dependencies
-  + Satchel
-
 
 ## Updated mods
 
@@ -41,7 +35,7 @@
 
 ### BingoGoalPack1
 
-- Version: 1.0.0.4 -> 1.2.1.0
+- Version: 1.0.0.4 -> 1.2.2.0
 
 ### BingoSyncExtension
 
@@ -53,10 +47,6 @@
 ### Bomber Knight
 
 - Version: 1.2.2.0 -> 1.2.3.0
-
-### Carefree Grimm
-
-- Version: 1.0.0.2 -> 1.0.1.0
 
 ### CustomBgm
 
