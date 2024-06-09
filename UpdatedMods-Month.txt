@@ -28,3 +28,4 @@ SpeedRunQoL
 GodhomeRandomizer
 BingoSyncExtension
 BingoGoalPack1
+BingoGoalPack1

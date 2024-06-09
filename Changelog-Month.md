@@ -35,7 +35,7 @@
 
 ### BingoGoalPack1
 
-- Version: 1.0.0.4 -> 1.2.2.0
+- Version: 1.0.0.4 -> 1.2.3.1
 
 ### BingoSyncExtension
 

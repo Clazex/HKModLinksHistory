@@ -5,7 +5,7 @@
 
 ### BingoGoalPack1
 
-- Version: 1.2.1.0 -> 1.2.2.0
+- Version: 1.2.1.0 -> 1.2.3.1
 
 ### BingoSyncExtension
 
@@ -14,8 +14,4 @@
 ### GodhomeRandomizer
 
 - Version: 2.2.2.0 -> 2.2.3.0
-
-### SpeedRunQoL
-
-- Version: 0.6.0.0 -> 0.6.1.0
 
