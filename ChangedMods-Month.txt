@@ -1,5 +1,4 @@
 DarknessRandomizer
-DarknessRandomizer
 MoreDoors
 CustomBgm
 SFCore
