@@ -3,7 +3,7 @@
 
 ## Updated mods
 
-### SpeedRunQoL
+### GodhomeRandomizer
 
-- Version: 0.6.0.0 -> 0.6.1.0
+- Version: 2.2.2.0 -> 2.2.3.0
 
