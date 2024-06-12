@@ -48,10 +48,6 @@
 
 - Version: 1.2.2.0 -> 1.2.3.0
 
-### CustomBgm
-
-- Version: 1.5.2.0 -> 1.5.3.1
-
 ### GodhomeRandomizer
 
 - Version: 2.1.3.0 -> 2.2.3.0
@@ -77,10 +73,6 @@
 - Description
   + Old: Sync Map and Bench on ItemSyncMOD
   + New: Sync Map Bench battle boss lever wall Floor door and other on ItemSyncMOD
-
-### SFCore
-
-- Version: 1.5.11.1 -> 1.5.11.2
 
 ### SpeedRunQoL
 
