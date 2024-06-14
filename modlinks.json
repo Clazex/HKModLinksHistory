@@ -5589,6 +5589,21 @@
       "Gameplay"
     ]
   },
+  "Seer": {
+    "description": "Seer Modded Boss",
+    "version": "1.0.0.0",
+    "links": {
+      "type": "universal",
+      "sha256": "83D049B0C5585CF0C427F02A7E38489928B88A5F94C6CC14877ED6BB70ACB173",
+      "url": "https://github.com/danirainy/DreamEchoes/releases/download/1.0/Seer.zip"
+    },
+    "dependencies": [
+      "More Godhome Space",
+      "SFCore",
+      "WeaverCore"
+    ],
+    "repository": "https://github.com/danirainy/DreamEchoes"
+  },
   "ShadeControl": {
     "description": "A DebugAddition make you can control shade spell",
     "version": "1.0.0.0",

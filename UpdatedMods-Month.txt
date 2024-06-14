@@ -1,6 +1,4 @@
 AccessRandomizer
-GodhomeRandomizer
-AccessRandomizer
 Bomber Knight
 Lore Randomizer
 Lost Artifacts

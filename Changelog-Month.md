@@ -3,27 +3,20 @@
 
 ## New mods
 
-### BenchDeploy
+### Seer
 
-- Description: Deploy Multi Bench use controller/keyboard
+- Description: Seer Modded Boss
 - Dependencies
-  + Benchwarp
-  + MagicUI
-
-### BossSync
-
-- Description: An extension mod for ItemSync that allows for the synchronization of bosses!
-- Dependencies
-  + ItemSync
-  + MenuChanger
-  + Randomizer 4
+  + More Godhome Space
+  + SFCore
+  + WeaverCore
 
 
 ## Updated mods
 
 ### AccessRandomizer
 
-- Version: 1.1.0.0 -> 1.2.1.1
+- Version: 1.2.0.0 -> 1.2.1.1
 
 ### Ancient Aspid
 
@@ -32,6 +25,13 @@
 ### Archipelago
 
 - Version: 0.4.1.0 -> 0.4.2.0
+
+### BenchDeploy
+
+- Version: 1.1.0.0 -> 1.2.1.0
+- Dependencies
+  + Added
+    - MagicUI
 
 ### BingoGoalPack1
 
@@ -47,7 +47,7 @@
 
 ### GodhomeRandomizer
 
-- Version: 2.1.3.0 -> 2.2.3.0
+- Version: 2.2.0.0 -> 2.2.3.0
 
 ### Lore Randomizer
 
