@@ -1,8 +1,4 @@
 AccessRandomizer
-Bomber Knight
-Lore Randomizer
-Lost Artifacts
-AccessRandomizer
 GodhomeRandomizer
 MapSyncMod
 MapChanger
