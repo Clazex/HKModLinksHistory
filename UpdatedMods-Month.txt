@@ -1,5 +1,3 @@
-AccessRandomizer
-GodhomeRandomizer
 MapSyncMod
 MapChanger
 AccessRandomizer
@@ -16,3 +14,4 @@ GodhomeRandomizer
 BingoSyncExtension
 BingoGoalPack1
 BingoGoalPack1
+MoreDoors

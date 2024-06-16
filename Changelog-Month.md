@@ -3,6 +3,12 @@
 
 ## New mods
 
+### Afterimage Plus
+
+- Description: A mod that gives customizable afterimages to the Knight and enemies.
+- Tags
+  + Cosmetic
+
 ### Seer
 
 - Description: Seer Modded Boss
@@ -11,12 +17,18 @@
   + SFCore
   + WeaverCore
 
+### SkiploverSpoilerLog
+
+- Description: Creates a Skiplover Spoiler Log in the Rando Logs directory showing what would be reachable with All skips enabled.
+- Dependencies
+  + CondensedSpoilerLogger
+
 
 ## Updated mods
 
 ### AccessRandomizer
 
-- Version: 1.2.0.1 -> 1.2.1.1
+- Version: 1.2.0.2 -> 1.2.1.1
 
 ### Ancient Aspid
 
@@ -43,7 +55,7 @@
 
 ### GodhomeRandomizer
 
-- Version: 2.2.0.0 -> 2.2.3.0
+- Version: 2.2.1.0 -> 2.2.3.0
 
 ### MapChanger
 
@@ -55,6 +67,10 @@
 - Description
   + Old: Sync Map and Bench on ItemSyncMOD
   + New: Sync Map Bench battle boss lever wall Floor door and other on ItemSyncMOD
+
+### MoreDoors
+
+- Version: 3.0.4.1 -> 3.0.5.1
 
 ### SpeedRunQoL
 

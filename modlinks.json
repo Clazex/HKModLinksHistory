@@ -159,6 +159,24 @@
       "kapkekes"
     ]
   },
+  "Afterimage Plus": {
+    "description": "A mod that gives customizable afterimages to the Knight and enemies.",
+    "version": "1.0.0.0",
+    "links": {
+      "type": "universal",
+      "sha256": "66D6C552829F493F103243221667181CC34040F3AA041C5B0FF77998045FEBD2",
+      "url": "https://github.com/thegodfriend/AfterimagePlus/releases/download/v1.0.0/AfterimagePlus.zip"
+    },
+    "dependencies": [],
+    "repository": "https://github.com/thegodfriend/AfterimagePlus",
+    "tags": [
+      "Cosmetic"
+    ],
+    "authors": [
+      "Godfriend",
+      "Nearrin"
+    ]
+  },
   "AlreadyEnoughPlayMaker": {
     "description": "A optimization mod for PlayMaker FSMs.",
     "version": "0.1.0.0",
@@ -4153,11 +4171,11 @@
   },
   "MoreDoors": {
     "description": "A Rando 4 connection which adds more locked doors to Hallownest.",
-    "version": "3.0.4.1",
+    "version": "3.0.5.1",
     "links": {
       "type": "universal",
-      "sha256": "945EA865F25754C83D902240E36EAF023C5AD3346320DFFC5D6883543F26969C",
-      "url": "https://github.com/dplochcoder/HollowKnight.MoreDoors/releases/download/v3.0.4.1/MoreDoors.zip"
+      "sha256": "7D36CB64507C6D5D071CB21A9BA641BE9F5CB54462C65918C3D15425B097691C",
+      "url": "https://github.com/dplochcoder/HollowKnight.MoreDoors/releases/download/v3.0.5.1/MoreDoors.zip"
     },
     "dependencies": [
       "ItemChanger",
@@ -5728,6 +5746,19 @@
     },
     "dependencies": [],
     "repository": "https://github.com/Nexade/SkipToRadiance/"
+  },
+  "SkiploverSpoilerLog": {
+    "description": "Creates a Skiplover Spoiler Log in the Rando Logs directory showing what would be reachable with All skips enabled.",
+    "version": "1.0.0.0",
+    "links": {
+      "type": "universal",
+      "sha256": "2744BAB7EE41FA4C6AE54A8CE49713179B8F90C57D2CD78765F5D353D3F3E38E",
+      "url": "https://github.com/AlexKnauth/SkiploverSpoilerLog/releases/download/v1.0.0.0/SkiploverSpoilerLog.zip"
+    },
+    "dependencies": [
+      "CondensedSpoilerLogger"
+    ],
+    "repository": "https://github.com/AlexKnauth/SkiploverSpoilerLog"
   },
   "SlantedKnight": {
     "description": "The knight is slanted depending on its HP.",
