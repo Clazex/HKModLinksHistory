@@ -2591,11 +2591,11 @@
   },
   "GodhomeRandomizer": {
     "description": "A Randomizer add-on for Godhome elements.",
-    "version": "2.2.3.0",
+    "version": "2.2.4.0",
     "links": {
       "type": "universal",
-      "sha256": "2C0955F00B9A8BBD30874C7A50E9412C66F5AA2A39DFA5176A827D1186AEDC39",
-      "url": "https://github.com/nerthul11/GodhomeRandomizer/releases/download/2.2.3.0/GodhomeRandomizer.zip"
+      "sha256": "5DB3AF856DAE532271EF41319FA1E4B238F4FB429D99DD5AA202EE7A3EF1312E",
+      "url": "https://github.com/nerthul11/GodhomeRandomizer/releases/download/2.2.4.0/GodhomeRandomizer.zip"
     },
     "dependencies": [
       "ItemChanger",
@@ -4171,11 +4171,11 @@
   },
   "MoreDoors": {
     "description": "A Rando 4 connection which adds more locked doors to Hallownest.",
-    "version": "3.0.5.1",
+    "version": "3.0.6.1",
     "links": {
       "type": "universal",
-      "sha256": "7D36CB64507C6D5D071CB21A9BA641BE9F5CB54462C65918C3D15425B097691C",
-      "url": "https://github.com/dplochcoder/HollowKnight.MoreDoors/releases/download/v3.0.5.1/MoreDoors.zip"
+      "sha256": "4B06E69EBFD1DA74FA4749AB3AC34B01FBF593746938913CA4AA1BE19AA01198",
+      "url": "https://github.com/dplochcoder/HollowKnight.MoreDoors/releases/download/v3.0.6.1/MoreDoors.zip"
     },
     "dependencies": [
       "ItemChanger",
@@ -5407,6 +5407,24 @@
     ],
     "authors": [
       "Charles Game Dev"
+    ]
+  },
+  "RemoveLaggyObjects": {
+    "description": "Removes various objects from scenes where they can cause major lag.",
+    "version": "1.0.1.0",
+    "links": {
+      "type": "universal",
+      "sha256": "C4C9122F46AE8BB93CC2B6B80D3D5B7FE0A7F152F2A5BA7E08E9D55AD11BA5B6",
+      "url": "https://github.com/thegodfriend/RemoveLaggyObjects/releases/download/v1.0.1/RemoveLaggyObjects.zip"
+    },
+    "dependencies": [],
+    "repository": "https://github.com/thegodfriend/RemoveLaggyObjects",
+    "tags": [
+      "Cosmetic",
+      "Gameplay"
+    ],
+    "authors": [
+      "Godfriend"
     ]
   },
   "ReopenCityDoor": {

@@ -2,3 +2,6 @@ Seer
 Afterimage Plus
 MoreDoors
 SkiploverSpoilerLog
+GodhomeRandomizer
+MoreDoors
+RemoveLaggyObjects

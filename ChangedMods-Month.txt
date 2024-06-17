@@ -1,4 +1,3 @@
-MapSyncMod
 MapChanger
 AccessRandomizer
 BenchDeploy
@@ -18,3 +17,6 @@ Seer
 Afterimage Plus
 MoreDoors
 SkiploverSpoilerLog
+GodhomeRandomizer
+MoreDoors
+RemoveLaggyObjects
