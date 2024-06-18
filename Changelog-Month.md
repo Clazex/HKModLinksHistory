@@ -64,10 +64,6 @@
 
 - Version: 2.2.1.0 -> 2.2.4.0
 
-### MapChanger
-
-- Version: 1.2.0.0 -> 1.2.1.0
-
 ### MapSyncMod
 
 - Version: 1.2.0.0 -> 1.2.2.0
