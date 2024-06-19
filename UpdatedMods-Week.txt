@@ -1,3 +1,4 @@
 MoreDoors
 GodhomeRandomizer
 MoreDoors
+BingoSync

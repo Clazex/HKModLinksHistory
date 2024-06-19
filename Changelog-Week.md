@@ -33,6 +33,10 @@
 
 ## Updated mods
 
+### BingoSync
+
+- Version: 1.2.2.0 -> 1.2.3.0
+
 ### GodhomeRandomizer
 
 - Version: 2.2.3.0 -> 2.2.4.0

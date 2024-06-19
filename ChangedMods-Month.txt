@@ -19,3 +19,4 @@ SkiploverSpoilerLog
 GodhomeRandomizer
 MoreDoors
 RemoveLaggyObjects
+BingoSync

@@ -56,6 +56,10 @@
 
 - Version: 1.2.1.0 -> 1.2.3.1
 
+### BingoSync
+
+- Version: 1.2.2.0 -> 1.2.3.0
+
 ### BingoSyncExtension
 
 - Version: 1.1.0.0 -> 1.1.1.0
