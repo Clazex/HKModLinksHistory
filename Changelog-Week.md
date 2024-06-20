@@ -16,14 +16,6 @@
   + Cosmetic
   + Gameplay
 
-### Seer
-
-- Description: Seer Modded Boss
-- Dependencies
-  + More Godhome Space
-  + SFCore
-  + WeaverCore
-
 ### SkiploverSpoilerLog
 
 - Description: Creates a Skiplover Spoiler Log in the Rando Logs directory showing what would be reachable with All skips enabled.

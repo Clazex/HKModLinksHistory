@@ -1,4 +1,3 @@
-Seer
 Afterimage Plus
 SkiploverSpoilerLog
 RemoveLaggyObjects
