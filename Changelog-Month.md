@@ -35,7 +35,7 @@
 
 ### AccessRandomizer
 
-- Version: 1.2.0.2 -> 1.2.1.1
+- Version: 1.2.0.3 -> 1.2.1.1
 
 ### Ancient Aspid
 
@@ -44,13 +44,6 @@
 ### Archipelago
 
 - Version: 0.4.1.0 -> 0.4.2.0
-
-### BenchDeploy
-
-- Version: 1.1.0.0 -> 1.2.1.0
-- Dependencies
-  + Added
-    - MagicUI
 
 ### BingoGoalPack1
 
@@ -66,7 +59,7 @@
 
 ### GodhomeRandomizer
 
-- Version: 2.2.1.0 -> 2.2.4.0
+- Version: 2.2.2.0 -> 2.2.4.0
 
 ### MapSyncMod
 
