@@ -1,4 +1,1 @@
-GodhomeRandomizer
-MoreDoors
-RemoveLaggyObjects
 BingoSync
