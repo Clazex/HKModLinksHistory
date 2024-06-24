@@ -4214,11 +4214,11 @@
   },
   "MoreLocations": {
     "description": "Randomizer 4 addon that adds assorted locations to the randomizer. Activate in the Connections menu of Randomizer 4.",
-    "version": "1.1.8792.42313",
+    "version": "1.1.8940.26445",
     "links": {
       "type": "universal",
-      "sha256": "AA7B44BA82FD00DFF40480D0C3E325A8808131B503E2365E5686AE3C86E91E36",
-      "url": "https://github.com/BadMagic100/MoreLocations/releases/download/v1.1.8792.42313/MoreLocations.zip"
+      "sha256": "A22B69D3FA5AF8D474100BEAA19F1CE2F9D78D82C7E58BD0AE6D3D6B49D13F84",
+      "url": "https://github.com/BadMagic100/MoreLocations/releases/download/v1.1.8940.26445/MoreLocations.zip"
     },
     "dependencies": [
       "ItemChanger"
@@ -6557,14 +6557,14 @@
     "links": {
       "type": "universal",
       "sha256": "36F95A1C91874A2A617EA2D719262085E4F038DEF4F132C5C87AB9567DCC7720",
-      "url": "https://github.com/SFGrenade/Pail-Curt/releases/download/v1.5.2/Pail-Curt.zip"
+      "url": "https://github.com/SFGrenade/ZaliantsSurprise/releases/download/v1.5.2/Pail-Curt.zip"
     },
     "dependencies": [
       "FrogCore",
       "SFCore",
       "Vasi"
     ],
-    "repository": "https://github.com/SFGrenade/Pail-Curt/",
+    "repository": "https://github.com/SFGrenade/ZaliantsSurprise/",
     "tags": [
       "Utility"
     ],

@@ -1,6 +1,3 @@
-Ancient Aspid
-Archipelago
-WeaverCore
 AccessRandomizer
 MapSyncMod
 AccessRandomizer
@@ -13,3 +10,4 @@ MoreDoors
 GodhomeRandomizer
 MoreDoors
 BingoSync
+MoreLocations
