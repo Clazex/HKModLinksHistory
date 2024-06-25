@@ -3,22 +3,21 @@
 
 ## New mods
 
-### Afterimage Plus
+### RemoveLaggyObjects
 
-- Description: A mod that gives customizable afterimages to the Knight and enemies.
+- Description: Removes various objects from scenes where they can cause major lag.
 - Tags
   + Cosmetic
-
-### SkiploverSpoilerLog
-
-- Description: Creates a Skiplover Spoiler Log in the Rando Logs directory showing what would be reachable with All skips enabled.
-- Dependencies
-  + CondensedSpoilerLogger
+  + Gameplay
 
 
 ## Updated mods
 
+### GodhomeRandomizer
+
+- Version: 2.2.3.0 -> 2.2.4.0
+
 ### MoreDoors
 
-- Version: 3.0.4.1 -> 3.0.5.1
+- Version: 3.0.5.1 -> 3.0.6.1
 
