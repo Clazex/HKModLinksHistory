@@ -1,4 +1,3 @@
-MapSyncMod
 AccessRandomizer
 SpeedRunQoL
 GodhomeRandomizer

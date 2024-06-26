@@ -53,16 +53,6 @@
 
 - Version: 2.2.2.0 -> 2.2.4.0
 
-### MapSyncMod
-
-- Version: 1.2.0.0 -> 1.2.2.0
-- Dependencies
-  + Removed
-    - RecentItemsDisplay
-- Integrations
-  + Added
-    - RecentItemsDisplay
-
 ### MoreDoors
 
 - Version: 3.0.4.1 -> 3.0.6.1
