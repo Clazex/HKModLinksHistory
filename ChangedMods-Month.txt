@@ -13,3 +13,4 @@ MoreDoors
 RemoveLaggyObjects
 BingoSync
 MoreLocations
+Breakable Wall Randomizer
