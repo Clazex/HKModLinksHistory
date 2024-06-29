@@ -688,11 +688,11 @@
   },
   "Breakable Wall Randomizer": {
     "description": "A Hollow Knight Randomizer add-on for breakable walls.",
-    "version": "3.0.0.0",
+    "version": "3.0.0.1",
     "links": {
       "type": "universal",
-      "sha256": "8DB63E55D1064DB839E3694FE436374949CAC6DCC2BF8023D12D115F34DB9082",
-      "url": "https://github.com/nerthul11/BreakableWallRandomizer/releases/download/3.0.0.0/BreakableWallRandomizer.zip"
+      "sha256": "4E43BBEF332F301C6F244CF2A5FA366641476F649C1F7C8CEDCB40913D0CC832",
+      "url": "https://github.com/nerthul11/BreakableWallRandomizer/releases/download/3.0.0.1/BreakableWallRandomizer.zip"
     },
     "dependencies": [
       "Randomizer 4",
@@ -2598,11 +2598,11 @@
   },
   "GodhomeRandomizer": {
     "description": "A Randomizer add-on for Godhome elements.",
-    "version": "2.2.4.0",
+    "version": "2.2.4.1",
     "links": {
       "type": "universal",
-      "sha256": "5DB3AF856DAE532271EF41319FA1E4B238F4FB429D99DD5AA202EE7A3EF1312E",
-      "url": "https://github.com/nerthul11/GodhomeRandomizer/releases/download/2.2.4.0/GodhomeRandomizer.zip"
+      "sha256": "D3C7D2FB4AD681428DCFC0D2D59E298B5BAAE3D540BD7CC93FA0F05C6CCCF02C",
+      "url": "https://github.com/nerthul11/GodhomeRandomizer/releases/download/2.2.4.1/GodhomeRandomizer.zip"
     },
     "dependencies": [
       "ItemChanger",
@@ -2978,7 +2978,7 @@
     "repository": "https://github.com/Yurihaia/HollowKnight-Timer/"
   },
   "HKTool": {
-    "description": "A library mod",
+    "description": "A library mod. (Linux not supported)",
     "version": "2.2.1.0",
     "links": {
       "type": "universal",
