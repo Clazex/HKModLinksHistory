@@ -557,11 +557,11 @@
   },
   "BingoSync": {
     "description": "A Hollow Knight mod that automatically marks squares on bingosync.com",
-    "version": "1.2.3.0",
+    "version": "1.2.4.0",
     "links": {
       "type": "universal",
-      "sha256": "BDB142B5A8FE525452E857E4244FD97BD080F4159BD72E3D324EB6AF72DD5924",
-      "url": "https://github.com/pedroteosousa/HollowKnight.BingoSync/releases/download/1.2.3.0/BingoSync.zip"
+      "sha256": "F5A2332EDD2C77823D9255F4B50CF2B774FD10284BD2447EDC3DA7552F610EE7",
+      "url": "https://github.com/pedroteosousa/HollowKnight.BingoSync/releases/download/1.2.4.0/BingoSync.zip"
     },
     "dependencies": [
       "ItemChanger",
@@ -688,11 +688,11 @@
   },
   "Breakable Wall Randomizer": {
     "description": "A Hollow Knight Randomizer add-on for breakable walls.",
-    "version": "3.0.0.1",
+    "version": "3.0.0.2",
     "links": {
       "type": "universal",
-      "sha256": "4E43BBEF332F301C6F244CF2A5FA366641476F649C1F7C8CEDCB40913D0CC832",
-      "url": "https://github.com/nerthul11/BreakableWallRandomizer/releases/download/3.0.0.1/BreakableWallRandomizer.zip"
+      "sha256": "A986BCD1BF43496226878A175316CD496EF95CD026AAE294107937C3ACF4B8EF",
+      "url": "https://github.com/nerthul11/BreakableWallRandomizer/releases/download/3.0.0.2/BreakableWallRandomizer.zip"
     },
     "dependencies": [
       "Randomizer 4",

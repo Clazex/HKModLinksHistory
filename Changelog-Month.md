@@ -33,17 +33,13 @@
 
 ## Updated mods
 
-### AccessRandomizer
-
-- Version: 1.2.1.0 -> 1.2.1.1
-
 ### BingoGoalPack1
 
 - Version: 1.2.1.0 -> 1.2.3.1
 
 ### BingoSync
 
-- Version: 1.2.2.0 -> 1.2.3.0
+- Version: 1.2.2.0 -> 1.2.4.0
 
 ### BingoSyncExtension
 
@@ -51,7 +47,7 @@
 
 ### Breakable Wall Randomizer
 
-- Version: 2.1.0.1 -> 3.0.0.1
+- Version: 2.1.0.1 -> 3.0.0.2
 - Description
   + Old: Adds dive floors, breakable walls, and one-way walls to Randomizer 4. Configure in connections menu after installation.
   + New: A Hollow Knight Randomizer add-on for breakable walls.

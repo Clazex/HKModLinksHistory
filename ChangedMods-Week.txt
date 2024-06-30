@@ -1,4 +1,5 @@
-MoreLocations
 Breakable Wall Randomizer
 Breakable Wall Randomizer
 GodhomeRandomizer
+BingoSync
+Breakable Wall Randomizer
