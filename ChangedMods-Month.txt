@@ -1,4 +1,3 @@
-SpeedRunQoL
 GodhomeRandomizer
 BingoSyncExtension
 BingoGoalPack1
@@ -17,3 +16,4 @@ Breakable Wall Randomizer
 GodhomeRandomizer
 BingoSync
 Breakable Wall Randomizer
+WideCamera

@@ -3,3 +3,4 @@ Breakable Wall Randomizer
 GodhomeRandomizer
 BingoSync
 Breakable Wall Randomizer
+WideCamera

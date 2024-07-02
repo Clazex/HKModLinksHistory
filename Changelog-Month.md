@@ -70,7 +70,10 @@
 
 - Version: 1.1.8792.42313 -> 1.1.8940.26445
 
-### SpeedRunQoL
+### WideCamera
 
-- Version: 0.6.0.0 -> 0.6.1.0
+- Version: 1.5.0.0 -> 1.5.1.0
+- Description
+  + Old: Make ultrawide screens possible without black bars. Should also work for thinner than 16:9. In theory.
+  + New: Make ultrawide screens possible without black bars. Should also work for thinner/taller than 16:9. In theory.
 
