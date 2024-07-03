@@ -9,6 +9,12 @@
 - Tags
   + Cosmetic
 
+### Biblically Accurate Lasers
+
+- Description: Adds some more, configurable lasers to the Radiance and Absolute Radiance fights.
+- Tags
+  + Boss
+
 ### RemoveLaggyObjects
 
 - Description: Removes various objects from scenes where they can cause major lag.
@@ -60,7 +66,7 @@
 
 ### GodhomeRandomizer
 
-- Version: 2.2.2.0 -> 2.2.4.1
+- Version: 2.2.3.0 -> 2.2.4.1
 
 ### MoreDoors
 

@@ -2,3 +2,4 @@ Seer
 Afterimage Plus
 SkiploverSpoilerLog
 RemoveLaggyObjects
+Biblically Accurate Lasers

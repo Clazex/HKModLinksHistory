@@ -522,6 +522,23 @@
       "Gameplay"
     ]
   },
+  "Biblically Accurate Lasers": {
+    "description": "Adds some more, configurable lasers to the Radiance and Absolute Radiance fights.",
+    "version": "1.0.0.0",
+    "links": {
+      "type": "universal",
+      "sha256": "17A924D3C31C4AD24E5F5E8D100305FB626D987ED0AD41CE785C08487BB4D431",
+      "url": "https://github.com/thegodfriend/BiblicallyAccurateLasers/releases/download/v1.0.0/BiblicallyAccurateLasers.zip"
+    },
+    "dependencies": [],
+    "repository": "https://github.com/thegodfriend/BiblicallyAccurateLasers",
+    "tags": [
+      "Boss"
+    ],
+    "authors": [
+      "Godfriend"
+    ]
+  },
   "BingoBoard": {
     "description": "In-game bingo board display.",
     "version": "1.0.0.1",

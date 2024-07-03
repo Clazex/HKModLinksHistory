@@ -1,6 +1,15 @@
 # Changelog
 
 
+## New mods
+
+### Biblically Accurate Lasers
+
+- Description: Adds some more, configurable lasers to the Radiance and Absolute Radiance fights.
+- Tags
+  + Boss
+
+
 ## Updated mods
 
 ### BingoSync
@@ -9,16 +18,7 @@
 
 ### Breakable Wall Randomizer
 
-- Version: 2.1.0.1 -> 3.0.0.2
-- Description
-  + Old: Adds dive floors, breakable walls, and one-way walls to Randomizer 4. Configure in connections menu after installation.
-  + New: A Hollow Knight Randomizer add-on for breakable walls.
-- Dependencies
-  + Removed
-    - SFCore
-- Tags
-  + Removed
-    - Gameplay
+- Version: 3.0.0.0 -> 3.0.0.2
 
 ### GodhomeRandomizer
 
