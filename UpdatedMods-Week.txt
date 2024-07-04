@@ -3,3 +3,6 @@ GodhomeRandomizer
 BingoSync
 Breakable Wall Randomizer
 WideCamera
+AccessRandomizer
+Biblically Accurate Lasers
+Breakable Wall Randomizer

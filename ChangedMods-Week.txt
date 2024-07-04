@@ -4,3 +4,6 @@ BingoSync
 Breakable Wall Randomizer
 WideCamera
 Biblically Accurate Lasers
+AccessRandomizer
+Biblically Accurate Lasers
+Breakable Wall Randomizer

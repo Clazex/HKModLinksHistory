@@ -5,12 +5,16 @@
 
 ### Biblically Accurate Lasers
 
-- Description: Adds some more, configurable lasers to the Radiance and Absolute Radiance fights.
+- Description: Adds some configurable lasers to the Radiance and Absolute Radiance fights.
 - Tags
   + Boss
 
 
 ## Updated mods
+
+### AccessRandomizer
+
+- Version: 1.2.1.1 -> 1.2.2.0
 
 ### BingoSync
 
@@ -18,7 +22,7 @@
 
 ### Breakable Wall Randomizer
 
-- Version: 3.0.0.0 -> 3.0.0.2
+- Version: 3.0.0.0 -> 3.0.0.3
 
 ### GodhomeRandomizer
 
