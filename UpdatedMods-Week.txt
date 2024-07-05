@@ -1,8 +1,11 @@
-Breakable Wall Randomizer
-GodhomeRandomizer
 BingoSync
 Breakable Wall Randomizer
 WideCamera
 AccessRandomizer
 Biblically Accurate Lasers
 Breakable Wall Randomizer
+ControllerFixes
+MapChanger
+RCPathfinder
+RandoMapMod
+Vanilla Map Mod
