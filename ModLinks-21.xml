@@ -1374,6 +1374,20 @@ All with an incredible new soundtrack!</Description>
         </Repository>
     </Manifest>
     <Manifest>
+	<Name>SkiploverSpoilerLog</Name>
+	<Description>Creates a Skiplover Spoiler Log in the Rando Logs directory showing what would be reachable with All skips enabled.</Description>
+	<Version>1.0.0.0</Version>
+	<Link SHA256="2744bab7ee41fa4c6ae54a8ce49713179b8f90c57d2cd78765f5d353d3f3e38e">
+	    <![CDATA[https://github.com/AlexKnauth/SkiploverSpoilerLog/releases/download/v1.0.0.0/SkiploverSpoilerLog.zip]]>
+	</Link>
+	<Dependencies>
+            <Dependency>CondensedSpoilerLogger</Dependency>
+        </Dependencies>
+	<Repository>
+            <![CDATA[https://github.com/AlexKnauth/SkiploverSpoilerLog]]>
+        </Repository>
+    </Manifest>
+    <Manifest>
         <Name>DapperMapperSpoils</Name>
         <Description>Adds a category to the condensed spoiler log which shows the locations of the 13 maps.</Description>
         <Version>1.1.0.0</Version>
@@ -5373,9 +5387,9 @@ This is a singleplayer mod. The "teamwork" refers to in-game events.</Descriptio
     <Manifest>
         <Name>MoreDoors</Name>
         <Description>A Rando 4 connection which adds more locked doors to Hallownest.</Description>
-        <Version>3.0.4.1</Version>
-        <Link SHA256="945EA865F25754C83D902240E36EAF023C5AD3346320DFFC5D6883543F26969C">
-            <![CDATA[https://github.com/dplochcoder/HollowKnight.MoreDoors/releases/download/v3.0.4.1/MoreDoors.zip]]>
+        <Version>3.0.5.1</Version>
+        <Link SHA256="7D36CB64507C6D5D071CB21A9BA641BE9F5CB54462C65918C3D15425B097691C">
+            <![CDATA[https://github.com/dplochcoder/HollowKnight.MoreDoors/releases/download/v3.0.5.1/MoreDoors.zip]]>
         </Link>
         <Dependencies>
             <Dependency>ItemChanger</Dependency>
@@ -6894,5 +6908,22 @@ This is a singleplayer mod. The "teamwork" refers to in-game events.</Descriptio
     	<Authors>
 	    <Author>Plutz</Author>
     	</Authors>
+    </Manifest>
+    <Manifest>
+        <Name>Afterimage Plus</Name>
+        <Description>A mod that gives customizable afterimages to the Knight and enemies.</Description>
+        <Version>1.0.0.0</Version>
+        <Link SHA256="66d6c552829f493f103243221667181cc34040f3aa041c5b0ff77998045febd2"><![CDATA[https://github.com/thegodfriend/AfterimagePlus/releases/download/v1.0.0/AfterimagePlus.zip]]></Link>
+        <Dependencies/>
+        <Repository>
+            <![CDATA[https://github.com/thegodfriend/AfterimagePlus]]>
+        </Repository>
+        <Tags>
+            <Tag>Cosmetic</Tag>
+        </Tags>
+        <Authors>
+            <Author>Godfriend</Author>
+            <Author>Nearrin</Author>
+        </Authors>
     </Manifest>
 </ModLinks>

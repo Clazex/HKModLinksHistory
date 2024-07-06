@@ -1,3 +1,0 @@
-GodhomeRandomizer
-MoreDoors
-RemoveLaggyObjects
