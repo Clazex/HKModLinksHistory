@@ -54,7 +54,7 @@
 
 ### BingoGoalPack1
 
-- Version: 1.2.1.0 -> 1.2.3.1
+- Version: 1.2.2.0 -> 1.2.3.1
 
 ### BingoSync
 
@@ -99,7 +99,7 @@
 
 ### RandoMapMod
 
-- Version: 3.5.5.0 -> 3.5.6.0
+- Version: 3.5.5.0 -> 3.5.7.0
 
 ### Vanilla Map Mod
 

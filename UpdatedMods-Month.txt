@@ -1,5 +1,4 @@
 BingoGoalPack1
-BingoGoalPack1
 MoreDoors
 GodhomeRandomizer
 MoreDoors
@@ -19,3 +18,4 @@ MapChanger
 RCPathfinder
 RandoMapMod
 Vanilla Map Mod
+RandoMapMod

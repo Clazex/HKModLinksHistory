@@ -9,3 +9,4 @@ MapChanger
 RCPathfinder
 RandoMapMod
 Vanilla Map Mod
+RandoMapMod

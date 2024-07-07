@@ -43,7 +43,7 @@
 
 ### RandoMapMod
 
-- Version: 3.5.5.0 -> 3.5.6.0
+- Version: 3.5.5.0 -> 3.5.7.0
 
 ### Vanilla Map Mod
 
