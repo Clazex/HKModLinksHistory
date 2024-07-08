@@ -5126,11 +5126,11 @@
   },
   "RandoMapMod": {
     "description": "A Randomizer 4 overhaul of the World Map to help find item and transition checks.",
-    "version": "3.5.7.0",
+    "version": "3.5.8.0",
     "links": {
       "type": "universal",
-      "sha256": "D46C09F6F74C40A0A5745BB7628415740B10741B11A2DA8E36AB62A2192FA72C",
-      "url": "https://github.com/syyePhenomenol/RandoMapMod/releases/download/v3.5.7/RandoMapMod.zip"
+      "sha256": "DAA305BE38F8EF6D6C31E33753AC8A19B114CBE9DBEA8969065A7652F751EBFC",
+      "url": "https://github.com/syyePhenomenol/RandoMapMod/releases/download/v3.5.8/RandoMapMod.zip"
     },
     "dependencies": [
       "ConnectionMetadataInjector",

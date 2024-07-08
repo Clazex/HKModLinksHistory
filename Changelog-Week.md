@@ -43,16 +43,9 @@
 
 ### RandoMapMod
 
-- Version: 3.5.5.0 -> 3.5.7.0
+- Version: 3.5.5.0 -> 3.5.8.0
 
 ### Vanilla Map Mod
 
 - Version: 2.1.0.0 -> 2.1.1.0
-
-### WideCamera
-
-- Version: 1.5.0.0 -> 1.5.1.0
-- Description
-  + Old: Make ultrawide screens possible without black bars. Should also work for thinner than 16:9. In theory.
-  + New: Make ultrawide screens possible without black bars. Should also work for thinner/taller than 16:9. In theory.
 

@@ -1,4 +1,3 @@
-BingoGoalPack1
 Seer
 Afterimage Plus
 MoreDoors
@@ -24,4 +23,5 @@ MapChanger
 RCPathfinder
 RandoMapMod
 Vanilla Map Mod
+RandoMapMod
 RandoMapMod

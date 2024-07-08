@@ -1,4 +1,3 @@
-WideCamera
 Biblically Accurate Lasers
 AccessRandomizer
 Biblically Accurate Lasers
@@ -9,4 +8,5 @@ MapChanger
 RCPathfinder
 RandoMapMod
 Vanilla Map Mod
+RandoMapMod
 RandoMapMod
