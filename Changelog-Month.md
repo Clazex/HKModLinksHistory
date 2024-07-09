@@ -58,7 +58,7 @@
 
 ### Breakable Wall Randomizer
 
-- Version: 2.1.0.1 -> 3.0.0.3
+- Version: 2.1.0.1 -> 3.0.0.4
 - Description
   + Old: Adds dive floors, breakable walls, and one-way walls to Randomizer 4. Configure in connections menu after installation.
   + New: A Hollow Knight Randomizer add-on for breakable walls.
@@ -75,7 +75,7 @@
 
 ### GodhomeRandomizer
 
-- Version: 2.2.3.0 -> 2.2.4.1
+- Version: 2.2.3.0 -> 2.2.4.2
 
 ### MapChanger
 
@@ -96,6 +96,10 @@
 ### RandoMapMod
 
 - Version: 3.5.5.0 -> 3.5.8.0
+
+### TheRealJournalRando
+
+- Version: 2.4.8880.41963 -> 2.4.8955.7331
 
 ### Vanilla Map Mod
 

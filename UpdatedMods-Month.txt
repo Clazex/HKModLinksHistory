@@ -19,3 +19,6 @@ RandoMapMod
 Vanilla Map Mod
 RandoMapMod
 RandoMapMod
+Breakable Wall Randomizer
+GodhomeRandomizer
+TheRealJournalRando

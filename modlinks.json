@@ -705,11 +705,11 @@
   },
   "Breakable Wall Randomizer": {
     "description": "A Hollow Knight Randomizer add-on for breakable walls.",
-    "version": "3.0.0.3",
+    "version": "3.0.0.4",
     "links": {
       "type": "universal",
-      "sha256": "F8B0ACA9729917E5A010D3F22960878475D55F7724EA96A81E1F8142E6CE9E8B",
-      "url": "https://github.com/nerthul11/BreakableWallRandomizer/releases/download/3.0.0.3/BreakableWallRandomizer.zip"
+      "sha256": "C511453AE71DEDD929774B25D2B02E73246A61E13C78F5B3DA7D2BF2AFD1315F",
+      "url": "https://github.com/nerthul11/BreakableWallRandomizer/releases/download/3.0.0.4/BreakableWallRandomizer.zip"
     },
     "dependencies": [
       "Randomizer 4",
@@ -2615,11 +2615,11 @@
   },
   "GodhomeRandomizer": {
     "description": "A Randomizer add-on for Godhome elements.",
-    "version": "2.2.4.1",
+    "version": "2.2.4.2",
     "links": {
       "type": "universal",
-      "sha256": "D3C7D2FB4AD681428DCFC0D2D59E298B5BAAE3D540BD7CC93FA0F05C6CCCF02C",
-      "url": "https://github.com/nerthul11/GodhomeRandomizer/releases/download/2.2.4.1/GodhomeRandomizer.zip"
+      "sha256": "B1E5D1B6B6E2DF568568DA689417F160EF67063BEF89D924DD5373EBA6957C49",
+      "url": "https://github.com/nerthul11/GodhomeRandomizer/releases/download/2.2.4.2/GodhomeRandomizer.zip"
     },
     "dependencies": [
       "ItemChanger",
@@ -6220,11 +6220,11 @@
   },
   "TheRealJournalRando": {
     "description": "Randomizer 4 addon that adds the option to randomize all other Hunter's Journal entries. Activate in the Connections menu of Randomizer 4.",
-    "version": "2.4.8880.41963",
+    "version": "2.4.8955.7331",
     "links": {
       "type": "universal",
-      "sha256": "B47633000651F66C05317C240E421119D2B4E17C78E609C16AB0D5271CA19D74",
-      "url": "https://github.com/BadMagic100/TheRealJournalRando/releases/download/v2.4.8880.41963/TheRealJournalRando.zip"
+      "sha256": "59B67256C75AE2A417BA2165F07EB0B11FA67094C2A0FB35C126D2FB2CED71CA",
+      "url": "https://github.com/BadMagic100/TheRealJournalRando/releases/download/v2.4.8955.7331/TheRealJournalRando.zip"
     },
     "dependencies": [
       "ItemChanger"
