@@ -22,3 +22,5 @@ RandoMapMod
 Breakable Wall Randomizer
 GodhomeRandomizer
 TheRealJournalRando
+BingoGoalPack1
+Breakable Wall Randomizer

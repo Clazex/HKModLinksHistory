@@ -12,23 +12,27 @@
 - Tags
   + Utility
 
+### Sein
+
+- Description: Companion mod for the Custom Knight skin &quot;Ori&quot;, adding specialized effects
+- Dependencies
+  + Custom Knight
+  + CustomKnightSuperAnimationAddon
+  + FrogCore
+  + ItemChanger
+  + PurenailCore
+  + SFCore
+
 
 ## Updated mods
 
-### AccessRandomizer
+### BingoGoalPack1
 
-- Version: 1.2.1.1 -> 1.2.2.0
-
-### Biblically Accurate Lasers
-
-- Version: 1.0.0.0 -> 1.1.0.0
-- Description
-  + Old: Adds some more, configurable lasers to the Radiance and Absolute Radiance fights.
-  + New: Adds some configurable lasers to the Radiance and Absolute Radiance fights.
+- Version: 1.2.3.1 -> 1.3.0.6
 
 ### Breakable Wall Randomizer
 
-- Version: 3.0.0.2 -> 3.0.0.4
+- Version: 3.0.0.3 -> 3.0.0.5
 
 ### ControllerFixes
 

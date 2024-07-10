@@ -517,9 +517,9 @@ All with an incredible new soundtrack!</Description>
     <Manifest>
         <Name>Breakable Wall Randomizer</Name>
         <Description>A Hollow Knight Randomizer add-on for breakable walls.</Description>
-        <Version>3.0.0.1</Version>
-        <Link SHA256="4e43bbef332f301c6f244cf2a5fa366641476f649c1f7c8cedcb40913d0cc832">
-            <![CDATA[https://github.com/nerthul11/BreakableWallRandomizer/releases/download/3.0.0.1/BreakableWallRandomizer.zip]]>
+        <Version>3.0.0.2</Version>
+        <Link SHA256="a986bcd1bf43496226878a175316cd496ef95cd026aae294107937c3acf4b8ef">
+            <![CDATA[https://github.com/nerthul11/BreakableWallRandomizer/releases/download/3.0.0.2/BreakableWallRandomizer.zip]]>
         </Link>
         <Dependencies>
             <Dependency>Randomizer 4</Dependency>
@@ -6148,9 +6148,9 @@ This is a singleplayer mod. The "teamwork" refers to in-game events.</Descriptio
     <Manifest>
         <Name>BingoSync</Name>
         <Description>A Hollow Knight mod that automatically marks squares on bingosync.com</Description>
-        <Version>1.2.3.0</Version>
-        <Link SHA256="BDB142B5A8FE525452E857E4244FD97BD080F4159BD72E3D324EB6AF72DD5924">
-            <![CDATA[https://github.com/pedroteosousa/HollowKnight.BingoSync/releases/download/1.2.3.0/BingoSync.zip]]>
+        <Version>1.2.4.0</Version>
+        <Link SHA256="F5A2332EDD2C77823D9255F4B50CF2B774FD10284BD2447EDC3DA7552F610EE7">
+            <![CDATA[https://github.com/pedroteosousa/HollowKnight.BingoSync/releases/download/1.2.4.0/BingoSync.zip]]>
         </Link>
         <Dependencies>
             <Dependency>MagicUI</Dependency>

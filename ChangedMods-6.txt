@@ -1,3 +1,6 @@
-AccessRandomizer
-Biblically Accurate Lasers
-Breakable Wall Randomizer
+ControllerFixes
+Hollow Knight Achievement Manager
+MapChanger
+RCPathfinder
+RandoMapMod
+Vanilla Map Mod

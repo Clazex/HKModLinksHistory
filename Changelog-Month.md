@@ -39,6 +39,17 @@
   + SFCore
   + WeaverCore
 
+### Sein
+
+- Description: Companion mod for the Custom Knight skin &quot;Ori&quot;, adding specialized effects
+- Dependencies
+  + Custom Knight
+  + CustomKnightSuperAnimationAddon
+  + FrogCore
+  + ItemChanger
+  + PurenailCore
+  + SFCore
+
 ### SkiploverSpoilerLog
 
 - Description: Creates a Skiplover Spoiler Log in the Rando Logs directory showing what would be reachable with All skips enabled.
@@ -52,13 +63,17 @@
 
 - Version: 1.2.1.1 -> 1.2.2.0
 
+### BingoGoalPack1
+
+- Version: 1.2.3.1 -> 1.3.0.6
+
 ### BingoSync
 
 - Version: 1.2.2.0 -> 1.2.4.0
 
 ### Breakable Wall Randomizer
 
-- Version: 2.1.0.1 -> 3.0.0.4
+- Version: 2.1.0.1 -> 3.0.0.5
 - Description
   + Old: Adds dive floors, breakable walls, and one-way walls to Randomizer 4. Configure in connections menu after installation.
   + New: A Hollow Knight Randomizer add-on for breakable walls.

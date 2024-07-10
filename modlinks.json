@@ -555,11 +555,11 @@
   },
   "BingoGoalPack1": {
     "description": "Adds more goals to BingoSync and includes new board types",
-    "version": "1.2.3.1",
+    "version": "1.3.0.6",
     "links": {
       "type": "universal",
-      "sha256": "A37D2A068A299839BFB2AA12541DE5C5770870ED0E9C612A4BE5690BD8848A6B",
-      "url": "https://github.com/TheMathGeek314/BingoGoalPack1/releases/download/v1.2.3.1/BingoGoalPack1.zip"
+      "sha256": "8F48A8FAA21ABBD21E18C8D62BE2C5F41246CE37B4C15326DFDDA72F0F04A4C4",
+      "url": "https://github.com/TheMathGeek314/BingoGoalPack1/releases/download/v1.3.0.6/BingoGoalPack1.zip"
     },
     "dependencies": [
       "BingoSyncExtension",
@@ -705,11 +705,11 @@
   },
   "Breakable Wall Randomizer": {
     "description": "A Hollow Knight Randomizer add-on for breakable walls.",
-    "version": "3.0.0.4",
+    "version": "3.0.0.5",
     "links": {
       "type": "universal",
-      "sha256": "C511453AE71DEDD929774B25D2B02E73246A61E13C78F5B3DA7D2BF2AFD1315F",
-      "url": "https://github.com/nerthul11/BreakableWallRandomizer/releases/download/3.0.0.4/BreakableWallRandomizer.zip"
+      "sha256": "CA68DA7F46E0DCE06FE70FEEC0C7063E13CC39ED38AAAA84DE4D4F261976E5E1",
+      "url": "https://github.com/nerthul11/BreakableWallRandomizer/releases/download/3.0.0.5/BreakableWallRandomizer.zip"
     },
     "dependencies": [
       "Randomizer 4",
@@ -5683,6 +5683,24 @@
       "WeaverCore"
     ],
     "repository": "https://github.com/danirainy/DreamEchoes"
+  },
+  "Sein": {
+    "description": "Companion mod for the Custom Knight skin \"Ori\", adding specialized effects",
+    "version": "1.0.0.1",
+    "links": {
+      "type": "universal",
+      "sha256": "5A3876B32CA7DF61D96A4C68501060FEFD4DC978795F983A53D032268CC3D1AB",
+      "url": "https://github.com/dplochcoder/HollowKnight.Sein/releases/download/v1.0.0.1/Sein.zip"
+    },
+    "dependencies": [
+      "Custom Knight",
+      "CustomKnightSuperAnimationAddon",
+      "FrogCore",
+      "ItemChanger",
+      "PurenailCore",
+      "SFCore"
+    ],
+    "repository": "https://github.com/dplochcoder/HollowKnight.Sein"
   },
   "ShadeControl": {
     "description": "A DebugAddition make you can control shade spell",
