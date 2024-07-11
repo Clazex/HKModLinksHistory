@@ -24,3 +24,4 @@ GodhomeRandomizer
 TheRealJournalRando
 BingoGoalPack1
 Breakable Wall Randomizer
+Sein

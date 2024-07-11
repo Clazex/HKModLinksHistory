@@ -5,3 +5,6 @@ RemoveLaggyObjects
 Biblically Accurate Lasers
 Hollow Knight Achievement Manager
 Sein
+DynamicCrystalDash
+ModCommon
+Omega Radiance

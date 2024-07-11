@@ -1,6 +1,0 @@
-ControllerFixes
-Hollow Knight Achievement Manager
-MapChanger
-RCPathfinder
-RandoMapMod
-Vanilla Map Mod

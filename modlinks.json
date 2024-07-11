@@ -1897,6 +1897,22 @@
       "Gameplay"
     ]
   },
+  "DynamicCrystalDash": {
+    "description": "Scales the speed of cdash by how long you charge it",
+    "version": "1.0.0.0",
+    "links": {
+      "type": "universal",
+      "sha256": "090B765439366A939CAC3DA5D410A1B5A62551BAC0CFB61C68545ED25A5FBC83",
+      "url": "https://github.com/TheMathGeek314/DynamicCrystalDash/releases/download/v1.0.0.0/DynamicCrystalDash.zip"
+    },
+    "dependencies": [
+      "Satchel"
+    ],
+    "repository": "https://github.com/TheMathGeek314/DynamicCrystalDash/",
+    "authors": [
+      "TheMathGeek_314"
+    ]
+  },
   "ESoulLink": {
     "description": "A Pouch Mod that makes enemies share health over HKMP server.",
     "version": "1.0.0.0",
@@ -4150,6 +4166,23 @@
       "Mimijackz"
     ]
   },
+  "ModCommon": {
+    "description": "A hollow knight mod that provides an API of helpers and other utilities for modding hollow knight.\nNot recommended for use in new mods.",
+    "version": "1.0.0.0",
+    "links": {
+      "type": "universal",
+      "sha256": "A4959501676033BB66136B466597F266794EF3627C92C4455C94B2A6450B69AA",
+      "url": "https://github.com/HK-Modding-Preservation/ModCommon/releases/download/v1/ModCommon_1.5.dll"
+    },
+    "dependencies": [],
+    "repository": "https://github.com/HK-Modding-Preservation/ModCommon",
+    "tags": [
+      "Library"
+    ],
+    "authors": [
+      "Kerr1291"
+    ]
+  },
   "ModConsole": {
     "description": "In-game C# REPL which allows you to easily test code.",
     "version": "2.0.0.0",
@@ -4592,6 +4625,25 @@
       "CondensedSpoilerLogger",
       "RandoSettingsManager",
       "Randomizer 4"
+    ]
+  },
+  "Omega Radiance": {
+    "description": "Face the god of power, a modified version of Any Radiance which was made not to be harder but to be a cool and unique fight.",
+    "version": "0.0.1.0",
+    "links": {
+      "type": "universal",
+      "sha256": "46B902C89CBA96B8FA2481E7C7736FED3AE5DC23EF9A793B3650B2CB239D9149",
+      "url": "https://github.com/Talezshadid/Omega-Radiance/raw/main/OmegaRadiance.dll"
+    },
+    "dependencies": [
+      "ModCommon"
+    ],
+    "repository": "https://github.com/Talezshadid/Omega-Radiance",
+    "tags": [
+      "Boss"
+    ],
+    "authors": [
+      "talezshadid"
     ]
   },
   "OrbTracker": {
@@ -5686,11 +5738,11 @@
   },
   "Sein": {
     "description": "Companion mod for the Custom Knight skin \"Ori\", adding specialized effects",
-    "version": "1.0.0.1",
+    "version": "1.1.0.0",
     "links": {
       "type": "universal",
-      "sha256": "5A3876B32CA7DF61D96A4C68501060FEFD4DC978795F983A53D032268CC3D1AB",
-      "url": "https://github.com/dplochcoder/HollowKnight.Sein/releases/download/v1.0.0.1/Sein.zip"
+      "sha256": "47D512EDEB8F7CCA567B4A7067A19FD8BCE837462BB11F30088B1FBB80F8E351",
+      "url": "https://github.com/dplochcoder/HollowKnight.Sein/releases/download/v1.1.0.0/Sein.zip"
     },
     "dependencies": [
       "Custom Knight",
@@ -5698,7 +5750,8 @@
       "FrogCore",
       "ItemChanger",
       "PurenailCore",
-      "SFCore"
+      "SFCore",
+      "Satchel"
     ],
     "repository": "https://github.com/dplochcoder/HollowKnight.Sein"
   },

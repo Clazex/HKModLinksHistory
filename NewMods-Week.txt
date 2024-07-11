@@ -1,2 +1,4 @@
-Hollow Knight Achievement Manager
 Sein
+DynamicCrystalDash
+ModCommon
+Omega Radiance

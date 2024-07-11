@@ -1,9 +1,3 @@
-ControllerFixes
-Hollow Knight Achievement Manager
-MapChanger
-RCPathfinder
-RandoMapMod
-Vanilla Map Mod
 RandoMapMod
 RandoMapMod
 Breakable Wall Randomizer
@@ -11,4 +5,8 @@ GodhomeRandomizer
 TheRealJournalRando
 BingoGoalPack1
 Breakable Wall Randomizer
+Sein
+DynamicCrystalDash
+ModCommon
+Omega Radiance
 Sein
