@@ -555,11 +555,11 @@
   },
   "BingoGoalPack1": {
     "description": "Adds more goals to BingoSync and includes new board types",
-    "version": "1.3.0.6",
+    "version": "1.3.1.0",
     "links": {
       "type": "universal",
-      "sha256": "8F48A8FAA21ABBD21E18C8D62BE2C5F41246CE37B4C15326DFDDA72F0F04A4C4",
-      "url": "https://github.com/TheMathGeek314/BingoGoalPack1/releases/download/v1.3.0.6/BingoGoalPack1.zip"
+      "sha256": "58D70DC45106940C18C23DB61ED6170F335BD1380938E5ED5E00A0E0962508AB",
+      "url": "https://github.com/TheMathGeek314/BingoGoalPack1/releases/download/v1.3.1.0/BingoGoalPack1.zip"
     },
     "dependencies": [
       "BingoSyncExtension",
@@ -4632,7 +4632,7 @@
     "version": "0.0.1.0",
     "links": {
       "type": "universal",
-      "sha256": "46B902C89CBA96B8FA2481E7C7736FED3AE5DC23EF9A793B3650B2CB239D9149",
+      "sha256": "E3DC183164A37EF713CE4BEC4A7C3FF57D921D79E72906D417FA845E6D63CE10",
       "url": "https://github.com/Talezshadid/Omega-Radiance/raw/main/OmegaRadiance.dll"
     },
     "dependencies": [

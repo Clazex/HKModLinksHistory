@@ -1,17 +1,27 @@
 # Changelog
 
 
+## New mods
+
+### Sein
+
+- Description: Companion mod for the Custom Knight skin &quot;Ori&quot;, adding specialized effects
+- Dependencies
+  + Custom Knight
+  + CustomKnightSuperAnimationAddon
+  + FrogCore
+  + ItemChanger
+  + PurenailCore
+  + SFCore
+
+
 ## Updated mods
+
+### BingoGoalPack1
+
+- Version: 1.2.3.1 -> 1.3.0.6
 
 ### Breakable Wall Randomizer
 
-- Version: 3.0.0.3 -> 3.0.0.4
-
-### GodhomeRandomizer
-
-- Version: 2.2.4.1 -> 2.2.4.2
-
-### TheRealJournalRando
-
-- Version: 2.4.8880.41963 -> 2.4.8955.7331
+- Version: 3.0.0.4 -> 3.0.0.5
 

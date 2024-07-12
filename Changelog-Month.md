@@ -87,7 +87,7 @@ Not recommended for use in new mods.
 
 ### BingoGoalPack1
 
-- Version: 1.2.3.1 -> 1.3.0.6
+- Version: 1.2.3.1 -> 1.3.1.0
 
 ### BingoSync
 

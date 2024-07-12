@@ -10,3 +10,4 @@ DynamicCrystalDash
 ModCommon
 Omega Radiance
 Sein
+BingoGoalPack1

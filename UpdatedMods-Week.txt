@@ -6,3 +6,4 @@ TheRealJournalRando
 BingoGoalPack1
 Breakable Wall Randomizer
 Sein
+BingoGoalPack1
