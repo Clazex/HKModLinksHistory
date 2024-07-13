@@ -705,11 +705,11 @@
   },
   "Breakable Wall Randomizer": {
     "description": "A Hollow Knight Randomizer add-on for breakable walls.",
-    "version": "3.0.0.5",
+    "version": "3.0.1.0",
     "links": {
       "type": "universal",
-      "sha256": "CA68DA7F46E0DCE06FE70FEEC0C7063E13CC39ED38AAAA84DE4D4F261976E5E1",
-      "url": "https://github.com/nerthul11/BreakableWallRandomizer/releases/download/3.0.0.5/BreakableWallRandomizer.zip"
+      "sha256": "14D5030678A9CF1CD55F5A5018B61AE577550BD925D92E18A95BA402FC29F960",
+      "url": "https://github.com/nerthul11/BreakableWallRandomizer/releases/download/3.0.1.0/BreakableWallRandomizer.zip"
     },
     "dependencies": [
       "Randomizer 4",
@@ -2631,11 +2631,11 @@
   },
   "GodhomeRandomizer": {
     "description": "A Randomizer add-on for Godhome elements.",
-    "version": "2.2.4.2",
+    "version": "2.2.4.3",
     "links": {
       "type": "universal",
-      "sha256": "B1E5D1B6B6E2DF568568DA689417F160EF67063BEF89D924DD5373EBA6957C49",
-      "url": "https://github.com/nerthul11/GodhomeRandomizer/releases/download/2.2.4.2/GodhomeRandomizer.zip"
+      "sha256": "BDC92DE40987B0006116B6AB8D6513ED099CAA191D34D29065FE95D62BD1754E",
+      "url": "https://github.com/nerthul11/GodhomeRandomizer/releases/download/2.2.4.3/GodhomeRandomizer.zip"
     },
     "dependencies": [
       "ItemChanger",

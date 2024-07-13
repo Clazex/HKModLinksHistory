@@ -1,5 +1,4 @@
 RandoMapMod
-RandoMapMod
 Breakable Wall Randomizer
 GodhomeRandomizer
 TheRealJournalRando
@@ -11,3 +10,5 @@ ModCommon
 Omega Radiance
 Sein
 BingoGoalPack1
+Breakable Wall Randomizer
+GodhomeRandomizer

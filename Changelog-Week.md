@@ -45,15 +45,15 @@ Not recommended for use in new mods.
 
 ### Breakable Wall Randomizer
 
-- Version: 3.0.0.3 -> 3.0.0.5
+- Version: 3.0.0.3 -> 3.0.1.0
 
 ### GodhomeRandomizer
 
-- Version: 2.2.4.1 -> 2.2.4.2
+- Version: 2.2.4.1 -> 2.2.4.3
 
 ### RandoMapMod
 
-- Version: 3.5.6.0 -> 3.5.8.0
+- Version: 3.5.7.0 -> 3.5.8.0
 
 ### TheRealJournalRando
 

@@ -26,3 +26,5 @@ BingoGoalPack1
 Breakable Wall Randomizer
 Sein
 BingoGoalPack1
+Breakable Wall Randomizer
+GodhomeRandomizer
