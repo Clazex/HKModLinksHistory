@@ -39,6 +39,10 @@ Not recommended for use in new mods.
 
 ## Updated mods
 
+### BenchDeploy
+
+- Version: 1.2.1.0 -> 1.3.0.0
+
 ### BingoGoalPack1
 
 - Version: 1.2.3.1 -> 1.3.1.0
@@ -50,10 +54,6 @@ Not recommended for use in new mods.
 ### GodhomeRandomizer
 
 - Version: 2.2.4.1 -> 2.2.4.3
-
-### RandoMapMod
-
-- Version: 3.5.7.0 -> 3.5.8.0
 
 ### TheRealJournalRando
 

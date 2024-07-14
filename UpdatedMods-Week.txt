@@ -1,4 +1,3 @@
-RandoMapMod
 Breakable Wall Randomizer
 GodhomeRandomizer
 TheRealJournalRando
@@ -8,3 +7,4 @@ Sein
 BingoGoalPack1
 Breakable Wall Randomizer
 GodhomeRandomizer
+BenchDeploy

@@ -414,11 +414,11 @@
   },
   "BenchDeploy": {
     "description": "Deploy Multi Bench use controller/keyboard",
-    "version": "1.2.1.0",
+    "version": "1.3.0.0",
     "links": {
       "type": "universal",
-      "sha256": "385B9E6597C662273FE96D0D61DA84645E3F98CE5FA85AB5DC0DCFDE8EC7E24C",
-      "url": "https://github.com/wdghzym/HollowKnight.BenchDeploy/releases/download/v1.2.1.0/BenchDeploy.V1.2.1.0.zip"
+      "sha256": "D6EC76D9BC642BE331A29B4E37655FC8AC85B8809EFAE2DE5496A1A761285447",
+      "url": "https://github.com/wdghzym/HollowKnight.BenchDeploy/releases/download/v1.2.1.0/BenchDeploy.v.1.3.0.0.zip"
     },
     "dependencies": [
       "Benchwarp",
