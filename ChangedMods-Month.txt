@@ -1,6 +1,3 @@
-Afterimage Plus
-MoreDoors
-SkiploverSpoilerLog
 GodhomeRandomizer
 MoreDoors
 RemoveLaggyObjects
@@ -38,3 +35,5 @@ BingoGoalPack1
 Breakable Wall Randomizer
 GodhomeRandomizer
 BenchDeploy
+Archipelago
+Archipelago Map Mod

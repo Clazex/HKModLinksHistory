@@ -39,6 +39,14 @@ Not recommended for use in new mods.
 
 ## Updated mods
 
+### Archipelago
+
+- Version: 0.4.2.0 -> 0.5.0.0
+
+### Archipelago Map Mod
+
+- Version: 2.2.0.0 -> 2.2.1.0
+
 ### BenchDeploy
 
 - Version: 1.2.1.0 -> 1.3.0.0
@@ -49,13 +57,9 @@ Not recommended for use in new mods.
 
 ### Breakable Wall Randomizer
 
-- Version: 3.0.0.3 -> 3.0.1.0
+- Version: 3.0.0.4 -> 3.0.1.0
 
 ### GodhomeRandomizer
 
-- Version: 2.2.4.1 -> 2.2.4.3
-
-### TheRealJournalRando
-
-- Version: 2.4.8880.41963 -> 2.4.8955.7331
+- Version: 2.2.4.2 -> 2.2.4.3
 

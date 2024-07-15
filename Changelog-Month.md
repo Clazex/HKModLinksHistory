@@ -3,12 +3,6 @@
 
 ## New mods
 
-### Afterimage Plus
-
-- Description: A mod that gives customizable afterimages to the Knight and enemies.
-- Tags
-  + Cosmetic
-
 ### Biblically Accurate Lasers
 
 - Description: Adds some configurable lasers to the Radiance and Absolute Radiance fights.
@@ -64,18 +58,20 @@ Not recommended for use in new mods.
   + SFCore
   + Satchel
 
-### SkiploverSpoilerLog
-
-- Description: Creates a Skiplover Spoiler Log in the Rando Logs directory showing what would be reachable with All skips enabled.
-- Dependencies
-  + CondensedSpoilerLogger
-
 
 ## Updated mods
 
 ### AccessRandomizer
 
 - Version: 1.2.1.1 -> 1.2.2.0
+
+### Archipelago
+
+- Version: 0.4.2.0 -> 0.5.0.0
+
+### Archipelago Map Mod
+
+- Version: 2.2.0.0 -> 2.2.1.0
 
 ### BenchDeploy
 
@@ -116,7 +112,7 @@ Not recommended for use in new mods.
 
 ### MoreDoors
 
-- Version: 3.0.4.1 -> 3.0.6.1
+- Version: 3.0.5.1 -> 3.0.6.1
 
 ### MoreLocations
 
