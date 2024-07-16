@@ -1,6 +1,3 @@
-BingoGoalPack1
-Breakable Wall Randomizer
-Sein
 DynamicCrystalDash
 ModCommon
 Omega Radiance

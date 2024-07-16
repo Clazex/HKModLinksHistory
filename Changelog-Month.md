@@ -39,13 +39,6 @@ Not recommended for use in new mods.
 - Tags
   + Boss
 
-### RemoveLaggyObjects
-
-- Description: Removes various objects from scenes where they can cause major lag.
-- Tags
-  + Cosmetic
-  + Gameplay
-
 ### Sein
 
 - Description: Companion mod for the Custom Knight skin &quot;Ori&quot;, adding specialized effects
@@ -104,15 +97,11 @@ Not recommended for use in new mods.
 
 ### GodhomeRandomizer
 
-- Version: 2.2.3.0 -> 2.2.4.3
+- Version: 2.2.4.0 -> 2.2.4.3
 
 ### MapChanger
 
 - Version: 1.2.1.0 -> 1.2.2.0
-
-### MoreDoors
-
-- Version: 3.0.5.1 -> 3.0.6.1
 
 ### MoreLocations
 

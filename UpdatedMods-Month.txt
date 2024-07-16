@@ -1,5 +1,3 @@
-GodhomeRandomizer
-MoreDoors
 BingoSync
 MoreLocations
 Breakable Wall Randomizer
