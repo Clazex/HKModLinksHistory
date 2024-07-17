@@ -705,11 +705,11 @@
   },
   "Breakable Wall Randomizer": {
     "description": "A Hollow Knight Randomizer add-on for breakable walls.",
-    "version": "3.0.1.0",
+    "version": "3.0.1.1",
     "links": {
       "type": "universal",
-      "sha256": "14D5030678A9CF1CD55F5A5018B61AE577550BD925D92E18A95BA402FC29F960",
-      "url": "https://github.com/nerthul11/BreakableWallRandomizer/releases/download/3.0.1.0/BreakableWallRandomizer.zip"
+      "sha256": "10C8E413F4B007174159CBCCAC4FC5EBEC9C8EBAF1B4010475FD31FBD45F4250",
+      "url": "https://github.com/nerthul11/BreakableWallRandomizer/releases/download/3.0.1.1/BreakableWallRandomizer.zip"
     },
     "dependencies": [
       "Randomizer 4",
@@ -6157,6 +6157,23 @@
     ],
     "authors": [
       "ChouchIsCool"
+    ]
+  },
+  "Stories of a HK player - Chapter 1": {
+    "description": "The start of a story of a Hollow Knight player and his personalized copy of the game.",
+    "version": "1.5.0.0",
+    "links": {
+      "type": "universal",
+      "sha256": "28FE1E34A8EB8F7C1AE73103603567061EB7580BE8BA724DE21AFD7317FBC6C6",
+      "url": "https://github.com/SFGrenade/StoriesOfaHkPlayer-Ch1/releases/download/v1.5/StoriesOfaHkPlayer_Ch1.zip"
+    },
+    "dependencies": [],
+    "repository": "https://github.com/SFGrenade/StoriesOfaHkPlayer-Ch1/",
+    "tags": [
+      "Cosmetic"
+    ],
+    "authors": [
+      "SFGrenade"
     ]
   },
   "Test of Teamwork": {

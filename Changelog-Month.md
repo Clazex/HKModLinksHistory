@@ -51,6 +51,12 @@ Not recommended for use in new mods.
   + SFCore
   + Satchel
 
+### Stories of a HK player - Chapter 1
+
+- Description: The start of a story of a Hollow Knight player and his personalized copy of the game.
+- Tags
+  + Cosmetic
+
 
 ## Updated mods
 
@@ -80,7 +86,7 @@ Not recommended for use in new mods.
 
 ### Breakable Wall Randomizer
 
-- Version: 2.1.0.1 -> 3.0.1.0
+- Version: 2.1.0.1 -> 3.0.1.1
 - Description
   + Old: Adds dive floors, breakable walls, and one-way walls to Randomizer 4. Configure in connections menu after installation.
   + New: A Hollow Knight Randomizer add-on for breakable walls.

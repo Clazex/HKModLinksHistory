@@ -3,26 +3,11 @@
 
 ## New mods
 
-### DynamicCrystalDash
+### Stories of a HK player - Chapter 1
 
-- Description: Scales the speed of cdash by how long you charge it
-- Dependencies
-  + Satchel
-
-### ModCommon
-
-- Description: A hollow knight mod that provides an API of helpers and other utilities for modding hollow knight.
-Not recommended for use in new mods.
+- Description: The start of a story of a Hollow Knight player and his personalized copy of the game.
 - Tags
-  + Library
-
-### Omega Radiance
-
-- Description: Face the god of power, a modified version of Any Radiance which was made not to be harder but to be a cool and unique fight.
-- Dependencies
-  + ModCommon
-- Tags
-  + Boss
+  + Cosmetic
 
 
 ## Updated mods
@@ -45,16 +30,9 @@ Not recommended for use in new mods.
 
 ### Breakable Wall Randomizer
 
-- Version: 3.0.0.5 -> 3.0.1.0
+- Version: 3.0.0.5 -> 3.0.1.1
 
 ### GodhomeRandomizer
 
 - Version: 2.2.4.2 -> 2.2.4.3
-
-### Sein
-
-- Version: 1.0.0.1 -> 1.1.0.0
-- Dependencies
-  + Added
-    - Satchel
 
