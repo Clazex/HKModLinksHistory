@@ -1,2 +1,2 @@
+BingoSync
 Breakable Wall Randomizer
-GodhomeRandomizer

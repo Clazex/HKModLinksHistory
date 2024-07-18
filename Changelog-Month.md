@@ -54,6 +54,8 @@ Not recommended for use in new mods.
 ### Stories of a HK player - Chapter 1
 
 - Description: The start of a story of a Hollow Knight player and his personalized copy of the game.
+- Dependencies
+  + SFCore
 - Tags
   + Cosmetic
 
@@ -82,7 +84,7 @@ Not recommended for use in new mods.
 
 ### BingoSync
 
-- Version: 1.2.2.0 -> 1.2.4.0
+- Version: 1.2.3.0 -> 1.2.4.0
 
 ### Breakable Wall Randomizer
 

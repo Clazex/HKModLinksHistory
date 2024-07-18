@@ -1,5 +1,0 @@
-ControllerFixes
-MapChanger
-RCPathfinder
-RandoMapMod
-Vanilla Map Mod

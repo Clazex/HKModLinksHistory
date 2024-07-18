@@ -6167,7 +6167,9 @@
       "sha256": "28FE1E34A8EB8F7C1AE73103603567061EB7580BE8BA724DE21AFD7317FBC6C6",
       "url": "https://github.com/SFGrenade/StoriesOfaHkPlayer-Ch1/releases/download/v1.5/StoriesOfaHkPlayer_Ch1.zip"
     },
-    "dependencies": [],
+    "dependencies": [
+      "SFCore"
+    ],
     "repository": "https://github.com/SFGrenade/StoriesOfaHkPlayer-Ch1/",
     "tags": [
       "Cosmetic"

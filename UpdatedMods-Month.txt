@@ -1,4 +1,3 @@
-BingoSync
 MoreLocations
 Breakable Wall Randomizer
 Breakable Wall Randomizer
