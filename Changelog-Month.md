@@ -123,6 +123,10 @@ Not recommended for use in new mods.
 
 - Version: 3.5.5.0 -> 3.5.8.0
 
+### SFCore
+
+- Version: 1.5.11.2 -> 1.5.12.0
+
 ### TheRealJournalRando
 
 - Version: 2.4.8880.41963 -> 2.4.8955.7331

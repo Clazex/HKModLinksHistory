@@ -28,9 +28,9 @@
 
 ### Breakable Wall Randomizer
 
-- Version: 3.0.0.5 -> 3.0.1.1
+- Version: 3.0.1.0 -> 3.0.1.1
 
-### GodhomeRandomizer
+### SFCore
 
-- Version: 2.2.4.2 -> 2.2.4.3
+- Version: 1.5.11.2 -> 1.5.12.0
 

@@ -1,3 +1,0 @@
-DynamicCrystalDash
-ModCommon
-Omega Radiance
