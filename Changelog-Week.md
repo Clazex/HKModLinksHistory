@@ -22,13 +22,9 @@
 
 - Version: 2.2.0.0 -> 2.2.1.0
 
-### BenchDeploy
-
-- Version: 1.2.1.0 -> 1.3.0.0
-
 ### Breakable Wall Randomizer
 
-- Version: 3.0.1.0 -> 3.0.1.1
+- Version: 3.0.1.0 -> 3.0.1.2
 
 ### SFCore
 

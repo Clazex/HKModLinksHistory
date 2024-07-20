@@ -1,3 +1,2 @@
+BingoGoalPack1
 Breakable Wall Randomizer
-GodhomeRandomizer
-TheRealJournalRando

@@ -1,1 +1,2 @@
-BenchDeploy
+Archipelago
+Archipelago Map Mod

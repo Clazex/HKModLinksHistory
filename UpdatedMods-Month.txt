@@ -29,3 +29,4 @@ Archipelago
 Archipelago Map Mod
 Breakable Wall Randomizer
 SFCore
+Breakable Wall Randomizer
