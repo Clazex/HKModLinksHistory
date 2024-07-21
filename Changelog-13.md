@@ -3,7 +3,15 @@
 
 ## Updated mods
 
-### RandoMapMod
+### Breakable Wall Randomizer
 
-- Version: 3.5.7.0 -> 3.5.8.0
+- Version: 3.0.0.3 -> 3.0.0.4
+
+### GodhomeRandomizer
+
+- Version: 2.2.4.1 -> 2.2.4.2
+
+### TheRealJournalRando
+
+- Version: 2.4.8880.41963 -> 2.4.8955.7331
 
