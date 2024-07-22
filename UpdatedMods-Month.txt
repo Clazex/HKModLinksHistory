@@ -31,3 +31,5 @@ Breakable Wall Randomizer
 SFCore
 Breakable Wall Randomizer
 Archipelago Map Mod
+BingoGoalPack1
+BingoSyncExtension

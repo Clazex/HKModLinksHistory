@@ -3,7 +3,7 @@
 
 ## Updated mods
 
-### Breakable Wall Randomizer
+### Archipelago Map Mod
 
-- Version: 3.0.1.1 -> 3.0.1.2
+- Version: 2.2.1.0 -> 2.2.2.0
 

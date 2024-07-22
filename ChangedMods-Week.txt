@@ -3,3 +3,5 @@ Stories of a HK player - Chapter 1
 SFCore
 Breakable Wall Randomizer
 Archipelago Map Mod
+BingoGoalPack1
+BingoSyncExtension
