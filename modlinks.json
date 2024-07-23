@@ -6685,6 +6685,20 @@
       "SFGrenade"
     ]
   },
+  "WorseSteadyBody": {
+    "description": "Steady Body now has a more consistent effect",
+    "version": "1.0.0.0",
+    "links": {
+      "type": "universal",
+      "sha256": "2D4B4B71EC83D04CBB5E5DDC1FDF104B5DC859CB52A2B65F70F4F8B45D0504C9",
+      "url": "https://github.com/TheMathGeek314/WorseSteadyBody/releases/download/v1.0.0.0/WorseSteadyBody.zip"
+    },
+    "dependencies": [],
+    "repository": "https://github.com/TheMathGeek314/WorseSteadyBody/",
+    "authors": [
+      "TheMathGeek_314"
+    ]
+  },
   "Zaliants Surprise": {
     "description": "This is a mod idea by Zaliant.\nFormer Description:\nThis is the Pale Court mod.\nEnjoy!",
     "version": "1.5.2.0",

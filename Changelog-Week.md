@@ -3,13 +3,9 @@
 
 ## New mods
 
-### Stories of a HK player - Chapter 1
+### WorseSteadyBody
 
-- Description: The start of a story of a Hollow Knight player and his personalized copy of the game.
-- Dependencies
-  + SFCore
-- Tags
-  + Cosmetic
+- Description: Steady Body now has a more consistent effect
 
 
 ## Updated mods
@@ -28,7 +24,7 @@
 
 ### Breakable Wall Randomizer
 
-- Version: 3.0.1.0 -> 3.0.1.2
+- Version: 3.0.1.1 -> 3.0.1.2
 
 ### SFCore
 

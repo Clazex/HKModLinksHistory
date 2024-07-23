@@ -59,6 +59,10 @@ Not recommended for use in new mods.
 - Tags
   + Cosmetic
 
+### WorseSteadyBody
+
+- Description: Steady Body now has a more consistent effect
+
 
 ## Updated mods
 
@@ -114,10 +118,6 @@ Not recommended for use in new mods.
 ### MapChanger
 
 - Version: 1.2.1.0 -> 1.2.2.0
-
-### MoreLocations
-
-- Version: 1.1.8792.42313 -> 1.1.8940.26445
 
 ### RCPathfinder
 
