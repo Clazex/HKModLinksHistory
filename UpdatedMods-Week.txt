@@ -1,4 +1,3 @@
-SFCore
 Breakable Wall Randomizer
 Archipelago Map Mod
 BingoGoalPack1
