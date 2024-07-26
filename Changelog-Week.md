@@ -14,6 +14,16 @@
 
 - Version: 2.2.1.0 -> 2.2.2.0
 
+### BenchDeploy
+
+- Version: 1.3.0.0 -> 1.4.0.0
+- Description
+  + Old: Deploy Multi Bench use controller/keyboard
+  + New: Deploy Multi Bench use controller/keyboard. other player bench on itemsync MapSyncMod
+- Integrations
+  + Added
+    - MapSyncMod
+
 ### BingoGoalPack1
 
 - Version: 1.3.1.0 -> 1.4.0.0
@@ -22,7 +32,10 @@
 
 - Version: 1.1.1.0 -> 1.1.2.0
 
-### Breakable Wall Randomizer
+### MapSyncMod
 
-- Version: 3.0.1.1 -> 3.0.1.2
+- Version: 1.2.2.0 -> 1.3.0.0
+- Integrations
+  + Added
+    - BenchDeploy
 

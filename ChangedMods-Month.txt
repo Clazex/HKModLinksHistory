@@ -1,5 +1,4 @@
 Breakable Wall Randomizer
-Breakable Wall Randomizer
 GodhomeRandomizer
 BingoSync
 Breakable Wall Randomizer
@@ -40,3 +39,5 @@ Archipelago Map Mod
 BingoGoalPack1
 BingoSyncExtension
 WorseSteadyBody
+BenchDeploy
+MapSyncMod

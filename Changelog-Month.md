@@ -80,7 +80,13 @@ Not recommended for use in new mods.
 
 ### BenchDeploy
 
-- Version: 1.2.1.0 -> 1.3.0.0
+- Version: 1.2.1.0 -> 1.4.0.0
+- Description
+  + Old: Deploy Multi Bench use controller/keyboard
+  + New: Deploy Multi Bench use controller/keyboard. other player bench on itemsync MapSyncMod
+- Integrations
+  + Added
+    - MapSyncMod
 
 ### BingoGoalPack1
 
@@ -96,16 +102,7 @@ Not recommended for use in new mods.
 
 ### Breakable Wall Randomizer
 
-- Version: 2.1.0.1 -> 3.0.1.2
-- Description
-  + Old: Adds dive floors, breakable walls, and one-way walls to Randomizer 4. Configure in connections menu after installation.
-  + New: A Hollow Knight Randomizer add-on for breakable walls.
-- Dependencies
-  + Removed
-    - SFCore
-- Tags
-  + Removed
-    - Gameplay
+- Version: 3.0.0.0 -> 3.0.1.2
 
 ### ControllerFixes
 
@@ -118,6 +115,13 @@ Not recommended for use in new mods.
 ### MapChanger
 
 - Version: 1.2.1.0 -> 1.2.2.0
+
+### MapSyncMod
+
+- Version: 1.2.2.0 -> 1.3.0.0
+- Integrations
+  + Added
+    - BenchDeploy
 
 ### RCPathfinder
 
