@@ -3,7 +3,11 @@
 
 ## Updated mods
 
-### BingoGoalPack1
+### Breakable Wall Randomizer
 
-- Version: 1.3.0.6 -> 1.3.1.0
+- Version: 3.0.0.5 -> 3.0.1.0
+
+### GodhomeRandomizer
+
+- Version: 2.2.4.2 -> 2.2.4.3
 
