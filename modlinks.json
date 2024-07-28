@@ -4574,6 +4574,20 @@
       "Cosmetic"
     ]
   },
+  "NoTransitions": {
+    "description": "INCOMPLETE, BROKEN, DEMO VERSION. View ReadMe for more info",
+    "version": "0.9.3.0",
+    "links": {
+      "type": "universal",
+      "sha256": "CC3937184C716B9196C54E3675784A57D5D99E06DA335B0AF60F59E8D63459B8",
+      "url": "https://github.com/TheMathGeek314/NoTransitions/releases/download/v0.9.3.0/NoTransitions.zip"
+    },
+    "dependencies": [],
+    "repository": "https://github.com/TheMathGeek314/NoTransitions/",
+    "authors": [
+      "TheMathGeek_314"
+    ]
+  },
   "NoWalkOfShame": {
     "description": "Respawns you in the room you died in (skipping darkrooms/dreamrooms/colosseum)",
     "version": "1.0.0.3",

@@ -571,9 +571,9 @@ All with an incredible new soundtrack!</Description>
     <Manifest>
         <Name>Breakable Wall Randomizer</Name>
         <Description>A Hollow Knight Randomizer add-on for breakable walls.</Description>
-        <Version>3.0.1.0</Version>
-        <Link SHA256="14d5030678a9cf1cd55f5a5018b61ae577550bd925d92e18a95ba402fc29f960">
-            <![CDATA[https://github.com/nerthul11/BreakableWallRandomizer/releases/download/3.0.1.0/BreakableWallRandomizer.zip]]>
+        <Version>3.0.1.1</Version>
+        <Link SHA256="10c8e413f4b007174159cbccac4fc5ebec9c8ebaf1b4010475fd31fbd45f4250">
+            <![CDATA[https://github.com/nerthul11/BreakableWallRandomizer/releases/download/3.0.1.1/BreakableWallRandomizer.zip]]>
         </Link>
         <Dependencies>
             <Dependency>Randomizer 4</Dependency>
@@ -2484,6 +2484,24 @@ Enjoy!</Description>
         </Repository>
         <Tags>
             <Tag>Utility</Tag>
+        </Tags>
+        <Authors>
+            <Author>SFGrenade</Author>
+        </Authors>
+    </Manifest>
+    <Manifest>
+        <Name>Stories of a HK player - Chapter 1</Name>
+        <Description>The start of a story of a Hollow Knight player and his personalized copy of the game.</Description>
+        <Version>1.5.0.0</Version>
+        <Link SHA256="28FE1E34A8EB8F7C1AE73103603567061EB7580BE8BA724DE21AFD7317FBC6C6">
+            <![CDATA[https://github.com/SFGrenade/StoriesOfaHkPlayer-Ch1/releases/download/v1.5/StoriesOfaHkPlayer_Ch1.zip]]>
+        </Link>
+        <Dependencies />
+        <Repository>
+            <![CDATA[https://github.com/SFGrenade/StoriesOfaHkPlayer-Ch1/]]>
+        </Repository>
+        <Tags>
+            <Tag>Cosmetic</Tag>
         </Tags>
         <Authors>
             <Author>SFGrenade</Author>

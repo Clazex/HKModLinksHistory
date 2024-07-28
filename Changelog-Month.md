@@ -31,6 +31,10 @@ Not recommended for use in new mods.
 - Tags
   + Library
 
+### NoTransitions
+
+- Description: INCOMPLETE, BROKEN, DEMO VERSION. View ReadMe for more info
+
 ### Omega Radiance
 
 - Description: Face the god of power, a modified version of Any Radiance which was made not to be harder but to be a cool and unique fight.
@@ -102,7 +106,7 @@ Not recommended for use in new mods.
 
 ### Breakable Wall Randomizer
 
-- Version: 3.0.0.0 -> 3.0.1.2
+- Version: 3.0.0.1 -> 3.0.1.2
 
 ### ControllerFixes
 
@@ -110,7 +114,7 @@ Not recommended for use in new mods.
 
 ### GodhomeRandomizer
 
-- Version: 2.2.4.0 -> 2.2.4.3
+- Version: 2.2.4.1 -> 2.2.4.3
 
 ### MapChanger
 

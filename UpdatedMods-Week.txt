@@ -1,4 +1,2 @@
-BingoGoalPack1
-BingoSyncExtension
 BenchDeploy
 MapSyncMod

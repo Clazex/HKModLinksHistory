@@ -3,6 +3,10 @@
 
 ## New mods
 
+### NoTransitions
+
+- Description: INCOMPLETE, BROKEN, DEMO VERSION. View ReadMe for more info
+
 ### WorseSteadyBody
 
 - Description: Steady Body now has a more consistent effect
@@ -19,14 +23,6 @@
 - Integrations
   + Added
     - MapSyncMod
-
-### BingoGoalPack1
-
-- Version: 1.3.1.0 -> 1.4.0.0
-
-### BingoSyncExtension
-
-- Version: 1.1.1.0 -> 1.1.2.0
 
 ### MapSyncMod
 
