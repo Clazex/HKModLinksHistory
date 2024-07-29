@@ -7,10 +7,6 @@
 
 - Description: INCOMPLETE, BROKEN, DEMO VERSION. View ReadMe for more info
 
-### WorseSteadyBody
-
-- Description: Steady Body now has a more consistent effect
-
 
 ## Updated mods
 

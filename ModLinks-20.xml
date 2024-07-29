@@ -35,8 +35,8 @@
 <Manifest>
     <Name>BingoGoalPack1</Name>
     <Description>Adds more goals to BingoSync and includes new board types</Description>
-    <Version>1.2.3.1</Version>
-    <Link SHA256="a37d2a068a299839bfb2aa12541de5c5770870ed0e9c612a4be5690bd8848a6b"><![CDATA[https://github.com/TheMathGeek314/BingoGoalPack1/releases/download/v1.2.3.1/BingoGoalPack1.zip]]></Link>
+    <Version>1.3.0.6</Version>
+    <Link SHA256="8f48a8faa21abbd21e18c8d62be2c5f41246ce37b4c15326dfdda72f0f04a4c4"><![CDATA[https://github.com/TheMathGeek314/BingoGoalPack1/releases/download/v1.3.0.6/BingoGoalPack1.zip]]></Link>
     <Dependencies>
         <Dependency>BingoSyncExtension</Dependency>
     	<Dependency>Satchel</Dependency>
@@ -517,9 +517,9 @@ All with an incredible new soundtrack!</Description>
     <Manifest>
         <Name>Breakable Wall Randomizer</Name>
         <Description>A Hollow Knight Randomizer add-on for breakable walls.</Description>
-        <Version>3.0.0.4</Version>
-        <Link SHA256="c511453ae71dedd929774b25d2b02e73246a61e13c78f5b3da7d2bf2afd1315f">
-            <![CDATA[https://github.com/nerthul11/BreakableWallRandomizer/releases/download/3.0.0.4/BreakableWallRandomizer.zip]]>
+        <Version>3.0.0.5</Version>
+        <Link SHA256="ca68da7f46e0dce06fe70feec0c7063e13cc39ed38aaaa84de4d4f261976e5e1">
+            <![CDATA[https://github.com/nerthul11/BreakableWallRandomizer/releases/download/3.0.0.5/BreakableWallRandomizer.zip]]>
         </Link>
         <Dependencies>
             <Dependency>Randomizer 4</Dependency>
@@ -5474,6 +5474,25 @@ This is a singleplayer mod. The "teamwork" refers to in-game events.</Descriptio
             <Integration>Randomizer 4</Integration>
             <Integration>RandoSettingsManager</Integration>
         </Integrations>
+    </Manifest>
+    <Manifest>
+        <Name>Sein</Name>
+        <Description>Companion mod for the Custom Knight skin "Ori", adding specialized effects</Description>
+        <Version>1.0.0.1</Version>
+        <Link SHA256="5A3876B32CA7DF61D96A4C68501060FEFD4DC978795F983A53D032268CC3D1AB">
+            <![CDATA[https://github.com/dplochcoder/HollowKnight.Sein/releases/download/v1.0.0.1/Sein.zip]]>
+	</Link>
+        <Dependencies>
+	    <Dependency>Custom Knight</Dependency>
+            <Dependency>CustomKnightSuperAnimationAddon</Dependency>
+            <Dependency>FrogCore</Dependency>
+            <Dependency>ItemChanger</Dependency>
+            <Dependency>PurenailCore</Dependency>
+            <Dependency>SFCore</Dependency>
+        </Dependencies>
+        <Repository>
+            <![CDATA[https://github.com/dplochcoder/HollowKnight.Sein]]>
+        </Repository>
     </Manifest>
     <Manifest>
         <Name>SpoilerViewerMod</Name>

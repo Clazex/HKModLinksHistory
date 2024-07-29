@@ -96,17 +96,13 @@ Not recommended for use in new mods.
 
 - Version: 1.2.3.1 -> 1.4.0.0
 
-### BingoSync
-
-- Version: 1.2.3.0 -> 1.2.4.0
-
 ### BingoSyncExtension
 
 - Version: 1.1.1.0 -> 1.1.2.0
 
 ### Breakable Wall Randomizer
 
-- Version: 3.0.0.1 -> 3.0.1.2
+- Version: 3.0.0.2 -> 3.0.1.2
 
 ### ControllerFixes
 

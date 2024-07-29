@@ -3,7 +3,7 @@
 
 ## Updated mods
 
-### SFCore
+### Breakable Wall Randomizer
 
-- Version: 1.5.11.2 -> 1.5.12.0
+- Version: 3.0.1.1 -> 3.0.1.2
 
