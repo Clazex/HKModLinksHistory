@@ -5802,6 +5802,23 @@
     ],
     "repository": "https://github.com/HK-Modding-Preservation/Box074/"
   },
+  "ShowFPS": {
+    "description": "A mod that adds a FPS display in the bottom right corner.",
+    "version": "1.5.0.0",
+    "links": {
+      "type": "universal",
+      "sha256": "B7929834A26AC17BF05CED9C51EE283AD5EB3DD207EA1E1FF80112004FBCF081",
+      "url": "https://github.com/SFGrenade/ShowFPS/releases/download/v1.5/ShowFPS.zip"
+    },
+    "dependencies": [],
+    "repository": "https://github.com/SFGrenade/ShowFPS/",
+    "tags": [
+      "Utility"
+    ],
+    "authors": [
+      "SFGrenade"
+    ]
+  },
   "ShyKnight": {
     "description": "Removes the audience from Godhome arenas and Colosseum of Fools",
     "version": "1.3.0.0",

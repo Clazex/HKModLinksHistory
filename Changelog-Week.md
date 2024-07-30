@@ -7,6 +7,12 @@
 
 - Description: INCOMPLETE, BROKEN, DEMO VERSION. View ReadMe for more info
 
+### ShowFPS
+
+- Description: A mod that adds a FPS display in the bottom right corner.
+- Tags
+  + Utility
+
 
 ## Updated mods
 

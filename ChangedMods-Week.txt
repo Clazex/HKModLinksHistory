@@ -1,3 +1,4 @@
 BenchDeploy
 MapSyncMod
 NoTransitions
+ShowFPS

@@ -55,6 +55,12 @@ Not recommended for use in new mods.
   + SFCore
   + Satchel
 
+### ShowFPS
+
+- Description: A mod that adds a FPS display in the bottom right corner.
+- Tags
+  + Utility
+
 ### Stories of a HK player - Chapter 1
 
 - Description: The start of a story of a Hollow Knight player and his personalized copy of the game.
