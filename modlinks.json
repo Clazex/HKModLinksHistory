@@ -708,11 +708,11 @@
   },
   "Breakable Wall Randomizer": {
     "description": "A Hollow Knight Randomizer add-on for breakable walls.",
-    "version": "3.0.1.2",
+    "version": "3.0.2.0",
     "links": {
       "type": "universal",
-      "sha256": "B990661377C328663C4150D79402CF020ED904C5CDDFFE379C4A6D53D81E7626",
-      "url": "https://github.com/nerthul11/BreakableWallRandomizer/releases/download/3.0.1.2/BreakableWallRandomizer.zip"
+      "sha256": "BC404FD446A4785C3749885A6197881F55FC9A4CD15C42AE6B31E3A04C2DE339",
+      "url": "https://github.com/nerthul11/BreakableWallRandomizer/releases/download/3.0.2.0/BreakableWallRandomizer.zip"
     },
     "dependencies": [
       "Randomizer 4",
@@ -6127,17 +6127,20 @@
   },
   "Static Camera": {
     "description": "Locks the camera in place with a keybind.",
-    "version": "1.0.1.0",
+    "version": "1.0.2.0",
     "links": {
       "type": "universal",
-      "sha256": "2BCD435886F1EE5F7C79665D5C25739A5059F25CF4B2A143D4D1DAE49FB26ED5",
-      "url": "https://github.com/EarlyHemisphere/HK.StaticCamera/releases/download/v1.0.1/StaticCamera.dll"
+      "sha256": "9F4C1E447EB7831199BD721C0A45177ECB1E198EE12758B334F12CD5AC21C618",
+      "url": "https://github.com/EarlyHemisphere/HK.StaticCamera/releases/download/v1.0.2/StaticCamera.dll"
     },
     "dependencies": [
       "Satchel"
     ],
     "repository": "https://github.com/EarlyHemisphere/HK.StaticCamera",
     "issues": "https://github.com/EarlyHemisphere/HK.StaticCamera/issues",
+    "integrations": [
+      "DebugMod"
+    ],
     "tags": [
       "Utility"
     ],
@@ -6637,11 +6640,11 @@
   },
   "Vessel May Cry": {
     "description": "A mod that overhauls the Knight's moveset to match Vergil's. Reading the mod page is recommended.",
-    "version": "1.0.0.1",
+    "version": "1.0.0.2",
     "links": {
       "type": "universal",
-      "sha256": "3B247B0B811F792155AF41C5108860A4926970D6A6C5E42F26E46FCE4FB97E8B",
-      "url": "https://github.com/Samihamer1/Hollow-Knight-VesselMayCry/releases/download/v1.0.0.1/VMC1001.zip"
+      "sha256": "F5CCD1EF0A2D28CF980FC929D6840A73B9D13487A3BD901740C8086C95DA4A24",
+      "url": "https://github.com/Samihamer1/Hollow-Knight-VesselMayCry/releases/download/v1.0.0.2/VMC1002.zip"
     },
     "dependencies": [
       "FrogCore",

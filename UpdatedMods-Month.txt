@@ -28,3 +28,6 @@ BingoGoalPack1
 BingoSyncExtension
 BenchDeploy
 MapSyncMod
+Breakable Wall Randomizer
+Static Camera
+Vessel May Cry

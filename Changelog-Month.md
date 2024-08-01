@@ -3,12 +3,6 @@
 
 ## New mods
 
-### Biblically Accurate Lasers
-
-- Description: Adds some configurable lasers to the Radiance and Absolute Radiance fights.
-- Tags
-  + Boss
-
 ### DynamicCrystalDash
 
 - Description: Scales the speed of cdash by how long you charge it
@@ -98,6 +92,13 @@ Not recommended for use in new mods.
   + Added
     - MapSyncMod
 
+### Biblically Accurate Lasers
+
+- Version: 1.0.0.0 -> 1.1.0.0
+- Description
+  + Old: Adds some more, configurable lasers to the Radiance and Absolute Radiance fights.
+  + New: Adds some configurable lasers to the Radiance and Absolute Radiance fights.
+
 ### BingoGoalPack1
 
 - Version: 1.2.3.1 -> 1.4.0.0
@@ -108,7 +109,7 @@ Not recommended for use in new mods.
 
 ### Breakable Wall Randomizer
 
-- Version: 3.0.0.2 -> 3.0.1.2
+- Version: 3.0.0.2 -> 3.0.2.0
 
 ### ControllerFixes
 
@@ -141,6 +142,13 @@ Not recommended for use in new mods.
 
 - Version: 1.5.11.2 -> 1.5.12.0
 
+### Static Camera
+
+- Version: 1.0.1.0 -> 1.0.2.0
+- Integrations
+  + Added
+    - DebugMod
+
 ### TheRealJournalRando
 
 - Version: 2.4.8880.41963 -> 2.4.8955.7331
@@ -148,4 +156,8 @@ Not recommended for use in new mods.
 ### Vanilla Map Mod
 
 - Version: 2.1.0.0 -> 2.1.1.0
+
+### Vessel May Cry
+
+- Version: 1.0.0.1 -> 1.0.0.2
 

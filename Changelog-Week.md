@@ -16,20 +16,18 @@
 
 ## Updated mods
 
-### BenchDeploy
+### Breakable Wall Randomizer
 
-- Version: 1.3.0.0 -> 1.4.0.0
-- Description
-  + Old: Deploy Multi Bench use controller/keyboard
-  + New: Deploy Multi Bench use controller/keyboard. other player bench on itemsync MapSyncMod
+- Version: 3.0.1.2 -> 3.0.2.0
+
+### Static Camera
+
+- Version: 1.0.1.0 -> 1.0.2.0
 - Integrations
   + Added
-    - MapSyncMod
+    - DebugMod
 
-### MapSyncMod
+### Vessel May Cry
 
-- Version: 1.2.2.0 -> 1.3.0.0
-- Integrations
-  + Added
-    - BenchDeploy
+- Version: 1.0.0.1 -> 1.0.0.2
 
