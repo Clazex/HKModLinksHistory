@@ -70,10 +70,6 @@ Not recommended for use in new mods.
 
 ## Updated mods
 
-### AccessRandomizer
-
-- Version: 1.2.1.1 -> 1.2.2.0
-
 ### Archipelago
 
 - Version: 0.4.2.0 -> 0.5.0.0
@@ -92,13 +88,6 @@ Not recommended for use in new mods.
   + Added
     - MapSyncMod
 
-### Biblically Accurate Lasers
-
-- Version: 1.0.0.0 -> 1.1.0.0
-- Description
-  + Old: Adds some more, configurable lasers to the Radiance and Absolute Radiance fights.
-  + New: Adds some configurable lasers to the Radiance and Absolute Radiance fights.
-
 ### BingoGoalPack1
 
 - Version: 1.2.3.1 -> 1.4.0.0
@@ -109,15 +98,23 @@ Not recommended for use in new mods.
 
 ### Breakable Wall Randomizer
 
-- Version: 3.0.0.2 -> 3.0.2.0
+- Version: 3.0.0.3 -> 3.0.2.0
 
 ### ControllerFixes
 
 - Version: 1.0.3.0 -> 1.0.4.0
 
+### Extra Rando
+
+- Version: 0.5.0.0 -> 0.5.1.0
+
 ### GodhomeRandomizer
 
 - Version: 2.2.4.1 -> 2.2.4.3
+
+### Lore Randomizer
+
+- Version: 0.3.0.1 -> 0.3.2.0
 
 ### MapChanger
 

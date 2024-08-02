@@ -1,6 +1,3 @@
-AccessRandomizer
-Biblically Accurate Lasers
-Breakable Wall Randomizer
 ControllerFixes
 Hollow Knight Achievement Manager
 MapChanger
@@ -40,3 +37,5 @@ ShowFPS
 Breakable Wall Randomizer
 Static Camera
 Vessel May Cry
+Extra Rando
+Lore Randomizer
