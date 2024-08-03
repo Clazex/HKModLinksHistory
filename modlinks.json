@@ -688,7 +688,7 @@
     ]
   },
   "BossSync": {
-    "description": "An extension mod for ItemSync that allows for the synchronization of bosses!",
+    "description": "This mod is now obsolete as its features are implemented into another mod (MapSyncMod). Currently working on another mod to polish up some things for 112% Coop APB speedruns that will be released under the name \"SpeedrunSync\"",
     "version": "1.0.1.0",
     "links": {
       "type": "universal",
@@ -697,6 +697,7 @@
     },
     "dependencies": [
       "ItemSync",
+      "MapChanger",
       "MenuChanger",
       "Randomizer 4"
     ],
@@ -933,6 +934,28 @@
     ],
     "authors": [
       "Clazex"
+    ]
+  },
+  "CombatRandomizer": {
+    "description": "A Randomizer add-on for a cursed combat experience.",
+    "version": "1.0.0.0",
+    "links": {
+      "type": "universal",
+      "sha256": "B62B0599771878B398960742E403D69043A525B71C00E9BE4BC6132F4150AC5A",
+      "url": "https://github.com/nerthul11/CombatRandomizer/releases/download/1.0.0.0/CombatRandomizer.zip"
+    },
+    "dependencies": [
+      "ItemChanger",
+      "MenuChanger",
+      "Randomizer 4"
+    ],
+    "repository": "https://github.com/nerthul11/CombatRandomizer",
+    "issues": "https://github.com/nerthul11/CombatRandomizer/issues",
+    "tags": [
+      "Gameplay"
+    ],
+    "authors": [
+      "nerthul11"
     ]
   },
   "CompanionCloth": {

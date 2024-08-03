@@ -3,9 +3,15 @@
 
 ## New mods
 
-### NoTransitions
+### CombatRandomizer
 
-- Description: INCOMPLETE, BROKEN, DEMO VERSION. View ReadMe for more info
+- Description: A Randomizer add-on for a cursed combat experience.
+- Dependencies
+  + ItemChanger
+  + MenuChanger
+  + Randomizer 4
+- Tags
+  + Gameplay
 
 ### ShowFPS
 

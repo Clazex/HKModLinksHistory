@@ -1,7 +1,7 @@
-NoTransitions
 ShowFPS
 Breakable Wall Randomizer
 Static Camera
 Vessel May Cry
 Extra Rando
 Lore Randomizer
+CombatRandomizer

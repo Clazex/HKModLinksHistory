@@ -3,20 +3,21 @@
 
 ## New mods
 
+### CombatRandomizer
+
+- Description: A Randomizer add-on for a cursed combat experience.
+- Dependencies
+  + ItemChanger
+  + MenuChanger
+  + Randomizer 4
+- Tags
+  + Gameplay
+
 ### DynamicCrystalDash
 
 - Description: Scales the speed of cdash by how long you charge it
 - Dependencies
   + Satchel
-
-### Hollow Knight Achievement Manager
-
-- Description: Allows to manage Hollow Knight achievements, both vanilla and modded. Also syncs them with the online store of choice (GOG, Steam, XBox).
-- Dependencies
-  + SFCore
-  + Satchel
-- Tags
-  + Utility
 
 ### ModCommon
 
@@ -100,10 +101,6 @@ Not recommended for use in new mods.
 
 - Version: 3.0.0.3 -> 3.0.2.0
 
-### ControllerFixes
-
-- Version: 1.0.3.0 -> 1.0.4.0
-
 ### Extra Rando
 
 - Version: 0.5.0.0 -> 0.5.1.0
@@ -116,10 +113,6 @@ Not recommended for use in new mods.
 
 - Version: 0.3.0.1 -> 0.3.2.0
 
-### MapChanger
-
-- Version: 1.2.1.0 -> 1.2.2.0
-
 ### MapSyncMod
 
 - Version: 1.2.2.0 -> 1.3.0.0
@@ -127,13 +120,9 @@ Not recommended for use in new mods.
   + Added
     - BenchDeploy
 
-### RCPathfinder
-
-- Version: 1.3.2.0 -> 1.3.3.0
-
 ### RandoMapMod
 
-- Version: 3.5.5.0 -> 3.5.8.0
+- Version: 3.5.6.0 -> 3.5.8.0
 
 ### SFCore
 
@@ -149,10 +138,6 @@ Not recommended for use in new mods.
 ### TheRealJournalRando
 
 - Version: 2.4.8880.41963 -> 2.4.8955.7331
-
-### Vanilla Map Mod
-
-- Version: 2.1.0.0 -> 2.1.1.0
 
 ### Vessel May Cry
 

@@ -1,9 +1,3 @@
-ControllerFixes
-Hollow Knight Achievement Manager
-MapChanger
-RCPathfinder
-RandoMapMod
-Vanilla Map Mod
 RandoMapMod
 RandoMapMod
 Breakable Wall Randomizer
@@ -39,3 +33,4 @@ Static Camera
 Vessel May Cry
 Extra Rando
 Lore Randomizer
+CombatRandomizer

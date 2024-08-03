@@ -1,2 +1,2 @@
-NoTransitions
 ShowFPS
+CombatRandomizer
