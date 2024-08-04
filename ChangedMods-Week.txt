@@ -5,3 +5,4 @@ Vessel May Cry
 Extra Rando
 Lore Randomizer
 CombatRandomizer
+BlindRadiance

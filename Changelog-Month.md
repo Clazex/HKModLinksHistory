@@ -97,6 +97,10 @@ Not recommended for use in new mods.
 
 - Version: 1.1.1.0 -> 1.1.2.0
 
+### BlindRadiance
+
+- Version: 1.5.1.0 -> 1.5.2.0
+
 ### Breakable Wall Randomizer
 
 - Version: 3.0.0.3 -> 3.0.2.0

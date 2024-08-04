@@ -22,6 +22,10 @@
 
 ## Updated mods
 
+### BlindRadiance
+
+- Version: 1.5.1.0 -> 1.5.2.0
+
 ### Breakable Wall Randomizer
 
 - Version: 3.0.1.2 -> 3.0.2.0
