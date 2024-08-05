@@ -126,7 +126,7 @@ Not recommended for use in new mods.
 
 ### RandoMapMod
 
-- Version: 3.5.6.0 -> 3.5.8.0
+- Version: 3.5.7.0 -> 3.5.8.0
 
 ### SFCore
 
