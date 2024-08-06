@@ -124,10 +124,6 @@ Not recommended for use in new mods.
   + Added
     - BenchDeploy
 
-### RandoMapMod
-
-- Version: 3.5.7.0 -> 3.5.8.0
-
 ### SFCore
 
 - Version: 1.5.11.2 -> 1.5.12.0
