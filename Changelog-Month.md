@@ -103,7 +103,7 @@ Not recommended for use in new mods.
 
 ### Breakable Wall Randomizer
 
-- Version: 3.0.0.3 -> 3.0.2.0
+- Version: 3.0.0.4 -> 3.0.2.0
 
 ### Extra Rando
 
@@ -111,7 +111,7 @@ Not recommended for use in new mods.
 
 ### GodhomeRandomizer
 
-- Version: 2.2.4.1 -> 2.2.4.3
+- Version: 2.2.4.2 -> 2.2.4.3
 
 ### Lore Randomizer
 
@@ -134,10 +134,6 @@ Not recommended for use in new mods.
 - Integrations
   + Added
     - DebugMod
-
-### TheRealJournalRando
-
-- Version: 2.4.8880.41963 -> 2.4.8955.7331
 
 ### Vessel May Cry
 
