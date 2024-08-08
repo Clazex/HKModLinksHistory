@@ -1,6 +1,3 @@
-BingoGoalPack1
-Breakable Wall Randomizer
-Sein
 DynamicCrystalDash
 ModCommon
 Omega Radiance
@@ -30,3 +27,4 @@ Extra Rando
 Lore Randomizer
 CombatRandomizer
 BlindRadiance
+KorzUtils

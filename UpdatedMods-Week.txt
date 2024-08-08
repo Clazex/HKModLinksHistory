@@ -1,3 +1,2 @@
-Extra Rando
-Lore Randomizer
 BlindRadiance
+KorzUtils

@@ -1889,26 +1889,6 @@
       "RedFrog"
     ]
   },
-  "Dreamer Shard Rando": {
-    "description": "CURRENTLY BUGGED, DO NOT USE!",
-    "version": "1.0.1.0",
-    "links": {
-      "type": "universal",
-      "sha256": "6E751FC245055F056BFFF3D358D7975807A1B55EBC13213BE4BCE9E6D5D98AAB",
-      "url": "https://github.com/ToboterXP/HollowKnight.DreamerShardRando/releases/download/1.0.1/DreamerShards.zip"
-    },
-    "dependencies": [
-      "Randomizer 4"
-    ],
-    "repository": "https://github.com/ToboterXP/HollowKnight.DreamerShardRando",
-    "integrations": [
-      "ConnectionMetadataInjector",
-      "RandoSettingsManager"
-    ],
-    "authors": [
-      "Toboter"
-    ]
-  },
   "DumbEnemy": {
     "description": "Make Enemy and their attack invisible",
     "version": "1.5.0.0",
@@ -3700,11 +3680,11 @@
   },
   "KorzUtils": {
     "description": "Library mod that provide useful functions for other mods.",
-    "version": "0.7.0.0",
+    "version": "0.8.0.0",
     "links": {
       "type": "universal",
-      "sha256": "82831581CBEA2D492394F898F3A6DF6954E4AB9A9568A0839A6F1CB518327C2C",
-      "url": "https://github.com/Korzer420/KorzUtils/releases/download/v0.7.0/KorzUtils.zip"
+      "sha256": "0BFE1BB26D4E4C47B65D027D7EA0BD90BAAACA90B7B3EFF7425D7EE517318590",
+      "url": "https://github.com/Korzer420/KorzUtils/releases/download/v0.8.0/KorzUtils.zip"
     },
     "dependencies": [],
     "repository": "https://github.com/Korzer420/KorzUtils",

@@ -38,18 +38,6 @@ Not recommended for use in new mods.
 - Tags
   + Boss
 
-### Sein
-
-- Description: Companion mod for the Custom Knight skin &quot;Ori&quot;, adding specialized effects
-- Dependencies
-  + Custom Knight
-  + CustomKnightSuperAnimationAddon
-  + FrogCore
-  + ItemChanger
-  + PurenailCore
-  + SFCore
-  + Satchel
-
 ### ShowFPS
 
 - Description: A mod that adds a FPS display in the bottom right corner.
@@ -67,6 +55,11 @@ Not recommended for use in new mods.
 ### WorseSteadyBody
 
 - Description: Steady Body now has a more consistent effect
+
+
+## Removed mods
+
+- Dreamer Shard Rando
 
 
 ## Updated mods
@@ -91,7 +84,7 @@ Not recommended for use in new mods.
 
 ### BingoGoalPack1
 
-- Version: 1.2.3.1 -> 1.4.0.0
+- Version: 1.3.0.6 -> 1.4.0.0
 
 ### BingoSyncExtension
 
@@ -103,7 +96,7 @@ Not recommended for use in new mods.
 
 ### Breakable Wall Randomizer
 
-- Version: 3.0.0.4 -> 3.0.2.0
+- Version: 3.0.0.5 -> 3.0.2.0
 
 ### Extra Rando
 
@@ -112,6 +105,10 @@ Not recommended for use in new mods.
 ### GodhomeRandomizer
 
 - Version: 2.2.4.2 -> 2.2.4.3
+
+### KorzUtils
+
+- Version: 0.7.0.0 -> 0.8.0.0
 
 ### Lore Randomizer
 
@@ -127,6 +124,13 @@ Not recommended for use in new mods.
 ### SFCore
 
 - Version: 1.5.11.2 -> 1.5.12.0
+
+### Sein
+
+- Version: 1.0.0.1 -> 1.1.0.0
+- Dependencies
+  + Added
+    - Satchel
 
 ### Static Camera
 

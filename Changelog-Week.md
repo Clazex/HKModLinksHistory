@@ -14,17 +14,18 @@
   + Gameplay
 
 
+## Removed mods
+
+- Dreamer Shard Rando
+
+
 ## Updated mods
 
 ### BlindRadiance
 
 - Version: 1.5.1.0 -> 1.5.2.0
 
-### Extra Rando
+### KorzUtils
 
-- Version: 0.5.0.0 -> 0.5.1.0
-
-### Lore Randomizer
-
-- Version: 0.3.0.1 -> 0.3.2.0
+- Version: 0.7.0.0 -> 0.8.0.0
 

@@ -1,5 +1,3 @@
-BingoGoalPack1
-Breakable Wall Randomizer
 Sein
 BingoGoalPack1
 Breakable Wall Randomizer
@@ -21,3 +19,4 @@ Vessel May Cry
 Extra Rando
 Lore Randomizer
 BlindRadiance
+KorzUtils
