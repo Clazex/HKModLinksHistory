@@ -1,7 +1,3 @@
-DynamicCrystalDash
-ModCommon
-Omega Radiance
-Sein
 BingoGoalPack1
 Breakable Wall Randomizer
 GodhomeRandomizer
@@ -28,3 +24,7 @@ Lore Randomizer
 CombatRandomizer
 BlindRadiance
 KorzUtils
+Breakable Wall Randomizer
+CelesteKnight
+CombatRandomizer
+GodhomeRandomizer

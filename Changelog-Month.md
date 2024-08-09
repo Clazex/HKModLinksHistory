@@ -3,6 +3,13 @@
 
 ## New mods
 
+### CelesteKnight
+
+- Description: Celeste movements like dash, super, hyper, wallbounce
+- Dependencies
+  + HKMirror
+  + Satchel
+
 ### CombatRandomizer
 
 - Description: A Randomizer add-on for a cursed combat experience.
@@ -13,30 +20,9 @@
 - Tags
   + Gameplay
 
-### DynamicCrystalDash
-
-- Description: Scales the speed of cdash by how long you charge it
-- Dependencies
-  + Satchel
-
-### ModCommon
-
-- Description: A hollow knight mod that provides an API of helpers and other utilities for modding hollow knight.
-Not recommended for use in new mods.
-- Tags
-  + Library
-
 ### NoTransitions
 
 - Description: INCOMPLETE, BROKEN, DEMO VERSION. View ReadMe for more info
-
-### Omega Radiance
-
-- Description: Face the god of power, a modified version of Any Radiance which was made not to be harder but to be a cool and unique fight.
-- Dependencies
-  + ModCommon
-- Tags
-  + Boss
 
 ### ShowFPS
 
@@ -96,7 +82,7 @@ Not recommended for use in new mods.
 
 ### Breakable Wall Randomizer
 
-- Version: 3.0.0.5 -> 3.0.2.0
+- Version: 3.0.0.5 -> 3.0.2.1
 
 ### Extra Rando
 
@@ -104,7 +90,7 @@ Not recommended for use in new mods.
 
 ### GodhomeRandomizer
 
-- Version: 2.2.4.2 -> 2.2.4.3
+- Version: 2.2.4.2 -> 2.2.4.4
 
 ### KorzUtils
 
@@ -124,13 +110,6 @@ Not recommended for use in new mods.
 ### SFCore
 
 - Version: 1.5.11.2 -> 1.5.12.0
-
-### Sein
-
-- Version: 1.0.0.1 -> 1.1.0.0
-- Dependencies
-  + Added
-    - Satchel
 
 ### Static Camera
 

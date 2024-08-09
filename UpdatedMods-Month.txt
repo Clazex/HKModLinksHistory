@@ -1,4 +1,3 @@
-Sein
 BingoGoalPack1
 Breakable Wall Randomizer
 GodhomeRandomizer
@@ -20,3 +19,6 @@ Extra Rando
 Lore Randomizer
 BlindRadiance
 KorzUtils
+Breakable Wall Randomizer
+CombatRandomizer
+GodhomeRandomizer

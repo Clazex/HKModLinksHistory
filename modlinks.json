@@ -709,11 +709,11 @@
   },
   "Breakable Wall Randomizer": {
     "description": "A Hollow Knight Randomizer add-on for breakable walls.",
-    "version": "3.0.2.0",
+    "version": "3.0.2.1",
     "links": {
       "type": "universal",
-      "sha256": "BC404FD446A4785C3749885A6197881F55FC9A4CD15C42AE6B31E3A04C2DE339",
-      "url": "https://github.com/nerthul11/BreakableWallRandomizer/releases/download/3.0.2.0/BreakableWallRandomizer.zip"
+      "sha256": "573D21907A51A574B1CA403B85239AB4D01E3A696569C262390909ECCC41891B",
+      "url": "https://github.com/nerthul11/BreakableWallRandomizer/releases/download/3.0.2.1/BreakableWallRandomizer.zip"
     },
     "dependencies": [
       "Randomizer 4",
@@ -822,6 +822,20 @@
     "authors": [
       "ADGOD"
     ]
+  },
+  "CelesteKnight": {
+    "description": "Celeste movements like dash, super, hyper, wallbounce",
+    "version": "1.0.0.0",
+    "links": {
+      "type": "universal",
+      "sha256": "9ABE0B7B903CB27DD5DA6BF396E7E08A14F127B542E5002929DFC07C1C61E077",
+      "url": "https://github.com/danirainy/CelesteKnight/releases/download/1.0.0.0/CelesteKnight.zip"
+    },
+    "dependencies": [
+      "HKMirror",
+      "Satchel"
+    ],
+    "repository": "https://github.com/danirainy/CelesteKnight"
   },
   "Challenge Mode": {
     "description": "A mod that adds randomly selected challege modifiers to Godhome with several customization options. See ReadMe for info on modifiers and more.",
@@ -938,11 +952,11 @@
   },
   "CombatRandomizer": {
     "description": "A Randomizer add-on for a cursed combat experience.",
-    "version": "1.0.0.0",
+    "version": "1.0.1.0",
     "links": {
       "type": "universal",
-      "sha256": "B62B0599771878B398960742E403D69043A525B71C00E9BE4BC6132F4150AC5A",
-      "url": "https://github.com/nerthul11/CombatRandomizer/releases/download/1.0.0.0/CombatRandomizer.zip"
+      "sha256": "4C171CD8FA658F5127B1D436B156C32BFB74082CA7985230142CF425235D809B",
+      "url": "https://github.com/nerthul11/CombatRandomizer/releases/download/1.0.1.0/CombatRandomizer.zip"
     },
     "dependencies": [
       "ItemChanger",
@@ -2637,11 +2651,11 @@
   },
   "GodhomeRandomizer": {
     "description": "A Randomizer add-on for Godhome elements.",
-    "version": "2.2.4.3",
+    "version": "2.2.4.4",
     "links": {
       "type": "universal",
-      "sha256": "BDC92DE40987B0006116B6AB8D6513ED099CAA191D34D29065FE95D62BD1754E",
-      "url": "https://github.com/nerthul11/GodhomeRandomizer/releases/download/2.2.4.3/GodhomeRandomizer.zip"
+      "sha256": "57DA79C0114275AE8E687491FE070A9CFB155EB84D44AA22FFBCC3D75C15DF02",
+      "url": "https://github.com/nerthul11/GodhomeRandomizer/releases/download/2.2.4.4/GodhomeRandomizer.zip"
     },
     "dependencies": [
       "ItemChanger",
