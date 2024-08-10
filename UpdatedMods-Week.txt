@@ -1,5 +1,5 @@
-BlindRadiance
 KorzUtils
 Breakable Wall Randomizer
 CombatRandomizer
 GodhomeRandomizer
+CelesteKnight

@@ -1,4 +1,3 @@
-BingoGoalPack1
 Breakable Wall Randomizer
 GodhomeRandomizer
 BenchDeploy
@@ -28,3 +27,4 @@ Breakable Wall Randomizer
 CelesteKnight
 CombatRandomizer
 GodhomeRandomizer
+CelesteKnight

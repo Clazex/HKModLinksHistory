@@ -6840,6 +6840,31 @@ This is a singleplayer mod. The "teamwork" refers to in-game events.</Descriptio
     	</Authors>
     </Manifest>
     <Manifest>
+    	<Name>CombatRandomizer</Name>
+    	<Description>A Randomizer add-on for a cursed combat experience.</Description>
+    	<Version>1.0.0.0</Version>
+    	<Link SHA256="b62b0599771878b398960742e403d69043a525b71c00e9be4bc6132f4150ac5a">
+	    <![CDATA[https://github.com/nerthul11/CombatRandomizer/releases/download/1.0.0.0/CombatRandomizer.zip]]>
+	</Link>
+	<Dependencies>
+		<Dependency>ItemChanger</Dependency>
+		<Dependency>MenuChanger</Dependency>
+		<Dependency>Randomizer 4</Dependency>
+	</Dependencies>
+    	<Repository>
+	    <![CDATA[https://github.com/nerthul11/CombatRandomizer]]>
+    	</Repository>
+    	<Issues>
+	    <![CDATA[https://github.com/nerthul11/CombatRandomizer/issues]]>
+    	</Issues>
+    	<Tags>
+	    <Tag>Gameplay</Tag>
+    	</Tags>
+    	<Authors>
+	    <Author>nerthul11</Author>
+    	</Authors>
+    </Manifest>
+    <Manifest>
     	<Name>GodhomeRandomizer</Name>
     	<Description>A Randomizer add-on for Godhome elements.</Description>
     	<Version>2.2.4.3</Version>
@@ -7066,7 +7091,7 @@ This is a singleplayer mod. The "teamwork" refers to in-game events.</Descriptio
     </Manifest>
 	<Manifest>
     	<Name>BossSync</Name>
-    	<Description>An extension mod for ItemSync that allows for the synchronization of bosses!</Description>
+    	<Description>This mod is now obsolete as its features are implemented into another mod (MapSyncMod). Currently working on another mod to polish up some things for 112% Coop APB speedruns that will be released under the name "SpeedrunSync"</Description>
     	<Version>1.0.1.0</Version>
     	<Link SHA256="946667DB57A4BB7B4A94BBEA425216A6D2C09078374737BEDE67D43CAA6CE181">
 	    <![CDATA[https://github.com/Plutzz/BossSync/releases/download/v1.0.1.0/BossSync.zip]]>
@@ -7075,6 +7100,7 @@ This is a singleplayer mod. The "teamwork" refers to in-game events.</Descriptio
 		<Dependency>ItemSync</Dependency>
 		<Dependency>MenuChanger</Dependency>
 		<Dependency>Randomizer 4</Dependency>
+		<Dependency>MapChanger</Dependency>
 	</Dependencies>
     	<Repository>
 	    <![CDATA[https://github.com/Plutzz/BossSync]]>

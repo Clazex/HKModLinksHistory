@@ -825,11 +825,11 @@
   },
   "CelesteKnight": {
     "description": "Celeste movements like dash, super, hyper, wallbounce",
-    "version": "1.0.0.0",
+    "version": "1.0.0.1",
     "links": {
       "type": "universal",
-      "sha256": "9ABE0B7B903CB27DD5DA6BF396E7E08A14F127B542E5002929DFC07C1C61E077",
-      "url": "https://github.com/danirainy/CelesteKnight/releases/download/1.0.0.0/CelesteKnight.zip"
+      "sha256": "857B2DC30A125C276DE40F342B0F7FA10AB285C5B17FA17AB95D614F37166018",
+      "url": "https://github.com/danirainy/CelesteKnight/releases/download/1.0.0.1/CelesteKnightfix1.zip"
     },
     "dependencies": [
       "HKMirror",
