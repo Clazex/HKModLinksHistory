@@ -82,7 +82,7 @@
 
 ### Breakable Wall Randomizer
 
-- Version: 3.0.0.5 -> 3.0.2.1
+- Version: 3.0.1.0 -> 3.0.2.1
 
 ### Extra Rando
 
@@ -90,7 +90,7 @@
 
 ### GodhomeRandomizer
 
-- Version: 2.2.4.2 -> 2.2.4.4
+- Version: 2.2.4.3 -> 2.2.4.4
 
 ### KorzUtils
 
