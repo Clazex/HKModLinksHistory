@@ -1,4 +1,3 @@
-BenchDeploy
 Archipelago
 Archipelago Map Mod
 Breakable Wall Randomizer
@@ -26,3 +25,6 @@ CelesteKnight
 CombatRandomizer
 GodhomeRandomizer
 CelesteKnight
+Archipelago
+Archipelago Map Mod
+TheRealJournalRando

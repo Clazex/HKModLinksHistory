@@ -4,3 +4,6 @@ CelesteKnight
 CombatRandomizer
 GodhomeRandomizer
 CelesteKnight
+Archipelago
+Archipelago Map Mod
+TheRealJournalRando

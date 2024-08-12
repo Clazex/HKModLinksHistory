@@ -52,15 +52,15 @@
 
 ### Archipelago
 
-- Version: 0.4.2.0 -> 0.5.0.0
+- Version: 0.4.2.0 -> 0.6.0.0
 
 ### Archipelago Map Mod
 
-- Version: 2.2.0.0 -> 2.2.2.0
+- Version: 2.2.0.0 -> 2.2.3.0
 
 ### BenchDeploy
 
-- Version: 1.2.1.0 -> 1.4.0.0
+- Version: 1.3.0.0 -> 1.4.0.0
 - Description
   + Old: Deploy Multi Bench use controller/keyboard
   + New: Deploy Multi Bench use controller/keyboard. other player bench on itemsync MapSyncMod
@@ -117,6 +117,10 @@
 - Integrations
   + Added
     - DebugMod
+
+### TheRealJournalRando
+
+- Version: 2.4.8955.7331 -> 2.4.8989.31846
 
 ### Vessel May Cry
 
