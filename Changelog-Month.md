@@ -52,11 +52,11 @@
 
 ### Archipelago
 
-- Version: 0.4.2.0 -> 0.6.0.0
+- Version: 0.5.0.0 -> 0.6.0.0
 
 ### Archipelago Map Mod
 
-- Version: 2.2.0.0 -> 2.2.3.0
+- Version: 2.2.1.0 -> 2.2.3.0
 
 ### BenchDeploy
 
@@ -120,7 +120,7 @@
 
 ### TheRealJournalRando
 
-- Version: 2.4.8955.7331 -> 2.4.8989.31846
+- Version: 2.4.8955.7331 -> 2.4.8989.41686
 
 ### Vessel May Cry
 
