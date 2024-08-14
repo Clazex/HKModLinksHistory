@@ -709,11 +709,11 @@
   },
   "Breakable Wall Randomizer": {
     "description": "A Hollow Knight Randomizer add-on for breakable walls.",
-    "version": "3.0.2.1",
+    "version": "3.0.2.2",
     "links": {
       "type": "universal",
-      "sha256": "573D21907A51A574B1CA403B85239AB4D01E3A696569C262390909ECCC41891B",
-      "url": "https://github.com/nerthul11/BreakableWallRandomizer/releases/download/3.0.2.1/BreakableWallRandomizer.zip"
+      "sha256": "A57FAD211B3C4FF84001881A8444E31F838FDD1D46886AC5B2B1222FE212FCF8",
+      "url": "https://github.com/nerthul11/BreakableWallRandomizer/releases/download/3.0.2.2/BreakableWallRandomizer.zip"
     },
     "dependencies": [
       "Randomizer 4",
@@ -4171,6 +4171,22 @@
     "repository": "https://github.com/HMertAcr/MetalPipeHM",
     "authors": [
       "HMertAcr"
+    ]
+  },
+  "MilliGolf": {
+    "description": "An 18-hole course featuring Millibelle the Golf Ball",
+    "version": "1.0.0.0",
+    "links": {
+      "type": "universal",
+      "sha256": "1B8C8B6C15A8C0C7EF0F48D460F21340793920BEB14BB62C2BDCCACB904B2092",
+      "url": "https://github.com/TheMathGeek314/MilliGolf/releases/download/v1.0.0.0/MilliGolf.zip"
+    },
+    "dependencies": [
+      "Satchel"
+    ],
+    "repository": "https://github.com/TheMathGeek314/MilliGolf/",
+    "authors": [
+      "TheMathGeek_314"
     ]
   },
   "Mirrored Hallownest": {

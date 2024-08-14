@@ -20,6 +20,12 @@
 - Tags
   + Gameplay
 
+### MilliGolf
+
+- Description: An 18-hole course featuring Millibelle the Golf Ball
+- Dependencies
+  + Satchel
+
 ### NoTransitions
 
 - Description: INCOMPLETE, BROKEN, DEMO VERSION. View ReadMe for more info
@@ -82,7 +88,7 @@
 
 ### Breakable Wall Randomizer
 
-- Version: 3.0.1.0 -> 3.0.2.1
+- Version: 3.0.1.0 -> 3.0.2.2
 
 ### Extra Rando
 

@@ -4,3 +4,4 @@ NoTransitions
 ShowFPS
 CombatRandomizer
 CelesteKnight
+MilliGolf

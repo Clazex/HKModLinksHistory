@@ -10,10 +10,11 @@
   + HKMirror
   + Satchel
 
+### MilliGolf
 
-## Removed mods
-
-- Dreamer Shard Rando
+- Description: An 18-hole course featuring Millibelle the Golf Ball
+- Dependencies
+  + Satchel
 
 
 ## Updated mods
@@ -28,7 +29,7 @@
 
 ### Breakable Wall Randomizer
 
-- Version: 3.0.2.0 -> 3.0.2.1
+- Version: 3.0.2.0 -> 3.0.2.2
 
 ### CombatRandomizer
 
@@ -37,10 +38,6 @@
 ### GodhomeRandomizer
 
 - Version: 2.2.4.3 -> 2.2.4.4
-
-### KorzUtils
-
-- Version: 0.7.0.0 -> 0.8.0.0
 
 ### TheRealJournalRando
 
