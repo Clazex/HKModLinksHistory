@@ -36,13 +36,20 @@
 - Tags
   + Utility
 
-### Stories of a HK player - Chapter 1
+### UnRando
 
-- Description: The start of a story of a Hollow Knight player and his personalized copy of the game.
+- Description: A Rando 4 connection which fixes the order in which rando items are obtained.
 - Dependencies
-  + SFCore
+  + ItemChanger
+  + MenuChanger
+  + PurenailCore
+  + RandoSettingsManager
+  + Randomizer 4
+  + RandomizerCore
+- Integrations
+  + RandoSettingsManager
 - Tags
-  + Cosmetic
+  + Gameplay
 
 ### WorseSteadyBody
 
@@ -88,7 +95,7 @@
 
 ### Breakable Wall Randomizer
 
-- Version: 3.0.1.0 -> 3.0.2.2
+- Version: 3.0.1.1 -> 3.0.2.2
 
 ### Extra Rando
 

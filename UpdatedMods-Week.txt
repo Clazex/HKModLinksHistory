@@ -1,9 +1,7 @@
-Breakable Wall Randomizer
-CombatRandomizer
-GodhomeRandomizer
 CelesteKnight
 Archipelago
 Archipelago Map Mod
 TheRealJournalRando
 TheRealJournalRando
 Breakable Wall Randomizer
+MilliGolf
