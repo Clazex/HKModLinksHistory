@@ -4175,11 +4175,11 @@
   },
   "MilliGolf": {
     "description": "An 18-hole course featuring Millibelle the Golf Ball",
-    "version": "1.0.1.1",
+    "version": "1.0.2.0",
     "links": {
       "type": "universal",
-      "sha256": "0DF485FF1B598E40CE036CFD6706304F532810DC1D1ECB537480E2FE5B5BF62E",
-      "url": "https://github.com/TheMathGeek314/MilliGolf/releases/download/v1.0.1.1/MilliGolf.zip"
+      "sha256": "F14020BF03D439FF2F0D05068BC287F4163BA8A0C39FC79AC43E612255CEFD37",
+      "url": "https://github.com/TheMathGeek314/MilliGolf/releases/download/v1.0.2.0/MilliGolf.zip"
     },
     "dependencies": [
       "Satchel"
