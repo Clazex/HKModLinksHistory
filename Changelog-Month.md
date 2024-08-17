@@ -120,10 +120,6 @@
   + Added
     - BenchDeploy
 
-### SFCore
-
-- Version: 1.5.11.2 -> 1.5.12.0
-
 ### Static Camera
 
 - Version: 1.0.1.0 -> 1.0.2.0

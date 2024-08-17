@@ -1,4 +1,3 @@
-SFCore
 Breakable Wall Randomizer
 Archipelago Map Mod
 BingoGoalPack1
@@ -29,4 +28,6 @@ Breakable Wall Randomizer
 MilliGolf
 MilliGolf
 UnRando
+MilliGolf
+CombatRandomizer
 MilliGolf

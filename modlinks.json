@@ -952,11 +952,11 @@
   },
   "CombatRandomizer": {
     "description": "A Randomizer add-on for a cursed combat experience.",
-    "version": "1.0.1.0",
+    "version": "1.0.1.1",
     "links": {
       "type": "universal",
-      "sha256": "4C171CD8FA658F5127B1D436B156C32BFB74082CA7985230142CF425235D809B",
-      "url": "https://github.com/nerthul11/CombatRandomizer/releases/download/1.0.1.0/CombatRandomizer.zip"
+      "sha256": "2E87D6179D25B450EB44EA88CC0E95EE5FB360917C113BB4502989C2F7A99BF0",
+      "url": "https://github.com/nerthul11/CombatRandomizer/releases/download/1.0.1.1/CombatRandomizer.zip"
     },
     "dependencies": [
       "ItemChanger",
@@ -4175,11 +4175,11 @@
   },
   "MilliGolf": {
     "description": "An 18-hole course featuring Millibelle the Golf Ball",
-    "version": "1.0.2.0",
+    "version": "1.0.2.1",
     "links": {
       "type": "universal",
-      "sha256": "F14020BF03D439FF2F0D05068BC287F4163BA8A0C39FC79AC43E612255CEFD37",
-      "url": "https://github.com/TheMathGeek314/MilliGolf/releases/download/v1.0.2.0/MilliGolf.zip"
+      "sha256": "570EA4A8F187A31B0CFCFE94177A4EE74381538E1B66562E1CE6FD4C2BF75BA3",
+      "url": "https://github.com/TheMathGeek314/MilliGolf/releases/download/v1.0.2.1/MilliGolf.zip"
     },
     "dependencies": [
       "Satchel"

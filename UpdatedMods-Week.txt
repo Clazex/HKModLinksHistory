@@ -5,3 +5,5 @@ TheRealJournalRando
 Breakable Wall Randomizer
 MilliGolf
 MilliGolf
+CombatRandomizer
+MilliGolf
