@@ -1,9 +1,8 @@
-Archipelago
-Archipelago Map Mod
-TheRealJournalRando
 TheRealJournalRando
 Breakable Wall Randomizer
 MilliGolf
 MilliGolf
 CombatRandomizer
 MilliGolf
+MilliGolf
+UnRando

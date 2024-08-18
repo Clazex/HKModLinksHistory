@@ -16,7 +16,6 @@
   + ItemChanger
   + MenuChanger
   + PurenailCore
-  + RandoSettingsManager
   + Randomizer 4
   + RandomizerCore
 - Integrations
@@ -26,14 +25,6 @@
 
 
 ## Updated mods
-
-### Archipelago
-
-- Version: 0.5.0.0 -> 0.6.0.0
-
-### Archipelago Map Mod
-
-- Version: 2.2.2.0 -> 2.2.3.0
 
 ### Breakable Wall Randomizer
 
@@ -45,5 +36,5 @@
 
 ### TheRealJournalRando
 
-- Version: 2.4.8955.7331 -> 2.4.8989.41686
+- Version: 2.4.8989.31846 -> 2.4.8989.41686
 

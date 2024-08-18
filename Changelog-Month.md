@@ -43,7 +43,6 @@
   + ItemChanger
   + MenuChanger
   + PurenailCore
-  + RandoSettingsManager
   + Randomizer 4
   + RandomizerCore
 - Integrations
@@ -95,7 +94,7 @@
 
 ### Breakable Wall Randomizer
 
-- Version: 3.0.1.1 -> 3.0.2.2
+- Version: 3.0.1.2 -> 3.0.2.2
 
 ### Extra Rando
 
