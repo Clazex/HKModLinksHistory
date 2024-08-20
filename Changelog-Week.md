@@ -3,12 +3,6 @@
 
 ## New mods
 
-### MilliGolf
-
-- Description: An 18-hole course featuring Millibelle the Golf Ball
-- Dependencies
-  + Satchel
-
 ### UnRando
 
 - Description: A Rando 4 connection which fixes the order in which rando items are obtained.
@@ -26,11 +20,15 @@
 
 ## Updated mods
 
-### Breakable Wall Randomizer
-
-- Version: 3.0.2.1 -> 3.0.2.2
-
 ### CombatRandomizer
 
 - Version: 1.0.1.0 -> 1.0.1.1
+
+### MilliGolf
+
+- Version: 1.0.0.0 -> 1.0.2.3
+
+### TheHuntIsOn
+
+- Version: 0.4.0.0 -> 0.5.0.0
 

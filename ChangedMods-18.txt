@@ -1,2 +1,1 @@
-Extra Rando
-Lore Randomizer
+CombatRandomizer

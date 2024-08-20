@@ -6358,11 +6358,11 @@
   },
   "TheHuntIsOn": {
     "description": "A mod for manhunting. Provides modules to change how the game affects hunter and speedrunner.",
-    "version": "0.4.0.0",
+    "version": "0.5.0.0",
     "links": {
       "type": "universal",
-      "sha256": "C00A03199F5E6D846609D9312F5F8989CDF390D7CC562DCA0CA2D21283DC9BD2",
-      "url": "https://github.com/Korzer420/TheHuntIsOn/releases/download/v0.4.0/TheHuntIsOn.zip"
+      "sha256": "2FC6E4541F81B081EDFFEC0CD740C9D7136289E83B896DEEEF0632A6481E5049",
+      "url": "https://github.com/Korzer420/TheHuntIsOn/releases/download/v0.5.0/TheHuntIsOn.zip"
     },
     "dependencies": [
       "HKMP",

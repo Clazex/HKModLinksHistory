@@ -1,5 +1,3 @@
-BingoGoalPack1
-BingoSyncExtension
 BenchDeploy
 MapSyncMod
 Breakable Wall Randomizer
@@ -24,3 +22,4 @@ CombatRandomizer
 MilliGolf
 MilliGolf
 UnRando
+TheHuntIsOn

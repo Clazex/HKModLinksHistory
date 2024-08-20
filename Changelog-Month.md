@@ -80,14 +80,6 @@
   + Added
     - MapSyncMod
 
-### BingoGoalPack1
-
-- Version: 1.3.1.0 -> 1.4.0.0
-
-### BingoSyncExtension
-
-- Version: 1.1.1.0 -> 1.1.2.0
-
 ### BlindRadiance
 
 - Version: 1.5.1.0 -> 1.5.2.0
@@ -125,6 +117,10 @@
 - Integrations
   + Added
     - DebugMod
+
+### TheHuntIsOn
+
+- Version: 0.4.0.0 -> 0.5.0.0
 
 ### TheRealJournalRando
 
