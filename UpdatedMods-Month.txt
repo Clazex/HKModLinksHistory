@@ -23,3 +23,4 @@ MilliGolf
 MilliGolf
 UnRando
 TheHuntIsOn
+CombatRandomizer

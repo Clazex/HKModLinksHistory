@@ -50,10 +50,6 @@
 - Tags
   + Gameplay
 
-### WorseSteadyBody
-
-- Description: Steady Body now has a more consistent effect
-
 
 ## Removed mods
 

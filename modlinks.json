@@ -952,11 +952,11 @@
   },
   "CombatRandomizer": {
     "description": "A Randomizer add-on for a cursed combat experience.",
-    "version": "1.0.1.1",
+    "version": "1.0.1.2",
     "links": {
       "type": "universal",
-      "sha256": "2E87D6179D25B450EB44EA88CC0E95EE5FB360917C113BB4502989C2F7A99BF0",
-      "url": "https://github.com/nerthul11/CombatRandomizer/releases/download/1.0.1.1/CombatRandomizer.zip"
+      "sha256": "FED02E81CC835A7BE3D635DBBD335534D2CFF6BA8C861FB84D019BB2C02DB595",
+      "url": "https://github.com/nerthul11/CombatRandomizer/releases/download/1.0.1.2/CombatRandomizer.zip"
     },
     "dependencies": [
       "ItemChanger",

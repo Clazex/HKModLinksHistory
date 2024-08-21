@@ -1,4 +1,3 @@
-WorseSteadyBody
 NoTransitions
 ShowFPS
 CombatRandomizer
