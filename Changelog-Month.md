@@ -84,6 +84,10 @@
 
 - Version: 3.0.1.2 -> 3.0.2.2
 
+### Custom Knight
+
+- Version: 3.0.1.0 -> 3.1.0.0
+
 ### Extra Rando
 
 - Version: 0.5.0.0 -> 0.5.1.0

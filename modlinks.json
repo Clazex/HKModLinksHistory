@@ -1281,11 +1281,11 @@
   },
   "Custom Knight": {
     "description": "Supports Skins for Player, Enemies and Area overhauls",
-    "version": "3.0.1.0",
+    "version": "3.1.0.0",
     "links": {
       "type": "universal",
-      "sha256": "A025795AA4ADE5CAACB2E78D0D19C33471432BF4C2A3984CC3A5C045D88B3DA3",
-      "url": "https://github.com/PrashantMohta/HollowKnight.CustomKnight/releases/download/v3.0.1/CustomKnight.zip"
+      "sha256": "656C988ED712EE33DDE67CD0855065BBABA6667849C3046F2F542EA78A83966D",
+      "url": "https://github.com/PrashantMohta/HollowKnight.CustomKnight/releases/download/v3.1.0-auto-mr/CustomKnight.zip"
     },
     "dependencies": [
       "Satchel"
@@ -4175,11 +4175,11 @@
   },
   "MilliGolf": {
     "description": "An 18-hole course featuring Millibelle the Golf Ball",
-    "version": "1.0.2.3",
+    "version": "1.1.0.0",
     "links": {
       "type": "universal",
-      "sha256": "4D7985CB21A952C83173A50043C0530862300AFDD701DF160C45174F6510A4BB",
-      "url": "https://github.com/TheMathGeek314/MilliGolf/releases/download/v1.0.2.3/MilliGolf.zip"
+      "sha256": "BF074FBA87E83E02ABF246F5F85585673DB416F5063A655616C65480EB113056",
+      "url": "https://github.com/TheMathGeek314/MilliGolf/releases/download/v1.1.0.0/MilliGolf.zip"
     },
     "dependencies": [
       "Satchel"

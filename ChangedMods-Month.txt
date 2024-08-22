@@ -30,3 +30,5 @@ MilliGolf
 UnRando
 TheHuntIsOn
 CombatRandomizer
+Custom Knight
+MilliGolf
