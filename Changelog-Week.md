@@ -3,9 +3,13 @@
 
 ## Updated mods
 
+### Breakable Wall Randomizer
+
+- Version: 3.0.2.2 -> 3.0.2.3
+
 ### CombatRandomizer
 
-- Version: 1.0.1.0 -> 1.0.1.2
+- Version: 1.0.1.1 -> 1.0.1.3
 
 ### Custom Knight
 
@@ -13,7 +17,7 @@
 
 ### MilliGolf
 
-- Version: 1.0.2.0 -> 1.1.0.0
+- Version: 1.0.2.1 -> 1.1.0.1
 
 ### TheHuntIsOn
 
