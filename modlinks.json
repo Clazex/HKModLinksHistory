@@ -6590,6 +6590,22 @@
       "Utility"
     ]
   },
+  "UnlimitedHiveblood": {
+    "description": "Adds synergy between Hiveblood and Kingsoul/Voidheart for unlimited regen",
+    "version": "1.0.0.0",
+    "links": {
+      "type": "universal",
+      "sha256": "2673CD79748B2E3FFE4CBFD77CA9EF97FB7FF3F4A951CBCBB3A84F8A8A02219B",
+      "url": "https://github.com/TheMathGeek314/UnlimitedHiveblood/releases/download/v1.0.0.0/UnlimitedHiveblood.zip"
+    },
+    "dependencies": [
+      "Satchel"
+    ],
+    "repository": "https://github.com/TheMathGeek314/UnlimitedHiveblood/",
+    "authors": [
+      "TheMathGeek_314"
+    ]
+  },
   "UnlimitedShades": {
     "description": "Multiple shades can coexist, so geo is never truly lost.",
     "version": "1.1.0.2",

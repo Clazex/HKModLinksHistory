@@ -1,6 +1,15 @@
 # Changelog
 
 
+## New mods
+
+### UnlimitedHiveblood
+
+- Description: Adds synergy between Hiveblood and Kingsoul/Voidheart for unlimited regen
+- Dependencies
+  + Satchel
+
+
 ## Updated mods
 
 ### Breakable Wall Randomizer
@@ -17,16 +26,9 @@
 
 ### MilliGolf
 
-- Version: 1.0.2.1 -> 1.1.0.1
+- Version: 1.0.2.3 -> 1.1.0.1
 
 ### TheHuntIsOn
 
 - Version: 0.4.0.0 -> 0.5.0.0
-
-### UnRando
-
-- Version: 0.2.0.0 -> 0.3.0.0
-- Dependencies
-  + Removed
-    - RandoSettingsManager
 

@@ -50,6 +50,12 @@
 - Tags
   + Gameplay
 
+### UnlimitedHiveblood
+
+- Description: Adds synergy between Hiveblood and Kingsoul/Voidheart for unlimited regen
+- Dependencies
+  + Satchel
+
 
 ## Removed mods
 
@@ -65,16 +71,6 @@
 ### Archipelago Map Mod
 
 - Version: 2.2.2.0 -> 2.2.3.0
-
-### BenchDeploy
-
-- Version: 1.3.0.0 -> 1.4.0.0
-- Description
-  + Old: Deploy Multi Bench use controller/keyboard
-  + New: Deploy Multi Bench use controller/keyboard. other player bench on itemsync MapSyncMod
-- Integrations
-  + Added
-    - MapSyncMod
 
 ### BlindRadiance
 
@@ -103,13 +99,6 @@
 ### Lore Randomizer
 
 - Version: 0.3.0.1 -> 0.3.2.0
-
-### MapSyncMod
-
-- Version: 1.2.2.0 -> 1.3.0.0
-- Integrations
-  + Added
-    - BenchDeploy
 
 ### Static Camera
 
