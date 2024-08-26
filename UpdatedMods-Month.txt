@@ -27,3 +27,6 @@ MilliGolf
 Breakable Wall Randomizer
 CombatRandomizer
 MilliGolf
+MilliGolf
+RandomCompanions
+UnRando

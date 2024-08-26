@@ -10,6 +10,14 @@
   + HKMirror
   + Satchel
 
+### CollectorGlitchRemover
+
+- Description: Prevents the collector insta-grab glitch.
+- Dependencies
+  + SFCore
+- Tags
+  + Utility
+
 ### CombatRandomizer
 
 - Description: A Randomizer add-on for a cursed combat experience.
@@ -25,10 +33,6 @@
 - Description: An 18-hole course featuring Millibelle the Golf Ball
 - Dependencies
   + Satchel
-
-### NoTransitions
-
-- Description: INCOMPLETE, BROKEN, DEMO VERSION. View ReadMe for more info
 
 ### ShowFPS
 
@@ -99,6 +103,10 @@
 ### Lore Randomizer
 
 - Version: 0.3.0.1 -> 0.3.2.0
+
+### RandomCompanions
+
+- Version: 3.1.0.0 -> 3.2.0.0
 
 ### Static Camera
 

@@ -1,7 +1,7 @@
-NoTransitions
 ShowFPS
 CombatRandomizer
 CelesteKnight
 MilliGolf
 UnRando
 UnlimitedHiveblood
+CollectorGlitchRemover

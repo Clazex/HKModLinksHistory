@@ -3,6 +3,14 @@
 
 ## New mods
 
+### CollectorGlitchRemover
+
+- Description: Prevents the collector insta-grab glitch.
+- Dependencies
+  + SFCore
+- Tags
+  + Utility
+
 ### UnlimitedHiveblood
 
 - Description: Adds synergy between Hiveblood and Kingsoul/Voidheart for unlimited regen
@@ -26,9 +34,13 @@
 
 ### MilliGolf
 
-- Version: 1.0.2.3 -> 1.1.0.1
+- Version: 1.0.2.3 -> 1.1.1.0
 
-### TheHuntIsOn
+### RandomCompanions
 
-- Version: 0.4.0.0 -> 0.5.0.0
+- Version: 3.1.0.0 -> 3.2.0.0
+
+### UnRando
+
+- Version: 0.3.0.0 -> 1.0.0.0
 

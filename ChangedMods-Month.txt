@@ -1,4 +1,3 @@
-NoTransitions
 ShowFPS
 Breakable Wall Randomizer
 Static Camera
@@ -34,3 +33,7 @@ Breakable Wall Randomizer
 CombatRandomizer
 MilliGolf
 UnlimitedHiveblood
+CollectorGlitchRemover
+MilliGolf
+RandomCompanions
+UnRando
