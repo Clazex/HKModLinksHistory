@@ -11,6 +11,14 @@
 - Tags
   + Utility
 
+### Pale Shadow
+
+- Description: Homemade Pure Vessel boss mod.
+- Dependencies
+  + Vasi
+- Tags
+  + Boss
+
 ### UnlimitedHiveblood
 
 - Description: Adds synergy between Hiveblood and Kingsoul/Voidheart for unlimited regen
@@ -26,7 +34,7 @@
 
 ### CombatRandomizer
 
-- Version: 1.0.1.1 -> 1.0.1.3
+- Version: 1.0.1.2 -> 1.0.1.3
 
 ### Custom Knight
 

@@ -34,6 +34,14 @@
 - Dependencies
   + Satchel
 
+### Pale Shadow
+
+- Description: Homemade Pure Vessel boss mod.
+- Dependencies
+  + Vasi
+- Tags
+  + Boss
+
 ### ShowFPS
 
 - Description: A mod that adds a FPS display in the bottom right corner.

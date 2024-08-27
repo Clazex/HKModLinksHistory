@@ -1,4 +1,3 @@
-CombatRandomizer
 Custom Knight
 MilliGolf
 Breakable Wall Randomizer
@@ -9,3 +8,4 @@ CollectorGlitchRemover
 MilliGolf
 RandomCompanions
 UnRando
+Pale Shadow

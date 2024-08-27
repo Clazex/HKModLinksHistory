@@ -599,9 +599,9 @@ All with an incredible new soundtrack!</Description>
     <Manifest>
         <Name>Breakable Wall Randomizer</Name>
         <Description>A Hollow Knight Randomizer add-on for breakable walls.</Description>
-        <Version>3.0.1.2</Version>
-        <Link SHA256="b990661377c328663c4150d79402cf020ed904c5cddffe379c4a6d53d81e7626">
-            <![CDATA[https://github.com/nerthul11/BreakableWallRandomizer/releases/download/3.0.1.2/BreakableWallRandomizer.zip]]>
+        <Version>3.0.2.0</Version>
+        <Link SHA256="bc404fd446a4785c3749885a6197881f55fc9a4cd15c42ae6b31e3a04c2de339">
+            <![CDATA[https://github.com/nerthul11/BreakableWallRandomizer/releases/download/3.0.2.0/BreakableWallRandomizer.zip]]>
         </Link>
         <Dependencies>
             <Dependency>Randomizer 4</Dependency>
@@ -6490,9 +6490,9 @@ This is a singleplayer mod. The "teamwork" refers to in-game events.</Descriptio
 	<Manifest>
 	        <Name>Static Camera</Name>
 	        <Description>Locks the camera in place with a keybind.</Description>
-	        <Version>1.0.1.0</Version>
-	        <Link SHA256="2BCD435886F1EE5F7C79665D5C25739A5059F25CF4B2A143D4D1DAE49FB26ED5">
-	        	<![CDATA[https://github.com/EarlyHemisphere/HK.StaticCamera/releases/download/v1.0.1/StaticCamera.dll]]>
+	        <Version>1.0.2.0</Version>
+	        <Link SHA256="9F4C1E447EB7831199BD721C0A45177ECB1E198EE12758B334F12CD5AC21C618">
+	        	<![CDATA[https://github.com/EarlyHemisphere/HK.StaticCamera/releases/download/v1.0.2/StaticCamera.dll]]>
 	        </Link>
 	        <Dependencies>
 	        	<Dependency>Satchel</Dependency>
@@ -6503,6 +6503,9 @@ This is a singleplayer mod. The "teamwork" refers to in-game events.</Descriptio
 	        <Issues>
 	        	<![CDATA[https://github.com/EarlyHemisphere/HK.StaticCamera/issues]]>
 	        </Issues>
+		<Integrations>
+			<Integration>DebugMod</Integration>
+		</Integrations>
 	        <Tags>
 	        	<Tag>Utility</Tag>
 	        </Tags>
@@ -6513,9 +6516,9 @@ This is a singleplayer mod. The "teamwork" refers to in-game events.</Descriptio
 	<Manifest>
         	<Name>Vessel May Cry</Name>
         	<Description>A mod that overhauls the Knight's moveset to match Vergil's. Reading the mod page is recommended.</Description>
-        	<Version>1.0.0.1</Version>
-        	<Link SHA256="3B247B0B811F792155AF41C5108860A4926970D6A6C5E42F26E46FCE4FB97E8B">
-            		<![CDATA[https://github.com/Samihamer1/Hollow-Knight-VesselMayCry/releases/download/v1.0.0.1/VMC1001.zip]]>
+        	<Version>1.0.0.2</Version>
+        	<Link SHA256="F5CCD1EF0A2D28CF980FC929D6840A73B9D13487A3BD901740C8086C95DA4A24">
+            		<![CDATA[https://github.com/Samihamer1/Hollow-Knight-VesselMayCry/releases/download/v1.0.0.2/VMC1002.zip]]>
        	 	</Link>
         	<Dependencies>
             		<Dependency>Vasi</Dependency>

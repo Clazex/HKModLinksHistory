@@ -4860,6 +4860,25 @@
     ],
     "repository": "https://github.com/fifty-six/HollowKnight.Pale-Prince/"
   },
+  "Pale Shadow": {
+    "description": "Homemade Pure Vessel boss mod.",
+    "version": "1.0.0.0",
+    "links": {
+      "type": "universal",
+      "sha256": "7E6647F1C0AAD339149DB1E109C1D49D3B4E4D232779AF95F6A5F83A94716DED",
+      "url": "https://github.com/HK-Modding-Preservation/ChineseMods/releases/download/pale-shadow/Pale.Shadow.zip"
+    },
+    "dependencies": [
+      "Vasi"
+    ],
+    "repository": "https://github.com/HK-Modding-Preservation/ChineseMods",
+    "tags": [
+      "Boss"
+    ],
+    "authors": [
+      "腐草ROT"
+    ]
+  },
   "PaletteSwapper": {
     "description": "Mod which changes room color tint.",
     "version": "1.1.0.0",
