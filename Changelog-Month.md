@@ -42,12 +42,6 @@
 - Tags
   + Boss
 
-### ShowFPS
-
-- Description: A mod that adds a FPS display in the bottom right corner.
-- Tags
-  + Utility
-
 ### UnRando
 
 - Description: A Rando 4 connection which fixes the order in which rando items are obtained.

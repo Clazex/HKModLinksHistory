@@ -1,4 +1,3 @@
-ShowFPS
 CombatRandomizer
 CelesteKnight
 MilliGolf

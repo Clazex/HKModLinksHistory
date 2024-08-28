@@ -1,14 +1,27 @@
 # Changelog
 
 
-## Removed mods
+## New mods
 
-- Dreamer Shard Rando
+### CelesteKnight
+
+- Description: Celeste movements like dash, super, hyper, wallbounce
+- Dependencies
+  + HKMirror
+  + Satchel
 
 
 ## Updated mods
 
-### KorzUtils
+### Breakable Wall Randomizer
 
-- Version: 0.7.0.0 -> 0.8.0.0
+- Version: 3.0.2.0 -> 3.0.2.1
+
+### CombatRandomizer
+
+- Version: 1.0.0.0 -> 1.0.1.0
+
+### GodhomeRandomizer
+
+- Version: 2.2.4.3 -> 2.2.4.4
 
