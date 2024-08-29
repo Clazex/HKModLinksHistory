@@ -151,7 +151,7 @@ Not recommended for use in new mods.</Description>
         <Author>Alph4</Author>
 	<Author>TheMathGeek_314</Author>
     </Authors>
-</Manifest>  
+</Manifest>
 <Manifest>
     <Name>SiblingClimb</Name>
     <Description>Removes platforms from the lighthouse climb.</Description>
@@ -5395,9 +5395,9 @@ This is a singleplayer mod. The "teamwork" refers to in-game events.</Descriptio
     <Manifest>
         <Name>KorzUtils</Name>
         <Description>Library mod that provide useful functions for other mods.</Description>
-        <Version>0.7.0.0</Version>
-        <Link SHA256="82831581cbea2d492394f898f3a6df6954e4ab9a9568a0839a6f1cb518327c2c">
-            <![CDATA[https://github.com/Korzer420/KorzUtils/releases/download/v0.7.0/KorzUtils.zip]]></Link>
+        <Version>0.8.0.0</Version>
+        <Link SHA256="0bfe1bb26d4e4c47b65d027d7ea0bd90baaaca90b7b3eff7425d7ee517318590">
+            <![CDATA[https://github.com/Korzer420/KorzUtils/releases/download/v0.8.0/KorzUtils.zip]]></Link>
         <Dependencies>
         </Dependencies>
         <Repository>
@@ -6193,25 +6193,6 @@ This is a singleplayer mod. The "teamwork" refers to in-game events.</Descriptio
         </Authors>
     </Manifest>
     <Manifest>
-        <Name>Dreamer Shard Rando</Name>
-        <Description>CURRENTLY BUGGED, DO NOT USE!</Description>
-        <Version>1.0.1.0</Version>
-        <Link SHA256="6E751FC245055F056BFFF3D358D7975807A1B55EBC13213BE4BCE9E6D5D98AAB"><![CDATA[https://github.com/ToboterXP/HollowKnight.DreamerShardRando/releases/download/1.0.1/DreamerShards.zip]]></Link>
-        <Dependencies>
-            <Dependency>Randomizer 4</Dependency>
-        </Dependencies>
-        <Repository>
-            <![CDATA[https://github.com/ToboterXP/HollowKnight.DreamerShardRando]]>
-        </Repository>
-        <Integrations>
-            <Integration>RandoSettingsManager</Integration>
-            <Integration>ConnectionMetadataInjector</Integration>
-        </Integrations>
-        <Authors>
-            <Author>Toboter</Author>
-        </Authors>
-    </Manifest>
-    <Manifest>
         <Name>Text Randomizer</Name>
         <Description>Shuffles around all text in Hollow Knight</Description>
         <Version>1.1.0.0</Version>
@@ -6361,7 +6342,7 @@ This is a singleplayer mod. The "teamwork" refers to in-game events.</Descriptio
 	    <Author>Destalta</Author>
         </Authors>
     </Manifest>
-	
+
 	<Manifest>
 		<Name>Keep Me Geo</Name>
 		<Description>Don't want the anxiety of losing everything when you die? Then Keep Me Geo will take your worries away! You won't lose any more geo than you want to when you die!</Description>
@@ -6403,7 +6384,7 @@ This is a singleplayer mod. The "teamwork" refers to in-game events.</Descriptio
 			<Author>ChouchIsCool</Author>
 		</Authors>
 	</Manifest>
-	
+
 	<Manifest>
 		<Name>ShyKnight</Name>
 		<Description>Removes the audience from Godhome arenas and Colosseum of Fools</Description>
@@ -7027,7 +7008,7 @@ This is a singleplayer mod. The "teamwork" refers to in-game events.</Descriptio
 		<Authors>
 			<Author>Samihamer1</Author>
 		</Authors>
-    </Manifest>	
+    </Manifest>
     <Manifest>
         <Name>LessHealing</Name>
         <Description>A Hollow Knight mod that adds toggleable options that remove various healing methods from the game.</Description>

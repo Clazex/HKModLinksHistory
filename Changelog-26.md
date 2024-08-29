@@ -1,15 +1,9 @@
 # Changelog
 
 
-## New mods
+## Updated mods
 
-### CombatRandomizer
+### BlindRadiance
 
-- Description: A Randomizer add-on for a cursed combat experience.
-- Dependencies
-  + ItemChanger
-  + MenuChanger
-  + Randomizer 4
-- Tags
-  + Gameplay
+- Version: 1.5.1.0 -> 1.5.2.0
 
