@@ -11,6 +11,12 @@
 - Tags
   + Utility
 
+### KeepDiveIFrames
+
+- Description: Now you can abuse i-frames for dive spam again
+- Dependencies
+  + Satchel
+
 ### Pale Shadow
 
 - Description: Homemade Pure Vessel boss mod.
@@ -19,14 +25,12 @@
 - Tags
   + Boss
 
-### UnlimitedHiveblood
-
-- Description: Adds synergy between Hiveblood and Kingsoul/Voidheart for unlimited regen
-- Dependencies
-  + Satchel
-
 
 ## Updated mods
+
+### AccessRandomizer
+
+- Version: 1.2.2.0 -> 1.2.3.0
 
 ### MilliGolf
 

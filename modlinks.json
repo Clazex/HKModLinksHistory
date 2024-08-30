@@ -73,11 +73,11 @@
   },
   "AccessRandomizer": {
     "description": "A randomizer add-on for miscellaneous access checks.",
-    "version": "1.2.2.0",
+    "version": "1.2.3.0",
     "links": {
       "type": "universal",
-      "sha256": "0F4809273D35AEB7617B0CB8FE0D0B454DD28FAC201D67E8D07F6A61F211E925",
-      "url": "https://github.com/nerthul11/AccessRandomizer/releases/download/1.2.2.0/AccessRandomizer.zip"
+      "sha256": "37533B1874C823E20F05E51F75CDEA63EF85227C0FA48BA91D90C2F3283256DE",
+      "url": "https://github.com/nerthul11/AccessRandomizer/releases/download/1.2.3.0/AccessRandomizer.zip"
     },
     "dependencies": [
       "ItemChanger",
@@ -3654,6 +3654,22 @@
     ],
     "authors": [
       "CDog"
+    ]
+  },
+  "KeepDiveIFrames": {
+    "description": "Now you can abuse i-frames for dive spam again",
+    "version": "1.0.0.0",
+    "links": {
+      "type": "universal",
+      "sha256": "DAA6633C126297994A5BBF7FA27CD7AD0E212E740F847A1EDF6522553DE0F213",
+      "url": "https://github.com/TheMathGeek314/KeepDiveIFrames/releases/download/v1.0.0.0/KeepDiveIFrames.zip"
+    },
+    "dependencies": [
+      "Satchel"
+    ],
+    "repository": "https://github.com/TheMathGeek314/KeepDiveIFrames/",
+    "authors": [
+      "TheMathGeek_314"
     ]
   },
   "KeybindChaos": {

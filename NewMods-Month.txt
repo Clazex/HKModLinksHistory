@@ -5,3 +5,4 @@ UnRando
 UnlimitedHiveblood
 CollectorGlitchRemover
 Pale Shadow
+KeepDiveIFrames

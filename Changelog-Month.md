@@ -28,6 +28,12 @@
 - Tags
   + Gameplay
 
+### KeepDiveIFrames
+
+- Description: Now you can abuse i-frames for dive spam again
+- Dependencies
+  + Satchel
+
 ### MilliGolf
 
 - Description: An 18-hole course featuring Millibelle the Golf Ball
@@ -70,6 +76,10 @@
 
 ## Updated mods
 
+### AccessRandomizer
+
+- Version: 1.2.2.0 -> 1.2.3.0
+
 ### Archipelago
 
 - Version: 0.5.0.0 -> 0.6.0.0
@@ -84,7 +94,7 @@
 
 ### Breakable Wall Randomizer
 
-- Version: 3.0.1.2 -> 3.0.2.3
+- Version: 3.0.2.0 -> 3.0.2.3
 
 ### Custom Knight
 
@@ -110,13 +120,6 @@
 
 - Version: 3.1.0.0 -> 3.2.0.0
 
-### Static Camera
-
-- Version: 1.0.1.0 -> 1.0.2.0
-- Integrations
-  + Added
-    - DebugMod
-
 ### TheHuntIsOn
 
 - Version: 0.4.0.0 -> 0.5.0.0
@@ -124,8 +127,4 @@
 ### TheRealJournalRando
 
 - Version: 2.4.8955.7331 -> 2.4.8989.41686
-
-### Vessel May Cry
-
-- Version: 1.0.0.1 -> 1.0.0.2
 
