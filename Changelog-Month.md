@@ -100,10 +100,6 @@
 
 - Version: 3.0.1.0 -> 3.1.0.0
 
-### Extra Rando
-
-- Version: 0.5.0.0 -> 0.5.1.0
-
 ### GodhomeRandomizer
 
 - Version: 2.2.4.3 -> 2.2.4.4
@@ -111,10 +107,6 @@
 ### KorzUtils
 
 - Version: 0.7.0.0 -> 0.8.0.0
-
-### Lore Randomizer
-
-- Version: 0.3.0.1 -> 0.3.2.0
 
 ### RandomCompanions
 
