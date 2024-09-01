@@ -1,3 +1,2 @@
-CollectorGlitchRemover
 Pale Shadow
 KeepDiveIFrames

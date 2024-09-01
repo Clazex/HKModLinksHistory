@@ -18,16 +18,6 @@
 - Tags
   + Utility
 
-### CombatRandomizer
-
-- Description: A Randomizer add-on for a cursed combat experience.
-- Dependencies
-  + ItemChanger
-  + MenuChanger
-  + Randomizer 4
-- Tags
-  + Gameplay
-
 ### KeepDiveIFrames
 
 - Description: Now you can abuse i-frames for dive spam again
@@ -95,6 +85,10 @@
 ### Breakable Wall Randomizer
 
 - Version: 3.0.2.0 -> 3.0.2.3
+
+### CombatRandomizer
+
+- Version: 1.0.0.0 -> 1.0.1.3
 
 ### Custom Knight
 
