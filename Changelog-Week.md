@@ -9,18 +9,14 @@
 - Dependencies
   + Satchel
 
-### Pale Shadow
-
-- Description: Homemade Pure Vessel boss mod.
-- Dependencies
-  + Vasi
-- Tags
-  + Boss
-
 
 ## Updated mods
 
 ### AccessRandomizer
 
 - Version: 1.2.2.0 -> 1.2.3.0
+
+### Sein
+
+- Version: 1.1.0.0 -> 1.2.0.0
 

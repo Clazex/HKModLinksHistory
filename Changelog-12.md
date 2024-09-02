@@ -3,7 +3,11 @@
 
 ## Updated mods
 
-### CombatRandomizer
+### Custom Knight
 
-- Version: 1.0.1.1 -> 1.0.1.2
+- Version: 3.0.1.0 -> 3.1.0.0
+
+### MilliGolf
+
+- Version: 1.0.2.3 -> 1.1.0.0
 

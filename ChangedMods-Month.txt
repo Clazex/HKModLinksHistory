@@ -1,4 +1,3 @@
-BlindRadiance
 KorzUtils
 Breakable Wall Randomizer
 CelesteKnight
@@ -33,3 +32,4 @@ UnRando
 Pale Shadow
 AccessRandomizer
 KeepDiveIFrames
+Sein

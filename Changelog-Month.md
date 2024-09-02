@@ -78,10 +78,6 @@
 
 - Version: 2.2.2.0 -> 2.2.3.0
 
-### BlindRadiance
-
-- Version: 1.5.1.0 -> 1.5.2.0
-
 ### Breakable Wall Randomizer
 
 - Version: 3.0.2.0 -> 3.0.2.3
@@ -105,6 +101,10 @@
 ### RandomCompanions
 
 - Version: 3.1.0.0 -> 3.2.0.0
+
+### Sein
+
+- Version: 1.1.0.0 -> 1.2.0.0
 
 ### TheHuntIsOn
 

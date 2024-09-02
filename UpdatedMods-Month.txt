@@ -1,4 +1,3 @@
-BlindRadiance
 KorzUtils
 Breakable Wall Randomizer
 CombatRandomizer
@@ -26,3 +25,4 @@ MilliGolf
 RandomCompanions
 UnRando
 AccessRandomizer
+Sein
