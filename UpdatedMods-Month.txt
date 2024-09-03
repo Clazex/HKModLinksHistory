@@ -26,3 +26,7 @@ RandomCompanions
 UnRando
 AccessRandomizer
 Sein
+BingoGoalPack1
+BingoSync
+BingoSyncExtension
+Sein

@@ -1,3 +1,7 @@
 AccessRandomizer
 KeepDiveIFrames
 Sein
+BingoGoalPack1
+BingoSync
+BingoSyncExtension
+Sein
