@@ -5,3 +5,4 @@ UnlimitedHiveblood
 CollectorGlitchRemover
 Pale Shadow
 KeepDiveIFrames
+PlayerTrail

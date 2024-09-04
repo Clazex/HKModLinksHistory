@@ -38,6 +38,13 @@
 - Tags
   + Boss
 
+### PlayerTrail
+
+- Description: An HKMP addon to add a lingering trail behind some players
+- Dependencies
+  + HKMP
+  + Satchel
+
 ### UnRando
 
 - Description: A Rando 4 connection which fixes the order in which rando items are obtained.
@@ -68,7 +75,7 @@
 
 ### AccessRandomizer
 
-- Version: 1.2.2.0 -> 1.2.3.0
+- Version: 1.2.2.0 -> 1.2.3.1
 
 ### Archipelago
 

@@ -37,3 +37,5 @@ BingoGoalPack1
 BingoSync
 BingoSyncExtension
 Sein
+AccessRandomizer
+PlayerTrail
