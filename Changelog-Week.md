@@ -3,12 +3,6 @@
 
 ## New mods
 
-### KeepDiveIFrames
-
-- Description: Now you can abuse i-frames for dive spam again
-- Dependencies
-  + Satchel
-
 ### PlayerTrail
 
 - Description: An HKMP addon to add a lingering trail behind some players
@@ -21,7 +15,7 @@
 
 ### AccessRandomizer
 
-- Version: 1.2.2.0 -> 1.2.3.1
+- Version: 1.2.3.0 -> 1.2.3.1
 
 ### BingoGoalPack1
 
@@ -42,6 +36,10 @@
 - Description
   + Old: A library mod that provides an interface to add extra automarking logic to BingoSync
   + New: Previously used to add extra automarking logic to BingoSync, now deprecated
+
+### CombatRandomizer
+
+- Version: 1.0.1.3 -> 1.1.0.0
 
 ### Sein
 

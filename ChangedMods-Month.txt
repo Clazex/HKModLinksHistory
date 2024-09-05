@@ -39,3 +39,4 @@ BingoSyncExtension
 Sein
 AccessRandomizer
 PlayerTrail
+CombatRandomizer

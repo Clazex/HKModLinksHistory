@@ -31,3 +31,4 @@ BingoSync
 BingoSyncExtension
 Sein
 AccessRandomizer
+CombatRandomizer

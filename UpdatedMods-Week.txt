@@ -1,7 +1,7 @@
-AccessRandomizer
 Sein
 BingoGoalPack1
 BingoSync
 BingoSyncExtension
 Sein
 AccessRandomizer
+CombatRandomizer

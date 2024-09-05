@@ -1,5 +1,3 @@
-AccessRandomizer
-KeepDiveIFrames
 Sein
 BingoGoalPack1
 BingoSync
@@ -7,3 +5,4 @@ BingoSyncExtension
 Sein
 AccessRandomizer
 PlayerTrail
+CombatRandomizer

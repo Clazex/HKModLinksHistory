@@ -111,7 +111,7 @@
 
 ### CombatRandomizer
 
-- Version: 1.0.0.0 -> 1.0.1.3
+- Version: 1.0.0.0 -> 1.1.0.0
 
 ### Custom Knight
 
