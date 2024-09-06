@@ -37,6 +37,10 @@
   + Old: A library mod that provides an interface to add extra automarking logic to BingoSync
   + New: Previously used to add extra automarking logic to BingoSync, now deprecated
 
+### Charm Crab
+
+- Version: 1.0.6.0 -> 1.0.8.0
+
 ### CombatRandomizer
 
 - Version: 1.0.1.3 -> 1.1.0.0

@@ -1,4 +1,3 @@
-KorzUtils
 Breakable Wall Randomizer
 CelesteKnight
 CombatRandomizer
@@ -40,3 +39,4 @@ Sein
 AccessRandomizer
 PlayerTrail
 CombatRandomizer
+Charm Crab

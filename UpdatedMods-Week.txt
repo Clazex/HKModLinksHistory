@@ -5,3 +5,4 @@ BingoSyncExtension
 Sein
 AccessRandomizer
 CombatRandomizer
+Charm Crab

@@ -1,4 +1,3 @@
-KorzUtils
 Breakable Wall Randomizer
 CombatRandomizer
 GodhomeRandomizer
@@ -32,3 +31,4 @@ BingoSyncExtension
 Sein
 AccessRandomizer
 CombatRandomizer
+Charm Crab

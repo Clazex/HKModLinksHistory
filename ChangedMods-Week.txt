@@ -6,3 +6,4 @@ Sein
 AccessRandomizer
 PlayerTrail
 CombatRandomizer
+Charm Crab
