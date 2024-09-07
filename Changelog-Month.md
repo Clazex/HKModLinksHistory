@@ -3,13 +3,6 @@
 
 ## New mods
 
-### CelesteKnight
-
-- Description: Celeste movements like dash, super, hyper, wallbounce
-- Dependencies
-  + HKMirror
-  + Satchel
-
 ### CollectorGlitchRemover
 
 - Description: Prevents the collector insta-grab glitch.
@@ -102,7 +95,11 @@
 
 ### Breakable Wall Randomizer
 
-- Version: 3.0.2.0 -> 3.0.2.3
+- Version: 3.0.2.1 -> 3.0.2.3
+
+### CelesteKnight
+
+- Version: 1.0.0.0 -> 1.0.0.1
 
 ### Charm Crab
 
@@ -110,7 +107,7 @@
 
 ### CombatRandomizer
 
-- Version: 1.0.0.0 -> 1.1.0.0
+- Version: 1.0.1.0 -> 1.1.0.0
 
 ### Custom Knight
 
@@ -118,7 +115,10 @@
 
 ### GodhomeRandomizer
 
-- Version: 2.2.4.3 -> 2.2.4.4
+- Version: 2.2.4.4 -> 2.2.4.5
+- Dependencies
+  + Removed
+    - KorzUtils
 
 ### RandomCompanions
 

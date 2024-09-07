@@ -45,6 +45,13 @@
 
 - Version: 1.0.1.3 -> 1.1.0.0
 
+### GodhomeRandomizer
+
+- Version: 2.2.4.4 -> 2.2.4.5
+- Dependencies
+  + Removed
+    - KorzUtils
+
 ### Sein
 
 - Version: 1.1.0.0 -> 1.2.3.0

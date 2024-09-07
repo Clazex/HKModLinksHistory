@@ -6,3 +6,4 @@ Sein
 AccessRandomizer
 CombatRandomizer
 Charm Crab
+GodhomeRandomizer
