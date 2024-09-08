@@ -1,4 +1,3 @@
-CelesteKnight
 Archipelago
 Archipelago Map Mod
 TheRealJournalRando
@@ -37,3 +36,5 @@ PlayerTrail
 CombatRandomizer
 Charm Crab
 GodhomeRandomizer
+Castless Focus
+PlayerTrail

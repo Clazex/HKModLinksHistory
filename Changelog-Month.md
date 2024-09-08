@@ -3,6 +3,12 @@
 
 ## New mods
 
+### Castless Focus
+
+- Description: Stops the focus button from casting when tapped. (Note: This causes tapping the focus button to always start the focus, with the same delay as if it was held)
+- Dependencies
+  + Satchel
+
 ### CollectorGlitchRemover
 
 - Description: Prevents the collector insta-grab glitch.
@@ -96,10 +102,6 @@
 ### Breakable Wall Randomizer
 
 - Version: 3.0.2.1 -> 3.0.2.3
-
-### CelesteKnight
-
-- Version: 1.0.0.0 -> 1.0.0.1
 
 ### Charm Crab
 

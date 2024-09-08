@@ -5,3 +5,4 @@ CollectorGlitchRemover
 Pale Shadow
 KeepDiveIFrames
 PlayerTrail
+Castless Focus

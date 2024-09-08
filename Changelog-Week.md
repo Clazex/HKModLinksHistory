@@ -3,6 +3,12 @@
 
 ## New mods
 
+### Castless Focus
+
+- Description: Stops the focus button from casting when tapped. (Note: This causes tapping the focus button to always start the focus, with the same delay as if it was held)
+- Dependencies
+  + Satchel
+
 ### PlayerTrail
 
 - Description: An HKMP addon to add a lingering trail behind some players
@@ -54,5 +60,5 @@
 
 ### Sein
 
-- Version: 1.1.0.0 -> 1.2.3.0
+- Version: 1.2.0.0 -> 1.2.3.0
 

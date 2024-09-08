@@ -1,1 +1,4 @@
+BingoGoalPack1
+BingoSync
+BingoSyncExtension
 Sein
