@@ -79,6 +79,10 @@
 
 - Version: 2.2.2.0 -> 2.2.3.0
 
+### BenchDeploy
+
+- Version: 1.4.0.0 -> 1.4.4.0
+
 ### BingoGoalPack1
 
 - Version: 1.4.0.0 -> 1.5.0.0
@@ -121,6 +125,10 @@
 - Dependencies
   + Removed
     - KorzUtils
+
+### MapSyncMod
+
+- Version: 1.3.0.0 -> 1.3.2.0
 
 ### RandomCompanions
 

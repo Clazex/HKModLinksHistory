@@ -1,7 +1,3 @@
-BingoGoalPack1
-BingoSync
-BingoSyncExtension
-Sein
 AccessRandomizer
 PlayerTrail
 CombatRandomizer
@@ -9,3 +5,5 @@ Charm Crab
 GodhomeRandomizer
 Castless Focus
 PlayerTrail
+BenchDeploy
+MapSyncMod

@@ -30,3 +30,5 @@ CombatRandomizer
 Charm Crab
 GodhomeRandomizer
 PlayerTrail
+BenchDeploy
+MapSyncMod

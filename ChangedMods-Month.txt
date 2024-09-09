@@ -38,3 +38,5 @@ Charm Crab
 GodhomeRandomizer
 Castless Focus
 PlayerTrail
+BenchDeploy
+MapSyncMod
