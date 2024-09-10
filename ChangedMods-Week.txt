@@ -1,5 +1,3 @@
-AccessRandomizer
-PlayerTrail
 CombatRandomizer
 Charm Crab
 GodhomeRandomizer

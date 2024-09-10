@@ -9,19 +9,8 @@
 - Dependencies
   + Satchel
 
-### PlayerTrail
-
-- Description: An HKMP addon to add a lingering trail behind some players
-- Dependencies
-  + HKMP
-  + Satchel
-
 
 ## Updated mods
-
-### AccessRandomizer
-
-- Version: 1.2.3.0 -> 1.2.3.1
 
 ### BenchDeploy
 
@@ -45,4 +34,8 @@
 ### MapSyncMod
 
 - Version: 1.3.0.0 -> 1.3.2.0
+
+### PlayerTrail
+
+- Version: 1.0.0.0 -> 1.0.0.1
 
