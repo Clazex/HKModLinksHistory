@@ -134,7 +134,3 @@
 
 - Version: 0.4.0.0 -> 0.5.0.0
 
-### TheRealJournalRando
-
-- Version: 2.4.8989.31846 -> 2.4.8989.41686
-

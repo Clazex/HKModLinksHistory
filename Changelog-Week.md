@@ -20,10 +20,6 @@
 
 - Version: 1.0.6.0 -> 1.0.8.0
 
-### CombatRandomizer
-
-- Version: 1.0.1.3 -> 1.1.0.0
-
 ### GodhomeRandomizer
 
 - Version: 2.2.4.4 -> 2.2.4.5
