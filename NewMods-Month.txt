@@ -1,4 +1,3 @@
-MilliGolf
 UnRando
 UnlimitedHiveblood
 CollectorGlitchRemover

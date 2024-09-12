@@ -73,11 +73,11 @@
   },
   "AccessRandomizer": {
     "description": "A randomizer add-on for miscellaneous access checks.",
-    "version": "1.2.3.1",
+    "version": "1.2.4.0",
     "links": {
       "type": "universal",
-      "sha256": "43CA2A7C4674565499AB5EFB3C567A21A66FEE579DBE2FCA75A7329E3AAF519A",
-      "url": "https://github.com/nerthul11/AccessRandomizer/releases/download/1.2.3.1/AccessRandomizer.zip"
+      "sha256": "4B44CCBC38A5486D77D68A51F415F36CD721E1004C0B76CC57E93E5FE8967A8F",
+      "url": "https://github.com/nerthul11/AccessRandomizer/releases/download/1.2.4.0/AccessRandomizer.zip"
     },
     "dependencies": [
       "ItemChanger",
@@ -713,11 +713,11 @@
   },
   "Breakable Wall Randomizer": {
     "description": "A Hollow Knight Randomizer add-on for breakable walls.",
-    "version": "3.0.2.3",
+    "version": "3.0.2.4",
     "links": {
       "type": "universal",
-      "sha256": "EC0046E21F636AEA3D3E13C27A06D2B0C20851DE25D5801928940713489714C5",
-      "url": "https://github.com/nerthul11/BreakableWallRandomizer/releases/download/3.0.2.3/BreakableWallRandomizer.zip"
+      "sha256": "A2226DCCC9E6BB42AE525134894D755CED0D87CA44A9602155089C7762E5B211",
+      "url": "https://github.com/nerthul11/BreakableWallRandomizer/releases/download/3.0.2.4/BreakableWallRandomizer.zip"
     },
     "dependencies": [
       "Randomizer 4",

@@ -1,6 +1,7 @@
-Charm Crab
 GodhomeRandomizer
 Castless Focus
 PlayerTrail
 BenchDeploy
 MapSyncMod
+AccessRandomizer
+Breakable Wall Randomizer
