@@ -24,16 +24,13 @@
 
 - Version: 3.0.2.3 -> 3.0.2.4
 
-### GodhomeRandomizer
-
-- Version: 2.2.4.4 -> 2.2.4.5
-- Dependencies
-  + Removed
-    - KorzUtils
-
 ### MapSyncMod
 
 - Version: 1.3.0.0 -> 1.3.2.0
+
+### Nightmare Spark
+
+- Version: 1.2.0.0 -> 1.2.1.0
 
 ### PlayerTrail
 

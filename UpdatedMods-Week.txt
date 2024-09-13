@@ -1,6 +1,6 @@
-GodhomeRandomizer
 PlayerTrail
 BenchDeploy
 MapSyncMod
 AccessRandomizer
 Breakable Wall Randomizer
+Nightmare Spark

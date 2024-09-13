@@ -1,7 +1,7 @@
-GodhomeRandomizer
 Castless Focus
 PlayerTrail
 BenchDeploy
 MapSyncMod
 AccessRandomizer
 Breakable Wall Randomizer
+Nightmare Spark

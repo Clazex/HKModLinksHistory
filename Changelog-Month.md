@@ -38,20 +38,6 @@
   + HKMP
   + Satchel
 
-### UnRando
-
-- Description: A Rando 4 connection which fixes the order in which rando items are obtained.
-- Dependencies
-  + ItemChanger
-  + MenuChanger
-  + PurenailCore
-  + Randomizer 4
-  + RandomizerCore
-- Integrations
-  + RandoSettingsManager
-- Tags
-  + Gameplay
-
 ### UnlimitedHiveblood
 
 - Description: Adds synergy between Hiveblood and Kingsoul/Voidheart for unlimited regen
@@ -118,7 +104,11 @@
 
 ### MilliGolf
 
-- Version: 1.0.0.0 -> 1.1.1.0
+- Version: 1.0.1.1 -> 1.1.1.0
+
+### Nightmare Spark
+
+- Version: 1.2.0.0 -> 1.2.1.0
 
 ### RandomCompanions
 
@@ -131,4 +121,11 @@
 ### TheHuntIsOn
 
 - Version: 0.4.0.0 -> 0.5.0.0
+
+### UnRando
+
+- Version: 0.2.0.0 -> 1.0.0.0
+- Dependencies
+  + Removed
+    - RandoSettingsManager
 

@@ -1,6 +1,4 @@
 MilliGolf
-UnRando
-MilliGolf
 CombatRandomizer
 MilliGolf
 MilliGolf
@@ -36,3 +34,4 @@ BenchDeploy
 MapSyncMod
 AccessRandomizer
 Breakable Wall Randomizer
+Nightmare Spark
