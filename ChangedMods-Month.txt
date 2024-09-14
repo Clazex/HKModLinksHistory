@@ -1,4 +1,3 @@
-MilliGolf
 CombatRandomizer
 MilliGolf
 MilliGolf
@@ -35,3 +34,4 @@ MapSyncMod
 AccessRandomizer
 Breakable Wall Randomizer
 Nightmare Spark
+Casino Knight

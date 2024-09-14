@@ -4,3 +4,4 @@ Pale Shadow
 KeepDiveIFrames
 PlayerTrail
 Castless Focus
+Casino Knight

@@ -1,4 +1,3 @@
-PlayerTrail
 BenchDeploy
 MapSyncMod
 AccessRandomizer

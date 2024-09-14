@@ -3,11 +3,13 @@
 
 ## New mods
 
-### Castless Focus
+### Casino Knight
 
-- Description: Stops the focus button from casting when tapped. (Note: This causes tapping the focus button to always start the focus, with the same delay as if it was held)
+- Description: Lets go gambling! Adds a casino with slot machines into Dirtmouth to spend geo on. Win big!
 - Dependencies
   + Satchel
+- Tags
+  + Gameplay
 
 
 ## Updated mods
@@ -31,8 +33,4 @@
 ### Nightmare Spark
 
 - Version: 1.2.0.0 -> 1.2.1.0
-
-### PlayerTrail
-
-- Version: 1.0.0.0 -> 1.0.0.1
 
