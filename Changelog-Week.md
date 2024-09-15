@@ -18,17 +18,9 @@
 
 - Version: 1.2.3.1 -> 1.2.4.0
 
-### BenchDeploy
-
-- Version: 1.4.0.0 -> 1.4.4.0
-
 ### Breakable Wall Randomizer
 
 - Version: 3.0.2.3 -> 3.0.2.4
-
-### MapSyncMod
-
-- Version: 1.3.0.0 -> 1.3.2.0
 
 ### Nightmare Spark
 

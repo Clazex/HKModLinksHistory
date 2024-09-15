@@ -1,5 +1,3 @@
-CombatRandomizer
-MilliGolf
 MilliGolf
 UnRando
 TheHuntIsOn

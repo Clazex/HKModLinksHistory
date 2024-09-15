@@ -93,7 +93,7 @@
 
 ### CombatRandomizer
 
-- Version: 1.0.1.0 -> 1.1.0.0
+- Version: 1.0.1.1 -> 1.1.0.0
 
 ### Custom Knight
 
@@ -112,7 +112,7 @@
 
 ### MilliGolf
 
-- Version: 1.0.2.0 -> 1.1.1.0
+- Version: 1.0.2.1 -> 1.1.1.0
 
 ### Nightmare Spark
 

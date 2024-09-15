@@ -3,7 +3,10 @@
 
 ## Updated mods
 
-### Charm Crab
+### GodhomeRandomizer
 
-- Version: 1.0.6.0 -> 1.0.8.0
+- Version: 2.2.4.4 -> 2.2.4.5
+- Dependencies
+  + Removed
+    - KorzUtils
 
