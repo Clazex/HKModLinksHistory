@@ -809,11 +809,11 @@
   },
   "Casino Knight": {
     "description": "Lets go gambling! Adds a casino with slot machines into Dirtmouth to spend geo on. Win big!",
-    "version": "0.1.0.0",
+    "version": "0.1.1.0",
     "links": {
       "type": "universal",
-      "sha256": "96CEEE7DAD8A0567DEA69C9CDE43B85C458F6032FE335A2762A4D23FC34C4814",
-      "url": "https://github.com/AbsoluteStratos/CasinoKnight/releases/download/v0.1.0-beta/CasinoKnight.zip"
+      "sha256": "5C2646E56E4C918DF7B9FAF8CF8DF205C60EFA3A99C294EC7CCE0BAFAF08BD87",
+      "url": "https://github.com/AbsoluteStratos/CasinoKnight/releases/download/v0.1.1/CasinoKnight.zip"
     },
     "dependencies": [
       "Satchel"

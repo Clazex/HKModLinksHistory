@@ -1,9 +1,13 @@
 # Changelog
 
 
-## Updated mods
+## New mods
 
-### Nightmare Spark
+### Casino Knight
 
-- Version: 1.2.0.0 -> 1.2.1.0
+- Description: Lets go gambling! Adds a casino with slot machines into Dirtmouth to spend geo on. Win big!
+- Dependencies
+  + Satchel
+- Tags
+  + Gameplay
 

@@ -1,2 +1,3 @@
-Custom Knight
+Breakable Wall Randomizer
+CombatRandomizer
 MilliGolf

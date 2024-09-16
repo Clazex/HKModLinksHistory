@@ -2,3 +2,4 @@ AccessRandomizer
 Breakable Wall Randomizer
 Nightmare Spark
 Casino Knight
+Casino Knight

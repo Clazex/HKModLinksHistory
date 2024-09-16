@@ -112,7 +112,7 @@
 
 ### MilliGolf
 
-- Version: 1.0.2.1 -> 1.1.1.0
+- Version: 1.0.2.3 -> 1.1.1.0
 
 ### Nightmare Spark
 
@@ -132,8 +132,5 @@
 
 ### UnRando
 
-- Version: 0.2.0.0 -> 1.0.0.0
-- Dependencies
-  + Removed
-    - RandoSettingsManager
+- Version: 0.3.0.0 -> 1.0.0.0
 

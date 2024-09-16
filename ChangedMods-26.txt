@@ -1,1 +1,2 @@
-CombatRandomizer
+Custom Knight
+MilliGolf

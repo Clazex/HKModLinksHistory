@@ -1,5 +1,3 @@
-MilliGolf
-UnRando
 TheHuntIsOn
 CombatRandomizer
 Custom Knight
@@ -26,3 +24,4 @@ MapSyncMod
 AccessRandomizer
 Breakable Wall Randomizer
 Nightmare Spark
+Casino Knight
