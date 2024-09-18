@@ -2459,6 +2459,25 @@
       "Library"
     ]
   },
+  "FullSpeedAhead": {
+    "description": "Removes Parry Slow-Down.",
+    "version": "1.5.0.0",
+    "links": {
+      "type": "universal",
+      "sha256": "CADA5346B9F888CB822EDAE0ADFDA8D6728575BA6441BCFF856DC0D6E9394933",
+      "url": "https://github.com/SFGrenade/FullSpeedAhead/releases/download/v1.5/FullSpeedAhead.zip"
+    },
+    "dependencies": [
+      "SFCore"
+    ],
+    "repository": "https://github.com/SFGrenade/FullSpeedAhead/",
+    "tags": [
+      "Utility"
+    ],
+    "authors": [
+      "SFGrenade"
+    ]
+  },
   "FuryFix": {
     "description": "Tries to fix fury for 1 max health saves.",
     "version": "1.5.0.0",

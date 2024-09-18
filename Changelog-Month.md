@@ -25,6 +25,14 @@
 - Tags
   + Utility
 
+### FullSpeedAhead
+
+- Description: Removes Parry Slow-Down.
+- Dependencies
+  + SFCore
+- Tags
+  + Utility
+
 ### KeepDiveIFrames
 
 - Description: Now you can abuse i-frames for dive spam again
@@ -125,10 +133,6 @@
 ### Sein
 
 - Version: 1.1.0.0 -> 1.2.3.0
-
-### TheHuntIsOn
-
-- Version: 0.4.0.0 -> 0.5.0.0
 
 ### UnRando
 

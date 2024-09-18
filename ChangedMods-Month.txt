@@ -1,4 +1,3 @@
-TheHuntIsOn
 CombatRandomizer
 Custom Knight
 MilliGolf
@@ -32,3 +31,4 @@ Breakable Wall Randomizer
 Nightmare Spark
 Casino Knight
 Casino Knight
+FullSpeedAhead

@@ -1,4 +1,3 @@
-TheHuntIsOn
 CombatRandomizer
 Custom Knight
 MilliGolf
