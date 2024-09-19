@@ -3,7 +3,7 @@
 
 ## Updated mods
 
-### CombatRandomizer
+### Charm Crab
 
-- Version: 1.0.1.3 -> 1.1.0.0
+- Version: 1.0.6.0 -> 1.0.8.0
 
