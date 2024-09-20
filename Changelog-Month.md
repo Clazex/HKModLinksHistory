@@ -103,10 +103,6 @@
 
 - Version: 1.0.1.2 -> 1.1.0.0
 
-### Custom Knight
-
-- Version: 3.0.1.0 -> 3.1.0.0
-
 ### GodhomeRandomizer
 
 - Version: 2.2.4.4 -> 2.2.4.5
@@ -120,7 +116,7 @@
 
 ### MilliGolf
 
-- Version: 1.0.2.3 -> 1.1.1.0
+- Version: 1.1.0.0 -> 1.1.1.0
 
 ### Nightmare Spark
 
