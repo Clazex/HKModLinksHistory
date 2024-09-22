@@ -14,9 +14,9 @@
 
 ## Updated mods
 
-### Casino Knight
+### CombatRandomizer
 
-- Version: 0.1.0.0 -> 0.1.1.0
+- Version: 1.1.0.0 -> 1.1.0.1
 
 ### UnlimitedHiveblood
 

@@ -1,4 +1,3 @@
-UnlimitedHiveblood
 CollectorGlitchRemover
 MilliGolf
 RandomCompanions
@@ -28,3 +27,4 @@ Casino Knight
 FullSpeedAhead
 FullSpeedAhead
 UnlimitedHiveblood
+CombatRandomizer

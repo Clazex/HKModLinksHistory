@@ -20,3 +20,4 @@ Nightmare Spark
 Casino Knight
 FullSpeedAhead
 UnlimitedHiveblood
+CombatRandomizer

@@ -54,12 +54,6 @@
   + HKMP
   + Satchel
 
-### UnlimitedHiveblood
-
-- Description: Adds synergy between Hiveblood and Kingsoul/Voidheart for unlimited regen
-- Dependencies
-  + Satchel
-
 
 ## Updated mods
 
@@ -101,7 +95,7 @@
 
 ### CombatRandomizer
 
-- Version: 1.0.1.3 -> 1.1.0.0
+- Version: 1.0.1.3 -> 1.1.0.1
 
 ### GodhomeRandomizer
 
@@ -133,4 +127,8 @@
 ### UnRando
 
 - Version: 0.3.0.0 -> 1.0.0.0
+
+### UnlimitedHiveblood
+
+- Version: 1.0.0.0 -> 1.0.0.1
 
