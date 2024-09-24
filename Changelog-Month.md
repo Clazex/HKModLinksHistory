@@ -17,14 +17,6 @@
 - Dependencies
   + Satchel
 
-### CollectorGlitchRemover
-
-- Description: Prevents the collector insta-grab glitch.
-- Dependencies
-  + SFCore
-- Tags
-  + Utility
-
 ### FullSpeedAhead
 
 - Description: Removes Parry Slow-Down.
@@ -108,25 +100,13 @@
 
 - Version: 1.3.0.0 -> 1.3.2.0
 
-### MilliGolf
-
-- Version: 1.1.0.1 -> 1.1.1.0
-
 ### Nightmare Spark
 
 - Version: 1.2.0.0 -> 1.2.1.0
 
-### RandomCompanions
-
-- Version: 3.1.0.0 -> 3.2.0.0
-
 ### Sein
 
 - Version: 1.1.0.0 -> 1.2.3.0
-
-### UnRando
-
-- Version: 0.3.0.0 -> 1.0.0.0
 
 ### UnlimitedHiveblood
 

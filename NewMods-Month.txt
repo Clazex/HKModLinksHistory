@@ -1,4 +1,3 @@
-CollectorGlitchRemover
 Pale Shadow
 KeepDiveIFrames
 PlayerTrail

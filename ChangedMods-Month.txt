@@ -1,7 +1,3 @@
-CollectorGlitchRemover
-MilliGolf
-RandomCompanions
-UnRando
 Pale Shadow
 AccessRandomizer
 KeepDiveIFrames
