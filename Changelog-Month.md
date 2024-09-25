@@ -31,19 +31,18 @@
 - Dependencies
   + Satchel
 
-### Pale Shadow
-
-- Description: Homemade Pure Vessel boss mod.
-- Dependencies
-  + Vasi
-- Tags
-  + Boss
-
 ### PlayerTrail
 
 - Description: An HKMP addon to add a lingering trail behind some players
 - Dependencies
   + HKMP
+  + Satchel
+
+### VoiceToCrySuffering
+
+- Description: A minor tweak to the Pure Vessel fight
+- Dependencies
+  + SFCore
   + Satchel
 
 
