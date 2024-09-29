@@ -3,6 +3,12 @@
 
 ## New mods
 
+### AdBlocker
+
+- Description: Blocks ads
+- Dependencies
+  + Satchel
+
 ### Casino Knight
 
 - Description: Lets go gambling! Adds a casino with slot machines into Dirtmouth to spend geo on. Win big!
@@ -25,18 +31,16 @@
 - Tags
   + Utility
 
-### KeepDiveIFrames
-
-- Description: Now you can abuse i-frames for dive spam again
-- Dependencies
-  + Satchel
-
 ### PlayerTrail
 
 - Description: An HKMP addon to add a lingering trail behind some players
 - Dependencies
   + HKMP
   + Satchel
+
+### PogoableFlukes
+
+- Description: You can pogo off your flukenest casts
 
 ### VoiceToCrySuffering
 
@@ -50,7 +54,7 @@
 
 ### AccessRandomizer
 
-- Version: 1.2.2.0 -> 1.2.4.0
+- Version: 1.2.3.0 -> 1.2.4.0
 
 ### BenchDeploy
 
@@ -98,6 +102,14 @@
 ### MapSyncMod
 
 - Version: 1.3.0.0 -> 1.3.2.0
+
+### MilliGolf
+
+- Version: 1.1.1.0 -> 1.2.0.0
+- Integrations
+  + Added
+    - RandoSettingsManager
+    - Randomizer 4
 
 ### Nightmare Spark
 

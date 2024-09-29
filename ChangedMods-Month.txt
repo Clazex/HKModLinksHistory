@@ -1,5 +1,3 @@
-AccessRandomizer
-KeepDiveIFrames
 Sein
 BingoGoalPack1
 BingoSync
@@ -24,3 +22,6 @@ FullSpeedAhead
 UnlimitedHiveblood
 CombatRandomizer
 VoiceToCrySuffering
+AdBlocker
+MilliGolf
+PogoableFlukes

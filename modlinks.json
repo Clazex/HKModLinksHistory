@@ -95,6 +95,22 @@
       "nerthul11"
     ]
   },
+  "AdBlocker": {
+    "description": "Blocks ads",
+    "version": "1.0.0.0",
+    "links": {
+      "type": "universal",
+      "sha256": "EC0BF43547585B67D1C77EFF8EC3FEC9ABA1A7324D63F55F2651E3871EBBCC72",
+      "url": "https://github.com/TheMathGeek314/AdBlocker/releases/download/v1.0.0.0/AdBlocker.zip"
+    },
+    "dependencies": [
+      "Satchel"
+    ],
+    "repository": "https://github.com/TheMathGeek314/AdBlocker/",
+    "authors": [
+      "TheMathGeek_314"
+    ]
+  },
   "Additional Challenge": {
     "description": "A mod that allows you to use 46 different effects to make your game more challenging. There are 4 types of effects (Persistent, Cooldown, Boss Attack, Enemy Follow) that can be enabled from modmenu. There is also a choas mode that randomly selects effects to happen periodically.",
     "version": "0.0.2.2",
@@ -4268,18 +4284,23 @@
   },
   "MilliGolf": {
     "description": "An 18-hole course featuring Millibelle the Golf Ball",
-    "version": "1.1.1.0",
+    "version": "1.2.0.0",
     "links": {
       "type": "universal",
-      "sha256": "5DBF64664252C2AC70029528CCC43F938785CE6C514B1C0B0DC619548FA82706",
-      "url": "https://github.com/TheMathGeek314/MilliGolf/releases/download/v1.1.1.0/MilliGolf.zip"
+      "sha256": "42B7FF98014DF9C59C2362E8E22B126ECD56687099028A8B9AC2A981BA8B4DFC",
+      "url": "https://github.com/TheMathGeek314/MilliGolf/releases/download/v1.2.0.0/MilliGolf.zip"
     },
     "dependencies": [
       "Satchel"
     ],
     "repository": "https://github.com/TheMathGeek314/MilliGolf/",
+    "integrations": [
+      "RandoSettingsManager",
+      "Randomizer 4"
+    ],
     "authors": [
-      "TheMathGeek_314"
+      "TheMathGeek_314",
+      "nerthul11"
     ]
   },
   "Mirrored Hallownest": {
@@ -5098,6 +5119,20 @@
       "Satchel"
     ],
     "repository": "https://github.com/TheMathGeek314/PlayerTrail/",
+    "authors": [
+      "TheMathGeek_314"
+    ]
+  },
+  "PogoableFlukes": {
+    "description": "You can pogo off your flukenest casts",
+    "version": "1.0.0.0",
+    "links": {
+      "type": "universal",
+      "sha256": "740D549CA7F3177A68A4F28010E9C7231AB7C82F20FCAAE87D145411E63780BA",
+      "url": "https://github.com/TheMathGeek314/PogoableFlukes/releases/download/v1.0.0.0/PogoableFlukes.zip"
+    },
+    "dependencies": [],
+    "repository": "https://github.com/TheMathGeek314/PogoableFlukes/",
     "authors": [
       "TheMathGeek_314"
     ]
