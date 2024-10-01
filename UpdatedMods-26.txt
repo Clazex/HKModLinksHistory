@@ -1,1 +1,1 @@
-AccessRandomizer
+CombatRandomizer
