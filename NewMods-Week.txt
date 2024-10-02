@@ -1,3 +1,5 @@
-VoiceToCrySuffering
 AdBlocker
 PogoableFlukes
+ExtraSpells
+Rogue
+SpellChanger

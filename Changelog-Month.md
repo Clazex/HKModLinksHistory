@@ -23,6 +23,15 @@
 - Dependencies
   + Satchel
 
+### ExtraSpells
+
+- Description: A mod that adds a handful of new spells. Cycle by selecting the spell in the inventory.
+- Dependencies
+  + SpellChanger
+  + Vasi
+- Tags
+  + Gameplay
+
 ### FullSpeedAhead
 
 - Description: Removes Parry Slow-Down.
@@ -41,6 +50,20 @@
 ### PogoableFlukes
 
 - Description: You can pogo off your flukenest casts
+
+### Rogue
+
+- Description: A rogue-like Pantheon of Hallownest mod
+- Dependencies
+  + Satchel
+- Tags
+  + Gameplay
+
+### SpellChanger
+
+- Description: A library mod that aims to allow other mods to edit spells and nail arts more easily.
+- Dependencies
+  + Vasi
 
 ### VoiceToCrySuffering
 
@@ -117,7 +140,7 @@
 
 ### Sein
 
-- Version: 1.1.0.0 -> 1.2.3.0
+- Version: 1.2.0.0 -> 1.2.3.0
 
 ### UnlimitedHiveblood
 

@@ -1,4 +1,3 @@
-Sein
 BingoGoalPack1
 BingoSync
 BingoSyncExtension

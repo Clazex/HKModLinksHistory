@@ -1,4 +1,6 @@
-VoiceToCrySuffering
 AdBlocker
 MilliGolf
 PogoableFlukes
+ExtraSpells
+Rogue
+SpellChanger

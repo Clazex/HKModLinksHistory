@@ -2227,6 +2227,27 @@
       "Cosmetic"
     ]
   },
+  "ExtraSpells": {
+    "description": "A mod that adds a handful of new spells. Cycle by selecting the spell in the inventory.",
+    "version": "1.0.0.0",
+    "links": {
+      "type": "universal",
+      "sha256": "273323A5669C16DDE9BCE2E901941BE7FF8A159AEA46ED943618EA6EDE5654DE",
+      "url": "https://github.com/Samihamer1/Hollow-Knight-ExtraSpells/releases/download/v1.0.0.0/ExtraSpells1000.zip"
+    },
+    "dependencies": [
+      "SpellChanger",
+      "Vasi"
+    ],
+    "repository": "https://github.com/Samihamer1/Hollow-Knight-ExtraSpells",
+    "issues": "https://github.com/Samihamer1/Hollow-Knight-ExtraSpells/issues",
+    "tags": [
+      "Gameplay"
+    ],
+    "authors": [
+      "Samihamer1"
+    ]
+  },
   "FLACCodec": {
     "description": "FLAC codec support for AudioClip",
     "version": "0.1.0.0",
@@ -5784,6 +5805,27 @@
       "Gameplay"
     ]
   },
+  "Rogue": {
+    "description": "A rogue-like Pantheon of Hallownest mod",
+    "version": "1.0.0.2",
+    "links": {
+      "type": "universal",
+      "sha256": "52945EDE126484E612D3AC896F303D4CCD5703D420DC1C292F23A55558EEB4B0",
+      "url": "https://github.com/MCXGK3/HollowKnight-rogue/releases/download/V1.0.0.2/rogue.zip"
+    },
+    "dependencies": [
+      "Satchel"
+    ],
+    "repository": "https://github.com/MCXGK3/HollowKnight-rogue",
+    "issues": "https://github.com/MCXGK3/HollowKnight-rogue/issues",
+    "tags": [
+      "Gameplay"
+    ],
+    "authors": [
+      "MCXGK3",
+      "Trashmedes"
+    ]
+  },
   "Rope Rando": {
     "description": "Adds the rope / chandelier in the Watcher Knights boss room to Randomizer 4.",
     "version": "1.1.0.0",
@@ -6262,6 +6304,23 @@
       "Constructive Cynicism",
       "Mulhima",
       "pseudorandom"
+    ]
+  },
+  "SpellChanger": {
+    "description": "A library mod that aims to allow other mods to edit spells and nail arts more easily.",
+    "version": "1.0.0.1",
+    "links": {
+      "type": "universal",
+      "sha256": "98FFC49D0932C9C427962E7B493426A967DB114936F10F824F92AE9CAD7BE425",
+      "url": "https://github.com/Samihamer1/Hollow-Knight-SpellChanger/releases/download/v1.0.0.1/SpellChanger1001.zip"
+    },
+    "dependencies": [
+      "Vasi"
+    ],
+    "repository": "https://github.com/Samihamer1/Hollow-Knight-SpellChanger",
+    "issues": "https://github.com/Samihamer1/Hollow-Knight-SpellChanger/issues",
+    "authors": [
+      "Samihamer1"
     ]
   },
   "SpicyRando": {

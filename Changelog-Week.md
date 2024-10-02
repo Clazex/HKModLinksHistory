@@ -9,16 +9,32 @@
 - Dependencies
   + Satchel
 
+### ExtraSpells
+
+- Description: A mod that adds a handful of new spells. Cycle by selecting the spell in the inventory.
+- Dependencies
+  + SpellChanger
+  + Vasi
+- Tags
+  + Gameplay
+
 ### PogoableFlukes
 
 - Description: You can pogo off your flukenest casts
 
-### VoiceToCrySuffering
+### Rogue
 
-- Description: A minor tweak to the Pure Vessel fight
+- Description: A rogue-like Pantheon of Hallownest mod
 - Dependencies
-  + SFCore
   + Satchel
+- Tags
+  + Gameplay
+
+### SpellChanger
+
+- Description: A library mod that aims to allow other mods to edit spells and nail arts more easily.
+- Dependencies
+  + Vasi
 
 
 ## Updated mods
