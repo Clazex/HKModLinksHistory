@@ -1,7 +1,3 @@
-BingoGoalPack1
-BingoSync
-BingoSyncExtension
-Sein
 AccessRandomizer
 CombatRandomizer
 Charm Crab
@@ -17,3 +13,4 @@ FullSpeedAhead
 UnlimitedHiveblood
 CombatRandomizer
 MilliGolf
+AccessRandomizer

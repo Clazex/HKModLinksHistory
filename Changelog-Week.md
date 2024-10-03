@@ -39,6 +39,13 @@
 
 ## Updated mods
 
+### AccessRandomizer
+
+- Version: 1.2.4.0 -> 1.2.4.1
+- Dependencies
+  + Removed
+    - KorzUtils
+
 ### MilliGolf
 
 - Version: 1.1.1.0 -> 1.2.0.0

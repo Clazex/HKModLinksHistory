@@ -4,3 +4,4 @@ PogoableFlukes
 ExtraSpells
 Rogue
 SpellChanger
+AccessRandomizer
