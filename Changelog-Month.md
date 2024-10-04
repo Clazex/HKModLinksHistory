@@ -40,13 +40,6 @@
 - Tags
   + Utility
 
-### PlayerTrail
-
-- Description: An HKMP addon to add a lingering trail behind some players
-- Dependencies
-  + HKMP
-  + Satchel
-
 ### PogoableFlukes
 
 - Description: You can pogo off your flukenest casts
@@ -77,7 +70,7 @@
 
 ### AccessRandomizer
 
-- Version: 1.2.3.0 -> 1.2.4.1
+- Version: 1.2.3.1 -> 1.2.4.1
 - Dependencies
   + Removed
     - KorzUtils
@@ -120,6 +113,10 @@
 ### Nightmare Spark
 
 - Version: 1.2.0.0 -> 1.2.1.0
+
+### PlayerTrail
+
+- Version: 1.0.0.0 -> 1.0.0.1
 
 ### UnlimitedHiveblood
 
