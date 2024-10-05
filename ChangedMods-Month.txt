@@ -1,4 +1,3 @@
-CombatRandomizer
 Charm Crab
 GodhomeRandomizer
 Castless Focus

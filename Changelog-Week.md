@@ -3,12 +3,6 @@
 
 ## New mods
 
-### AdBlocker
-
-- Description: Blocks ads
-- Dependencies
-  + Satchel
-
 ### ExtraSpells
 
 - Description: A mod that adds a handful of new spells. Cycle by selecting the spell in the inventory.
@@ -17,10 +11,6 @@
   + Vasi
 - Tags
   + Gameplay
-
-### PogoableFlukes
-
-- Description: You can pogo off your flukenest casts
 
 ### Rogue
 
@@ -45,12 +35,4 @@
 - Dependencies
   + Removed
     - KorzUtils
-
-### MilliGolf
-
-- Version: 1.1.1.0 -> 1.2.0.0
-- Integrations
-  + Added
-    - RandoSettingsManager
-    - Randomizer 4
 

@@ -89,7 +89,7 @@
 
 ### CombatRandomizer
 
-- Version: 1.0.1.3 -> 1.1.0.1
+- Version: 1.1.0.0 -> 1.1.0.1
 
 ### GodhomeRandomizer
 
