@@ -3420,11 +3420,11 @@
   },
   "HkmpPouch": {
     "description": "A dependency mod for optional hkmp addons with networking.",
-    "version": "1.0.0.0",
+    "version": "2.0.0.0",
     "links": {
       "type": "universal",
-      "sha256": "60498547C292B461A2D51910AC34792A28EBD32007CBE77E63D663D45AED5788",
-      "url": "https://github.com/PrashantMohta/HkmpPouch/releases/download/v1.0.0/HkmpPouch.zip"
+      "sha256": "654782B5FFB2A79EEB008D5E39D287B8E55ADDB9695E8AEB598EFC828C2B9E42",
+      "url": "https://github.com/PrashantMohta/HkmpPouch/releases/download/v2.0.0r/HkmpPouch.zip"
     },
     "dependencies": [
       "HKMP"

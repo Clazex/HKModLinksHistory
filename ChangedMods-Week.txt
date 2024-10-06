@@ -2,3 +2,4 @@ ExtraSpells
 Rogue
 SpellChanger
 AccessRandomizer
+HkmpPouch

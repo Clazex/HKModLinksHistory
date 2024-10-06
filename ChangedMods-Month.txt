@@ -1,4 +1,3 @@
-Charm Crab
 GodhomeRandomizer
 Castless Focus
 PlayerTrail
@@ -21,3 +20,4 @@ ExtraSpells
 Rogue
 SpellChanger
 AccessRandomizer
+HkmpPouch

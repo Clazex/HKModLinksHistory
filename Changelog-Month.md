@@ -83,10 +83,6 @@
 
 - Version: 3.0.2.3 -> 3.0.2.4
 
-### Charm Crab
-
-- Version: 1.0.6.0 -> 1.0.8.0
-
 ### CombatRandomizer
 
 - Version: 1.1.0.0 -> 1.1.0.1
@@ -97,6 +93,10 @@
 - Dependencies
   + Removed
     - KorzUtils
+
+### HkmpPouch
+
+- Version: 1.0.0.0 -> 2.0.0.0
 
 ### MapSyncMod
 
