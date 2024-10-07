@@ -32,6 +32,15 @@
 - Tags
   + Gameplay
 
+### Floor is Lava
+
+- Description: Is a floor is lava mod for Hollow Knight
+- Dependencies
+  + MagicUI
+  + Satchel
+- Tags
+  + Gameplay
+
 ### FullSpeedAhead
 
 - Description: Removes Parry Slow-Down.
@@ -86,13 +95,6 @@
 ### CombatRandomizer
 
 - Version: 1.1.0.0 -> 1.1.0.1
-
-### GodhomeRandomizer
-
-- Version: 2.2.4.4 -> 2.2.4.5
-- Dependencies
-  + Removed
-    - KorzUtils
 
 ### HkmpPouch
 

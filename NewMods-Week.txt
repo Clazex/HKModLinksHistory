@@ -1,3 +1,4 @@
 ExtraSpells
 Rogue
 SpellChanger
+Floor is Lava
