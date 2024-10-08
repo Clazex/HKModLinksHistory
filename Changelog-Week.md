@@ -3,15 +3,6 @@
 
 ## New mods
 
-### ExtraSpells
-
-- Description: A mod that adds a handful of new spells. Cycle by selecting the spell in the inventory.
-- Dependencies
-  + SpellChanger
-  + Vasi
-- Tags
-  + Gameplay
-
 ### Floor is Lava
 
 - Description: Is a floor is lava mod for Hollow Knight
@@ -20,20 +11,6 @@
   + Satchel
 - Tags
   + Gameplay
-
-### Rogue
-
-- Description: A rogue-like Pantheon of Hallownest mod
-- Dependencies
-  + Satchel
-- Tags
-  + Gameplay
-
-### SpellChanger
-
-- Description: A library mod that aims to allow other mods to edit spells and nail arts more easily.
-- Dependencies
-  + Vasi
 
 
 ## Updated mods
@@ -44,6 +21,13 @@
 - Dependencies
   + Removed
     - KorzUtils
+
+### ExtraSpells
+
+- Version: 1.0.0.0 -> 1.0.0.1
+- Description
+  + Old: A mod that adds a handful of new spells. Cycle by selecting the spell in the inventory.
+  + New: A mod that adds a handful of new spells (and 1-ish nail art). Cycle by selecting the spell in the inventory.
 
 ### HkmpPouch
 

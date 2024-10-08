@@ -17,15 +17,9 @@
 - Tags
   + Gameplay
 
-### Castless Focus
-
-- Description: Stops the focus button from casting when tapped. (Note: This causes tapping the focus button to always start the focus, with the same delay as if it was held)
-- Dependencies
-  + Satchel
-
 ### ExtraSpells
 
-- Description: A mod that adds a handful of new spells. Cycle by selecting the spell in the inventory.
+- Description: A mod that adds a handful of new spells (and 1-ish nail art). Cycle by selecting the spell in the inventory.
 - Dependencies
   + SpellChanger
   + Vasi
@@ -115,10 +109,6 @@
 ### Nightmare Spark
 
 - Version: 1.2.0.0 -> 1.2.1.0
-
-### PlayerTrail
-
-- Version: 1.0.0.0 -> 1.0.0.1
 
 ### UnlimitedHiveblood
 

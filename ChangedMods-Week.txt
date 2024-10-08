@@ -1,6 +1,4 @@
-ExtraSpells
-Rogue
-SpellChanger
 AccessRandomizer
 HkmpPouch
 Floor is Lava
+ExtraSpells

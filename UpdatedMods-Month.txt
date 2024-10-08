@@ -1,4 +1,3 @@
-PlayerTrail
 BenchDeploy
 MapSyncMod
 AccessRandomizer
@@ -11,3 +10,4 @@ CombatRandomizer
 MilliGolf
 AccessRandomizer
 HkmpPouch
+ExtraSpells

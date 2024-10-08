@@ -1,5 +1,3 @@
-Castless Focus
-PlayerTrail
 BenchDeploy
 MapSyncMod
 AccessRandomizer
@@ -21,3 +19,4 @@ SpellChanger
 AccessRandomizer
 HkmpPouch
 Floor is Lava
+ExtraSpells

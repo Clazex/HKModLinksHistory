@@ -2227,12 +2227,12 @@
     ]
   },
   "ExtraSpells": {
-    "description": "A mod that adds a handful of new spells. Cycle by selecting the spell in the inventory.",
-    "version": "1.0.0.0",
+    "description": "A mod that adds a handful of new spells (and 1-ish nail art). Cycle by selecting the spell in the inventory.",
+    "version": "1.0.0.1",
     "links": {
       "type": "universal",
-      "sha256": "273323A5669C16DDE9BCE2E901941BE7FF8A159AEA46ED943618EA6EDE5654DE",
-      "url": "https://github.com/Samihamer1/Hollow-Knight-ExtraSpells/releases/download/v1.0.0.0/ExtraSpells1000.zip"
+      "sha256": "74385296258679AE24AB9F33C5FD2F249022F9BA41E0B71C73CE1A85493E797C",
+      "url": "https://github.com/Samihamer1/Hollow-Knight-ExtraSpells/releases/download/v1.0.0.1/ExtraSpells1001.zip"
     },
     "dependencies": [
       "SpellChanger",
@@ -2445,8 +2445,8 @@
     "version": "1.0.5.0",
     "links": {
       "type": "universal",
-      "sha256": "41A81F75448F8B88D50DB8F687BBE182FC30E1A0FD6CBC7BA1FE52222D144AA5",
-      "url": "https://github.com/derkrankesenator/Hollow-Knight-Floor-is-Lava/releases/download/v1.0.5.0/Floor_is_lava.zip"
+      "sha256": "9996302A90D079DB9EE54FC7093B19A8E1670D704C72CDAB3C97CB91C9A7D31F",
+      "url": "https://github.com/derkrankesenator/Hollow-Knight-Floor-is-Lava/releases/download/v1.0.5.1/Floor_is_lava.zip"
     },
     "dependencies": [
       "MagicUI",
