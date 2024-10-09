@@ -78,10 +78,6 @@
   + Removed
     - KorzUtils
 
-### BenchDeploy
-
-- Version: 1.4.0.0 -> 1.4.4.0
-
 ### Breakable Wall Randomizer
 
 - Version: 3.0.2.3 -> 3.0.2.4
@@ -94,13 +90,9 @@
 
 - Version: 1.0.0.0 -> 2.0.0.0
 
-### MapSyncMod
-
-- Version: 1.3.0.0 -> 1.3.2.0
-
 ### MilliGolf
 
-- Version: 1.1.1.0 -> 1.2.0.0
+- Version: 1.1.1.0 -> 1.2.0.1
 - Integrations
   + Added
     - RandoSettingsManager
