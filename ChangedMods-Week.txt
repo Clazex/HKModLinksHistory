@@ -2,3 +2,4 @@ HkmpPouch
 Floor is Lava
 ExtraSpells
 MilliGolf
+SFCore

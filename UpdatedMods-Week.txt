@@ -1,3 +1,4 @@
 HkmpPouch
 ExtraSpells
 MilliGolf
+SFCore

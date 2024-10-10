@@ -102,6 +102,10 @@
 
 - Version: 1.2.0.0 -> 1.2.1.0
 
+### SFCore
+
+- Version: 1.5.12.0 -> 1.5.12.1
+
 ### UnlimitedHiveblood
 
 - Version: 1.0.0.0 -> 1.0.0.1

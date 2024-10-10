@@ -10,3 +10,4 @@ AccessRandomizer
 HkmpPouch
 ExtraSpells
 MilliGolf
+SFCore

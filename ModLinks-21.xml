@@ -112,8 +112,8 @@ Not recommended for use in new mods.</Description>
 <Manifest>
     <Name>UnlimitedHiveblood</Name>
     <Description>Adds synergy between Hiveblood and Kingsoul/Voidheart for unlimited regen</Description>
-    <Version>1.0.0.0</Version>
-    <Link SHA256="2673CD79748B2E3FFE4CBFD77CA9EF97FB7FF3F4A951CBCBB3A84F8A8A02219B"><![CDATA[https://github.com/TheMathGeek314/UnlimitedHiveblood/releases/download/v1.0.0.0/UnlimitedHiveblood.zip]]></Link>
+    <Version>1.0.0.1</Version>
+    <Link SHA256="0E85D19D617C4D4601146BD6311784D29D08F3B24C456640D78AE23E03F78679"><![CDATA[https://github.com/TheMathGeek314/UnlimitedHiveblood/releases/download/v1.0.0.1/UnlimitedHiveblood.zip]]></Link>
     <Dependencies>
         <Dependency>Satchel</Dependency>
     </Dependencies>
@@ -2289,9 +2289,9 @@ All with an incredible new soundtrack!</Description>
     <Manifest>
         <Name>FullSpeedAhead</Name>
         <Description>Removes Parry Slow-Down.</Description>
-        <Version>1.5.0.0</Version>
-        <Link SHA256="CADA5346B9F888CB822EDAE0ADFDA8D6728575BA6441BCFF856DC0D6E9394933">
-            <![CDATA[https://github.com/SFGrenade/FullSpeedAhead/releases/download/v1.5/FullSpeedAhead.zip]]>
+        <Version>1.5.1.0</Version>
+        <Link SHA256="23109D2296052F49D6DCD9B7E1040508AD3AAEA247D377BA680D6BD6CF858D5F">
+            <![CDATA[https://github.com/SFGrenade/FullSpeedAhead/releases/download/v1.5.1/FullSpeedAhead.zip]]>
         </Link>
         <Dependencies>
             <Dependency>SFCore</Dependency>
