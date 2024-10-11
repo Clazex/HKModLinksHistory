@@ -79,6 +79,35 @@ Not recommended for use in new mods.</Description>
     </Authors>
 </Manifest>
 <Manifest>
+    <Name>PogoableFlukes</Name>
+    <Description>You can pogo off your flukenest casts</Description>
+    <Version>1.0.0.0</Version>
+    <Link SHA256="740D549CA7F3177A68A4F28010E9C7231AB7C82F20FCAAE87D145411E63780BA"><![CDATA[https://github.com/TheMathGeek314/PogoableFlukes/releases/download/v1.0.0.0/PogoableFlukes.zip]]></Link>
+    <Dependencies>
+    </Dependencies>
+    <Repository>
+        <![CDATA[https://github.com/TheMathGeek314/PogoableFlukes/]]>
+    </Repository>
+    <Authors>
+        <Author>TheMathGeek_314</Author>
+    </Authors>
+</Manifest>
+<Manifest>
+    <Name>AdBlocker</Name>
+    <Description>Blocks ads</Description>
+    <Version>1.0.0.0</Version>
+    <Link SHA256="EC0BF43547585B67D1C77EFF8EC3FEC9ABA1A7324D63F55F2651E3871EBBCC72"><![CDATA[https://github.com/TheMathGeek314/AdBlocker/releases/download/v1.0.0.0/AdBlocker.zip]]></Link>
+    <Dependencies>
+        <Dependency>Satchel</Dependency>
+    </Dependencies>
+    <Repository>
+        <![CDATA[https://github.com/TheMathGeek314/AdBlocker/]]>
+    </Repository>
+    <Authors>
+        <Author>TheMathGeek_314</Author>
+    </Authors>
+</Manifest>
+<Manifest>
     <Name>VoiceToCrySuffering</Name>
     <Description>A minor tweak to the Pure Vessel fight</Description>
     <Version>1.0.0.0</Version>
@@ -143,16 +172,21 @@ Not recommended for use in new mods.</Description>
 <Manifest>
     <Name>MilliGolf</Name>
     <Description>An 18-hole course featuring Millibelle the Golf Ball</Description>
-    <Version>1.1.1.0</Version>
-    <Link SHA256="5DBF64664252C2AC70029528CCC43F938785CE6C514B1C0B0DC619548FA82706"><![CDATA[https://github.com/TheMathGeek314/MilliGolf/releases/download/v1.1.1.0/MilliGolf.zip]]></Link>
+    <Version>1.2.0.0</Version>
+    <Link SHA256="42B7FF98014DF9C59C2362E8E22B126ECD56687099028A8B9AC2A981BA8B4DFC"><![CDATA[https://github.com/TheMathGeek314/MilliGolf/releases/download/v1.2.0.0/MilliGolf.zip]]></Link>
     <Dependencies>
         <Dependency>Satchel</Dependency>
     </Dependencies>
     <Repository>
         <![CDATA[https://github.com/TheMathGeek314/MilliGolf/]]>
     </Repository>
+    <Integrations>
+        <Integration>Randomizer 4</Integration>
+        <Integration>RandoSettingsManager</Integration>
+    </Integrations>
     <Authors>
         <Author>TheMathGeek_314</Author>
+	<Author>nerthul11</Author>
     </Authors>
 </Manifest>
 <Manifest>
