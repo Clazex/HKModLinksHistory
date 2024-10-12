@@ -686,6 +686,24 @@
       "Korz"
     ]
   },
+  "Bonfire": {
+    "description": "A level-up system in Hollow Knight for a more realistic Dark Souls experience (a well-known Hollow Knight ripoff).",
+    "version": "2.1.1.0",
+    "links": {
+      "type": "universal",
+      "sha256": "CB25998D344DF2C3F83659E36269308870B0181719C3DBF2FC605ABD020CECBA",
+      "url": "https://github.com/TheodoreChristianRadu/Bonfire/releases/download/2.1.1/Bonfire.zip"
+    },
+    "dependencies": [],
+    "repository": "https://github.com/TheodoreChristianRadu/Bonfire",
+    "tags": [
+      "Gameplay"
+    ],
+    "authors": [
+      "Théodore",
+      "ricardosouzag"
+    ]
+  },
   "Boss Attacks": {
     "description": "Train boss fights in Hall of Gods against specific boss attacks and more.",
     "version": "0.2.11.0",
@@ -2190,6 +2208,24 @@
       "Clazex"
     ]
   },
+  "Exaltation": {
+    "description": "Implements the scrapped mechanic of \"charm glorification\": empower your charms by progressing through Godhome.",
+    "version": "2.1.2.0",
+    "links": {
+      "type": "universal",
+      "sha256": "926263C5E11EEFE3CF1BA77A79F276888829C96A4B16A00A10B3C709D9E5AB2E",
+      "url": "https://github.com/TheodoreChristianRadu/Exaltation/releases/download/2.1.2/Exaltation.zip"
+    },
+    "dependencies": [],
+    "repository": "https://github.com/TheodoreChristianRadu/Exaltation",
+    "tags": [
+      "Gameplay"
+    ],
+    "authors": [
+      "Théodore",
+      "Xhuis"
+    ]
+  },
   "Extra Rando": {
     "description": "Randomizer 4 connection with miscellaneous settings.",
     "version": "0.5.1.0",
@@ -2442,11 +2478,11 @@
   },
   "Floor is Lava": {
     "description": "Is a floor is lava mod for Hollow Knight",
-    "version": "1.0.5.0",
+    "version": "1.0.5.2",
     "links": {
       "type": "universal",
-      "sha256": "9996302A90D079DB9EE54FC7093B19A8E1670D704C72CDAB3C97CB91C9A7D31F",
-      "url": "https://github.com/derkrankesenator/Hollow-Knight-Floor-is-Lava/releases/download/v1.0.5.1/Floor_is_lava.zip"
+      "sha256": "59487DE8AEC39E6DD0B93A46D2D9E43E57C587B6C6D0D0ECD33887684F3A7B3D",
+      "url": "https://github.com/derkrankesenator/Hollow-Knight-Floor-is-Lava/releases/download/v1.0.5.2/Floor_is_lava.zip"
     },
     "dependencies": [
       "MagicUI",
@@ -3951,6 +3987,28 @@
       "Acu1000"
     ]
   },
+  "Lightbringer": {
+    "description": "Major gameplay overhaul: fight your way through Hallownest with a lance of light, brand new charms and radiant spells to seek the binding light that plagues our dreams.",
+    "version": "3.0.1.0",
+    "links": {
+      "type": "universal",
+      "sha256": "9CE3C7D55EE7269F0FF8CE47902855661DBED994BD144B820FBD06150F10DD91",
+      "url": "https://github.com/TheodoreChristianRadu/Lightbringer/releases/download/3.0.1/Lightbringer.zip"
+    },
+    "dependencies": [],
+    "repository": "https://github.com/TheodoreChristianRadu/Lightbringer",
+    "tags": [
+      "Boss",
+      "Expansion",
+      "Gameplay"
+    ],
+    "authors": [
+      "56",
+      "753",
+      "Théodore",
+      "a2659802"
+    ]
+  },
   "LoadNormalizer": {
     "description": "Mod which extends loads to a user-defined cap, to synchronize loading for races.",
     "version": "2.1.0.0",
@@ -4463,11 +4521,11 @@
   },
   "MoreHealing": {
     "description": "Adds more healing charms.",
-    "version": "1.5.2.0",
+    "version": "1.5.3.0",
     "links": {
       "type": "universal",
-      "sha256": "F038226A9D2655DF0C9541F7F306DF528D8BF9DA964A995F75CF4F4415DF0BCC",
-      "url": "https://github.com/SFGrenade/MoreHealing/releases/download/v1.5.2/MoreHealing.zip"
+      "sha256": "5B0C46040E7AE4AA2B6ED3E2272A056FD2E765891EE31F830A95C2AC4ADB59EB",
+      "url": "https://github.com/SFGrenade/MoreHealing/releases/download/v1.5.3/MoreHealing.zip"
     },
     "dependencies": [
       "SFCore"
@@ -5092,6 +5150,25 @@
     "tags": [
       "Boss",
       "Gameplay"
+    ]
+  },
+  "Peaking Peeking Peaks": {
+    "description": "This mods aims to make the Crystal Peak name more memorable.",
+    "version": "1.5.0.0",
+    "links": {
+      "type": "universal",
+      "sha256": "681DABDFBC1DB965496047985C4378FC10D77AEF98B2D1DC5DA38F5B8A39E6BE",
+      "url": "https://github.com/SFGrenade/PeakingPeekingPeaks/releases/download/v1.5/PeakingPeekingPeaks.zip"
+    },
+    "dependencies": [
+      "SFCore"
+    ],
+    "repository": "https://github.com/SFGrenade/PeakingPeekingPeaks/",
+    "tags": [
+      "Cosmetic"
+    ],
+    "authors": [
+      "SFGrenade"
     ]
   },
   "PersistentDivine": {
@@ -5869,11 +5946,11 @@
   },
   "SFCore": {
     "description": "Library mod used by other mods.",
-    "version": "1.5.12.1",
+    "version": "1.5.12.2",
     "links": {
       "type": "universal",
-      "sha256": "FE2EB9C7C0ECED366BFE527D1BE7219EE3CF0A974827EA3811D58ACFBA32295E",
-      "url": "https://github.com/SFGrenade/SFCore/releases/download/v1.5.12.1/SFCore.zip"
+      "sha256": "3942B46C8888E7CAC78E35A421307217DE616EC35DB723AD999689E9772F67B7",
+      "url": "https://github.com/SFGrenade/SFCore/releases/download/v1.5.12.2/SFCore.zip"
     },
     "dependencies": [],
     "repository": "https://github.com/SFGrenade/SFCore/",

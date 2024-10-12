@@ -7,3 +7,7 @@ ExtraSpells
 Rogue
 SpellChanger
 Floor is Lava
+Bonfire
+Exaltation
+Lightbringer
+Peaking Peeking Peaks

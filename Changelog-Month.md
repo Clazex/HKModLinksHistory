@@ -9,11 +9,23 @@
 - Dependencies
   + Satchel
 
+### Bonfire
+
+- Description: A level-up system in Hollow Knight for a more realistic Dark Souls experience (a well-known Hollow Knight ripoff).
+- Tags
+  + Gameplay
+
 ### Casino Knight
 
 - Description: Lets go gambling! Adds a casino with slot machines into Dirtmouth to spend geo on. Win big!
 - Dependencies
   + Satchel
+- Tags
+  + Gameplay
+
+### Exaltation
+
+- Description: Implements the scrapped mechanic of &quot;charm glorification&quot;: empower your charms by progressing through Godhome.
 - Tags
   + Gameplay
 
@@ -42,6 +54,22 @@
   + SFCore
 - Tags
   + Utility
+
+### Lightbringer
+
+- Description: Major gameplay overhaul: fight your way through Hallownest with a lance of light, brand new charms and radiant spells to seek the binding light that plagues our dreams.
+- Tags
+  + Boss
+  + Expansion
+  + Gameplay
+
+### Peaking Peeking Peaks
+
+- Description: This mods aims to make the Crystal Peak name more memorable.
+- Dependencies
+  + SFCore
+- Tags
+  + Cosmetic
 
 ### PogoableFlukes
 
@@ -73,14 +101,10 @@
 
 ### AccessRandomizer
 
-- Version: 1.2.3.1 -> 1.2.4.1
+- Version: 1.2.4.0 -> 1.2.4.1
 - Dependencies
   + Removed
     - KorzUtils
-
-### Breakable Wall Randomizer
-
-- Version: 3.0.2.3 -> 3.0.2.4
 
 ### CombatRandomizer
 
@@ -98,13 +122,17 @@
     - RandoSettingsManager
     - Randomizer 4
 
+### MoreHealing
+
+- Version: 1.5.2.0 -> 1.5.3.0
+
 ### Nightmare Spark
 
 - Version: 1.2.0.0 -> 1.2.1.0
 
 ### SFCore
 
-- Version: 1.5.12.0 -> 1.5.12.1
+- Version: 1.5.12.0 -> 1.5.12.2
 
 ### UnlimitedHiveblood
 

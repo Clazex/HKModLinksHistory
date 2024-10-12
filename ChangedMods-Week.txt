@@ -1,5 +1,11 @@
-HkmpPouch
 Floor is Lava
 ExtraSpells
 MilliGolf
+SFCore
+Bonfire
+Exaltation
+Floor is Lava
+Lightbringer
+MoreHealing
+Peaking Peeking Peaks
 SFCore
