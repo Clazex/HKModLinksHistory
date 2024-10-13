@@ -15,15 +15,6 @@
 - Tags
   + Gameplay
 
-### Floor is Lava
-
-- Description: Is a floor is lava mod for Hollow Knight
-- Dependencies
-  + MagicUI
-  + Satchel
-- Tags
-  + Gameplay
-
 ### Lightbringer
 
 - Description: Major gameplay overhaul: fight your way through Hallownest with a lance of light, brand new charms and radiant spells to seek the binding light that plagues our dreams.
@@ -49,6 +40,10 @@
 - Description
   + Old: A mod that adds a handful of new spells. Cycle by selecting the spell in the inventory.
   + New: A mod that adds a handful of new spells (and 1-ish nail art). Cycle by selecting the spell in the inventory.
+
+### Floor is Lava
+
+- Version: 1.0.5.0 -> 1.0.5.2
 
 ### MilliGolf
 

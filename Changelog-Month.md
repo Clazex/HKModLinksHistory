@@ -126,10 +126,6 @@
 
 - Version: 1.5.2.0 -> 1.5.3.0
 
-### Nightmare Spark
-
-- Version: 1.2.0.0 -> 1.2.1.0
-
 ### SFCore
 
 - Version: 1.5.12.0 -> 1.5.12.2
