@@ -11,3 +11,4 @@ SFCore
 Floor is Lava
 MoreHealing
 SFCore
+Core.FsmUtil

@@ -15,14 +15,6 @@
 - Tags
   + Gameplay
 
-### Casino Knight
-
-- Description: Lets go gambling! Adds a casino with slot machines into Dirtmouth to spend geo on. Win big!
-- Dependencies
-  + Satchel
-- Tags
-  + Gameplay
-
 ### Exaltation
 
 - Description: Implements the scrapped mechanic of &quot;charm glorification&quot;: empower your charms by progressing through Godhome.
@@ -106,9 +98,17 @@
   + Removed
     - KorzUtils
 
+### Casino Knight
+
+- Version: 0.1.0.0 -> 0.1.1.0
+
 ### CombatRandomizer
 
 - Version: 1.1.0.0 -> 1.1.0.1
+
+### Core.FsmUtil
+
+- Version: 1.1.1.1 -> 1.1.1.2
 
 ### HkmpPouch
 
