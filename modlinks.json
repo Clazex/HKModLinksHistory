@@ -296,11 +296,11 @@
   },
   "Archipelago": {
     "description": "Enables play with the Archipelago multiworld system.",
-    "version": "0.6.0.0",
+    "version": "0.6.1.0",
     "links": {
       "type": "universal",
-      "sha256": "B33C015FB167829B244E7D0394F8AA3690AA053420FEFDF00E3E2B6B1D6ED762",
-      "url": "https://github.com/ArchipelagoMW-HollowKnight/Archipelago.HollowKnight/releases/download/v0.6.0/Archipelago.zip"
+      "sha256": "15226C5ED32E15CE5259A3C33CF2424EBCB817E0B52C5877E2550AE20DA48E19",
+      "url": "https://github.com/ArchipelagoMW-HollowKnight/Archipelago.HollowKnight/releases/download/v0.6.1/Archipelago.zip"
     },
     "dependencies": [
       "Benchwarp",
@@ -312,11 +312,11 @@
   },
   "Archipelago Map Mod": {
     "description": "A conversion of RandoMapMod that works with the Archipelago multiworld randomizer",
-    "version": "2.2.3.0",
+    "version": "2.3.0.0",
     "links": {
       "type": "universal",
-      "sha256": "732E1CB92166A192CEDBC967E41D4F3B16CDF190E787074AB59A64E01C89F837",
-      "url": "https://github.com/ArchipelagoMW-HollowKnight/Archipelago.APMapMod/releases/download/v2.2.3/Archipelago.Map.Mod.zip"
+      "sha256": "CB6A4D39FDF5CD6D2EBB1B8A179D695B02620CF60345CDF70B61562D540A4560",
+      "url": "https://github.com/ArchipelagoMW-HollowKnight/Archipelago.APMapMod/releases/download/v2.3.0/Archipelago.Map.Mod.zip"
     },
     "dependencies": [
       "Archipelago",
@@ -962,6 +962,28 @@
     ],
     "authors": [
       "Exempt-Medic"
+    ]
+  },
+  "Charm Changer Rando": {
+    "description": "A mod to randomize the settings of Charm Changer",
+    "version": "1.0.0.0",
+    "links": {
+      "type": "universal",
+      "sha256": "AB5A9219713744AEB0B9EE63996F15A9043C0050A22D20CD14F6CE8EF6461163",
+      "url": "https://github.com/BestBardTopNA/CharmChangerRando/releases/download/v1/CharmChangerRando.zip"
+    },
+    "dependencies": [
+      "Charm Changer",
+      "MenuChanger",
+      "Randomizer 4"
+    ],
+    "repository": "https://github.com/BestBardTopNA/CharmChangerRando",
+    "issues": "https://github.com/BestBardTopNA/CharmChangerRando/issues",
+    "tags": [
+      "Gameplay"
+    ],
+    "authors": [
+      "BestBardTopNA"
     ]
   },
   "Charm Crab": {
@@ -2478,11 +2500,11 @@
   },
   "Floor is Lava": {
     "description": "Is a floor is lava mod for Hollow Knight",
-    "version": "1.0.5.2",
+    "version": "1.0.6.0",
     "links": {
       "type": "universal",
-      "sha256": "59487DE8AEC39E6DD0B93A46D2D9E43E57C587B6C6D0D0ECD33887684F3A7B3D",
-      "url": "https://github.com/derkrankesenator/Hollow-Knight-Floor-is-Lava/releases/download/v1.0.5.2/Floor_is_lava.zip"
+      "sha256": "78D887ED13105ECEDA1D364F33FCA972B1C0B3E526579D692AA5BDD9CEEA4B43",
+      "url": "https://github.com/derkrankesenator/Hollow-Knight-Floor-is-Lava/releases/download/v1.0.6.0/Floor_is_lava.zip"
     },
     "dependencies": [
       "MagicUI",
@@ -5903,11 +5925,11 @@
   },
   "Rogue": {
     "description": "A rogue-like Pantheon of Hallownest mod",
-    "version": "1.0.0.2",
+    "version": "1.0.0.5",
     "links": {
       "type": "universal",
-      "sha256": "52945EDE126484E612D3AC896F303D4CCD5703D420DC1C292F23A55558EEB4B0",
-      "url": "https://github.com/MCXGK3/HollowKnight-rogue/releases/download/V1.0.0.2/rogue.zip"
+      "sha256": "D51D6DE2935A36C198564A485CD9C442FE1741E84E860D81966E34AB7D3C2B89",
+      "url": "https://github.com/MCXGK3/HollowKnight-rogue/releases/download/V1.0.0.5/rogue.zip"
     },
     "dependencies": [
       "Satchel"

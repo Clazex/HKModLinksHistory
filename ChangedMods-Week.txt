@@ -1,4 +1,3 @@
-SFCore
 Bonfire
 Exaltation
 Floor is Lava
@@ -7,3 +6,8 @@ MoreHealing
 Peaking Peeking Peaks
 SFCore
 Core.FsmUtil
+Archipelago
+Archipelago Map Mod
+Charm Changer Rando
+Floor is Lava
+Rogue

@@ -1,5 +1,8 @@
-SFCore
 Floor is Lava
 MoreHealing
 SFCore
 Core.FsmUtil
+Archipelago
+Archipelago Map Mod
+Floor is Lava
+Rogue

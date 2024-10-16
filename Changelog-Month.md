@@ -15,6 +15,16 @@
 - Tags
   + Gameplay
 
+### Charm Changer Rando
+
+- Description: A mod to randomize the settings of Charm Changer
+- Dependencies
+  + Charm Changer
+  + MenuChanger
+  + Randomizer 4
+- Tags
+  + Gameplay
+
 ### Exaltation
 
 - Description: Implements the scrapped mechanic of &quot;charm glorification&quot;: empower your charms by progressing through Godhome.
@@ -98,9 +108,13 @@
   + Removed
     - KorzUtils
 
-### Casino Knight
+### Archipelago
 
-- Version: 0.1.0.0 -> 0.1.1.0
+- Version: 0.6.0.0 -> 0.6.1.0
+
+### Archipelago Map Mod
+
+- Version: 2.2.3.0 -> 2.3.0.0
 
 ### CombatRandomizer
 

@@ -1,4 +1,3 @@
-Casino Knight
 FullSpeedAhead
 FullSpeedAhead
 UnlimitedHiveblood
@@ -24,3 +23,8 @@ MoreHealing
 Peaking Peeking Peaks
 SFCore
 Core.FsmUtil
+Archipelago
+Archipelago Map Mod
+Charm Changer Rando
+Floor is Lava
+Rogue
