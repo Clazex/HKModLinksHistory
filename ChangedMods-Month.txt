@@ -28,3 +28,5 @@ Archipelago Map Mod
 Charm Changer Rando
 Floor is Lava
 Rogue
+Bonfire
+Exaltation

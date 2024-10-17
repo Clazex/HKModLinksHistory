@@ -688,11 +688,11 @@
   },
   "Bonfire": {
     "description": "A level-up system in Hollow Knight for a more realistic Dark Souls experience (a well-known Hollow Knight ripoff).",
-    "version": "2.1.1.0",
+    "version": "3.0.1.0",
     "links": {
       "type": "universal",
-      "sha256": "CB25998D344DF2C3F83659E36269308870B0181719C3DBF2FC605ABD020CECBA",
-      "url": "https://github.com/TheodoreChristianRadu/Bonfire/releases/download/2.1.1/Bonfire.zip"
+      "sha256": "D293C9162B4A2262F5CC760694BD60F1E832272E1031A87222DD483FB9C6C25F",
+      "url": "https://github.com/TheodoreChristianRadu/Bonfire/releases/download/3.0.1/Bonfire.zip"
     },
     "dependencies": [],
     "repository": "https://github.com/TheodoreChristianRadu/Bonfire",
@@ -2232,11 +2232,11 @@
   },
   "Exaltation": {
     "description": "Implements the scrapped mechanic of \"charm glorification\": empower your charms by progressing through Godhome.",
-    "version": "2.1.2.0",
+    "version": "2.1.3.0",
     "links": {
       "type": "universal",
-      "sha256": "926263C5E11EEFE3CF1BA77A79F276888829C96A4B16A00A10B3C709D9E5AB2E",
-      "url": "https://github.com/TheodoreChristianRadu/Exaltation/releases/download/2.1.2/Exaltation.zip"
+      "sha256": "A7215924EAC7816CD2C798BE09D194986FC8D982118E983A755F151427C1C7C6",
+      "url": "https://github.com/TheodoreChristianRadu/Exaltation/releases/download/2.1.3/Exaltation.zip"
     },
     "dependencies": [],
     "repository": "https://github.com/TheodoreChristianRadu/Exaltation",
