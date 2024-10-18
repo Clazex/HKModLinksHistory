@@ -49,14 +49,6 @@
 - Tags
   + Gameplay
 
-### FullSpeedAhead
-
-- Description: Removes Parry Slow-Down.
-- Dependencies
-  + SFCore
-- Tags
-  + Utility
-
 ### Lightbringer
 
 - Description: Major gameplay overhaul: fight your way through Hallownest with a lance of light, brand new charms and radiant spells to seek the binding light that plagues our dreams.
@@ -123,6 +115,10 @@
 ### Core.FsmUtil
 
 - Version: 1.1.1.1 -> 1.1.1.2
+
+### FullSpeedAhead
+
+- Version: 1.5.0.0 -> 1.5.1.0
 
 ### HkmpPouch
 
