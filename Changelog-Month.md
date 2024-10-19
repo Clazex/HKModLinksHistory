@@ -25,6 +25,12 @@
 - Tags
   + Gameplay
 
+### CycloneCopter
+
+- Description: Extend your cyclone to achieve liftoff
+- Dependencies
+  + Satchel
+
 ### Exaltation
 
 - Description: Implements the scrapped mechanic of &quot;charm glorification&quot;: empower your charms by progressing through Godhome.
@@ -116,10 +122,6 @@
 
 - Version: 1.1.1.1 -> 1.1.1.2
 
-### FullSpeedAhead
-
-- Version: 1.5.0.0 -> 1.5.1.0
-
 ### HkmpPouch
 
 - Version: 1.0.0.0 -> 2.0.0.0
@@ -139,8 +141,4 @@
 ### SFCore
 
 - Version: 1.5.12.0 -> 1.5.12.2
-
-### UnlimitedHiveblood
-
-- Version: 1.0.0.0 -> 1.0.0.1
 

@@ -1,5 +1,3 @@
-FullSpeedAhead
-UnlimitedHiveblood
 CombatRandomizer
 VoiceToCrySuffering
 AdBlocker
@@ -29,3 +27,4 @@ Floor is Lava
 Rogue
 Bonfire
 Exaltation
+CycloneCopter

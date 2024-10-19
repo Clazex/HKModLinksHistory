@@ -6,3 +6,4 @@ Floor is Lava
 Rogue
 Bonfire
 Exaltation
+CycloneCopter

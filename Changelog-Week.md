@@ -13,6 +13,12 @@
 - Tags
   + Gameplay
 
+### CycloneCopter
+
+- Description: Extend your cyclone to achieve liftoff
+- Dependencies
+  + Satchel
+
 
 ## Updated mods
 

@@ -1,5 +1,3 @@
-FullSpeedAhead
-UnlimitedHiveblood
 CombatRandomizer
 MilliGolf
 AccessRandomizer
