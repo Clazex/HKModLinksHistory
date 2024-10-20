@@ -1,7 +1,7 @@
-Core.FsmUtil
 Archipelago
 Archipelago Map Mod
 Floor is Lava
 Rogue
 Bonfire
 Exaltation
+PlayerTrail

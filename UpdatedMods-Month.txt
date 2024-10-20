@@ -15,3 +15,4 @@ Floor is Lava
 Rogue
 Bonfire
 Exaltation
+PlayerTrail

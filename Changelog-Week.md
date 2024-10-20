@@ -19,6 +19,13 @@
 - Dependencies
   + Satchel
 
+### HkmpTransitionAlerts
+
+- Description: An HKMP addon to highlight recently used transitions
+- Dependencies
+  + HKMP
+  + Satchel
+
 
 ## Updated mods
 
@@ -34,10 +41,6 @@
 
 - Version: 2.1.1.0 -> 3.0.1.0
 
-### Core.FsmUtil
-
-- Version: 1.1.1.1 -> 1.1.1.2
-
 ### Exaltation
 
 - Version: 2.1.2.0 -> 2.1.3.0
@@ -45,6 +48,10 @@
 ### Floor is Lava
 
 - Version: 1.0.5.2 -> 1.0.6.0
+
+### PlayerTrail
+
+- Version: 1.0.0.1 -> 1.0.0.2
 
 ### Rogue
 

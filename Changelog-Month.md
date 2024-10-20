@@ -55,6 +55,13 @@
 - Tags
   + Gameplay
 
+### HkmpTransitionAlerts
+
+- Description: An HKMP addon to highlight recently used transitions
+- Dependencies
+  + HKMP
+  + Satchel
+
 ### Lightbringer
 
 - Description: Major gameplay overhaul: fight your way through Hallownest with a lance of light, brand new charms and radiant spells to seek the binding light that plagues our dreams.
@@ -137,6 +144,10 @@
 ### MoreHealing
 
 - Version: 1.5.2.0 -> 1.5.3.0
+
+### PlayerTrail
+
+- Version: 1.0.0.1 -> 1.0.0.2
 
 ### SFCore
 

@@ -1,4 +1,3 @@
-Core.FsmUtil
 Archipelago
 Archipelago Map Mod
 Charm Changer Rando
@@ -7,3 +6,5 @@ Rogue
 Bonfire
 Exaltation
 CycloneCopter
+HkmpTransitionAlerts
+PlayerTrail

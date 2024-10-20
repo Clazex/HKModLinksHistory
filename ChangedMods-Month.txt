@@ -28,3 +28,5 @@ Rogue
 Bonfire
 Exaltation
 CycloneCopter
+HkmpTransitionAlerts
+PlayerTrail
