@@ -35,7 +35,7 @@
 
 ### Archipelago Map Mod
 
-- Version: 2.2.3.0 -> 2.3.0.0
+- Version: 2.2.3.0 -> 2.3.1.0
 
 ### Bonfire
 
@@ -56,4 +56,8 @@
 ### Rogue
 
 - Version: 1.0.0.2 -> 1.0.0.5
+
+### SFCore
+
+- Version: 1.5.12.2 -> 1.5.12.4
 

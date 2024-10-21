@@ -16,3 +16,5 @@ Rogue
 Bonfire
 Exaltation
 PlayerTrail
+Archipelago Map Mod
+SFCore

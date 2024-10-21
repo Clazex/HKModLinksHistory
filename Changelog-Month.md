@@ -119,7 +119,7 @@
 
 ### Archipelago Map Mod
 
-- Version: 2.2.3.0 -> 2.3.0.0
+- Version: 2.2.3.0 -> 2.3.1.0
 
 ### CombatRandomizer
 
@@ -151,5 +151,5 @@
 
 ### SFCore
 
-- Version: 1.5.12.0 -> 1.5.12.2
+- Version: 1.5.12.0 -> 1.5.12.4
 

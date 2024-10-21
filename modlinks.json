@@ -312,11 +312,11 @@
   },
   "Archipelago Map Mod": {
     "description": "A conversion of RandoMapMod that works with the Archipelago multiworld randomizer",
-    "version": "2.3.0.0",
+    "version": "2.3.1.0",
     "links": {
       "type": "universal",
-      "sha256": "CB6A4D39FDF5CD6D2EBB1B8A179D695B02620CF60345CDF70B61562D540A4560",
-      "url": "https://github.com/ArchipelagoMW-HollowKnight/Archipelago.APMapMod/releases/download/v2.3.0/Archipelago.Map.Mod.zip"
+      "sha256": "A1D43051EFF7D896269433EC8BCA6A537889F96EA922BC85BBB12A6FE7A9C6B8",
+      "url": "https://github.com/ArchipelagoMW-HollowKnight/Archipelago.APMapMod/releases/download/v2.3.1/Archipelago.Map.Mod.zip"
     },
     "dependencies": [
       "Archipelago",
@@ -6001,11 +6001,11 @@
   },
   "SFCore": {
     "description": "Library mod used by other mods.",
-    "version": "1.5.12.2",
+    "version": "1.5.12.4",
     "links": {
       "type": "universal",
-      "sha256": "3942B46C8888E7CAC78E35A421307217DE616EC35DB723AD999689E9772F67B7",
-      "url": "https://github.com/SFGrenade/SFCore/releases/download/v1.5.12.2/SFCore.zip"
+      "sha256": "2E6375507FA9A66CF3A5CDCDFF76FD6CA0E56698B407D236CF8AAF987907DD82",
+      "url": "https://github.com/SFGrenade/SFCore/releases/download/v1.5.12.4/SFCore.zip"
     },
     "dependencies": [],
     "repository": "https://github.com/SFGrenade/SFCore/",

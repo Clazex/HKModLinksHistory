@@ -8,3 +8,5 @@ Exaltation
 CycloneCopter
 HkmpTransitionAlerts
 PlayerTrail
+Archipelago Map Mod
+SFCore
