@@ -1,4 +1,3 @@
-CombatRandomizer
 VoiceToCrySuffering
 AdBlocker
 MilliGolf
@@ -32,3 +31,4 @@ HkmpTransitionAlerts
 PlayerTrail
 Archipelago Map Mod
 SFCore
+MidasTouch

@@ -70,6 +70,13 @@
   + Expansion
   + Gameplay
 
+### MidasTouch
+
+- Description: Gorgeous Husk drops a charm that turns enemies to gold
+- Dependencies
+  + SFCore
+  + Satchel
+
 ### Peaking Peeking Peaks
 
 - Description: This mods aims to make the Crystal Peak name more memorable.
@@ -120,10 +127,6 @@
 ### Archipelago Map Mod
 
 - Version: 2.2.3.0 -> 2.3.1.0
-
-### CombatRandomizer
-
-- Version: 1.1.0.0 -> 1.1.0.1
 
 ### Core.FsmUtil
 

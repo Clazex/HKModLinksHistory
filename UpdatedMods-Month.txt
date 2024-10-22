@@ -1,4 +1,3 @@
-CombatRandomizer
 MilliGolf
 AccessRandomizer
 HkmpPouch
