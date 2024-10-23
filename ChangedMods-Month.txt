@@ -32,3 +32,5 @@ PlayerTrail
 Archipelago Map Mod
 SFCore
 MidasTouch
+GodhomeRandomizer
+MilliGolf

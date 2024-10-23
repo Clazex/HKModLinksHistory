@@ -1,5 +1,5 @@
-Bonfire
-Exaltation
 PlayerTrail
 Archipelago Map Mod
 SFCore
+GodhomeRandomizer
+MilliGolf

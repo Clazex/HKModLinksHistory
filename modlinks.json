@@ -2859,11 +2859,11 @@
   },
   "GodhomeRandomizer": {
     "description": "A Randomizer add-on for Godhome elements.",
-    "version": "2.2.4.5",
+    "version": "2.2.4.6",
     "links": {
       "type": "universal",
-      "sha256": "302049A2FA5D5827EAF2937306C128B906FCEACEEFFA9954B89D934293924E95",
-      "url": "https://github.com/nerthul11/GodhomeRandomizer/releases/download/2.2.4.5/GodhomeRandomizer.zip"
+      "sha256": "7B8B2A2F3151B0A788FA2E2F67353014C7A26BAE72B76EDE6C3AEE1B583D0C11",
+      "url": "https://github.com/nerthul11/GodhomeRandomizer/releases/download/2.2.4.6/GodhomeRandomizer.zip"
     },
     "dependencies": [
       "ItemChanger",
@@ -4454,11 +4454,11 @@
   },
   "MilliGolf": {
     "description": "An 18-hole course featuring Millibelle the Golf Ball",
-    "version": "1.2.0.1",
+    "version": "1.2.0.2",
     "links": {
       "type": "universal",
-      "sha256": "212C96018308F8F203F246693659B92AB45A9F8805FB99ADCBB98CCA3964E34C",
-      "url": "https://github.com/TheMathGeek314/MilliGolf/releases/download/v1.2.0.1/MilliGolf.zip"
+      "sha256": "C895C59FE735423F40C5653FFFB1D64F5D22A2941282738D01C25A1AE197623E",
+      "url": "https://github.com/TheMathGeek314/MilliGolf/releases/download/v1.2.0.2/MilliGolf.zip"
     },
     "dependencies": [
       "Satchel"

@@ -132,13 +132,17 @@
 
 - Version: 1.1.1.1 -> 1.1.1.2
 
+### GodhomeRandomizer
+
+- Version: 2.2.4.5 -> 2.2.4.6
+
 ### HkmpPouch
 
 - Version: 1.0.0.0 -> 2.0.0.0
 
 ### MilliGolf
 
-- Version: 1.1.1.0 -> 1.2.0.1
+- Version: 1.1.1.0 -> 1.2.0.2
 - Integrations
   + Added
     - RandoSettingsManager
