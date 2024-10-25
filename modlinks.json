@@ -3895,6 +3895,22 @@
       "FStats"
     ]
   },
+  "KeybindOverhaul": {
+    "description": "Enhances keybind customization with split actions, key combos, and duplicate inputs",
+    "version": "1.0.0.0",
+    "links": {
+      "type": "universal",
+      "sha256": "4EC5FA371B13A8E378CA84FEE14C778B975D3AA14AAB57578047A1D9841CAECA",
+      "url": "https://github.com/TheMathGeek314/KeybindOverhaul/releases/download/v1.0.0.0/KeybindOverhaul.zip"
+    },
+    "dependencies": [
+      "Satchel"
+    ],
+    "repository": "https://github.com/TheMathGeek314/KeybindOverhaul/",
+    "authors": [
+      "TheMathGeek_314"
+    ]
+  },
   "Kindred Spirit": {
     "description": "Replaces the Massive Mosscharger's statue in Godhome with a dream and non dream version of the Greenpath Vessel.",
     "version": "1.0.0.2",

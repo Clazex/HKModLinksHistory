@@ -62,6 +62,12 @@
   + HKMP
   + Satchel
 
+### KeybindOverhaul
+
+- Description: Enhances keybind customization with split actions, key combos, and duplicate inputs
+- Dependencies
+  + Satchel
+
 ### Lightbringer
 
 - Description: Major gameplay overhaul: fight your way through Hallownest with a lance of light, brand new charms and radiant spells to seek the binding light that plagues our dreams.
@@ -102,13 +108,6 @@
 - Description: A library mod that aims to allow other mods to edit spells and nail arts more easily.
 - Dependencies
   + Vasi
-
-### VoiceToCrySuffering
-
-- Description: A minor tweak to the Pure Vessel fight
-- Dependencies
-  + SFCore
-  + Satchel
 
 
 ## Updated mods

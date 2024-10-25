@@ -1,4 +1,3 @@
-CycloneCopter
 HkmpTransitionAlerts
 PlayerTrail
 Archipelago Map Mod
@@ -6,3 +5,4 @@ SFCore
 MidasTouch
 GodhomeRandomizer
 MilliGolf
+KeybindOverhaul

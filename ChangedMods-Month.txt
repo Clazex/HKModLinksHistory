@@ -1,4 +1,3 @@
-VoiceToCrySuffering
 AdBlocker
 MilliGolf
 PogoableFlukes
@@ -34,3 +33,4 @@ SFCore
 MidasTouch
 GodhomeRandomizer
 MilliGolf
+KeybindOverhaul

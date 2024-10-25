@@ -3,17 +3,17 @@
 
 ## New mods
 
-### CycloneCopter
-
-- Description: Extend your cyclone to achieve liftoff
-- Dependencies
-  + Satchel
-
 ### HkmpTransitionAlerts
 
 - Description: An HKMP addon to highlight recently used transitions
 - Dependencies
   + HKMP
+  + Satchel
+
+### KeybindOverhaul
+
+- Description: Enhances keybind customization with split actions, key combos, and duplicate inputs
+- Dependencies
   + Satchel
 
 ### MidasTouch

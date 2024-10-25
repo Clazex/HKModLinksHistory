@@ -1,4 +1,3 @@
-VoiceToCrySuffering
 AdBlocker
 PogoableFlukes
 ExtraSpells
@@ -13,3 +12,4 @@ Charm Changer Rando
 CycloneCopter
 HkmpTransitionAlerts
 MidasTouch
+KeybindOverhaul
