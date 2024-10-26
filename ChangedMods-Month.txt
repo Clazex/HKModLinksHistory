@@ -34,3 +34,6 @@ MidasTouch
 GodhomeRandomizer
 MilliGolf
 KeybindOverhaul
+PurenailCore
+Sein
+UnRando

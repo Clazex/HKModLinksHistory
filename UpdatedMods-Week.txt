@@ -1,5 +1,7 @@
-PlayerTrail
 Archipelago Map Mod
 SFCore
 GodhomeRandomizer
 MilliGolf
+PurenailCore
+Sein
+UnRando

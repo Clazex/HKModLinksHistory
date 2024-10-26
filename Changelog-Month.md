@@ -155,7 +155,19 @@
 
 - Version: 1.0.0.1 -> 1.0.0.2
 
+### PurenailCore
+
+- Version: 1.2.3.0 -> 1.2.4.0
+
 ### SFCore
 
 - Version: 1.5.12.0 -> 1.5.12.4
+
+### Sein
+
+- Version: 1.2.3.0 -> 1.2.4.0
+
+### UnRando
+
+- Version: 1.0.0.0 -> 1.1.0.0
 

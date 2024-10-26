@@ -3,13 +3,6 @@
 
 ## New mods
 
-### HkmpTransitionAlerts
-
-- Description: An HKMP addon to highlight recently used transitions
-- Dependencies
-  + HKMP
-  + Satchel
-
 ### KeybindOverhaul
 
 - Description: Enhances keybind customization with split actions, key combos, and duplicate inputs
@@ -38,11 +31,19 @@
 
 - Version: 1.2.0.1 -> 1.2.0.2
 
-### PlayerTrail
+### PurenailCore
 
-- Version: 1.0.0.1 -> 1.0.0.2
+- Version: 1.2.3.0 -> 1.2.4.0
 
 ### SFCore
 
 - Version: 1.5.12.2 -> 1.5.12.4
+
+### Sein
+
+- Version: 1.2.3.0 -> 1.2.4.0
+
+### UnRando
+
+- Version: 1.0.0.0 -> 1.1.0.0
 
