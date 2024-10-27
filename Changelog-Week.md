@@ -19,10 +19,6 @@
 
 ## Updated mods
 
-### Archipelago Map Mod
-
-- Version: 2.3.0.0 -> 2.3.1.0
-
 ### GodhomeRandomizer
 
 - Version: 2.2.4.5 -> 2.2.4.6
@@ -34,10 +30,6 @@
 ### PurenailCore
 
 - Version: 1.2.3.0 -> 1.2.4.0
-
-### SFCore
-
-- Version: 1.5.12.2 -> 1.5.12.4
 
 ### Sein
 

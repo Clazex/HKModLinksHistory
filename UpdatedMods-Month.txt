@@ -22,3 +22,4 @@ MilliGolf
 PurenailCore
 Sein
 UnRando
+MidasTouch

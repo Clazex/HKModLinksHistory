@@ -37,3 +37,4 @@ KeybindOverhaul
 PurenailCore
 Sein
 UnRando
+MidasTouch
