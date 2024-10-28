@@ -1,4 +1,3 @@
-MilliGolf
 AccessRandomizer
 HkmpPouch
 ExtraSpells

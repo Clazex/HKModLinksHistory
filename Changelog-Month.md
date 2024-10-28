@@ -3,12 +3,6 @@
 
 ## New mods
 
-### AdBlocker
-
-- Description: Blocks ads
-- Dependencies
-  + Satchel
-
 ### Bonfire
 
 - Description: A level-up system in Hollow Knight for a more realistic Dark Souls experience (a well-known Hollow Knight ripoff).
@@ -91,9 +85,13 @@
 - Tags
   + Cosmetic
 
-### PogoableFlukes
+### QuickDive
 
-- Description: You can pogo off your flukenest casts
+- Description: A mod that remaps your Quick Cast button to only Dive
+- Dependencies
+  + Satchel
+- Tags
+  + Gameplay
 
 ### Rogue
 
@@ -141,11 +139,7 @@
 
 ### MilliGolf
 
-- Version: 1.1.1.0 -> 1.2.0.2
-- Integrations
-  + Added
-    - RandoSettingsManager
-    - Randomizer 4
+- Version: 1.2.0.0 -> 1.2.0.2
 
 ### MoreHealing
 

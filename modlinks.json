@@ -5434,6 +5434,26 @@
     ],
     "repository": "https://github.com/fifty-six/HollowKnight.QoL/"
   },
+  "QuickDive": {
+    "description": "A mod that remaps your Quick Cast button to only Dive",
+    "version": "1.0.0.0",
+    "links": {
+      "type": "universal",
+      "sha256": "62AAB681504E6335EEE07734C2BF0485FBC362210F2EB8E637BA47B027D5CA2B",
+      "url": "https://github.com/tickylolokaka/QuickDive/releases/download/v1.0.0.0/QuickDive.zip"
+    },
+    "dependencies": [
+      "Satchel"
+    ],
+    "repository": "https://github.com/tickylolokaka/QuickDive",
+    "issues": "https://github.com/tickylolokaka/QuickDive/issues",
+    "tags": [
+      "Gameplay"
+    ],
+    "authors": [
+      "tickylolokaka"
+    ]
+  },
   "QuirrelBoat": {
     "description": "A mod which makes Quirrel interactable after the events at Blue Lake.",
     "version": "1.0.0.0",

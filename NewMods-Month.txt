@@ -1,5 +1,3 @@
-AdBlocker
-PogoableFlukes
 ExtraSpells
 Rogue
 SpellChanger
@@ -13,3 +11,4 @@ CycloneCopter
 HkmpTransitionAlerts
 MidasTouch
 KeybindOverhaul
+QuickDive

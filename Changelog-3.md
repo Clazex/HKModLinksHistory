@@ -1,11 +1,17 @@
 # Changelog
 
 
-## New mods
+## Updated mods
 
-### KeybindOverhaul
+### PurenailCore
 
-- Description: Enhances keybind customization with split actions, key combos, and duplicate inputs
-- Dependencies
-  + Satchel
+- Version: 1.2.3.0 -> 1.2.4.0
+
+### Sein
+
+- Version: 1.2.3.0 -> 1.2.4.0
+
+### UnRando
+
+- Version: 1.0.0.0 -> 1.1.0.0
 

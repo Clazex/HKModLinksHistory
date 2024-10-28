@@ -1,6 +1,3 @@
-AdBlocker
-MilliGolf
-PogoableFlukes
 ExtraSpells
 Rogue
 SpellChanger
@@ -38,3 +35,4 @@ PurenailCore
 Sein
 UnRando
 MidasTouch
+QuickDive

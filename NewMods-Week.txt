@@ -1,2 +1,2 @@
-MidasTouch
 KeybindOverhaul
+QuickDive
