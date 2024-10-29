@@ -3543,12 +3543,12 @@
     ]
   },
   "Hollow Knight Achievement Manager": {
-    "description": "Allows to manage Hollow Knight achievements, both vanilla and modded. Also syncs them with the online store of choice (GOG, Steam, XBox).",
-    "version": "1.5.0.0",
+    "description": "Allows to manage Hollow Knight achievements, both vanilla and modded. Also syncs them with the online store of choice (GOG, Steam, XBox). Also allows to un-/lock menu themes and game modes.",
+    "version": "1.5.1.0",
     "links": {
       "type": "universal",
-      "sha256": "87931BB347E5EC9D8D3EDDA2329DD3BEBC58CB509F926A7ABC5EC3BA76B20864",
-      "url": "https://github.com/SFGrenade/HollowKnightAchievementManager/releases/download/v1.5/HollowKnightAchievementManager.zip"
+      "sha256": "0BC536FBF6D0D4AAA3E5C737DCA6864F50796F39CAE78FB528D1C08E554553C2",
+      "url": "https://github.com/SFGrenade/HollowKnightAchievementManager/releases/download/v1.5.1/HollowKnightAchievementManager.zip"
     },
     "dependencies": [
       "SFCore",
@@ -6150,6 +6150,23 @@
       "DebugMod",
       "ItemSync",
       "RandoSettingsManager"
+    ]
+  },
+  "ScreenShakeService": {
+    "description": "Removes screen shake: Screen Shake Service simply supports slashing Scooped Swordsman's (Hollow Knight's) superfluous screen shake since said shaking stimulates some souls' squeamishness.",
+    "version": "1.0.0.0",
+    "links": {
+      "type": "universal",
+      "sha256": "B8C4F83C987DF6C68782D4E0005352B7AD98CF495C79A03BC5563789D6EFE54A",
+      "url": "https://github.com/Emik03/ScreenShakeService/releases/download/1/ScreenShakeService.zip"
+    },
+    "dependencies": [],
+    "repository": "https://github.com/Emik03/ScreenShakeService",
+    "tags": [
+      "Gameplay"
+    ],
+    "authors": [
+      "Emik"
     ]
   },
   "ScreenshotMachine": {

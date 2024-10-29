@@ -1,8 +1,8 @@
-GodhomeRandomizer
-MilliGolf
 KeybindOverhaul
 PurenailCore
 Sein
 UnRando
 MidasTouch
 QuickDive
+Hollow Knight Achievement Manager
+ScreenShakeService

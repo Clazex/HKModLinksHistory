@@ -12,3 +12,4 @@ HkmpTransitionAlerts
 MidasTouch
 KeybindOverhaul
 QuickDive
+ScreenShakeService

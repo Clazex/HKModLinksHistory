@@ -1,9 +1,14 @@
 # Changelog
 
 
-## Updated mods
+## New mods
 
-### HkmpPouch
+### Floor is Lava
 
-- Version: 1.0.0.0 -> 2.0.0.0
+- Description: Is a floor is lava mod for Hollow Knight
+- Dependencies
+  + MagicUI
+  + Satchel
+- Tags
+  + Gameplay
 

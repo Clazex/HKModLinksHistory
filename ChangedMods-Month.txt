@@ -36,3 +36,5 @@ Sein
 UnRando
 MidasTouch
 QuickDive
+Hollow Knight Achievement Manager
+ScreenShakeService
