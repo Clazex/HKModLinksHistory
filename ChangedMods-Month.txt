@@ -38,3 +38,4 @@ MidasTouch
 QuickDive
 Hollow Knight Achievement Manager
 ScreenShakeService
+Transcendence

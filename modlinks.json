@@ -6909,11 +6909,11 @@
   },
   "Transcendence": {
     "description": "Adds 15 new charms with various abilities. Can be used with the randomizer.",
-    "version": "1.5.1.0",
+    "version": "1.5.2.0",
     "links": {
       "type": "universal",
-      "sha256": "178338AA3FCF4F0BEA6E03F87F66FF3375389B9CBBE4EC31DA61AC44B8FCB58A",
-      "url": "https://github.com/dpinela/Transcendence/releases/download/v1.5.1/Transcendence.zip"
+      "sha256": "5A6BF2E7AF2252F91A1277F1A837B73B1182B3DED9B06184BE02C3B6574FA5FC",
+      "url": "https://github.com/dpinela/Transcendence/releases/download/v1.5.2/Transcendence.zip"
     },
     "dependencies": [
       "ItemChanger",
