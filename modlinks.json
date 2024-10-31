@@ -294,6 +294,25 @@
     ],
     "repository": "https://github.com/danirainy/HollowKnight.AbsoluteZote/tree/anyzote/"
   },
+  "Arcade Knight": {
+    "description": "Adds some minigames.",
+    "version": "0.1.0.0",
+    "links": {
+      "type": "universal",
+      "sha256": "A757AC8FCC005D5DBAC0A06997F310834774AC4D85FFEE76F1E99840206353D6",
+      "url": "https://github.com/Korzer420/ArcadeKnight/releases/download/v0.1.0/ArcadeKnight.zip"
+    },
+    "dependencies": [
+      "KorzUtils"
+    ],
+    "repository": "https://github.com/Korzer420/ArcadeKnight",
+    "tags": [
+      "Gameplay"
+    ],
+    "authors": [
+      "Korz"
+    ]
+  },
   "Archipelago": {
     "description": "Enables play with the Archipelago multiworld system.",
     "version": "0.6.1.0",
@@ -587,6 +606,22 @@
     "authors": [
       "Alph4",
       "Le__Bun",
+      "TheMathGeek_314"
+    ]
+  },
+  "BingoGoalPack2": {
+    "description": "Adds more granular specifications for custom BingoSync challenges",
+    "version": "1.0.0.0",
+    "links": {
+      "type": "universal",
+      "sha256": "E709512EADABE66D870D084C9EE3E65857B9FF2E2A127B2DD2CA3295FC7C2171",
+      "url": "https://github.com/TheMathGeek314/BingoGoalPack2/releases/download/v1.0.0.0/BingoGoalPack2.zip"
+    },
+    "dependencies": [
+      "BingoSync"
+    ],
+    "repository": "https://github.com/TheMathGeek314/BingoGoalPack2/",
+    "authors": [
       "TheMathGeek_314"
     ]
   },
@@ -6690,6 +6725,27 @@
       "Cosmetic"
     ],
     "authors": [
+      "SFGrenade"
+    ]
+  },
+  "Stories of a HK player - Chapter 2": {
+    "description": "The second iteration of a story of a Hollow Knight player and his personalized copy of the game.\nWarning for people streaming this mod: This mod displays your windows/mac/linux username.",
+    "version": "1.5.1.0",
+    "links": {
+      "type": "universal",
+      "sha256": "59693C7BA14E497AF191BA5FC67D16F9CCB7B7109C055533248887125BC17E47",
+      "url": "https://github.com/SFGrenade/StoriesOfaHkPlayer-Ch2/releases/download/v1.5.1/StoriesOfaHkPlayer_Ch2.zip"
+    },
+    "dependencies": [
+      "SFCore"
+    ],
+    "repository": "https://github.com/SFGrenade/StoriesOfaHkPlayer-Ch2/",
+    "tags": [
+      "Expansion",
+      "Gameplay"
+    ],
+    "authors": [
+      "HelenSB",
       "SFGrenade"
     ]
   },

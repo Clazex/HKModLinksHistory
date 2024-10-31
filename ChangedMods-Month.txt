@@ -1,6 +1,3 @@
-ExtraSpells
-Rogue
-SpellChanger
 AccessRandomizer
 HkmpPouch
 Floor is Lava
@@ -39,3 +36,6 @@ QuickDive
 Hollow Knight Achievement Manager
 ScreenShakeService
 Transcendence
+Arcade Knight
+BingoGoalPack2
+Stories of a HK player - Chapter 2

@@ -3,11 +3,19 @@
 
 ## New mods
 
-### KeybindOverhaul
+### Arcade Knight
 
-- Description: Enhances keybind customization with split actions, key combos, and duplicate inputs
+- Description: Adds some minigames.
 - Dependencies
-  + Satchel
+  + KorzUtils
+- Tags
+  + Gameplay
+
+### BingoGoalPack2
+
+- Description: Adds more granular specifications for custom BingoSync challenges
+- Dependencies
+  + BingoSync
 
 ### QuickDive
 
@@ -21,6 +29,16 @@
 
 - Description: Removes screen shake: Screen Shake Service simply supports slashing Scooped Swordsman&#x27;s (Hollow Knight&#x27;s) superfluous screen shake since said shaking stimulates some souls&#x27; squeamishness.
 - Tags
+  + Gameplay
+
+### Stories of a HK player - Chapter 2
+
+- Description: The second iteration of a story of a Hollow Knight player and his personalized copy of the game.
+Warning for people streaming this mod: This mod displays your windows/mac/linux username.
+- Dependencies
+  + SFCore
+- Tags
+  + Expansion
   + Gameplay
 
 

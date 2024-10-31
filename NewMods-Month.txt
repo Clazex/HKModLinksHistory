@@ -1,6 +1,3 @@
-ExtraSpells
-Rogue
-SpellChanger
 Floor is Lava
 Bonfire
 Exaltation
@@ -13,3 +10,6 @@ MidasTouch
 KeybindOverhaul
 QuickDive
 ScreenShakeService
+Arcade Knight
+BingoGoalPack2
+Stories of a HK player - Chapter 2

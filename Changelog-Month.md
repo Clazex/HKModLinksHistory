@@ -3,6 +3,20 @@
 
 ## New mods
 
+### Arcade Knight
+
+- Description: Adds some minigames.
+- Dependencies
+  + KorzUtils
+- Tags
+  + Gameplay
+
+### BingoGoalPack2
+
+- Description: Adds more granular specifications for custom BingoSync challenges
+- Dependencies
+  + BingoSync
+
 ### Bonfire
 
 - Description: A level-up system in Hollow Knight for a more realistic Dark Souls experience (a well-known Hollow Knight ripoff).
@@ -28,15 +42,6 @@
 ### Exaltation
 
 - Description: Implements the scrapped mechanic of &quot;charm glorification&quot;: empower your charms by progressing through Godhome.
-- Tags
-  + Gameplay
-
-### ExtraSpells
-
-- Description: A mod that adds a handful of new spells (and 1-ish nail art). Cycle by selecting the spell in the inventory.
-- Dependencies
-  + SpellChanger
-  + Vasi
 - Tags
   + Gameplay
 
@@ -93,25 +98,21 @@
 - Tags
   + Gameplay
 
-### Rogue
-
-- Description: A rogue-like Pantheon of Hallownest mod
-- Dependencies
-  + Satchel
-- Tags
-  + Gameplay
-
 ### ScreenShakeService
 
 - Description: Removes screen shake: Screen Shake Service simply supports slashing Scooped Swordsman&#x27;s (Hollow Knight&#x27;s) superfluous screen shake since said shaking stimulates some souls&#x27; squeamishness.
 - Tags
   + Gameplay
 
-### SpellChanger
+### Stories of a HK player - Chapter 2
 
-- Description: A library mod that aims to allow other mods to edit spells and nail arts more easily.
+- Description: The second iteration of a story of a Hollow Knight player and his personalized copy of the game.
+Warning for people streaming this mod: This mod displays your windows/mac/linux username.
 - Dependencies
-  + Vasi
+  + SFCore
+- Tags
+  + Expansion
+  + Gameplay
 
 
 ## Updated mods
@@ -134,6 +135,13 @@
 ### Core.FsmUtil
 
 - Version: 1.1.1.1 -> 1.1.1.2
+
+### ExtraSpells
+
+- Version: 1.0.0.0 -> 1.0.0.1
+- Description
+  + Old: A mod that adds a handful of new spells. Cycle by selecting the spell in the inventory.
+  + New: A mod that adds a handful of new spells (and 1-ish nail art). Cycle by selecting the spell in the inventory.
 
 ### GodhomeRandomizer
 
@@ -165,6 +173,10 @@
 ### PurenailCore
 
 - Version: 1.2.3.0 -> 1.2.4.0
+
+### Rogue
+
+- Version: 1.0.0.2 -> 1.0.0.5
 
 ### SFCore
 
