@@ -230,6 +230,20 @@
       "Exempt-Medic"
     ]
   },
+  "AlwaysWorldSense": {
+    "description": "Grants World Sense immediately",
+    "version": "1.0.0.0",
+    "links": {
+      "type": "universal",
+      "sha256": "60A19A1DB9B053EBC3C40DB5B61F71FDCC509D2DEA3778568E9C869F08FEF418",
+      "url": "https://github.com/TheMathGeek314/AlwaysWorldSense/releases/download/v1.0.0.0/AlwaysWorldSense.zip"
+    },
+    "dependencies": [],
+    "repository": "https://github.com/TheMathGeek314/AlwaysWorldSense/",
+    "authors": [
+      "TheMathGeek_314"
+    ]
+  },
   "Ancient Aspid": {
     "description": "A mod for Hollow Knight that adds a brand new, challenging bossfight to Kingdom's Edge",
     "version": "1.0.0.9",

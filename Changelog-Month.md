@@ -3,6 +3,10 @@
 
 ## New mods
 
+### AlwaysWorldSense
+
+- Description: Grants World Sense immediately
+
 ### Arcade Knight
 
 - Description: Adds some minigames.
@@ -116,13 +120,6 @@ Warning for people streaming this mod: This mod displays your windows/mac/linux 
 
 
 ## Updated mods
-
-### AccessRandomizer
-
-- Version: 1.2.4.0 -> 1.2.4.1
-- Dependencies
-  + Removed
-    - KorzUtils
 
 ### Archipelago
 

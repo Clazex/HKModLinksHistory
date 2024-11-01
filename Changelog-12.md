@@ -1,19 +1,13 @@
 # Changelog
 
 
-## New mods
-
-### HkmpTransitionAlerts
-
-- Description: An HKMP addon to highlight recently used transitions
-- Dependencies
-  + HKMP
-  + Satchel
-
-
 ## Updated mods
 
-### PlayerTrail
+### Archipelago Map Mod
 
-- Version: 1.0.0.1 -> 1.0.0.2
+- Version: 2.3.0.0 -> 2.3.1.0
+
+### SFCore
+
+- Version: 1.5.12.2 -> 1.5.12.4
 

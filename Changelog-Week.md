@@ -3,6 +3,10 @@
 
 ## New mods
 
+### AlwaysWorldSense
+
+- Description: Grants World Sense immediately
+
 ### Arcade Knight
 
 - Description: Adds some minigames.
@@ -55,19 +59,7 @@ Warning for people streaming this mod: This mod displays your windows/mac/linux 
 
 - Version: 1.0.0.0 -> 1.0.1.0
 
-### PurenailCore
-
-- Version: 1.2.3.0 -> 1.2.4.0
-
-### Sein
-
-- Version: 1.2.3.0 -> 1.2.4.0
-
 ### Transcendence
 
 - Version: 1.5.1.0 -> 1.5.2.0
-
-### UnRando
-
-- Version: 1.0.0.0 -> 1.1.0.0
 

@@ -1,1 +1,2 @@
-PlayerTrail
+Archipelago Map Mod
+SFCore

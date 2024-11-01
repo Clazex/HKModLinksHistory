@@ -1,6 +1,3 @@
-PurenailCore
-Sein
-UnRando
 MidasTouch
 Hollow Knight Achievement Manager
 Transcendence
