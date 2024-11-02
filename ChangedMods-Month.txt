@@ -39,3 +39,8 @@ Arcade Knight
 BingoGoalPack2
 Stories of a HK player - Chapter 2
 AlwaysWorldSense
+Arcade Knight
+CustomBgm
+Exaltation
+SFCore
+SpellChanger

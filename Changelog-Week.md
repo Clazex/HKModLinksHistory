@@ -48,6 +48,14 @@ Warning for people streaming this mod: This mod displays your windows/mac/linux 
 
 ## Updated mods
 
+### CustomBgm
+
+- Version: 1.5.3.1 -> 1.5.3.2
+
+### Exaltation
+
+- Version: 2.1.3.0 -> 2.1.5.0
+
 ### Hollow Knight Achievement Manager
 
 - Version: 1.5.0.0 -> 1.5.1.0
@@ -55,9 +63,13 @@ Warning for people streaming this mod: This mod displays your windows/mac/linux 
   + Old: Allows to manage Hollow Knight achievements, both vanilla and modded. Also syncs them with the online store of choice (GOG, Steam, XBox).
   + New: Allows to manage Hollow Knight achievements, both vanilla and modded. Also syncs them with the online store of choice (GOG, Steam, XBox). Also allows to un-/lock menu themes and game modes.
 
-### MidasTouch
+### SFCore
 
-- Version: 1.0.0.0 -> 1.0.1.0
+- Version: 1.5.12.4 -> 1.5.12.5
+
+### SpellChanger
+
+- Version: 1.0.0.1 -> 1.0.0.2
 
 ### Transcendence
 

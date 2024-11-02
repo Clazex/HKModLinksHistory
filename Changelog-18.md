@@ -1,2 +1,34 @@
 # Changelog
 
+
+## New mods
+
+### Charm Changer Rando
+
+- Description: A mod to randomize the settings of Charm Changer
+- Dependencies
+  + Charm Changer
+  + MenuChanger
+  + Randomizer 4
+- Tags
+  + Gameplay
+
+
+## Updated mods
+
+### Archipelago
+
+- Version: 0.6.0.0 -> 0.6.1.0
+
+### Archipelago Map Mod
+
+- Version: 2.2.3.0 -> 2.3.0.0
+
+### Floor is Lava
+
+- Version: 1.0.5.2 -> 1.0.6.0
+
+### Rogue
+
+- Version: 1.0.0.2 -> 1.0.0.5
+

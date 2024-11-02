@@ -310,11 +310,11 @@
   },
   "Arcade Knight": {
     "description": "Adds some minigames.",
-    "version": "0.1.0.0",
+    "version": "0.2.0.0",
     "links": {
       "type": "universal",
-      "sha256": "A757AC8FCC005D5DBAC0A06997F310834774AC4D85FFEE76F1E99840206353D6",
-      "url": "https://github.com/Korzer420/ArcadeKnight/releases/download/v0.1.0/ArcadeKnight.zip"
+      "sha256": "AABAA22C1D373D7DB15A13C1E5D9FD52D6C6D80FA3257FC5A30E788977BD65B3",
+      "url": "https://github.com/Korzer420/ArcadeKnight/releases/download/v0.2.0/ArcadeKnight.zip"
     },
     "dependencies": [
       "KorzUtils"
@@ -1487,11 +1487,11 @@
   },
   "CustomBgm": {
     "description": "Allows customization of background music. See its readme for a how-to.",
-    "version": "1.5.3.1",
+    "version": "1.5.3.2",
     "links": {
       "type": "universal",
-      "sha256": "DB1146368FAC7954A703055B00930242FAE1391AAED1662FA417420D18CED0F5",
-      "url": "https://github.com/SFGrenade/CustomBgm/releases/download/v1.5.3.1/CustomBgm.zip"
+      "sha256": "71AFE8833B9518CD91E3874FEC6909B3CB9D91BDDB3F678D00E47332EB9FD433",
+      "url": "https://github.com/SFGrenade/CustomBgm/releases/download/v1.5.3.2/CustomBgm.zip"
     },
     "dependencies": [],
     "repository": "https://github.com/SFGrenade/CustomBgm/",
@@ -2297,11 +2297,11 @@
   },
   "Exaltation": {
     "description": "Implements the scrapped mechanic of \"charm glorification\": empower your charms by progressing through Godhome.",
-    "version": "2.1.3.0",
+    "version": "2.1.5.0",
     "links": {
       "type": "universal",
-      "sha256": "A7215924EAC7816CD2C798BE09D194986FC8D982118E983A755F151427C1C7C6",
-      "url": "https://github.com/TheodoreChristianRadu/Exaltation/releases/download/2.1.3/Exaltation.zip"
+      "sha256": "A60E44EBF8D70C95657F692DEBAFB325E4DBE533CADDBB19BD78BC532DF8C167",
+      "url": "https://github.com/TheodoreChristianRadu/Exaltation/releases/download/2.1.5/Exaltation.zip"
     },
     "dependencies": [],
     "repository": "https://github.com/TheodoreChristianRadu/Exaltation",
@@ -6103,11 +6103,11 @@
   },
   "SFCore": {
     "description": "Library mod used by other mods.",
-    "version": "1.5.12.4",
+    "version": "1.5.12.5",
     "links": {
       "type": "universal",
-      "sha256": "2E6375507FA9A66CF3A5CDCDFF76FD6CA0E56698B407D236CF8AAF987907DD82",
-      "url": "https://github.com/SFGrenade/SFCore/releases/download/v1.5.12.4/SFCore.zip"
+      "sha256": "86DD4AF71D915627B5008A8407A469DDB620329EDD9D4650C5D9FD85821544BE",
+      "url": "https://github.com/SFGrenade/SFCore/releases/download/v1.5.12.5/SFCore.zip"
     },
     "dependencies": [],
     "repository": "https://github.com/SFGrenade/SFCore/",
@@ -6578,11 +6578,11 @@
   },
   "SpellChanger": {
     "description": "A library mod that aims to allow other mods to edit spells and nail arts more easily.",
-    "version": "1.0.0.1",
+    "version": "1.0.0.2",
     "links": {
       "type": "universal",
-      "sha256": "98FFC49D0932C9C427962E7B493426A967DB114936F10F824F92AE9CAD7BE425",
-      "url": "https://github.com/Samihamer1/Hollow-Knight-SpellChanger/releases/download/v1.0.0.1/SpellChanger1001.zip"
+      "sha256": "E0317D6421623F2ECA099AA5FA01D500899929A7F9C5ADBBB3F6FA40FBE72087",
+      "url": "https://github.com/Samihamer1/Hollow-Knight-SpellChanger/releases/download/v1.0.0.2/SpellChanger1002.zip"
     },
     "dependencies": [
       "Vasi"

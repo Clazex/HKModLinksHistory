@@ -133,6 +133,10 @@ Warning for people streaming this mod: This mod displays your windows/mac/linux 
 
 - Version: 1.1.1.1 -> 1.1.1.2
 
+### CustomBgm
+
+- Version: 1.5.3.1 -> 1.5.3.2
+
 ### ExtraSpells
 
 - Version: 1.0.0.0 -> 1.0.0.1
@@ -177,11 +181,15 @@ Warning for people streaming this mod: This mod displays your windows/mac/linux 
 
 ### SFCore
 
-- Version: 1.5.12.0 -> 1.5.12.4
+- Version: 1.5.12.0 -> 1.5.12.5
 
 ### Sein
 
 - Version: 1.2.3.0 -> 1.2.4.0
+
+### SpellChanger
+
+- Version: 1.0.0.1 -> 1.0.0.2
 
 ### Transcendence
 

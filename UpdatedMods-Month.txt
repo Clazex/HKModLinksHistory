@@ -23,3 +23,8 @@ UnRando
 MidasTouch
 Hollow Knight Achievement Manager
 Transcendence
+Arcade Knight
+CustomBgm
+Exaltation
+SFCore
+SpellChanger
