@@ -299,8 +299,8 @@ Not recommended for use in new mods.</Description>
 <Manifest>
     <Name>MilliGolf</Name>
     <Description>An 18-hole course featuring Millibelle the Golf Ball</Description>
-    <Version>1.2.0.1</Version>
-    <Link SHA256="212C96018308F8F203F246693659B92AB45A9F8805FB99ADCBB98CCA3964E34C"><![CDATA[https://github.com/TheMathGeek314/MilliGolf/releases/download/v1.2.0.1/MilliGolf.zip]]></Link>
+    <Version>1.2.0.2</Version>
+    <Link SHA256="C895C59FE735423F40C5653FFFB1D64F5D22A2941282738D01C25A1AE197623E"><![CDATA[https://github.com/TheMathGeek314/MilliGolf/releases/download/v1.2.0.2/MilliGolf.zip]]></Link>
     <Dependencies>
         <Dependency>Satchel</Dependency>
     </Dependencies>
@@ -7206,9 +7206,9 @@ This is a singleplayer mod. The "teamwork" refers to in-game events.</Descriptio
     <Manifest>
     	<Name>GodhomeRandomizer</Name>
     	<Description>A Randomizer add-on for Godhome elements.</Description>
-    	<Version>2.2.4.5</Version>
-    	<Link SHA256="302049a2fa5d5827eaf2937306c128b906fceaceeffa9954b89d934293924e95">
-	    <![CDATA[https://github.com/nerthul11/GodhomeRandomizer/releases/download/2.2.4.5/GodhomeRandomizer.zip]]>
+    	<Version>2.2.4.6</Version>
+    	<Link SHA256="7b8b2a2f3151b0a788fa2e2f67353014c7a26bae72b76ede6c3aee1b583d0c11">
+	    <![CDATA[https://github.com/nerthul11/GodhomeRandomizer/releases/download/2.2.4.6/GodhomeRandomizer.zip]]>
 	</Link>
 	<Dependencies>
 		<Dependency>ItemChanger</Dependency>

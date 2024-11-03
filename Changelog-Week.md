@@ -21,14 +21,6 @@
 - Dependencies
   + BingoSync
 
-### QuickDive
-
-- Description: A mod that remaps your Quick Cast button to only Dive
-- Dependencies
-  + Satchel
-- Tags
-  + Gameplay
-
 ### ScreenShakeService
 
 - Description: Removes screen shake: Screen Shake Service simply supports slashing Scooped Swordsman&#x27;s (Hollow Knight&#x27;s) superfluous screen shake since said shaking stimulates some souls&#x27; squeamishness.
@@ -48,9 +40,16 @@ Warning for people streaming this mod: This mod displays your windows/mac/linux 
 
 ## Updated mods
 
+### CollectorGlitchRemover
+
+- Version: 1.0.1.0 -> 1.1.0.0
+- Description
+  + Old: Prevents the collector insta-grab glitch.
+  + New: Prevents the &quot;insta-grab&quot; and &quot;sticky feet&quot; Collector glitches.
+
 ### CustomBgm
 
-- Version: 1.5.3.1 -> 1.5.3.2
+- Version: 1.5.3.1 -> 1.5.3.3
 
 ### Exaltation
 
@@ -65,7 +64,7 @@ Warning for people streaming this mod: This mod displays your windows/mac/linux 
 
 ### SFCore
 
-- Version: 1.5.12.4 -> 1.5.12.5
+- Version: 1.5.12.4 -> 1.5.12.6
 
 ### SpellChanger
 

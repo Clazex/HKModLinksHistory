@@ -310,11 +310,11 @@
   },
   "Arcade Knight": {
     "description": "Adds some minigames.",
-    "version": "0.2.0.0",
+    "version": "0.3.0.0",
     "links": {
       "type": "universal",
-      "sha256": "AABAA22C1D373D7DB15A13C1E5D9FD52D6C6D80FA3257FC5A30E788977BD65B3",
-      "url": "https://github.com/Korzer420/ArcadeKnight/releases/download/v0.2.0/ArcadeKnight.zip"
+      "sha256": "4BB3596C2E373A70A23CB1205F4A2C726E285D0AB1863D728A633507C7D89CFC",
+      "url": "https://github.com/Korzer420/ArcadeKnight/releases/download/v0.3.0/ArcadeKnight.zip"
     },
     "dependencies": [
       "KorzUtils"
@@ -1095,12 +1095,12 @@
     ]
   },
   "CollectorGlitchRemover": {
-    "description": "Prevents the collector insta-grab glitch.",
-    "version": "1.0.1.0",
+    "description": "Prevents the \"insta-grab\" and \"sticky feet\" Collector glitches.",
+    "version": "1.1.0.0",
     "links": {
       "type": "universal",
-      "sha256": "C011070932B9204AC4A8A95329BE891A379B3BE2F2B994ADE0D7112F7575BB0B",
-      "url": "https://github.com/EarlyHemisphere/HK.CollectorGlitchRemover/releases/download/v1.0.1/CollectorGlitchRemover.dll"
+      "sha256": "600A03C5478EB13B1B55E2857F7743C84571A3582DACD81862B115AF38CD31C9",
+      "url": "https://github.com/EarlyHemisphere/HK.CollectorGlitchRemover/releases/download/v1.1.0/CollectorGlitchRemover.dll"
     },
     "dependencies": [
       "SFCore"
@@ -1487,11 +1487,11 @@
   },
   "CustomBgm": {
     "description": "Allows customization of background music. See its readme for a how-to.",
-    "version": "1.5.3.2",
+    "version": "1.5.3.3",
     "links": {
       "type": "universal",
-      "sha256": "71AFE8833B9518CD91E3874FEC6909B3CB9D91BDDB3F678D00E47332EB9FD433",
-      "url": "https://github.com/SFGrenade/CustomBgm/releases/download/v1.5.3.2/CustomBgm.zip"
+      "sha256": "4A5FF1DE66BFB088E3D66FC0EDECA4926D3A3CACC128E517A1716759D6679333",
+      "url": "https://github.com/SFGrenade/CustomBgm/releases/download/v1.5.3.3/CustomBgm.zip"
     },
     "dependencies": [],
     "repository": "https://github.com/SFGrenade/CustomBgm/",
@@ -6103,11 +6103,11 @@
   },
   "SFCore": {
     "description": "Library mod used by other mods.",
-    "version": "1.5.12.5",
+    "version": "1.5.12.6",
     "links": {
       "type": "universal",
-      "sha256": "86DD4AF71D915627B5008A8407A469DDB620329EDD9D4650C5D9FD85821544BE",
-      "url": "https://github.com/SFGrenade/SFCore/releases/download/v1.5.12.5/SFCore.zip"
+      "sha256": "5A6FED8AEE9CDA5178953F8610708802ED465CBE98AD59F18B51F231E54626B4",
+      "url": "https://github.com/SFGrenade/SFCore/releases/download/v1.5.12.6/SFCore.zip"
     },
     "dependencies": [],
     "repository": "https://github.com/SFGrenade/SFCore/",

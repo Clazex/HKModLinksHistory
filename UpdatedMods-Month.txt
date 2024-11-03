@@ -28,3 +28,7 @@ CustomBgm
 Exaltation
 SFCore
 SpellChanger
+Arcade Knight
+CollectorGlitchRemover
+CustomBgm
+SFCore

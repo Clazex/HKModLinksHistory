@@ -1,12 +1,13 @@
 # Changelog
 
 
-## New mods
+## Updated mods
 
-### MidasTouch
+### GodhomeRandomizer
 
-- Description: Gorgeous Husk drops a charm that turns enemies to gold
-- Dependencies
-  + SFCore
-  + Satchel
+- Version: 2.2.4.5 -> 2.2.4.6
+
+### MilliGolf
+
+- Version: 1.2.0.1 -> 1.2.0.2
 

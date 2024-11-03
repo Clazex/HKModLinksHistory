@@ -129,13 +129,20 @@ Warning for people streaming this mod: This mod displays your windows/mac/linux 
 
 - Version: 2.2.3.0 -> 2.3.1.0
 
+### CollectorGlitchRemover
+
+- Version: 1.0.1.0 -> 1.1.0.0
+- Description
+  + Old: Prevents the collector insta-grab glitch.
+  + New: Prevents the &quot;insta-grab&quot; and &quot;sticky feet&quot; Collector glitches.
+
 ### Core.FsmUtil
 
 - Version: 1.1.1.1 -> 1.1.1.2
 
 ### CustomBgm
 
-- Version: 1.5.3.1 -> 1.5.3.2
+- Version: 1.5.3.1 -> 1.5.3.3
 
 ### ExtraSpells
 
@@ -181,7 +188,7 @@ Warning for people streaming this mod: This mod displays your windows/mac/linux 
 
 ### SFCore
 
-- Version: 1.5.12.0 -> 1.5.12.5
+- Version: 1.5.12.0 -> 1.5.12.6
 
 ### Sein
 

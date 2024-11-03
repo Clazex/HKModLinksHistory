@@ -1,4 +1,3 @@
-QuickDive
 Hollow Knight Achievement Manager
 ScreenShakeService
 Transcendence
@@ -11,3 +10,7 @@ CustomBgm
 Exaltation
 SFCore
 SpellChanger
+Arcade Knight
+CollectorGlitchRemover
+CustomBgm
+SFCore
