@@ -3,6 +3,67 @@
     xmlns:xsd="http://www.w3.org/2001/XMLSchema"
     xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://raw.githubusercontent.com/HollowKnight-Modding/HollowKnight.ModLinks/main/Schemas/ModLinks.xml">
 <Manifest>
+    <Name>Bonfire</Name>
+    <Description>A level-up system in Hollow Knight for a more realistic Dark Souls experience (a well-known Hollow Knight ripoff).</Description>
+    <Version>2.1.1.0</Version>
+    <Link SHA256="cb25998d344df2c3f83659e36269308870b0181719c3dbf2fc605abd020cecba">
+        <![CDATA[https://github.com/TheodoreChristianRadu/Bonfire/releases/download/2.1.1/Bonfire.zip]]>
+    </Link>
+    <Dependencies />
+    <Repository>
+        <![CDATA[https://github.com/TheodoreChristianRadu/Bonfire]]>
+    </Repository>
+    <Tags>
+        <Tag>Gameplay</Tag>
+    </Tags>
+    <Authors>
+        <Author>ricardosouzag</Author>
+	<Author>Théodore</Author>
+    </Authors>
+</Manifest>
+<Manifest>
+    <Name>Lightbringer</Name>
+    <Description>Major gameplay overhaul: fight your way through Hallownest with a lance of light, brand new charms and radiant spells to seek the binding light that plagues our dreams.</Description>
+    <Version>3.0.1.0</Version>
+    <Link SHA256="9ce3c7d55ee7269f0ff8ce47902855661dbed994bd144b820fbd06150f10dd91">
+        <![CDATA[https://github.com/TheodoreChristianRadu/Lightbringer/releases/download/3.0.1/Lightbringer.zip]]>
+    </Link>
+    <Dependencies />
+    <Repository>
+        <![CDATA[https://github.com/TheodoreChristianRadu/Lightbringer]]>
+    </Repository>
+    <Tags>
+        <Tag>Boss</Tag>
+        <Tag>Expansion</Tag>
+        <Tag>Gameplay</Tag>
+    </Tags>
+    <Authors>
+        <Author>753</Author>
+        <Author>56</Author>
+        <Author>a2659802</Author>
+	<Author>Théodore</Author>
+    </Authors>
+</Manifest>
+<Manifest>
+    <Name>Exaltation</Name>
+    <Description>Implements the scrapped mechanic of "charm glorification": empower your charms by progressing through Godhome.</Description>
+    <Version>2.1.2.0</Version>
+    <Link SHA256="926263c5e11eefe3cf1ba77a79f276888829c96a4b16a00a10b3c709d9e5ab2e">
+        <![CDATA[https://github.com/TheodoreChristianRadu/Exaltation/releases/download/2.1.2/Exaltation.zip]]>
+    </Link>
+    <Dependencies />
+    <Repository>
+        <![CDATA[https://github.com/TheodoreChristianRadu/Exaltation]]>
+    </Repository>
+    <Tags>
+        <Tag>Gameplay</Tag>
+    </Tags>
+    <Authors>
+        <Author>Xhuis</Author>
+	<Author>Théodore</Author>
+    </Authors>
+</Manifest>
+<Manifest>
     <Name>Pale Shadow</Name>
     <Description>Homemade Pure Vessel boss mod.</Description>
     <Version>1.0.0.0</Version>
@@ -25,9 +86,9 @@
 <Manifest>
     <Name>Floor is Lava</Name>
     <Description>Is a floor is lava mod for Hollow Knight</Description>
-    <Version>1.0.5.0</Version>
-    <Link SHA256="9996302A90D079DB9EE54FC7093B19A8E1670D704C72CDAB3C97CB91C9A7D31F">
-      <![CDATA[https://github.com/derkrankesenator/Hollow-Knight-Floor-is-Lava/releases/download/v1.0.5.1/Floor_is_lava.zip]]>
+    <Version>1.0.5.2</Version>
+    <Link SHA256="59487de8aec39e6dd0b93a46d2d9e43e57c587b6c6d0d0ecd33887684f3a7b3d">
+      <![CDATA[https://github.com/derkrankesenator/Hollow-Knight-Floor-is-Lava/releases/download/v1.0.5.2/Floor_is_lava.zip]]>
     </Link>
     <Dependencies>
       <Dependency>MagicUI</Dependency>
@@ -2521,9 +2582,9 @@ Takes hours to load into the game.</Description>
     <Manifest>
         <Name>MoreHealing</Name>
         <Description>Adds more healing charms.</Description>
-        <Version>1.5.2.0</Version>
-        <Link SHA256="F038226A9D2655DF0C9541F7F306DF528D8BF9DA964A995F75CF4F4415DF0BCC">
-            <![CDATA[https://github.com/SFGrenade/MoreHealing/releases/download/v1.5.2/MoreHealing.zip]]>
+        <Version>1.5.3.0</Version>
+        <Link SHA256="5B0C46040E7AE4AA2B6ED3E2272A056FD2E765891EE31F830A95C2AC4ADB59EB">
+            <![CDATA[https://github.com/SFGrenade/MoreHealing/releases/download/v1.5.3/MoreHealing.zip]]>
         </Link>
         <Dependencies>
             <Dependency>SFCore</Dependency>
@@ -2599,6 +2660,26 @@ Enjoy!</Description>
         <Authors>
             <Author>SFGrenade</Author>
             <Author>Zaliant</Author>
+        </Authors>
+    </Manifest>
+    <Manifest>
+        <Name>Peaking Peeking Peaks</Name>
+        <Description>This mods aims to make the Crystal Peak name more memorable.</Description>
+        <Version>1.5.0.0</Version>
+        <Link SHA256="681DABDFBC1DB965496047985C4378FC10D77AEF98B2D1DC5DA38F5B8A39E6BE">
+            <![CDATA[https://github.com/SFGrenade/PeakingPeekingPeaks/releases/download/v1.5/PeakingPeekingPeaks.zip]]>
+        </Link>
+        <Dependencies>
+            <Dependency>SFCore</Dependency>
+        </Dependencies>
+        <Repository>
+            <![CDATA[https://github.com/SFGrenade/PeakingPeekingPeaks/]]>
+        </Repository>
+        <Tags>
+            <Tag>Cosmetic</Tag>
+        </Tags>
+        <Authors>
+            <Author>SFGrenade</Author>
         </Authors>
     </Manifest>
     <Manifest>
@@ -2683,9 +2764,9 @@ Enjoy!</Description>
     <Manifest>
         <Name>SFCore</Name>
         <Description>Library mod used by other mods.</Description>
-        <Version>1.5.12.1</Version>
-        <Link SHA256="FE2EB9C7C0ECED366BFE527D1BE7219EE3CF0A974827EA3811D58ACFBA32295E">
-            <![CDATA[https://github.com/SFGrenade/SFCore/releases/download/v1.5.12.1/SFCore.zip]]>
+        <Version>1.5.12.2</Version>
+        <Link SHA256="3942B46C8888E7CAC78E35A421307217DE616EC35DB723AD999689E9772F67B7">
+            <![CDATA[https://github.com/SFGrenade/SFCore/releases/download/v1.5.12.2/SFCore.zip]]>
         </Link>
         <Dependencies />
         <Repository>

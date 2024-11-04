@@ -5,20 +5,36 @@
 
 ### Arcade Knight
 
-- Version: 0.2.0.0 -> 0.3.0.0
+- Version: 0.3.0.0 -> 0.3.1.0
 
-### CollectorGlitchRemover
+### ESoulLink
 
-- Version: 1.0.1.0 -> 1.1.0.0
+- Version: 1.0.0.0 -> 1.0.1.0
+- Dependencies
+  + Removed
+    - HKMirror
+  + Added
+    - HkmpPouch
+
+### EmoteWheel
+
+- Version: 1.1.0.0 -> 1.1.2.0
 - Description
-  + Old: Prevents the collector insta-grab glitch.
-  + New: Prevents the &quot;insta-grab&quot; and &quot;sticky feet&quot; Collector glitches.
+  + Old: A mod that allows using custom emotes (also works during multiplay if server has HkmpPouch).
+  + New: A mod that allows using custom emotes (also works during multiplay if the server has HkmpPouch).
 
-### CustomBgm
+### GhostHunter
 
-- Version: 1.5.3.2 -> 1.5.3.3
+- Version: 2.0.0.0 -> 2.1.0.0
 
-### SFCore
+### MultiplayerEvents
 
-- Version: 1.5.12.5 -> 1.5.12.6
+- Version: 1.0.0.0 -> 1.0.1.0
+
+### Satchel
+
+- Version: 0.9.1.0 -> 0.9.2.0
+- Description
+  + Old: A bag of tricks for other Mods, does nothing by itself, allows other mods to do cool things.
+  + New: A Satchel is a bag, this one has cool stuff for other mods to use.
 

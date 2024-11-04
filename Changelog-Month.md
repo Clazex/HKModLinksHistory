@@ -144,6 +144,22 @@ Warning for people streaming this mod: This mod displays your windows/mac/linux 
 
 - Version: 1.5.3.1 -> 1.5.3.3
 
+### ESoulLink
+
+- Version: 1.0.0.0 -> 1.0.1.0
+- Dependencies
+  + Removed
+    - HKMirror
+  + Added
+    - HkmpPouch
+
+### EmoteWheel
+
+- Version: 1.1.0.0 -> 1.1.2.0
+- Description
+  + Old: A mod that allows using custom emotes (also works during multiplay if server has HkmpPouch).
+  + New: A mod that allows using custom emotes (also works during multiplay if the server has HkmpPouch).
+
 ### ExtraSpells
 
 - Version: 1.0.0.0 -> 1.0.0.1
@@ -151,13 +167,13 @@ Warning for people streaming this mod: This mod displays your windows/mac/linux 
   + Old: A mod that adds a handful of new spells. Cycle by selecting the spell in the inventory.
   + New: A mod that adds a handful of new spells (and 1-ish nail art). Cycle by selecting the spell in the inventory.
 
+### GhostHunter
+
+- Version: 2.0.0.0 -> 2.1.0.0
+
 ### GodhomeRandomizer
 
 - Version: 2.2.4.5 -> 2.2.4.6
-
-### HkmpPouch
-
-- Version: 1.0.0.0 -> 2.0.0.0
 
 ### Hollow Knight Achievement Manager
 
@@ -174,6 +190,10 @@ Warning for people streaming this mod: This mod displays your windows/mac/linux 
 
 - Version: 1.5.2.0 -> 1.5.3.0
 
+### MultiplayerEvents
+
+- Version: 1.0.0.0 -> 1.0.1.0
+
 ### PlayerTrail
 
 - Version: 1.0.0.1 -> 1.0.0.2
@@ -189,6 +209,13 @@ Warning for people streaming this mod: This mod displays your windows/mac/linux 
 ### SFCore
 
 - Version: 1.5.12.0 -> 1.5.12.6
+
+### Satchel
+
+- Version: 0.9.1.0 -> 0.9.2.0
+- Description
+  + Old: A bag of tricks for other Mods, does nothing by itself, allows other mods to do cool things.
+  + New: A Satchel is a bag, this one has cool stuff for other mods to use.
 
 ### Sein
 

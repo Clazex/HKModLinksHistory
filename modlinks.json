@@ -310,11 +310,11 @@
   },
   "Arcade Knight": {
     "description": "Adds some minigames.",
-    "version": "0.3.0.0",
+    "version": "0.3.1.0",
     "links": {
       "type": "universal",
-      "sha256": "4BB3596C2E373A70A23CB1205F4A2C726E285D0AB1863D728A633507C7D89CFC",
-      "url": "https://github.com/Korzer420/ArcadeKnight/releases/download/v0.3.0/ArcadeKnight.zip"
+      "sha256": "AFD9496E85C3E08F993CB032D1051AB5F80138701A80F68BDAFF103B47475E58",
+      "url": "https://github.com/Korzer420/ArcadeKnight/releases/download/v0.3.1/ArcadeKnight.zip"
     },
     "dependencies": [
       "KorzUtils"
@@ -2114,14 +2114,14 @@
   },
   "ESoulLink": {
     "description": "A Pouch Mod that makes enemies share health over HKMP server.",
-    "version": "1.0.0.0",
+    "version": "1.0.1.0",
     "links": {
       "type": "universal",
-      "sha256": "631F855429B7E727BC3AB8920335958060552F00F45C665EF75A207D9ADDEF44",
-      "url": "https://github.com/PrashantMohta/ESoulLink/releases/download/v1.0.0/ESoulLink.zip"
+      "sha256": "12CCFAA91D3BA69B18ADD3EF318CA529F511CCFEE73394BB3142E0FFE4593D34",
+      "url": "https://github.com/PrashantMohta/ESoulLink/releases/download/v1.0.1/ESoulLink.zip"
     },
     "dependencies": [
-      "HKMirror",
+      "HkmpPouch",
       "Satchel"
     ],
     "repository": "https://github.com/PrashantMohta/ESoulLink/",
@@ -2177,12 +2177,12 @@
     ]
   },
   "EmoteWheel": {
-    "description": "A mod that allows using custom emotes (also works during multiplay if server has HkmpPouch).",
-    "version": "1.1.0.0",
+    "description": "A mod that allows using custom emotes (also works during multiplay if the server has HkmpPouch).",
+    "version": "1.1.2.0",
     "links": {
       "type": "universal",
-      "sha256": "6FE12ADF08F124EB20FFB9FECDD563CD8AFD68F90F24969EE7CD068C190CDE69",
-      "url": "https://github.com/PrashantMohta/EmoteWheel/releases/download/1.1.0/EmoteWheel.zip"
+      "sha256": "30C099D7F08550D0D41D2B3B26D861C7ECB63F7BA7210C810559FE828C1DDEF6",
+      "url": "https://github.com/PrashantMohta/EmoteWheel/releases/download/v1.1.2/EmoteWheel.zip"
     },
     "dependencies": [
       "HkmpPouch",
@@ -2803,11 +2803,11 @@
   },
   "GhostHunter": {
     "description": "A mod that shows the positions of other player's enemies during multiplay.",
-    "version": "2.0.0.0",
+    "version": "2.1.0.0",
     "links": {
       "type": "universal",
-      "sha256": "B3D182F6C0FD42B5F67463278486507490FEE1F1E885865EFDFA0D9392E1E2CE",
-      "url": "https://github.com/PrashantMohta/GhostHunter/releases/download/v2.0.0/GhostHunter.zip"
+      "sha256": "79D2DEF9F295FF2FE865DA3C1DD995560FCED70C40DE69042D9459AAF5DF7063",
+      "url": "https://github.com/PrashantMohta/GhostHunter/releases/download/v2.1.0/GhostHunter.zip"
     },
     "dependencies": [
       "HKMP",
@@ -4745,11 +4745,11 @@
   },
   "MultiplayerEvents": {
     "description": "A mod that adds some Multiplayer interactions.",
-    "version": "1.0.0.0",
+    "version": "1.0.1.0",
     "links": {
       "type": "universal",
-      "sha256": "CA68AB9FEB52C1024F55FD611882E37ECA14F5DBAF130D7F1BE8206349CA53C2",
-      "url": "https://github.com/PrashantMohta/MultiplayerEvents/releases/download/v1.0.0/MultiplayerEvents.zip"
+      "sha256": "00ADC530C7DBA02B617D5895F698F9C272CBD30757046908AFEA84E82572AAE3",
+      "url": "https://github.com/PrashantMohta/MultiplayerEvents/releases/download/v1.0.1/MultiplayerEvents.zip"
     },
     "dependencies": [
       "HkmpPouch",
@@ -6165,12 +6165,12 @@
     "repository": "https://github.com/fifty-six/HollowKnight.Sanic/"
   },
   "Satchel": {
-    "description": "A bag of tricks for other Mods, does nothing by itself, allows other mods to do cool things.",
-    "version": "0.9.1.0",
+    "description": "A Satchel is a bag, this one has cool stuff for other mods to use.",
+    "version": "0.9.2.0",
     "links": {
       "type": "universal",
-      "sha256": "54C52F069B8C3C20BB7EA756C5ABAA7B03F4EBFB9711EC86C7A5AE7090DC8799",
-      "url": "https://github.com/PrashantMohta/Satchel/releases/download/v0.9.1/Satchel.zip"
+      "sha256": "E5B95E79FD2D4BDEA27CB6EB9CD072DC6E78C9E5DD114D5C7AD3CCF39EE191B9",
+      "url": "https://github.com/PrashantMohta/Satchel/releases/download/v0.9.2/Satchel.zip"
     },
     "dependencies": [],
     "repository": "https://github.com/PrashantMohta/Satchel/",

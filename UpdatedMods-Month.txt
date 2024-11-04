@@ -1,4 +1,3 @@
-HkmpPouch
 ExtraSpells
 MilliGolf
 SFCore
@@ -32,3 +31,9 @@ Arcade Knight
 CollectorGlitchRemover
 CustomBgm
 SFCore
+Arcade Knight
+ESoulLink
+EmoteWheel
+GhostHunter
+MultiplayerEvents
+Satchel
