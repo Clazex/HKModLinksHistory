@@ -69,6 +69,10 @@ Warning for people streaming this mod: This mod displays your windows/mac/linux 
 
 - Version: 2.0.0.0 -> 2.1.0.0
 
+### Hollow Knight Achievement Manager
+
+- Version: 1.5.1.0 -> 1.5.2.0
+
 ### MultiplayerEvents
 
 - Version: 1.0.0.0 -> 1.0.1.0
@@ -87,8 +91,4 @@ Warning for people streaming this mod: This mod displays your windows/mac/linux 
 ### SpellChanger
 
 - Version: 1.0.0.1 -> 1.0.0.2
-
-### Transcendence
-
-- Version: 1.5.1.0 -> 1.5.2.0
 

@@ -1,4 +1,3 @@
-Transcendence
 Arcade Knight
 CustomBgm
 Exaltation
@@ -14,3 +13,4 @@ EmoteWheel
 GhostHunter
 MultiplayerEvents
 Satchel
+Hollow Knight Achievement Manager

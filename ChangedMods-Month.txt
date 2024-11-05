@@ -1,4 +1,3 @@
-Floor is Lava
 ExtraSpells
 MilliGolf
 SFCore
@@ -53,3 +52,4 @@ EmoteWheel
 GhostHunter
 MultiplayerEvents
 Satchel
+Hollow Knight Achievement Manager

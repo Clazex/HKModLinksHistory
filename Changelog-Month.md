@@ -49,15 +49,6 @@
 - Tags
   + Gameplay
 
-### Floor is Lava
-
-- Description: Is a floor is lava mod for Hollow Knight
-- Dependencies
-  + MagicUI
-  + Satchel
-- Tags
-  + Gameplay
-
 ### HkmpTransitionAlerts
 
 - Description: An HKMP addon to highlight recently used transitions
@@ -167,6 +158,10 @@ Warning for people streaming this mod: This mod displays your windows/mac/linux 
   + Old: A mod that adds a handful of new spells. Cycle by selecting the spell in the inventory.
   + New: A mod that adds a handful of new spells (and 1-ish nail art). Cycle by selecting the spell in the inventory.
 
+### Floor is Lava
+
+- Version: 1.0.5.0 -> 1.0.6.0
+
 ### GhostHunter
 
 - Version: 2.0.0.0 -> 2.1.0.0
@@ -177,7 +172,7 @@ Warning for people streaming this mod: This mod displays your windows/mac/linux 
 
 ### Hollow Knight Achievement Manager
 
-- Version: 1.5.0.0 -> 1.5.1.0
+- Version: 1.5.0.0 -> 1.5.2.0
 - Description
   + Old: Allows to manage Hollow Knight achievements, both vanilla and modded. Also syncs them with the online store of choice (GOG, Steam, XBox).
   + New: Allows to manage Hollow Knight achievements, both vanilla and modded. Also syncs them with the online store of choice (GOG, Steam, XBox). Also allows to un-/lock menu themes and game modes.
