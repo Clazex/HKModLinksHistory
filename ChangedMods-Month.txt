@@ -1,4 +1,3 @@
-ExtraSpells
 MilliGolf
 SFCore
 Bonfire
@@ -53,3 +52,4 @@ GhostHunter
 MultiplayerEvents
 Satchel
 Hollow Knight Achievement Manager
+AccessRandomizer

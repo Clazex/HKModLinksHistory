@@ -1,4 +1,3 @@
-ExtraSpells
 MilliGolf
 SFCore
 Floor is Lava
@@ -38,3 +37,4 @@ GhostHunter
 MultiplayerEvents
 Satchel
 Hollow Knight Achievement Manager
+AccessRandomizer

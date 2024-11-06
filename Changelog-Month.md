@@ -112,6 +112,10 @@ Warning for people streaming this mod: This mod displays your windows/mac/linux 
 
 ## Updated mods
 
+### AccessRandomizer
+
+- Version: 1.2.4.1 -> 1.2.4.2
+
 ### Archipelago
 
 - Version: 0.6.0.0 -> 0.6.1.0
@@ -150,13 +154,6 @@ Warning for people streaming this mod: This mod displays your windows/mac/linux 
 - Description
   + Old: A mod that allows using custom emotes (also works during multiplay if server has HkmpPouch).
   + New: A mod that allows using custom emotes (also works during multiplay if the server has HkmpPouch).
-
-### ExtraSpells
-
-- Version: 1.0.0.0 -> 1.0.0.1
-- Description
-  + Old: A mod that adds a handful of new spells. Cycle by selecting the spell in the inventory.
-  + New: A mod that adds a handful of new spells (and 1-ish nail art). Cycle by selecting the spell in the inventory.
 
 ### Floor is Lava
 

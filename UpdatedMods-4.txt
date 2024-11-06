@@ -1,5 +1,4 @@
 Arcade Knight
+CollectorGlitchRemover
 CustomBgm
-Exaltation
 SFCore
-SpellChanger
