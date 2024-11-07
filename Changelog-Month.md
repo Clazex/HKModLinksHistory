@@ -114,7 +114,7 @@ Warning for people streaming this mod: This mod displays your windows/mac/linux 
 
 ### AccessRandomizer
 
-- Version: 1.2.4.1 -> 1.2.4.2
+- Version: 1.2.4.1 -> 1.2.4.3
 
 ### Archipelago
 
@@ -124,6 +124,10 @@ Warning for people streaming this mod: This mod displays your windows/mac/linux 
 
 - Version: 2.2.3.0 -> 2.3.1.0
 
+### Breakable Wall Randomizer
+
+- Version: 3.0.2.4 -> 3.0.2.5
+
 ### CollectorGlitchRemover
 
 - Version: 1.0.1.0 -> 1.1.0.0
@@ -131,9 +135,17 @@ Warning for people streaming this mod: This mod displays your windows/mac/linux 
   + Old: Prevents the collector insta-grab glitch.
   + New: Prevents the &quot;insta-grab&quot; and &quot;sticky feet&quot; Collector glitches.
 
+### CombatRandomizer
+
+- Version: 1.1.0.1 -> 1.1.0.2
+
 ### Core.FsmUtil
 
 - Version: 1.1.1.1 -> 1.1.1.2
+
+### Curse Randomizer
+
+- Version: 5.1.1.0 -> 5.1.2.0
 
 ### CustomBgm
 
@@ -165,7 +177,7 @@ Warning for people streaming this mod: This mod displays your windows/mac/linux 
 
 ### GodhomeRandomizer
 
-- Version: 2.2.4.5 -> 2.2.4.6
+- Version: 2.2.4.5 -> 2.2.4.7
 
 ### Hollow Knight Achievement Manager
 
@@ -176,7 +188,7 @@ Warning for people streaming this mod: This mod displays your windows/mac/linux 
 
 ### MilliGolf
 
-- Version: 1.2.0.0 -> 1.2.0.2
+- Version: 1.2.0.1 -> 1.2.0.2
 
 ### MoreHealing
 

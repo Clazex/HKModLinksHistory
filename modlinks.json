@@ -73,11 +73,11 @@
   },
   "AccessRandomizer": {
     "description": "A randomizer add-on for miscellaneous access checks.",
-    "version": "1.2.4.2",
+    "version": "1.2.4.3",
     "links": {
       "type": "universal",
-      "sha256": "C8D1445C3710C593E9360CC00F74E57E88B9828B7363F2A114389BA9DF8FCA8A",
-      "url": "https://github.com/nerthul11/AccessRandomizer/releases/download/1.2.4.2/AccessRandomizer.zip"
+      "sha256": "B1404CFA972D3B981D41EE63F75BFEE1BDBE62226549CF2FF7F9AB9AB1DA9932",
+      "url": "https://github.com/nerthul11/AccessRandomizer/releases/download/1.2.4.3/AccessRandomizer.zip"
     },
     "dependencies": [
       "ItemChanger",
@@ -795,11 +795,11 @@
   },
   "Breakable Wall Randomizer": {
     "description": "A Hollow Knight Randomizer add-on for breakable walls.",
-    "version": "3.0.2.4",
+    "version": "3.0.2.5",
     "links": {
       "type": "universal",
-      "sha256": "A2226DCCC9E6BB42AE525134894D755CED0D87CA44A9602155089C7762E5B211",
-      "url": "https://github.com/nerthul11/BreakableWallRandomizer/releases/download/3.0.2.4/BreakableWallRandomizer.zip"
+      "sha256": "4B81EA91112CC17234A27A7D3E7F4B39FDEB6A2A838E4A74435573B751EE9F87",
+      "url": "https://github.com/nerthul11/BreakableWallRandomizer/releases/download/3.0.2.5/BreakableWallRandomizer.zip"
     },
     "dependencies": [
       "Randomizer 4",
@@ -1115,11 +1115,11 @@
   },
   "CombatRandomizer": {
     "description": "A Randomizer add-on for a cursed combat experience.",
-    "version": "1.1.0.1",
+    "version": "1.1.0.2",
     "links": {
       "type": "universal",
-      "sha256": "93264E4998BF1019FFC0C313110452107EBC238F9292785651B795110BB599A8",
-      "url": "https://github.com/nerthul11/CombatRandomizer/releases/download/1.1.0.1/CombatRandomizer.zip"
+      "sha256": "9994BB7005BA0B08026A119308E339F98924A3D389EB867E78A1E475E01D4B33",
+      "url": "https://github.com/nerthul11/CombatRandomizer/releases/download/1.1.0.2/CombatRandomizer.zip"
     },
     "dependencies": [
       "ItemChanger",
@@ -1406,11 +1406,11 @@
   },
   "Curse Randomizer": {
     "description": "Randomizer 4 connection that adds additional cursed options.",
-    "version": "5.1.1.0",
+    "version": "5.1.2.0",
     "links": {
       "type": "universal",
-      "sha256": "EFBC3E87C7E14EA499393C2F0C4D337F0075E704859DAFD25FEB8F89020E92CB",
-      "url": "https://github.com/Korzer420/CurseRandomizer/releases/download/v5.1.1/CurseRandomizer.zip"
+      "sha256": "4FFEC8653542742FFF5B72086EDE280AF85E740082B6F7706EDD92020089B699",
+      "url": "https://github.com/Korzer420/CurseRandomizer/releases/download/v5.1.2/CurseRandomizer.zip"
     },
     "dependencies": [
       "Benchwarp",
@@ -2908,11 +2908,11 @@
   },
   "GodhomeRandomizer": {
     "description": "A Randomizer add-on for Godhome elements.",
-    "version": "2.2.4.6",
+    "version": "2.2.4.7",
     "links": {
       "type": "universal",
-      "sha256": "7B8B2A2F3151B0A788FA2E2F67353014C7A26BAE72B76EDE6C3AEE1B583D0C11",
-      "url": "https://github.com/nerthul11/GodhomeRandomizer/releases/download/2.2.4.6/GodhomeRandomizer.zip"
+      "sha256": "F5EE815B1C133FECDEBCE8FD4AEA8BA79AC826252705E0B1350835A505DAC6E9",
+      "url": "https://github.com/nerthul11/GodhomeRandomizer/releases/download/2.2.4.7/GodhomeRandomizer.zip"
     },
     "dependencies": [
       "ItemChanger",
@@ -4155,7 +4155,7 @@
     ]
   },
   "Lore Master": {
-    "description": "Adds abilities to lore tablets and certain npc.",
+    "description": "Adds abilities to lore tablets and certain npc. Currently not usable with Randomizer 4!",
     "version": "2.3.3.0",
     "links": {
       "type": "universal",

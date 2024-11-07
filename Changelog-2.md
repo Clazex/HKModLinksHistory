@@ -3,7 +3,7 @@
 
 ## Updated mods
 
-### Hollow Knight Achievement Manager
+### AccessRandomizer
 
-- Version: 1.5.1.0 -> 1.5.2.0
+- Version: 1.2.4.1 -> 1.2.4.2
 
