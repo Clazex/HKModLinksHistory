@@ -1,4 +1,3 @@
-SFCore
 Bonfire
 Exaltation
 Floor is Lava

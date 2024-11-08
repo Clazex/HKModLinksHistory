@@ -1,4 +1,2 @@
-Archipelago
-Archipelago Map Mod
-Floor is Lava
-Rogue
+Bonfire
+Exaltation

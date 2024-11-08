@@ -212,7 +212,7 @@ Warning for people streaming this mod: This mod displays your windows/mac/linux 
 
 ### SFCore
 
-- Version: 1.5.12.0 -> 1.5.12.6
+- Version: 1.5.12.1 -> 1.5.12.6
 
 ### Satchel
 

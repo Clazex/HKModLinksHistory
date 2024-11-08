@@ -9,7 +9,7 @@
 
 ### Arcade Knight
 
-- Version: 0.1.0.0 -> 0.3.1.0
+- Version: 0.2.0.0 -> 0.3.1.0
 
 ### Breakable Wall Randomizer
 
@@ -32,7 +32,7 @@
 
 ### CustomBgm
 
-- Version: 1.5.3.1 -> 1.5.3.3
+- Version: 1.5.3.2 -> 1.5.3.3
 
 ### ESoulLink
 
@@ -49,10 +49,6 @@
 - Description
   + Old: A mod that allows using custom emotes (also works during multiplay if server has HkmpPouch).
   + New: A mod that allows using custom emotes (also works during multiplay if the server has HkmpPouch).
-
-### Exaltation
-
-- Version: 2.1.3.0 -> 2.1.5.0
 
 ### GhostHunter
 
@@ -72,7 +68,7 @@
 
 ### SFCore
 
-- Version: 1.5.12.4 -> 1.5.12.6
+- Version: 1.5.12.5 -> 1.5.12.6
 
 ### Satchel
 
@@ -80,8 +76,4 @@
 - Description
   + Old: A bag of tricks for other Mods, does nothing by itself, allows other mods to do cool things.
   + New: A Satchel is a bag, this one has cool stuff for other mods to use.
-
-### SpellChanger
-
-- Version: 1.0.0.1 -> 1.0.0.2
 
