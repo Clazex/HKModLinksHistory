@@ -15,17 +15,15 @@
 - Tags
   + Gameplay
 
+### Archiv
+
+- Description: Something is amiss in Teacher&#x27;s Archives
+
 ### BingoGoalPack2
 
 - Description: Adds more granular specifications for custom BingoSync challenges
 - Dependencies
   + BingoSync
-
-### Bonfire
-
-- Description: A level-up system in Hollow Knight for a more realistic Dark Souls experience (a well-known Hollow Knight ripoff).
-- Tags
-  + Gameplay
 
 ### Charm Changer Rando
 
@@ -43,9 +41,14 @@
 - Dependencies
   + Satchel
 
-### Exaltation
+### FlowerRandomizer
 
-- Description: Implements the scrapped mechanic of &quot;charm glorification&quot;: empower your charms by progressing through Godhome.
+- Description: A Hollow Knight Randomizer add-on for flower quest lovers.
+- Dependencies
+  + ItemChanger
+  + MenuChanger
+  + Randomizer 4
+  + Satchel
 - Tags
   + Gameplay
 
@@ -62,28 +65,12 @@
 - Dependencies
   + Satchel
 
-### Lightbringer
-
-- Description: Major gameplay overhaul: fight your way through Hallownest with a lance of light, brand new charms and radiant spells to seek the binding light that plagues our dreams.
-- Tags
-  + Boss
-  + Expansion
-  + Gameplay
-
 ### MidasTouch
 
 - Description: Gorgeous Husk drops a charm that turns enemies to gold
 - Dependencies
   + SFCore
   + Satchel
-
-### Peaking Peeking Peaks
-
-- Description: This mods aims to make the Crystal Peak name more memorable.
-- Dependencies
-  + SFCore
-- Tags
-  + Cosmetic
 
 ### QuickDive
 
@@ -124,6 +111,10 @@ Warning for people streaming this mod: This mod displays your windows/mac/linux 
 
 - Version: 2.2.3.0 -> 2.3.1.0
 
+### Bonfire
+
+- Version: 2.1.1.0 -> 3.0.1.0
+
 ### Breakable Wall Randomizer
 
 - Version: 3.0.2.4 -> 3.0.2.5
@@ -141,7 +132,7 @@ Warning for people streaming this mod: This mod displays your windows/mac/linux 
 
 ### Core.FsmUtil
 
-- Version: 1.1.1.1 -> 1.1.1.2
+- Version: 1.1.1.1 -> 1.1.2.0
 
 ### Curse Randomizer
 
@@ -167,9 +158,13 @@ Warning for people streaming this mod: This mod displays your windows/mac/linux 
   + Old: A mod that allows using custom emotes (also works during multiplay if server has HkmpPouch).
   + New: A mod that allows using custom emotes (also works during multiplay if the server has HkmpPouch).
 
+### Exaltation
+
+- Version: 2.1.2.0 -> 2.1.5.0
+
 ### Floor is Lava
 
-- Version: 1.0.5.0 -> 1.0.6.0
+- Version: 1.0.5.2 -> 1.0.6.0
 
 ### GhostHunter
 
@@ -190,10 +185,6 @@ Warning for people streaming this mod: This mod displays your windows/mac/linux 
 
 - Version: 1.2.0.1 -> 1.2.0.2
 
-### MoreHealing
-
-- Version: 1.5.2.0 -> 1.5.3.0
-
 ### MultiplayerEvents
 
 - Version: 1.0.0.0 -> 1.0.1.0
@@ -212,7 +203,7 @@ Warning for people streaming this mod: This mod displays your windows/mac/linux 
 
 ### SFCore
 
-- Version: 1.5.12.1 -> 1.5.12.6
+- Version: 1.5.12.2 -> 1.5.13.0
 
 ### Satchel
 

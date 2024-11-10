@@ -1,7 +1,3 @@
-Bonfire
-Exaltation
-Lightbringer
-Peaking Peeking Peaks
 Charm Changer Rando
 CycloneCopter
 HkmpTransitionAlerts
@@ -13,3 +9,5 @@ Arcade Knight
 BingoGoalPack2
 Stories of a HK player - Chapter 2
 AlwaysWorldSense
+Archiv
+FlowerRandomizer

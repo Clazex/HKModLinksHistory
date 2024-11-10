@@ -371,6 +371,20 @@
       "Utility"
     ]
   },
+  "Archiv": {
+    "description": "Something is amiss in Teacher's Archives",
+    "version": "1.0.0.0",
+    "links": {
+      "type": "universal",
+      "sha256": "75044378EFBE675639056A87A5A54D50947B7E11E50B7C084E04037F8AFB3F62",
+      "url": "https://github.com/TheMathGeek314/Archiv/releases/download/v1.0.0.0/Archiv.zip"
+    },
+    "dependencies": [],
+    "repository": "https://github.com/TheMathGeek314/Archiv/",
+    "authors": [
+      "TheMathGeek_314"
+    ]
+  },
   "AsciiCamera": {
     "description": "Applies a shader to the camera which makes the game output as ascii characters.",
     "version": "2.2.0.0",
@@ -1269,11 +1283,11 @@
   },
   "Core.FsmUtil": {
     "description": "A library mod for fsm editing.",
-    "version": "1.1.1.2",
+    "version": "1.1.2.0",
     "links": {
       "type": "universal",
-      "sha256": "7B3CA78BA511CE9F92325D593615791D75639A4D5E1E7E6F40F78F58602FA0E4",
-      "url": "https://github.com/hk-modding/HK.Core.FsmUtil/releases/download/v1.1.1.2/Core_FsmUtil.zip"
+      "sha256": "AC4B2CCF21E3CBDD998F8F069460F18CDF2DAF8D0F64177D50D9328A6FD04691",
+      "url": "https://github.com/hk-modding/HK.Core.FsmUtil/releases/download/v1.1.2/Core_FsmUtil.zip"
     },
     "dependencies": [],
     "repository": "https://github.com/hk-modding/HK.Core.FsmUtil",
@@ -2581,6 +2595,29 @@
     ],
     "authors": [
       "derkrankesenator"
+    ]
+  },
+  "FlowerRandomizer": {
+    "description": "A Hollow Knight Randomizer add-on for flower quest lovers.",
+    "version": "1.0.0.0",
+    "links": {
+      "type": "universal",
+      "sha256": "1B8F58D7490E0C4813A78AD830F887B4868BA0B82FC62EBEB3C67713EB0D994D",
+      "url": "https://github.com/nerthul11/FlowerRandomizer/releases/download/1.0.0.0/FlowerRandomizer.zip"
+    },
+    "dependencies": [
+      "ItemChanger",
+      "MenuChanger",
+      "Randomizer 4",
+      "Satchel"
+    ],
+    "repository": "https://github.com/nerthul11/FlowerRandomizer",
+    "issues": "https://github.com/nerthul11/FlowerRandomizer/issues",
+    "tags": [
+      "Gameplay"
+    ],
+    "authors": [
+      "nerthul11"
     ]
   },
   "FountainPreview": {
@@ -6103,11 +6140,11 @@
   },
   "SFCore": {
     "description": "Library mod used by other mods.",
-    "version": "1.5.12.6",
+    "version": "1.5.13.0",
     "links": {
       "type": "universal",
-      "sha256": "5A6FED8AEE9CDA5178953F8610708802ED465CBE98AD59F18B51F231E54626B4",
-      "url": "https://github.com/SFGrenade/SFCore/releases/download/v1.5.12.6/SFCore.zip"
+      "sha256": "D4474F460F4C3CB0797A0CBFE42B541AFCE5B17AC40F361321F911F8BA21A33E",
+      "url": "https://github.com/SFGrenade/SFCore/releases/download/v1.5.13/SFCore.zip"
     },
     "dependencies": [],
     "repository": "https://github.com/SFGrenade/SFCore/",

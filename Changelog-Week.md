@@ -1,15 +1,29 @@
 # Changelog
 
 
+## New mods
+
+### Archiv
+
+- Description: Something is amiss in Teacher&#x27;s Archives
+
+### FlowerRandomizer
+
+- Description: A Hollow Knight Randomizer add-on for flower quest lovers.
+- Dependencies
+  + ItemChanger
+  + MenuChanger
+  + Randomizer 4
+  + Satchel
+- Tags
+  + Gameplay
+
+
 ## Updated mods
 
 ### AccessRandomizer
 
 - Version: 1.2.4.1 -> 1.2.4.3
-
-### Arcade Knight
-
-- Version: 0.3.0.0 -> 0.3.1.0
 
 ### Breakable Wall Randomizer
 
@@ -19,29 +33,13 @@
 
 - Version: 1.1.0.1 -> 1.1.0.2
 
+### Core.FsmUtil
+
+- Version: 1.1.1.2 -> 1.1.2.0
+
 ### Curse Randomizer
 
 - Version: 5.1.1.0 -> 5.1.2.0
-
-### ESoulLink
-
-- Version: 1.0.0.0 -> 1.0.1.0
-- Dependencies
-  + Removed
-    - HKMirror
-  + Added
-    - HkmpPouch
-
-### EmoteWheel
-
-- Version: 1.1.0.0 -> 1.1.2.0
-- Description
-  + Old: A mod that allows using custom emotes (also works during multiplay if server has HkmpPouch).
-  + New: A mod that allows using custom emotes (also works during multiplay if the server has HkmpPouch).
-
-### GhostHunter
-
-- Version: 2.0.0.0 -> 2.1.0.0
 
 ### GodhomeRandomizer
 
@@ -51,14 +49,7 @@
 
 - Version: 1.5.1.0 -> 1.5.2.0
 
-### MultiplayerEvents
+### SFCore
 
-- Version: 1.0.0.0 -> 1.0.1.0
-
-### Satchel
-
-- Version: 0.9.1.0 -> 0.9.2.0
-- Description
-  + Old: A bag of tricks for other Mods, does nothing by itself, allows other mods to do cool things.
-  + New: A Satchel is a bag, this one has cool stuff for other mods to use.
+- Version: 1.5.12.6 -> 1.5.13.0
 
