@@ -40,3 +40,4 @@ Curse Randomizer
 GodhomeRandomizer
 Core.FsmUtil
 SFCore
+Charm Changer Rando

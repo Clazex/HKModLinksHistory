@@ -1,4 +1,3 @@
-Hollow Knight Achievement Manager
 AccessRandomizer
 AccessRandomizer
 Breakable Wall Randomizer
@@ -7,3 +6,4 @@ Curse Randomizer
 GodhomeRandomizer
 Core.FsmUtil
 SFCore
+Charm Changer Rando

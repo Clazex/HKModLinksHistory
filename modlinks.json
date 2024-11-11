@@ -1029,11 +1029,11 @@
   },
   "Charm Changer Rando": {
     "description": "A mod to randomize the settings of Charm Changer",
-    "version": "1.0.0.0",
+    "version": "1.1.0.0",
     "links": {
       "type": "universal",
-      "sha256": "AB5A9219713744AEB0B9EE63996F15A9043C0050A22D20CD14F6CE8EF6461163",
-      "url": "https://github.com/BestBardTopNA/CharmChangerRando/releases/download/v1/CharmChangerRando.zip"
+      "sha256": "50683B961BC0EC55E9CEFC22C5AAD12FB72A037C0FC35F67E8EDD8DC346C9AF8",
+      "url": "https://github.com/BestBardTopNA/CharmChangerRando/releases/download/v1.1/CharmChangerRando.zip"
     },
     "dependencies": [
       "Charm Changer",
@@ -1439,13 +1439,13 @@
       "Korz"
     ]
   },
-  "CursedMod 🕶": {
+  "CursedMod": {
     "description": "This mod does miscellaneous stuff. Like making the game window be dark mode on windows.",
-    "version": "1.0.0.0",
+    "version": "1.5.0.0",
     "links": {
       "type": "universal",
-      "sha256": "C88CB6C2BB3BFEA39999627204A84173FE5B2750535255AB8C7BBA7AB2DDDE6A",
-      "url": "https://github.com/SFGrenade/CursedMod/releases/download/v1/CursedMod.zip"
+      "sha256": "B815042B3828AFCB90808331E72AA8E929369114FDB76906943C3D5799989F04",
+      "url": "https://github.com/SFGrenade/CursedMod/releases/download/v1.5/CursedMod.zip"
     },
     "dependencies": [],
     "repository": "https://github.com/SFGrenade/CursedMod/",
@@ -6798,6 +6798,25 @@
     "authors": [
       "HelenSB",
       "SFGrenade"
+    ]
+  },
+  "Sunset Rad": {
+    "description": "Modded Radiance",
+    "version": "1.0.0.0",
+    "links": {
+      "type": "universal",
+      "sha256": "B01A0AA751A451B914E0164BD960B36705B34E5134C8A2B3D7A163103A26BA47",
+      "url": "https://github.com/ROTTEN108/Sunset-Rad/releases/download/1.0.0.0/SUNSET.Rad.dll"
+    },
+    "dependencies": [
+      "Vasi"
+    ],
+    "repository": "https://github.com/ROTTEN108/SunSet-Rad",
+    "tags": [
+      "Boss"
+    ],
+    "authors": [
+      "ROTTEN108"
     ]
   },
   "Test of Teamwork": {

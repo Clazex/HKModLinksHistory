@@ -7,6 +7,12 @@
 
 - Description: Something is amiss in Teacher&#x27;s Archives
 
+### CursedMod
+
+- Description: This mod does miscellaneous stuff. Like making the game window be dark mode on windows.
+- Tags
+  + Utility
+
 ### FlowerRandomizer
 
 - Description: A Hollow Knight Randomizer add-on for flower quest lovers.
@@ -18,6 +24,19 @@
 - Tags
   + Gameplay
 
+### Sunset Rad
+
+- Description: Modded Radiance
+- Dependencies
+  + Vasi
+- Tags
+  + Boss
+
+
+## Removed mods
+
+- CursedMod 🕶
+
 
 ## Updated mods
 
@@ -28,6 +47,10 @@
 ### Breakable Wall Randomizer
 
 - Version: 3.0.2.4 -> 3.0.2.5
+
+### Charm Changer Rando
+
+- Version: 1.0.0.0 -> 1.1.0.0
 
 ### CombatRandomizer
 
@@ -44,10 +67,6 @@
 ### GodhomeRandomizer
 
 - Version: 2.2.4.6 -> 2.2.4.7
-
-### Hollow Knight Achievement Manager
-
-- Version: 1.5.1.0 -> 1.5.2.0
 
 ### SFCore
 

@@ -35,6 +35,12 @@
 - Tags
   + Gameplay
 
+### CursedMod
+
+- Description: This mod does miscellaneous stuff. Like making the game window be dark mode on windows.
+- Tags
+  + Utility
+
 ### CycloneCopter
 
 - Description: Extend your cyclone to achieve liftoff
@@ -95,6 +101,19 @@ Warning for people streaming this mod: This mod displays your windows/mac/linux 
 - Tags
   + Expansion
   + Gameplay
+
+### Sunset Rad
+
+- Description: Modded Radiance
+- Dependencies
+  + Vasi
+- Tags
+  + Boss
+
+
+## Removed mods
+
+- CursedMod 🕶
 
 
 ## Updated mods
