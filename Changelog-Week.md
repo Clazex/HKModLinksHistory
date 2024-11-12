@@ -28,6 +28,7 @@
 
 - Description: Modded Radiance
 - Dependencies
+  + HKMirror
   + Vasi
 - Tags
   + Boss
@@ -42,7 +43,7 @@
 
 ### AccessRandomizer
 
-- Version: 1.2.4.1 -> 1.2.4.3
+- Version: 1.2.4.2 -> 1.2.4.3
 
 ### Breakable Wall Randomizer
 

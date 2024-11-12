@@ -1,4 +1,3 @@
-Core.FsmUtil
 Archipelago
 Archipelago Map Mod
 Floor is Lava
@@ -41,3 +40,4 @@ GodhomeRandomizer
 Core.FsmUtil
 SFCore
 Charm Changer Rando
+Sunset Rad

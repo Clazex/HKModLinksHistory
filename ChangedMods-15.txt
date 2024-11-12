@@ -1,1 +1,2 @@
-QuickDive
+Hollow Knight Achievement Manager
+ScreenShakeService

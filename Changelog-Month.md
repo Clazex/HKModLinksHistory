@@ -106,6 +106,7 @@ Warning for people streaming this mod: This mod displays your windows/mac/linux 
 
 - Description: Modded Radiance
 - Dependencies
+  + HKMirror
   + Vasi
 - Tags
   + Boss
@@ -151,7 +152,7 @@ Warning for people streaming this mod: This mod displays your windows/mac/linux 
 
 ### Core.FsmUtil
 
-- Version: 1.1.1.1 -> 1.1.2.0
+- Version: 1.1.1.2 -> 1.1.2.0
 
 ### Curse Randomizer
 

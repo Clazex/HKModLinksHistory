@@ -6802,13 +6802,14 @@
   },
   "Sunset Rad": {
     "description": "Modded Radiance",
-    "version": "1.0.0.0",
+    "version": "1.0.0.1",
     "links": {
       "type": "universal",
-      "sha256": "B01A0AA751A451B914E0164BD960B36705B34E5134C8A2B3D7A163103A26BA47",
-      "url": "https://github.com/ROTTEN108/Sunset-Rad/releases/download/1.0.0.0/SUNSET.Rad.dll"
+      "sha256": "E723866E1F2EE2E023A7901F423CDDA437A537ACC8FAF9E84EF7C0FC150B1BB9",
+      "url": "https://github.com/ROTTEN108/Sunset-Rad/releases/download/1.0.0.1/SUNSET.Rad.dll"
     },
     "dependencies": [
+      "HKMirror",
       "Vasi"
     ],
     "repository": "https://github.com/ROTTEN108/SunSet-Rad",

@@ -1,4 +1,3 @@
-Core.FsmUtil
 Archipelago
 Archipelago Map Mod
 Charm Changer Rando
@@ -55,4 +54,5 @@ FlowerRandomizer
 SFCore
 Charm Changer Rando
 CursedMod
+Sunset Rad
 Sunset Rad

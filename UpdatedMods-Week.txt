@@ -1,5 +1,4 @@
 AccessRandomizer
-AccessRandomizer
 Breakable Wall Randomizer
 CombatRandomizer
 Curse Randomizer
@@ -7,3 +6,4 @@ GodhomeRandomizer
 Core.FsmUtil
 SFCore
 Charm Changer Rando
+Sunset Rad

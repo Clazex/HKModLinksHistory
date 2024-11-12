@@ -1,5 +1,4 @@
 AccessRandomizer
-AccessRandomizer
 Breakable Wall Randomizer
 CombatRandomizer
 Curse Randomizer
@@ -10,4 +9,5 @@ FlowerRandomizer
 SFCore
 Charm Changer Rando
 CursedMod
+Sunset Rad
 Sunset Rad
