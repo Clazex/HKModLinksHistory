@@ -25,16 +25,6 @@
 - Dependencies
   + BingoSync
 
-### Charm Changer Rando
-
-- Description: A mod to randomize the settings of Charm Changer
-- Dependencies
-  + Charm Changer
-  + MenuChanger
-  + Randomizer 4
-- Tags
-  + Gameplay
-
 ### CursedMod
 
 - Description: This mod does miscellaneous stuff. Like making the game window be dark mode on windows.
@@ -123,13 +113,9 @@ Warning for people streaming this mod: This mod displays your windows/mac/linux 
 
 - Version: 1.2.4.1 -> 1.2.4.3
 
-### Archipelago
-
-- Version: 0.6.0.0 -> 0.6.1.0
-
 ### Archipelago Map Mod
 
-- Version: 2.2.3.0 -> 2.3.1.0
+- Version: 2.3.0.0 -> 2.3.1.0
 
 ### Bonfire
 
@@ -138,6 +124,10 @@ Warning for people streaming this mod: This mod displays your windows/mac/linux 
 ### Breakable Wall Randomizer
 
 - Version: 3.0.2.4 -> 3.0.2.5
+
+### Charm Changer Rando
+
+- Version: 1.0.0.0 -> 1.1.0.0
 
 ### CollectorGlitchRemover
 
@@ -182,10 +172,6 @@ Warning for people streaming this mod: This mod displays your windows/mac/linux 
 
 - Version: 2.1.2.0 -> 2.1.5.0
 
-### Floor is Lava
-
-- Version: 1.0.5.2 -> 1.0.6.0
-
 ### GhostHunter
 
 - Version: 2.0.0.0 -> 2.1.0.0
@@ -216,10 +202,6 @@ Warning for people streaming this mod: This mod displays your windows/mac/linux 
 ### PurenailCore
 
 - Version: 1.2.3.0 -> 1.2.4.0
-
-### Rogue
-
-- Version: 1.0.0.2 -> 1.0.0.5
 
 ### SFCore
 

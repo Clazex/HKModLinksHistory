@@ -1,4 +1,3 @@
-Charm Changer Rando
 CycloneCopter
 HkmpTransitionAlerts
 MidasTouch

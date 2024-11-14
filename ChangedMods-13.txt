@@ -1,1 +1,5 @@
-AlwaysWorldSense
+Arcade Knight
+CustomBgm
+Exaltation
+SFCore
+SpellChanger
