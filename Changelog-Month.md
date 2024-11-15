@@ -117,10 +117,6 @@ Warning for people streaming this mod: This mod displays your windows/mac/linux 
 
 - Version: 2.3.0.0 -> 2.3.1.0
 
-### Bonfire
-
-- Version: 2.1.1.0 -> 3.0.1.0
-
 ### Breakable Wall Randomizer
 
 - Version: 3.0.2.4 -> 3.0.2.5
@@ -170,7 +166,7 @@ Warning for people streaming this mod: This mod displays your windows/mac/linux 
 
 ### Exaltation
 
-- Version: 2.1.2.0 -> 2.1.5.0
+- Version: 2.1.3.0 -> 2.1.5.0
 
 ### GhostHunter
 
