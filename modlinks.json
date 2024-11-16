@@ -620,11 +620,11 @@
   },
   "BingoGoalPack1": {
     "description": "Adds more goals to BingoSync and includes new board types",
-    "version": "1.5.0.0",
+    "version": "1.5.1.0",
     "links": {
       "type": "universal",
-      "sha256": "2A30B8938FF5C667F8C5F88EF62F045CBA4A053A7612322A09DFB861A204592E",
-      "url": "https://github.com/TheMathGeek314/BingoGoalPack1/releases/download/v1.5.0.0/BingoGoalPack1.zip"
+      "sha256": "06052B7B931D326B2C0CE252CE200160AD7CD6C79D1DE196462E92E707E21F39",
+      "url": "https://github.com/TheMathGeek314/BingoGoalPack1/releases/download/v1.5.1.0/BingoGoalPack1.zip"
     },
     "dependencies": [
       "BingoSync",
@@ -639,11 +639,11 @@
   },
   "BingoGoalPack2": {
     "description": "Adds more granular specifications for custom BingoSync challenges",
-    "version": "1.0.0.0",
+    "version": "1.0.1.0",
     "links": {
       "type": "universal",
-      "sha256": "E709512EADABE66D870D084C9EE3E65857B9FF2E2A127B2DD2CA3295FC7C2171",
-      "url": "https://github.com/TheMathGeek314/BingoGoalPack2/releases/download/v1.0.0.0/BingoGoalPack2.zip"
+      "sha256": "C94F5A6A3E560D6288A7B79A42DDC6883C3D55C2B3A16E79ABE9878803530CAF",
+      "url": "https://github.com/TheMathGeek314/BingoGoalPack2/releases/download/v1.0.1.0/BingoGoalPack2.zip"
     },
     "dependencies": [
       "BingoSync"

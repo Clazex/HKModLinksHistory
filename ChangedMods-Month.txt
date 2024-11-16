@@ -49,3 +49,5 @@ Charm Changer Rando
 CursedMod
 Sunset Rad
 Sunset Rad
+BingoGoalPack1
+BingoGoalPack2

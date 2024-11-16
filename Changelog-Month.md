@@ -117,6 +117,10 @@ Warning for people streaming this mod: This mod displays your windows/mac/linux 
 
 - Version: 2.3.0.0 -> 2.3.1.0
 
+### BingoGoalPack1
+
+- Version: 1.5.0.0 -> 1.5.1.0
+
 ### Breakable Wall Randomizer
 
 - Version: 3.0.2.4 -> 3.0.2.5
