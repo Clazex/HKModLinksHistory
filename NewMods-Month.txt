@@ -1,4 +1,3 @@
-CycloneCopter
 HkmpTransitionAlerts
 MidasTouch
 KeybindOverhaul

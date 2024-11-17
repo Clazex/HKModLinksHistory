@@ -31,12 +31,6 @@
 - Tags
   + Utility
 
-### CycloneCopter
-
-- Description: Extend your cyclone to achieve liftoff
-- Dependencies
-  + Satchel
-
 ### FlowerRandomizer
 
 - Description: A Hollow Knight Randomizer add-on for flower quest lovers.
@@ -203,9 +197,13 @@ Warning for people streaming this mod: This mod displays your windows/mac/linux 
 
 - Version: 1.2.3.0 -> 1.2.4.0
 
+### RadiantMenu
+
+- Version: 1.5.1.0 -> 1.5.2.0
+
 ### SFCore
 
-- Version: 1.5.12.2 -> 1.5.13.0
+- Version: 1.5.12.2 -> 1.5.14.0
 
 ### Satchel
 

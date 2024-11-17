@@ -5634,11 +5634,11 @@
   },
   "RadiantMenu": {
     "description": "Adds a radiant menu theme to the game.",
-    "version": "1.5.1.0",
+    "version": "1.5.2.0",
     "links": {
       "type": "universal",
-      "sha256": "2ED557F56C42DADF70163DB9E12A420FB870EAF373B0025EF5FF963065FA4EE9",
-      "url": "https://github.com/SFGrenade/RadiantMenu/releases/download/v1.5.1/RadiantMenu.zip"
+      "sha256": "DCE52F62E5B7FBF3AFA42D4CF0E7A8DC9DF2FD0A0DFDEED490A55EF6DF531983",
+      "url": "https://github.com/SFGrenade/RadiantMenu/releases/download/v1.5.2/RadiantMenu.zip"
     },
     "dependencies": [
       "SFCore"
@@ -6140,11 +6140,11 @@
   },
   "SFCore": {
     "description": "Library mod used by other mods.",
-    "version": "1.5.13.0",
+    "version": "1.5.14.0",
     "links": {
       "type": "universal",
-      "sha256": "D4474F460F4C3CB0797A0CBFE42B541AFCE5B17AC40F361321F911F8BA21A33E",
-      "url": "https://github.com/SFGrenade/SFCore/releases/download/v1.5.13/SFCore.zip"
+      "sha256": "AF71D99EE4711518032B15B495317090641F6E2EF90F0CF0243D7048413B18BC",
+      "url": "https://github.com/SFGrenade/SFCore/releases/download/v1.5.14/SFCore.zip"
     },
     "dependencies": [],
     "repository": "https://github.com/SFGrenade/SFCore/",

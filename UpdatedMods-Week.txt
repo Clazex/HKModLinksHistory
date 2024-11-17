@@ -1,4 +1,5 @@
-Charm Changer Rando
 Sunset Rad
 BingoGoalPack1
 BingoGoalPack2
+RadiantMenu
+SFCore

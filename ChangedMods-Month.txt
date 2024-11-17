@@ -1,4 +1,3 @@
-CycloneCopter
 HkmpTransitionAlerts
 PlayerTrail
 Archipelago Map Mod
@@ -51,3 +50,5 @@ Sunset Rad
 Sunset Rad
 BingoGoalPack1
 BingoGoalPack2
+RadiantMenu
+SFCore
