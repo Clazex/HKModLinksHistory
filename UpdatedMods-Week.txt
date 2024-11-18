@@ -1,5 +1,6 @@
-Sunset Rad
 BingoGoalPack1
 BingoGoalPack2
 RadiantMenu
 SFCore
+BingoGoalPack1
+HKMP Tag

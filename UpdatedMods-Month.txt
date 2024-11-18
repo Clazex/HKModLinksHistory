@@ -1,4 +1,3 @@
-PlayerTrail
 Archipelago Map Mod
 SFCore
 GodhomeRandomizer
@@ -39,3 +38,5 @@ BingoGoalPack1
 BingoGoalPack2
 RadiantMenu
 SFCore
+BingoGoalPack1
+HKMP Tag

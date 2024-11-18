@@ -620,11 +620,11 @@
   },
   "BingoGoalPack1": {
     "description": "Adds more goals to BingoSync and includes new board types",
-    "version": "1.5.1.0",
+    "version": "1.5.1.1",
     "links": {
       "type": "universal",
-      "sha256": "06052B7B931D326B2C0CE252CE200160AD7CD6C79D1DE196462E92E707E21F39",
-      "url": "https://github.com/TheMathGeek314/BingoGoalPack1/releases/download/v1.5.1.0/BingoGoalPack1.zip"
+      "sha256": "342A23B444C6D9100124CBC210BC0E84E3E152E78BB3ECA82C451F6DE723CD01",
+      "url": "https://github.com/TheMathGeek314/BingoGoalPack1/releases/download/v1.5.1.1/BingoGoalPack1.zip"
     },
     "dependencies": [
       "BingoSync",
@@ -3254,11 +3254,11 @@
   },
   "HKMP Tag": {
     "description": "An HKMP addon that adds the tag game-mode.",
-    "version": "2.3.1.0",
+    "version": "2.3.2.0",
     "links": {
       "type": "universal",
-      "sha256": "6B37E33012C3392CA0DD6855A3A9B5E3EC460A868D5D769087063F62D623C7B9",
-      "url": "https://github.com/Extremelyd1/HKMP.Tag/releases/download/v2.3.1/HKMPTag.dll"
+      "sha256": "2F7A9779564438E4D2ADD7A0EDBC011EFD694653AB2A290F94B692383E787E56",
+      "url": "https://github.com/Extremelyd1/HKMP.Tag/releases/download/v2.3.2/HKMPTag.zip"
     },
     "dependencies": [
       "HKMP"
@@ -6818,6 +6818,22 @@
     ],
     "authors": [
       "ROTTEN108"
+    ]
+  },
+  "Taxes": {
+    "description": "All your geo means all your geo",
+    "version": "1.0.0.0",
+    "links": {
+      "type": "universal",
+      "sha256": "8B946606AA4A0DC303D7E25187A66F8AEA3B0CF32B0585DBD55ADF2D6D81AE10",
+      "url": "https://github.com/TheMathGeek314/Taxes/releases/download/v1.0.0.0/Taxes.zip"
+    },
+    "dependencies": [
+      "Satchel"
+    ],
+    "repository": "https://github.com/TheMathGeek314/Taxes/",
+    "authors": [
+      "TheMathGeek_314"
     ]
   },
   "Test of Teamwork": {

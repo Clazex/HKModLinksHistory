@@ -42,13 +42,6 @@
 - Tags
   + Gameplay
 
-### HkmpTransitionAlerts
-
-- Description: An HKMP addon to highlight recently used transitions
-- Dependencies
-  + HKMP
-  + Satchel
-
 ### KeybindOverhaul
 
 - Description: Enhances keybind customization with split actions, key combos, and duplicate inputs
@@ -95,6 +88,12 @@ Warning for people streaming this mod: This mod displays your windows/mac/linux 
 - Tags
   + Boss
 
+### Taxes
+
+- Description: All your geo means all your geo
+- Dependencies
+  + Satchel
+
 
 ## Removed mods
 
@@ -113,7 +112,7 @@ Warning for people streaming this mod: This mod displays your windows/mac/linux 
 
 ### BingoGoalPack1
 
-- Version: 1.5.0.0 -> 1.5.1.0
+- Version: 1.5.0.0 -> 1.5.1.1
 
 ### Breakable Wall Randomizer
 
@@ -174,6 +173,10 @@ Warning for people streaming this mod: This mod displays your windows/mac/linux 
 
 - Version: 2.2.4.5 -> 2.2.4.7
 
+### HKMP Tag
+
+- Version: 2.3.1.0 -> 2.3.2.0
+
 ### Hollow Knight Achievement Manager
 
 - Version: 1.5.0.0 -> 1.5.2.0
@@ -188,10 +191,6 @@ Warning for people streaming this mod: This mod displays your windows/mac/linux 
 ### MultiplayerEvents
 
 - Version: 1.0.0.0 -> 1.0.1.0
-
-### PlayerTrail
-
-- Version: 1.0.0.1 -> 1.0.0.2
 
 ### PurenailCore
 
