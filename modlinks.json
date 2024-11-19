@@ -329,11 +329,11 @@
   },
   "Archipelago": {
     "description": "Enables play with the Archipelago multiworld system.",
-    "version": "0.6.1.0",
+    "version": "0.6.2.0",
     "links": {
       "type": "universal",
-      "sha256": "15226C5ED32E15CE5259A3C33CF2424EBCB817E0B52C5877E2550AE20DA48E19",
-      "url": "https://github.com/ArchipelagoMW-HollowKnight/Archipelago.HollowKnight/releases/download/v0.6.1/Archipelago.zip"
+      "sha256": "303A91D4B380F304DEAFDB887300C9D099B370572749C7F03D16F63D5DAC2C95",
+      "url": "https://github.com/ArchipelagoMW-HollowKnight/Archipelago.HollowKnight/releases/download/v0.6.2/Archipelago.zip"
     },
     "dependencies": [
       "Benchwarp",
@@ -2579,11 +2579,11 @@
   },
   "Floor is Lava": {
     "description": "Is a floor is lava mod for Hollow Knight",
-    "version": "1.0.6.0",
+    "version": "1.0.7.0",
     "links": {
       "type": "universal",
-      "sha256": "78D887ED13105ECEDA1D364F33FCA972B1C0B3E526579D692AA5BDD9CEEA4B43",
-      "url": "https://github.com/derkrankesenator/Hollow-Knight-Floor-is-Lava/releases/download/v1.0.6.0/Floor_is_lava.zip"
+      "sha256": "BEF06BD76C75B003543CFE0C2D56E145AFD56E7E8FE3EDBCE6F9A7FD859746D5",
+      "url": "https://github.com/derkrankesenator/Hollow-Knight-Floor-is-Lava/releases/download/v1.0.7.0/Floor_is_lava.zip"
     },
     "dependencies": [
       "MagicUI",
@@ -2920,6 +2920,27 @@
       "Mulhima",
       "Nearrin",
       "Roy"
+    ]
+  },
+  "Godhome Elo Counter": {
+    "description": "A mod that introduces an ELO rating system to Godhome",
+    "version": "1.1.0.0",
+    "links": {
+      "type": "universal",
+      "sha256": "8A16EE29A29A4AB2842A4F58E8BA25045D31CAF6DBA83AF4BF89EBD48857E6FC",
+      "url": "https://github.com/Oery/Godhome-Elo-Counter/releases/download/v1.1/GodhomeEloCounter.zip"
+    },
+    "dependencies": [
+      "MagicUI",
+      "Satchel"
+    ],
+    "repository": "https://github.com/Oery/Godhome-Elo-Counter",
+    "issues": "https://github.com/Oery/Godhome-Elo-Counter/issues",
+    "tags": [
+      "Utility"
+    ],
+    "authors": [
+      "Oery"
     ]
   },
   "Godhome Win Loss Tracker": {

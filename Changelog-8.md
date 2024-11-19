@@ -1,31 +1,12 @@
 # Changelog
 
 
-## New mods
-
-### CursedMod
-
-- Description: This mod does miscellaneous stuff. Like making the game window be dark mode on windows.
-- Tags
-  + Utility
+## Updated mods
 
 ### Sunset Rad
 
-- Description: Modded Radiance
+- Version: 1.0.0.0 -> 1.0.0.1
 - Dependencies
-  + Vasi
-- Tags
-  + Boss
-
-
-## Removed mods
-
-- CursedMod 🕶
-
-
-## Updated mods
-
-### Charm Changer Rando
-
-- Version: 1.0.0.0 -> 1.1.0.0
+  + Added
+    - HKMirror
 

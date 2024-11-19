@@ -11,3 +11,4 @@ FlowerRandomizer
 CursedMod
 Sunset Rad
 Taxes
+Godhome Elo Counter

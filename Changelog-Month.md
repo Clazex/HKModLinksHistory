@@ -42,6 +42,15 @@
 - Tags
   + Gameplay
 
+### Godhome Elo Counter
+
+- Description: A mod that introduces an ELO rating system to Godhome
+- Dependencies
+  + MagicUI
+  + Satchel
+- Tags
+  + Utility
+
 ### KeybindOverhaul
 
 - Description: Enhances keybind customization with split actions, key combos, and duplicate inputs
@@ -106,9 +115,9 @@ Warning for people streaming this mod: This mod displays your windows/mac/linux 
 
 - Version: 1.2.4.1 -> 1.2.4.3
 
-### Archipelago Map Mod
+### Archipelago
 
-- Version: 2.3.0.0 -> 2.3.1.0
+- Version: 0.6.1.0 -> 0.6.2.0
 
 ### BingoGoalPack1
 
@@ -165,6 +174,10 @@ Warning for people streaming this mod: This mod displays your windows/mac/linux 
 
 - Version: 2.1.3.0 -> 2.1.5.0
 
+### Floor is Lava
+
+- Version: 1.0.6.0 -> 1.0.7.0
+
 ### GhostHunter
 
 - Version: 2.0.0.0 -> 2.1.0.0
@@ -202,7 +215,7 @@ Warning for people streaming this mod: This mod displays your windows/mac/linux 
 
 ### SFCore
 
-- Version: 1.5.12.2 -> 1.5.14.0
+- Version: 1.5.12.4 -> 1.5.14.0
 
 ### Satchel
 

@@ -5,3 +5,6 @@ SFCore
 BingoGoalPack1
 HKMP Tag
 Taxes
+Archipelago
+Floor is Lava
+Godhome Elo Counter
