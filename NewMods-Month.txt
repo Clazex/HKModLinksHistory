@@ -1,4 +1,3 @@
-MidasTouch
 KeybindOverhaul
 QuickDive
 ScreenShakeService

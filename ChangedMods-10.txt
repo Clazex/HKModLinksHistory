@@ -1,4 +1,3 @@
-Archiv
-Core.FsmUtil
-FlowerRandomizer
-SFCore
+Charm Changer Rando
+CursedMod
+Sunset Rad

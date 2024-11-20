@@ -36,6 +36,9 @@
 ### Floor is Lava
 
 - Version: 1.0.6.0 -> 1.0.7.0
+- Description
+  + Old: Is a floor is lava mod for Hollow Knight
+  + New: Is a floor is lava mod for Hollow Knight. PLease read Read.me
 
 ### HKMP Tag
 

@@ -57,13 +57,6 @@
 - Dependencies
   + Satchel
 
-### MidasTouch
-
-- Description: Gorgeous Husk drops a charm that turns enemies to gold
-- Dependencies
-  + SFCore
-  + Satchel
-
 ### QuickDive
 
 - Description: A mod that remaps your Quick Cast button to only Dive
@@ -177,6 +170,9 @@ Warning for people streaming this mod: This mod displays your windows/mac/linux 
 ### Floor is Lava
 
 - Version: 1.0.6.0 -> 1.0.7.0
+- Description
+  + Old: Is a floor is lava mod for Hollow Knight
+  + New: Is a floor is lava mod for Hollow Knight. PLease read Read.me
 
 ### GhostHunter
 
@@ -196,6 +192,10 @@ Warning for people streaming this mod: This mod displays your windows/mac/linux 
 - Description
   + Old: Allows to manage Hollow Knight achievements, both vanilla and modded. Also syncs them with the online store of choice (GOG, Steam, XBox).
   + New: Allows to manage Hollow Knight achievements, both vanilla and modded. Also syncs them with the online store of choice (GOG, Steam, XBox). Also allows to un-/lock menu themes and game modes.
+
+### MidasTouch
+
+- Version: 1.0.0.0 -> 1.0.1.0
 
 ### MilliGolf
 
