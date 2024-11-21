@@ -180,7 +180,7 @@ Warning for people streaming this mod: This mod displays your windows/mac/linux 
 
 ### GodhomeRandomizer
 
-- Version: 2.2.4.5 -> 2.2.4.7
+- Version: 2.2.4.6 -> 2.2.4.7
 
 ### HKMP Tag
 
@@ -196,10 +196,6 @@ Warning for people streaming this mod: This mod displays your windows/mac/linux 
 ### MidasTouch
 
 - Version: 1.0.0.0 -> 1.0.1.0
-
-### MilliGolf
-
-- Version: 1.2.0.1 -> 1.2.0.2
 
 ### MultiplayerEvents
 

@@ -141,6 +141,26 @@
     </Authors>
 </Manifest>
 <Manifest>
+    <Name>Sunset Rad</Name>
+    <Description>Modded Radiance</Description>
+    <Version>1.0.0.0</Version>
+    <Link SHA256="b01a0aa751a451b914e0164bd960b36705b34e5134c8a2b3d7a163103a26ba47">
+        <![CDATA[https://github.com/ROTTEN108/Sunset-Rad/releases/download/1.0.0.0/SUNSET.Rad.dll]]>
+    </Link>
+    <Dependencies>
+        <Dependency>Vasi</Dependency>
+    </Dependencies>
+    <Repository>
+        <![CDATA[https://github.com/ROTTEN108/SunSet-Rad]]>
+    </Repository>
+    <Tags>
+        <Tag>Boss</Tag>
+    </Tags>
+    <Authors>
+        <Author>ROTTEN108</Author>
+    </Authors>
+</Manifest>
+<Manifest>
     <Name>Castless Focus</Name>
     <Description>Stops the focus button from casting when tapped. (Note: This causes tapping the focus button to always start the focus, with the same delay as if it was held)</Description>
     <Version>1.0.0.0</Version>
@@ -2445,11 +2465,11 @@ All with an incredible new soundtrack!</Description>
         </Authors>
     </Manifest>
     <Manifest>
-        <Name>CursedMod 🕶</Name>
+        <Name>CursedMod</Name>
         <Description>This mod does miscellaneous stuff. Like making the game window be dark mode on windows.</Description>
-        <Version>1.0.0.0</Version>
-        <Link SHA256="C88CB6C2BB3BFEA39999627204A84173FE5B2750535255AB8C7BBA7AB2DDDE6A">
-            <![CDATA[https://github.com/SFGrenade/CursedMod/releases/download/v1/CursedMod.zip]]>
+        <Version>1.5.0.0</Version>
+        <Link SHA256="B815042B3828AFCB90808331E72AA8E929369114FDB76906943C3D5799989F04">
+            <![CDATA[https://github.com/SFGrenade/CursedMod/releases/download/v1.5/CursedMod.zip]]>
         </Link>
         <Dependencies />
         <Repository>
@@ -7755,9 +7775,9 @@ This is a singleplayer mod. The "teamwork" refers to in-game events.</Descriptio
     <Manifest>
         <Name>Charm Changer Rando</Name>
         <Description>A mod to randomize the settings of Charm Changer</Description>
-        <Version>1.0.0.0</Version>
-        <Link SHA256="ab5a9219713744aeb0b9ee63996f15a9043c0050a22d20cd14f6ce8ef6461163">
-	     <![CDATA[https://github.com/BestBardTopNA/CharmChangerRando/releases/download/v1/CharmChangerRando.zip]]>
+        <Version>1.1.0.0</Version>
+        <Link SHA256="50683b961bc0ec55e9cefc22c5aad12fb72a037c0fc35f67e8edd8dc346c9af8">
+	     <![CDATA[https://github.com/BestBardTopNA/CharmChangerRando/releases/download/v1.1/CharmChangerRando.zip]]>
         </Link>
         <Dependencies>
             <Dependency>Charm Changer</Dependency>

@@ -1,9 +1,13 @@
 # Changelog
 
 
-## Updated mods
+## New mods
 
-### MidasTouch
+### QuickDive
 
-- Version: 1.0.0.0 -> 1.0.1.0
+- Description: A mod that remaps your Quick Cast button to only Dive
+- Dependencies
+  + Satchel
+- Tags
+  + Gameplay
 

@@ -177,6 +177,20 @@ Not recommended for use in new mods.</Description>
     </Authors>
 </Manifest>
 <Manifest>
+    <Name>Archiv</Name>
+    <Description>Something is amiss in Teacher's Archives</Description>
+    <Version>1.0.0.0</Version>
+    <Link SHA256="75044378EFBE675639056A87A5A54D50947B7E11E50B7C084E04037F8AFB3F62"><![CDATA[https://github.com/TheMathGeek314/Archiv/releases/download/v1.0.0.0/Archiv.zip]]></Link>
+    <Dependencies>
+    </Dependencies>
+    <Repository>
+        <![CDATA[https://github.com/TheMathGeek314/Archiv/]]>
+    </Repository>
+    <Authors>
+        <Author>TheMathGeek_314</Author>
+    </Authors>
+</Manifest>
+<Manifest>
     <Name>AlwaysWorldSense</Name>
     <Description>Grants World Sense immediately</Description>
     <Version>1.0.0.0</Version>
@@ -834,9 +848,9 @@ All with an incredible new soundtrack!</Description>
     <Manifest>
         <Name>Core.FsmUtil</Name>
         <Description>A library mod for fsm editing.</Description>
-        <Version>1.1.1.2</Version>
-        <Link SHA256="7B3CA78BA511CE9F92325D593615791D75639A4D5E1E7E6F40F78F58602FA0E4">
-            <![CDATA[https://github.com/hk-modding/HK.Core.FsmUtil/releases/download/v1.1.1.2/Core_FsmUtil.zip]]>
+        <Version>1.1.2.0</Version>
+        <Link SHA256="AC4B2CCF21E3CBDD998F8F069460F18CDF2DAF8D0F64177D50D9328A6FD04691">
+            <![CDATA[https://github.com/hk-modding/HK.Core.FsmUtil/releases/download/v1.1.2/Core_FsmUtil.zip]]>
         </Link>
         <Dependencies />
         <Repository><![CDATA[https://github.com/hk-modding/HK.Core.FsmUtil]]></Repository>
@@ -2873,9 +2887,9 @@ Enjoy!</Description>
     <Manifest>
         <Name>SFCore</Name>
         <Description>Library mod used by other mods.</Description>
-        <Version>1.5.12.6</Version>
-        <Link SHA256="5A6FED8AEE9CDA5178953F8610708802ED465CBE98AD59F18B51F231E54626B4">
-            <![CDATA[https://github.com/SFGrenade/SFCore/releases/download/v1.5.12.6/SFCore.zip]]>
+        <Version>1.5.13.0</Version>
+        <Link SHA256="D4474F460F4C3CB0797A0CBFE42B541AFCE5B17AC40F361321F911F8BA21A33E">
+            <![CDATA[https://github.com/SFGrenade/SFCore/releases/download/v1.5.13/SFCore.zip]]>
         </Link>
         <Dependencies />
         <Repository>
@@ -7299,6 +7313,32 @@ This is a singleplayer mod. The "teamwork" refers to in-game events.</Descriptio
     	</Repository>
     	<Issues>
 	    <![CDATA[https://github.com/nerthul11/CombatRandomizer/issues]]>
+    	</Issues>
+    	<Tags>
+	    <Tag>Gameplay</Tag>
+    	</Tags>
+    	<Authors>
+	    <Author>nerthul11</Author>
+    	</Authors>
+    </Manifest>
+    <Manifest>
+    	<Name>FlowerRandomizer</Name>
+    	<Description>A Hollow Knight Randomizer add-on for flower quest lovers.</Description>
+    	<Version>1.0.0.0</Version>
+    	<Link SHA256="1b8f58d7490e0c4813a78ad830f887b4868ba0b82fc62ebeb3c67713eb0d994d">
+	    <![CDATA[https://github.com/nerthul11/FlowerRandomizer/releases/download/1.0.0.0/FlowerRandomizer.zip]]>
+	</Link>
+	<Dependencies>
+		<Dependency>ItemChanger</Dependency>
+		<Dependency>MenuChanger</Dependency>
+		<Dependency>Randomizer 4</Dependency>
+		<Dependency>Satchel</Dependency>
+	</Dependencies>
+    	<Repository>
+	    <![CDATA[https://github.com/nerthul11/FlowerRandomizer]]>
+    	</Repository>
+    	<Issues>
+	    <![CDATA[https://github.com/nerthul11/FlowerRandomizer/issues]]>
     	</Issues>
     	<Tags>
 	    <Tag>Gameplay</Tag>
