@@ -27,11 +27,7 @@
 
 ### BingoGoalPack1
 
-- Version: 1.5.0.0 -> 1.5.1.1
-
-### BingoGoalPack2
-
-- Version: 1.0.0.0 -> 1.0.1.0
+- Version: 1.5.1.0 -> 1.5.1.1
 
 ### Floor is Lava
 
