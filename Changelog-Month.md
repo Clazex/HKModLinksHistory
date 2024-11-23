@@ -51,12 +51,6 @@
 - Tags
   + Utility
 
-### KeybindOverhaul
-
-- Description: Enhances keybind customization with split actions, key combos, and duplicate inputs
-- Dependencies
-  + Satchel
-
 ### QuickDive
 
 - Description: A mod that remaps your Quick Cast button to only Dive
@@ -227,6 +221,10 @@ Warning for people streaming this mod: This mod displays your windows/mac/linux 
 ### SpellChanger
 
 - Version: 1.0.0.1 -> 1.0.0.2
+
+### TheHuntIsOn
+
+- Version: 0.5.0.0 -> 0.6.0.0
 
 ### Transcendence
 

@@ -1,4 +1,3 @@
-KeybindOverhaul
 PurenailCore
 Sein
 UnRando
@@ -51,3 +50,4 @@ Taxes
 Archipelago
 Floor is Lava
 Godhome Elo Counter
+TheHuntIsOn

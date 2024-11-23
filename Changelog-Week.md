@@ -40,11 +40,7 @@
 
 - Version: 2.3.1.0 -> 2.3.2.0
 
-### RadiantMenu
+### TheHuntIsOn
 
-- Version: 1.5.1.0 -> 1.5.2.0
-
-### SFCore
-
-- Version: 1.5.13.0 -> 1.5.14.0
+- Version: 0.5.0.0 -> 0.6.0.0
 
