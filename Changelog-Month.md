@@ -195,10 +195,6 @@ Warning for people streaming this mod: This mod displays your windows/mac/linux 
 
 - Version: 1.0.0.0 -> 1.0.1.0
 
-### PurenailCore
-
-- Version: 1.2.3.0 -> 1.2.4.0
-
 ### RadiantMenu
 
 - Version: 1.5.1.0 -> 1.5.2.0
@@ -214,10 +210,6 @@ Warning for people streaming this mod: This mod displays your windows/mac/linux 
   + Old: A bag of tricks for other Mods, does nothing by itself, allows other mods to do cool things.
   + New: A Satchel is a bag, this one has cool stuff for other mods to use.
 
-### Sein
-
-- Version: 1.2.3.0 -> 1.2.4.0
-
 ### SpellChanger
 
 - Version: 1.0.0.1 -> 1.0.0.2
@@ -229,8 +221,4 @@ Warning for people streaming this mod: This mod displays your windows/mac/linux 
 ### Transcendence
 
 - Version: 1.5.1.0 -> 1.5.2.0
-
-### UnRando
-
-- Version: 1.0.0.0 -> 1.1.0.0
 
