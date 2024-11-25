@@ -187,10 +187,6 @@ Warning for people streaming this mod: This mod displays your windows/mac/linux 
   + Old: Allows to manage Hollow Knight achievements, both vanilla and modded. Also syncs them with the online store of choice (GOG, Steam, XBox).
   + New: Allows to manage Hollow Knight achievements, both vanilla and modded. Also syncs them with the online store of choice (GOG, Steam, XBox). Also allows to un-/lock menu themes and game modes.
 
-### MidasTouch
-
-- Version: 1.0.0.0 -> 1.0.1.0
-
 ### MultiplayerEvents
 
 - Version: 1.0.0.0 -> 1.0.1.0

@@ -1,3 +1,2 @@
-Archipelago
-Floor is Lava
 TheHuntIsOn
+FlowerRandomizer

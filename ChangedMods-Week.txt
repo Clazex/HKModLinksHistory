@@ -1,4 +1,2 @@
-Archipelago
-Floor is Lava
-Godhome Elo Counter
 TheHuntIsOn
+FlowerRandomizer

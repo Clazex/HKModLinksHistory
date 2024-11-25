@@ -2599,11 +2599,11 @@
   },
   "FlowerRandomizer": {
     "description": "A Hollow Knight Randomizer add-on for flower quest lovers.",
-    "version": "1.0.0.0",
+    "version": "1.0.0.1",
     "links": {
       "type": "universal",
-      "sha256": "1B8F58D7490E0C4813A78AD830F887B4868BA0B82FC62EBEB3C67713EB0D994D",
-      "url": "https://github.com/nerthul11/FlowerRandomizer/releases/download/1.0.0.0/FlowerRandomizer.zip"
+      "sha256": "07A7481BB47D53D1A053CD367174239F67F116D5E4F0A1B4757BFA6529B33050",
+      "url": "https://github.com/nerthul11/FlowerRandomizer/releases/download/1.0.0.1/FlowerRandomizer.zip"
     },
     "dependencies": [
       "ItemChanger",
