@@ -1,4 +1,6 @@
 Arcade Knight
-CollectorGlitchRemover
-CustomBgm
-SFCore
+ESoulLink
+EmoteWheel
+GhostHunter
+MultiplayerEvents
+Satchel

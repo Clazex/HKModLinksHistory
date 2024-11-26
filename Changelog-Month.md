@@ -31,6 +31,13 @@
 - Tags
   + Utility
 
+### FlappyKnight
+
+- Description: It&#x27;s Flappy Bird but in Hollow Knight
+- Dependencies
+  + MenuChanger
+  + Satchel
+
 ### FlowerRandomizer
 
 - Description: A Hollow Knight Randomizer add-on for flower quest lovers.
@@ -50,14 +57,6 @@
   + Satchel
 - Tags
   + Utility
-
-### QuickDive
-
-- Description: A mod that remaps your Quick Cast button to only Dive
-- Dependencies
-  + Satchel
-- Tags
-  + Gameplay
 
 ### ScreenShakeService
 

@@ -2558,6 +2558,23 @@
       "SFGrenade"
     ]
   },
+  "FlappyKnight": {
+    "description": "It's Flappy Bird but in Hollow Knight",
+    "version": "1.0.0.0",
+    "links": {
+      "type": "universal",
+      "sha256": "F66D720F40E125E05812AFC2D0743F1858CC776D4DE2A0FC8A4EA5C0E1F92F2A",
+      "url": "https://github.com/TheMathGeek314/FlappyKnight/releases/download/v1.0.0.0/FlappyKnight.zip"
+    },
+    "dependencies": [
+      "MenuChanger",
+      "Satchel"
+    ],
+    "repository": "https://github.com/TheMathGeek314/FlappyKnight/",
+    "authors": [
+      "TheMathGeek_314"
+    ]
+  },
   "Floor Time Counter": {
     "description": "Adds a counter for how many frames you've touched the ground.",
     "version": "1.0.0.0",
