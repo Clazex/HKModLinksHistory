@@ -154,6 +154,10 @@ Warning for people streaming this mod: This mod displays your windows/mac/linux 
 
 - Version: 2.1.3.0 -> 2.1.5.0
 
+### Extra Rando
+
+- Version: 0.5.1.0 -> 0.6.0.0
+
 ### Floor is Lava
 
 - Version: 1.0.6.0 -> 1.0.7.0
@@ -203,8 +207,4 @@ Warning for people streaming this mod: This mod displays your windows/mac/linux 
 ### TheHuntIsOn
 
 - Version: 0.5.0.0 -> 0.6.0.0
-
-### Transcendence
-
-- Version: 1.5.1.0 -> 1.5.2.0
 

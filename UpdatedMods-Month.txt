@@ -1,4 +1,3 @@
-Transcendence
 Arcade Knight
 CustomBgm
 Exaltation
@@ -35,3 +34,4 @@ Archipelago
 Floor is Lava
 TheHuntIsOn
 FlowerRandomizer
+Extra Rando

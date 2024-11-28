@@ -2329,11 +2329,11 @@
   },
   "Extra Rando": {
     "description": "Randomizer 4 connection with miscellaneous settings.",
-    "version": "0.5.1.0",
+    "version": "0.6.0.0",
     "links": {
       "type": "universal",
-      "sha256": "859FA572603D2A2DB472D1FFE9CACDA6ED04788670819C512A11BCDEEB103E10",
-      "url": "https://github.com/Korzer420/ExtraRando/releases/download/v0.5.1/ExtraRando.zip"
+      "sha256": "EA9618A31F7AD09BB9D2C194AC262775A5604E02BCA4A57A15C0261CEA358FAE",
+      "url": "https://github.com/Korzer420/ExtraRando/releases/download/v0.6.0/ExtraRando.zip"
     },
     "dependencies": [
       "KorzUtils",
