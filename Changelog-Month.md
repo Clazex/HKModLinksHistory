@@ -7,23 +7,9 @@
 
 - Description: Grants World Sense immediately
 
-### Arcade Knight
-
-- Description: Adds some minigames.
-- Dependencies
-  + KorzUtils
-- Tags
-  + Gameplay
-
 ### Archiv
 
 - Description: Something is amiss in Teacher&#x27;s Archives
-
-### BingoGoalPack2
-
-- Description: Adds more granular specifications for custom BingoSync challenges
-- Dependencies
-  + BingoSync
 
 ### CursedMod
 
@@ -58,16 +44,6 @@
 - Tags
   + Utility
 
-### Stories of a HK player - Chapter 2
-
-- Description: The second iteration of a story of a Hollow Knight player and his personalized copy of the game.
-Warning for people streaming this mod: This mod displays your windows/mac/linux username.
-- Dependencies
-  + SFCore
-- Tags
-  + Expansion
-  + Gameplay
-
 ### Sunset Rad
 
 - Description: Modded Radiance
@@ -95,6 +71,10 @@ Warning for people streaming this mod: This mod displays your windows/mac/linux 
 
 - Version: 1.2.4.1 -> 1.2.4.3
 
+### Arcade Knight
+
+- Version: 0.1.0.0 -> 0.3.1.0
+
 ### Archipelago
 
 - Version: 0.6.1.0 -> 0.6.2.0
@@ -102,6 +82,10 @@ Warning for people streaming this mod: This mod displays your windows/mac/linux 
 ### BingoGoalPack1
 
 - Version: 1.5.0.0 -> 1.5.1.1
+
+### BingoGoalPack2
+
+- Version: 1.0.0.0 -> 1.0.1.0
 
 ### Breakable Wall Randomizer
 
