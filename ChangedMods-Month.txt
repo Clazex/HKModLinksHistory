@@ -1,4 +1,3 @@
-AlwaysWorldSense
 Arcade Knight
 CustomBgm
 Exaltation

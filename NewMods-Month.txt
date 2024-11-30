@@ -1,4 +1,3 @@
-AlwaysWorldSense
 Archiv
 FlowerRandomizer
 CursedMod

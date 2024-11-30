@@ -3,10 +3,6 @@
 
 ## New mods
 
-### AlwaysWorldSense
-
-- Description: Grants World Sense immediately
-
 ### Archiv
 
 - Description: Something is amiss in Teacher&#x27;s Archives
