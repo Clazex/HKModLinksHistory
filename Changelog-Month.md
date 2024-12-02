@@ -69,7 +69,7 @@
 
 ### Arcade Knight
 
-- Version: 0.2.0.0 -> 0.3.1.0
+- Version: 0.3.0.0 -> 0.3.1.0
 
 ### Archipelago
 
@@ -91,13 +91,6 @@
 
 - Version: 1.0.0.0 -> 1.1.0.0
 
-### CollectorGlitchRemover
-
-- Version: 1.0.1.0 -> 1.1.0.0
-- Description
-  + Old: Prevents the collector insta-grab glitch.
-  + New: Prevents the &quot;insta-grab&quot; and &quot;sticky feet&quot; Collector glitches.
-
 ### CombatRandomizer
 
 - Version: 1.1.0.1 -> 1.1.0.2
@@ -109,10 +102,6 @@
 ### Curse Randomizer
 
 - Version: 5.1.1.0 -> 5.1.2.0
-
-### CustomBgm
-
-- Version: 1.5.3.2 -> 1.5.3.3
 
 ### ESoulLink
 
@@ -167,7 +156,7 @@
 
 ### SFCore
 
-- Version: 1.5.12.5 -> 1.5.14.0
+- Version: 1.5.12.6 -> 1.5.14.0
 
 ### Satchel
 

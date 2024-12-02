@@ -3,20 +3,23 @@
 
 ## New mods
 
-### Taxes
+### Godhome Elo Counter
 
-- Description: All your geo means all your geo
+- Description: A mod that introduces an ELO rating system to Godhome
 - Dependencies
+  + MagicUI
   + Satchel
+- Tags
+  + Utility
 
 
 ## Updated mods
 
-### BingoGoalPack1
+### Archipelago
 
-- Version: 1.5.1.0 -> 1.5.1.1
+- Version: 0.6.1.0 -> 0.6.2.0
 
-### HKMP Tag
+### Floor is Lava
 
-- Version: 2.3.1.0 -> 2.3.2.0
+- Version: 1.0.6.0 -> 1.0.7.0
 
