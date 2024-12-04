@@ -104,9 +104,9 @@
 <Manifest>
     <Name>Floor is Lava</Name>
     <Description>Is a floor is lava mod for Hollow Knight</Description>
-    <Version>1.0.6.0</Version>
-    <Link SHA256="78D887ED13105ECEDA1D364F33FCA972B1C0B3E526579D692AA5BDD9CEEA4B43">
-      <![CDATA[https://github.com/derkrankesenator/Hollow-Knight-Floor-is-Lava/releases/download/v1.0.6.0/Floor_is_lava.zip]]>
+    <Version>1.0.7.0</Version>
+    <Link SHA256="BEF06BD76C75B003543CFE0C2D56E145AFD56E7E8FE3EDBCE6F9A7FD859746D5">
+      <![CDATA[https://github.com/derkrankesenator/Hollow-Knight-Floor-is-Lava/releases/download/v1.0.7.0/Floor_is_lava.zip]]>
     </Link>
     <Dependencies>
       <Dependency>MagicUI</Dependency>
@@ -5362,9 +5362,9 @@ This is a singleplayer mod. The "teamwork" refers to in-game events.</Descriptio
     <Manifest>
         <Name>Archipelago</Name>
         <Description>Enables play with the Archipelago multiworld system.</Description>
-        <Version>0.6.1.0</Version>
-        <Link SHA256="15226C5ED32E15CE5259A3C33CF2424EBCB817E0B52C5877E2550AE20DA48E19">
-            <![CDATA[https://github.com/ArchipelagoMW-HollowKnight/Archipelago.HollowKnight/releases/download/v0.6.1/Archipelago.zip]]>
+        <Version>0.6.2.0</Version>
+        <Link SHA256="303A91D4B380F304DEAFDB887300C9D099B370572749C7F03D16F63D5DAC2C95">
+            <![CDATA[https://github.com/ArchipelagoMW-HollowKnight/Archipelago.HollowKnight/releases/download/v0.6.2/Archipelago.zip]]>
         </Link>
         <Dependencies>
             <Dependency>ItemChanger</Dependency>
@@ -7834,6 +7834,30 @@ This is a singleplayer mod. The "teamwork" refers to in-game events.</Descriptio
         </Tags>
         <Authors>
             <Author>tickylolokaka</Author>
+        </Authors>
+    </Manifest>
+    <Manifest>
+        <Name>Godhome Elo Counter</Name>
+        <Description>A mod that introduces an ELO rating system to Godhome</Description>
+        <Version>1.1.0.0</Version>
+        <Link SHA256="8A16EE29A29A4AB2842A4F58E8BA25045D31CAF6DBA83AF4BF89EBD48857E6FC">
+            <![CDATA[https://github.com/Oery/Godhome-Elo-Counter/releases/download/v1.1/GodhomeEloCounter.zip]]>
+        </Link>
+        <Dependencies>
+            <Dependency>Satchel</Dependency>
+            <Dependency>MagicUI</Dependency>
+        </Dependencies>
+        <Repository>
+            <![CDATA[https://github.com/Oery/Godhome-Elo-Counter]]>
+        </Repository>
+        <Issues>
+            <![CDATA[https://github.com/Oery/Godhome-Elo-Counter/issues]]>
+        </Issues>
+        <Tags>
+            <Tag>Utility</Tag>
+        </Tags>
+        <Authors>
+            <Author>Oery</Author>
         </Authors>
     </Manifest>
 </ModLinks>

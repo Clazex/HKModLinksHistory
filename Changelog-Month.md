@@ -118,10 +118,6 @@
 
 - Version: 2.3.1.0 -> 2.3.2.0
 
-### Hollow Knight Achievement Manager
-
-- Version: 1.5.1.0 -> 1.5.2.0
-
 ### RadiantMenu
 
 - Version: 1.5.1.0 -> 1.5.2.0
