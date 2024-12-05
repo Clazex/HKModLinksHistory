@@ -55,6 +55,10 @@
 - Dependencies
   + Satchel
 
+### UnconstrainedRotation
+
+- Description: The knight can rotate freely
+
 
 ## Removed mods
 
@@ -65,7 +69,7 @@
 
 ### AccessRandomizer
 
-- Version: 1.2.4.1 -> 1.2.4.3
+- Version: 1.2.4.2 -> 1.2.4.3
 
 ### Archipelago
 
@@ -99,6 +103,10 @@
 
 - Version: 5.1.1.0 -> 5.1.2.0
 
+### DarknessRandomizer
+
+- Version: 1.4.8.1 -> 1.4.8.2
+
 ### Extra Rando
 
 - Version: 0.5.1.0 -> 0.6.0.0
@@ -117,6 +125,10 @@
 ### HKMP Tag
 
 - Version: 2.3.1.0 -> 2.3.2.0
+
+### MoreDoors
+
+- Version: 3.0.6.1 -> 3.0.7.0
 
 ### RadiantMenu
 

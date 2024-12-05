@@ -1,5 +1,4 @@
 AccessRandomizer
-AccessRandomizer
 Breakable Wall Randomizer
 CombatRandomizer
 Curse Randomizer
@@ -19,3 +18,5 @@ Floor is Lava
 TheHuntIsOn
 FlowerRandomizer
 Extra Rando
+DarknessRandomizer
+MoreDoors

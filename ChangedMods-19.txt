@@ -1,2 +1,2 @@
-BingoGoalPack1
-BingoGoalPack2
+RadiantMenu
+SFCore

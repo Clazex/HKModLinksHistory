@@ -1,5 +1,4 @@
 AccessRandomizer
-AccessRandomizer
 Breakable Wall Randomizer
 CombatRandomizer
 Curse Randomizer
@@ -26,3 +25,6 @@ TheHuntIsOn
 FlowerRandomizer
 FlappyKnight
 Extra Rando
+DarknessRandomizer
+MoreDoors
+UnconstrainedRotation
