@@ -67,10 +67,6 @@
 
 ## Updated mods
 
-### AccessRandomizer
-
-- Version: 1.2.4.2 -> 1.2.4.3
-
 ### Archipelago
 
 - Version: 0.6.1.0 -> 0.6.2.0
@@ -83,25 +79,13 @@
 
 - Version: 1.0.0.0 -> 1.0.1.0
 
-### Breakable Wall Randomizer
-
-- Version: 3.0.2.4 -> 3.0.2.5
-
 ### Charm Changer Rando
 
 - Version: 1.0.0.0 -> 1.1.0.0
 
-### CombatRandomizer
-
-- Version: 1.1.0.1 -> 1.1.0.2
-
 ### Core.FsmUtil
 
 - Version: 1.1.1.2 -> 1.1.2.0
-
-### Curse Randomizer
-
-- Version: 5.1.1.0 -> 5.1.2.0
 
 ### DarknessRandomizer
 
@@ -117,10 +101,6 @@
 - Description
   + Old: Is a floor is lava mod for Hollow Knight
   + New: Is a floor is lava mod for Hollow Knight. PLease read Read.me
-
-### GodhomeRandomizer
-
-- Version: 2.2.4.6 -> 2.2.4.7
 
 ### HKMP Tag
 
