@@ -3,6 +3,12 @@
 
 ## New mods
 
+### BetterModList
+
+- Description: Customize how the mod list is displayed
+- Dependencies
+  + Satchel
+
 ### UnconstrainedRotation
 
 - Description: The knight can rotate freely

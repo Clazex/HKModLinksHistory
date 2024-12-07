@@ -24,3 +24,4 @@ DarknessRandomizer
 MoreDoors
 UnconstrainedRotation
 UnconstrainedRotation
+BetterModList

@@ -1,9 +1,12 @@
 # Changelog
 
 
-## Updated mods
+## New mods
 
-### FlowerRandomizer
+### FlappyKnight
 
-- Version: 1.0.0.0 -> 1.0.0.1
+- Description: It&#x27;s Flappy Bird but in Hollow Knight
+- Dependencies
+  + MenuChanger
+  + Satchel
 

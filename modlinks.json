@@ -587,6 +587,22 @@
       "Gameplay"
     ]
   },
+  "BetterModList": {
+    "description": "Customize how the mod list is displayed",
+    "version": "1.0.0.0",
+    "links": {
+      "type": "universal",
+      "sha256": "E6B789E7F1BF6707728BCBDCA094E46DF981B449658B1E1BE92E9FD5B42221F3",
+      "url": "https://github.com/TheMathGeek314/BetterModList/releases/download/v1.0.0.0/BetterModList.zip"
+    },
+    "dependencies": [
+      "Satchel"
+    ],
+    "repository": "https://github.com/TheMathGeek314/BetterModList/",
+    "authors": [
+      "TheMathGeek_314"
+    ]
+  },
   "Biblically Accurate Lasers": {
     "description": "Adds some configurable lasers to the Radiance and Absolute Radiance fights.",
     "version": "1.1.0.0",

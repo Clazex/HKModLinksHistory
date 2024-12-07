@@ -6,3 +6,4 @@ Taxes
 Godhome Elo Counter
 FlappyKnight
 UnconstrainedRotation
+BetterModList

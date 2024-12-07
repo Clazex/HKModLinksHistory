@@ -7,6 +7,12 @@
 
 - Description: Something is amiss in Teacher&#x27;s Archives
 
+### BetterModList
+
+- Description: Customize how the mod list is displayed
+- Dependencies
+  + Satchel
+
 ### CursedMod
 
 - Description: This mod does miscellaneous stuff. Like making the game window be dark mode on windows.
