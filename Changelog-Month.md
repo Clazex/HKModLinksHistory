@@ -3,10 +3,6 @@
 
 ## New mods
 
-### Archiv
-
-- Description: Something is amiss in Teacher&#x27;s Archives
-
 ### BetterModList
 
 - Description: Customize how the mod list is displayed
@@ -25,17 +21,6 @@
 - Dependencies
   + MenuChanger
   + Satchel
-
-### FlowerRandomizer
-
-- Description: A Hollow Knight Randomizer add-on for flower quest lovers.
-- Dependencies
-  + ItemChanger
-  + MenuChanger
-  + Randomizer 4
-  + Satchel
-- Tags
-  + Gameplay
 
 ### Godhome Elo Counter
 
@@ -89,10 +74,6 @@
 
 - Version: 1.0.0.0 -> 1.1.0.0
 
-### Core.FsmUtil
-
-- Version: 1.1.1.2 -> 1.1.2.0
-
 ### DarknessRandomizer
 
 - Version: 1.4.8.1 -> 1.4.8.2
@@ -108,6 +89,10 @@
   + Old: Is a floor is lava mod for Hollow Knight
   + New: Is a floor is lava mod for Hollow Knight. PLease read Read.me
 
+### FlowerRandomizer
+
+- Version: 1.0.0.0 -> 1.0.0.1
+
 ### HKMP Tag
 
 - Version: 2.3.1.0 -> 2.3.2.0
@@ -122,7 +107,7 @@
 
 ### SFCore
 
-- Version: 1.5.12.6 -> 1.5.14.0
+- Version: 1.5.13.0 -> 1.5.14.0
 
 ### TheHuntIsOn
 
