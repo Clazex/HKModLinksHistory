@@ -9,12 +9,6 @@
 - Dependencies
   + Satchel
 
-### CursedMod
-
-- Description: This mod does miscellaneous stuff. Like making the game window be dark mode on windows.
-- Tags
-  + Utility
-
 ### FlappyKnight
 
 - Description: It&#x27;s Flappy Bird but in Hollow Knight
@@ -31,15 +25,6 @@
 - Tags
   + Utility
 
-### Sunset Rad
-
-- Description: Modded Radiance
-- Dependencies
-  + HKMirror
-  + Vasi
-- Tags
-  + Boss
-
 ### Taxes
 
 - Description: All your geo means all your geo
@@ -49,11 +34,6 @@
 ### UnconstrainedRotation
 
 - Description: The knight can rotate freely
-
-
-## Removed mods
-
-- CursedMod 🕶
 
 
 ## Updated mods
@@ -69,10 +49,6 @@
 ### BingoGoalPack2
 
 - Version: 1.0.0.0 -> 1.0.1.0
-
-### Charm Changer Rando
-
-- Version: 1.0.0.0 -> 1.1.0.0
 
 ### DarknessRandomizer
 
@@ -108,6 +84,13 @@
 ### SFCore
 
 - Version: 1.5.13.0 -> 1.5.14.0
+
+### Sunset Rad
+
+- Version: 1.0.0.0 -> 1.0.0.1
+- Dependencies
+  + Added
+    - HKMirror
 
 ### TheHuntIsOn
 
