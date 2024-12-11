@@ -1,5 +1,4 @@
-DarknessRandomizer
-MoreDoors
-UnconstrainedRotation
 UnconstrainedRotation
 BetterModList
+Curse Randomizer
+Extra Rando

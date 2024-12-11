@@ -1436,11 +1436,11 @@
   },
   "Curse Randomizer": {
     "description": "Randomizer 4 connection that adds additional cursed options.",
-    "version": "5.1.2.0",
+    "version": "5.1.3.0",
     "links": {
       "type": "universal",
-      "sha256": "4FFEC8653542742FFF5B72086EDE280AF85E740082B6F7706EDD92020089B699",
-      "url": "https://github.com/Korzer420/CurseRandomizer/releases/download/v5.1.2/CurseRandomizer.zip"
+      "sha256": "390A6563F6E8F71DF078446FF047836491868ACE6D205E1208201A6AF63D5B96",
+      "url": "https://github.com/Korzer420/CurseRandomizer/releases/download/v5.1.3/CurseRandomizer.zip"
     },
     "dependencies": [
       "Benchwarp",
@@ -2345,11 +2345,11 @@
   },
   "Extra Rando": {
     "description": "Randomizer 4 connection with miscellaneous settings.",
-    "version": "0.6.0.0",
+    "version": "0.6.1.0",
     "links": {
       "type": "universal",
-      "sha256": "EA9618A31F7AD09BB9D2C194AC262775A5604E02BCA4A57A15C0261CEA358FAE",
-      "url": "https://github.com/Korzer420/ExtraRando/releases/download/v0.6.0/ExtraRando.zip"
+      "sha256": "941EE4DA844A0E01C6430D91B9FA347ED8397854DFEE059795C71691BD984D1D",
+      "url": "https://github.com/Korzer420/ExtraRando/releases/download/v0.6.1/ExtraRando.zip"
     },
     "dependencies": [
       "KorzUtils",

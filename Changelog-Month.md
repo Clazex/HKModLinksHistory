@@ -50,13 +50,17 @@
 
 - Version: 1.0.0.0 -> 1.0.1.0
 
+### Curse Randomizer
+
+- Version: 5.1.2.0 -> 5.1.3.0
+
 ### DarknessRandomizer
 
 - Version: 1.4.8.1 -> 1.4.8.2
 
 ### Extra Rando
 
-- Version: 0.5.1.0 -> 0.6.0.0
+- Version: 0.5.1.0 -> 0.6.1.0
 
 ### Floor is Lava
 
@@ -84,13 +88,6 @@
 ### SFCore
 
 - Version: 1.5.13.0 -> 1.5.14.0
-
-### Sunset Rad
-
-- Version: 1.0.0.0 -> 1.0.0.1
-- Dependencies
-  + Added
-    - HKMirror
 
 ### TheHuntIsOn
 

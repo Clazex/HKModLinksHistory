@@ -9,18 +9,18 @@
 - Dependencies
   + Satchel
 
-### UnconstrainedRotation
-
-- Description: The knight can rotate freely
-
 
 ## Updated mods
 
-### DarknessRandomizer
+### Curse Randomizer
 
-- Version: 1.4.8.1 -> 1.4.8.2
+- Version: 5.1.2.0 -> 5.1.3.0
 
-### MoreDoors
+### Extra Rando
 
-- Version: 3.0.6.1 -> 3.0.7.0
+- Version: 0.6.0.0 -> 0.6.1.0
+
+### UnconstrainedRotation
+
+- Version: 1.0.0.0 -> 1.0.1.0
 

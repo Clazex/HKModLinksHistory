@@ -1,4 +1,3 @@
-Sunset Rad
 BingoGoalPack1
 BingoGoalPack2
 RadiantMenu
@@ -13,3 +12,5 @@ Extra Rando
 DarknessRandomizer
 MoreDoors
 UnconstrainedRotation
+Curse Randomizer
+Extra Rando
