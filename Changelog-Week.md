@@ -20,7 +20,3 @@
 
 - Version: 0.6.0.0 -> 0.6.1.0
 
-### UnconstrainedRotation
-
-- Version: 1.0.0.0 -> 1.0.1.0
-
