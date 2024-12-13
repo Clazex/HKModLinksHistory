@@ -62,6 +62,10 @@
 
 - Version: 0.5.1.0 -> 0.6.1.0
 
+### ExtraSpells
+
+- Version: 1.0.0.1 -> 1.0.0.2
+
 ### Floor is Lava
 
 - Version: 1.0.6.0 -> 1.0.7.0

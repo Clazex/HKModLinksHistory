@@ -19,3 +19,4 @@ UnconstrainedRotation
 BetterModList
 Curse Randomizer
 Extra Rando
+ExtraSpells

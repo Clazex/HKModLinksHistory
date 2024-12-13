@@ -1,15 +1,6 @@
 # Changelog
 
 
-## New mods
-
-### BetterModList
-
-- Description: Customize how the mod list is displayed
-- Dependencies
-  + Satchel
-
-
 ## Updated mods
 
 ### Curse Randomizer
@@ -19,4 +10,8 @@
 ### Extra Rando
 
 - Version: 0.6.0.0 -> 0.6.1.0
+
+### ExtraSpells
+
+- Version: 1.0.0.1 -> 1.0.0.2
 
