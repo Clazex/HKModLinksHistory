@@ -1,3 +1,5 @@
 Curse Randomizer
 Extra Rando
 ExtraSpells
+AccessRandomizer
+FlowerRandomizer

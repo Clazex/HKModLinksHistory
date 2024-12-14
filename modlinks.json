@@ -73,11 +73,11 @@
   },
   "AccessRandomizer": {
     "description": "A randomizer add-on for miscellaneous access checks.",
-    "version": "1.2.4.3",
+    "version": "1.2.5.0",
     "links": {
       "type": "universal",
-      "sha256": "B1404CFA972D3B981D41EE63F75BFEE1BDBE62226549CF2FF7F9AB9AB1DA9932",
-      "url": "https://github.com/nerthul11/AccessRandomizer/releases/download/1.2.4.3/AccessRandomizer.zip"
+      "sha256": "2A4B344D970DC83BF7F16D120EE4A314016FE8735496646EF7D1F89ADBEE876D",
+      "url": "https://github.com/nerthul11/AccessRandomizer/releases/download/1.2.5.0/AccessRandomizer.zip"
     },
     "dependencies": [
       "ItemChanger",
@@ -1122,6 +1122,26 @@
     ],
     "authors": [
       "Clazex"
+    ]
+  },
+  "Christmas In Dirtmouth": {
+    "description": "Things are getting festive in Dirtmouth! This mod adds a new Christmas decoration shop in Dirtmouth owned by a new NPC, Merrywisp. Happy holidays!",
+    "version": "1.0.0.0",
+    "links": {
+      "type": "universal",
+      "sha256": "2D095742930EC62556FFD54C8AC53057DF47F66A9F228D2631830604A9DBB424",
+      "url": "https://github.com/AbsoluteStratos/ChristmasInDirtmouth/releases/download/v1.0.0/ChristmasInDirtmouth.zip"
+    },
+    "dependencies": [
+      "Satchel"
+    ],
+    "repository": "https://github.com/AbsoluteStratos/ChristmasInDirtmouth",
+    "issues": "https://github.com/AbsoluteStratos/ChristmasInDirtmouth/issues",
+    "tags": [
+      "Gameplay"
+    ],
+    "authors": [
+      "Stratos"
     ]
   },
   "CollectorGlitchRemover": {
@@ -2632,11 +2652,11 @@
   },
   "FlowerRandomizer": {
     "description": "A Hollow Knight Randomizer add-on for flower quest lovers.",
-    "version": "1.0.0.1",
+    "version": "1.0.0.2",
     "links": {
       "type": "universal",
-      "sha256": "07A7481BB47D53D1A053CD367174239F67F116D5E4F0A1B4757BFA6529B33050",
-      "url": "https://github.com/nerthul11/FlowerRandomizer/releases/download/1.0.0.1/FlowerRandomizer.zip"
+      "sha256": "88218CB9AEB4900016C3B050DD061C85AF2EDF37DD98E20330F0504E4DAA4BD0",
+      "url": "https://github.com/nerthul11/FlowerRandomizer/releases/download/1.0.0.2/FlowerRandomizer.zip"
     },
     "dependencies": [
       "ItemChanger",

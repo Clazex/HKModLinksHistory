@@ -9,6 +9,14 @@
 - Dependencies
   + Satchel
 
+### Christmas In Dirtmouth
+
+- Description: Things are getting festive in Dirtmouth! This mod adds a new Christmas decoration shop in Dirtmouth owned by a new NPC, Merrywisp. Happy holidays!
+- Dependencies
+  + Satchel
+- Tags
+  + Gameplay
+
 ### FlappyKnight
 
 - Description: It&#x27;s Flappy Bird but in Hollow Knight
@@ -37,6 +45,10 @@
 
 
 ## Updated mods
+
+### AccessRandomizer
+
+- Version: 1.2.4.3 -> 1.2.5.0
 
 ### Archipelago
 
@@ -75,7 +87,7 @@
 
 ### FlowerRandomizer
 
-- Version: 1.0.0.0 -> 1.0.0.1
+- Version: 1.0.0.0 -> 1.0.0.2
 
 ### HKMP Tag
 
