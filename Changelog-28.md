@@ -1,13 +1,22 @@
 # Changelog
 
 
+## New mods
+
+### Taxes
+
+- Description: All your geo means all your geo
+- Dependencies
+  + Satchel
+
+
 ## Updated mods
 
-### RadiantMenu
+### BingoGoalPack1
 
-- Version: 1.5.1.0 -> 1.5.2.0
+- Version: 1.5.1.0 -> 1.5.1.1
 
-### SFCore
+### HKMP Tag
 
-- Version: 1.5.13.0 -> 1.5.14.0
+- Version: 2.3.1.0 -> 2.3.2.0
 

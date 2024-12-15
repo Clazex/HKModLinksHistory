@@ -4745,11 +4745,11 @@
   },
   "MoreDoors": {
     "description": "A Rando 4 connection which adds more locked doors to Hallownest.",
-    "version": "3.0.7.0",
+    "version": "3.0.7.1",
     "links": {
       "type": "universal",
-      "sha256": "33665594410029DD52BCAAC66D743CD68F4316051600BD91D92C8922504116A7",
-      "url": "https://github.com/dplochcoder/HollowKnight.MoreDoors/releases/download/v3.0.7.0/MoreDoors.zip"
+      "sha256": "7E580B0FB8CB76259496F40E334A31185ABA574ECB1339834BEAF167062A037A",
+      "url": "https://github.com/dplochcoder/HollowKnight.MoreDoors/releases/download/v3.0.7.1/MoreDoors.zip"
     },
     "dependencies": [
       "ItemChanger",
@@ -6296,11 +6296,11 @@
   },
   "Scatternest": {
     "description": "Addon for Randomizer and ItemSync allowing players to start at multiple different locations.",
-    "version": "1.2.1.0",
+    "version": "1.2.1.1",
     "links": {
       "type": "universal",
-      "sha256": "569106877433828CE42552A0BE1DAFE1DCD082BD2593A2C5843840371BD54766",
-      "url": "https://github.com/flibber-hk/HollowKnight.Scatternest/releases/download/v1.2.1.0/Scatternest.zip"
+      "sha256": "6112E422239F62AD6DC9995793651B10E704D6090BE448D606D2A7B7E00464E8",
+      "url": "https://github.com/flibber-hk/HollowKnight.Scatternest/releases/download/v1.2.1.1/Scatternest.zip"
     },
     "dependencies": [
       "Randomizer 4"

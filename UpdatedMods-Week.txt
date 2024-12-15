@@ -3,3 +3,5 @@ Extra Rando
 ExtraSpells
 AccessRandomizer
 FlowerRandomizer
+MoreDoors
+Scatternest

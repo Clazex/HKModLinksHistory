@@ -56,11 +56,7 @@
 
 ### BingoGoalPack1
 
-- Version: 1.5.0.0 -> 1.5.1.1
-
-### BingoGoalPack2
-
-- Version: 1.0.0.0 -> 1.0.1.0
+- Version: 1.5.1.0 -> 1.5.1.1
 
 ### Curse Randomizer
 
@@ -95,7 +91,7 @@
 
 ### MoreDoors
 
-- Version: 3.0.6.1 -> 3.0.7.0
+- Version: 3.0.6.1 -> 3.0.7.1
 
 ### RadiantMenu
 
@@ -104,6 +100,10 @@
 ### SFCore
 
 - Version: 1.5.13.0 -> 1.5.14.0
+
+### Scatternest
+
+- Version: 1.2.1.0 -> 1.2.1.1
 
 ### TheHuntIsOn
 
