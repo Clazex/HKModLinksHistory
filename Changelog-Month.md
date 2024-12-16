@@ -93,14 +93,6 @@
 
 - Version: 3.0.6.1 -> 3.0.7.1
 
-### RadiantMenu
-
-- Version: 1.5.1.0 -> 1.5.2.0
-
-### SFCore
-
-- Version: 1.5.13.0 -> 1.5.14.0
-
 ### Scatternest
 
 - Version: 1.2.1.0 -> 1.2.1.1
