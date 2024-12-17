@@ -1,5 +1,3 @@
-Curse Randomizer
-Extra Rando
 ExtraSpells
 AccessRandomizer
 Christmas In Dirtmouth

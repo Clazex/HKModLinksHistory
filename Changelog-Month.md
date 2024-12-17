@@ -33,12 +33,6 @@
 - Tags
   + Utility
 
-### Taxes
-
-- Description: All your geo means all your geo
-- Dependencies
-  + Satchel
-
 ### UnconstrainedRotation
 
 - Description: The knight can rotate freely
@@ -53,10 +47,6 @@
 ### Archipelago
 
 - Version: 0.6.1.0 -> 0.6.2.0
-
-### BingoGoalPack1
-
-- Version: 1.5.1.0 -> 1.5.1.1
 
 ### Curse Randomizer
 
@@ -84,10 +74,6 @@
 ### FlowerRandomizer
 
 - Version: 1.0.0.0 -> 1.0.0.2
-
-### HKMP Tag
-
-- Version: 2.3.1.0 -> 2.3.2.0
 
 ### MoreDoors
 

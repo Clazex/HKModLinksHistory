@@ -1,5 +1,3 @@
-BingoGoalPack1
-HKMP Tag
 Archipelago
 Floor is Lava
 TheHuntIsOn
