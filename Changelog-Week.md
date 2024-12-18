@@ -11,12 +11,22 @@
 - Tags
   + Gameplay
 
+### ShadesAnywhere
+
+- Description: A shade can spawn in dreams, White Palace, and Godhome
+- Dependencies
+  + Satchel
+
 
 ## Updated mods
 
 ### AccessRandomizer
 
 - Version: 1.2.4.3 -> 1.2.5.0
+
+### Breakable Wall Randomizer
+
+- Version: 3.0.2.5 -> 3.0.2.6
 
 ### ExtraSpells
 
@@ -26,9 +36,17 @@
 
 - Version: 1.0.0.1 -> 1.0.0.2
 
+### GodhomeRandomizer
+
+- Version: 2.2.4.7 -> 2.2.4.8
+
 ### MoreDoors
 
 - Version: 3.0.7.0 -> 3.0.7.1
+
+### SFCore
+
+- Version: 1.5.14.0 -> 1.5.14.1
 
 ### Scatternest
 

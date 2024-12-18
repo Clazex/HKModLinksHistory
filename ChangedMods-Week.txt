@@ -4,3 +4,8 @@ Christmas In Dirtmouth
 FlowerRandomizer
 MoreDoors
 Scatternest
+Breakable Wall Randomizer
+Christmas In Dirtmouth
+GodhomeRandomizer
+SFCore
+ShadesAnywhere

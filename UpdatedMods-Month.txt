@@ -1,5 +1,3 @@
-Archipelago
-Floor is Lava
 TheHuntIsOn
 FlowerRandomizer
 Extra Rando
@@ -13,3 +11,7 @@ AccessRandomizer
 FlowerRandomizer
 MoreDoors
 Scatternest
+Breakable Wall Randomizer
+Christmas In Dirtmouth
+GodhomeRandomizer
+SFCore

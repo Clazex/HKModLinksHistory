@@ -24,14 +24,11 @@
   + MenuChanger
   + Satchel
 
-### Godhome Elo Counter
+### ShadesAnywhere
 
-- Description: A mod that introduces an ELO rating system to Godhome
+- Description: A shade can spawn in dreams, White Palace, and Godhome
 - Dependencies
-  + MagicUI
   + Satchel
-- Tags
-  + Utility
 
 ### UnconstrainedRotation
 
@@ -44,9 +41,9 @@
 
 - Version: 1.2.4.3 -> 1.2.5.0
 
-### Archipelago
+### Breakable Wall Randomizer
 
-- Version: 0.6.1.0 -> 0.6.2.0
+- Version: 3.0.2.5 -> 3.0.2.6
 
 ### Curse Randomizer
 
@@ -64,20 +61,21 @@
 
 - Version: 1.0.0.1 -> 1.0.0.2
 
-### Floor is Lava
-
-- Version: 1.0.6.0 -> 1.0.7.0
-- Description
-  + Old: Is a floor is lava mod for Hollow Knight
-  + New: Is a floor is lava mod for Hollow Knight. PLease read Read.me
-
 ### FlowerRandomizer
 
 - Version: 1.0.0.0 -> 1.0.0.2
 
+### GodhomeRandomizer
+
+- Version: 2.2.4.7 -> 2.2.4.8
+
 ### MoreDoors
 
 - Version: 3.0.6.1 -> 3.0.7.1
+
+### SFCore
+
+- Version: 1.5.14.0 -> 1.5.14.1
 
 ### Scatternest
 

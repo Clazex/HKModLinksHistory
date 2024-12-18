@@ -825,11 +825,11 @@
   },
   "Breakable Wall Randomizer": {
     "description": "A Hollow Knight Randomizer add-on for breakable walls.",
-    "version": "3.0.2.5",
+    "version": "3.0.2.6",
     "links": {
       "type": "universal",
-      "sha256": "4B81EA91112CC17234A27A7D3E7F4B39FDEB6A2A838E4A74435573B751EE9F87",
-      "url": "https://github.com/nerthul11/BreakableWallRandomizer/releases/download/3.0.2.5/BreakableWallRandomizer.zip"
+      "sha256": "A549B012A9D472CDD2665BCDC4A8E0CC8AE33C2D47C62594961F1F89409DAA9D",
+      "url": "https://github.com/nerthul11/BreakableWallRandomizer/releases/download/3.0.2.6/BreakableWallRandomizer.zip"
     },
     "dependencies": [
       "Randomizer 4",
@@ -1126,11 +1126,11 @@
   },
   "Christmas In Dirtmouth": {
     "description": "Things are getting festive in Dirtmouth! This mod adds a new Christmas decoration shop in Dirtmouth owned by a new NPC, Merrywisp. Happy holidays!",
-    "version": "1.0.0.0",
+    "version": "1.0.2.0",
     "links": {
       "type": "universal",
-      "sha256": "2D095742930EC62556FFD54C8AC53057DF47F66A9F228D2631830604A9DBB424",
-      "url": "https://github.com/AbsoluteStratos/ChristmasInDirtmouth/releases/download/v1.0.0/ChristmasInDirtmouth.zip"
+      "sha256": "9DECEFA56D128CE5ACDDC021EC491AD4BEF840F1572D44051B12CB5FE4C79329",
+      "url": "https://github.com/AbsoluteStratos/ChristmasInDirtmouth/releases/download/v1.0.2/ChristmasInDirtmouth.zip"
     },
     "dependencies": [
       "Satchel"
@@ -3019,11 +3019,11 @@
   },
   "GodhomeRandomizer": {
     "description": "A Randomizer add-on for Godhome elements.",
-    "version": "2.2.4.7",
+    "version": "2.2.4.8",
     "links": {
       "type": "universal",
-      "sha256": "F5EE815B1C133FECDEBCE8FD4AEA8BA79AC826252705E0B1350835A505DAC6E9",
-      "url": "https://github.com/nerthul11/GodhomeRandomizer/releases/download/2.2.4.7/GodhomeRandomizer.zip"
+      "sha256": "9F14568117C764984A468790724CC0A2DFFC20996FE9404C72701771A538B635",
+      "url": "https://github.com/nerthul11/GodhomeRandomizer/releases/download/2.2.4.8/GodhomeRandomizer.zip"
     },
     "dependencies": [
       "ItemChanger",
@@ -6214,11 +6214,11 @@
   },
   "SFCore": {
     "description": "Library mod used by other mods.",
-    "version": "1.5.14.0",
+    "version": "1.5.14.1",
     "links": {
       "type": "universal",
-      "sha256": "AF71D99EE4711518032B15B495317090641F6E2EF90F0CF0243D7048413B18BC",
-      "url": "https://github.com/SFGrenade/SFCore/releases/download/v1.5.14/SFCore.zip"
+      "sha256": "7F03A2CF87A8549DDA7C5DD01FF0B367FA3DA3D5E5CE39F4AF8E79BAFF9F120A",
+      "url": "https://github.com/SFGrenade/SFCore/releases/download/v1.5.14.1/SFCore.zip"
     },
     "dependencies": [],
     "repository": "https://github.com/SFGrenade/SFCore/",
@@ -6407,6 +6407,22 @@
     "repository": "https://github.com/ygsbzr/HollowKnight.ShadeControl/",
     "tags": [
       "Utility"
+    ]
+  },
+  "ShadesAnywhere": {
+    "description": "A shade can spawn in dreams, White Palace, and Godhome",
+    "version": "1.0.0.0",
+    "links": {
+      "type": "universal",
+      "sha256": "23BC8422882A3A7EECD384C45F08B22439F1F2C8924BAD9CD59BA07C35DD5504",
+      "url": "https://github.com/TheMathGeek314/ShadesAnywhere/releases/download/v1.0.0.0/ShadesAnywhere.zip"
+    },
+    "dependencies": [
+      "Satchel"
+    ],
+    "repository": "https://github.com/TheMathGeek314/ShadesAnywhere/",
+    "authors": [
+      "TheMathGeek_314"
     ]
   },
   "ShieldParry": {

@@ -3,3 +3,7 @@ AccessRandomizer
 FlowerRandomizer
 MoreDoors
 Scatternest
+Breakable Wall Randomizer
+Christmas In Dirtmouth
+GodhomeRandomizer
+SFCore
