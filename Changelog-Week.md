@@ -28,10 +28,6 @@
 
 - Version: 3.0.2.5 -> 3.0.2.6
 
-### ExtraSpells
-
-- Version: 1.0.0.1 -> 1.0.0.2
-
 ### FlowerRandomizer
 
 - Version: 1.0.0.1 -> 1.0.0.2

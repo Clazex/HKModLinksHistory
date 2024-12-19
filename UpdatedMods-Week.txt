@@ -1,4 +1,3 @@
-ExtraSpells
 AccessRandomizer
 FlowerRandomizer
 MoreDoors
