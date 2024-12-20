@@ -65,6 +65,10 @@
 
 - Version: 1.0.0.0 -> 1.0.0.2
 
+### Godhome Elo Counter
+
+- Version: 1.1.0.0 -> 1.2.0.0
+
 ### GodhomeRandomizer
 
 - Version: 2.2.4.7 -> 2.2.4.8

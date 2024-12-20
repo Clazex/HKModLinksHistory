@@ -20,3 +20,4 @@ Christmas In Dirtmouth
 GodhomeRandomizer
 SFCore
 ShadesAnywhere
+Godhome Elo Counter

@@ -2977,11 +2977,11 @@
   },
   "Godhome Elo Counter": {
     "description": "A mod that introduces an ELO rating system to Godhome",
-    "version": "1.1.0.0",
+    "version": "1.2.0.0",
     "links": {
       "type": "universal",
-      "sha256": "8A16EE29A29A4AB2842A4F58E8BA25045D31CAF6DBA83AF4BF89EBD48857E6FC",
-      "url": "https://github.com/Oery/Godhome-Elo-Counter/releases/download/v1.1/GodhomeEloCounter.zip"
+      "sha256": "5F1FDA16E11DF9032DFF5A394F3B36414C990FB56C6860B20BD4C05FD36360E4",
+      "url": "https://github.com/Oery/Godhome-Elo-Counter/releases/download/v1.2/GodhomeEloCounter-v1.2.zip"
     },
     "dependencies": [
       "MagicUI",

@@ -3,14 +3,6 @@
 
 ## New mods
 
-### Christmas In Dirtmouth
-
-- Description: Things are getting festive in Dirtmouth! This mod adds a new Christmas decoration shop in Dirtmouth owned by a new NPC, Merrywisp. Happy holidays!
-- Dependencies
-  + Satchel
-- Tags
-  + Gameplay
-
 ### ShadesAnywhere
 
 - Description: A shade can spawn in dreams, White Palace, and Godhome
@@ -20,17 +12,17 @@
 
 ## Updated mods
 
-### AccessRandomizer
-
-- Version: 1.2.4.3 -> 1.2.5.0
-
 ### Breakable Wall Randomizer
 
 - Version: 3.0.2.5 -> 3.0.2.6
 
-### FlowerRandomizer
+### Christmas In Dirtmouth
 
-- Version: 1.0.0.1 -> 1.0.0.2
+- Version: 1.0.0.0 -> 1.0.2.0
+
+### Godhome Elo Counter
+
+- Version: 1.1.0.0 -> 1.2.0.0
 
 ### GodhomeRandomizer
 
