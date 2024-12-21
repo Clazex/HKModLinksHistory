@@ -21,3 +21,4 @@ GodhomeRandomizer
 SFCore
 ShadesAnywhere
 Godhome Elo Counter
+Grass Randomizer

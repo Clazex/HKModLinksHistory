@@ -73,6 +73,10 @@
 
 - Version: 2.2.4.7 -> 2.2.4.8
 
+### Grass Randomizer
+
+- Version: 1.1.1.0 -> 1.1.2.0
+
 ### MoreDoors
 
 - Version: 3.0.6.1 -> 3.0.7.1
