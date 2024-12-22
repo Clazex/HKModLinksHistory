@@ -1,4 +1,3 @@
-TheHuntIsOn
 FlowerRandomizer
 Extra Rando
 DarknessRandomizer
