@@ -5963,9 +5963,9 @@ This is a singleplayer mod. The "teamwork" refers to in-game events.</Descriptio
     <Manifest>
         <Name>Extra Rando</Name>
         <Description>Randomizer 4 connection with miscellaneous settings.</Description>
-        <Version>0.6.0.0</Version>
-        <Link SHA256="ea9618a31f7ad09bb9d2c194ac262775a5604e02bca4a57a15c0261cea358fae">
-            <![CDATA[https://github.com/Korzer420/ExtraRando/releases/download/v0.6.0/ExtraRando.zip]]></Link>
+        <Version>0.6.1.0</Version>
+        <Link SHA256="941ee4da844a0e01c6430d91b9fa347ed8397854dfee059795c71691bd984d1d">
+            <![CDATA[https://github.com/Korzer420/ExtraRando/releases/download/v0.6.1/ExtraRando.zip]]></Link>
         <Dependencies>
             <Dependency>Randomizer 4</Dependency>
             <Dependency>KorzUtils</Dependency>
@@ -6322,9 +6322,9 @@ This is a singleplayer mod. The "teamwork" refers to in-game events.</Descriptio
     <Manifest>
         <Name>Curse Randomizer</Name>
         <Description>Randomizer 4 connection that adds additional cursed options.</Description>
-        <Version>5.1.2.0</Version>
-        <Link SHA256="4ffec8653542742fff5b72086ede280af85e740082b6f7706edd92020089b699">
-            <![CDATA[https://github.com/Korzer420/CurseRandomizer/releases/download/v5.1.2/CurseRandomizer.zip]]></Link>
+        <Version>5.1.3.0</Version>
+        <Link SHA256="390a6563f6e8f71df078446ff047836491868ace6d205e1208201a6af63d5b96">
+            <![CDATA[https://github.com/Korzer420/CurseRandomizer/releases/download/v5.1.3/CurseRandomizer.zip]]></Link>
         <Dependencies>
             <Dependency>Randomizer 4</Dependency>
             <Dependency>Benchwarp</Dependency>
