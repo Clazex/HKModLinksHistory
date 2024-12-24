@@ -24,6 +24,15 @@
   + MenuChanger
   + Satchel
 
+### Pure Shape
+
+- Description: Changes the player&#x27;s spell and nail arts, players can use skills similar to pure containers, such as blocking counterattacks.
+- Dependencies
+  + HKMirror
+  + Vasi
+- Tags
+  + Gameplay
+
 ### ShadesAnywhere
 
 - Description: A shade can spawn in dreams, White Palace, and Godhome
@@ -63,7 +72,7 @@
 
 ### FlowerRandomizer
 
-- Version: 1.0.0.0 -> 1.0.0.2
+- Version: 1.0.0.1 -> 1.0.0.2
 
 ### Godhome Elo Counter
 

@@ -5532,6 +5532,26 @@
       "Boss"
     ]
   },
+  "Pure Shape": {
+    "description": "Changes the player's spell and nail arts, players can use skills similar to pure containers, such as blocking counterattacks.",
+    "version": "1.0.0.1",
+    "links": {
+      "type": "universal",
+      "sha256": "FF396B617D64033F1926822EC49426638DF1E91993C6AEB7B046F4B862DA4ABE",
+      "url": "https://github.com/ROTTEN108/Pure-Shape/releases/download/0.0.1.0/Pure.Shape.dll"
+    },
+    "dependencies": [
+      "HKMirror",
+      "Vasi"
+    ],
+    "repository": "https://github.com/ROTTEN108/Pure-Shape",
+    "tags": [
+      "Gameplay"
+    ],
+    "authors": [
+      "ROTTEN108"
+    ]
+  },
   "PureZote": {
     "description": "Enabled Grey Prince Zote to summon Eternal Ordeal and upgraded its skills. Install AbsoluteZote and PureZote together to enable AnyZote.",
     "version": "1.0.0.0",

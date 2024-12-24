@@ -1,4 +1,3 @@
-FlowerRandomizer
 Extra Rando
 DarknessRandomizer
 MoreDoors
