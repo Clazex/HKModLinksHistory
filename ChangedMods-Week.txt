@@ -2,3 +2,4 @@ Godhome Elo Counter
 Grass Randomizer
 Grass Randomizer
 Pure Shape
+RemoveLaggyObjects

@@ -17,13 +17,6 @@
 - Tags
   + Gameplay
 
-### FlappyKnight
-
-- Description: It&#x27;s Flappy Bird but in Hollow Knight
-- Dependencies
-  + MenuChanger
-  + Satchel
-
 ### Pure Shape
 
 - Description: Changes the player&#x27;s spell and nail arts, players can use skills similar to pure containers, such as blocking counterattacks.
@@ -89,6 +82,10 @@
 ### MoreDoors
 
 - Version: 3.0.6.1 -> 3.0.7.1
+
+### RemoveLaggyObjects
+
+- Version: 1.0.1.0 -> 1.0.2.0
 
 ### SFCore
 

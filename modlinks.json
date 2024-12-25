@@ -6127,11 +6127,11 @@
   },
   "RemoveLaggyObjects": {
     "description": "Removes various objects from scenes where they can cause major lag.",
-    "version": "1.0.1.0",
+    "version": "1.0.2.0",
     "links": {
       "type": "universal",
-      "sha256": "C4C9122F46AE8BB93CC2B6B80D3D5B7FE0A7F152F2A5BA7E08E9D55AD11BA5B6",
-      "url": "https://github.com/thegodfriend/RemoveLaggyObjects/releases/download/v1.0.1/RemoveLaggyObjects.zip"
+      "sha256": "6E2CC835FD9B1852AC2EC8D3AB17F9A8B29F145FF830A1DBE03F90D8833D9767",
+      "url": "https://github.com/thegodfriend/RemoveLaggyObjects/releases/download/v1.0.2/RemoveLaggyObjects.zip"
     },
     "dependencies": [],
     "repository": "https://github.com/thegodfriend/RemoveLaggyObjects",
