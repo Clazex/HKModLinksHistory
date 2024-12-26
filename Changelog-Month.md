@@ -43,6 +43,10 @@
 
 - Version: 1.2.4.3 -> 1.2.5.0
 
+### Archipelago
+
+- Version: 0.6.2.0 -> 0.7.0.0
+
 ### Breakable Wall Randomizer
 
 - Version: 3.0.2.5 -> 3.0.2.6

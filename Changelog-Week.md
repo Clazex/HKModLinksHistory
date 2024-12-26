@@ -15,9 +15,9 @@
 
 ## Updated mods
 
-### Godhome Elo Counter
+### Archipelago
 
-- Version: 1.1.0.0 -> 1.2.0.0
+- Version: 0.6.2.0 -> 0.7.0.0
 
 ### Grass Randomizer
 

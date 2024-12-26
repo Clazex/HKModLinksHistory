@@ -1,9 +1,14 @@
 # Changelog
 
 
-## Updated mods
+## New mods
 
-### Grass Randomizer
+### Pure Shape
 
-- Version: 1.1.2.0 -> 1.1.2.1
+- Description: Changes the player&#x27;s spell and nail arts, players can use skills similar to pure containers, such as blocking counterattacks.
+- Dependencies
+  + HKMirror
+  + Vasi
+- Tags
+  + Gameplay
 
