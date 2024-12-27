@@ -17,11 +17,11 @@
 
 ### Archipelago
 
-- Version: 0.6.2.0 -> 0.7.0.0
+- Version: 0.6.2.0 -> 0.7.1.0
 
 ### Grass Randomizer
 
-- Version: 1.1.1.0 -> 1.1.2.1
+- Version: 1.1.2.0 -> 1.1.2.1
 
 ### RemoveLaggyObjects
 

@@ -1,4 +1,4 @@
 Grass Randomizer
-Grass Randomizer
 RemoveLaggyObjects
+Archipelago
 Archipelago

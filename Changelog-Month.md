@@ -45,7 +45,7 @@
 
 ### Archipelago
 
-- Version: 0.6.2.0 -> 0.7.0.0
+- Version: 0.6.2.0 -> 0.7.1.0
 
 ### Breakable Wall Randomizer
 
@@ -61,7 +61,7 @@
 
 ### Extra Rando
 
-- Version: 0.5.1.0 -> 0.6.1.0
+- Version: 0.6.0.0 -> 0.6.1.0
 
 ### ExtraSpells
 
