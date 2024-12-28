@@ -3672,6 +3672,28 @@
     "dependencies": [],
     "repository": "https://github.com/nearrin/HollowKnight.Abstraction/"
   },
+  "Hivesong": {
+    "description": "This mod adds a new charm, Hivesong, which increases the damage dealt by pets.",
+    "version": "1.0.0.0",
+    "links": {
+      "type": "universal",
+      "sha256": "45B0C1904316B972D623CFAAF8CC471C21DE7DAA2AC04CB5E646DF806DB979ED",
+      "url": "https://github.com/danielstegink/HollowKnight.Hivesong/releases/download/1.0.0.0/Hivesong.zip"
+    },
+    "dependencies": [
+      "ItemChanger",
+      "SFCore",
+      "Satchel"
+    ],
+    "repository": "https://github.com/danielstegink/HollowKnight.Hivesong",
+    "issues": "https://github.com/danielstegink/HollowKnight.Hivesong/issues",
+    "tags": [
+      "Gameplay"
+    ],
+    "authors": [
+      "DanielStegink"
+    ]
+  },
   "HkmpPouch": {
     "description": "A dependency mod for optional hkmp addons with networking.",
     "version": "2.0.0.0",
@@ -3903,6 +3925,20 @@
     ],
     "authors": [
       "Exempt-Medic"
+    ]
+  },
+  "InfiniteMapMarkers": {
+    "description": "Why stop at 6 of each map marker",
+    "version": "1.0.0.0",
+    "links": {
+      "type": "universal",
+      "sha256": "C281FD26100E2D7151C2D5A6312D2B87D63E5CCC0484993B4B8A337A399911DE",
+      "url": "https://github.com/TheMathGeek314/InfiniteMapMarkers/releases/download/v1.0.0.0/InfiniteMapMarkers.zip"
+    },
+    "dependencies": [],
+    "repository": "https://github.com/TheMathGeek314/InfiniteMapMarkers/",
+    "authors": [
+      "TheMathGeek_314"
     ]
   },
   "InfiniteNotches": {

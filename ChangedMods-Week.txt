@@ -3,3 +3,5 @@ Pure Shape
 RemoveLaggyObjects
 Archipelago
 Archipelago
+Hivesong
+InfiniteMapMarkers
