@@ -5,3 +5,4 @@ ShadesAnywhere
 Pure Shape
 Hivesong
 InfiniteMapMarkers
+CharmPatch

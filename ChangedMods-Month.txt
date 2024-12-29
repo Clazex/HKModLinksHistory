@@ -25,3 +25,4 @@ Archipelago
 Archipelago
 Hivesong
 InfiniteMapMarkers
+CharmPatch

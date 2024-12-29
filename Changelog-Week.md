@@ -3,6 +3,14 @@
 
 ## New mods
 
+### CharmPatch
+
+- Description: This is a collection of small changes that I think improve the balance of certain charms in the game. This should be fully compatible with Excempt-Medic&#x27;s Charm Overhaul mod.
+- Dependencies
+  + SFCore
+- Tags
+  + Gameplay
+
 ### Hivesong
 
 - Description: This mod adds a new charm, Hivesong, which increases the damage dealt by pets.
@@ -32,10 +40,6 @@
 ### Archipelago
 
 - Version: 0.6.2.0 -> 0.7.1.0
-
-### Grass Randomizer
-
-- Version: 1.1.2.0 -> 1.1.2.1
 
 ### RemoveLaggyObjects
 
