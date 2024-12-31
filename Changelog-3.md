@@ -3,17 +3,11 @@
 
 ## New mods
 
-### Hivesong
+### CharmPatch
 
-- Description: This mod adds a new charm, Hivesong, which increases the damage dealt by pets.
+- Description: This is a collection of small changes that I think improve the balance of certain charms in the game. This should be fully compatible with Excempt-Medic&#x27;s Charm Overhaul mod.
 - Dependencies
-  + ItemChanger
   + SFCore
-  + Satchel
 - Tags
   + Gameplay
-
-### InfiniteMapMarkers
-
-- Description: Why stop at 6 of each map marker
 
