@@ -25,10 +25,3 @@
 
 - Description: Why stop at 6 of each map marker
 
-
-## Updated mods
-
-### Archipelago
-
-- Version: 0.7.0.0 -> 0.7.1.0
-
