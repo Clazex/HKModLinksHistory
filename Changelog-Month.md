@@ -54,9 +54,14 @@
 - Dependencies
   + Satchel
 
-### UnconstrainedRotation
+### ouchyGrass
 
-- Description: The knight can rotate freely
+- Description: Touching grass hurts or kills the player.
+- Integrations
+  + Grass Randomizer
+  + GrassyKnight
+- Tags
+  + Gameplay
 
 
 ## Updated mods
@@ -71,15 +76,11 @@
 
 ### Breakable Wall Randomizer
 
-- Version: 3.0.2.5 -> 3.0.2.6
+- Version: 3.0.2.5 -> 3.0.2.7
 
 ### Curse Randomizer
 
 - Version: 5.1.2.0 -> 5.1.3.0
-
-### DarknessRandomizer
-
-- Version: 1.4.8.1 -> 1.4.8.2
 
 ### Extra Rando
 
@@ -107,7 +108,7 @@
 
 ### MoreDoors
 
-- Version: 3.0.6.1 -> 3.0.7.1
+- Version: 3.0.7.0 -> 3.0.7.1
 
 ### RemoveLaggyObjects
 
@@ -120,4 +121,8 @@
 ### Scatternest
 
 - Version: 1.2.1.0 -> 1.2.1.1
+
+### UnconstrainedRotation
+
+- Version: 1.0.0.0 -> 1.0.1.0
 

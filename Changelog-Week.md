@@ -11,17 +11,19 @@
 - Tags
   + Gameplay
 
-### Hivesong
+### ouchyGrass
 
-- Description: This mod adds a new charm, Hivesong, which increases the damage dealt by pets.
-- Dependencies
-  + ItemChanger
-  + SFCore
-  + Satchel
+- Description: Touching grass hurts or kills the player.
+- Integrations
+  + Grass Randomizer
+  + GrassyKnight
 - Tags
   + Gameplay
 
-### InfiniteMapMarkers
 
-- Description: Why stop at 6 of each map marker
+## Updated mods
+
+### Breakable Wall Randomizer
+
+- Version: 3.0.2.6 -> 3.0.2.7
 

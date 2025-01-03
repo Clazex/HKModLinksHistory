@@ -1,9 +1,11 @@
 # Changelog
 
 
-## Updated mods
+## New mods
 
-### UnconstrainedRotation
+### BetterModList
 
-- Version: 1.0.0.0 -> 1.0.1.0
+- Description: Customize how the mod list is displayed
+- Dependencies
+  + Satchel
 

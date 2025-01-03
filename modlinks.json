@@ -825,11 +825,11 @@
   },
   "Breakable Wall Randomizer": {
     "description": "A Hollow Knight Randomizer add-on for breakable walls.",
-    "version": "3.0.2.6",
+    "version": "3.0.2.7",
     "links": {
       "type": "universal",
-      "sha256": "A549B012A9D472CDD2665BCDC4A8E0CC8AE33C2D47C62594961F1F89409DAA9D",
-      "url": "https://github.com/nerthul11/BreakableWallRandomizer/releases/download/3.0.2.6/BreakableWallRandomizer.zip"
+      "sha256": "06A91C732262E70B2B26330B6770EFC7309127D2C5DB347E4BF670F1DA30A09D",
+      "url": "https://github.com/nerthul11/BreakableWallRandomizer/releases/download/3.0.2.7/BreakableWallRandomizer.zip"
     },
     "dependencies": [
       "Randomizer 4",
@@ -7643,6 +7643,27 @@
       "Satchel"
     ],
     "repository": "https://github.com/nearrin/HollowKnight.ZoteCollectorHelper/"
+  },
+  "ouchyGrass": {
+    "description": "Touching grass hurts or kills the player.",
+    "version": "1.0.0.0",
+    "links": {
+      "type": "universal",
+      "sha256": "6B6543CDF8DB9B72940C8144EE83EC2084424E0EF151FB96C2FFB6C593906DF5",
+      "url": "https://github.com/RedknanRonin/ouchyGrass/releases/download/1.0.0.0/ouchyGrass.zip"
+    },
+    "dependencies": [],
+    "repository": "https://github.com/RedknanRonin/ouchyGrass",
+    "integrations": [
+      "Grass Randomizer",
+      "GrassyKnight"
+    ],
+    "tags": [
+      "Gameplay"
+    ],
+    "authors": [
+      "RedknanRonin"
+    ]
   },
   "press g to dab": {
     "description": "press g and the knight will dab",
