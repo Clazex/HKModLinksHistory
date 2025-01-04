@@ -73,11 +73,11 @@
   },
   "AccessRandomizer": {
     "description": "A randomizer add-on for miscellaneous access checks.",
-    "version": "1.2.5.0",
+    "version": "1.2.5.1",
     "links": {
       "type": "universal",
-      "sha256": "2A4B344D970DC83BF7F16D120EE4A314016FE8735496646EF7D1F89ADBEE876D",
-      "url": "https://github.com/nerthul11/AccessRandomizer/releases/download/1.2.5.0/AccessRandomizer.zip"
+      "sha256": "542F7CE64F7C1587F025D70D18CE5B4CEF9046363DF43296B6A77FADCCACCBE7",
+      "url": "https://github.com/nerthul11/AccessRandomizer/releases/download/1.2.5.1/AccessRandomizer.zip"
     },
     "dependencies": [
       "ItemChanger",
@@ -825,11 +825,11 @@
   },
   "Breakable Wall Randomizer": {
     "description": "A Hollow Knight Randomizer add-on for breakable walls.",
-    "version": "3.0.2.7",
+    "version": "3.0.3.0",
     "links": {
       "type": "universal",
-      "sha256": "06A91C732262E70B2B26330B6770EFC7309127D2C5DB347E4BF670F1DA30A09D",
-      "url": "https://github.com/nerthul11/BreakableWallRandomizer/releases/download/3.0.2.7/BreakableWallRandomizer.zip"
+      "sha256": "E163F761A24394773F93E34E88A9AE2853875C07CA4C628BB64CCC948935AD0A",
+      "url": "https://github.com/nerthul11/BreakableWallRandomizer/releases/download/3.0.3.0/BreakableWallRandomizer.zip"
     },
     "dependencies": [
       "Randomizer 4",
@@ -3039,11 +3039,11 @@
   },
   "GodhomeRandomizer": {
     "description": "A Randomizer add-on for Godhome elements.",
-    "version": "2.2.4.8",
+    "version": "2.2.4.9",
     "links": {
       "type": "universal",
-      "sha256": "9F14568117C764984A468790724CC0A2DFFC20996FE9404C72701771A538B635",
-      "url": "https://github.com/nerthul11/GodhomeRandomizer/releases/download/2.2.4.8/GodhomeRandomizer.zip"
+      "sha256": "D1037D84FF43C61E160EA4180395AE197D00D4579BE46228D80ADFE95FDD01E5",
+      "url": "https://github.com/nerthul11/GodhomeRandomizer/releases/download/2.2.4.9/GodhomeRandomizer.zip"
     },
     "dependencies": [
       "ItemChanger",

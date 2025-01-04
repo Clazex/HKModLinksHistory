@@ -1,3 +1,5 @@
-CharmPatch
 Breakable Wall Randomizer
 ouchyGrass
+AccessRandomizer
+Breakable Wall Randomizer
+GodhomeRandomizer

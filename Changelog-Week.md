@@ -3,14 +3,6 @@
 
 ## New mods
 
-### CharmPatch
-
-- Description: This is a collection of small changes that I think improve the balance of certain charms in the game. This should be fully compatible with Excempt-Medic&#x27;s Charm Overhaul mod.
-- Dependencies
-  + SFCore
-- Tags
-  + Gameplay
-
 ### ouchyGrass
 
 - Description: Touching grass hurts or kills the player.
@@ -23,7 +15,15 @@
 
 ## Updated mods
 
+### AccessRandomizer
+
+- Version: 1.2.5.0 -> 1.2.5.1
+
 ### Breakable Wall Randomizer
 
-- Version: 3.0.2.6 -> 3.0.2.7
+- Version: 3.0.2.6 -> 3.0.3.0
+
+### GodhomeRandomizer
+
+- Version: 2.2.4.8 -> 2.2.4.9
 
