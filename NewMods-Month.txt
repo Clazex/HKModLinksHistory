@@ -5,3 +5,4 @@ Hivesong
 InfiniteMapMarkers
 CharmPatch
 ouchyGrass
+AllHallownestEnhanced

@@ -3,6 +3,14 @@
 
 ## New mods
 
+### AllHallownestEnhanced
+
+- Description: This is a mod that enhances the entire Hallownest. I spent 2.5 months to make it. It will take you to experience the joy of meeting the Hollow Knight first. I hope it can become a good meal replacement before the release of SilkSong.
+- Dependencies
+  + Vasi
+- Tags
+  + Gameplay
+
 ### CharmPatch
 
 - Description: This is a collection of small changes that I think improve the balance of certain charms in the game. This should be fully compatible with Excempt-Medic&#x27;s Charm Overhaul mod.

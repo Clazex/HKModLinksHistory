@@ -26,3 +26,4 @@ ouchyGrass
 AccessRandomizer
 Breakable Wall Randomizer
 GodhomeRandomizer
+AllHallownestEnhanced
