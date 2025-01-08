@@ -29,7 +29,7 @@
 
 ### Breakable Wall Randomizer
 
-- Version: 3.0.2.6 -> 3.0.3.0
+- Version: 3.0.2.6 -> 3.0.3.1
 
 ### GodhomeRandomizer
 

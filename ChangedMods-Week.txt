@@ -4,3 +4,4 @@ AccessRandomizer
 Breakable Wall Randomizer
 GodhomeRandomizer
 AllHallownestEnhanced
+Breakable Wall Randomizer

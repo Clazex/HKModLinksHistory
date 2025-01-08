@@ -78,7 +78,7 @@
 
 ### Breakable Wall Randomizer
 
-- Version: 3.0.2.5 -> 3.0.3.0
+- Version: 3.0.2.5 -> 3.0.3.1
 
 ### Curse Randomizer
 
