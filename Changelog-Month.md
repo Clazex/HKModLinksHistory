@@ -80,14 +80,6 @@
 
 - Version: 3.0.2.5 -> 3.0.3.1
 
-### Curse Randomizer
-
-- Version: 5.1.2.0 -> 5.1.3.0
-
-### Extra Rando
-
-- Version: 0.6.0.0 -> 0.6.1.0
-
 ### ExtraSpells
 
 - Version: 1.0.0.1 -> 1.0.0.2
@@ -107,6 +99,13 @@
 ### Grass Randomizer
 
 - Version: 1.1.1.0 -> 1.1.2.1
+
+### LoreCore
+
+- Version: 0.6.0.0 -> 0.6.1.0
+- Description
+  + Old: Adds a bunch of lore related itemchanger locations and items.
+  + New: Adds a bunch of lore related Item Changer locations and items.
 
 ### MoreDoors
 

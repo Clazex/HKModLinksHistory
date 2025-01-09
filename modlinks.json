@@ -4383,12 +4383,12 @@
     ]
   },
   "LoreCore": {
-    "description": "Adds a bunch of lore related itemchanger locations and items.",
-    "version": "0.6.0.0",
+    "description": "Adds a bunch of lore related Item Changer locations and items.",
+    "version": "0.6.1.0",
     "links": {
       "type": "universal",
-      "sha256": "E99884900EC1C2BBC72EBE04B0B14F1F617E21CE853835A133431976A1EA38C8",
-      "url": "https://github.com/Korzer420/LoreCore/releases/download/v0.6.0/LoreCore.zip"
+      "sha256": "F05516601D67AF2A7D3E8D86716CDD00E2EA52A4C0EFF704916E96EE7D9AC82F",
+      "url": "https://github.com/Korzer420/LoreCore/releases/download/v0.6.1/LoreCore.zip"
     },
     "dependencies": [
       "ItemChanger",

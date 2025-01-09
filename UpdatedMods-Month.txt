@@ -1,5 +1,3 @@
-Curse Randomizer
-Extra Rando
 ExtraSpells
 AccessRandomizer
 FlowerRandomizer
@@ -20,3 +18,4 @@ AccessRandomizer
 Breakable Wall Randomizer
 GodhomeRandomizer
 Breakable Wall Randomizer
+LoreCore

@@ -198,6 +198,21 @@ Not recommended for use in new mods.</Description>
     </Authors>
 </Manifest>
 <Manifest>
+    <Name>ShadesAnywhere</Name>
+    <Description>A shade can spawn in dreams, White Palace, and Godhome</Description>
+    <Version>1.0.0.0</Version>
+    <Link SHA256="23BC8422882A3A7EECD384C45F08B22439F1F2C8924BAD9CD59BA07C35DD5504"><![CDATA[https://github.com/TheMathGeek314/ShadesAnywhere/releases/download/v1.0.0.0/ShadesAnywhere.zip]]></Link>
+    <Dependencies>
+        <Dependency>Satchel</Dependency>
+    </Dependencies>
+    <Repository>
+        <![CDATA[https://github.com/TheMathGeek314/ShadesAnywhere/]]>
+    </Repository>
+    <Authors>
+        <Author>TheMathGeek_314</Author>
+    </Authors>
+</Manifest>
+<Manifest>
     <Name>BetterModList</Name>
     <Description>Customize how the mod list is displayed</Description>
     <Version>1.0.0.0</Version>
@@ -1031,9 +1046,9 @@ All with an incredible new soundtrack!</Description>
     <Manifest>
         <Name>Breakable Wall Randomizer</Name>
         <Description>A Hollow Knight Randomizer add-on for breakable walls.</Description>
-        <Version>3.0.2.5</Version>
-        <Link SHA256="4b81ea91112cc17234a27a7d3e7f4b39fdeb6a2a838e4a74435573b751ee9f87">
-            <![CDATA[https://github.com/nerthul11/BreakableWallRandomizer/releases/download/3.0.2.5/BreakableWallRandomizer.zip]]>
+        <Version>3.0.2.6</Version>
+        <Link SHA256="A549B012A9D472CDD2665BCDC4A8E0CC8AE33C2D47C62594961F1F89409DAA9D">
+            <![CDATA[https://github.com/nerthul11/BreakableWallRandomizer/releases/download/3.0.2.6/BreakableWallRandomizer.zip]]>
         </Link>
         <Dependencies>
             <Dependency>Randomizer 4</Dependency>
@@ -2968,9 +2983,9 @@ Enjoy!</Description>
     <Manifest>
         <Name>SFCore</Name>
         <Description>Library mod used by other mods.</Description>
-        <Version>1.5.14.0</Version>
-        <Link SHA256="AF71D99EE4711518032B15B495317090641F6E2EF90F0CF0243D7048413B18BC">
-            <![CDATA[https://github.com/SFGrenade/SFCore/releases/download/v1.5.14/SFCore.zip]]>
+        <Version>1.5.14.1</Version>
+        <Link SHA256="7F03A2CF87A8549DDA7C5DD01FF0B367FA3DA3D5E5CE39F4AF8E79BAFF9F120A">
+            <![CDATA[https://github.com/SFGrenade/SFCore/releases/download/v1.5.14.1/SFCore.zip]]>
         </Link>
         <Dependencies />
         <Repository>
@@ -7431,9 +7446,9 @@ This is a singleplayer mod. The "teamwork" refers to in-game events.</Descriptio
     <Manifest>
     	<Name>GodhomeRandomizer</Name>
     	<Description>A Randomizer add-on for Godhome elements.</Description>
-    	<Version>2.2.4.7</Version>
-    	<Link SHA256="f5ee815b1c133fecdebce8fd4aea8ba79ac826252705e0b1350835a505dac6e9">
-	    <![CDATA[https://github.com/nerthul11/GodhomeRandomizer/releases/download/2.2.4.7/GodhomeRandomizer.zip]]>
+    	<Version>2.2.4.8</Version>
+    	<Link SHA256="9F14568117C764984A468790724CC0A2DFFC20996FE9404C72701771A538B635">
+	    <![CDATA[https://github.com/nerthul11/GodhomeRandomizer/releases/download/2.2.4.8/GodhomeRandomizer.zip]]>
 	</Link>
 	<Dependencies>
 		<Dependency>ItemChanger</Dependency>
@@ -7908,9 +7923,9 @@ This is a singleplayer mod. The "teamwork" refers to in-game events.</Descriptio
     <Manifest>
         <Name>Christmas In Dirtmouth</Name>
         <Description>Things are getting festive in Dirtmouth! This mod adds a new Christmas decoration shop in Dirtmouth owned by a new NPC, Merrywisp. Happy holidays!</Description>
-        <Version>1.0.0.0</Version>
-        <Link SHA256="2D095742930EC62556FFD54C8AC53057DF47F66A9F228D2631830604A9DBB424">
-            <![CDATA[https://github.com/AbsoluteStratos/ChristmasInDirtmouth/releases/download/v1.0.0/ChristmasInDirtmouth.zip]]>
+        <Version>1.0.2.0</Version>
+        <Link SHA256="9DECEFA56D128CE5ACDDC021EC491AD4BEF840F1572D44051B12CB5FE4C79329">
+            <![CDATA[https://github.com/AbsoluteStratos/ChristmasInDirtmouth/releases/download/v1.0.2/ChristmasInDirtmouth.zip]]>
         </Link>
         <Dependencies>
             <Dependency>Satchel</Dependency>

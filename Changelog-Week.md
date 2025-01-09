@@ -11,15 +11,6 @@
 - Tags
   + Gameplay
 
-### ouchyGrass
-
-- Description: Touching grass hurts or kills the player.
-- Integrations
-  + Grass Randomizer
-  + GrassyKnight
-- Tags
-  + Gameplay
-
 
 ## Updated mods
 
@@ -29,9 +20,16 @@
 
 ### Breakable Wall Randomizer
 
-- Version: 3.0.2.6 -> 3.0.3.1
+- Version: 3.0.2.7 -> 3.0.3.1
 
 ### GodhomeRandomizer
 
 - Version: 2.2.4.8 -> 2.2.4.9
+
+### LoreCore
+
+- Version: 0.6.0.0 -> 0.6.1.0
+- Description
+  + Old: Adds a bunch of lore related itemchanger locations and items.
+  + New: Adds a bunch of lore related Item Changer locations and items.
 

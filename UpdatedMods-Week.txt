@@ -1,5 +1,5 @@
-Breakable Wall Randomizer
 AccessRandomizer
 Breakable Wall Randomizer
 GodhomeRandomizer
 Breakable Wall Randomizer
+LoreCore
