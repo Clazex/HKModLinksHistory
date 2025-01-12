@@ -25,3 +25,7 @@
   + Old: Adds a bunch of lore related itemchanger locations and items.
   + New: Adds a bunch of lore related Item Changer locations and items.
 
+### MoreDoors
+
+- Version: 3.0.7.1 -> 3.1.0.0
+
