@@ -2091,9 +2091,9 @@ All with an incredible new soundtrack!</Description>
     <Manifest>
         <Name>Scatternest</Name>
         <Description>Addon for Randomizer and ItemSync allowing players to start at multiple different locations.</Description>
-        <Version>1.2.1.0</Version>
-        <Link SHA256="569106877433828ce42552a0be1dafe1dcd082bd2593a2c5843840371bd54766">
-            <![CDATA[https://github.com/flibber-hk/HollowKnight.Scatternest/releases/download/v1.2.1.0/Scatternest.zip]]>
+        <Version>1.2.1.1</Version>
+        <Link SHA256="6112e422239f62ad6dc9995793651b10e704d6090be448d606d2a7b7e00464e8">
+            <![CDATA[https://github.com/flibber-hk/HollowKnight.Scatternest/releases/download/v1.2.1.1/Scatternest.zip]]>
         </Link>
         <Dependencies>
             <Dependency>Randomizer 4</Dependency>
@@ -6066,9 +6066,9 @@ This is a singleplayer mod. The "teamwork" refers to in-game events.</Descriptio
     <Manifest>
         <Name>MoreDoors</Name>
         <Description>A Rando 4 connection which adds more locked doors to Hallownest.</Description>
-        <Version>3.0.7.0</Version>
-        <Link SHA256="33665594410029DD52BCAAC66D743CD68F4316051600BD91D92C8922504116A7">
-            <![CDATA[https://github.com/dplochcoder/HollowKnight.MoreDoors/releases/download/v3.0.7.0/MoreDoors.zip]]>
+        <Version>3.0.7.1</Version>
+        <Link SHA256="7E580B0FB8CB76259496F40E334A31185ABA574ECB1339834BEAF167062A037A">
+            <![CDATA[https://github.com/dplochcoder/HollowKnight.MoreDoors/releases/download/v3.0.7.1/MoreDoors.zip]]>
         </Link>
         <Dependencies>
             <Dependency>ItemChanger</Dependency>

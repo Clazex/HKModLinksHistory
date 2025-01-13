@@ -1,3 +1,5 @@
 Breakable Wall Randomizer
 LoreCore
 MoreDoors
+CollectorGlitchRemover
+CustomPoolInjector

@@ -76,6 +76,14 @@
 
 - Version: 1.0.0.0 -> 1.0.2.0
 
+### CollectorGlitchRemover
+
+- Version: 1.1.0.0 -> 1.2.0.0
+
+### CustomPoolInjector
+
+- Version: 1.1.2.0 -> 1.1.3.0
+
 ### Godhome Elo Counter
 
 - Version: 1.1.0.0 -> 1.2.0.0
@@ -97,7 +105,7 @@
 
 ### MoreDoors
 
-- Version: 3.0.7.0 -> 3.1.0.0
+- Version: 3.0.7.1 -> 3.1.0.0
 
 ### RemoveLaggyObjects
 
@@ -106,8 +114,4 @@
 ### SFCore
 
 - Version: 1.5.14.0 -> 1.5.14.1
-
-### Scatternest
-
-- Version: 1.2.1.0 -> 1.2.1.1
 
