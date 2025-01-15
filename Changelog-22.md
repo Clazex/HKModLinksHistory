@@ -1,14 +1,9 @@
 # Changelog
 
 
-## New mods
+## Updated mods
 
-### Pure Shape
+### RemoveLaggyObjects
 
-- Description: Changes the player&#x27;s spell and nail arts, players can use skills similar to pure containers, such as blocking counterattacks.
-- Dependencies
-  + HKMirror
-  + Vasi
-- Tags
-  + Gameplay
+- Version: 1.0.1.0 -> 1.0.2.0
 

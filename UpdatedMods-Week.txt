@@ -1,5 +1,7 @@
-LoreCore
 MoreDoors
 CollectorGlitchRemover
 CustomPoolInjector
 CollectorGlitchRemover
+AccessRandomizer
+Breakable Wall Randomizer
+CarThingMod

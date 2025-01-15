@@ -73,11 +73,11 @@
   },
   "AccessRandomizer": {
     "description": "A randomizer add-on for miscellaneous access checks.",
-    "version": "1.2.5.1",
+    "version": "1.2.5.2",
     "links": {
       "type": "universal",
-      "sha256": "542F7CE64F7C1587F025D70D18CE5B4CEF9046363DF43296B6A77FADCCACCBE7",
-      "url": "https://github.com/nerthul11/AccessRandomizer/releases/download/1.2.5.1/AccessRandomizer.zip"
+      "sha256": "CA5E116A3D637D382CBE60045519ED0AC237AE73891FDA62231E9AC825E79B7A",
+      "url": "https://github.com/nerthul11/AccessRandomizer/releases/download/1.2.5.2/AccessRandomizer.zip"
     },
     "dependencies": [
       "ItemChanger",
@@ -844,11 +844,11 @@
   },
   "Breakable Wall Randomizer": {
     "description": "A Hollow Knight Randomizer add-on for breakable walls.",
-    "version": "3.0.3.1",
+    "version": "3.0.4.0",
     "links": {
       "type": "universal",
-      "sha256": "98719DE345062126001DD4E80336704427E58BAA7C8E191033C44A807E9F801C",
-      "url": "https://github.com/nerthul11/BreakableWallRandomizer/releases/download/3.0.3.1/BreakableWallRandomizer.zip"
+      "sha256": "2B3ED0DCAF39E791B9742B92509259995928885E9E833B347223A2F2B6646E70",
+      "url": "https://github.com/nerthul11/BreakableWallRandomizer/releases/download/3.0.4.0/BreakableWallRandomizer.zip"
     },
     "dependencies": [
       "Randomizer 4",
@@ -902,11 +902,11 @@
   },
   "CarThingMod": {
     "description": "Throws a car everytime the player swings their nail",
-    "version": "1.1.1.1",
+    "version": "1.2.6.4",
     "links": {
       "type": "universal",
-      "sha256": "B58DF218709EF42D7CE10457F16489527FB46FC20F17ACB3D3E76F5931BAF197",
-      "url": "https://github.com/Foxyrobo/CarThingMod/releases/download/1.1.1.1/CarThingMod.zip"
+      "sha256": "A6B95550C52AAAB61DE4983C30FF107B6F09D5C5F3C08E4E5670465441A32732",
+      "url": "https://github.com/Foxyrobo/CarThingMod/releases/download/1.2.6.4/CarThingMod.zip"
     },
     "dependencies": [
       "FrogCore",
