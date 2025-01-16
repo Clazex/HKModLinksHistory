@@ -19,6 +19,12 @@
 - Tags
   + Gameplay
 
+### CustomPlayerModel
+
+- Description: Replace your knight sprite with a 3D model
+- Dependencies
+  + Satchel
+
 ### Hivesong
 
 - Description: This mod adds a new charm, Hivesong, which increases the damage dealt by pets.
@@ -33,6 +39,12 @@
 
 - Description: Why stop at 6 of each map marker
 
+### Moonside
+
+- Description: Yes is No and No is Yes. It makes perfect sense in Moonside.
+- Tags
+  + Cosmetic
+
 ### Pure Shape
 
 - Description: Changes the player&#x27;s spell and nail arts, players can use skills similar to pure containers, such as blocking counterattacks.
@@ -41,12 +53,6 @@
   + Vasi
 - Tags
   + Gameplay
-
-### ShadesAnywhere
-
-- Description: A shade can spawn in dreams, White Palace, and Godhome
-- Dependencies
-  + Satchel
 
 ### ouchyGrass
 
@@ -70,15 +76,11 @@
 
 ### Breakable Wall Randomizer
 
-- Version: 3.0.2.5 -> 3.0.4.0
+- Version: 3.0.2.6 -> 3.0.4.0
 
 ### CarThingMod
 
-- Version: 1.1.1.1 -> 1.2.6.4
-
-### Christmas In Dirtmouth
-
-- Version: 1.0.0.0 -> 1.0.2.0
+- Version: 1.1.1.1 -> 1.2.8.1
 
 ### CollectorGlitchRemover
 
@@ -97,7 +99,7 @@
 
 ### GodhomeRandomizer
 
-- Version: 2.2.4.7 -> 2.2.4.9
+- Version: 2.2.4.8 -> 2.2.4.9
 
 ### Grass Randomizer
 
@@ -117,8 +119,4 @@
 ### RemoveLaggyObjects
 
 - Version: 1.0.1.0 -> 1.0.2.0
-
-### SFCore
-
-- Version: 1.5.14.0 -> 1.5.14.1
 

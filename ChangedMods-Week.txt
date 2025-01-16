@@ -5,3 +5,6 @@ CollectorGlitchRemover
 AccessRandomizer
 Breakable Wall Randomizer
 CarThingMod
+CarThingMod
+CustomPlayerModel
+Moonside

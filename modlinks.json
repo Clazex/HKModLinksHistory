@@ -902,11 +902,11 @@
   },
   "CarThingMod": {
     "description": "Throws a car everytime the player swings their nail",
-    "version": "1.2.6.4",
+    "version": "1.2.8.1",
     "links": {
       "type": "universal",
-      "sha256": "A6B95550C52AAAB61DE4983C30FF107B6F09D5C5F3C08E4E5670465441A32732",
-      "url": "https://github.com/Foxyrobo/CarThingMod/releases/download/1.2.6.4/CarThingMod.zip"
+      "sha256": "F8A5848A6DCA2DA10AA50E76201CC029A788EC57ED9662E560632A3ADC2F5405",
+      "url": "https://github.com/Foxyrobo/CarThingMod/releases/download/1.2.8.1/CarThingMod.zip"
     },
     "dependencies": [
       "FrogCore",
@@ -1710,6 +1710,22 @@
     "repository": "https://github.com/ygsbzr/HollowKnight.CustomPantheon/",
     "tags": [
       "Gameplay"
+    ]
+  },
+  "CustomPlayerModel": {
+    "description": "Replace your knight sprite with a 3D model",
+    "version": "0.8.0.0",
+    "links": {
+      "type": "universal",
+      "sha256": "4233D695A1B8A791713E743A6AA435917EB1F5375A0FA887EE95933CBD370026",
+      "url": "https://github.com/TheMathGeek314/CustomPlayerModel/releases/download/v0.8.0.0/CustomPlayerModel.zip"
+    },
+    "dependencies": [
+      "Satchel"
+    ],
+    "repository": "https://github.com/TheMathGeek314/CustomPlayerModel/",
+    "authors": [
+      "TheMathGeek_314"
     ]
   },
   "CustomPoolInjector": {
@@ -4795,6 +4811,24 @@
     ],
     "authors": [
       "BadMagic"
+    ]
+  },
+  "Moonside": {
+    "description": "Yes is No and No is Yes. It makes perfect sense in Moonside.",
+    "version": "1.0.0.0",
+    "links": {
+      "type": "universal",
+      "sha256": "FACC84ABF9048808252A3D0C095664D0C93B8911CF690B61F2BF934CF4B221F6",
+      "url": "https://github.com/nerthul11/Moonside/releases/download/1.0.0.0/Moonside.zip"
+    },
+    "dependencies": [],
+    "repository": "https://github.com/nerthul11/Moonside",
+    "issues": "https://github.com/nerthul11/Moonside/issues",
+    "tags": [
+      "Cosmetic"
+    ],
+    "authors": [
+      "nerthul11"
     ]
   },
   "More Godhome Space": {

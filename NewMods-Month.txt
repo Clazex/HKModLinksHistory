@@ -1,7 +1,8 @@
-ShadesAnywhere
 Pure Shape
 Hivesong
 InfiniteMapMarkers
 CharmPatch
 ouchyGrass
 AllHallownestEnhanced
+CustomPlayerModel
+Moonside
