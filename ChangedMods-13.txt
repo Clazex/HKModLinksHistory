@@ -1,3 +1,0 @@
-AccessRandomizer
-Breakable Wall Randomizer
-GodhomeRandomizer
