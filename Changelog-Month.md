@@ -89,6 +89,10 @@
   + Removed
     - SFCore
 
+### Curse Randomizer
+
+- Version: 5.1.3.0 -> 5.1.4.0
+
 ### CustomPoolInjector
 
 - Version: 1.1.2.0 -> 1.1.3.0
@@ -99,7 +103,7 @@
 
 ### Grass Randomizer
 
-- Version: 1.1.1.0 -> 1.1.2.1
+- Version: 1.1.2.0 -> 1.1.2.1
 
 ### LoreCore
 

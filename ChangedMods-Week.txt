@@ -1,9 +1,8 @@
 CollectorGlitchRemover
-CustomPoolInjector
-CollectorGlitchRemover
 AccessRandomizer
 Breakable Wall Randomizer
 CarThingMod
 CarThingMod
 CustomPlayerModel
 Moonside
+Curse Randomizer

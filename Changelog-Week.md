@@ -32,12 +32,12 @@
 
 ### CollectorGlitchRemover
 
-- Version: 1.1.0.0 -> 1.3.0.0
+- Version: 1.2.0.0 -> 1.3.0.0
 - Dependencies
   + Removed
     - SFCore
 
-### CustomPoolInjector
+### Curse Randomizer
 
-- Version: 1.1.2.0 -> 1.1.3.0
+- Version: 5.1.3.0 -> 5.1.4.0
 

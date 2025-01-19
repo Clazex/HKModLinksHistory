@@ -3,7 +3,7 @@
 
 ## Updated mods
 
-### RemoveLaggyObjects
+### Archipelago
 
-- Version: 1.0.1.0 -> 1.0.2.0
+- Version: 0.6.2.0 -> 0.7.0.0
 

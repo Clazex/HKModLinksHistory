@@ -1,5 +1,4 @@
 Grass Randomizer
-Grass Randomizer
 RemoveLaggyObjects
 Archipelago
 Archipelago
@@ -17,3 +16,4 @@ AccessRandomizer
 Breakable Wall Randomizer
 CarThingMod
 CarThingMod
+Curse Randomizer

@@ -1,7 +1,6 @@
 CollectorGlitchRemover
-CustomPoolInjector
-CollectorGlitchRemover
 AccessRandomizer
 Breakable Wall Randomizer
 CarThingMod
 CarThingMod
+Curse Randomizer

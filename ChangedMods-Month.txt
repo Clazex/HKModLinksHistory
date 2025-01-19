@@ -1,5 +1,4 @@
 Grass Randomizer
-Grass Randomizer
 Pure Shape
 RemoveLaggyObjects
 Archipelago
@@ -25,3 +24,4 @@ CarThingMod
 CarThingMod
 CustomPlayerModel
 Moonside
+Curse Randomizer
