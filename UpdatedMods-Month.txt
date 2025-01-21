@@ -1,4 +1,3 @@
-Grass Randomizer
 RemoveLaggyObjects
 Archipelago
 Archipelago

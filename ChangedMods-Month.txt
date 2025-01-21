@@ -1,4 +1,3 @@
-Grass Randomizer
 Pure Shape
 RemoveLaggyObjects
 Archipelago

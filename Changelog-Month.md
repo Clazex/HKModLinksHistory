@@ -101,10 +101,6 @@
 
 - Version: 2.2.4.8 -> 2.2.4.9
 
-### Grass Randomizer
-
-- Version: 1.1.2.0 -> 1.1.2.1
-
 ### LoreCore
 
 - Version: 0.6.0.0 -> 0.6.1.0
