@@ -16,3 +16,4 @@ Breakable Wall Randomizer
 CarThingMod
 CarThingMod
 Curse Randomizer
+SFCore

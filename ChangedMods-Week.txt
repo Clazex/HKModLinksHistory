@@ -1,4 +1,2 @@
-CarThingMod
-CustomPlayerModel
-Moonside
 Curse Randomizer
+SFCore

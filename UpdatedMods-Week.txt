@@ -1,2 +1,2 @@
-CarThingMod
 Curse Randomizer
+SFCore
