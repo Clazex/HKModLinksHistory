@@ -103,10 +103,6 @@
 
 - Version: 3.0.7.1 -> 3.1.0.0
 
-### RemoveLaggyObjects
-
-- Version: 1.0.1.0 -> 1.0.2.0
-
 ### SFCore
 
 - Version: 1.5.14.1 -> 1.5.14.10

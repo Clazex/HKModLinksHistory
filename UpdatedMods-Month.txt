@@ -1,4 +1,3 @@
-RemoveLaggyObjects
 Archipelago
 Archipelago
 Breakable Wall Randomizer
