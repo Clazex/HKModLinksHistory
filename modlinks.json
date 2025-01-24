@@ -4457,6 +4457,23 @@
       "Ruttie"
     ]
   },
+  "LumaflyKnight": {
+    "description": "Tracks how many lumaflies you've freed",
+    "version": "2.0.0.0",
+    "links": {
+      "type": "universal",
+      "sha256": "D95BBE534FA10DB28DA4786AE988E7E43D923CAC22CC286CCB020307B00F5EEA",
+      "url": "https://github.com/vanaigr/LumaflyKnight/releases/download/release-2/LumaflyKnight.zip"
+    },
+    "dependencies": [],
+    "repository": "https://github.com/vanaigr/LumaflyKnight",
+    "tags": [
+      "Gameplay"
+    ],
+    "authors": [
+      "vanaigr"
+    ]
+  },
   "MagicUI": {
     "description": "A core mod to help other mods build UIs. Does nothing on its own.",
     "version": "1.8.8563.5913",
@@ -6095,11 +6112,11 @@
   },
   "Randomizable Levers": {
     "description": "Randomizer 4 addon that adds the option to randomize levers. Activate lever rando in the Connections menu of Randomizer 4.",
-    "version": "1.2.5.0",
+    "version": "1.2.6.0",
     "links": {
       "type": "universal",
-      "sha256": "F8AE291180897B7E5842D3FF2B11FC7A0B134DFA5D74B7F51D07F84B2CBD888F",
-      "url": "https://github.com/flibber-hk/HollowKnight.RandomizableLevers/releases/download/v1.2.5.0/RandomizableLevers.zip"
+      "sha256": "F53D6D615F98A1378896FAECDE4F78A8626576D28F9F61C7D61E2F9A4C76FE8E",
+      "url": "https://github.com/flibber-hk/HollowKnight.RandomizableLevers/releases/download/v1.2.6.0/RandomizableLevers.zip"
     },
     "dependencies": [
       "ItemChanger"

@@ -1,5 +1,4 @@
 Archipelago
-Archipelago
 Hivesong
 InfiniteMapMarkers
 CharmPatch
@@ -23,3 +22,5 @@ CustomPlayerModel
 Moonside
 Curse Randomizer
 SFCore
+LumaflyKnight
+Randomizable Levers

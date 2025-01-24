@@ -39,6 +39,12 @@
 
 - Description: Why stop at 6 of each map marker
 
+### LumaflyKnight
+
+- Description: Tracks how many lumaflies you&#x27;ve freed
+- Tags
+  + Gameplay
+
 ### Moonside
 
 - Description: Yes is No and No is Yes. It makes perfect sense in Moonside.
@@ -63,7 +69,7 @@
 
 ### Archipelago
 
-- Version: 0.6.2.0 -> 0.7.1.0
+- Version: 0.7.0.0 -> 0.7.1.0
 
 ### Breakable Wall Randomizer
 
@@ -102,6 +108,10 @@
 ### MoreDoors
 
 - Version: 3.0.7.1 -> 3.1.0.0
+
+### Randomizable Levers
+
+- Version: 1.2.5.0 -> 1.2.6.0
 
 ### SFCore
 

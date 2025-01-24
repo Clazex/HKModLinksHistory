@@ -1,2 +1,4 @@
 Curse Randomizer
 SFCore
+LumaflyKnight
+Randomizable Levers

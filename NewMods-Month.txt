@@ -5,3 +5,4 @@ ouchyGrass
 AllHallownestEnhanced
 CustomPlayerModel
 Moonside
+LumaflyKnight
