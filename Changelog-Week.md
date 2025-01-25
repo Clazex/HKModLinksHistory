@@ -12,9 +12,9 @@
 
 ## Updated mods
 
-### Curse Randomizer
+### AccessRandomizer
 
-- Version: 5.1.3.0 -> 5.1.4.0
+- Version: 1.2.5.2 -> 1.3.0.0
 
 ### Randomizable Levers
 

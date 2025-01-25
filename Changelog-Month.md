@@ -65,11 +65,7 @@
 
 ### AccessRandomizer
 
-- Version: 1.2.5.0 -> 1.2.5.2
-
-### Archipelago
-
-- Version: 0.7.0.0 -> 0.7.1.0
+- Version: 1.2.5.0 -> 1.3.0.0
 
 ### Breakable Wall Randomizer
 

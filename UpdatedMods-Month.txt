@@ -1,4 +1,3 @@
-Archipelago
 Breakable Wall Randomizer
 AccessRandomizer
 Breakable Wall Randomizer
@@ -16,3 +15,4 @@ CarThingMod
 Curse Randomizer
 SFCore
 Randomizable Levers
+AccessRandomizer
