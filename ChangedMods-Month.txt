@@ -1,5 +1,3 @@
-Hivesong
-InfiniteMapMarkers
 CharmPatch
 Breakable Wall Randomizer
 ouchyGrass
@@ -24,3 +22,5 @@ SFCore
 LumaflyKnight
 Randomizable Levers
 AccessRandomizer
+AdditionalMaps
+CustomBgm

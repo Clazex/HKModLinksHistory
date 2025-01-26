@@ -25,20 +25,6 @@
 - Dependencies
   + Satchel
 
-### Hivesong
-
-- Description: This mod adds a new charm, Hivesong, which increases the damage dealt by pets.
-- Dependencies
-  + ItemChanger
-  + SFCore
-  + Satchel
-- Tags
-  + Gameplay
-
-### InfiniteMapMarkers
-
-- Description: Why stop at 6 of each map marker
-
 ### LumaflyKnight
 
 - Description: Tracks how many lumaflies you&#x27;ve freed
@@ -67,6 +53,10 @@
 
 - Version: 1.2.5.0 -> 1.3.0.0
 
+### AdditionalMaps
+
+- Version: 1.5.3.2 -> 1.5.4.0
+
 ### Breakable Wall Randomizer
 
 - Version: 3.0.2.6 -> 3.0.4.0
@@ -85,6 +75,10 @@
 ### Curse Randomizer
 
 - Version: 5.1.3.0 -> 5.1.4.0
+
+### CustomBgm
+
+- Version: 1.5.3.3 -> 1.5.3.6
 
 ### CustomPoolInjector
 

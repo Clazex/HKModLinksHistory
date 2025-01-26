@@ -1,3 +1,5 @@
 SFCore
 Randomizable Levers
 AccessRandomizer
+AdditionalMaps
+CustomBgm

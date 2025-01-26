@@ -2,3 +2,5 @@ SFCore
 LumaflyKnight
 Randomizable Levers
 AccessRandomizer
+AdditionalMaps
+CustomBgm

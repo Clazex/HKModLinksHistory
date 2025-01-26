@@ -16,3 +16,5 @@ Curse Randomizer
 SFCore
 Randomizable Levers
 AccessRandomizer
+AdditionalMaps
+CustomBgm

@@ -150,11 +150,11 @@
   },
   "AdditionalMaps": {
     "description": "Adds white palace and godhome maps. The white palace one is next to the bench in the big room. The godhome one is next to the bench above the pantheons.",
-    "version": "1.5.3.2",
+    "version": "1.5.4.0",
     "links": {
       "type": "universal",
-      "sha256": "FB1BE028CCE140F0CFE31D6E8BC82BAF1ABD83C2A018606E188198374190D5CD",
-      "url": "https://github.com/SFGrenade/AdditionalMaps/releases/download/v1.5.3.2/AdditionalMaps.zip"
+      "sha256": "0B787F11973A313383C34F6A4F87B5593863652F9E96B404BB319EABBBFCF0EE",
+      "url": "https://github.com/SFGrenade/AdditionalMaps/releases/download/v1.5.4.0/AdditionalMaps.zip"
     },
     "dependencies": [
       "SFCore"
@@ -1574,11 +1574,11 @@
   },
   "CustomBgm": {
     "description": "Allows customization of background music. See its readme for a how-to.",
-    "version": "1.5.3.3",
+    "version": "1.5.3.6",
     "links": {
       "type": "universal",
-      "sha256": "4A5FF1DE66BFB088E3D66FC0EDECA4926D3A3CACC128E517A1716759D6679333",
-      "url": "https://github.com/SFGrenade/CustomBgm/releases/download/v1.5.3.3/CustomBgm.zip"
+      "sha256": "63CAA0675C17A38B3A9C030906F80C0F7B9BE588CFD3597A85C0639D2FBC1E7D",
+      "url": "https://github.com/SFGrenade/CustomBgm/releases/download/v1.5.3.6/CustomBgm.zip"
     },
     "dependencies": [],
     "repository": "https://github.com/SFGrenade/CustomBgm/",
