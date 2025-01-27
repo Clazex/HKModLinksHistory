@@ -1,4 +1,3 @@
-CharmPatch
 Breakable Wall Randomizer
 ouchyGrass
 AccessRandomizer

@@ -1,4 +1,3 @@
-CharmPatch
 ouchyGrass
 AllHallownestEnhanced
 CustomPlayerModel
