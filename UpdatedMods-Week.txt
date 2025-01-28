@@ -1,4 +1,3 @@
-SFCore
 Randomizable Levers
 AccessRandomizer
 AdditionalMaps
