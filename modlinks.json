@@ -73,11 +73,11 @@
   },
   "AccessRandomizer": {
     "description": "A randomizer add-on for miscellaneous access checks.",
-    "version": "1.3.0.0",
+    "version": "1.3.0.1",
     "links": {
       "type": "universal",
-      "sha256": "495A45C61915D2114696A0288A3639D0C92F19D9565F03F214631EB9DD11658D",
-      "url": "https://github.com/nerthul11/AccessRandomizer/releases/download/1.3.0.0/AccessRandomizer.zip"
+      "sha256": "6118326538F11B9F031162775DB589F37C7768A0B803FF409D12148666D844A9",
+      "url": "https://github.com/nerthul11/AccessRandomizer/releases/download/1.3.0.1/AccessRandomizer.zip"
     },
     "dependencies": [
       "ItemChanger",
@@ -316,16 +316,16 @@
   },
   "AnyZote": {
     "description": "Most powerful zote modded boss ever.",
-    "version": "2.3.0.0",
+    "version": "2.8.0.0",
     "links": {
       "type": "universal",
-      "sha256": "DF51A8886E7865608137BDC451AECF06BA3E76CB127DFE745B5A8BE8B51B82A2",
-      "url": "https://github.com/danirainy/HollowKnight.AbsoluteZote/releases/download/2.3/AnyZote.2.3.zip"
+      "sha256": "3942F3A64B6203D235B746FACD3958CE0EE81DD49D90FFDFF1CFAAE567405E95",
+      "url": "https://github.com/zoteline/HollowKnight.AbsoluteZote/releases/download/2.8/AnyZote.2.8.zip"
     },
     "dependencies": [
       "Satchel"
     ],
-    "repository": "https://github.com/danirainy/HollowKnight.AbsoluteZote/tree/anyzote/"
+    "repository": "https://github.com/zoteline/HollowKnight.AbsoluteZote/tree/anyzote/"
   },
   "Arcade Knight": {
     "description": "Adds some minigames.",
@@ -844,11 +844,11 @@
   },
   "Breakable Wall Randomizer": {
     "description": "A Hollow Knight Randomizer add-on for breakable walls.",
-    "version": "3.0.4.0",
+    "version": "3.0.4.2",
     "links": {
       "type": "universal",
-      "sha256": "2B3ED0DCAF39E791B9742B92509259995928885E9E833B347223A2F2B6646E70",
-      "url": "https://github.com/nerthul11/BreakableWallRandomizer/releases/download/3.0.4.0/BreakableWallRandomizer.zip"
+      "sha256": "53322A5306FCA4D640D4566A3736BF493C78A26FFFB383D0EF4CED38EA4A2D4C",
+      "url": "https://github.com/nerthul11/BreakableWallRandomizer/releases/download/3.0.4.2/BreakableWallRandomizer.zip"
     },
     "dependencies": [
       "Randomizer 4",
@@ -1493,11 +1493,11 @@
   },
   "Curse Randomizer": {
     "description": "Randomizer 4 connection that adds additional cursed options.",
-    "version": "5.1.4.0",
+    "version": "5.1.5.0",
     "links": {
       "type": "universal",
-      "sha256": "031F706DE553430AE4DC53064CCA5B940719B9E6332D4F65A5F22BDA91BAF095",
-      "url": "https://github.com/Korzer420/CurseRandomizer/releases/download/v5.1.4/CurseRandomizer.zip"
+      "sha256": "936E2348D715296DE04F76F7F83C53C686CB376F47D6FC2BFFAD24AB40C47D60",
+      "url": "https://github.com/Korzer420/CurseRandomizer/releases/download/v5.1.5/CurseRandomizer.zip"
     },
     "dependencies": [
       "Benchwarp",

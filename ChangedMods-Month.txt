@@ -23,3 +23,7 @@ Randomizable Levers
 AccessRandomizer
 AdditionalMaps
 CustomBgm
+AccessRandomizer
+AnyZote
+Breakable Wall Randomizer
+Curse Randomizer
