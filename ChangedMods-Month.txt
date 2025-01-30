@@ -27,3 +27,4 @@ AccessRandomizer
 AnyZote
 Breakable Wall Randomizer
 Curse Randomizer
+AccessRandomizer

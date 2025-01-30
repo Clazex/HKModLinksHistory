@@ -43,7 +43,7 @@
 
 ### AccessRandomizer
 
-- Version: 1.2.5.0 -> 1.3.0.1
+- Version: 1.2.5.0 -> 1.3.0.2
 
 ### AdditionalMaps
 
