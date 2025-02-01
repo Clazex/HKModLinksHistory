@@ -1,7 +1,7 @@
-AdditionalMaps
-CustomBgm
 AccessRandomizer
 AnyZote
 Breakable Wall Randomizer
 Curse Randomizer
 AccessRandomizer
+HKViz
+LoreCore

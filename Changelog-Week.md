@@ -1,15 +1,18 @@
 # Changelog
 
 
+## New mods
+
+### IntangibleShadow
+
+- Description: Shade Cloak can go through just about anything
+
+
 ## Updated mods
 
 ### AccessRandomizer
 
 - Version: 1.3.0.0 -> 1.3.0.2
-
-### AdditionalMaps
-
-- Version: 1.5.3.2 -> 1.5.4.0
 
 ### AnyZote
 
@@ -23,7 +26,11 @@
 
 - Version: 5.1.4.0 -> 5.1.5.0
 
-### CustomBgm
+### HKViz
 
-- Version: 1.5.3.3 -> 1.5.3.6
+- Version: 1.5.1.0 -> 1.6.0.0
+
+### LoreCore
+
+- Version: 0.6.1.0 -> 0.6.2.0
 

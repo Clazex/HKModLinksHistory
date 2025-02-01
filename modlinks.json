@@ -3504,11 +3504,11 @@
   },
   "HKViz": {
     "description": "A mod that records analytics like movement, deaths, equipped charms, abilities used and much more to allows visualizing those analytics on hkviz.org",
-    "version": "1.5.1.0",
+    "version": "1.6.0.0",
     "links": {
       "type": "universal",
-      "sha256": "ABF6386111943AB1DC2705EFFA376D3C3DCE5BBCDD4417D561F63822E0B70CA5",
-      "url": "https://github.com/hkviz/hkviz-mod/releases/download/v1.5.1.0/HKViz.zip"
+      "sha256": "8C1B347FEE7DCF99602A17EDEFD34E1AACE242C27C50C6CA701B70C1E4C80A62",
+      "url": "https://github.com/hkviz/hkviz-mod/releases/download/v1.6.0.0/HKViz.zip"
     },
     "dependencies": [
       "Core.FsmUtil",
@@ -4037,6 +4037,20 @@
       "Phenomenol"
     ]
   },
+  "IntangibleShadow": {
+    "description": "Shade Cloak can go through just about anything",
+    "version": "1.0.0.0",
+    "links": {
+      "type": "universal",
+      "sha256": "A8C51F3A6713589B16DBD53C1BC29A21E77FD50DF0DD190D41C0981D82774CAC",
+      "url": "https://github.com/TheMathGeek314/IntangibleShadow/releases/download/v1.0.0.0/IntangibleShadow.zip"
+    },
+    "dependencies": [],
+    "repository": "https://github.com/TheMathGeek314/IntangibleShadow/",
+    "authors": [
+      "TheMathGeek_314"
+    ]
+  },
   "Invincibility Monitor": {
     "description": "Grants invincibility in some scenarios.",
     "version": "1.2.0.0",
@@ -4398,11 +4412,11 @@
   },
   "LoreCore": {
     "description": "Adds a bunch of lore related Item Changer locations and items.",
-    "version": "0.6.1.0",
+    "version": "0.6.2.0",
     "links": {
       "type": "universal",
-      "sha256": "F05516601D67AF2A7D3E8D86716CDD00E2EA52A4C0EFF704916E96EE7D9AC82F",
-      "url": "https://github.com/Korzer420/LoreCore/releases/download/v0.6.1/LoreCore.zip"
+      "sha256": "B04603100E7251EFD9D4E7C78B0ABDAD67DD76B4A6DF0507896C83DC267A458D",
+      "url": "https://github.com/Korzer420/LoreCore/releases/download/v0.6.2/LoreCore.zip"
     },
     "dependencies": [
       "ItemChanger",

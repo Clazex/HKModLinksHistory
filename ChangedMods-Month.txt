@@ -1,5 +1,3 @@
-Breakable Wall Randomizer
-ouchyGrass
 AccessRandomizer
 Breakable Wall Randomizer
 GodhomeRandomizer
@@ -28,3 +26,6 @@ AnyZote
 Breakable Wall Randomizer
 Curse Randomizer
 AccessRandomizer
+HKViz
+IntangibleShadow
+LoreCore

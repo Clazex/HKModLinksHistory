@@ -17,6 +17,10 @@
 - Dependencies
   + Satchel
 
+### IntangibleShadow
+
+- Description: Shade Cloak can go through just about anything
+
 ### LumaflyKnight
 
 - Description: Tracks how many lumaflies you&#x27;ve freed
@@ -28,15 +32,6 @@
 - Description: Yes is No and No is Yes. It makes perfect sense in Moonside.
 - Tags
   + Cosmetic
-
-### ouchyGrass
-
-- Description: Touching grass hurts or kills the player.
-- Integrations
-  + Grass Randomizer
-  + GrassyKnight
-- Tags
-  + Gameplay
 
 
 ## Updated mods
@@ -55,7 +50,7 @@
 
 ### Breakable Wall Randomizer
 
-- Version: 3.0.2.6 -> 3.0.4.2
+- Version: 3.0.2.7 -> 3.0.4.2
 
 ### CarThingMod
 
@@ -84,9 +79,13 @@
 
 - Version: 2.2.4.8 -> 2.2.4.9
 
+### HKViz
+
+- Version: 1.5.1.0 -> 1.6.0.0
+
 ### LoreCore
 
-- Version: 0.6.0.0 -> 0.6.1.0
+- Version: 0.6.0.0 -> 0.6.2.0
 - Description
   + Old: Adds a bunch of lore related itemchanger locations and items.
   + New: Adds a bunch of lore related Item Changer locations and items.
