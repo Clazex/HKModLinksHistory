@@ -26,6 +26,10 @@
 
 - Version: 5.1.4.0 -> 5.1.5.0
 
+### GodhomeRandomizer
+
+- Version: 2.2.4.9 -> 2.2.4.10
+
 ### HKViz
 
 - Version: 1.5.1.0 -> 1.6.0.0
@@ -33,4 +37,8 @@
 ### LoreCore
 
 - Version: 0.6.1.0 -> 0.6.2.0
+
+### Moonside
+
+- Version: 1.0.0.0 -> 1.1.0.0
 

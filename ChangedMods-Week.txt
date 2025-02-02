@@ -6,3 +6,5 @@ AccessRandomizer
 HKViz
 IntangibleShadow
 LoreCore
+GodhomeRandomizer
+Moonside

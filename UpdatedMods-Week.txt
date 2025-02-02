@@ -5,3 +5,5 @@ Curse Randomizer
 AccessRandomizer
 HKViz
 LoreCore
+GodhomeRandomizer
+Moonside
