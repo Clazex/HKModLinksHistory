@@ -28,3 +28,6 @@ IntangibleShadow
 LoreCore
 GodhomeRandomizer
 Moonside
+Archipelago
+MoreLocations
+TheRealJournalRando

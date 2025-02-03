@@ -18,6 +18,10 @@
 
 - Version: 2.3.0.0 -> 2.8.0.0
 
+### Archipelago
+
+- Version: 0.7.1.0 -> 0.8.0.0
+
 ### Breakable Wall Randomizer
 
 - Version: 3.0.4.0 -> 3.0.4.2
@@ -41,4 +45,12 @@
 ### Moonside
 
 - Version: 1.0.0.0 -> 1.1.0.0
+
+### MoreLocations
+
+- Version: 1.1.8940.26445 -> 1.2.9164.32425
+
+### TheRealJournalRando
+
+- Version: 2.4.8989.41686 -> 2.4.9164.32616
 
