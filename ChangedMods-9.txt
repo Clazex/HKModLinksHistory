@@ -1,2 +1,0 @@
-AdditionalMaps
-CustomBgm
