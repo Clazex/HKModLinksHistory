@@ -1,4 +1,3 @@
-AllHallownestEnhanced
 Breakable Wall Randomizer
 LoreCore
 MoreDoors
