@@ -46,7 +46,7 @@
 
 ### Breakable Wall Randomizer
 
-- Version: 3.0.3.0 -> 3.0.4.2
+- Version: 3.0.3.1 -> 3.0.4.2
 
 ### CarThingMod
 
