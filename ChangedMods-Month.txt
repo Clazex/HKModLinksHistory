@@ -1,4 +1,3 @@
-LoreCore
 MoreDoors
 CollectorGlitchRemover
 CustomPoolInjector

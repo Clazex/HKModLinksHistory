@@ -1,13 +1,6 @@
 # Changelog
 
 
-## New mods
-
-### IntangibleShadow
-
-- Description: Shade Cloak can go through just about anything
-
-
 ## Updated mods
 
 ### Archipelago
@@ -17,14 +10,6 @@
 ### GodhomeRandomizer
 
 - Version: 2.2.4.9 -> 2.2.4.10
-
-### HKViz
-
-- Version: 1.5.1.0 -> 1.6.0.0
-
-### LoreCore
-
-- Version: 0.6.1.0 -> 0.6.2.0
 
 ### Moonside
 

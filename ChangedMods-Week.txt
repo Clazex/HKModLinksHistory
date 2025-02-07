@@ -1,6 +1,3 @@
-HKViz
-IntangibleShadow
-LoreCore
 GodhomeRandomizer
 Moonside
 Archipelago
