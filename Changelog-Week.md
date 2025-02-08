@@ -7,14 +7,6 @@
 
 - Version: 0.7.1.0 -> 0.8.0.0
 
-### GodhomeRandomizer
-
-- Version: 2.2.4.9 -> 2.2.4.10
-
-### Moonside
-
-- Version: 1.0.0.0 -> 1.1.0.0
-
 ### MoreLocations
 
 - Version: 1.1.8940.26445 -> 1.2.9164.32425
