@@ -24,3 +24,5 @@ Moonside
 Archipelago
 MoreLocations
 TheRealJournalRando
+MoreDoors
+PurenailCore
