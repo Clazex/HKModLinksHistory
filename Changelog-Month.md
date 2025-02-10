@@ -85,7 +85,7 @@
 
 ### MoreDoors
 
-- Version: 3.0.7.1 -> 3.1.2.0
+- Version: 3.1.0.0 -> 3.1.2.0
 
 ### MoreLocations
 
