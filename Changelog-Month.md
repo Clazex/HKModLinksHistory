@@ -52,13 +52,6 @@
 
 - Version: 1.1.1.1 -> 1.2.8.1
 
-### CollectorGlitchRemover
-
-- Version: 1.2.0.0 -> 1.3.0.0
-- Dependencies
-  + Removed
-    - SFCore
-
 ### Curse Randomizer
 
 - Version: 5.1.3.0 -> 5.1.5.0
