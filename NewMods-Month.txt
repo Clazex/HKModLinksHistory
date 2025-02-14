@@ -1,4 +1,2 @@
-CustomPlayerModel
-Moonside
 LumaflyKnight
 IntangibleShadow

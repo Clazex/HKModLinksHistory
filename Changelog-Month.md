@@ -3,12 +3,6 @@
 
 ## New mods
 
-### CustomPlayerModel
-
-- Description: Replace your knight sprite with a 3D model
-- Dependencies
-  + Satchel
-
 ### IntangibleShadow
 
 - Description: Shade Cloak can go through just about anything
@@ -18,12 +12,6 @@
 - Description: Tracks how many lumaflies you&#x27;ve freed
 - Tags
   + Gameplay
-
-### Moonside
-
-- Description: Yes is No and No is Yes. It makes perfect sense in Moonside.
-- Tags
-  + Cosmetic
 
 
 ## Updated mods
@@ -48,10 +36,6 @@
 
 - Version: 3.0.4.0 -> 3.0.4.2
 
-### CarThingMod
-
-- Version: 1.2.6.4 -> 1.2.8.1
-
 ### Curse Randomizer
 
 - Version: 5.1.3.0 -> 5.1.5.0
@@ -71,6 +55,10 @@
 ### LoreCore
 
 - Version: 0.6.1.0 -> 0.6.2.0
+
+### Moonside
+
+- Version: 1.0.0.0 -> 1.1.0.0
 
 ### MoreDoors
 
