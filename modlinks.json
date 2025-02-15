@@ -4473,11 +4473,11 @@
   },
   "LumaflyKnight": {
     "description": "Tracks how many lumaflies you've freed",
-    "version": "5.0.0.0",
+    "version": "9.0.0.0",
     "links": {
       "type": "universal",
-      "sha256": "835B235732FFD8037D74F691791A684C119038A139AC3D46D964B48178AA0B36",
-      "url": "https://github.com/vanaigr/LumaflyKnight/releases/download/release-5/LumaflyKnight.zip"
+      "sha256": "78755A4577D98F47467C72D7E29189D575A42D3002379B0E4EC2F7849D1A2AE3",
+      "url": "https://github.com/vanaigr/LumaflyKnight/releases/download/release-9/LumaflyKnight.zip"
     },
     "dependencies": [],
     "repository": "https://github.com/vanaigr/LumaflyKnight",
