@@ -20,3 +20,4 @@ MoreDoors
 PurenailCore
 LumaflyKnight
 LumaflyKnight
+Breakable Wall Randomizer
