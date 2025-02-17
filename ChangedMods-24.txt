@@ -1,2 +1,1 @@
-LumaflyKnight
-Randomizable Levers
+AccessRandomizer

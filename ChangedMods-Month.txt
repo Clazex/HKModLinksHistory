@@ -1,4 +1,3 @@
-Curse Randomizer
 SFCore
 LumaflyKnight
 Randomizable Levers
@@ -23,3 +22,5 @@ PurenailCore
 LumaflyKnight
 LumaflyKnight
 Breakable Wall Randomizer
+FlowerRandomizer
+Moonside
