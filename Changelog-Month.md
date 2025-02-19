@@ -13,6 +13,15 @@
 - Tags
   + Gameplay
 
+### Sunset Samsara II
+
+- Description: Modded Radiance
+- Dependencies
+  + HKMirror
+  + Vasi
+- Tags
+  + Boss
+
 
 ## Updated mods
 

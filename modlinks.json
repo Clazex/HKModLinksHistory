@@ -7068,6 +7068,26 @@
       "ROTTEN108"
     ]
   },
+  "Sunset Samsara II": {
+    "description": "Modded Radiance",
+    "version": "1.0.0.1",
+    "links": {
+      "type": "universal",
+      "sha256": "98043A29CA2132154C945FFCAD5A6F05EC72A65895E9DD77E220228A962E5D5C",
+      "url": "https://github.com/ROTTEN108/Sunset-Samsara-2/releases/download/v1.0.0.1/Sunset.Samsara.2.zip"
+    },
+    "dependencies": [
+      "HKMirror",
+      "Vasi"
+    ],
+    "repository": "https://github.com/ROTTEN108/Sunset-Samsara-2",
+    "tags": [
+      "Boss"
+    ],
+    "authors": [
+      "ROTTEN108"
+    ]
+  },
   "Taxes": {
     "description": "All your geo means all your geo",
     "version": "1.0.0.0",
