@@ -89,10 +89,6 @@
 
 - Version: 1.2.5.0 -> 1.2.6.0
 
-### SFCore
-
-- Version: 1.5.14.1 -> 1.5.14.10
-
 ### TheRealJournalRando
 
 - Version: 2.4.8989.41686 -> 2.4.9164.32616

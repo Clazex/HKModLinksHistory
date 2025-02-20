@@ -3,7 +3,11 @@
 
 ## Updated mods
 
-### Breakable Wall Randomizer
+### FlowerRandomizer
 
-- Version: 3.0.4.2 -> 3.0.4.3
+- Version: 1.0.0.2 -> 1.0.0.3
+
+### Moonside
+
+- Version: 1.1.0.0 -> 1.1.0.1
 
