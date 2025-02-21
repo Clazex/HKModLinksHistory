@@ -1096,9 +1096,9 @@ All with an incredible new soundtrack!</Description>
     <Manifest>
         <Name>Breakable Wall Randomizer</Name>
         <Description>A Hollow Knight Randomizer add-on for breakable walls.</Description>
-        <Version>3.0.4.0</Version>
-        <Link SHA256="2B3ED0DCAF39E791B9742B92509259995928885E9E833B347223A2F2B6646E70">
-            <![CDATA[https://github.com/nerthul11/BreakableWallRandomizer/releases/download/3.0.4.0/BreakableWallRandomizer.zip]]>
+        <Version>3.0.4.2</Version>
+        <Link SHA256="53322A5306FCA4D640D4566A3736BF493C78A26FFFB383D0EF4CED38EA4A2D4C">
+            <![CDATA[https://github.com/nerthul11/BreakableWallRandomizer/releases/download/3.0.4.2/BreakableWallRandomizer.zip]]>
         </Link>
         <Dependencies>
             <Dependency>Randomizer 4</Dependency>
@@ -1369,15 +1369,15 @@ All with an incredible new soundtrack!</Description>
     <Manifest>
         <Name>AnyZote</Name>
         <Description>Most powerful zote modded boss ever.</Description>
-        <Version>2.3.0.0</Version>
-        <Link SHA256="df51a8886e7865608137bdc451aecf06ba3e76cb127dfe745b5a8be8b51b82a2">
-            <![CDATA[https://github.com/danirainy/HollowKnight.AbsoluteZote/releases/download/2.3/AnyZote.2.3.zip]]>
+        <Version>2.8.0.0</Version>
+        <Link SHA256="3942f3a64b6203d235b746facd3958ce0ee81dd49d90ffdff1cfaae567405e95">
+            <![CDATA[https://github.com/zoteline/HollowKnight.AbsoluteZote/releases/download/2.8/AnyZote.2.8.zip]]>
         </Link>
         <Dependencies>
             <Dependency>Satchel</Dependency>
         </Dependencies>
         <Repository>
-            <![CDATA[https://github.com/danirainy/HollowKnight.AbsoluteZote/tree/anyzote/]]>
+            <![CDATA[https://github.com/zoteline/HollowKnight.AbsoluteZote/tree/anyzote/]]>
         </Repository>
     </Manifest>
     <Manifest>
@@ -6387,9 +6387,9 @@ This is a singleplayer mod. The "teamwork" refers to in-game events.</Descriptio
     <Manifest>
         <Name>Curse Randomizer</Name>
         <Description>Randomizer 4 connection that adds additional cursed options.</Description>
-        <Version>5.1.4.0</Version>
-        <Link SHA256="031f706de553430ae4dc53064cca5b940719b9e6332d4f65a5f22bda91baf095">
-            <![CDATA[https://github.com/Korzer420/CurseRandomizer/releases/download/v5.1.4/CurseRandomizer.zip]]></Link>
+        <Version>5.1.5.0</Version>
+        <Link SHA256="936e2348d715296de04f76f7f83c53c686cb376f47d6fc2bffad24ab40c47d60">
+            <![CDATA[https://github.com/Korzer420/CurseRandomizer/releases/download/v5.1.5/CurseRandomizer.zip]]></Link>
         <Dependencies>
             <Dependency>Randomizer 4</Dependency>
             <Dependency>Benchwarp</Dependency>
@@ -7677,9 +7677,9 @@ This is a singleplayer mod. The "teamwork" refers to in-game events.</Descriptio
     <Manifest>
     	<Name>AccessRandomizer</Name>
     	<Description>A randomizer add-on for miscellaneous access checks.</Description>
-    	<Version>1.3.0.0</Version>
-    	<Link SHA256="495A45C61915D2114696A0288A3639D0C92F19D9565F03F214631EB9DD11658D">
-	    <![CDATA[https://github.com/nerthul11/AccessRandomizer/releases/download/1.3.0.0/AccessRandomizer.zip]]>
+    	<Version>1.3.0.1</Version>
+    	<Link SHA256="6118326538F11B9F031162775DB589F37C7768A0B803FF409D12148666D844A9">
+	    <![CDATA[https://github.com/nerthul11/AccessRandomizer/releases/download/1.3.0.1/AccessRandomizer.zip]]>
 	</Link>
 	<Dependencies>
 		<Dependency>ItemChanger</Dependency>

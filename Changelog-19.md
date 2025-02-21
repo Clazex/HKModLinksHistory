@@ -3,11 +3,15 @@
 
 ## Updated mods
 
-### GodhomeRandomizer
+### Archipelago
 
-- Version: 2.2.4.9 -> 2.2.4.10
+- Version: 0.7.1.0 -> 0.8.0.0
 
-### Moonside
+### MoreLocations
 
-- Version: 1.0.0.0 -> 1.1.0.0
+- Version: 1.1.8940.26445 -> 1.2.9164.32425
+
+### TheRealJournalRando
+
+- Version: 2.4.8989.41686 -> 2.4.9164.32616
 
