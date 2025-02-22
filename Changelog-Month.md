@@ -7,12 +7,6 @@
 
 - Description: Shade Cloak can go through just about anything
 
-### LumaflyKnight
-
-- Description: Tracks how many lumaflies you&#x27;ve freed
-- Tags
-  + Gameplay
-
 ### Sunset Samsara II
 
 - Description: Modded Radiance
@@ -69,6 +63,10 @@
 
 - Version: 0.6.1.0 -> 0.6.2.0
 
+### LumaflyKnight
+
+- Version: 2.0.0.0 -> 9.0.0.0
+
 ### Moonside
 
 - Version: 1.0.0.0 -> 1.1.0.1
@@ -84,10 +82,6 @@
 ### PurenailCore
 
 - Version: 1.2.4.0 -> 1.3.0.0
-
-### Randomizable Levers
-
-- Version: 1.2.5.0 -> 1.2.6.0
 
 ### TheRealJournalRando
 

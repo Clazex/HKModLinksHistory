@@ -15,10 +15,6 @@
 
 ## Updated mods
 
-### Breakable Wall Randomizer
-
-- Version: 3.0.4.2 -> 3.0.4.3
-
 ### FlowerRandomizer
 
 - Version: 1.0.0.2 -> 1.0.0.3
