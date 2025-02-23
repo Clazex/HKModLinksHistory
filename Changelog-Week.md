@@ -3,6 +3,10 @@
 
 ## New mods
 
+### Pogonest
+
+- Description: Pogo anything
+
 ### Sunset Samsara II
 
 - Description: Modded Radiance
@@ -15,11 +19,11 @@
 
 ## Updated mods
 
-### FlowerRandomizer
+### LumaflyKnight
 
-- Version: 1.0.0.2 -> 1.0.0.3
+- Version: 9.0.0.0 -> 10.0.0.0
 
-### Moonside
+### Pale Court
 
-- Version: 1.1.0.0 -> 1.1.0.1
+- Version: 1.1.0.0 -> 1.1.1.0
 

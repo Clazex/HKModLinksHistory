@@ -7,6 +7,10 @@
 
 - Description: Shade Cloak can go through just about anything
 
+### Pogonest
+
+- Description: Pogo anything
+
 ### Sunset Samsara II
 
 - Description: Modded Radiance
@@ -21,7 +25,7 @@
 
 ### AccessRandomizer
 
-- Version: 1.2.5.2 -> 1.3.0.2
+- Version: 1.3.0.0 -> 1.3.0.2
 
 ### AdditionalMaps
 
@@ -65,7 +69,7 @@
 
 ### LumaflyKnight
 
-- Version: 2.0.0.0 -> 9.0.0.0
+- Version: 2.0.0.0 -> 10.0.0.0
 
 ### Moonside
 
@@ -78,6 +82,10 @@
 ### MoreLocations
 
 - Version: 1.1.8940.26445 -> 1.2.9164.32425
+
+### Pale Court
+
+- Version: 1.1.0.0 -> 1.1.1.0
 
 ### PurenailCore
 

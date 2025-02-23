@@ -1,4 +1,3 @@
-AccessRandomizer
 AdditionalMaps
 CustomBgm
 AccessRandomizer
@@ -20,3 +19,5 @@ LumaflyKnight
 Breakable Wall Randomizer
 FlowerRandomizer
 Moonside
+LumaflyKnight
+Pale Court
