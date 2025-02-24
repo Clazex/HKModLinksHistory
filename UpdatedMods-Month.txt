@@ -1,5 +1,3 @@
-AdditionalMaps
-CustomBgm
 AccessRandomizer
 AnyZote
 Breakable Wall Randomizer
