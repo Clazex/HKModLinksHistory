@@ -25,11 +25,7 @@
 
 ### AccessRandomizer
 
-- Version: 1.3.0.0 -> 1.3.0.2
-
-### AnyZote
-
-- Version: 2.3.0.0 -> 2.8.0.0
+- Version: 1.3.0.1 -> 1.3.0.2
 
 ### Archipelago
 
@@ -37,11 +33,7 @@
 
 ### Breakable Wall Randomizer
 
-- Version: 3.0.4.0 -> 3.0.4.3
-
-### Curse Randomizer
-
-- Version: 5.1.4.0 -> 5.1.5.0
+- Version: 3.0.4.2 -> 3.0.4.3
 
 ### FlowerRandomizer
 
