@@ -1,4 +1,3 @@
-AccessRandomizer
 HKViz
 LoreCore
 GodhomeRandomizer
@@ -15,3 +14,4 @@ FlowerRandomizer
 Moonside
 LumaflyKnight
 Pale Court
+AccessRandomizer

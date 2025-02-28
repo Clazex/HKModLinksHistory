@@ -10,6 +10,10 @@
 
 ## Updated mods
 
+### AccessRandomizer
+
+- Version: 1.3.0.2 -> 1.3.0.3
+
 ### LumaflyKnight
 
 - Version: 9.0.0.0 -> 10.0.0.0

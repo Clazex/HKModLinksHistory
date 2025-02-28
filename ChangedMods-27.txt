@@ -1,3 +1,2 @@
-HKViz
-IntangibleShadow
-LoreCore
+GodhomeRandomizer
+Moonside
