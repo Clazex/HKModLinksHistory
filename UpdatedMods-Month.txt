@@ -15,3 +15,21 @@ Moonside
 LumaflyKnight
 Pale Court
 AccessRandomizer
+AdBlocker
+BingoGoalPack1
+CustomPlayerModel
+CycloneCopter
+DynamicCrystalDash
+Elderbugnest
+HkmpTransitionAlerts
+KeepDiveIFrames
+KeybindOverhaul
+MidasTouch
+MilliGolf
+PlayerTrail
+SaferWhitePalace
+ShadesAnywhere
+UnconstrainedRotation
+UnlimitedHiveblood
+UnlimitedShades
+VoiceToCrySuffering
