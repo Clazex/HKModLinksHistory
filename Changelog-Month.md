@@ -3,10 +3,6 @@
 
 ## New mods
 
-### IntangibleShadow
-
-- Description: Shade Cloak can go through just about anything
-
 ### Pogonest
 
 - Description: Pogo anything
@@ -67,10 +63,6 @@
 
 - Version: 2.2.4.9 -> 2.2.4.10
 
-### HKViz
-
-- Version: 1.5.1.0 -> 1.6.0.0
-
 ### HkmpTransitionAlerts
 
 - Version: 1.0.0.0 -> 1.0.0.1
@@ -82,10 +74,6 @@
 ### KeybindOverhaul
 
 - Version: 1.0.0.0 -> 1.0.0.1
-
-### LoreCore
-
-- Version: 0.6.1.0 -> 0.6.2.0
 
 ### LumaflyKnight
 

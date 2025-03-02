@@ -1,5 +1,3 @@
-HKViz
-LoreCore
 GodhomeRandomizer
 Moonside
 Archipelago
