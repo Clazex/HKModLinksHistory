@@ -59,10 +59,6 @@
 
 - Version: 1.0.0.2 -> 1.0.0.3
 
-### GodhomeRandomizer
-
-- Version: 2.2.4.9 -> 2.2.4.10
-
 ### HkmpTransitionAlerts
 
 - Version: 1.0.0.0 -> 1.0.0.1
@@ -89,7 +85,7 @@
 
 ### Moonside
 
-- Version: 1.0.0.0 -> 1.1.0.1
+- Version: 1.1.0.0 -> 1.1.0.1
 
 ### MoreDoors
 
