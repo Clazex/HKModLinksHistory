@@ -1,6 +1,15 @@
 # Changelog
 
 
+## New mods
+
+### FasterIntroSkip
+
+- Description: Makes skipping the intro cutscenes faster.
+- Tags
+  + Gameplay
+
+
 ## Updated mods
 
 ### AccessRandomizer
@@ -14,6 +23,10 @@
 ### BingoGoalPack1
 
 - Version: 1.5.1.1 -> 1.5.1.2
+
+### Charm Changer Rando
+
+- Version: 1.1.0.0 -> 2.0.0.0
 
 ### CustomPlayerModel
 

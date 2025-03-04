@@ -17,3 +17,5 @@ UnconstrainedRotation
 UnlimitedHiveblood
 UnlimitedShades
 VoiceToCrySuffering
+Charm Changer Rando
+FasterIntroSkip

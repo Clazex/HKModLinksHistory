@@ -3,6 +3,12 @@
 
 ## New mods
 
+### FasterIntroSkip
+
+- Description: Makes skipping the intro cutscenes faster.
+- Tags
+  + Gameplay
+
 ### Pogonest
 
 - Description: Pogo anything
@@ -27,10 +33,6 @@
 
 - Version: 1.0.0.0 -> 1.0.0.1
 
-### Archipelago
-
-- Version: 0.7.1.0 -> 0.8.0.0
-
 ### BingoGoalPack1
 
 - Version: 1.5.1.1 -> 1.5.1.2
@@ -38,6 +40,10 @@
 ### Breakable Wall Randomizer
 
 - Version: 3.0.4.2 -> 3.0.4.3
+
+### Charm Changer Rando
+
+- Version: 1.1.0.0 -> 2.0.0.0
 
 ### CustomPlayerModel
 
@@ -91,10 +97,6 @@
 
 - Version: 3.1.0.0 -> 3.1.2.0
 
-### MoreLocations
-
-- Version: 1.1.8940.26445 -> 1.2.9164.32425
-
 ### Pale Court
 
 - Version: 1.1.0.0 -> 1.1.1.0
@@ -114,10 +116,6 @@
 ### ShadesAnywhere
 
 - Version: 1.0.0.0 -> 1.0.0.1
-
-### TheRealJournalRando
-
-- Version: 2.4.8989.41686 -> 2.4.9164.32616
 
 ### UnconstrainedRotation
 

@@ -240,6 +240,20 @@ Not recommended for use in new mods.</Description>
     </Authors>
 </Manifest>
 <Manifest>
+    <Name>Pogonest</Name>
+    <Description>Pogo anything</Description>
+    <Version>1.0.0.0</Version>
+    <Link SHA256="AE2BA5148647F09A267D901CA6BC4CE245D1BE972A7DF793BA72286AB333513A"><![CDATA[https://github.com/TheMathGeek314/Pogonest/releases/download/v1.0.0.0/Pogonest.zip]]></Link>
+    <Dependencies>
+    </Dependencies>
+    <Repository>
+        <![CDATA[https://github.com/TheMathGeek314/Pogonest/]]>
+    </Repository>
+    <Authors>
+        <Author>TheMathGeek_314</Author>
+    </Authors>
+</Manifest>
+<Manifest>
     <Name>IntangibleShadow</Name>
     <Description>Shade Cloak can go through just about anything</Description>
     <Version>1.0.0.0</Version>
@@ -756,11 +770,11 @@ Not recommended for use in new mods.</Description>
 Overcome your opponents with powerful new charms!
 Discover new secrets and stories!
 All with an incredible new soundtrack!</Description>
-    <Version>1.1.0.0</Version>
+    <Version>1.1.1.0</Version>
     <Links>
-	<Linux SHA256="FDFD057399BC185AA89601669D44B1096223ABB0445E6435CBA759D202D8F86E"><![CDATA[https://github.com/PaleCourt/PaleCourt/releases/download/1.1.0.0/PaleCourt-Lin.zip]]></Linux>
-        <Mac SHA256="3925C682FC68A60F56939E49C1D32090F27072729387490122126774FEF26BA8"><![CDATA[https://github.com/PaleCourt/PaleCourt/releases/download/1.1.0.0/PaleCourt-Mac.zip]]></Mac>
-        <Windows SHA256="2B1D6F9A81F8039AE326328EADE19F923DFE73631C2917520BABA93983155085"><![CDATA[https://github.com/PaleCourt/PaleCourt/releases/download/1.1.0.0/PaleCourt-Win.zip]]></Windows>
+	<Linux SHA256="4F81FFC2F73E55D7051B75A626389F05F77DAD7A4685024327364A3945F20775"><![CDATA[https://github.com/PaleCourt/PaleCourt/releases/download/1.1.1.0/PaleCourt-Lin.zip]]></Linux>
+        <Mac SHA256="65346FC3F796686D46FA960931F8C1D4BFB07D88105DABE5AEEE87E73C6F163E"><![CDATA[https://github.com/PaleCourt/PaleCourt/releases/download/1.1.1.0/PaleCourt-Mac.zip]]></Mac>
+        <Windows SHA256="0A97034BB877F918E1E350B3A8CD557B1525F8F36DB555D4EBCA33441BA96DD1"><![CDATA[https://github.com/PaleCourt/PaleCourt/releases/download/1.1.1.0/PaleCourt-Win.zip]]></Windows>
     </Links>
     <Dependencies>
         <Dependency>FrogCore</Dependency>
@@ -8137,8 +8151,8 @@ This is a singleplayer mod. The "teamwork" refers to in-game events.</Descriptio
     <Manifest>
         <Name>LumaflyKnight</Name>
         <Description>Tracks how many lumaflies you've freed</Description>
-        <Version>9.0.0.0</Version>
-        <Link SHA256="78755A4577D98F47467C72D7E29189D575A42D3002379B0E4EC2F7849D1A2AE3"><![CDATA[https://github.com/vanaigr/LumaflyKnight/releases/download/release-9/LumaflyKnight.zip]]></Link>
+        <Version>10.0.0.0</Version>
+        <Link SHA256="FF69BA4F75F80616477197150AA9C6CAA51819CE48BBC18E660802F799BF2597"><![CDATA[https://github.com/vanaigr/LumaflyKnight/releases/download/release-10/LumaflyKnight.zip]]></Link>
         <Dependencies/>
         <Repository>
             <![CDATA[https://github.com/vanaigr/LumaflyKnight]]>

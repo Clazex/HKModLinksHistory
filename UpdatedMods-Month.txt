@@ -1,6 +1,3 @@
-Archipelago
-MoreLocations
-TheRealJournalRando
 MoreDoors
 PurenailCore
 LumaflyKnight
@@ -29,3 +26,4 @@ UnconstrainedRotation
 UnlimitedHiveblood
 UnlimitedShades
 VoiceToCrySuffering
+Charm Changer Rando

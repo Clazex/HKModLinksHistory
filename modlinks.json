@@ -1064,11 +1064,11 @@
   },
   "Charm Changer Rando": {
     "description": "A mod to randomize the settings of Charm Changer",
-    "version": "1.1.0.0",
+    "version": "2.0.0.0",
     "links": {
       "type": "universal",
-      "sha256": "50683B961BC0EC55E9CEFC22C5AAD12FB72A037C0FC35F67E8EDD8DC346C9AF8",
-      "url": "https://github.com/BestBardTopNA/CharmChangerRando/releases/download/v1.1/CharmChangerRando.zip"
+      "sha256": "60D6FBF29F363D0A9BA673BD89CF1111540FBD607F851345D5A3E920FA5020AF",
+      "url": "https://github.com/BestBardTopNA/CharmChangerRando/releases/download/v2/CharmChangerRando.zip"
     },
     "dependencies": [
       "Charm Changer",
@@ -2594,6 +2594,23 @@
     },
     "dependencies": [],
     "repository": "https://github.com/jngo102/HollowKnight.FastTravel"
+  },
+  "FasterIntroSkip": {
+    "description": "Makes skipping the intro cutscenes faster.",
+    "version": "1.0.0.0",
+    "links": {
+      "type": "universal",
+      "sha256": "97CDEE4DA432AD0BB68FF20A6D16FFCE9E37C68FD4F58F4D46997EC02C223177",
+      "url": "https://github.com/peekagrub/FasterIntroSkip/releases/download/1.0.0.0/FasterIntroSkip.zip"
+    },
+    "dependencies": [],
+    "repository": "https://github.com/peekagrub/FasterIntroSkip",
+    "tags": [
+      "Gameplay"
+    ],
+    "authors": [
+      "peekagrub"
+    ]
   },
   "Fennel": {
     "description": "Ports the Fennel fight from Momodora Reverie Under the Moonlight into Hollow Knight",
