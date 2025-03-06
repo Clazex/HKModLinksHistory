@@ -97,6 +97,10 @@
 
 - Version: 3.1.0.0 -> 3.1.2.0
 
+### MoreHealing
+
+- Version: 1.5.3.0 -> 1.5.3.4
+
 ### Pale Court
 
 - Version: 1.1.0.0 -> 1.1.1.0
@@ -116,6 +120,10 @@
 ### ShadesAnywhere
 
 - Version: 1.0.0.0 -> 1.0.0.1
+
+### SpoilerViewerMod
+
+- Version: 2.10.1.0 -> 2.11.0.0
 
 ### UnconstrainedRotation
 

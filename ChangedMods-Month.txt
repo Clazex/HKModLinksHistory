@@ -30,3 +30,5 @@ UnlimitedShades
 VoiceToCrySuffering
 Charm Changer Rando
 FasterIntroSkip
+MoreHealing
+SpoilerViewerMod

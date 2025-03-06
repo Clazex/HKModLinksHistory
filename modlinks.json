@@ -4924,11 +4924,11 @@
   },
   "MoreHealing": {
     "description": "Adds more healing charms.",
-    "version": "1.5.3.0",
+    "version": "1.5.3.4",
     "links": {
       "type": "universal",
-      "sha256": "5B0C46040E7AE4AA2B6ED3E2272A056FD2E765891EE31F830A95C2AC4ADB59EB",
-      "url": "https://github.com/SFGrenade/MoreHealing/releases/download/v1.5.3/MoreHealing.zip"
+      "sha256": "13B8AFDC2ED8BEBEA9EF852FA45CEC351A534D06579ACBB64646D35975E179F2",
+      "url": "https://github.com/SFGrenade/MoreHealing/releases/download/v1.5.3.4/MoreHealing.zip"
     },
     "dependencies": [
       "SFCore"
@@ -6931,11 +6931,11 @@
   },
   "SpoilerViewerMod": {
     "description": "Provides a Java GUI for navigating the spoiler log of randos or plandos. Requires Java to be installed.",
-    "version": "2.10.1.0",
+    "version": "2.11.0.0",
     "links": {
       "type": "universal",
-      "sha256": "5B44775E890F9C63D746EEC5D643CF65E3BB5F78C6B29309E4FDD41D1CA299AB",
-      "url": "https://github.com/dplochcoder/hkspoilerviewer/releases/download/v2.10.1/SpoilerViewerMod.zip"
+      "sha256": "E91774D67474E115B20DCE26EA35B789BF00FAFEC5F6FED77868072AF293B469",
+      "url": "https://github.com/dplochcoder/hkspoilerviewer/releases/download/v2.11/SpoilerViewerMod.zip"
     },
     "dependencies": [
       "ItemChanger",

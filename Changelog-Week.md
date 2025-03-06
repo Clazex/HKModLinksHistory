@@ -12,10 +12,6 @@
 
 ## Updated mods
 
-### AccessRandomizer
-
-- Version: 1.3.0.2 -> 1.3.0.3
-
 ### AdBlocker
 
 - Version: 1.0.0.0 -> 1.0.0.1
@@ -64,6 +60,10 @@
 
 - Version: 1.2.0.2 -> 1.2.0.3
 
+### MoreHealing
+
+- Version: 1.5.3.0 -> 1.5.3.4
+
 ### PlayerTrail
 
 - Version: 1.0.0.2 -> 1.0.0.3
@@ -75,6 +75,10 @@
 ### ShadesAnywhere
 
 - Version: 1.0.0.0 -> 1.0.0.1
+
+### SpoilerViewerMod
+
+- Version: 2.10.1.0 -> 2.11.0.0
 
 ### UnconstrainedRotation
 

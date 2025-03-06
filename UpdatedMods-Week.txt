@@ -1,4 +1,3 @@
-AccessRandomizer
 AdBlocker
 BingoGoalPack1
 CustomPlayerModel
@@ -18,3 +17,5 @@ UnlimitedHiveblood
 UnlimitedShades
 VoiceToCrySuffering
 Charm Changer Rando
+MoreHealing
+SpoilerViewerMod

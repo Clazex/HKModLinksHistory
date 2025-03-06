@@ -27,3 +27,5 @@ UnlimitedHiveblood
 UnlimitedShades
 VoiceToCrySuffering
 Charm Changer Rando
+MoreHealing
+SpoilerViewerMod
