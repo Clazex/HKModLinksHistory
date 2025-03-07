@@ -99,7 +99,7 @@
 
 ### MoreHealing
 
-- Version: 1.5.3.0 -> 1.5.3.4
+- Version: 1.5.3.0 -> 1.5.3.6
 
 ### Pale Court
 

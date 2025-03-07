@@ -32,3 +32,4 @@ Charm Changer Rando
 FasterIntroSkip
 MoreHealing
 SpoilerViewerMod
+MoreHealing

@@ -29,3 +29,4 @@ VoiceToCrySuffering
 Charm Changer Rando
 MoreHealing
 SpoilerViewerMod
+MoreHealing
