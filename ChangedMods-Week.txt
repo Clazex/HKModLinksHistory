@@ -3,3 +3,5 @@ FasterIntroSkip
 MoreHealing
 SpoilerViewerMod
 MoreHealing
+MoreHealing
+Pale Court

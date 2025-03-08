@@ -4924,11 +4924,11 @@
   },
   "MoreHealing": {
     "description": "Adds more healing charms.",
-    "version": "1.5.3.6",
+    "version": "1.5.3.7",
     "links": {
       "type": "universal",
-      "sha256": "FA418D2687A56116C8BFDECC942576E56CAC957E0A861DA5C1A7DCFEC930BCD1",
-      "url": "https://github.com/SFGrenade/MoreHealing/releases/download/v1.5.3.6/MoreHealing.zip"
+      "sha256": "9403D3FC7D959B01FBA20D355D14D0AEC35047A918F502496CBC70F981A7167B",
+      "url": "https://github.com/SFGrenade/MoreHealing/releases/download/v1.5.3.7/MoreHealing.zip"
     },
     "dependencies": [
       "SFCore"
@@ -5350,20 +5350,20 @@
   },
   "Pale Court": {
     "description": "Challenge Hallownest's mightiest champions in grand combat!\nOvercome your opponents with powerful new charms!\nDiscover new secrets and stories!\nAll with an incredible new soundtrack!",
-    "version": "1.1.1.0",
+    "version": "1.1.1.6",
     "links": {
       "type": "platform-dependent",
       "windows": {
-        "sha256": "0A97034BB877F918E1E350B3A8CD557B1525F8F36DB555D4EBCA33441BA96DD1",
-        "url": "https://github.com/PaleCourt/PaleCourt/releases/download/1.1.1.0/PaleCourt-Win.zip"
+        "sha256": "2F25FB134D288CD8F5BD94B5787575B2468BE4283AA55FF7A0397061A6C8FF20",
+        "url": "https://github.com/PaleCourt/PaleCourt/releases/download/1.1.1.6/PaleCourt-Win.zip"
       },
       "mac": {
-        "sha256": "65346FC3F796686D46FA960931F8C1D4BFB07D88105DABE5AEEE87E73C6F163E",
-        "url": "https://github.com/PaleCourt/PaleCourt/releases/download/1.1.1.0/PaleCourt-Mac.zip"
+        "sha256": "45EFB13F007F1FD52897671B6DFE906B2D3B798F7A7B20AEDA88F45C1E3E0C07",
+        "url": "https://github.com/PaleCourt/PaleCourt/releases/download/1.1.1.6/PaleCourt-Mac.zip"
       },
       "linux": {
-        "sha256": "4F81FFC2F73E55D7051B75A626389F05F77DAD7A4685024327364A3945F20775",
-        "url": "https://github.com/PaleCourt/PaleCourt/releases/download/1.1.1.0/PaleCourt-Lin.zip"
+        "sha256": "20D0DD50B8948E9A4617C309BABD9E34DB77C59A0E2304D39B6970333C233ABF",
+        "url": "https://github.com/PaleCourt/PaleCourt/releases/download/1.1.1.6/PaleCourt-Lin.zip"
       }
     },
     "dependencies": [
