@@ -6483,6 +6483,30 @@
       "Ruttie"
     ]
   },
+  "Scattered and Lost": {
+    "description": "Celeste-themed content mod, expanding Bretta's hut",
+    "version": "1.0.2.0",
+    "links": {
+      "type": "universal",
+      "sha256": "6BB13317CD90091667DFB8AFC29285794B5088EFC38A36DD12BB9F35E81D80BD",
+      "url": "https://github.com/dplochcoder/HollowKnight.ScatteredAndLost/releases/download/v1.0.2/Scattered.and.Lost.zip"
+    },
+    "dependencies": [
+      "ItemChanger",
+      "MenuChanger",
+      "MoreDoors",
+      "PurenailCore",
+      "RandomizerCore.Json",
+      "SFCore"
+    ],
+    "repository": "https://github.com/dplochcoder/HollowKnight.ScatteredAndLost",
+    "integrations": [
+      "CondensedSpoilerLogger",
+      "DebugMod",
+      "RandoSettingsManager",
+      "Randomizer 4"
+    ]
+  },
   "Scatternest": {
     "description": "Addon for Randomizer and ItemSync allowing players to start at multiple different locations.",
     "version": "1.2.1.1",
