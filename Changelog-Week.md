@@ -3,12 +3,6 @@
 
 ## New mods
 
-### FasterIntroSkip
-
-- Description: Makes skipping the intro cutscenes faster.
-- Tags
-  + Gameplay
-
 ### Scattered and Lost
 
 - Description: Celeste-themed content mod, expanding Bretta&#x27;s hut
@@ -27,10 +21,6 @@
 
 
 ## Updated mods
-
-### Charm Changer Rando
-
-- Version: 1.1.0.0 -> 2.0.0.0
 
 ### MoreHealing
 
