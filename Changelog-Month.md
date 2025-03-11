@@ -95,7 +95,7 @@
 
 ### LumaflyKnight
 
-- Version: 2.0.0.0 -> 10.0.0.0
+- Version: 5.0.0.0 -> 10.0.0.0
 
 ### MidasTouch
 
