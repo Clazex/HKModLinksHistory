@@ -4108,7 +4108,7 @@
     "repository": "https://github.com/homothetyhk/ItemChangerDataLoader/"
   },
   "ItemSync": {
-    "description": "A RandomizerMod 4 add-on for sharing item pickups between players.",
+    "description": "A RandomizerMod 4 add-on for sharing item pickups between players. The default IP no longer works. Please use `mw.hkmp.org` if you want to connect to the public server.",
     "version": "2.7.2.0",
     "links": {
       "type": "universal",
@@ -4985,7 +4985,7 @@
     ]
   },
   "MultiWorld": {
-    "description": "A RandomizerMod 4 add-on for distributing players' items between all their worlds.",
+    "description": "A RandomizerMod 4 add-on for distributing players' items between all their worlds. The default IP no longer works. Please use `mw.hkmp.org` if you want to connect to the public server.",
     "version": "1.2.3.0",
     "links": {
       "type": "universal",
