@@ -9,6 +9,12 @@
 - Tags
   + Gameplay
 
+### Marmalade
+
+- Description: Radiance spawns Marmu instead of orbs
+- Dependencies
+  + Satchel
+
 ### Pogonest
 
 - Description: Pogo anything
