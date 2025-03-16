@@ -3,7 +3,7 @@
 
 ## Updated mods
 
-### LumaflyKnight
+### Breakable Wall Randomizer
 
-- Version: 5.0.0.0 -> 9.0.0.0
+- Version: 3.0.4.2 -> 3.0.4.3
 

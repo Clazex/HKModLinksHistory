@@ -101,7 +101,7 @@
 
 ### LumaflyKnight
 
-- Version: 5.0.0.0 -> 10.0.0.0
+- Version: 9.0.0.0 -> 10.0.0.0
 
 ### MidasTouch
 
@@ -121,7 +121,7 @@
 
 ### Pale Court
 
-- Version: 1.1.0.0 -> 1.1.1.6
+- Version: 1.1.0.0 -> 1.1.1.7
 
 ### PlayerTrail
 

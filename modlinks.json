@@ -5366,20 +5366,20 @@
   },
   "Pale Court": {
     "description": "Challenge Hallownest's mightiest champions in grand combat!\nOvercome your opponents with powerful new charms!\nDiscover new secrets and stories!\nAll with an incredible new soundtrack!",
-    "version": "1.1.1.6",
+    "version": "1.1.1.7",
     "links": {
       "type": "platform-dependent",
       "windows": {
-        "sha256": "2F25FB134D288CD8F5BD94B5787575B2468BE4283AA55FF7A0397061A6C8FF20",
-        "url": "https://github.com/PaleCourt/PaleCourt/releases/download/1.1.1.6/PaleCourt-Win.zip"
+        "sha256": "1646CE8DB5B16A49A04B7DF13D3B15BBCFD8034809EB8974A2455D6BA1ED1855",
+        "url": "https://github.com/PaleCourt/PaleCourt/releases/download/1.1.1.7/PaleCourt-Win.zip"
       },
       "mac": {
-        "sha256": "45EFB13F007F1FD52897671B6DFE906B2D3B798F7A7B20AEDA88F45C1E3E0C07",
-        "url": "https://github.com/PaleCourt/PaleCourt/releases/download/1.1.1.6/PaleCourt-Mac.zip"
+        "sha256": "57B81A833E2EEA8C6D63AF50144A71D2F2A9FC97423F5CCDA4B513EC49F112E0",
+        "url": "https://github.com/PaleCourt/PaleCourt/releases/download/1.1.1.7/PaleCourt-Mac.zip"
       },
       "linux": {
-        "sha256": "20D0DD50B8948E9A4617C309BABD9E34DB77C59A0E2304D39B6970333C233ABF",
-        "url": "https://github.com/PaleCourt/PaleCourt/releases/download/1.1.1.6/PaleCourt-Lin.zip"
+        "sha256": "32328DA0903CDE25173DC4C885B068A1EBC91329506D63BE863A24EB35E72945",
+        "url": "https://github.com/PaleCourt/PaleCourt/releases/download/1.1.1.7/PaleCourt-Lin.zip"
       }
     },
     "dependencies": [
