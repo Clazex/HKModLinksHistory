@@ -348,11 +348,11 @@
   },
   "Archipelago": {
     "description": "Enables play with the Archipelago multiworld system.",
-    "version": "0.8.0.0",
+    "version": "0.8.1.0",
     "links": {
       "type": "universal",
-      "sha256": "1B6C4804DFF8D91FA1DAF296E92139FEA858EDCD19B9622E7EEB4FE29C8374EC",
-      "url": "https://github.com/ArchipelagoMW-HollowKnight/Archipelago.HollowKnight/releases/download/v0.8.0/Archipelago.zip"
+      "sha256": "52F9CD163554CD15426DFAEF858B9FDEF44DDFAE1763583959F853EA88A4C8C6",
+      "url": "https://github.com/ArchipelagoMW-HollowKnight/Archipelago.HollowKnight/releases/download/v0.8.1/Archipelago.zip"
     },
     "dependencies": [
       "Benchwarp",

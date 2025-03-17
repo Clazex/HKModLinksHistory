@@ -55,13 +55,13 @@
 
 - Version: 1.0.0.0 -> 1.0.0.1
 
+### Archipelago
+
+- Version: 0.8.0.0 -> 0.8.1.0
+
 ### BingoGoalPack1
 
 - Version: 1.5.1.1 -> 1.5.1.2
-
-### Breakable Wall Randomizer
-
-- Version: 3.0.4.2 -> 3.0.4.3
 
 ### Charm Changer Rando
 
