@@ -83,10 +83,6 @@
 
 - Version: 1.0.1.0 -> 1.0.1.1
 
-### FlowerRandomizer
-
-- Version: 1.0.0.2 -> 1.0.0.3
-
 ### HkmpTransitionAlerts
 
 - Version: 1.0.0.0 -> 1.0.0.1
@@ -110,10 +106,6 @@
 ### MilliGolf
 
 - Version: 1.2.0.2 -> 1.2.0.3
-
-### Moonside
-
-- Version: 1.1.0.0 -> 1.1.0.1
 
 ### MoreHealing
 

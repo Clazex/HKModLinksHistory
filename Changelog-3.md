@@ -1,11 +1,9 @@
 # Changelog
 
 
-## New mods
+## Updated mods
 
-### Marmalade
+### Pale Court
 
-- Description: Radiance spawns Marmu instead of orbs
-- Dependencies
-  + Satchel
+- Version: 1.1.1.6 -> 1.1.1.7
 
