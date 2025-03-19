@@ -20,7 +20,3 @@
 
 - Version: 1.1.1.6 -> 1.1.1.7
 
-### Scattered and Lost
-
-- Version: 1.2.0.0 -> 1.3.0.0
-
