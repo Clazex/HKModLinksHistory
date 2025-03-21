@@ -7418,6 +7418,30 @@
     "dependencies": [],
     "repository": "https://github.com/hk-modding/transtrans"
   },
+  "TreasureHunt": {
+    "description": "A Randomizer 4 connection fro a semi-spoiler format.",
+    "version": "0.1.1.0",
+    "links": {
+      "type": "universal",
+      "sha256": "07FDC6BDE1EBF83B09A8DD6FED8031FFDDB854505A2EC340A27B4B858E603858",
+      "url": "https://github.com/dplochcoder/HollowKnight.TreasureHunt/releases/download/v0.1.1.0/TreasureHunt.zip"
+    },
+    "dependencies": [
+      "ItemChanger",
+      "MagicUI",
+      "MenuChanger",
+      "PurenailCore",
+      "Randomizer 4"
+    ],
+    "repository": "https://github.com/dplochcoder/HollowKnight.TreasureHunt",
+    "integrations": [
+      "RandoSettingsManager",
+      "Randomizer 4"
+    ],
+    "tags": [
+      "Gameplay"
+    ]
+  },
   "TribeOfBattle": {
     "description": "A boss based on Sisters of Battle and Traitor Lord",
     "version": "1.2.0.0",

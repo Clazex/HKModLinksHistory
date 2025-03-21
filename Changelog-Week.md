@@ -3,11 +3,20 @@
 
 ## New mods
 
-### Marmalade
+### TreasureHunt
 
-- Description: Radiance spawns Marmu instead of orbs
+- Description: A Randomizer 4 connection fro a semi-spoiler format.
 - Dependencies
-  + Satchel
+  + ItemChanger
+  + MagicUI
+  + MenuChanger
+  + PurenailCore
+  + Randomizer 4
+- Integrations
+  + RandoSettingsManager
+  + Randomizer 4
+- Tags
+  + Gameplay
 
 
 ## Updated mods
