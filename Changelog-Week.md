@@ -7,6 +7,7 @@
 
 - Description: A Randomizer 4 connection fro a semi-spoiler format.
 - Dependencies
+  + ConnectionMetadataInjector
   + ItemChanger
   + MagicUI
   + MenuChanger
@@ -25,7 +26,7 @@
 
 - Version: 0.8.0.0 -> 0.8.1.0
 
-### Pale Court
+### Scattered and Lost
 
-- Version: 1.1.1.6 -> 1.1.1.7
+- Version: 1.3.0.0 -> 1.3.1.0
 

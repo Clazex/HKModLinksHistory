@@ -39,6 +39,7 @@
 
 - Description: A Randomizer 4 connection fro a semi-spoiler format.
 - Dependencies
+  + ConnectionMetadataInjector
   + ItemChanger
   + MagicUI
   + MenuChanger
