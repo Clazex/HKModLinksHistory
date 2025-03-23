@@ -22,10 +22,6 @@
 
 ## Updated mods
 
-### Archipelago
-
-- Version: 0.8.0.0 -> 0.8.1.0
-
 ### Scattered and Lost
 
 - Version: 1.3.0.0 -> 1.3.1.0
