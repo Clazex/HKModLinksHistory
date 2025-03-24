@@ -3,7 +3,7 @@
 
 ## Updated mods
 
-### Pale Court
+### Archipelago
 
-- Version: 1.1.1.6 -> 1.1.1.7
+- Version: 0.8.0.0 -> 0.8.1.0
 

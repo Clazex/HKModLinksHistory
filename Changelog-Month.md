@@ -15,10 +15,6 @@
 - Dependencies
   + Satchel
 
-### Pogonest
-
-- Description: Pogo anything
-
 ### Scattered and Lost
 
 - Description: Celeste-themed content mod, expanding Bretta&#x27;s hut
@@ -102,10 +98,6 @@
 
 - Version: 1.0.0.0 -> 1.0.0.1
 
-### LumaflyKnight
-
-- Version: 9.0.0.0 -> 10.0.0.0
-
 ### MidasTouch
 
 - Version: 1.0.1.0 -> 1.0.1.1
@@ -120,7 +112,7 @@
 
 ### Pale Court
 
-- Version: 1.1.0.0 -> 1.1.1.7
+- Version: 1.1.1.0 -> 1.1.1.7
 
 ### PlayerTrail
 
