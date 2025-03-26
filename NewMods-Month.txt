@@ -2,3 +2,5 @@ FasterIntroSkip
 Scattered and Lost
 Marmalade
 TreasureHunt
+EndlessIBaldur
+Quasar Radiance

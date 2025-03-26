@@ -2310,6 +2310,22 @@
       "Cavernosa"
     ]
   },
+  "EndlessIBaldur": {
+    "description": "A mod for practicing itemless baldur",
+    "version": "1.0.0.0",
+    "links": {
+      "type": "universal",
+      "sha256": "CDE8623212B7EFBF686A0D5A62E3F2803D43CEAA1020649243EE739232F5E3F7",
+      "url": "https://github.com/TheMathGeek314/EndlessIBaldur/releases/download/v1.0.0.0/EndlessIBaldur.zip"
+    },
+    "dependencies": [
+      "Satchel"
+    ],
+    "repository": "https://github.com/TheMathGeek314/EndlessIBaldur/",
+    "authors": [
+      "TheMathGeek_314"
+    ]
+  },
   "Enemy HP Bar": {
     "description": "Adds skinnable HP bars to every enemies and bosses in the game.",
     "version": "3.1.5.0",
@@ -5798,6 +5814,25 @@
       "Vasi"
     ],
     "repository": "https://github.com/fifty-six/HollowKnight.QoL/"
+  },
+  "Quasar Radiance": {
+    "description": "A version of Any Radiance 3.0 that's heavily modified to be more fun and enjoyable by casual players while still providing some level of challenge. Very unique fight that's not impossibly hard like the real thing. The mod is meant to be played with a 300 FPS cap so if you play on lower or higher it's gonna be harder or easier than intended.",
+    "version": "1.0.0.0",
+    "links": {
+      "type": "universal",
+      "sha256": "5C8AA8A823D889F4FF3A56C2D3F59437D0CA653F9555CF33E14FA4BA7047ED41",
+      "url": "https://github.com/Talezshadid/Shattered-Quasar-/releases/download/A/ShatteredQuasar.dll"
+    },
+    "dependencies": [
+      "Vasi"
+    ],
+    "repository": "https://github.com/Talezshadid/Shattered-Quasar-",
+    "tags": [
+      "Boss"
+    ],
+    "authors": [
+      "talezshadid"
+    ]
   },
   "QuickDive": {
     "description": "A mod that remaps your Quick Cast button to only Dive",
