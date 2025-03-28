@@ -1,20 +1,16 @@
 # Changelog
 
 
-## New mods
+## Updated mods
+
+### Scattered and Lost
+
+- Version: 1.3.0.0 -> 1.3.1.0
 
 ### TreasureHunt
 
-- Description: A Randomizer 4 connection fro a semi-spoiler format.
+- Version: 0.1.1.0 -> 0.1.2.0
 - Dependencies
-  + ItemChanger
-  + MagicUI
-  + MenuChanger
-  + PurenailCore
-  + Randomizer 4
-- Integrations
-  + RandoSettingsManager
-  + Randomizer 4
-- Tags
-  + Gameplay
+  + Added
+    - ConnectionMetadataInjector
 
