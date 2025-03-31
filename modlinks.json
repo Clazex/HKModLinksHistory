@@ -2759,6 +2759,22 @@
       "nerthul11"
     ]
   },
+  "Flukemaster": {
+    "description": "All spells are affected by flukenest",
+    "version": "1.0.0.0",
+    "links": {
+      "type": "universal",
+      "sha256": "BD63E453890D91AEDD2760847AF93E40B031241EFCF7AA199882D3D29A861B2C",
+      "url": "https://github.com/TheMathGeek314/Flukemaster/releases/download/v1.0.0.0/Flukemaster.zip"
+    },
+    "dependencies": [
+      "Satchel"
+    ],
+    "repository": "https://github.com/TheMathGeek314/Flukemaster/",
+    "authors": [
+      "TheMathGeek_314"
+    ]
+  },
   "FountainPreview": {
     "description": "Add-on for ItemChanger that makes the basin fountain show the item it's going to give.",
     "version": "0.2.1.0",

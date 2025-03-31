@@ -15,6 +15,12 @@
 - Tags
   + Gameplay
 
+### Flukemaster
+
+- Description: All spells are affected by flukenest
+- Dependencies
+  + Satchel
+
 ### Marmalade
 
 - Description: Radiance spawns Marmu instead of orbs
