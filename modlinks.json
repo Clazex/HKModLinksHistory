@@ -3441,6 +3441,20 @@
     ],
     "repository": "https://github.com/Extremelyd1/HKMP.Tag/"
   },
+  "HKMP.CheckSave": {
+    "description": "HKMP Addon for checking player save",
+    "version": "1.0.0.0",
+    "links": {
+      "type": "universal",
+      "sha256": "3678F9FA08728263EA2F99D2A62D45478F57ED1E93561A5DEAD4F4703E65777A",
+      "url": "https://github.com/MorozicH20/Hkmp.CheckSave/releases/download/v1.0.0/Hkmp.CheckSave.zip"
+    },
+    "dependencies": [
+      "HKMP",
+      "HKMirror"
+    ],
+    "repository": "https://github.com/MorozicH20/Hkmp.CheckSave/"
+  },
   "HKMP.ModDiff": {
     "description": "HKMP Addon for checking mod lists between Clients and Servers.",
     "version": "1.0.2.0",

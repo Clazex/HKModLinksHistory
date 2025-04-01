@@ -21,6 +21,13 @@
 - Dependencies
   + Satchel
 
+### HKMP.CheckSave
+
+- Description: HKMP Addon for checking player save
+- Dependencies
+  + HKMP
+  + HKMirror
+
 ### Marmalade
 
 - Description: Radiance spawns Marmu instead of orbs

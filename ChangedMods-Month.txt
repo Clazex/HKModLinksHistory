@@ -18,3 +18,4 @@ TreasureHunt
 EndlessIBaldur
 Quasar Radiance
 Flukemaster
+HKMP.CheckSave
