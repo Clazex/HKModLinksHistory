@@ -1,5 +1,3 @@
-Charm Changer Rando
-FasterIntroSkip
 MoreHealing
 SpoilerViewerMod
 MoreHealing
@@ -19,3 +17,6 @@ EndlessIBaldur
 Quasar Radiance
 Flukemaster
 HKMP.CheckSave
+HowwowKnyight
+Scattered and Lost
+TreasureHunt

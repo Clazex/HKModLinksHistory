@@ -3,9 +3,10 @@
 
 ## New mods
 
-### Flukemaster
+### HKMP.CheckSave
 
-- Description: All spells are affected by flukenest
+- Description: HKMP Addon for checking player save
 - Dependencies
-  + Satchel
+  + HKMP
+  + HKMirror
 

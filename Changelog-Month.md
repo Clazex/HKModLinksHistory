@@ -9,12 +9,6 @@
 - Dependencies
   + Satchel
 
-### FasterIntroSkip
-
-- Description: Makes skipping the intro cutscenes faster.
-- Tags
-  + Gameplay
-
 ### Flukemaster
 
 - Description: All spells are affected by flukenest
@@ -55,6 +49,7 @@
 - Integrations
   + CondensedSpoilerLogger
   + DebugMod
+  + DecorationMaster
   + RandoSettingsManager
   + Randomizer 4
 
@@ -81,9 +76,12 @@
 
 - Version: 0.8.0.0 -> 0.8.1.0
 
-### Charm Changer Rando
+### HowwowKnyight
 
-- Version: 1.1.0.0 -> 2.0.0.0
+- Version: 3.8.2.0 -> 4.0.0.0
+- Tags
+  + Removed
+    - Cosmetic
 
 ### MoreHealing
 
