@@ -3,3 +3,5 @@ HKMP.CheckSave
 HowwowKnyight
 Scattered and Lost
 TreasureHunt
+Lore Randomizer
+LoreCore

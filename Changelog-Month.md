@@ -83,15 +83,19 @@
   + Removed
     - Cosmetic
 
+### Lore Randomizer
+
+- Version: 0.3.2.0 -> 0.3.3.0
+
+### LoreCore
+
+- Version: 0.6.2.0 -> 0.6.3.0
+
 ### MoreHealing
 
-- Version: 1.5.3.0 -> 1.5.3.7
+- Version: 1.5.3.4 -> 1.5.3.7
 
 ### Pale Court
 
 - Version: 1.1.1.0 -> 1.1.1.7
-
-### SpoilerViewerMod
-
-- Version: 2.10.1.0 -> 2.11.0.0
 

@@ -4463,11 +4463,11 @@
   },
   "Lore Randomizer": {
     "description": "Randomizer 4 connection that adds a bunch of lore related items and locations.",
-    "version": "0.3.2.0",
+    "version": "0.3.3.0",
     "links": {
       "type": "universal",
-      "sha256": "9656E5618DF71BF872B45F237CDE4259C6FB79E2E3560C5131C77E40046D5DD9",
-      "url": "https://github.com/Korzer420/LoreRandomizer/releases/download/v0.3.2/LoreRandomizer.zip"
+      "sha256": "62564A6F23082DCDD2FAAAE807D2131F016FF716B25B5A686CD12F25F4A9DD97",
+      "url": "https://github.com/Korzer420/LoreRandomizer/releases/download/v0.3.3/LoreRandomizer.zip"
     },
     "dependencies": [
       "LoreCore",
@@ -4483,11 +4483,11 @@
   },
   "LoreCore": {
     "description": "Adds a bunch of lore related Item Changer locations and items.",
-    "version": "0.6.2.0",
+    "version": "0.6.3.0",
     "links": {
       "type": "universal",
-      "sha256": "B04603100E7251EFD9D4E7C78B0ABDAD67DD76B4A6DF0507896C83DC267A458D",
-      "url": "https://github.com/Korzer420/LoreCore/releases/download/v0.6.2/LoreCore.zip"
+      "sha256": "E05F0611890C1E88D9A7CF6F37F16E1C825336ED45A8932F01FFA2ACC326FE87",
+      "url": "https://github.com/Korzer420/LoreCore/releases/download/v0.6.3/LoreCore.zip"
     },
     "dependencies": [
       "ItemChanger",

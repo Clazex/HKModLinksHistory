@@ -1,6 +1,4 @@
 MoreHealing
-SpoilerViewerMod
-MoreHealing
 MoreHealing
 Pale Court
 Scattered and Lost
@@ -13,3 +11,5 @@ TreasureHunt
 HowwowKnyight
 Scattered and Lost
 TreasureHunt
+Lore Randomizer
+LoreCore
