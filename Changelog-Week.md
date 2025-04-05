@@ -19,6 +19,10 @@
 
 ## Updated mods
 
+### Breakable Wall Randomizer
+
+- Version: 3.0.4.3 -> 3.0.4.4
+
 ### HowwowKnyight
 
 - Version: 3.8.2.0 -> 4.0.0.0
@@ -33,6 +37,10 @@
 ### LoreCore
 
 - Version: 0.6.2.0 -> 0.6.3.0
+
+### LumaflyKnight
+
+- Version: 10.0.0.0 -> 11.0.0.0
 
 ### Scattered and Lost
 

@@ -1,5 +1,4 @@
 MoreHealing
-MoreHealing
 Pale Court
 Scattered and Lost
 Scattered and Lost
@@ -20,3 +19,5 @@ Scattered and Lost
 TreasureHunt
 Lore Randomizer
 LoreCore
+Breakable Wall Randomizer
+LumaflyKnight

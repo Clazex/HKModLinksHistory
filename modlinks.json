@@ -844,11 +844,11 @@
   },
   "Breakable Wall Randomizer": {
     "description": "A Hollow Knight Randomizer add-on for breakable walls.",
-    "version": "3.0.4.3",
+    "version": "3.0.4.4",
     "links": {
       "type": "universal",
-      "sha256": "133AB06C57DFCC26721D0F565E5ED7C67FFB50E2905887B9E5D6D913FC0EE943",
-      "url": "https://github.com/nerthul11/BreakableWallRandomizer/releases/download/3.0.4.3/BreakableWallRandomizer.zip"
+      "sha256": "B4CCDDAE90198FC5D461EA692514047CBF8BC6B0805237FC96F77FEF0D464BB5",
+      "url": "https://github.com/nerthul11/BreakableWallRandomizer/releases/download/3.0.4.4/BreakableWallRandomizer.zip"
     },
     "dependencies": [
       "Randomizer 4",
@@ -4544,11 +4544,11 @@
   },
   "LumaflyKnight": {
     "description": "Tracks how many lumaflies you've freed",
-    "version": "10.0.0.0",
+    "version": "11.0.0.0",
     "links": {
       "type": "universal",
-      "sha256": "FF69BA4F75F80616477197150AA9C6CAA51819CE48BBC18E660802F799BF2597",
-      "url": "https://github.com/vanaigr/LumaflyKnight/releases/download/release-10/LumaflyKnight.zip"
+      "sha256": "692FB0C4E638C8A01FF476E33284E7D4CB60C73E1AE929A91FAB300D05A63918",
+      "url": "https://github.com/vanaigr/LumaflyKnight/releases/download/release-11/LumaflyKnight.zip"
     },
     "dependencies": [],
     "repository": "https://github.com/vanaigr/LumaflyKnight",

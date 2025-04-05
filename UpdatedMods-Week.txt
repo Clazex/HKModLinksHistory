@@ -3,3 +3,5 @@ Scattered and Lost
 TreasureHunt
 Lore Randomizer
 LoreCore
+Breakable Wall Randomizer
+LumaflyKnight
