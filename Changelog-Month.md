@@ -99,11 +99,7 @@
 
 - Version: 10.0.0.0 -> 11.0.0.0
 
-### MoreHealing
-
-- Version: 1.5.3.6 -> 1.5.3.7
-
 ### Pale Court
 
-- Version: 1.1.1.0 -> 1.1.1.7
+- Version: 1.1.1.6 -> 1.1.1.7
 
