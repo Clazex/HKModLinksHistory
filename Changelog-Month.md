@@ -36,23 +36,6 @@
 - Tags
   + Boss
 
-### Scattered and Lost
-
-- Description: Celeste-themed content mod, expanding Bretta&#x27;s hut
-- Dependencies
-  + ItemChanger
-  + MenuChanger
-  + MoreDoors
-  + PurenailCore
-  + RandomizerCore.Json
-  + SFCore
-- Integrations
-  + CondensedSpoilerLogger
-  + DebugMod
-  + DecorationMaster
-  + RandoSettingsManager
-  + Randomizer 4
-
 ### TreasureHunt
 
 - Description: A Randomizer 4 connection fro a semi-spoiler format.
@@ -102,4 +85,11 @@
 ### Pale Court
 
 - Version: 1.1.1.6 -> 1.1.1.7
+
+### Scattered and Lost
+
+- Version: 1.0.2.0 -> 1.4.1.0
+- Integrations
+  + Added
+    - DecorationMaster
 

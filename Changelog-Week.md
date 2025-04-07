@@ -1,16 +1,6 @@
 # Changelog
 
 
-## New mods
-
-### HKMP.CheckSave
-
-- Description: HKMP Addon for checking player save
-- Dependencies
-  + HKMP
-  + HKMirror
-
-
 ## Updated mods
 
 ### Breakable Wall Randomizer
@@ -38,7 +28,7 @@
 
 ### Scattered and Lost
 
-- Version: 1.3.1.0 -> 1.4.0.0
+- Version: 1.3.1.0 -> 1.4.1.0
 - Integrations
   + Added
     - DecorationMaster
