@@ -1,6 +1,5 @@
 Scattered and Lost
 Scattered and Lost
-Scattered and Lost
 Pale Court
 Archipelago
 Scattered and Lost
@@ -13,3 +12,4 @@ LoreCore
 Breakable Wall Randomizer
 LumaflyKnight
 Scattered and Lost
+TreasureHunt
