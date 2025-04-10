@@ -1,6 +1,5 @@
-Lore Randomizer
-LoreCore
 Breakable Wall Randomizer
 LumaflyKnight
 Scattered and Lost
 TreasureHunt
+HowwowKnyight
