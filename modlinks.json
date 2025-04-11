@@ -6574,11 +6574,11 @@
   },
   "Scattered and Lost": {
     "description": "Celeste-themed content mod, expanding Bretta's hut",
-    "version": "1.4.1.0",
+    "version": "1.4.2.0",
     "links": {
       "type": "universal",
-      "sha256": "AA6299DACFADB2BF3F5DE3003E5688E781B0F83DD968FCA6F945CEB345236A24",
-      "url": "https://github.com/dplochcoder/HollowKnight.ScatteredAndLost/releases/download/v1.4.1/Scattered.and.Lost.zip"
+      "sha256": "30B00CEC1FC4F20B39124B74387DA207C211260BEC7BA032E020D08A1217E908",
+      "url": "https://github.com/dplochcoder/HollowKnight.ScatteredAndLost/releases/download/v1.4.2/Scattered.and.Lost.zip"
     },
     "dependencies": [
       "ItemChanger",

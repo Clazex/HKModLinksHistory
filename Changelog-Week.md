@@ -3,21 +3,13 @@
 
 ## Updated mods
 
-### Breakable Wall Randomizer
-
-- Version: 3.0.4.3 -> 3.0.4.4
-
 ### HowwowKnyight
 
 - Version: 4.0.0.0 -> 4.0.1.0
 
-### LumaflyKnight
-
-- Version: 10.0.0.0 -> 11.0.0.0
-
 ### Scattered and Lost
 
-- Version: 1.4.0.0 -> 1.4.1.0
+- Version: 1.4.0.0 -> 1.4.2.0
 
 ### TreasureHunt
 
