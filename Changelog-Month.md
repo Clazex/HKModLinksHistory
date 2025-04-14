@@ -57,6 +57,13 @@
 
 - Version: 3.0.4.3 -> 3.0.4.4
 
+### CharmPatch
+
+- Version: 1.0.0.0 -> 1.2.0.1
+- Dependencies
+  + Added
+    - Satchel
+
 ### HowwowKnyight
 
 - Version: 3.8.2.0 -> 4.0.1.0
@@ -75,10 +82,6 @@
 ### LumaflyKnight
 
 - Version: 10.0.0.0 -> 11.0.0.0
-
-### Pale Court
-
-- Version: 1.1.1.6 -> 1.1.1.7
 
 ### Scattered and Lost
 

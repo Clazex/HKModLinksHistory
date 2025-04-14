@@ -1125,14 +1125,15 @@
   },
   "CharmPatch": {
     "description": "This is a collection of small changes that I think improve the balance of certain charms in the game. This should be fully compatible with Excempt-Medic's Charm Overhaul mod.",
-    "version": "1.0.0.0",
+    "version": "1.2.0.1",
     "links": {
       "type": "universal",
-      "sha256": "C5815D31623BC7224A0A00D226000D85BE66E324A09592CC3A097ECC6C08B998",
-      "url": "https://github.com/danielstegink/HollowKnight.CharmPatch/releases/download/1.0.0.0/CharmPatch.zip"
+      "sha256": "4456F790DD6DD486EB0EF006891807AD46699EAC783520C0DC14B037F5EF7910",
+      "url": "https://github.com/danielstegink/HollowKnight.CharmPatch/releases/download/1.2.0.1/CharmPatch.zip"
     },
     "dependencies": [
-      "SFCore"
+      "SFCore",
+      "Satchel"
     ],
     "repository": "https://github.com/danielstegink/HollowKnight.CharmPatch",
     "issues": "https://github.com/danielstegink/HollowKnight.CharmPatch/issues",
