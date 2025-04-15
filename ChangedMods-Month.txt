@@ -1,4 +1,3 @@
-Archipelago
 TreasureHunt
 Scattered and Lost
 TreasureHunt
@@ -18,3 +17,4 @@ TreasureHunt
 HowwowKnyight
 Scattered and Lost
 CharmPatch
+BingoSync

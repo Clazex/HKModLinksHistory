@@ -49,9 +49,9 @@
 
 ## Updated mods
 
-### Archipelago
+### BingoSync
 
-- Version: 0.8.0.0 -> 0.8.1.0
+- Version: 1.3.0.0 -> 1.3.6.0
 
 ### Breakable Wall Randomizer
 
