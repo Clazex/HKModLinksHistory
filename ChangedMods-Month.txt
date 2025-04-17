@@ -20,3 +20,4 @@ CharmPatch
 BingoSync
 CharmPatch
 Screensaver
+ShuffledCharmEffects

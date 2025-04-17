@@ -6778,6 +6778,22 @@
       "SFGrenade"
     ]
   },
+  "ShuffledCharmEffects": {
+    "description": "Equipped charms will have randomized effects",
+    "version": "1.0.0.0",
+    "links": {
+      "type": "universal",
+      "sha256": "5E7031220E00BE97DA0B88E3844BE4F4A4FBB7972F6D4EC773A451B7A1937F23",
+      "url": "https://github.com/TheMathGeek314/ShuffledCharmEffects/releases/download/v1.0.0.0/ShuffledCharmEffects.zip"
+    },
+    "dependencies": [
+      "Satchel"
+    ],
+    "repository": "https://github.com/TheMathGeek314/ShuffledCharmEffects/",
+    "authors": [
+      "TheMathGeek_314"
+    ]
+  },
   "ShyKnight": {
     "description": "Removes the audience from Godhome arenas and Colosseum of Fools",
     "version": "1.3.0.0",

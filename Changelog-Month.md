@@ -38,6 +38,12 @@
 - Tags
   + Cosmetic
 
+### ShuffledCharmEffects
+
+- Description: Equipped charms will have randomized effects
+- Dependencies
+  + Satchel
+
 ### TreasureHunt
 
 - Description: A Randomizer 4 connection fro a semi-spoiler format.

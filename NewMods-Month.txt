@@ -4,3 +4,4 @@ Quasar Radiance
 Flukemaster
 HKMP.CheckSave
 Screensaver
+ShuffledCharmEffects
