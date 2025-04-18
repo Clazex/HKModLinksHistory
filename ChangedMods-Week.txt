@@ -3,3 +3,4 @@ BingoSync
 CharmPatch
 Screensaver
 ShuffledCharmEffects
+ShuffledCharmEffects

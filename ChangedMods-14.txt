@@ -1,2 +1,2 @@
-Lore Randomizer
-LoreCore
+Breakable Wall Randomizer
+LumaflyKnight

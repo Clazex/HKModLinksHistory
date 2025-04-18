@@ -14,3 +14,4 @@ Scattered and Lost
 CharmPatch
 BingoSync
 CharmPatch
+ShuffledCharmEffects
