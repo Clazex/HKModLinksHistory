@@ -1575,14 +1575,17 @@
   },
   "CustomBgm": {
     "description": "Allows customization of background music. See its readme for a how-to.",
-    "version": "1.5.3.6",
+    "version": "1.5.4.0",
     "links": {
       "type": "universal",
-      "sha256": "63CAA0675C17A38B3A9C030906F80C0F7B9BE588CFD3597A85C0639D2FBC1E7D",
-      "url": "https://github.com/SFGrenade/CustomBgm/releases/download/v1.5.3.6/CustomBgm.zip"
+      "sha256": "F0715A32FDAAD6495329536A0415CBD39297588ADD2EAE072BB7687AF882751C",
+      "url": "https://github.com/SFGrenade/CustomBgm/releases/download/v1.5.4.0/CustomBgm.zip"
     },
     "dependencies": [],
     "repository": "https://github.com/SFGrenade/CustomBgm/",
+    "integrations": [
+      "Custom Knight"
+    ],
     "tags": [
       "Cosmetic"
     ],
@@ -4736,11 +4739,15 @@
     "version": "1.6.0.0",
     "links": {
       "type": "universal",
-      "sha256": "646153865B4294E7C8F20315F631757873A8A96A06D1C681DDE70DD3D6D89B3F",
-      "url": "https://github.com/yoink-city/memesong/releases/download/v1.6.0/Memesong.zip"
+      "sha256": "81D44EE0E21E2ED34CB8FE9115EB19CB0014987F8AD2486590AA901423242F91",
+      "url": "https://github.com/yoink-city/memesong/releases/download/v1.6.1/Memesong.zip"
     },
     "dependencies": [],
-    "repository": "https://github.com/yoink-city/memesong/"
+    "repository": "https://github.com/yoink-city/memesong/",
+    "authors": [
+      "Dandy",
+      "Ruttie"
+    ]
   },
   "Menderbug Options": {
     "description": "Choose Menderbug's spawn chance, whether he respawns after dying, and whether the sign must be broken",

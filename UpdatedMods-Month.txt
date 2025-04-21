@@ -13,3 +13,4 @@ CharmPatch
 BingoSync
 CharmPatch
 ShuffledCharmEffects
+CustomBgm
