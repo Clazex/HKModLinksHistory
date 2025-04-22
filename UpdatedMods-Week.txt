@@ -1,3 +1,2 @@
-CharmPatch
 ShuffledCharmEffects
 CustomBgm
