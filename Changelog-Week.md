@@ -1,15 +1,6 @@
 # Changelog
 
 
-## New mods
-
-### ShuffledCharmEffects
-
-- Description: Equipped charms will have randomized effects
-- Dependencies
-  + Satchel
-
-
 ## Updated mods
 
 ### CustomBgm
@@ -18,4 +9,8 @@
 - Integrations
   + Added
     - Custom Knight
+
+### ShuffledCharmEffects
+
+- Version: 1.0.0.0 -> 1.0.0.1
 
