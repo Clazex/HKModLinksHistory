@@ -3,17 +3,17 @@
 
 ## New mods
 
-### EndlessIBaldur
-
-- Description: A mod for practicing itemless baldur
-- Dependencies
-  + Satchel
-
 ### Flukemaster
 
 - Description: All spells are affected by flukenest
 - Dependencies
   + Satchel
+
+### FriendCore
+
+- Description: Experimental (but stable) library mod with enemy editing capabilities.
+- Tags
+  + Library
 
 ### HKMP.CheckSave
 
@@ -21,14 +21,6 @@
 - Dependencies
   + HKMP
   + HKMirror
-
-### Quasar Radiance
-
-- Description: A version of Any Radiance 3.0 that&#x27;s heavily modified to be more fun and enjoyable by casual players while still providing some level of challenge. Very unique fight that&#x27;s not impossibly hard like the real thing. The mod is meant to be played with a 300 FPS cap so if you play on lower or higher it&#x27;s gonna be harder or easier than intended.
-- Dependencies
-  + Vasi
-- Tags
-  + Boss
 
 ### Screensaver
 
@@ -44,6 +36,21 @@
 - Dependencies
   + Satchel
 
+### The H.I.V.E
+
+- Description: A mod that makes the Hive a little harder, with some new lore! Also includes the newest version of the classic modded boss Buzzbo! Playing with EnemyHPBar and HueShifter is not required, but is recommended. First part of the Hallow Knight mod series.
+- Dependencies
+  + FriendCore
+  + SFCore
+- Integrations
+  + Enemy HP Bar
+  + HueShifter
+- Tags
+  + Boss
+  + Cosmetic
+  + Expansion
+  + Gameplay
+
 
 ## Updated mods
 
@@ -53,7 +60,7 @@
 
 ### Breakable Wall Randomizer
 
-- Version: 3.0.4.3 -> 3.0.4.4
+- Version: 3.0.4.3 -> 4.0.0.0
 
 ### CharmPatch
 

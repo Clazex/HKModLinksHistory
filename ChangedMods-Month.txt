@@ -1,5 +1,3 @@
-EndlessIBaldur
-Quasar Radiance
 Flukemaster
 HKMP.CheckSave
 HowwowKnyight
@@ -20,3 +18,6 @@ Screensaver
 ShuffledCharmEffects
 ShuffledCharmEffects
 CustomBgm
+Breakable Wall Randomizer
+FriendCore
+The H.I.V.E

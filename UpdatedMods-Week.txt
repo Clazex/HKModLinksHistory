@@ -1,2 +1,2 @@
-ShuffledCharmEffects
 CustomBgm
+Breakable Wall Randomizer
