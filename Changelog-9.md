@@ -1,11 +1,9 @@
 # Changelog
 
 
-## New mods
+## Updated mods
 
 ### ShuffledCharmEffects
 
-- Description: Equipped charms will have randomized effects
-- Dependencies
-  + Satchel
+- Version: 1.0.0.0 -> 1.0.0.1
 
