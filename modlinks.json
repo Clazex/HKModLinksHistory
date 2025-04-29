@@ -61,12 +61,12 @@
     "links": {
       "type": "universal",
       "sha256": "327BD4575877834B7E94B141CA9C09354DBD61E976A6DBBB2A16C842C70E984C",
-      "url": "https://github.com/nearrin/HollowKnight.AbsoluteZote/releases/download/2.0/AbsoluteZote-v2.0.zip"
+      "url": "https://github.com/mystelin/HollowKnight.AbsoluteZote/releases/download/2.0/AbsoluteZote-v2.0.zip"
     },
     "dependencies": [
       "Satchel"
     ],
-    "repository": "https://github.com/nearrin/HollowKnight.AbsoluteZote/",
+    "repository": "https://github.com/mystelin/HollowKnight.AbsoluteZote/",
     "integrations": [
       "PureZote"
     ]
@@ -189,7 +189,7 @@
     ],
     "authors": [
       "Godfriend",
-      "Nearrin"
+      "mystelin"
     ]
   },
   "AllHallownestEnhanced": {
@@ -3094,8 +3094,8 @@
       "Clazex",
       "HKLab",
       "Mulhima",
-      "Nearrin",
-      "Roy"
+      "Roy",
+      "mystelin"
     ]
   },
   "Godhome Elo Counter": {
@@ -3804,10 +3804,10 @@
     "links": {
       "type": "universal",
       "sha256": "A10A68B088628C6C4420067555E20B9CBC12E1238AF26696CD1C0383B6C2DC17",
-      "url": "https://github.com/nearrin/HollowKnight.Abstraction/releases/download/1.3/HitboxOnly-v1.3.zip"
+      "url": "https://github.com/mystelin/HollowKnight.HitboxOnly/releases/download/1.3/HitboxOnly-v1.3.zip"
     },
     "dependencies": [],
-    "repository": "https://github.com/nearrin/HollowKnight.Abstraction/"
+    "repository": "https://github.com/mystelin/HollowKnight.HitboxOnly/"
   },
   "Hivesong": {
     "description": "This mod adds a new charm, Hivesong, which increases the damage dealt by pets.",
@@ -5822,12 +5822,12 @@
     "links": {
       "type": "universal",
       "sha256": "52FA80B5FB01AE7D756F0B9AF3958C4F79CB95B826D14A3D5FEF2692B77F65A5",
-      "url": "https://github.com/nearrin/PureZote/releases/download/1.0/PureZote.zip"
+      "url": "https://github.com/mystelin/HollowKnight.PureZote/releases/download/1.0/PureZote.zip"
     },
     "dependencies": [
       "Satchel"
     ],
-    "repository": "https://github.com/nearrin/PureZote/",
+    "repository": "https://github.com/mystelin/HollowKnight.PureZote/",
     "integrations": [
       "AbsoluteZote"
     ]
@@ -7996,12 +7996,25 @@
     "links": {
       "type": "universal",
       "sha256": "83CB2C38D51FAF8BD6A0106F95586BEC5580CF8D8173185CF76550A74C7DF1B9",
-      "url": "https://github.com/nearrin/HollowKnight.ZoteCollectorHelper/releases/download/1.0.0.0/ZoteCollectorHelper.zip"
+      "url": "https://github.com/mystelin/HollowKnight.ZoteCollectorHelper/releases/download/1.0.0.0/ZoteCollectorHelper.zip"
     },
     "dependencies": [
       "Satchel"
     ],
-    "repository": "https://github.com/nearrin/HollowKnight.ZoteCollectorHelper/"
+    "repository": "https://github.com/mystelin/HollowKnight.ZoteCollectorHelper/"
+  },
+  "niaPfohtaP (PoP Upside Down)": {
+    "description": "Makes Path of Pain upside down.",
+    "version": "1.0.0.0",
+    "links": {
+      "type": "universal",
+      "sha256": "4C52D44C3F2F21BCBB78E3D6213EF0E9B24B8CE641DCA4991C736ED4EA4676A5",
+      "url": "https://github.com/mystelin/HollowKnight.niaPfohtaP/releases/download/1.0/niaPfohtaP.zip"
+    },
+    "dependencies": [
+      "Satchel"
+    ],
+    "repository": "https://github.com/mystelin/HollowKnight.niaPfohtaP/"
   },
   "ouchyGrass": {
     "description": "Touching grass hurts or kills the player.",

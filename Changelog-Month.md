@@ -3,12 +3,6 @@
 
 ## New mods
 
-### Flukemaster
-
-- Description: All spells are affected by flukenest
-- Dependencies
-  + Satchel
-
 ### FriendCore
 
 - Description: Experimental (but stable) library mod with enemy editing capabilities.
@@ -50,6 +44,12 @@
   + Cosmetic
   + Expansion
   + Gameplay
+
+### niaPfohtaP (PoP Upside Down)
+
+- Description: Makes Path of Pain upside down.
+- Dependencies
+  + Satchel
 
 
 ## Updated mods
