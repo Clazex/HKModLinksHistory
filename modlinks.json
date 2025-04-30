@@ -822,6 +822,23 @@
       "Roy"
     ]
   },
+  "BossStatueFramework": {
+    "description": "Library for adding custom boss statues to the Hall of Gods.",
+    "version": "1.1.0.0",
+    "links": {
+      "type": "universal",
+      "sha256": "D93D94F8C80B2B22E079C4A7E52B2EC0735AB7402629DD215DADCD409CF4306C",
+      "url": "https://github.com/jngo102/HollowKnight.BossStatueFramework/releases/download/1.1.0.0/BossStatueFramework.zip"
+    },
+    "dependencies": [],
+    "repository": "https://github.com/jngo102/HollowKnight.BossStatueFramework",
+    "tags": [
+      "Library"
+    ],
+    "authors": [
+      "jngo102"
+    ]
+  },
   "BossSync": {
     "description": "This mod is now obsolete as its features are implemented into another mod (MapSyncMod). Currently working on another mod to polish up some things for 112% Coop APB speedruns that will be released under the name \"SpeedrunSync\"",
     "version": "1.0.1.0",
@@ -844,11 +861,11 @@
   },
   "Breakable Wall Randomizer": {
     "description": "A Hollow Knight Randomizer add-on for breakable walls.",
-    "version": "4.0.0.0",
+    "version": "4.0.0.1",
     "links": {
       "type": "universal",
-      "sha256": "2823423504B9FC1AF000BAF7E5C1CA0ECED07C5DEC030F428DD2DE693AFFCEDE",
-      "url": "https://github.com/nerthul11/BreakableWallRandomizer/releases/download/4.0.0.0/BreakableWallRandomizer.zip"
+      "sha256": "A1B26383275AB816CEB18AA83A96BC6D3890334EA8EBCC34CF2D3DB20F202F82",
+      "url": "https://github.com/nerthul11/BreakableWallRandomizer/releases/download/4.0.0.1/BreakableWallRandomizer.zip"
     },
     "dependencies": [
       "Randomizer 4",

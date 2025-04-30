@@ -1,4 +1,3 @@
-HKMP.CheckSave
 HowwowKnyight
 Scattered and Lost
 TreasureHunt
@@ -21,3 +20,5 @@ Breakable Wall Randomizer
 FriendCore
 The H.I.V.E
 niaPfohtaP (PoP Upside Down)
+BossStatueFramework
+Breakable Wall Randomizer

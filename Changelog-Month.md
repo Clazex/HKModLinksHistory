@@ -3,18 +3,17 @@
 
 ## New mods
 
+### BossStatueFramework
+
+- Description: Library for adding custom boss statues to the Hall of Gods.
+- Tags
+  + Library
+
 ### FriendCore
 
 - Description: Experimental (but stable) library mod with enemy editing capabilities.
 - Tags
   + Library
-
-### HKMP.CheckSave
-
-- Description: HKMP Addon for checking player save
-- Dependencies
-  + HKMP
-  + HKMirror
 
 ### Screensaver
 
@@ -60,7 +59,7 @@
 
 ### Breakable Wall Randomizer
 
-- Version: 3.0.4.3 -> 4.0.0.0
+- Version: 3.0.4.3 -> 4.0.0.1
 
 ### CharmPatch
 
