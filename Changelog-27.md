@@ -3,11 +3,11 @@
 
 ## Updated mods
 
-### Lore Randomizer
+### Breakable Wall Randomizer
 
-- Version: 0.3.2.0 -> 0.3.3.0
+- Version: 3.0.4.3 -> 3.0.4.4
 
-### LoreCore
+### LumaflyKnight
 
-- Version: 0.6.2.0 -> 0.6.3.0
+- Version: 10.0.0.0 -> 11.0.0.0
 

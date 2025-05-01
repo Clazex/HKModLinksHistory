@@ -2556,23 +2556,24 @@
   },
   "Fake Peppino": {
     "description": "Adds Fake Peppino boss from Pizza Tower.",
-    "version": "1.1.0.1",
+    "version": "1.2.0.1",
     "links": {
       "type": "platform-dependent",
       "windows": {
-        "sha256": "93456DC29CD0946024806B0592E0CADDD5422231729B73AB2E46AC00056478DC",
-        "url": "https://github.com/jngo102/FakePeppino/releases/download/1.1.0.1/FakePeppino_Windows.zip"
+        "sha256": "F47ED0E3FF87CBF436884E70299CBFCA09B030CC7CABE1429B9DE37F1E4DCBDB",
+        "url": "https://github.com/jngo102/FakePeppino/releases/download/1.2.0.1/FakePeppino_Windows.zip"
       },
       "mac": {
-        "sha256": "7CFB818EA3D9C19D8E25614241097D554EB7D2FFDCEDBD1EE7369B4DB38F97D9",
-        "url": "https://github.com/jngo102/FakePeppino/releases/download/1.1.0.1/FakePeppino_OSX.zip"
+        "sha256": "1E51A492CD28F354C88694F1C2085EC6736BFC2B2A2B87818981D98253C9B87B",
+        "url": "https://github.com/jngo102/FakePeppino/releases/download/1.2.0.1/FakePeppino_OSX.zip"
       },
       "linux": {
-        "sha256": "95D14739CBC47EEAC0ED96CC1DF1FD13A7A218BF8B091E23802550AA9EA961EC",
-        "url": "https://github.com/jngo102/FakePeppino/releases/download/1.1.0.1/FakePeppino_Linux.zip"
+        "sha256": "9A9CBDBCE2C76197EB5EFE83976F73BC6CB6A488AD10201CB29E8D80E05C8506",
+        "url": "https://github.com/jngo102/FakePeppino/releases/download/1.2.0.1/FakePeppino_Linux.zip"
       }
     },
     "dependencies": [
+      "BossStatueFramework",
       "Vasi"
     ],
     "repository": "https://github.com/jngo102/FakePeppino",

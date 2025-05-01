@@ -1,6 +1,3 @@
-HowwowKnyight
-Scattered and Lost
-TreasureHunt
 Lore Randomizer
 LoreCore
 Breakable Wall Randomizer
@@ -16,3 +13,4 @@ ShuffledCharmEffects
 CustomBgm
 Breakable Wall Randomizer
 Breakable Wall Randomizer
+Fake Peppino

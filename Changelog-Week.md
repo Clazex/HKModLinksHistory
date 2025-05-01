@@ -22,3 +22,10 @@
 
 - Version: 4.0.0.0 -> 4.0.0.1
 
+### Fake Peppino
+
+- Version: 1.1.0.1 -> 1.2.0.1
+- Dependencies
+  + Added
+    - BossStatueFramework
+

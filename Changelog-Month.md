@@ -78,12 +78,16 @@
   + Added
     - Custom Knight
 
+### Fake Peppino
+
+- Version: 1.1.0.1 -> 1.2.0.1
+- Dependencies
+  + Added
+    - BossStatueFramework
+
 ### HowwowKnyight
 
-- Version: 3.8.2.0 -> 4.0.1.0
-- Tags
-  + Removed
-    - Cosmetic
+- Version: 4.0.0.0 -> 4.0.1.0
 
 ### Lore Randomizer
 
@@ -99,12 +103,9 @@
 
 ### Scattered and Lost
 
-- Version: 1.3.1.0 -> 1.4.2.0
-- Integrations
-  + Added
-    - DecorationMaster
+- Version: 1.4.0.0 -> 1.4.2.0
 
 ### TreasureHunt
 
-- Version: 0.1.2.0 -> 1.1.0.0
+- Version: 1.0.0.0 -> 1.1.0.0
 
