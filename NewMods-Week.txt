@@ -1,2 +1,13 @@
 niaPfohtaP (PoP Upside Down)
 BossStatueFramework
+GraphicOptions
+HkSpeedUp
+HollowKnightAchievementManager
+PeakingPeekingPeaks
+PvpArena
+ScenePainter
+StoriesOfaHkPlayer-Ch1
+StoriesOfaHkPlayer-Ch2
+SvgLib
+TestOfTeamwork
+ZaliantsSurprise

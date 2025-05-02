@@ -150,16 +150,17 @@
   },
   "AdditionalMaps": {
     "description": "Adds white palace and godhome maps. The white palace one is next to the bench in the big room. The godhome one is next to the bench above the pantheons.",
-    "version": "1.5.4.0",
+    "version": "1.5.4.1",
     "links": {
       "type": "universal",
-      "sha256": "0B787F11973A313383C34F6A4F87B5593863652F9E96B404BB319EABBBFCF0EE",
-      "url": "https://github.com/SFGrenade/AdditionalMaps/releases/download/v1.5.4.0/AdditionalMaps.zip"
+      "sha256": "78F34209CA461769F15705B73F1C2437BFCFD8894D3DB2201DD4F5B4E635957B",
+      "url": "https://github.com/SFGrenade/AdditionalMaps/releases/download/v1.5.4.1/AdditionalMaps.zip"
     },
     "dependencies": [
       "SFCore"
     ],
     "repository": "https://github.com/SFGrenade/AdditionalMaps/",
+    "issues": "https://github.com/SFGrenade/AdditionalMaps/issues/",
     "integrations": [
       "CompassAlwaysOn",
       "HKMP"
@@ -542,6 +543,7 @@
     },
     "dependencies": [],
     "repository": "https://github.com/SFGrenade/BenchWarpFix/",
+    "issues": "https://github.com/SFGrenade/BenchWarpFix/issues/",
     "tags": [
       "Utility"
     ],
@@ -756,6 +758,7 @@
       "SFCore"
     ],
     "repository": "https://github.com/SFGrenade/BlindRadiance/",
+    "issues": "https://github.com/SFGrenade/BlindRadiance/issues/",
     "tags": [
       "Cosmetic"
     ],
@@ -1540,6 +1543,7 @@
     },
     "dependencies": [],
     "repository": "https://github.com/SFGrenade/CursedMod/",
+    "issues": "https://github.com/SFGrenade/CursedMod/issues/",
     "tags": [
       "Utility"
     ],
@@ -1600,6 +1604,7 @@
     },
     "dependencies": [],
     "repository": "https://github.com/SFGrenade/CustomBgm/",
+    "issues": "https://github.com/SFGrenade/CustomBgm/issues/",
     "integrations": [
       "Custom Knight"
     ],
@@ -1772,6 +1777,7 @@
     },
     "dependencies": [],
     "repository": "https://github.com/SFGrenade/CustomSaveArt/",
+    "issues": "https://github.com/SFGrenade/CustomSaveArt/issues/",
     "tags": [
       "Cosmetic"
     ],
@@ -2396,6 +2402,7 @@
       "SFCore"
     ],
     "repository": "https://github.com/SFGrenade/EnemyChanger/",
+    "issues": "https://github.com/SFGrenade/EnemyChanger/issues/",
     "tags": [
       "Cosmetic"
     ],
@@ -2693,6 +2700,7 @@
     },
     "dependencies": [],
     "repository": "https://github.com/SFGrenade/FireIsSmolBrain/",
+    "issues": "https://github.com/SFGrenade/FireIsSmolBrain/issues/",
     "tags": [
       "Gameplay",
       "Utility"
@@ -2881,6 +2889,7 @@
       "SFCore"
     ],
     "repository": "https://github.com/SFGrenade/FullSpeedAhead/",
+    "issues": "https://github.com/SFGrenade/FullSpeedAhead/issues/",
     "tags": [
       "Utility"
     ],
@@ -2900,6 +2909,7 @@
       "SFCore"
     ],
     "repository": "https://github.com/SFGrenade/FuryFix/",
+    "issues": "https://github.com/SFGrenade/FuryFix/issues/",
     "tags": [
       "Utility"
     ],
@@ -3014,7 +3024,7 @@
     ]
   },
   "GeoLog": {
-    "description": "Logs all geo locations in the game.\nTakes hours to load into the game.",
+    "description": "Logs all geo locations in the game. Goes through the entire game on startup.",
     "version": "1.5.1.0",
     "links": {
       "type": "universal",
@@ -3025,6 +3035,7 @@
       "SFCore"
     ],
     "repository": "https://github.com/SFGrenade/GeoLog/",
+    "issues": "https://github.com/SFGrenade/GeoLog/issues/",
     "tags": [
       "Utility"
     ],
@@ -3230,7 +3241,7 @@
       "Mulhima"
     ]
   },
-  "Graphic Options": {
+  "GraphicOptions": {
     "description": "Adds a \"few\" graphics options. Some of those \"might\" be unstable to change.",
     "version": "1.5.1.1",
     "links": {
@@ -3243,6 +3254,7 @@
       "Satchel"
     ],
     "repository": "https://github.com/SFGrenade/GraphicOptions/",
+    "issues": "https://github.com/SFGrenade/GraphicOptions/issues/",
     "tags": [
       "Utility"
     ],
@@ -3407,6 +3419,7 @@
       "SFCore"
     ],
     "repository": "https://github.com/SFGrenade/HKHKHKHKHK/",
+    "issues": "https://github.com/SFGrenade/HKHKHKHKHK/issues/",
     "tags": [
       "Gameplay"
     ],
@@ -3849,6 +3862,23 @@
       "DanielStegink"
     ]
   },
+  "HkSpeedUp": {
+    "description": "Lets you change game speed",
+    "version": "1.0.0.0",
+    "links": {
+      "type": "universal",
+      "sha256": "943B035A62E0C47D5DEA971E7821468E1E586A81E17E178E7091F6DE0F48B25C",
+      "url": "https://github.com/gGordey/HkSpeedUp/releases/download/release/release.zip"
+    },
+    "dependencies": [],
+    "repository": "https://github.com/gGordey/HkSpeedUp",
+    "tags": [
+      "Gameplay"
+    ],
+    "authors": [
+      "gGordey"
+    ]
+  },
   "HkmpPouch": {
     "description": "A dependency mod for optional hkmp addons with networking.",
     "version": "2.0.0.0",
@@ -3880,6 +3910,19 @@
     ]
   },
   "Hollow Knight Achievement Manager": {
+    "description": "Dummy mod. Install the dependency \"HollowKnightAchievementManager\" directly.",
+    "version": "9.9.9.9",
+    "links": {
+      "type": "universal",
+      "sha256": "00280F51FB9F3030B4F1BBBAD3AB29082A706994E4FAF783AA955054673BC74B",
+      "url": "https://github.com/SFGrenade/EmptyMod/releases/download/v9.9.9.9/EmptyMod.zip"
+    },
+    "dependencies": [
+      "HollowKnightAchievementManager"
+    ],
+    "repository": "https://github.com/SFGrenade/EmptyMod/"
+  },
+  "HollowKnightAchievementManager": {
     "description": "Allows to manage Hollow Knight achievements, both vanilla and modded. Also syncs them with the online store of choice (GOG, Steam, XBox). Also allows to un-/lock menu themes and game modes.",
     "version": "1.5.2.0",
     "links": {
@@ -3892,6 +3935,7 @@
       "Satchel"
     ],
     "repository": "https://github.com/SFGrenade/HollowKnightAchievementManager/",
+    "issues": "https://github.com/SFGrenade/HollowKnightAchievementManager/issues/",
     "tags": [
       "Utility"
     ],
@@ -4366,6 +4410,7 @@
       "SFCore"
     ],
     "repository": "https://github.com/SFGrenade/LanguageSupport/",
+    "issues": "https://github.com/SFGrenade/LanguageSupport/issues/",
     "tags": [
       "Cosmetic",
       "Utility"
@@ -4837,6 +4882,7 @@
     },
     "dependencies": [],
     "repository": "https://github.com/SFGrenade/MenuThemesInGame/",
+    "issues": "https://github.com/SFGrenade/MenuThemesInGame/issues/",
     "tags": [
       "Cosmetic"
     ],
@@ -5047,6 +5093,7 @@
       "SFCore"
     ],
     "repository": "https://github.com/SFGrenade/MoreHealing/",
+    "issues": "https://github.com/SFGrenade/MoreHealing/issues/",
     "tags": [
       "Gameplay"
     ],
@@ -5193,6 +5240,7 @@
     },
     "dependencies": [],
     "repository": "https://github.com/SFGrenade/NailsmithBackPay/",
+    "issues": "https://github.com/SFGrenade/NailsmithBackPay/issues/",
     "tags": [
       "Cosmetic"
     ],
@@ -5221,6 +5269,7 @@
     },
     "dependencies": [],
     "repository": "https://github.com/SFGrenade/NeverMuffle/",
+    "issues": "https://github.com/SFGrenade/NeverMuffle/issues/",
     "tags": [
       "Utility"
     ],
@@ -5669,6 +5718,19 @@
     ]
   },
   "Peaking Peeking Peaks": {
+    "description": "Dummy mod. Install the dependency \"PeakingPeekingPeaks\" directly.",
+    "version": "9.9.9.9",
+    "links": {
+      "type": "universal",
+      "sha256": "00280F51FB9F3030B4F1BBBAD3AB29082A706994E4FAF783AA955054673BC74B",
+      "url": "https://github.com/SFGrenade/EmptyMod/releases/download/v9.9.9.9/EmptyMod.zip"
+    },
+    "dependencies": [
+      "PeakingPeekingPeaks"
+    ],
+    "repository": "https://github.com/SFGrenade/EmptyMod/"
+  },
+  "PeakingPeekingPeaks": {
     "description": "This mods aims to make the Crystal Peak name more memorable.",
     "version": "1.5.0.0",
     "links": {
@@ -5680,6 +5742,7 @@
       "SFCore"
     ],
     "repository": "https://github.com/SFGrenade/PeakingPeekingPeaks/",
+    "issues": "https://github.com/SFGrenade/PeakingPeekingPeaks/issues/",
     "tags": [
       "Cosmetic"
     ],
@@ -5865,6 +5928,19 @@
     "repository": "https://github.com/dplochcoder/HollowKnight.PurenailCore"
   },
   "PvP Arena": {
+    "description": "Dummy mod. Install the dependency \"PvpArena\" directly.",
+    "version": "9.9.9.9",
+    "links": {
+      "type": "universal",
+      "sha256": "00280F51FB9F3030B4F1BBBAD3AB29082A706994E4FAF783AA955054673BC74B",
+      "url": "https://github.com/SFGrenade/EmptyMod/releases/download/v9.9.9.9/EmptyMod.zip"
+    },
+    "dependencies": [
+      "PvpArena"
+    ],
+    "repository": "https://github.com/SFGrenade/EmptyMod/"
+  },
+  "PvpArena": {
     "description": "This mod adds a PvP arena with an invisible entrance right of the bench in Dirtmouth.",
     "version": "1.5.1.0",
     "links": {
@@ -5876,6 +5952,7 @@
       "SFCore"
     ],
     "repository": "https://github.com/SFGrenade/PvpArena/",
+    "issues": "https://github.com/SFGrenade/PvpArena/issues/",
     "tags": [
       "Expansion"
     ],
@@ -6039,6 +6116,7 @@
       "SFCore"
     ],
     "repository": "https://github.com/SFGrenade/RadiantMenu/",
+    "issues": "https://github.com/SFGrenade/RadiantMenu/issues/",
     "tags": [
       "Cosmetic"
     ],
@@ -6402,6 +6480,7 @@
       "SFCore"
     ],
     "repository": "https://github.com/SFGrenade/RedoBirthplace/",
+    "issues": "https://github.com/SFGrenade/RedoBirthplace/issues/",
     "tags": [
       "Utility"
     ],
@@ -6469,6 +6548,7 @@
     },
     "dependencies": [],
     "repository": "https://github.com/SFGrenade/ResetCharmNotches/",
+    "issues": "https://github.com/SFGrenade/ResetCharmNotches/issues/",
     "tags": [
       "Utility"
     ],
@@ -6543,6 +6623,7 @@
     },
     "dependencies": [],
     "repository": "https://github.com/SFGrenade/SFCore/",
+    "issues": "https://github.com/SFGrenade/SFCore/issues/",
     "tags": [
       "Library"
     ],
@@ -6656,6 +6737,26 @@
       "DebugMod",
       "ItemSync",
       "RandoSettingsManager"
+    ]
+  },
+  "ScenePainter": {
+    "description": "Creates SVG images of all scenes in the game. Can be initiated manually using the K key.",
+    "version": "1.5.1.5",
+    "links": {
+      "type": "universal",
+      "sha256": "A4C49A9DBDA6E65C3A5B459F9FB54443D56F1110BDF43DC45DD9AED161101984",
+      "url": "https://github.com/SFGrenade/ScenePainter/releases/download/v1.5.1.5/ScenePainter.zip"
+    },
+    "dependencies": [
+      "SvgLib"
+    ],
+    "repository": "https://github.com/SFGrenade/ScenePainter/",
+    "issues": "https://github.com/SFGrenade/ScenePainter/issues/",
+    "tags": [
+      "Utility"
+    ],
+    "authors": [
+      "SFGrenade"
     ]
   },
   "ScreenShakeService": {
@@ -6813,6 +6914,7 @@
     },
     "dependencies": [],
     "repository": "https://github.com/SFGrenade/ShowFPS/",
+    "issues": "https://github.com/SFGrenade/ShowFPS/issues/",
     "tags": [
       "Utility"
     ],
@@ -7152,6 +7254,7 @@
     },
     "dependencies": [],
     "repository": "https://github.com/SFGrenade/SpriteDumper/",
+    "issues": "https://github.com/SFGrenade/SpriteDumper/issues/",
     "tags": [
       "Utility"
     ],
@@ -7232,6 +7335,32 @@
     ]
   },
   "Stories of a HK player - Chapter 1": {
+    "description": "Dummy mod. Install the dependency \"StoriesOfaHkPlayer-Ch1\" directly.",
+    "version": "9.9.9.9",
+    "links": {
+      "type": "universal",
+      "sha256": "00280F51FB9F3030B4F1BBBAD3AB29082A706994E4FAF783AA955054673BC74B",
+      "url": "https://github.com/SFGrenade/EmptyMod/releases/download/v9.9.9.9/EmptyMod.zip"
+    },
+    "dependencies": [
+      "StoriesOfaHkPlayer-Ch1"
+    ],
+    "repository": "https://github.com/SFGrenade/EmptyMod/"
+  },
+  "Stories of a HK player - Chapter 2": {
+    "description": "Dummy mod. Install the dependency \"StoriesOfaHkPlayer-Ch2\" directly.",
+    "version": "9.9.9.9",
+    "links": {
+      "type": "universal",
+      "sha256": "00280F51FB9F3030B4F1BBBAD3AB29082A706994E4FAF783AA955054673BC74B",
+      "url": "https://github.com/SFGrenade/EmptyMod/releases/download/v9.9.9.9/EmptyMod.zip"
+    },
+    "dependencies": [
+      "StoriesOfaHkPlayer-Ch2"
+    ],
+    "repository": "https://github.com/SFGrenade/EmptyMod/"
+  },
+  "StoriesOfaHkPlayer-Ch1": {
     "description": "The start of a story of a Hollow Knight player and his personalized copy of the game.",
     "version": "1.5.0.0",
     "links": {
@@ -7243,6 +7372,7 @@
       "SFCore"
     ],
     "repository": "https://github.com/SFGrenade/StoriesOfaHkPlayer-Ch1/",
+    "issues": "https://github.com/SFGrenade/StoriesOfaHkPlayer-Ch1/issues/",
     "tags": [
       "Cosmetic"
     ],
@@ -7250,7 +7380,7 @@
       "SFGrenade"
     ]
   },
-  "Stories of a HK player - Chapter 2": {
+  "StoriesOfaHkPlayer-Ch2": {
     "description": "The second iteration of a story of a Hollow Knight player and his personalized copy of the game.\nWarning for people streaming this mod: This mod displays your windows/mac/linux username.",
     "version": "1.5.1.0",
     "links": {
@@ -7262,6 +7392,7 @@
       "SFCore"
     ],
     "repository": "https://github.com/SFGrenade/StoriesOfaHkPlayer-Ch2/",
+    "issues": "https://github.com/SFGrenade/StoriesOfaHkPlayer-Ch2/issues/",
     "tags": [
       "Expansion",
       "Gameplay"
@@ -7311,6 +7442,25 @@
       "ROTTEN108"
     ]
   },
+  "SvgLib": {
+    "description": "SVG parser and composer library for .NET Framework and .NET Core.",
+    "version": "1.0.0.4",
+    "links": {
+      "type": "universal",
+      "sha256": "8EB73F3CF9A36919C1A153D702776515D5A58C5808C1FCB4D3400F72C272A795",
+      "url": "https://github.com/SFGrenade/svglib/releases/download/v1.0.0.4/SvgLib.zip"
+    },
+    "dependencies": [],
+    "repository": "https://github.com/SFGrenade/svglib/",
+    "issues": "https://github.com/huysentruitw/svglib/issues/",
+    "tags": [
+      "Library"
+    ],
+    "authors": [
+      "SFGrenade",
+      "Wouter Huysentruit"
+    ]
+  },
   "Taxes": {
     "description": "All your geo means all your geo",
     "version": "1.0.0.0",
@@ -7328,17 +7478,31 @@
     ]
   },
   "Test of Teamwork": {
-    "description": "Adds a Path of Pain style section to the White Palace.\nStart by talking to people in and around dirtmouth.\nThis is a singleplayer mod. The \"teamwork\" refers to in-game events.",
-    "version": "1.5.79.0",
+    "description": "Dummy mod. Install the dependency \"TestOfTeamwork\" directly.",
+    "version": "9.9.9.9",
     "links": {
       "type": "universal",
-      "sha256": "A1A63A9B335379DA6BD0F1D30AD70C5E43EF65F13E25C740E718DA7B0D7B0D58",
-      "url": "https://github.com/SFGrenade/TestOfTeamwork/releases/download/v1.5.79/TestOfTeamwork.zip"
+      "sha256": "00280F51FB9F3030B4F1BBBAD3AB29082A706994E4FAF783AA955054673BC74B",
+      "url": "https://github.com/SFGrenade/EmptyMod/releases/download/v9.9.9.9/EmptyMod.zip"
+    },
+    "dependencies": [
+      "TestOfTeamwork"
+    ],
+    "repository": "https://github.com/SFGrenade/EmptyMod/"
+  },
+  "TestOfTeamwork": {
+    "description": "Adds a Path of Pain style section to the White Palace.\nStart by talking to people in and around dirtmouth.\nThis is a singleplayer mod. The \"teamwork\" refers to in-game events.",
+    "version": "1.5.79.11",
+    "links": {
+      "type": "universal",
+      "sha256": "E1AC9DC9F14045339392768DB95C5603AE6717413EFED5A55700AABD0FFEFB49",
+      "url": "https://github.com/SFGrenade/TestOfTeamwork/releases/download/v1.5.79.11/TestOfTeamwork.zip"
     },
     "dependencies": [
       "SFCore"
     ],
     "repository": "https://github.com/SFGrenade/TestOfTeamwork/",
+    "issues": "https://github.com/SFGrenade/TestOfTeamwork/issues/",
     "integrations": [
       "DebugMod",
       "HKMP"
@@ -7971,6 +8135,19 @@
     ]
   },
   "Zaliants Surprise": {
+    "description": "Dummy mod. Install the dependency \"ZaliantsSurprise\" directly.",
+    "version": "9.9.9.9",
+    "links": {
+      "type": "universal",
+      "sha256": "00280F51FB9F3030B4F1BBBAD3AB29082A706994E4FAF783AA955054673BC74B",
+      "url": "https://github.com/SFGrenade/EmptyMod/releases/download/v9.9.9.9/EmptyMod.zip"
+    },
+    "dependencies": [
+      "ZaliantsSurprise"
+    ],
+    "repository": "https://github.com/SFGrenade/EmptyMod/"
+  },
+  "ZaliantsSurprise": {
     "description": "This is a mod idea by Zaliant.\nFormer Description:\nThis is the Pale Court mod.\nEnjoy!",
     "version": "1.5.2.0",
     "links": {
@@ -7984,6 +8161,7 @@
       "Vasi"
     ],
     "repository": "https://github.com/SFGrenade/ZaliantsSurprise/",
+    "issues": "https://github.com/SFGrenade/ZaliantsSurprise/issues/",
     "tags": [
       "Utility"
     ],
