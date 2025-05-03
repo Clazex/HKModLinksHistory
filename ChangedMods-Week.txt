@@ -21,3 +21,5 @@ Test of Teamwork
 TestOfTeamwork
 Zaliants Surprise
 ZaliantsSurprise
+HkSpeedUp
+ScenePainter

@@ -214,14 +214,6 @@ Enjoy!
 
 - Version: 4.0.0.0 -> 4.0.1.0
 
-### Lore Randomizer
-
-- Version: 0.3.2.0 -> 0.3.3.0
-
-### LoreCore
-
-- Version: 0.6.2.0 -> 0.6.3.0
-
 ### LumaflyKnight
 
 - Version: 10.0.0.0 -> 11.0.0.0

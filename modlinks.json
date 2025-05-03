@@ -3864,11 +3864,11 @@
   },
   "HkSpeedUp": {
     "description": "Lets you change game speed",
-    "version": "1.0.0.0",
+    "version": "1.0.1.0",
     "links": {
       "type": "universal",
-      "sha256": "943B035A62E0C47D5DEA971E7821468E1E586A81E17E178E7091F6DE0F48B25C",
-      "url": "https://github.com/gGordey/HkSpeedUp/releases/download/release/release.zip"
+      "sha256": "BA3BCEB7E6ACB64504718489238121AB8F255244F8F50267136B2626D149D985",
+      "url": "https://github.com/gGordey/HkSpeedUp/releases/download/release/HkSpeedUp.zip"
     },
     "dependencies": [],
     "repository": "https://github.com/gGordey/HkSpeedUp",
@@ -3876,7 +3876,8 @@
       "Gameplay"
     ],
     "authors": [
-      "gGordey"
+      "gGordey",
+      "mint"
     ]
   },
   "HkmpPouch": {
@@ -6741,11 +6742,11 @@
   },
   "ScenePainter": {
     "description": "Creates SVG images of all scenes in the game. Can be initiated manually using the K key.",
-    "version": "1.5.1.5",
+    "version": "1.5.1.6",
     "links": {
       "type": "universal",
-      "sha256": "A4C49A9DBDA6E65C3A5B459F9FB54443D56F1110BDF43DC45DD9AED161101984",
-      "url": "https://github.com/SFGrenade/ScenePainter/releases/download/v1.5.1.5/ScenePainter.zip"
+      "sha256": "7924126A6BED1187FD6D28BC178622AB56CF9E62BE17751F855B4754153DB7E2",
+      "url": "https://github.com/SFGrenade/ScenePainter/releases/download/v1.5.1.6/ScenePainter.zip"
     },
     "dependencies": [
       "SvgLib"

@@ -8,3 +8,5 @@ Stories of a HK player - Chapter 1
 Stories of a HK player - Chapter 2
 Test of Teamwork
 Zaliants Surprise
+HkSpeedUp
+ScenePainter
