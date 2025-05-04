@@ -10,3 +10,4 @@ Test of Teamwork
 Zaliants Surprise
 HkSpeedUp
 ScenePainter
+Breakable Wall Randomizer

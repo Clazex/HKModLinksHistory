@@ -864,11 +864,11 @@
   },
   "Breakable Wall Randomizer": {
     "description": "A Hollow Knight Randomizer add-on for breakable walls.",
-    "version": "4.0.0.1",
+    "version": "4.0.0.2",
     "links": {
       "type": "universal",
-      "sha256": "A1B26383275AB816CEB18AA83A96BC6D3890334EA8EBCC34CF2D3DB20F202F82",
-      "url": "https://github.com/nerthul11/BreakableWallRandomizer/releases/download/4.0.0.1/BreakableWallRandomizer.zip"
+      "sha256": "398555620725CC06C555F11750ECF5A1AF197FF4B0A9930269D62F5DC1E37589",
+      "url": "https://github.com/nerthul11/BreakableWallRandomizer/releases/download/4.0.0.2/BreakableWallRandomizer.zip"
     },
     "dependencies": [
       "Randomizer 4",
@@ -3860,24 +3860,6 @@
     ],
     "authors": [
       "DanielStegink"
-    ]
-  },
-  "HkSpeedUp": {
-    "description": "Lets you change game speed",
-    "version": "1.0.1.0",
-    "links": {
-      "type": "universal",
-      "sha256": "BA3BCEB7E6ACB64504718489238121AB8F255244F8F50267136B2626D149D985",
-      "url": "https://github.com/gGordey/HkSpeedUp/releases/download/release/HkSpeedUp.zip"
-    },
-    "dependencies": [],
-    "repository": "https://github.com/gGordey/HkSpeedUp",
-    "tags": [
-      "Gameplay"
-    ],
-    "authors": [
-      "gGordey",
-      "mint"
     ]
   },
   "HkmpPouch": {
@@ -7164,6 +7146,24 @@
     ],
     "authors": [
       "Samihamer1"
+    ]
+  },
+  "SpeedChanger": {
+    "description": "Speed up or slow down your game. A more customisable and user-friendly version of the Sanic mod.",
+    "version": "1.0.3.0",
+    "links": {
+      "type": "universal",
+      "sha256": "F29583CC90037AD4DEE38532C536AA02BAAF5F927826DD1675E23A9C0A0A8A2D",
+      "url": "https://github.com/gGordey/HkSpeedUp/releases/download/1.0.3/SpeedChanger.zip"
+    },
+    "dependencies": [],
+    "repository": "https://github.com/gGordey/HkSpeedUp",
+    "tags": [
+      "Gameplay"
+    ],
+    "authors": [
+      "gGordey",
+      "mint"
     ]
   },
   "SpeedRunQoL": {

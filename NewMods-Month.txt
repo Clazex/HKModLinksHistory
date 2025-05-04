@@ -15,3 +15,4 @@ StoriesOfaHkPlayer-Ch2
 SvgLib
 TestOfTeamwork
 ZaliantsSurprise
+SpeedChanger

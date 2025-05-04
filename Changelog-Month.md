@@ -24,12 +24,6 @@
 - Tags
   + Utility
 
-### HkSpeedUp
-
-- Description: Lets you change game speed
-- Tags
-  + Gameplay
-
 ### HollowKnightAchievementManager
 
 - Description: Allows to manage Hollow Knight achievements, both vanilla and modded. Also syncs them with the online store of choice (GOG, Steam, XBox). Also allows to un-/lock menu themes and game modes.
@@ -76,6 +70,12 @@
 - Description: Equipped charms will have randomized effects
 - Dependencies
   + Satchel
+
+### SpeedChanger
+
+- Description: Speed up or slow down your game. A more customisable and user-friendly version of the Sanic mod.
+- Tags
+  + Gameplay
 
 ### StoriesOfaHkPlayer-Ch1
 
@@ -168,7 +168,7 @@ Enjoy!
 
 ### Breakable Wall Randomizer
 
-- Version: 3.0.4.3 -> 4.0.0.1
+- Version: 3.0.4.4 -> 4.0.0.2
 
 ### CharmPatch
 
@@ -213,10 +213,6 @@ Enjoy!
 ### HowwowKnyight
 
 - Version: 4.0.0.0 -> 4.0.1.0
-
-### LumaflyKnight
-
-- Version: 10.0.0.0 -> 11.0.0.0
 
 ### Peaking Peeking Peaks
 
