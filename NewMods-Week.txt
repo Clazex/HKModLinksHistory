@@ -1,4 +1,3 @@
-BossStatueFramework
 GraphicOptions
 HkSpeedUp
 HollowKnightAchievementManager
@@ -11,3 +10,4 @@ SvgLib
 TestOfTeamwork
 ZaliantsSurprise
 SpeedChanger
+GearSwitcher

@@ -3,11 +3,12 @@
 
 ## New mods
 
-### BossStatueFramework
+### GearSwitcher
 
-- Description: Library for adding custom boss statues to the Hall of Gods.
-- Tags
-  + Library
+- Description: A modification that allows you to switch the prepared equipment patterns, as well as switch the chains at any time.
+- Dependencies
+  + Satchel
+  + Toggleable Bindings
 
 ### GraphicOptions
 
@@ -123,7 +124,7 @@ Enjoy!
 
 ### Breakable Wall Randomizer
 
-- Version: 4.0.0.0 -> 4.0.0.2
+- Version: 4.0.0.1 -> 4.0.0.2
 
 ### Fake Peppino
 

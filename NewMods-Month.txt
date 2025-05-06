@@ -16,3 +16,4 @@ SvgLib
 TestOfTeamwork
 ZaliantsSurprise
 SpeedChanger
+GearSwitcher

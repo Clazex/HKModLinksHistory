@@ -1225,9 +1225,9 @@ All with an incredible new soundtrack!</Description>
     <Manifest>
         <Name>Breakable Wall Randomizer</Name>
         <Description>A Hollow Knight Randomizer add-on for breakable walls.</Description>
-        <Version>4.0.0.0</Version>
-        <Link SHA256="2823423504B9FC1AF000BAF7E5C1CA0ECED07C5DEC030F428DD2DE693AFFCEDE">
-            <![CDATA[https://github.com/nerthul11/BreakableWallRandomizer/releases/download/4.0.0.0/BreakableWallRandomizer.zip]]>
+        <Version>4.0.0.1</Version>
+        <Link SHA256="A1B26383275AB816CEB18AA83A96BC6D3890334EA8EBCC34CF2D3DB20F202F82">
+            <![CDATA[https://github.com/nerthul11/BreakableWallRandomizer/releases/download/4.0.0.1/BreakableWallRandomizer.zip]]>
         </Link>
         <Dependencies>
             <Dependency>Randomizer 4</Dependency>
@@ -8411,6 +8411,22 @@ This is a singleplayer mod. The "teamwork" refers to in-game events.</Descriptio
         </Tags>
         <Authors>
             <Author>peekagrub</Author>
+        </Authors>
+    </Manifest>
+    <Manifest>
+        <Name>BossStatueFramework</Name>
+        <Description>Library for adding custom boss statues to the Hall of Gods.</Description>
+        <Version>1.1.0.0</Version>
+        <Link SHA256="D93D94F8C80B2B22E079C4A7E52B2EC0735AB7402629DD215DADCD409CF4306C"><![CDATA[https://github.com/jngo102/HollowKnight.BossStatueFramework/releases/download/1.1.0.0/BossStatueFramework.zip]]></Link>
+        <Dependencies/>
+        <Repository>
+            <![CDATA[https://github.com/jngo102/HollowKnight.BossStatueFramework]]>
+        </Repository>
+        <Tags>
+            <Tag>Library</Tag>
+        </Tags>
+        <Authors>
+            <Author>jngo102</Author>
         </Authors>
     </Manifest>
 </ModLinks>

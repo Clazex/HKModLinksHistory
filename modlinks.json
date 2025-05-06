@@ -3006,6 +3006,23 @@
       "Gameplay"
     ]
   },
+  "GearSwitcher": {
+    "description": "A modification that allows you to switch the prepared equipment patterns, as well as switch the chains at any time.",
+    "version": "1.0.0.0",
+    "links": {
+      "type": "universal",
+      "sha256": "4D359978CC4BB184B0258F5E31692DE823CEE92362D32EBD3DF15F971275D120",
+      "url": "https://github.com/MorozicH20/GearSwitcher/releases/download/v1.0.0.0/GearSwitcher.zip"
+    },
+    "dependencies": [
+      "Satchel",
+      "Toggleable Bindings"
+    ],
+    "repository": "https://github.com/MorozicH20/GearSwitcher",
+    "authors": [
+      "Egir"
+    ]
+  },
   "GeoHunger": {
     "description": "You gradually lose geo and gradually lose health at 0 geo.",
     "version": "1.3.0.0",

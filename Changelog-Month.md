@@ -15,6 +15,13 @@
 - Tags
   + Library
 
+### GearSwitcher
+
+- Description: A modification that allows you to switch the prepared equipment patterns, as well as switch the chains at any time.
+- Dependencies
+  + Satchel
+  + Toggleable Bindings
+
 ### GraphicOptions
 
 - Description: Adds a &quot;few&quot; graphics options. Some of those &quot;might&quot; be unstable to change.
@@ -246,7 +253,7 @@ Enjoy!
 
 ### Scattered and Lost
 
-- Version: 1.4.0.0 -> 1.4.2.0
+- Version: 1.4.1.0 -> 1.4.2.0
 
 ### Stories of a HK player - Chapter 1
 
