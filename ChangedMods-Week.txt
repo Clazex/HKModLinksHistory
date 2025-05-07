@@ -1,4 +1,3 @@
-Fake Peppino
 AdditionalMaps
 GraphicOptions
 HkSpeedUp
@@ -23,3 +22,4 @@ ScenePainter
 Breakable Wall Randomizer
 SpeedChanger
 GearSwitcher
+DebugCharms

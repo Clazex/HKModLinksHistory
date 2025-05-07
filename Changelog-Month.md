@@ -9,6 +9,12 @@
 - Tags
   + Library
 
+### DebugCharms
+
+- Description: A Debug extension specifically for charms
+- Dependencies
+  + DebugMod
+
 ### FriendCore
 
 - Description: Experimental (but stable) library mod with enemy editing capabilities.
@@ -309,10 +315,6 @@ This is a singleplayer mod. The &quot;teamwork&quot; refers to in-game events.
     - Boss
     - Expansion
     - Gameplay
-
-### TreasureHunt
-
-- Version: 1.0.0.0 -> 1.1.0.0
 
 ### Zaliants Surprise
 

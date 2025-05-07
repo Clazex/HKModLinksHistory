@@ -17,3 +17,4 @@ TestOfTeamwork
 ZaliantsSurprise
 SpeedChanger
 GearSwitcher
+DebugCharms

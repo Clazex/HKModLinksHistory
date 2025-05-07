@@ -3,6 +3,12 @@
 
 ## New mods
 
+### DebugCharms
+
+- Description: A Debug extension specifically for charms
+- Dependencies
+  + DebugMod
+
 ### GearSwitcher
 
 - Description: A modification that allows you to switch the prepared equipment patterns, as well as switch the chains at any time.
@@ -125,13 +131,6 @@ Enjoy!
 ### Breakable Wall Randomizer
 
 - Version: 4.0.0.1 -> 4.0.0.2
-
-### Fake Peppino
-
-- Version: 1.1.0.1 -> 1.2.0.1
-- Dependencies
-  + Added
-    - BossStatueFramework
 
 ### Hollow Knight Achievement Manager
 
