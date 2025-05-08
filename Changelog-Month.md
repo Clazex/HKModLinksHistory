@@ -3,17 +3,41 @@
 
 ## New mods
 
+### BingoBoardReplay
+
+- Description: A mod for bingo tournament organizers to help restream the board when the players have stream delay. See GitHub readme for usage.
+- Dependencies
+  + BingoSync
+
 ### BossStatueFramework
 
 - Description: Library for adding custom boss statues to the Hall of Gods.
 - Tags
   + Library
 
+### CarefreeRngReset
+
+- Description: This mod resets carefree melody rng to highest likelyhood of blocking each time the player enters the hall of gods.
+- Tags
+  + Utility
+
+### ColosseumTrophy
+
+- Description: Reenables the colosseum trophy cut content.
+- Tags
+  + Utility
+
 ### DebugCharms
 
 - Description: A Debug extension specifically for charms
 - Dependencies
   + DebugMod
+
+### Fishing
+
+- Description: Adds a fishing minigame to the randomizer
+- Dependencies
+  + Randomizer 4
 
 ### FriendCore
 
@@ -46,6 +70,14 @@
 - Tags
   + Utility
 
+### MoreMapMarkers
+
+- Description: Adds configurably more map markers.
+- Dependencies
+  + SFCore
+- Tags
+  + Utility
+
 ### PeakingPeekingPeaks
 
 - Description: This mods aims to make the Crystal Peak name more memorable.
@@ -61,6 +93,10 @@
   + SFCore
 - Tags
   + Expansion
+
+### RomanNumerals
+
+- Description: Converts all numbers to the Roman numeral system
 
 ### ScenePainter
 
@@ -200,6 +236,10 @@ Enjoy!
   + Added
     - Custom Knight
 
+### CustomKnightSuperAnimationAddon
+
+- Version: 1.0.0.1 -> 1.0.0.2
+
 ### Fake Peppino
 
 - Version: 1.1.0.1 -> 1.2.0.1
@@ -315,6 +355,10 @@ This is a singleplayer mod. The &quot;teamwork&quot; refers to in-game events.
     - Boss
     - Expansion
     - Gameplay
+
+### TreasureHunt
+
+- Version: 1.1.0.0 -> 1.2.0.0
 
 ### Zaliants Surprise
 

@@ -18,3 +18,9 @@ ZaliantsSurprise
 SpeedChanger
 GearSwitcher
 DebugCharms
+BingoBoardReplay
+CarefreeRngReset
+ColosseumTrophy
+Fishing
+MoreMapMarkers
+RomanNumerals

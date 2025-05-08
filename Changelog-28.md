@@ -3,7 +3,7 @@
 
 ## Updated mods
 
-### HowwowKnyight
+### Scattered and Lost
 
-- Version: 4.0.0.0 -> 4.0.1.0
+- Version: 1.4.1.0 -> 1.4.2.0
 

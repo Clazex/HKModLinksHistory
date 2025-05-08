@@ -655,6 +655,22 @@
     ],
     "repository": "https://github.com/JasonILTG/HollowKnight.BingoBoard/"
   },
+  "BingoBoardReplay": {
+    "description": "A mod for bingo tournament organizers to help restream the board when the players have stream delay. See GitHub readme for usage.",
+    "version": "1.0.0.0",
+    "links": {
+      "type": "universal",
+      "sha256": "01DE45E7F79F5D5E5BF0676825A878307B8B68921EC2D372CAABDFC3059CAA07",
+      "url": "https://github.com/TheRealAlph4/HollowKnight.BingoBoardReplay/releases/download/v1.0.0.0/BingoBoardReplay.zip"
+    },
+    "dependencies": [
+      "BingoSync"
+    ],
+    "repository": "https://github.com/TheRealAlph4/HollowKnight.BingoBoardReplay",
+    "authors": [
+      "Alph4"
+    ]
+  },
   "BingoGoalPack1": {
     "description": "Adds more goals to BingoSync and includes new board types",
     "version": "1.5.1.2",
@@ -958,6 +974,24 @@
       "Gameplay"
     ]
   },
+  "CarefreeRngReset": {
+    "description": "This mod resets carefree melody rng to highest likelyhood of blocking each time the player enters the hall of gods.",
+    "version": "1.5.0.1",
+    "links": {
+      "type": "universal",
+      "sha256": "BDD97533C7626FF64DF8D638CDEADB960303D4DA3870D199D4F10D665BEA3C6B",
+      "url": "https://github.com/SFGrenade/MetabusserCheatMod/releases/download/v1.5.0.1/CarefreeRngReset.zip"
+    },
+    "dependencies": [],
+    "repository": "https://github.com/SFGrenade/MetabusserCheatMod/",
+    "issues": "https://github.com/SFGrenade/MetabusserCheatMod/issues/",
+    "tags": [
+      "Utility"
+    ],
+    "authors": [
+      "SFGrenade"
+    ]
+  },
   "Casino Knight": {
     "description": "Lets go gambling! Adds a casino with slot machines into Dirtmouth to spend geo on. Win big!",
     "version": "0.1.1.0",
@@ -1219,6 +1253,24 @@
     ],
     "authors": [
       "EarlyHemisphere"
+    ]
+  },
+  "ColosseumTrophy": {
+    "description": "Reenables the colosseum trophy cut content.",
+    "version": "1.5.0.1",
+    "links": {
+      "type": "universal",
+      "sha256": "FC34AA7EA88D8CAF4BF621EE15EB99CCEF06D72836C887FEA1371D0E113BE206",
+      "url": "https://github.com/SFGrenade/ColosseumTrophy/releases/download/v1.5.0.1/ColosseumTrophy.zip"
+    },
+    "dependencies": [],
+    "repository": "https://github.com/SFGrenade/ColosseumTrophy/",
+    "issues": "https://github.com/SFGrenade/ColosseumTrophy/issues/",
+    "tags": [
+      "Utility"
+    ],
+    "authors": [
+      "SFGrenade"
     ]
   },
   "CombatRandomizer": {
@@ -1696,11 +1748,11 @@
   },
   "CustomKnightSuperAnimationAddon": {
     "description": "Allows inserting custom spritesheets for animations. To export spritesheets, use https://github.com/RedFrog6002/sseadv",
-    "version": "1.0.0.1",
+    "version": "1.0.0.2",
     "links": {
       "type": "universal",
-      "sha256": "F041694E6046A4B266901F128C1F10B8F093273CDEA12E068F0856A73222BE58",
-      "url": "https://github.com/RedFrog6002/CustomKnightSuperAnimationAddon/releases/download/v1.0.0.1/CustomKnightSuperAnimationAddon.zip"
+      "sha256": "1E44E6A007E8C16545ADDDA64F7F1E524DD83EBA04D72D2A63E140B7FB5F117D",
+      "url": "https://github.com/dplochcoder/CustomKnightSuperAnimationAddon/releases/download/v1.0.0.2/CustomKnightSuperAnimationAddon.zip"
     },
     "dependencies": [
       "Custom Knight",
@@ -2725,6 +2777,19 @@
       "Fireb0rn",
       "SFGrenade"
     ]
+  },
+  "Fishing": {
+    "description": "Adds a fishing minigame to the randomizer",
+    "version": "1.0.0.0",
+    "links": {
+      "type": "universal",
+      "sha256": "57A91718D92D65296962D1E6E336F3DDFBF3D85829402346C973D32E1C3EDA9B",
+      "url": "https://github.com/dpinela/Fishing/releases/download/v1.0/Fishing.zip"
+    },
+    "dependencies": [
+      "Randomizer 4"
+    ],
+    "repository": "https://github.com/dpinela/Fishing"
   },
   "FlappyKnight": {
     "description": "It's Flappy Bird but in Hollow Knight",
@@ -5137,6 +5202,26 @@
       "BadMagic"
     ]
   },
+  "MoreMapMarkers": {
+    "description": "Adds configurably more map markers.",
+    "version": "1.5.1.2",
+    "links": {
+      "type": "universal",
+      "sha256": "D9C8898243A59753D094D652EA9BAD156FD883BF4D145671F9EC6A5E906418D1",
+      "url": "https://github.com/SFGrenade/MoreMapMarkers/releases/download/v1.5.1.2/MoreMapMarkers.zip"
+    },
+    "dependencies": [
+      "SFCore"
+    ],
+    "repository": "https://github.com/SFGrenade/MoreMapMarkers/",
+    "issues": "https://github.com/SFGrenade/MoreMapMarkers/issues/",
+    "tags": [
+      "Utility"
+    ],
+    "authors": [
+      "SFGrenade"
+    ]
+  },
   "MoreSaves": {
     "description": "Allows for infinite saves. Uses modmenu to provide other features such as backup/restore, rename, lock and edit values in saves. Note: Editing the current save you are in now takes effect in game",
     "version": "0.7.10.0",
@@ -6607,6 +6692,17 @@
       "Trashmedes"
     ]
   },
+  "RomanNumerals": {
+    "description": "Converts all numbers to the Roman numeral system",
+    "version": "1.0.0.0",
+    "links": {
+      "type": "universal",
+      "sha256": "F370B8D3AC2C28EE159751DF95F838EBD206AFFE0D4E889273B6EDE44C7C7A7A",
+      "url": "https://github.com/dpinela/RomanNumerals/releases/download/v1.0/RomanNumerals.zip"
+    },
+    "dependencies": [],
+    "repository": "https://github.com/dpinela/RomanNumerals"
+  },
   "Rope Rando": {
     "description": "Adds the rope / chandelier in the Watcher Knights boss room to Randomizer 4.",
     "version": "1.1.0.0",
@@ -7797,11 +7893,11 @@
   },
   "TreasureHunt": {
     "description": "A Randomizer 4 connection fro a semi-spoiler format.",
-    "version": "1.1.0.0",
+    "version": "1.2.0.0",
     "links": {
       "type": "universal",
-      "sha256": "19E327A6ED9A2F4863D47CD6396CFBFE3FE22C9038437DB84E19AD74BB6AEB3F",
-      "url": "https://github.com/dplochcoder/HollowKnight.TreasureHunt/releases/download/v1.1.0.0/TreasureHunt.zip"
+      "sha256": "70181EADEF82A8F9442BC99C6E86827824B967181E716B42E290D28792CFC8CC",
+      "url": "https://github.com/dplochcoder/HollowKnight.TreasureHunt/releases/download/v1.2.0.0/TreasureHunt.zip"
     },
     "dependencies": [
       "ConnectionMetadataInjector",

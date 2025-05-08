@@ -39,3 +39,11 @@ Breakable Wall Randomizer
 SpeedChanger
 GearSwitcher
 DebugCharms
+BingoBoardReplay
+CarefreeRngReset
+ColosseumTrophy
+CustomKnightSuperAnimationAddon
+Fishing
+MoreMapMarkers
+RomanNumerals
+TreasureHunt
