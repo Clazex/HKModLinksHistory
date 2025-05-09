@@ -263,10 +263,6 @@ Enjoy!
   + Added
     - Utility
 
-### HowwowKnyight
-
-- Version: 4.0.0.0 -> 4.0.1.0
-
 ### Peaking Peeking Peaks
 
 - Version: 1.5.0.0 -> 9.9.9.9
