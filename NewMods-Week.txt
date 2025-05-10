@@ -1,4 +1,3 @@
-SpeedChanger
 GearSwitcher
 DebugCharms
 BingoBoardReplay

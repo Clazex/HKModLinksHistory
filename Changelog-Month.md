@@ -293,10 +293,6 @@ Enjoy!
   + Added
     - Expansion
 
-### Scattered and Lost
-
-- Version: 1.4.1.0 -> 1.4.2.0
-
 ### Stories of a HK player - Chapter 1
 
 - Version: 1.5.0.0 -> 9.9.9.9
