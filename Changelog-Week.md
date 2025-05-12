@@ -18,6 +18,8 @@
 ### ColosseumTrophy
 
 - Description: Reenables the colosseum trophy cut content.
+- Dependencies
+  + SFCore
 - Tags
   + Utility
 
@@ -32,13 +34,6 @@
 - Description: Adds a fishing minigame to the randomizer
 - Dependencies
   + Randomizer 4
-
-### GearSwitcher
-
-- Description: A modification that allows you to switch the prepared equipment patterns, as well as switch the chains at any time.
-- Dependencies
-  + Satchel
-  + Toggleable Bindings
 
 ### MoreMapMarkers
 

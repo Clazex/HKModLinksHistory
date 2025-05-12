@@ -24,6 +24,8 @@
 ### ColosseumTrophy
 
 - Description: Reenables the colosseum trophy cut content.
+- Dependencies
+  + SFCore
 - Tags
   + Utility
 
