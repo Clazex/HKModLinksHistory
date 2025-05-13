@@ -1,1 +1,6 @@
-DebugCharms
+BingoBoardReplay
+CarefreeRngReset
+ColosseumTrophy
+Fishing
+MoreMapMarkers
+RomanNumerals

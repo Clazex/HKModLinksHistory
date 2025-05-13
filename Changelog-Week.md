@@ -23,12 +23,6 @@
 - Tags
   + Utility
 
-### DebugCharms
-
-- Description: A Debug extension specifically for charms
-- Dependencies
-  + DebugMod
-
 ### Fishing
 
 - Description: Adds a fishing minigame to the randomizer
