@@ -1,4 +1,3 @@
-BingoSync
 CharmPatch
 Screensaver
 ShuffledCharmEffects
@@ -45,3 +44,5 @@ MoreMapMarkers
 RomanNumerals
 TreasureHunt
 Screensaver
+CharmPatch
+Hivesong

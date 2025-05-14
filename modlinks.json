@@ -1179,13 +1179,14 @@
   },
   "CharmPatch": {
     "description": "This is a collection of small changes that I think improve the balance of certain charms in the game. Please view Readme for Charm Changer mod recommendations.",
-    "version": "1.2.1.0",
+    "version": "1.3.0.0",
     "links": {
       "type": "universal",
-      "sha256": "60EE659D262D255BB781E130FF03222C4AE751CA05A1F471813F4C21150B00D5",
-      "url": "https://github.com/danielstegink/HollowKnight.CharmPatch/releases/download/1.2.1.0/CharmPatch.zip"
+      "sha256": "88DA818CC5D8E35D15015A7756B2E627698780748FA7192611E61760E7E7B01C",
+      "url": "https://github.com/danielstegink/HollowKnight.CharmPatch/releases/download/1.3.0.0/CharmPatch.zip"
     },
     "dependencies": [
+      "HKMirror",
       "SFCore",
       "Satchel"
     ],
@@ -3942,11 +3943,11 @@
   },
   "Hivesong": {
     "description": "This mod adds a new charm, Hivesong, which increases the damage dealt by pets.",
-    "version": "1.0.0.0",
+    "version": "1.1.0.0",
     "links": {
       "type": "universal",
-      "sha256": "45B0C1904316B972D623CFAAF8CC471C21DE7DAA2AC04CB5E646DF806DB979ED",
-      "url": "https://github.com/danielstegink/HollowKnight.Hivesong/releases/download/1.0.0.0/Hivesong.zip"
+      "sha256": "86CE7F384987D2311C52415D7AAE55510F63F7DE51FCE6FEE202E28934827348",
+      "url": "https://github.com/danielstegink/HollowKnight.Hivesong/releases/download/1.1.0.0/Hivesong.zip"
     },
     "dependencies": [
       "ItemChanger",
