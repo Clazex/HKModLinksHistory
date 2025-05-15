@@ -1,4 +1,3 @@
-CharmPatch
 ShuffledCharmEffects
 CustomBgm
 Breakable Wall Randomizer

@@ -1,13 +1,23 @@
 # Changelog
 
 
+## New mods
+
+### SpeedChanger
+
+- Description: Speed up or slow down your game. A more customisable and user-friendly version of the Sanic mod.
+- Tags
+  + Gameplay
+
+
+## Removed mods
+
+- HkSpeedUp
+
+
 ## Updated mods
 
-### HkSpeedUp
+### Breakable Wall Randomizer
 
-- Version: 1.0.0.0 -> 1.0.1.0
-
-### ScenePainter
-
-- Version: 1.5.1.5 -> 1.5.1.6
+- Version: 4.0.0.1 -> 4.0.0.2
 
