@@ -1,5 +1,4 @@
 ShuffledCharmEffects
-ShuffledCharmEffects
 CustomBgm
 Breakable Wall Randomizer
 FriendCore
@@ -44,3 +43,4 @@ TreasureHunt
 Screensaver
 CharmPatch
 Hivesong
+Breakable Wall Randomizer

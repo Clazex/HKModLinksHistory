@@ -108,12 +108,6 @@
 - Tags
   + Utility
 
-### ShuffledCharmEffects
-
-- Description: Equipped charms will have randomized effects
-- Dependencies
-  + Satchel
-
 ### SpeedChanger
 
 - Description: Speed up or slow down your game. A more customisable and user-friendly version of the Sanic mod.
@@ -207,7 +201,7 @@ Enjoy!
 
 ### Breakable Wall Randomizer
 
-- Version: 3.0.4.4 -> 4.0.0.2
+- Version: 3.0.4.4 -> 4.0.0.3
 
 ### CharmPatch
 
@@ -287,6 +281,10 @@ Enjoy!
 ### Screensaver
 
 - Version: 1.1.1.0 -> 1.2.0.0
+
+### ShuffledCharmEffects
+
+- Version: 1.0.0.0 -> 1.0.0.1
 
 ### Stories of a HK player - Chapter 1
 
