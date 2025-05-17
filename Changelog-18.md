@@ -3,9 +3,16 @@
 
 ## New mods
 
-### niaPfohtaP (PoP Upside Down)
+### BossStatueFramework
 
-- Description: Makes Path of Pain upside down.
-- Dependencies
-  + Satchel
+- Description: Library for adding custom boss statues to the Hall of Gods.
+- Tags
+  + Library
+
+
+## Updated mods
+
+### Breakable Wall Randomizer
+
+- Version: 4.0.0.0 -> 4.0.0.1
 

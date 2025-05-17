@@ -22,3 +22,4 @@ ColosseumTrophy
 Fishing
 MoreMapMarkers
 RomanNumerals
+DivineFury

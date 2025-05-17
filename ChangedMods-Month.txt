@@ -1,4 +1,3 @@
-ShuffledCharmEffects
 CustomBgm
 Breakable Wall Randomizer
 FriendCore
@@ -44,3 +43,5 @@ Screensaver
 CharmPatch
 Hivesong
 Breakable Wall Randomizer
+DebugCharms
+DivineFury

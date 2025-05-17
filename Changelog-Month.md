@@ -35,6 +35,16 @@
 - Dependencies
   + DebugMod
 
+### DivineFury
+
+- Description: This mod adds a new charm: Divine Fury. This charm sets the player&#x27;s health to 1, allowing Fury of the Fallen to be viable in certain Godhome battles.
+- Dependencies
+  + ItemChanger
+  + SFCore
+  + Satchel
+- Tags
+  + Gameplay
+
 ### Fishing
 
 - Description: Adds a fishing minigame to the randomizer
@@ -281,10 +291,6 @@ Enjoy!
 ### Screensaver
 
 - Version: 1.1.1.0 -> 1.2.0.0
-
-### ShuffledCharmEffects
-
-- Version: 1.0.0.0 -> 1.0.0.1
 
 ### Stories of a HK player - Chapter 1
 

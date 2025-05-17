@@ -1,4 +1,3 @@
-ShuffledCharmEffects
 CustomBgm
 Breakable Wall Randomizer
 Breakable Wall Randomizer
@@ -20,3 +19,4 @@ Screensaver
 CharmPatch
 Hivesong
 Breakable Wall Randomizer
+DebugCharms
