@@ -2,3 +2,4 @@ CharmPatch
 Hivesong
 Breakable Wall Randomizer
 DebugCharms
+MagicUI

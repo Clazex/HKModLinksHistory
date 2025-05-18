@@ -258,6 +258,10 @@ Enjoy!
   + Added
     - Utility
 
+### MagicUI
+
+- Version: 1.8.8563.5913 -> 1.9.9268.40304
+
 ### Peaking Peeking Peaks
 
 - Version: 1.5.0.0 -> 9.9.9.9
