@@ -4,3 +4,4 @@ Breakable Wall Randomizer
 DebugCharms
 DivineFury
 MagicUI
+Silksong-Start-Screen

@@ -277,8 +277,8 @@ Not recommended for use in new mods.</Description>
     <Manifest>
         <Name>DebugCharms</Name>
         <Description>A Debug extension specifically for charms</Description>
-        <Version>1.0.0.0</Version>
-        <Link SHA256="8E39A846054FB33CD2E2A0BFB97D2F031E87DB4783AF4449CA6C2FFAE4E8B9DC"><![CDATA[https://github.com/TheMathGeek314/DebugCharms/releases/download/v1.0.0.0/DebugCharms.zip]]></Link>
+        <Version>1.0.1.0</Version>
+        <Link SHA256="9523733EE4ED60F6E012D276FCB77ABBEB1A667CEB3424D9B3946E7899F24FBF"><![CDATA[https://github.com/TheMathGeek314/DebugCharms/releases/download/v1.0.1.0/DebugCharms.zip]]></Link>
         <Dependencies>
             <Dependency>DebugMod</Dependency>
         </Dependencies>
@@ -8796,5 +8796,30 @@ Enjoy!</Description>
         <Link SHA256="f370b8d3ac2c28ee159751df95f838ebd206affe0d4e889273b6ede44c7c7a7a">https://github.com/dpinela/RomanNumerals/releases/download/v1.0/RomanNumerals.zip</Link>
         <Dependencies></Dependencies>
         <Repository>https://github.com/dpinela/RomanNumerals</Repository>
+    </Manifest>
+    <Manifest>
+        <Name>DivineFury</Name>
+        <Description>This mod adds a new charm: Divine Fury. This charm sets the player's health to 1, allowing Fury of the Fallen to be viable in certain Godhome battles.</Description>
+        <Version>1.0.0.0</Version>
+        <Link SHA256="CADC5C60BEB85233FAE47FA6763BAE9E0F507ED46A25CC87D80642150CFF51D3">
+            <![CDATA[https://github.com/danielstegink/HollowKnight.DivineFury/releases/download/1.0.0.0/DivineFury.zip]]>
+        </Link>
+        <Dependencies>
+            <Dependency>Satchel</Dependency>
+            <Dependency>ItemChanger</Dependency>
+            <Dependency>SFCore</Dependency>
+        </Dependencies>
+        <Repository>
+            <![CDATA[https://github.com/danielstegink/HollowKnight.DivineFury]]>
+        </Repository>
+        <Issues>
+            <![CDATA[https://github.com/danielstegink/HollowKnight.DivineFury/issues]]>
+        </Issues>
+        <Tags>
+            <Tag>Gameplay</Tag>
+        </Tags>
+        <Authors>
+            <Author>DanielStegink</Author>
+        </Authors>
     </Manifest>
 </ModLinks>

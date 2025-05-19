@@ -1,1 +1,1 @@
-DebugCharms
+MagicUI
