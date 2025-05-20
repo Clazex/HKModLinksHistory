@@ -1,5 +1,3 @@
-CharmPatch
-Hivesong
 Breakable Wall Randomizer
 DebugCharms
 DivineFury

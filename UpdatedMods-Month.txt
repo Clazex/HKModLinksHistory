@@ -1,4 +1,3 @@
-CustomBgm
 Breakable Wall Randomizer
 Breakable Wall Randomizer
 Fake Peppino

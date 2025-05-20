@@ -226,13 +226,6 @@ Enjoy!
   + Added
     - HKMirror
 
-### CustomBgm
-
-- Version: 1.5.3.6 -> 1.5.4.0
-- Integrations
-  + Added
-    - Custom Knight
-
 ### CustomKnightSuperAnimationAddon
 
 - Version: 1.0.0.1 -> 1.0.0.2

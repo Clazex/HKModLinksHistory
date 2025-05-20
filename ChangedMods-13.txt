@@ -1,1 +1,8 @@
-DebugCharms
+BingoBoardReplay
+CarefreeRngReset
+ColosseumTrophy
+CustomKnightSuperAnimationAddon
+Fishing
+MoreMapMarkers
+RomanNumerals
+TreasureHunt
