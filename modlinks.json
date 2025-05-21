@@ -3113,12 +3113,12 @@
     ]
   },
   "GearSwitcher": {
-    "description": "A modification that allows you to switch the prepared equipment patterns, as well as switch the chains at any time.",
+    "description": "A modification that allows you to switch the prepared equipment patterns, as well as switch the charms at any time.",
     "version": "1.0.0.0",
     "links": {
       "type": "universal",
-      "sha256": "4D359978CC4BB184B0258F5E31692DE823CEE92362D32EBD3DF15F971275D120",
-      "url": "https://github.com/MorozicH20/GearSwitcher/releases/download/v1.0.0.0/GearSwitcher.zip"
+      "sha256": "375954BBEB7AC5D6C2A4EB8B6A52D94C44342E5D3AAF0C403FFD5AB19108D38E",
+      "url": "https://github.com/MorozicH20/GearSwitcher/releases/download/v1.0.1.0/GearSwitcher.zip"
     },
     "dependencies": [
       "Satchel",
