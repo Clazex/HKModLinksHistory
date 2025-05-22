@@ -4196,9 +4196,9 @@ Enjoy!</Description>
     <Manifest>
         <Name>MagicUI</Name>
         <Description>A core mod to help other mods build UIs. Does nothing on its own.</Description>
-        <Version>1.8.8563.5913</Version>
-        <Link SHA256="0BA7614FCE0EAA645B817F70601BAA1C13ACB9BB6CCFF0CD376E79300826ACBE">
-            <![CDATA[https://github.com/BadMagic100/HollowKnight.MagicUI/releases/download/v1.8.8563.5913/MagicUI.zip]]>
+        <Version>1.9.9268.40304</Version>
+        <Link SHA256="AA1771974566671E1110F2E372507CB7604BF51D1227BA6D08D7F2DDFC242BEC">
+            <![CDATA[https://github.com/BadMagic100/HollowKnight.MagicUI/releases/download/v1.9.9268.40304/MagicUI.zip]]>
         </Link>
         <Dependencies />
         <Repository>

@@ -1223,9 +1223,9 @@ All with an incredible new soundtrack!</Description>
     <Manifest>
         <Name>Breakable Wall Randomizer</Name>
         <Description>A Hollow Knight Randomizer add-on for breakable walls.</Description>
-        <Version>4.0.0.1</Version>
-        <Link SHA256="A1B26383275AB816CEB18AA83A96BC6D3890334EA8EBCC34CF2D3DB20F202F82">
-            <![CDATA[https://github.com/nerthul11/BreakableWallRandomizer/releases/download/4.0.0.1/BreakableWallRandomizer.zip]]>
+        <Version>4.0.0.2</Version>
+        <Link SHA256="398555620725CC06C555F11750ECF5A1AF197FF4B0A9930269D62F5DC1E37589">
+            <![CDATA[https://github.com/nerthul11/BreakableWallRandomizer/releases/download/4.0.0.2/BreakableWallRandomizer.zip]]>
         </Link>
         <Dependencies>
             <Dependency>Randomizer 4</Dependency>
@@ -8640,11 +8640,11 @@ Enjoy!</Description>
         </Authors>
     </Manifest>
     <Manifest>
-        <Name>HkSpeedUp</Name>
-        <Description>Lets you change game speed</Description>
-        <Version>1.0.1.0</Version>
-        <Link SHA256="ba3bceb7e6acb64504718489238121ab8f255244f8f50267136b2626d149d985">
-            <![CDATA[https://github.com/gGordey/HkSpeedUp/releases/download/release/HkSpeedUp.zip]]>
+        <Name>SpeedChanger</Name>
+        <Description>Speed up or slow down your game. A more customisable and user-friendly version of the Sanic mod.</Description>
+        <Version>1.0.3.0</Version>
+        <Link SHA256="F29583CC90037AD4DEE38532C536AA02BAAF5F927826DD1675E23A9C0A0A8A2D">
+            <![CDATA[https://github.com/gGordey/HkSpeedUp/releases/download/1.0.3/SpeedChanger.zip]]>
         </Link>
         <Dependencies />
         <Repository>
