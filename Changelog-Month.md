@@ -51,12 +51,6 @@
 - Dependencies
   + Randomizer 4
 
-### FriendCore
-
-- Description: Experimental (but stable) library mod with enemy editing capabilities.
-- Tags
-  + Library
-
 ### GearSwitcher
 
 - Description: A modification that allows you to switch the prepared equipment patterns, as well as switch the charms at any time.
@@ -169,21 +163,6 @@ This is a singleplayer mod. The &quot;teamwork&quot; refers to in-game events.
   + Expansion
   + Gameplay
 
-### The H.I.V.E
-
-- Description: A mod that makes the Hive a little harder, with some new lore! Also includes the newest version of the classic modded boss Buzzbo! Playing with EnemyHPBar and HueShifter is not required, but is recommended. First part of the Hallow Knight mod series.
-- Dependencies
-  + FriendCore
-  + SFCore
-- Integrations
-  + Enemy HP Bar
-  + HueShifter
-- Tags
-  + Boss
-  + Cosmetic
-  + Expansion
-  + Gameplay
-
 ### ZaliantsSurprise
 
 - Description: This is a mod idea by Zaliant.
@@ -217,7 +196,7 @@ Enjoy!
 
 ### Breakable Wall Randomizer
 
-- Version: 3.0.4.4 -> 4.0.0.3
+- Version: 4.0.0.0 -> 4.0.0.3
 
 ### CharmPatch
 
