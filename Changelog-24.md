@@ -1,18 +1,12 @@
 # Changelog
 
 
-## New mods
-
-### BossStatueFramework
-
-- Description: Library for adding custom boss statues to the Hall of Gods.
-- Tags
-  + Library
-
-
 ## Updated mods
 
-### Breakable Wall Randomizer
+### Fake Peppino
 
-- Version: 4.0.0.0 -> 4.0.0.1
+- Version: 1.1.0.1 -> 1.2.0.1
+- Dependencies
+  + Added
+    - BossStatueFramework
 
