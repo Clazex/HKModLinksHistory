@@ -47,3 +47,11 @@ DivineFury
 Flukemaster
 GodSeekerPlus
 Hivesong
+Archipelago
+Archipelago Map Mod
+MapChanger
+RCPathfinder
+Rando Vanilla Tracker
+RandoMapCore
+RandoMapMod
+Vanilla Map Mod

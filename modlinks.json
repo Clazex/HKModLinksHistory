@@ -349,11 +349,11 @@
   },
   "Archipelago": {
     "description": "Enables play with the Archipelago multiworld system.",
-    "version": "0.8.1.0",
+    "version": "0.9.0.0",
     "links": {
       "type": "universal",
-      "sha256": "52F9CD163554CD15426DFAEF858B9FDEF44DDFAE1763583959F853EA88A4C8C6",
-      "url": "https://github.com/ArchipelagoMW-HollowKnight/Archipelago.HollowKnight/releases/download/v0.8.1/Archipelago.zip"
+      "sha256": "000E9B193EE1383532F91C2D8DD6A021FA0592581D702A6D40B0102E470EBAFD",
+      "url": "https://github.com/ArchipelagoMW-HollowKnight/Archipelago.HollowKnight/releases/download/v0.9.0/Archipelago.zip"
     },
     "dependencies": [
       "Benchwarp",
@@ -365,26 +365,24 @@
   },
   "Archipelago Map Mod": {
     "description": "A conversion of RandoMapMod that works with the Archipelago multiworld randomizer",
-    "version": "2.3.1.0",
+    "version": "3.0.1.0",
     "links": {
       "type": "universal",
-      "sha256": "A1D43051EFF7D896269433EC8BCA6A537889F96EA922BC85BBB12A6FE7A9C6B8",
-      "url": "https://github.com/ArchipelagoMW-HollowKnight/Archipelago.APMapMod/releases/download/v2.3.1/Archipelago.Map.Mod.zip"
+      "sha256": "FB849FC3DCD2C13894287AC38C53DFC9BBC35D675F531630C09114A399E1A3A7",
+      "url": "https://github.com/ArchipelagoMW-HollowKnight/Archipelago.APMapMod/releases/download/v3.0.1/Archipelago.Map.Mod.zip"
     },
     "dependencies": [
       "Archipelago",
-      "ConnectionMetadataInjector",
       "ItemChanger",
-      "MagicUI",
       "MapChanger",
-      "RCPathfinder",
+      "RandoMapCore",
       "RandomizerCore",
-      "RandomizerCore.Json",
-      "Satchel"
+      "RandomizerCore.Json"
     ],
     "repository": "https://github.com/ArchipelagoMW-HollowKnight/Archipelago.APMapMod",
     "integrations": [
       "AdditionalMaps",
+      "BenchRando",
       "Benchwarp"
     ],
     "tags": [
@@ -4809,19 +4807,21 @@
   },
   "MapChanger": {
     "description": "A library for map mods.",
-    "version": "1.2.2.0",
+    "version": "1.3.8.0",
     "links": {
       "type": "universal",
-      "sha256": "5AFA17FCCCD0DE8037CFFE219E91AA2177DE277D0E366D9AAA0F423B1F66E683",
-      "url": "https://github.com/syyePhenomenol/MapChanger/releases/download/v1.2.2/MapChanger.zip"
+      "sha256": "916A8830C14F12D8DCF826B47662AFA70846BFD6855D7CC5069DFBE69E410876",
+      "url": "https://github.com/syyePhenomenol/MapChanger/releases/download/v1.3.8/MapChanger.zip"
     },
     "dependencies": [
       "MagicUI",
+      "Satchel",
       "Vasi"
     ],
     "repository": "https://github.com/syyePhenomenol/MapChanger",
     "integrations": [
-      "AdditionalMaps"
+      "AdditionalMaps",
+      "DebugMod"
     ],
     "tags": [
       "Library"
@@ -6174,11 +6174,11 @@
   },
   "RCPathfinder": {
     "description": "A pathfinder library for RandomizerCore.",
-    "version": "1.3.3.0",
+    "version": "1.4.2.0",
     "links": {
       "type": "universal",
-      "sha256": "1B13916CBAB8880D51AFBAD16B9C80FC8BBD9F3EF307AA464D79740C94E48BF7",
-      "url": "https://github.com/syyePhenomenol/RCPathfinder/releases/download/v1.3.3/RCPathfinder.zip"
+      "sha256": "1D25FA80183942176678E5F44294BC1AC0BA034042A014DD209CE4E0079C8395",
+      "url": "https://github.com/syyePhenomenol/RCPathfinder/releases/download/v1.4.2/RCPathfinder.zip"
     },
     "dependencies": [
       "RandomizerCore"
@@ -6266,11 +6266,11 @@
   },
   "Rando Vanilla Tracker": {
     "description": "Randomizer 4 add-on for tracking non-randomized items.",
-    "version": "1.2.4.0",
+    "version": "1.2.5.0",
     "links": {
       "type": "universal",
-      "sha256": "CD634A4560EB0A00760D9A71CC4C80E52B16E85F9631810EF7B40DB34CD35504",
-      "url": "https://github.com/syyePhenomenol/HollowKnight.RandoVanillaTracker/releases/download/v1.2.4/RandoVanillaTracker.zip"
+      "sha256": "7167044C66B8211D80E4450D3917928A316A4836D1A7F3F5F21EFD36404151FD",
+      "url": "https://github.com/syyePhenomenol/HollowKnight.RandoVanillaTracker/releases/download/v1.2.5/RandoVanillaTracker.zip"
     },
     "dependencies": [
       "Randomizer 4"
@@ -6301,29 +6301,58 @@
       "BadMagic"
     ]
   },
-  "RandoMapMod": {
-    "description": "A Randomizer 4 overhaul of the World Map to help find item and transition checks.",
-    "version": "3.5.8.0",
+  "RandoMapCore": {
+    "description": "A library for RandoMapMod and ArchipelagoMapMod.",
+    "version": "1.0.10.0",
     "links": {
       "type": "universal",
-      "sha256": "DAA305BE38F8EF6D6C31E33753AC8A19B114CBE9DBEA8969065A7652F751EBFC",
-      "url": "https://github.com/syyePhenomenol/RandoMapMod/releases/download/v3.5.8/RandoMapMod.zip"
+      "sha256": "A4951AA8FAF980C865CD1732AAD183333301FB133811E66C7712CC45FD4A7DB3",
+      "url": "https://github.com/syyePhenomenol/RandoMapCore/releases/download/v1.0.10/RandoMapCore.zip"
     },
     "dependencies": [
       "ConnectionMetadataInjector",
       "ItemChanger",
       "MagicUI",
       "MapChanger",
-      "MenuChanger",
       "RCPathfinder",
-      "Randomizer 4",
       "RandomizerCore",
-      "Vasi"
+      "RandomizerCore.Json"
+    ],
+    "repository": "https://github.com/syyePhenomenol/RandoMapCore",
+    "integrations": [
+      "AdditionalMaps",
+      "Benchwarp",
+      "DebugMod"
+    ],
+    "tags": [
+      "Library"
+    ],
+    "authors": [
+      "Phenomenol"
+    ]
+  },
+  "RandoMapMod": {
+    "description": "A Randomizer 4 overhaul of the World Map to help find item and transition checks.",
+    "version": "3.6.5.0",
+    "links": {
+      "type": "universal",
+      "sha256": "7AD8873F8CB37F28E66ED61B7FB0AF43012D0602839BADD60FD67848A259EA7C",
+      "url": "https://github.com/syyePhenomenol/RandoMapMod/releases/download/v3.6.5/RandoMapMod.zip"
+    },
+    "dependencies": [
+      "ItemChanger",
+      "MapChanger",
+      "MenuChanger",
+      "RandoMapCore",
+      "Randomizer 4",
+      "RandomizerCore"
     ],
     "repository": "https://github.com/syyePhenomenol/RandoMapMod",
     "integrations": [
       "AdditionalMaps",
-      "Benchwarp"
+      "Benchwarp",
+      "DebugMod",
+      "RandoSettingsManager"
     ],
     "tags": [
       "Utility"
@@ -8158,11 +8187,11 @@
   },
   "Vanilla Map Mod": {
     "description": "Adds all items/locations to the existing map.",
-    "version": "2.1.1.0",
+    "version": "2.1.5.0",
     "links": {
       "type": "universal",
-      "sha256": "65CF7DFE933B54E8D5AA246A9382CE725FF43CB1E4B5324AB88D8DC3066F3A46",
-      "url": "https://github.com/syyePhenomenol/HollowKnight.VanillaMapMod/releases/download/v2.1.1/VanillaMapMod.zip"
+      "sha256": "4243E9C4E50DA857300157A8964176097FA2A6FEB1226918E0081504FA17F1C8",
+      "url": "https://github.com/syyePhenomenol/HollowKnight.VanillaMapMod/releases/download/v2.1.5/VanillaMapMod.zip"
     },
     "dependencies": [
       "ConnectionMetadataInjector",

@@ -22,3 +22,4 @@ MoreMapMarkers
 RomanNumerals
 DivineFury
 Silksong-Start-Screen
+RandoMapCore

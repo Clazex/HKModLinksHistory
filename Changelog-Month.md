@@ -100,6 +100,24 @@
 - Tags
   + Expansion
 
+### RandoMapCore
+
+- Description: A library for RandoMapMod and ArchipelagoMapMod.
+- Dependencies
+  + ConnectionMetadataInjector
+  + ItemChanger
+  + MagicUI
+  + MapChanger
+  + RCPathfinder
+  + RandomizerCore
+  + RandomizerCore.Json
+- Integrations
+  + AdditionalMaps
+  + Benchwarp
+  + DebugMod
+- Tags
+  + Library
+
 ### RomanNumerals
 
 - Description: Converts all numbers to the Roman numeral system
@@ -194,6 +212,25 @@ Enjoy!
 
 - Version: 1.5.4.0 -> 1.5.4.1
 
+### Archipelago
+
+- Version: 0.8.1.0 -> 0.9.0.0
+
+### Archipelago Map Mod
+
+- Version: 2.3.1.0 -> 3.0.1.0
+- Dependencies
+  + Removed
+    - ConnectionMetadataInjector
+    - MagicUI
+    - RCPathfinder
+    - Satchel
+  + Added
+    - RandoMapCore
+- Integrations
+  + Added
+    - BenchRando
+
 ### Breakable Wall Randomizer
 
 - Version: 4.0.0.0 -> 4.0.0.3
@@ -248,6 +285,16 @@ Enjoy!
 
 - Version: 1.8.8563.5913 -> 1.9.9268.40304
 
+### MapChanger
+
+- Version: 1.2.2.0 -> 1.3.8.0
+- Dependencies
+  + Added
+    - Satchel
+- Integrations
+  + Added
+    - DebugMod
+
 ### Peaking Peeking Peaks
 
 - Version: 1.5.0.0 -> 9.9.9.9
@@ -277,6 +324,30 @@ Enjoy!
 - Tags
   + Added
     - Expansion
+
+### RCPathfinder
+
+- Version: 1.3.3.0 -> 1.4.2.0
+
+### Rando Vanilla Tracker
+
+- Version: 1.2.4.0 -> 1.2.5.0
+
+### RandoMapMod
+
+- Version: 3.5.8.0 -> 3.6.5.0
+- Dependencies
+  + Removed
+    - ConnectionMetadataInjector
+    - MagicUI
+    - RCPathfinder
+    - Vasi
+  + Added
+    - RandoMapCore
+- Integrations
+  + Added
+    - DebugMod
+    - RandoSettingsManager
 
 ### Screensaver
 
@@ -340,6 +411,10 @@ This is a singleplayer mod. The &quot;teamwork&quot; refers to in-game events.
 ### TreasureHunt
 
 - Version: 1.1.0.0 -> 1.2.0.0
+
+### Vanilla Map Mod
+
+- Version: 2.1.1.0 -> 2.1.5.0
 
 ### Zaliants Surprise
 
