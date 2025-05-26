@@ -136,6 +136,15 @@
 - Tags
   + Utility
 
+### Smart Nail
+
+- Description: Qol mod for RandoPlus,which auto-upgrades your nail in Godhome and in dream bosses fights.Doesn&#x27;t work with combat or curse rando.
+- Dependencies
+  + ItemChanger
+  + RandoPlus
+- Tags
+  + Utility
+
 ### SpeedChanger
 
 - Description: Speed up or slow down your game. A more customisable and user-friendly version of the Sanic mod.
@@ -241,6 +250,10 @@ Enjoy!
 - Dependencies
   + Added
     - HKMirror
+
+### Custom Knight
+
+- Version: 3.1.0.0 -> 3.5.0.0
 
 ### CustomKnightSuperAnimationAddon
 
@@ -348,6 +361,10 @@ Enjoy!
   + Added
     - DebugMod
     - RandoSettingsManager
+
+### Satchel
+
+- Version: 0.9.2.0 -> 0.9.3.0
 
 ### Screensaver
 

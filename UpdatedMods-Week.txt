@@ -9,3 +9,5 @@ RCPathfinder
 Rando Vanilla Tracker
 RandoMapMod
 Vanilla Map Mod
+Custom Knight
+Satchel

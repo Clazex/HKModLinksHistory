@@ -55,3 +55,6 @@ Rando Vanilla Tracker
 RandoMapCore
 RandoMapMod
 Vanilla Map Mod
+Custom Knight
+Satchel
+Smart Nail

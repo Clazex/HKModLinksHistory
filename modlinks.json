@@ -1606,11 +1606,11 @@
   },
   "Custom Knight": {
     "description": "Supports Skins for Player, Enemies and Area overhauls",
-    "version": "3.1.0.0",
+    "version": "3.5.0.0",
     "links": {
       "type": "universal",
-      "sha256": "656C988ED712EE33DDE67CD0855065BBABA6667849C3046F2F542EA78A83966D",
-      "url": "https://github.com/PrashantMohta/HollowKnight.CustomKnight/releases/download/v3.1.0-auto-mr/CustomKnight.zip"
+      "sha256": "928E240F030B008A374F3881663197B438D7660B3A23CE736024BFBF02FBB0D7",
+      "url": "https://github.com/PrashantMohta/HollowKnight.CustomKnight/releases/download/v3.5.0/CustomKnight.zip"
     },
     "dependencies": [
       "Satchel"
@@ -6845,11 +6845,11 @@
   },
   "Satchel": {
     "description": "A Satchel is a bag, this one has cool stuff for other mods to use.",
-    "version": "0.9.2.0",
+    "version": "0.9.3.0",
     "links": {
       "type": "universal",
-      "sha256": "E5B95E79FD2D4BDEA27CB6EB9CD072DC6E78C9E5DD114D5C7AD3CCF39EE191B9",
-      "url": "https://github.com/PrashantMohta/Satchel/releases/download/v0.9.2/Satchel.zip"
+      "sha256": "472A96D87E1A23945D067B5E917FA6884B6B9D81CDF1C7E5F11C1764E43D39DB",
+      "url": "https://github.com/PrashantMohta/Satchel/releases/download/v0.9.3r/Satchel.zip"
     },
     "dependencies": [],
     "repository": "https://github.com/PrashantMohta/Satchel/",
@@ -7249,6 +7249,26 @@
       "Droid042"
     ]
   },
+  "Smart Nail": {
+    "description": "Qol mod for RandoPlus,which auto-upgrades your nail in Godhome and in dream bosses fights.Doesn't work with combat or curse rando.",
+    "version": "1.0.0.0",
+    "links": {
+      "type": "universal",
+      "sha256": "014E1C2D7B338480E8C919715078665EA63FBB4F3D6D153CE7EFFE03CCF98E2E",
+      "url": "https://github.com/Roma-337/SmartNail/releases/download/v1.0.0/SmartNail.zip"
+    },
+    "dependencies": [
+      "ItemChanger",
+      "RandoPlus"
+    ],
+    "repository": "https://github.com/Roma-337/SmartNail",
+    "tags": [
+      "Utility"
+    ],
+    "authors": [
+      "Roma 337"
+    ]
+  },
   "SmashKnight": {
     "description": "Changes Knight handling based on health remaining.",
     "version": "1.0.0.0",
@@ -7625,7 +7645,7 @@
     ]
   },
   "Sunset Samsara II": {
-    "description": "Modded Radiance",
+    "description": "Modded Radiance. WARNING: Currently the mod's download is slightly special. Go to the mod's folder and move the .dll files one folder up.",
     "version": "1.0.0.1",
     "links": {
       "type": "universal",
