@@ -4749,11 +4749,11 @@
   },
   "MagicUI": {
     "description": "A core mod to help other mods build UIs. Does nothing on its own.",
-    "version": "1.9.9268.40304",
+    "version": "1.10.9277.8364",
     "links": {
       "type": "universal",
-      "sha256": "AA1771974566671E1110F2E372507CB7604BF51D1227BA6D08D7F2DDFC242BEC",
-      "url": "https://github.com/BadMagic100/HollowKnight.MagicUI/releases/download/v1.9.9268.40304/MagicUI.zip"
+      "sha256": "EED36275276EA1BC5E8538A7E77A70D4DC47E13E7938585E51575D4D1D946D05",
+      "url": "https://github.com/BadMagic100/HollowKnight.MagicUI/releases/download/v1.10.9277.8364/MagicUI.zip"
     },
     "dependencies": [],
     "repository": "https://github.com/BadMagic100/HollowKnight.MagicUI/",
@@ -6303,11 +6303,11 @@
   },
   "RandoMapCore": {
     "description": "A library for RandoMapMod and ArchipelagoMapMod.",
-    "version": "1.0.10.0",
+    "version": "1.0.12.0",
     "links": {
       "type": "universal",
-      "sha256": "A4951AA8FAF980C865CD1732AAD183333301FB133811E66C7712CC45FD4A7DB3",
-      "url": "https://github.com/syyePhenomenol/RandoMapCore/releases/download/v1.0.10/RandoMapCore.zip"
+      "sha256": "30F18BA26CCC8A1F84536EDB160CBCD840727619A9736EEA526AC1545B6F7B16",
+      "url": "https://github.com/syyePhenomenol/RandoMapCore/releases/download/v1.0.12/RandoMapCore.zip"
     },
     "dependencies": [
       "ConnectionMetadataInjector",
@@ -6848,8 +6848,8 @@
     "version": "0.9.3.0",
     "links": {
       "type": "universal",
-      "sha256": "472A96D87E1A23945D067B5E917FA6884B6B9D81CDF1C7E5F11C1764E43D39DB",
-      "url": "https://github.com/PrashantMohta/Satchel/releases/download/v0.9.3r/Satchel.zip"
+      "sha256": "B23BB2F83FD969F018DE76DAC93F297BBFA07BDBE17F065A566D00FE5E29F47B",
+      "url": "https://github.com/PrashantMohta/Satchel/releases/download/v0.9.3b/Satchel.zip"
     },
     "dependencies": [],
     "repository": "https://github.com/PrashantMohta/Satchel/",
@@ -6944,11 +6944,11 @@
   },
   "Screensaver": {
     "description": "Adds a screensaver untop of the game.",
-    "version": "1.2.0.0",
+    "version": "1.2.0.1",
     "links": {
       "type": "universal",
-      "sha256": "64F21CADFAE8317963309315E381566CEEFDCA194DCA0E4130545A12AB65DFCD",
-      "url": "https://github.com/peekagrub/Screensaver/releases/download/1.2.0.0/Screensaver.zip"
+      "sha256": "FB56115EFF2D2C400E4FC40A3BD996A28A0F381A8AEFCC4DB1E6CA8064290370",
+      "url": "https://github.com/peekagrub/Screensaver/releases/download/1.2.0.1/Screensaver.zip"
     },
     "dependencies": [
       "Satchel"

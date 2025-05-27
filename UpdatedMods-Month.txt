@@ -32,3 +32,6 @@ RandoMapMod
 Vanilla Map Mod
 Custom Knight
 Satchel
+MagicUI
+RandoMapCore
+Screensaver

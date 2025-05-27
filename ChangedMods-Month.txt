@@ -58,3 +58,6 @@ Vanilla Map Mod
 Custom Knight
 Satchel
 Smart Nail
+MagicUI
+RandoMapCore
+Screensaver

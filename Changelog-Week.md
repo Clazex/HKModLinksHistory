@@ -75,6 +75,10 @@
 
 - Version: 1.1.0.0 -> 1.1.0.1
 
+### MagicUI
+
+- Version: 1.9.9268.40304 -> 1.10.9277.8364
+
 ### MapChanger
 
 - Version: 1.2.2.0 -> 1.3.8.0
@@ -112,6 +116,10 @@
 ### Satchel
 
 - Version: 0.9.2.0 -> 0.9.3.0
+
+### Screensaver
+
+- Version: 1.2.0.0 -> 1.2.0.1
 
 ### Vanilla Map Mod
 

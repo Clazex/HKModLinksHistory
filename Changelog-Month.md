@@ -296,7 +296,7 @@ Enjoy!
 
 ### MagicUI
 
-- Version: 1.8.8563.5913 -> 1.9.9268.40304
+- Version: 1.8.8563.5913 -> 1.10.9277.8364
 
 ### MapChanger
 
@@ -368,7 +368,7 @@ Enjoy!
 
 ### Screensaver
 
-- Version: 1.1.1.0 -> 1.2.0.0
+- Version: 1.1.1.0 -> 1.2.0.1
 
 ### Stories of a HK player - Chapter 1
 
