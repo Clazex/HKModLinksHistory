@@ -1,5 +1,3 @@
-BossStatueFramework
-Breakable Wall Randomizer
 Fake Peppino
 AdditionalMaps
 GraphicOptions
@@ -60,3 +58,8 @@ Smart Nail
 MagicUI
 RandoMapCore
 Screensaver
+MoreDoors
+Pure Vessel Skills
+PurenailCore
+Scattered and Lost
+TreasureHunt

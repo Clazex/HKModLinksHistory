@@ -10,3 +10,7 @@ Satchel
 MagicUI
 RandoMapCore
 Screensaver
+MoreDoors
+PurenailCore
+Scattered and Lost
+TreasureHunt

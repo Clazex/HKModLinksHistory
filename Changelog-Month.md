@@ -9,12 +9,6 @@
 - Dependencies
   + BingoSync
 
-### BossStatueFramework
-
-- Description: Library for adding custom boss statues to the Hall of Gods.
-- Tags
-  + Library
-
 ### CarefreeRngReset
 
 - Description: This mod resets carefree melody rng to highest likelyhood of blocking each time the player enters the hall of gods.
@@ -91,6 +85,15 @@
   + SFCore
 - Tags
   + Cosmetic
+
+### Pure Vessel Skills
+
+- Description: Allow you to use Pure Vessel&#x27;s attacks
+- Dependencies
+  + FrogCore
+  + SFCore
+- Tags
+  + Gameplay
 
 ### PvpArena
 
@@ -236,7 +239,7 @@ Enjoy!
 
 ### Breakable Wall Randomizer
 
-- Version: 4.0.0.0 -> 4.0.0.3
+- Version: 4.0.0.1 -> 4.0.0.3
 
 ### CharmPatch
 
@@ -302,6 +305,10 @@ Enjoy!
   + Added
     - DebugMod
 
+### MoreDoors
+
+- Version: 3.1.2.0 -> 3.2.0.0
+
 ### Peaking Peeking Peaks
 
 - Version: 1.5.0.0 -> 9.9.9.9
@@ -316,6 +323,10 @@ Enjoy!
 - Tags
   + Added
     - Cosmetic
+
+### PurenailCore
+
+- Version: 1.3.0.0 -> 1.3.1.0
 
 ### PvP Arena
 
@@ -359,6 +370,10 @@ Enjoy!
 ### Satchel
 
 - Version: 0.9.2.0 -> 0.9.3.0
+
+### Scattered and Lost
+
+- Version: 1.4.2.0 -> 1.4.3.0
 
 ### Screensaver
 
@@ -421,7 +436,7 @@ This is a singleplayer mod. The &quot;teamwork&quot; refers to in-game events.
 
 ### TreasureHunt
 
-- Version: 1.1.0.0 -> 1.2.0.0
+- Version: 1.1.0.0 -> 1.4.0.0
 
 ### Vanilla Map Mod
 

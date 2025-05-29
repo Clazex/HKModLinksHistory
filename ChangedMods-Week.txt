@@ -12,3 +12,8 @@ Smart Nail
 MagicUI
 RandoMapCore
 Screensaver
+MoreDoors
+Pure Vessel Skills
+PurenailCore
+Scattered and Lost
+TreasureHunt
