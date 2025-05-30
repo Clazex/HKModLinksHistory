@@ -17,3 +17,5 @@ Pure Vessel Skills
 PurenailCore
 Scattered and Lost
 TreasureHunt
+MapSyncMod
+Smart Nail

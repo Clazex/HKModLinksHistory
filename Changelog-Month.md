@@ -256,13 +256,6 @@ Enjoy!
 
 - Version: 1.0.0.1 -> 1.0.0.2
 
-### Fake Peppino
-
-- Version: 1.1.0.1 -> 1.2.0.1
-- Dependencies
-  + Added
-    - BossStatueFramework
-
 ### Flukemaster
 
 - Version: 1.0.0.0 -> 1.0.0.1
@@ -304,6 +297,10 @@ Enjoy!
 - Integrations
   + Added
     - DebugMod
+
+### MapSyncMod
+
+- Version: 1.3.2.0 -> 1.3.3.0
 
 ### MoreDoors
 
