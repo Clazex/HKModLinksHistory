@@ -1,14 +1,3 @@
-GraphicOptions
-HkSpeedUp
-HollowKnightAchievementManager
-PeakingPeekingPeaks
-PvpArena
-ScenePainter
-StoriesOfaHkPlayer-Ch1
-StoriesOfaHkPlayer-Ch2
-SvgLib
-TestOfTeamwork
-ZaliantsSurprise
 SpeedChanger
 GearSwitcher
 DebugCharms

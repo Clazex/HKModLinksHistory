@@ -52,24 +52,6 @@
   + Satchel
   + Toggleable Bindings
 
-### GraphicOptions
-
-- Description: Adds a &quot;few&quot; graphics options. Some of those &quot;might&quot; be unstable to change.
-- Dependencies
-  + SFCore
-  + Satchel
-- Tags
-  + Utility
-
-### HollowKnightAchievementManager
-
-- Description: Allows to manage Hollow Knight achievements, both vanilla and modded. Also syncs them with the online store of choice (GOG, Steam, XBox). Also allows to un-/lock menu themes and game modes.
-- Dependencies
-  + SFCore
-  + Satchel
-- Tags
-  + Utility
-
 ### MoreMapMarkers
 
 - Description: Adds configurably more map markers.
@@ -77,14 +59,6 @@
   + SFCore
 - Tags
   + Utility
-
-### PeakingPeekingPeaks
-
-- Description: This mods aims to make the Crystal Peak name more memorable.
-- Dependencies
-  + SFCore
-- Tags
-  + Cosmetic
 
 ### Pure Vessel Skills
 
@@ -94,14 +68,6 @@
   + SFCore
 - Tags
   + Gameplay
-
-### PvpArena
-
-- Description: This mod adds a PvP arena with an invisible entrance right of the bench in Dirtmouth.
-- Dependencies
-  + SFCore
-- Tags
-  + Expansion
 
 ### RandoMapCore
 
@@ -125,14 +91,6 @@
 
 - Description: Converts all numbers to the Roman numeral system
 
-### ScenePainter
-
-- Description: Creates SVG images of all scenes in the game. Can be initiated manually using the K key.
-- Dependencies
-  + SvgLib
-- Tags
-  + Utility
-
 ### Silksong-Start-Screen
 
 - Description: A Hollow Knight mod that replaces the game&#x27;s title screen with a Silksong-themed start screen. Currently, this version only replaces the logo and does not replace the background—mainly due to the lack of high-quality resources. For the best visual match, it&#x27;s recommended to use the Grimm background.
@@ -154,69 +112,13 @@
 - Tags
   + Gameplay
 
-### StoriesOfaHkPlayer-Ch1
-
-- Description: The start of a story of a Hollow Knight player and his personalized copy of the game.
-- Dependencies
-  + SFCore
-- Tags
-  + Cosmetic
-
-### StoriesOfaHkPlayer-Ch2
-
-- Description: The second iteration of a story of a Hollow Knight player and his personalized copy of the game.
-Warning for people streaming this mod: This mod displays your windows/mac/linux username.
-- Dependencies
-  + SFCore
-- Tags
-  + Expansion
-  + Gameplay
-
-### SvgLib
-
-- Description: SVG parser and composer library for .NET Framework and .NET Core.
-- Tags
-  + Library
-
-### TestOfTeamwork
-
-- Description: Adds a Path of Pain style section to the White Palace.
-Start by talking to people in and around dirtmouth.
-This is a singleplayer mod. The &quot;teamwork&quot; refers to in-game events.
-- Dependencies
-  + SFCore
-- Integrations
-  + DebugMod
-  + HKMP
-- Tags
-  + Boss
-  + Expansion
-  + Gameplay
-
-### ZaliantsSurprise
-
-- Description: This is a mod idea by Zaliant.
-Former Description:
-This is the Pale Court mod.
-Enjoy!
-- Dependencies
-  + FrogCore
-  + SFCore
-  + Vasi
-- Tags
-  + Utility
-
 
 ## Removed mods
 
-- Graphic Options
+- HkSpeedUp
 
 
 ## Updated mods
-
-### AdditionalMaps
-
-- Version: 1.5.4.0 -> 1.5.4.1
 
 ### Archipelago
 
@@ -268,22 +170,6 @@ Enjoy!
 
 - Version: 1.0.0.0 -> 1.1.0.1
 
-### Hollow Knight Achievement Manager
-
-- Version: 1.5.2.0 -> 9.9.9.9
-- Description
-  + Old: Allows to manage Hollow Knight achievements, both vanilla and modded. Also syncs them with the online store of choice (GOG, Steam, XBox). Also allows to un-/lock menu themes and game modes.
-  + New: Dummy mod. Install the dependency &quot;HollowKnightAchievementManager&quot; directly.
-- Dependencies
-  + Removed
-    - SFCore
-    - Satchel
-  + Added
-    - HollowKnightAchievementManager
-- Tags
-  + Added
-    - Utility
-
 ### MagicUI
 
 - Version: 1.8.8563.5913 -> 1.10.9277.8364
@@ -306,39 +192,9 @@ Enjoy!
 
 - Version: 3.1.2.0 -> 3.2.0.0
 
-### Peaking Peeking Peaks
-
-- Version: 1.5.0.0 -> 9.9.9.9
-- Description
-  + Old: This mods aims to make the Crystal Peak name more memorable.
-  + New: Dummy mod. Install the dependency &quot;PeakingPeekingPeaks&quot; directly.
-- Dependencies
-  + Removed
-    - SFCore
-  + Added
-    - PeakingPeekingPeaks
-- Tags
-  + Added
-    - Cosmetic
-
 ### PurenailCore
 
 - Version: 1.3.0.0 -> 1.3.1.0
-
-### PvP Arena
-
-- Version: 1.5.1.0 -> 9.9.9.9
-- Description
-  + Old: This mod adds a PvP arena with an invisible entrance right of the bench in Dirtmouth.
-  + New: Dummy mod. Install the dependency &quot;PvpArena&quot; directly.
-- Dependencies
-  + Removed
-    - SFCore
-  + Added
-    - PvpArena
-- Tags
-  + Added
-    - Expansion
 
 ### RCPathfinder
 
@@ -372,64 +228,13 @@ Enjoy!
 
 - Version: 1.4.2.0 -> 1.4.3.0
 
+### ScenePainter
+
+- Version: 1.5.1.5 -> 1.5.1.6
+
 ### Screensaver
 
 - Version: 1.1.1.0 -> 1.2.0.1
-
-### Stories of a HK player - Chapter 1
-
-- Version: 1.5.0.0 -> 9.9.9.9
-- Description
-  + Old: The start of a story of a Hollow Knight player and his personalized copy of the game.
-  + New: Dummy mod. Install the dependency &quot;StoriesOfaHkPlayer-Ch1&quot; directly.
-- Dependencies
-  + Removed
-    - SFCore
-  + Added
-    - StoriesOfaHkPlayer-Ch1
-- Tags
-  + Added
-    - Cosmetic
-
-### Stories of a HK player - Chapter 2
-
-- Version: 1.5.1.0 -> 9.9.9.9
-- Description
-  + Old: The second iteration of a story of a Hollow Knight player and his personalized copy of the game.
-Warning for people streaming this mod: This mod displays your windows/mac/linux username.
-  + New: Dummy mod. Install the dependency &quot;StoriesOfaHkPlayer-Ch2&quot; directly.
-- Dependencies
-  + Removed
-    - SFCore
-  + Added
-    - StoriesOfaHkPlayer-Ch2
-- Tags
-  + Added
-    - Expansion
-    - Gameplay
-
-### Test of Teamwork
-
-- Version: 1.5.79.0 -> 9.9.9.9
-- Description
-  + Old: Adds a Path of Pain style section to the White Palace.
-Start by talking to people in and around dirtmouth.
-This is a singleplayer mod. The &quot;teamwork&quot; refers to in-game events.
-  + New: Dummy mod. Install the dependency &quot;TestOfTeamwork&quot; directly.
-- Dependencies
-  + Removed
-    - SFCore
-  + Added
-    - TestOfTeamwork
-- Integrations
-  + Removed
-    - DebugMod
-    - HKMP
-- Tags
-  + Added
-    - Boss
-    - Expansion
-    - Gameplay
 
 ### TreasureHunt
 
@@ -438,24 +243,4 @@ This is a singleplayer mod. The &quot;teamwork&quot; refers to in-game events.
 ### Vanilla Map Mod
 
 - Version: 2.1.1.0 -> 2.1.5.0
-
-### Zaliants Surprise
-
-- Version: 1.5.2.0 -> 9.9.9.9
-- Description
-  + Old: This is a mod idea by Zaliant.
-Former Description:
-This is the Pale Court mod.
-Enjoy!
-  + New: Dummy mod. Install the dependency &quot;ZaliantsSurprise&quot; directly.
-- Dependencies
-  + Removed
-    - FrogCore
-    - SFCore
-    - Vasi
-  + Added
-    - ZaliantsSurprise
-- Tags
-  + Added
-    - Utility
 

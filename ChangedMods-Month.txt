@@ -1,22 +1,3 @@
-AdditionalMaps
-GraphicOptions
-HkSpeedUp
-Hollow Knight Achievement Manager
-HollowKnightAchievementManager
-Peaking Peeking Peaks
-PeakingPeekingPeaks
-PvP Arena
-PvpArena
-ScenePainter
-Stories of a HK player - Chapter 1
-Stories of a HK player - Chapter 2
-StoriesOfaHkPlayer-Ch1
-StoriesOfaHkPlayer-Ch2
-SvgLib
-Test of Teamwork
-TestOfTeamwork
-Zaliants Surprise
-ZaliantsSurprise
 HkSpeedUp
 ScenePainter
 Breakable Wall Randomizer
