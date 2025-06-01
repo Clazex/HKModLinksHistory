@@ -8412,6 +8412,26 @@
       "Zaliant"
     ]
   },
+  "Zen Charm": {
+    "description": "Adds a Charm that allows you to change other charms while not at a bench",
+    "version": "1.0.0.0",
+    "links": {
+      "type": "universal",
+      "sha256": "526EED6A71514028C0FC3121999DCE41A5ABB57916467AAD64FD1C6485524F08",
+      "url": "https://github.com/AdamJiwa/ZenCharm/releases/download/v1.0.0.0/ZenCharm.zip"
+    },
+    "dependencies": [
+      "SFCore"
+    ],
+    "repository": "https://github.com/AdamJiwa/ZenCharm/",
+    "issues": "https://github.com/AdamJiwa/ZenCharm/issues",
+    "tags": [
+      "Gameplay"
+    ],
+    "authors": [
+      "Adam Jiwa"
+    ]
+  },
   "Zote Killer": {
     "description": "Allows you to kill the Zote in the Colosseum",
     "version": "0.1.0.0",

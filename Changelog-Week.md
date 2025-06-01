@@ -12,21 +12,16 @@
 - Tags
   + Gameplay
 
-### Smart Nail
+### Zen Charm
 
-- Description: Qol mod for RandoPlus,which auto-upgrades your nail in Godhome and in dream bosses fights.Doesn&#x27;t work with combat or curse rando.
+- Description: Adds a Charm that allows you to change other charms while not at a bench
 - Dependencies
-  + ItemChanger
-  + RandoPlus
+  + SFCore
 - Tags
-  + Utility
+  + Gameplay
 
 
 ## Updated mods
-
-### Custom Knight
-
-- Version: 3.1.0.0 -> 3.5.0.0
 
 ### MagicUI
 
@@ -48,10 +43,6 @@
 
 - Version: 1.0.10.0 -> 1.0.12.0
 
-### Satchel
-
-- Version: 0.9.2.0 -> 0.9.3.0
-
 ### Scattered and Lost
 
 - Version: 1.4.2.0 -> 1.4.3.0
@@ -59,6 +50,10 @@
 ### Screensaver
 
 - Version: 1.2.0.0 -> 1.2.0.1
+
+### Smart Nail
+
+- Version: 1.0.0.0 -> 1.3.0.0
 
 ### TreasureHunt
 

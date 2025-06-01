@@ -12,3 +12,4 @@ Silksong-Start-Screen
 RandoMapCore
 Smart Nail
 Pure Vessel Skills
+Zen Charm

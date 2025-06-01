@@ -112,6 +112,14 @@
 - Tags
   + Gameplay
 
+### Zen Charm
+
+- Description: Adds a Charm that allows you to change other charms while not at a bench
+- Dependencies
+  + SFCore
+- Tags
+  + Gameplay
+
 
 ## Removed mods
 
@@ -227,10 +235,6 @@
 ### Scattered and Lost
 
 - Version: 1.4.2.0 -> 1.4.3.0
-
-### ScenePainter
-
-- Version: 1.5.1.5 -> 1.5.1.6
 
 ### Screensaver
 

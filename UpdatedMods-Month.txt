@@ -1,5 +1,3 @@
-HkSpeedUp
-ScenePainter
 Breakable Wall Randomizer
 CustomKnightSuperAnimationAddon
 TreasureHunt
