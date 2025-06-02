@@ -1,5 +1,3 @@
-Breakable Wall Randomizer
-SpeedChanger
 GearSwitcher
 DebugCharms
 BingoBoardReplay
@@ -44,3 +42,9 @@ TreasureHunt
 MapSyncMod
 Smart Nail
 Zen Charm
+CharmPatch
+CustomLogicInjector
+ItemChanger
+Lore Master
+Randomizer 4
+RandomizerCore

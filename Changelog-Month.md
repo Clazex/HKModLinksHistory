@@ -106,12 +106,6 @@
 - Tags
   + Utility
 
-### SpeedChanger
-
-- Description: Speed up or slow down your game. A more customisable and user-friendly version of the Sanic mod.
-- Tags
-  + Gameplay
-
 ### Zen Charm
 
 - Description: Adds a Charm that allows you to change other charms while not at a bench
@@ -119,11 +113,6 @@
   + SFCore
 - Tags
   + Gameplay
-
-
-## Removed mods
-
-- HkSpeedUp
 
 
 ## Updated mods
@@ -149,11 +138,11 @@
 
 ### Breakable Wall Randomizer
 
-- Version: 4.0.0.1 -> 4.0.0.3
+- Version: 4.0.0.2 -> 4.0.0.3
 
 ### CharmPatch
 
-- Version: 1.2.1.0 -> 1.3.0.0
+- Version: 1.2.1.0 -> 1.4.0.0
 - Dependencies
   + Added
     - HKMirror
@@ -166,6 +155,10 @@
 
 - Version: 1.0.0.1 -> 1.0.0.2
 
+### CustomLogicInjector
+
+- Version: 1.1.2.0 -> 1.1.3.0
+
 ### Flukemaster
 
 - Version: 1.0.0.0 -> 1.0.0.1
@@ -177,6 +170,17 @@
 ### Hivesong
 
 - Version: 1.0.0.0 -> 1.1.0.1
+
+### ItemChanger
+
+- Version: 2.1.4.0 -> 2.1.5.0
+
+### Lore Master
+
+- Version: 2.3.3.0 -> 2.3.4.0
+- Description
+  + Old: Adds abilities to lore tablets and certain npc. Currently not usable with Randomizer 4!
+  + New: Adds abilities to lore tablets and certain npc. Not compatible with Lore Rando! If you&#x27;re only interested in the rando locations, please use Lore Randomizer instead.
 
 ### MagicUI
 
@@ -227,6 +231,14 @@
   + Added
     - DebugMod
     - RandoSettingsManager
+
+### Randomizer 4
+
+- Version: 4.1.4.1 -> 4.1.5.0
+
+### RandomizerCore
+
+- Version: 2.0.2.0 -> 2.0.3.0
 
 ### Satchel
 

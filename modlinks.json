@@ -1177,11 +1177,11 @@
   },
   "CharmPatch": {
     "description": "This is a collection of small changes that I think improve the balance of certain charms in the game. Please view Readme for Charm Changer mod recommendations.",
-    "version": "1.3.0.0",
+    "version": "1.4.0.0",
     "links": {
       "type": "universal",
-      "sha256": "88DA818CC5D8E35D15015A7756B2E627698780748FA7192611E61760E7E7B01C",
-      "url": "https://github.com/danielstegink/HollowKnight.CharmPatch/releases/download/1.3.0.0/CharmPatch.zip"
+      "sha256": "7F7C81D0402A9499D4B72B8FD64830AC553BDD3FE6D1D036361A5706E218E5A6",
+      "url": "https://github.com/danielstegink/HollowKnight.CharmPatch/releases/download/1.4.0.0/CharmPatch.zip"
     },
     "dependencies": [
       "HKMirror",
@@ -1766,11 +1766,11 @@
   },
   "CustomLogicInjector": {
     "description": "A Randomizer 4 add-on for providing user-defined logic edits.",
-    "version": "1.1.2.0",
+    "version": "1.1.3.0",
     "links": {
       "type": "universal",
-      "sha256": "0914CD274FF11A5F2F9751D98AB98CFFFD10FB619AEC0FAD1D627AEF3BF4C270",
-      "url": "https://github.com/homothetyhk/CustomLogicInjector/releases/download/v1.1.2/CustomLogicInjector.zip"
+      "sha256": "3632F788101E219F4E9319BABF8D603479121B0524414621C0E96946E10944DB",
+      "url": "https://github.com/homothetyhk/CustomLogicInjector/releases/download/v1.1.3/CustomLogicInjector.zip"
     },
     "dependencies": [
       "Randomizer 4"
@@ -4324,11 +4324,11 @@
   },
   "ItemChanger": {
     "description": "Mod which handles editing items and locations for other mods.",
-    "version": "2.1.4.0",
+    "version": "2.1.5.0",
     "links": {
       "type": "universal",
-      "sha256": "528E9F7EB4E0E9A0E416DFDD1F437D5476E97C4DA4DB7369F0F8103632D1B5F1",
-      "url": "https://github.com/homothetyhk/HollowKnight.ItemChanger/releases/download/v2.1.4%2B578/ItemChanger.zip"
+      "sha256": "A7290D949E33FD5D36DFD0AE281620257F759F0F68091386D82EC9C72D19EF4D",
+      "url": "https://github.com/homothetyhk/HollowKnight.ItemChanger/releases/download/v2.1.5%2B512/ItemChanger.zip"
     },
     "dependencies": [],
     "repository": "https://github.com/homothetyhk/HollowKnight.ItemChanger/"
@@ -4628,12 +4628,12 @@
     ]
   },
   "Lore Master": {
-    "description": "Adds abilities to lore tablets and certain npc. Currently not usable with Randomizer 4!",
-    "version": "2.3.3.0",
+    "description": "Adds abilities to lore tablets and certain npc. Not compatible with Lore Rando! If you're only interested in the rando locations, please use Lore Randomizer instead.",
+    "version": "2.3.4.0",
     "links": {
       "type": "universal",
-      "sha256": "F73D98B11102D6E2A302F6D84963C1B90397F1D4B66F9B6BD97679D1CE755AFC",
-      "url": "https://github.com/Korzer420/LoreMaster/releases/download/v2.3.3/LoreMaster.zip"
+      "sha256": "AE0E759091F8F1211190C3FD20D955EA396E313EB7199168BE67D695849A0E66",
+      "url": "https://github.com/Korzer420/LoreMaster/releases/download/v2.3.4/LoreMaster.zip"
     },
     "dependencies": [
       "ItemChanger",
@@ -6560,11 +6560,11 @@
   },
   "Randomizer 4": {
     "description": "Mod for randomizing items and/or transitions, with numerous customization options.",
-    "version": "4.1.4.1",
+    "version": "4.1.5.0",
     "links": {
       "type": "universal",
-      "sha256": "2FFF72FFBDA417534A596E07E9922151354BD5146203C722A5444F36D73A835E",
-      "url": "https://github.com/homothetyhk/RandomizerMod/releases/download/v4.1.4%2B207/RandomizerMod.zip"
+      "sha256": "D2DE7D2D66B519413D70B4FFE68957A0AD7B587ACBC329991283C4B4BD9204AD",
+      "url": "https://github.com/homothetyhk/RandomizerMod/releases/download/v4.1.5%2B879/RandomizerMod.zip"
     },
     "dependencies": [
       "Benchwarp",
@@ -6578,11 +6578,11 @@
   },
   "RandomizerCore": {
     "description": "A library for randomizer logic and algorithms.",
-    "version": "2.0.2.0",
+    "version": "2.0.3.0",
     "links": {
       "type": "universal",
-      "sha256": "B9E19B4CB59B88F64A3284E823576DB181864BFF2F11D8357F6CE21BDCBAF67A",
-      "url": "https://github.com/homothetyhk/RandomizerCore/releases/download/v2.0.2/RandomizerCore.zip"
+      "sha256": "55703E19BBD4FAA758D469621F5A7D9F35AD9CB1728E30E2978C325444CA1C96",
+      "url": "https://github.com/homothetyhk/RandomizerCore/releases/download/v2.0.3/RandomizerCore.zip"
     },
     "dependencies": [],
     "repository": "https://github.com/homothetyhk/RandomizerCore/"

@@ -1,6 +1,3 @@
-MagicUI
-RandoMapCore
-Screensaver
 MoreDoors
 Pure Vessel Skills
 PurenailCore
@@ -9,3 +6,9 @@ TreasureHunt
 MapSyncMod
 Smart Nail
 Zen Charm
+CharmPatch
+CustomLogicInjector
+ItemChanger
+Lore Master
+Randomizer 4
+RandomizerCore
