@@ -232,6 +232,14 @@
     - DebugMod
     - RandoSettingsManager
 
+### RandoPlus
+
+- Version: 1.7.0.1 -> 1.7.0.2
+
+### Randomizable Levers
+
+- Version: 1.2.6.0 -> 1.2.6.1
+
 ### Randomizer 4
 
 - Version: 4.1.4.1 -> 4.1.5.0

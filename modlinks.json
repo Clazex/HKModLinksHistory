@@ -6383,11 +6383,11 @@
   },
   "RandoPlus": {
     "description": "Add-on for Randomizer 4 that adds more Randomization options; for example, randomize Mr Mushroom locations.",
-    "version": "1.7.0.1",
+    "version": "1.7.0.2",
     "links": {
       "type": "universal",
-      "sha256": "D2D7D6CB1403C77A456AFC29A9C140CC3D82D25EFA6AB3B3F425912A1BAEE6E5",
-      "url": "https://github.com/flibber-hk/HollowKnight.RandoPlus/releases/download/v1.7.0.1/RandoPlus.zip"
+      "sha256": "9FB5654070F34D43A52ECED356EFDE60A2A09B180771D45EC6F6375AC8842FD8",
+      "url": "https://github.com/flibber-hk/HollowKnight.RandoPlus/releases/download/v1.7.0.2/RandoPlus.zip"
     },
     "dependencies": [
       "ConnectionMetadataInjector",
@@ -6542,11 +6542,11 @@
   },
   "Randomizable Levers": {
     "description": "Randomizer 4 addon that adds the option to randomize levers. Activate lever rando in the Connections menu of Randomizer 4.",
-    "version": "1.2.6.0",
+    "version": "1.2.6.1",
     "links": {
       "type": "universal",
-      "sha256": "F53D6D615F98A1378896FAECDE4F78A8626576D28F9F61C7D61E2F9A4C76FE8E",
-      "url": "https://github.com/flibber-hk/HollowKnight.RandomizableLevers/releases/download/v1.2.6.0/RandomizableLevers.zip"
+      "sha256": "A5E56512C3973878C3086C036AB5583D8AA59CD080FD2767472525EBC358F550",
+      "url": "https://github.com/flibber-hk/HollowKnight.RandomizableLevers/releases/download/v1.2.6.1/RandomizableLevers.zip"
     },
     "dependencies": [
       "ItemChanger"
