@@ -3,15 +3,6 @@
 
 ## New mods
 
-### Pure Vessel Skills
-
-- Description: Allow you to use Pure Vessel&#x27;s attacks
-- Dependencies
-  + FrogCore
-  + SFCore
-- Tags
-  + Gameplay
-
 ### Zen Charm
 
 - Description: Adds a Charm that allows you to change other charms while not at a bench
@@ -25,7 +16,7 @@
 
 ### CharmPatch
 
-- Version: 1.3.0.0 -> 1.4.0.0
+- Version: 1.3.0.0 -> 1.4.1.0
 
 ### CustomLogicInjector
 
@@ -46,14 +37,6 @@
 
 - Version: 1.3.2.0 -> 1.3.3.0
 
-### MoreDoors
-
-- Version: 3.1.2.0 -> 3.2.0.0
-
-### PurenailCore
-
-- Version: 1.3.0.0 -> 1.3.1.0
-
 ### RandoPlus
 
 - Version: 1.7.0.1 -> 1.7.0.2
@@ -70,15 +53,7 @@
 
 - Version: 2.0.2.0 -> 2.0.3.0
 
-### Scattered and Lost
-
-- Version: 1.4.2.0 -> 1.4.3.0
-
 ### Smart Nail
 
 - Version: 1.0.0.0 -> 1.3.0.0
-
-### TreasureHunt
-
-- Version: 1.2.0.0 -> 1.4.0.0
 

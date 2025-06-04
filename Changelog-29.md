@@ -3,10 +3,9 @@
 
 ## New mods
 
-### GearSwitcher
+### DebugCharms
 
-- Description: A modification that allows you to switch the prepared equipment patterns, as well as switch the chains at any time.
+- Description: A Debug extension specifically for charms
 - Dependencies
-  + Satchel
-  + Toggleable Bindings
+  + DebugMod
 

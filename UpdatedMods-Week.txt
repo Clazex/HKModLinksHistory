@@ -1,7 +1,3 @@
-MoreDoors
-PurenailCore
-Scattered and Lost
-TreasureHunt
 MapSyncMod
 Smart Nail
 CharmPatch
@@ -12,3 +8,4 @@ Randomizer 4
 RandomizerCore
 RandoPlus
 Randomizable Levers
+CharmPatch

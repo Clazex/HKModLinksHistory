@@ -45,13 +45,6 @@
 - Dependencies
   + Randomizer 4
 
-### GearSwitcher
-
-- Description: A modification that allows you to switch the prepared equipment patterns, as well as switch the charms at any time.
-- Dependencies
-  + Satchel
-  + Toggleable Bindings
-
 ### MoreMapMarkers
 
 - Description: Adds configurably more map markers.
@@ -142,7 +135,7 @@
 
 ### CharmPatch
 
-- Version: 1.2.1.0 -> 1.4.0.0
+- Version: 1.2.1.0 -> 1.4.1.0
 - Dependencies
   + Added
     - HKMirror

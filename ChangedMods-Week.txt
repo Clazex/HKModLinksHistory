@@ -1,8 +1,3 @@
-MoreDoors
-Pure Vessel Skills
-PurenailCore
-Scattered and Lost
-TreasureHunt
 MapSyncMod
 Smart Nail
 Zen Charm
@@ -14,3 +9,4 @@ Randomizer 4
 RandomizerCore
 RandoPlus
 Randomizable Levers
+CharmPatch
