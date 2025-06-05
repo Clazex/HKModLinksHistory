@@ -3,81 +3,23 @@
 
 ## New mods
 
-### RandoMapCore
+### Smart Nail
 
-- Description: A library for RandoMapMod and ArchipelagoMapMod.
+- Description: Qol mod for RandoPlus,which auto-upgrades your nail in Godhome and in dream bosses fights.Doesn&#x27;t work with combat or curse rando.
 - Dependencies
-  + ConnectionMetadataInjector
   + ItemChanger
-  + MagicUI
-  + MapChanger
-  + RCPathfinder
-  + RandomizerCore
-  + RandomizerCore.Json
-- Integrations
-  + AdditionalMaps
-  + Benchwarp
-  + DebugMod
+  + RandoPlus
 - Tags
-  + Library
+  + Utility
 
 
 ## Updated mods
 
-### Archipelago
+### Custom Knight
 
-- Version: 0.8.1.0 -> 0.9.0.0
+- Version: 3.1.0.0 -> 3.5.0.0
 
-### Archipelago Map Mod
+### Satchel
 
-- Version: 2.3.1.0 -> 3.0.1.0
-- Dependencies
-  + Removed
-    - ConnectionMetadataInjector
-    - MagicUI
-    - RCPathfinder
-    - Satchel
-  + Added
-    - RandoMapCore
-- Integrations
-  + Added
-    - BenchRando
-
-### MapChanger
-
-- Version: 1.2.2.0 -> 1.3.8.0
-- Dependencies
-  + Added
-    - Satchel
-- Integrations
-  + Added
-    - DebugMod
-
-### RCPathfinder
-
-- Version: 1.3.3.0 -> 1.4.2.0
-
-### Rando Vanilla Tracker
-
-- Version: 1.2.4.0 -> 1.2.5.0
-
-### RandoMapMod
-
-- Version: 3.5.8.0 -> 3.6.5.0
-- Dependencies
-  + Removed
-    - ConnectionMetadataInjector
-    - MagicUI
-    - RCPathfinder
-    - Vasi
-  + Added
-    - RandoMapCore
-- Integrations
-  + Added
-    - DebugMod
-    - RandoSettingsManager
-
-### Vanilla Map Mod
-
-- Version: 2.1.1.0 -> 2.1.5.0
+- Version: 0.9.2.0 -> 0.9.3.0
 

@@ -33,9 +33,9 @@
   + Old: Adds abilities to lore tablets and certain npc. Currently not usable with Randomizer 4!
   + New: Adds abilities to lore tablets and certain npc. Not compatible with Lore Rando! If you&#x27;re only interested in the rando locations, please use Lore Randomizer instead.
 
-### MapSyncMod
+### PurenailCore
 
-- Version: 1.3.2.0 -> 1.3.3.0
+- Version: 1.3.1.0 -> 1.3.2.0
 
 ### RandoPlus
 
@@ -53,7 +53,10 @@
 
 - Version: 2.0.2.0 -> 2.0.3.0
 
-### Smart Nail
+### TreasureHunt
 
-- Version: 1.0.0.0 -> 1.3.0.0
+- Version: 1.4.0.0 -> 1.4.0.2
+- Dependencies
+  + Added
+    - SFCore
 

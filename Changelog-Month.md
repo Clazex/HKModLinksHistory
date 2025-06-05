@@ -23,12 +23,6 @@
 - Tags
   + Utility
 
-### DebugCharms
-
-- Description: A Debug extension specifically for charms
-- Dependencies
-  + DebugMod
-
 ### DivineFury
 
 - Description: This mod adds a new charm: Divine Fury. This charm sets the player&#x27;s health to 1, allowing Fury of the Fallen to be viable in Radiant Godhome battles.
@@ -152,6 +146,10 @@
 
 - Version: 1.1.2.0 -> 1.1.3.0
 
+### DebugCharms
+
+- Version: 1.0.0.0 -> 1.0.1.0
+
 ### Flukemaster
 
 - Version: 1.0.0.0 -> 1.0.0.1
@@ -199,7 +197,7 @@
 
 ### PurenailCore
 
-- Version: 1.3.0.0 -> 1.3.1.0
+- Version: 1.3.0.0 -> 1.3.2.0
 
 ### RCPathfinder
 
@@ -255,7 +253,10 @@
 
 ### TreasureHunt
 
-- Version: 1.1.0.0 -> 1.4.0.0
+- Version: 1.1.0.0 -> 1.4.0.2
+- Dependencies
+  + Added
+    - SFCore
 
 ### Vanilla Map Mod
 
