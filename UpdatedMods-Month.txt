@@ -1,5 +1,3 @@
-CustomKnightSuperAnimationAddon
-TreasureHunt
 Screensaver
 CharmPatch
 Hivesong
@@ -38,4 +36,5 @@ RandoPlus
 Randomizable Levers
 CharmPatch
 PurenailCore
+TreasureHunt
 TreasureHunt

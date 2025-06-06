@@ -8005,11 +8005,11 @@
   },
   "TreasureHunt": {
     "description": "A Randomizer 4 connection fro a semi-spoiler format.",
-    "version": "1.4.0.2",
+    "version": "1.4.1.0",
     "links": {
       "type": "universal",
-      "sha256": "2937AD3D211CDF7E08BCA4C3BA7E67A8CD57CB271F775ED3F00EF0D2CDDF1BA0",
-      "url": "https://github.com/dplochcoder/HollowKnight.TreasureHunt/releases/download/v1.4.0.2/TreasureHunt.zip"
+      "sha256": "D2CC4B9D435C123AE8A8ACE305CDA3F0164356B6698EB4645C0241DE194FD993",
+      "url": "https://github.com/dplochcoder/HollowKnight.TreasureHunt/releases/download/v1.4.1.0/TreasureHunt.zip"
     },
     "dependencies": [
       "ConnectionMetadataInjector",

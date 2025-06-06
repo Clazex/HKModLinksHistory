@@ -10,3 +10,4 @@ Randomizable Levers
 CharmPatch
 PurenailCore
 TreasureHunt
+TreasureHunt

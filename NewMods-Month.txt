@@ -1,9 +1,3 @@
-BingoBoardReplay
-CarefreeRngReset
-ColosseumTrophy
-Fishing
-MoreMapMarkers
-RomanNumerals
 DivineFury
 Silksong-Start-Screen
 RandoMapCore

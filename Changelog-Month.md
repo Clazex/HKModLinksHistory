@@ -3,26 +3,6 @@
 
 ## New mods
 
-### BingoBoardReplay
-
-- Description: A mod for bingo tournament organizers to help restream the board when the players have stream delay. See GitHub readme for usage.
-- Dependencies
-  + BingoSync
-
-### CarefreeRngReset
-
-- Description: This mod resets carefree melody rng to highest likelyhood of blocking each time the player enters the hall of gods.
-- Tags
-  + Utility
-
-### ColosseumTrophy
-
-- Description: Reenables the colosseum trophy cut content.
-- Dependencies
-  + SFCore
-- Tags
-  + Utility
-
 ### DivineFury
 
 - Description: This mod adds a new charm: Divine Fury. This charm sets the player&#x27;s health to 1, allowing Fury of the Fallen to be viable in Radiant Godhome battles.
@@ -32,20 +12,6 @@
   + Satchel
 - Tags
   + Gameplay
-
-### Fishing
-
-- Description: Adds a fishing minigame to the randomizer
-- Dependencies
-  + Randomizer 4
-
-### MoreMapMarkers
-
-- Description: Adds configurably more map markers.
-- Dependencies
-  + SFCore
-- Tags
-  + Utility
 
 ### Pure Vessel Skills
 
@@ -73,10 +39,6 @@
   + DebugMod
 - Tags
   + Library
-
-### RomanNumerals
-
-- Description: Converts all numbers to the Roman numeral system
 
 ### Silksong-Start-Screen
 
@@ -137,10 +99,6 @@
 ### Custom Knight
 
 - Version: 3.1.0.0 -> 3.5.0.0
-
-### CustomKnightSuperAnimationAddon
-
-- Version: 1.0.0.1 -> 1.0.0.2
 
 ### CustomLogicInjector
 
@@ -253,7 +211,7 @@
 
 ### TreasureHunt
 
-- Version: 1.1.0.0 -> 1.4.0.2
+- Version: 1.2.0.0 -> 1.4.1.0
 - Dependencies
   + Added
     - SFCore
