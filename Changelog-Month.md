@@ -13,6 +13,14 @@
 - Tags
   + Gameplay
 
+### GrubSpoiler
+
+- Description: A mod to add Grubs to CondensedSpoilerLog.
+- Integrations
+  + CondensedSpoilerLogger
+- Tags
+  + Gameplay
+
 ### Pure Vessel Skills
 
 - Description: Allow you to use Pure Vessel&#x27;s attacks
@@ -39,6 +47,14 @@
   + DebugMod
 - Tags
   + Library
+
+### Silksong Healing
+
+- Description: Adds a charm called Soulburst, which allows players to instantly heal 3 masks when they have 99 soul, similar to Silksong
+- Dependencies
+  + SFCore
+- Tags
+  + Gameplay
 
 ### Silksong-Start-Screen
 
@@ -207,7 +223,7 @@
 
 ### Screensaver
 
-- Version: 1.1.1.0 -> 1.2.0.1
+- Version: 1.2.0.0 -> 1.2.0.1
 
 ### TreasureHunt
 

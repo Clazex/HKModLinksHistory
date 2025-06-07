@@ -3515,6 +3515,26 @@
       "limchi"
     ]
   },
+  "GrubSpoiler": {
+    "description": "A mod to add Grubs to CondensedSpoilerLog.",
+    "version": "1.0.0.0",
+    "links": {
+      "type": "universal",
+      "sha256": "9B72DAFD10B064D60139061587F443BDBA4F1E38B9432D2414634FEAC291C705",
+      "url": "https://github.com/nerthul11/GrubSpoiler/releases/download/1.0.0.0/GrubSpoiler.zip"
+    },
+    "dependencies": [],
+    "repository": "https://github.com/nerthul11/GrubSpoiler",
+    "integrations": [
+      "CondensedSpoilerLogger"
+    ],
+    "tags": [
+      "Gameplay"
+    ],
+    "authors": [
+      "nerthul11"
+    ]
+  },
   "GrubTrain": {
     "description": "Grubs as Companions",
     "version": "0.5.0.0",
@@ -7172,6 +7192,25 @@
       "Dandy",
       "Mulhima",
       "Ruttie"
+    ]
+  },
+  "Silksong Healing": {
+    "description": "Adds a charm called Soulburst, which allows players to instantly heal 3 masks when they have 99 soul, similar to Silksong",
+    "version": "1.0.0.0",
+    "links": {
+      "type": "universal",
+      "sha256": "B1C63D71B4D39758EB73CE74A9892B946E0F07519FF0ECC353099E1497E555BC",
+      "url": "https://github.com/hien-ngo29/SilksongHealing/releases/download/v1.0.0/SilksongHealing.zip"
+    },
+    "dependencies": [
+      "SFCore"
+    ],
+    "repository": "https://github.com/hien-ngo29/SilksongHealing",
+    "tags": [
+      "Gameplay"
+    ],
+    "authors": [
+      "Hien Ngo"
     ]
   },
   "Silksong-Start-Screen": {
