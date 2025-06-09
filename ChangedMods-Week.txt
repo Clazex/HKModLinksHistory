@@ -1,5 +1,3 @@
-RandoPlus
-Randomizable Levers
 CharmPatch
 PurenailCore
 TreasureHunt
