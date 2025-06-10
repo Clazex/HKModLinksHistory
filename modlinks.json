@@ -73,11 +73,11 @@
   },
   "AccessRandomizer": {
     "description": "A randomizer add-on for miscellaneous access checks.",
-    "version": "1.3.0.3",
+    "version": "1.3.0.4",
     "links": {
       "type": "universal",
-      "sha256": "A2316125AB3D2818DEE3E26D40E325E74417368B8059BD19A58C93CF4D0ABA6E",
-      "url": "https://github.com/nerthul11/AccessRandomizer/releases/download/1.3.0.3/AccessRandomizer.zip"
+      "sha256": "7862E565C78A0B50341C0D8ECF8E09953F691054733199496F46DAE583D6C5C2",
+      "url": "https://github.com/nerthul11/AccessRandomizer/releases/download/1.3.0.4/AccessRandomizer.zip"
     },
     "dependencies": [
       "ItemChanger",
@@ -878,11 +878,11 @@
   },
   "Breakable Wall Randomizer": {
     "description": "A Hollow Knight Randomizer add-on for breakable walls.",
-    "version": "4.0.0.3",
+    "version": "4.0.0.4",
     "links": {
       "type": "universal",
-      "sha256": "DAFE805390D7A9EE6656CBDF66EDD1B741544E0935257C9FD735FF7244445FCE",
-      "url": "https://github.com/nerthul11/BreakableWallRandomizer/releases/download/4.0.0.3/BreakableWallRandomizer.zip"
+      "sha256": "A055F367B94FC5D57406B6D324225D2897D2B0068B18BC1433D9F40048EE01F1",
+      "url": "https://github.com/nerthul11/BreakableWallRandomizer/releases/download/4.0.0.4/BreakableWallRandomizer.zip"
     },
     "dependencies": [
       "Randomizer 4",
@@ -5070,6 +5070,22 @@
       "TheMathGeek_314",
       "nerthul11"
     ]
+  },
+  "Mimicpocalypse": {
+    "description": "An add-on mod for the Grub Day 2025 Plando.",
+    "version": "1.0.0.0",
+    "links": {
+      "type": "universal",
+      "sha256": "EEF17122CF21E2B1F43A93299A4997001C3AFE1094DFEB086369301E4F10BE49",
+      "url": "https://github.com/dplochcoder/HollowKnight.Mimicpocalypse/releases/download/v1.0.0.0/Mimicpocalypse.zip"
+    },
+    "dependencies": [
+      "ItemChanger",
+      "PurenailCore",
+      "Randomizer 4",
+      "RandomizerCore"
+    ],
+    "repository": "https://github.com/dplochcoder/HollowKnight.Mimicpocalypse"
   },
   "Mirrored Hallownest": {
     "description": "Mirrors the entire Hollow Knight map",

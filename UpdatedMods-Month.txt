@@ -37,3 +37,5 @@ CharmPatch
 PurenailCore
 TreasureHunt
 TreasureHunt
+AccessRandomizer
+Breakable Wall Randomizer

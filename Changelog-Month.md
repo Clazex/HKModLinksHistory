@@ -21,6 +21,15 @@
 - Tags
   + Gameplay
 
+### Mimicpocalypse
+
+- Description: An add-on mod for the Grub Day 2025 Plando.
+- Dependencies
+  + ItemChanger
+  + PurenailCore
+  + Randomizer 4
+  + RandomizerCore
+
 ### Pure Vessel Skills
 
 - Description: Allow you to use Pure Vessel&#x27;s attacks
@@ -82,6 +91,10 @@
 
 ## Updated mods
 
+### AccessRandomizer
+
+- Version: 1.3.0.3 -> 1.3.0.4
+
 ### Archipelago
 
 - Version: 0.8.1.0 -> 0.9.0.0
@@ -103,7 +116,7 @@
 
 ### Breakable Wall Randomizer
 
-- Version: 4.0.0.2 -> 4.0.0.3
+- Version: 4.0.0.2 -> 4.0.0.4
 
 ### CharmPatch
 

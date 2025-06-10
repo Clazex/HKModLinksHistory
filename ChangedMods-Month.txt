@@ -45,3 +45,6 @@ TreasureHunt
 TreasureHunt
 GrubSpoiler
 Silksong Healing
+AccessRandomizer
+Breakable Wall Randomizer
+Mimicpocalypse
