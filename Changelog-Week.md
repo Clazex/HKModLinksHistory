@@ -37,16 +37,9 @@
 
 ### Breakable Wall Randomizer
 
-- Version: 4.0.0.3 -> 4.0.0.4
-
-### PurenailCore
-
-- Version: 1.3.1.0 -> 1.3.2.0
+- Version: 4.0.0.3 -> 4.0.0.5
 
 ### TreasureHunt
 
-- Version: 1.4.0.0 -> 1.4.1.0
-- Dependencies
-  + Added
-    - SFCore
+- Version: 1.4.0.2 -> 1.4.1.0
 

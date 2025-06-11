@@ -39,3 +39,4 @@ TreasureHunt
 TreasureHunt
 AccessRandomizer
 Breakable Wall Randomizer
+Breakable Wall Randomizer

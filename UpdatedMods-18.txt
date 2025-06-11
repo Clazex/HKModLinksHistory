@@ -1,0 +1,7 @@
+Archipelago
+Archipelago Map Mod
+MapChanger
+RCPathfinder
+Rando Vanilla Tracker
+RandoMapMod
+Vanilla Map Mod

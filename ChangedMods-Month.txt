@@ -48,3 +48,4 @@ Silksong Healing
 AccessRandomizer
 Breakable Wall Randomizer
 Mimicpocalypse
+Breakable Wall Randomizer
