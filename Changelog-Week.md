@@ -3,6 +3,22 @@
 
 ## New mods
 
+### BugPrince
+
+- Description: A Randomizer 4 connection which combines Blue Prince mechanics with Hollow Knight transition randomizer.
+- Dependencies
+  + Benchwarp
+  + ItemChanger
+  + MenuChanger
+  + PurenailCore
+  + Randomizer 4
+  + RandomizerCore
+  + SFCore
+- Integrations
+  + RandoSettingsManager
+- Tags
+  + Gameplay
+
 ### GrubSpoiler
 
 - Description: A mod to add Grubs to CondensedSpoilerLog.
@@ -39,7 +55,11 @@
 
 - Version: 4.0.0.3 -> 4.0.0.5
 
-### TreasureHunt
+### PurenailCore
 
-- Version: 1.4.0.2 -> 1.4.1.0
+- Version: 1.3.2.0 -> 1.4.0.0
+
+### Scattered and Lost
+
+- Version: 1.4.3.0 -> 1.4.3.1
 

@@ -7,3 +7,4 @@ Zen Charm
 GrubSpoiler
 Silksong Healing
 Mimicpocalypse
+BugPrince

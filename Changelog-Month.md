@@ -3,6 +3,22 @@
 
 ## New mods
 
+### BugPrince
+
+- Description: A Randomizer 4 connection which combines Blue Prince mechanics with Hollow Knight transition randomizer.
+- Dependencies
+  + Benchwarp
+  + ItemChanger
+  + MenuChanger
+  + PurenailCore
+  + Randomizer 4
+  + RandomizerCore
+  + SFCore
+- Integrations
+  + RandoSettingsManager
+- Tags
+  + Gameplay
+
 ### DivineFury
 
 - Description: This mod adds a new charm: Divine Fury. This charm sets the player&#x27;s health to 1, allowing Fury of the Fallen to be viable in Radiant Godhome battles.
@@ -120,10 +136,7 @@
 
 ### CharmPatch
 
-- Version: 1.2.1.0 -> 1.4.1.0
-- Dependencies
-  + Added
-    - HKMirror
+- Version: 1.3.0.0 -> 1.4.1.0
 
 ### Custom Knight
 
@@ -147,7 +160,7 @@
 
 ### Hivesong
 
-- Version: 1.0.0.0 -> 1.1.0.1
+- Version: 1.1.0.0 -> 1.1.0.1
 
 ### ItemChanger
 
@@ -184,7 +197,7 @@
 
 ### PurenailCore
 
-- Version: 1.3.0.0 -> 1.3.2.0
+- Version: 1.3.0.0 -> 1.4.0.0
 
 ### RCPathfinder
 
@@ -232,7 +245,7 @@
 
 ### Scattered and Lost
 
-- Version: 1.4.2.0 -> 1.4.3.0
+- Version: 1.4.2.0 -> 1.4.3.1
 
 ### Screensaver
 
