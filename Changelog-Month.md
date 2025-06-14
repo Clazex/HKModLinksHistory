@@ -132,7 +132,7 @@
 
 ### Breakable Wall Randomizer
 
-- Version: 4.0.0.2 -> 4.0.0.5
+- Version: 4.0.0.3 -> 4.0.0.5
 
 ### CharmPatch
 

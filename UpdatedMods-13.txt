@@ -1,0 +1,6 @@
+CharmPatch
+CustomLogicInjector
+ItemChanger
+Lore Master
+Randomizer 4
+RandomizerCore

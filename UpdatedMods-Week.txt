@@ -3,3 +3,4 @@ Breakable Wall Randomizer
 Breakable Wall Randomizer
 PurenailCore
 Scattered and Lost
+BugPrince
