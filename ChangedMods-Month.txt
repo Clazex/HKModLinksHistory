@@ -1,5 +1,3 @@
-DebugCharms
-DivineFury
 MagicUI
 Silksong-Start-Screen
 DivineFury
@@ -50,3 +48,8 @@ BugPrince
 PurenailCore
 Scattered and Lost
 BugPrince
+All4Love
+CharmPatch
+GarfieldStorage
+Satchel
+SpeedChanger

@@ -3,6 +3,15 @@
 
 ## New mods
 
+### All4Love
+
+- Description: Love 4 All.
+- Dependencies
+  + HKMirror
+  + Satchel
+- Tags
+  + Cosmetic
+
 ### BugPrince
 
 - Description: A Randomizer 4 connection which combines Blue Prince mechanics with Hollow Knight transition randomizer.
@@ -19,15 +28,11 @@
 - Tags
   + Gameplay
 
-### DivineFury
+### GarfieldStorage
 
-- Description: This mod adds a new charm: Divine Fury. This charm sets the player&#x27;s health to 1, allowing Fury of the Fallen to be viable in Radiant Godhome battles.
+- Description: This mod explains itself
 - Dependencies
-  + ItemChanger
-  + SFCore
   + Satchel
-- Tags
-  + Gameplay
 
 ### GrubSpoiler
 
@@ -136,7 +141,7 @@
 
 ### CharmPatch
 
-- Version: 1.3.0.0 -> 1.4.1.0
+- Version: 1.3.0.0 -> 1.4.1.1
 
 ### Custom Knight
 
@@ -146,9 +151,12 @@
 
 - Version: 1.1.2.0 -> 1.1.3.0
 
-### DebugCharms
+### DivineFury
 
-- Version: 1.0.0.0 -> 1.0.1.0
+- Version: 1.0.0.0 -> 1.0.0.1
+- Description
+  + Old: This mod adds a new charm: Divine Fury. This charm sets the player&#x27;s health to 1, allowing Fury of the Fallen to be viable in certain Godhome battles.
+  + New: This mod adds a new charm: Divine Fury. This charm sets the player&#x27;s health to 1, allowing Fury of the Fallen to be viable in Radiant Godhome battles.
 
 ### Flukemaster
 
@@ -241,7 +249,7 @@
 
 ### Satchel
 
-- Version: 0.9.2.0 -> 0.9.3.0
+- Version: 0.9.2.0 -> 0.9.4.0
 
 ### Scattered and Lost
 
@@ -250,6 +258,10 @@
 ### Screensaver
 
 - Version: 1.2.0.0 -> 1.2.0.1
+
+### SpeedChanger
+
+- Version: 1.0.3.0 -> 1.0.4.0
 
 ### TreasureHunt
 

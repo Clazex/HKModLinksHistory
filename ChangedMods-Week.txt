@@ -6,3 +6,8 @@ BugPrince
 PurenailCore
 Scattered and Lost
 BugPrince
+All4Love
+CharmPatch
+GarfieldStorage
+Satchel
+SpeedChanger

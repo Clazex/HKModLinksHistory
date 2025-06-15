@@ -193,6 +193,23 @@
       "mystelin"
     ]
   },
+  "All4Love": {
+    "description": "Love 4 All.",
+    "version": "1.0.0.0",
+    "links": {
+      "type": "universal",
+      "sha256": "9416E6BE4692D55DC76E03B7FB569068E20D2C7004C34A13627B1B88BE51C936",
+      "url": "https://github.com/PrashantMohta/All4Love/releases/download/v0/All4Love.zip"
+    },
+    "dependencies": [
+      "HKMirror",
+      "Satchel"
+    ],
+    "repository": "https://github.com/PrashantMohta/All4Love/",
+    "tags": [
+      "Cosmetic"
+    ]
+  },
   "AllHallownestEnhanced": {
     "description": "This is a mod that enhances the entire Hallownest. I spent 2.5 months to make it. It will take you to experience the joy of meeting the Hollow Knight first. I hope it can become a good meal replacement before the release of SilkSong.",
     "version": "2.5.0.0",
@@ -1202,11 +1219,11 @@
   },
   "CharmPatch": {
     "description": "This is a collection of small changes that I think improve the balance of certain charms in the game. Please view Readme for Charm Changer mod recommendations.",
-    "version": "1.4.1.0",
+    "version": "1.4.1.1",
     "links": {
       "type": "universal",
-      "sha256": "3D4C33D5D7ED075D175F2855E27192CD4662970B66063D304216A683D21657F8",
-      "url": "https://github.com/danielstegink/HollowKnight.CharmPatch/releases/download/1.4.1.0/CharmPatch.zip"
+      "sha256": "ADA3859EED2C2252B2E16940BED13EAF7328204ECC32C30EB6802BF396C17F80",
+      "url": "https://github.com/danielstegink/HollowKnight.CharmPatch/releases/download/1.4.1.1/CharmPatch.zip"
     },
     "dependencies": [
       "HKMirror",
@@ -3107,6 +3124,22 @@
     },
     "dependencies": [],
     "repository": "https://github.com/jngo102/HollowKnight.GODump/"
+  },
+  "GarfieldStorage": {
+    "description": "This mod explains itself",
+    "version": "1.0.0.0",
+    "links": {
+      "type": "universal",
+      "sha256": "79813426CE73B0DC9EA4F43A651A83AD911A1EBB86ECF6B0C1DD8D400CC42665",
+      "url": "https://github.com/TheMathGeek314/GarfieldStorage/releases/download/v1.0.0.0/GarfieldStorage.zip"
+    },
+    "dependencies": [
+      "Satchel"
+    ],
+    "repository": "https://github.com/TheMathGeek314/GarfieldStorage/",
+    "authors": [
+      "TheMathGeek_314"
+    ]
   },
   "GatheringSwarmAlwaysOn": {
     "description": "Makes it so geo is collected with Gathering Swarm, even if the charm isn't in your inventory.",
@@ -6926,11 +6959,11 @@
   },
   "Satchel": {
     "description": "A Satchel is a bag, this one has cool stuff for other mods to use.",
-    "version": "0.9.3.0",
+    "version": "0.9.4.0",
     "links": {
       "type": "universal",
-      "sha256": "B23BB2F83FD969F018DE76DAC93F297BBFA07BDBE17F065A566D00FE5E29F47B",
-      "url": "https://github.com/PrashantMohta/Satchel/releases/download/v0.9.3b/Satchel.zip"
+      "sha256": "8999115B7A8E1F3C3303CCB3FB5FB57D536830BCECD74B4B11D6BF145FDF4E08",
+      "url": "https://github.com/PrashantMohta/Satchel/releases/download/v0.9.4/Satchel.zip"
     },
     "dependencies": [],
     "repository": "https://github.com/PrashantMohta/Satchel/",
@@ -7471,11 +7504,11 @@
   },
   "SpeedChanger": {
     "description": "Speed up or slow down your game. A more customisable and user-friendly version of the Sanic mod.",
-    "version": "1.0.3.0",
+    "version": "1.0.4.0",
     "links": {
       "type": "universal",
-      "sha256": "F29583CC90037AD4DEE38532C536AA02BAAF5F927826DD1675E23A9C0A0A8A2D",
-      "url": "https://github.com/gGordey/HkSpeedUp/releases/download/1.0.3/SpeedChanger.zip"
+      "sha256": "C389FD9929B0FD938AAB6AF5B8485601A8CF983BE7B72219704EBAB97CA22D92",
+      "url": "https://github.com/gGordey/SpeedChanger/releases/download/1.0.4/SpeedChanger.zip"
     },
     "dependencies": [],
     "repository": "https://github.com/gGordey/HkSpeedUp",
