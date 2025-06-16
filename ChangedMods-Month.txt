@@ -1,4 +1,3 @@
-MagicUI
 Silksong-Start-Screen
 DivineFury
 Flukemaster
@@ -53,3 +52,7 @@ CharmPatch
 GarfieldStorage
 Satchel
 SpeedChanger
+Collision Glitch Remover
+Geo Remover
+Invulnerability Indicator
+Mask Remover

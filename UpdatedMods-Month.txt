@@ -1,4 +1,3 @@
-MagicUI
 DivineFury
 Flukemaster
 GodSeekerPlus
