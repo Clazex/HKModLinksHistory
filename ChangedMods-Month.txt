@@ -1,4 +1,3 @@
-Silksong-Start-Screen
 DivineFury
 Flukemaster
 GodSeekerPlus
@@ -56,3 +55,4 @@ Collision Glitch Remover
 Geo Remover
 Invulnerability Indicator
 Mask Remover
+Breakable Wall Randomizer

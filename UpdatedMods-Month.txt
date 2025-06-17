@@ -41,3 +41,4 @@ BugPrince
 CharmPatch
 Satchel
 SpeedChanger
+Breakable Wall Randomizer
