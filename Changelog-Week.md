@@ -12,19 +12,14 @@
 - Tags
   + Cosmetic
 
-### BugPrince
+### Architect
 
-- Description: A Randomizer 4 connection which combines Blue Prince mechanics with Hollow Knight transition randomizer.
+- Description: A mod to add platforms, enemies and more to change areas in the game with an in-game level editor.
 - Dependencies
-  + Benchwarp
-  + ItemChanger
-  + MenuChanger
-  + PurenailCore
-  + Randomizer 4
-  + RandomizerCore
-  + SFCore
+  + MagicUI
+  + Satchel
 - Integrations
-  + RandoSettingsManager
+  + HKMP
 - Tags
   + Gameplay
 
@@ -60,6 +55,10 @@
 - Tags
   + Utility
 
+### RainbowShinies
+
+- Description: Makes all shinies have a random color
+
 
 ## Updated mods
 
@@ -67,21 +66,21 @@
 
 - Version: 4.0.0.5 -> 4.0.0.6
 
+### BugPrince
+
+- Version: 1.0.0.0 -> 1.1.0.0
+
 ### CharmPatch
 
 - Version: 1.4.1.0 -> 1.4.1.1
 
-### PurenailCore
+### CustomBgm
 
-- Version: 1.3.2.0 -> 1.4.0.0
+- Version: 1.5.4.0 -> 1.5.5.0
 
 ### Satchel
 
 - Version: 0.9.3.0 -> 0.9.4.0
-
-### Scattered and Lost
-
-- Version: 1.4.3.0 -> 1.4.3.1
 
 ### SpeedChanger
 

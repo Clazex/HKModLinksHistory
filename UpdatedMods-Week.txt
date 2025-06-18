@@ -1,7 +1,6 @@
-PurenailCore
-Scattered and Lost
 BugPrince
 CharmPatch
 Satchel
 SpeedChanger
 Breakable Wall Randomizer
+CustomBgm

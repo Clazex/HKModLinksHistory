@@ -406,6 +406,30 @@
       "Utility"
     ]
   },
+  "Architect": {
+    "description": "A mod to add platforms, enemies and more to change areas in the game with an in-game level editor.",
+    "version": "1.0.0.0",
+    "links": {
+      "type": "universal",
+      "sha256": "84DCAFC19BD7A3F65B14A16D13A34C422F6E67C56C9334FF03C29C318EB071D4",
+      "url": "https://github.com/cometcake575/Architect/releases/download/Release/Architect.zip"
+    },
+    "dependencies": [
+      "MagicUI",
+      "Satchel"
+    ],
+    "repository": "https://github.com/cometcake575/Architect",
+    "issues": "https://github.com/cometcake575/Architect/issues",
+    "integrations": [
+      "HKMP"
+    ],
+    "tags": [
+      "Gameplay"
+    ],
+    "authors": [
+      "cometcake575"
+    ]
+  },
   "Archiv": {
     "description": "Something is amiss in Teacher's Archives",
     "version": "1.0.0.0",
@@ -1710,11 +1734,11 @@
   },
   "CustomBgm": {
     "description": "Allows customization of background music. See its readme for a how-to.",
-    "version": "1.5.4.0",
+    "version": "1.5.5.0",
     "links": {
       "type": "universal",
-      "sha256": "F0715A32FDAAD6495329536A0415CBD39297588ADD2EAE072BB7687AF882751C",
-      "url": "https://github.com/SFGrenade/CustomBgm/releases/download/v1.5.4.0/CustomBgm.zip"
+      "sha256": "EED2320FE6A4A0836D873C4C423A4F57750A93312A6D220459514D27373AB4E9",
+      "url": "https://github.com/SFGrenade/CustomBgm/releases/download/v1.5.5.0/CustomBgm.zip"
     },
     "dependencies": [],
     "repository": "https://github.com/SFGrenade/CustomBgm/",
@@ -6447,6 +6471,17 @@
       "Randomizer 4"
     ],
     "repository": "https://github.com/dpinela/RainbowEggs/"
+  },
+  "RainbowShinies": {
+    "description": "Makes all shinies have a random color",
+    "version": "1.0.0.0",
+    "links": {
+      "type": "universal",
+      "sha256": "8EE2F97D80E553F06C7DC1FA6A45B8C273B1F11805942192F11E56BB0C64F635",
+      "url": "https://github.com/dpinela/RainbowShinies/releases/download/v1.0/RainbowShinies.zip"
+    },
+    "dependencies": [],
+    "repository": "https://github.com/dpinela/RainbowShinies"
   },
   "Rando Vanilla Tracker": {
     "description": "Randomizer 4 add-on for tracking non-randomized items.",

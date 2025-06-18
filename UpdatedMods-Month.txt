@@ -42,3 +42,4 @@ CharmPatch
 Satchel
 SpeedChanger
 Breakable Wall Randomizer
+CustomBgm

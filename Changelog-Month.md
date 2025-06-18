@@ -12,6 +12,17 @@
 - Tags
   + Cosmetic
 
+### Architect
+
+- Description: A mod to add platforms, enemies and more to change areas in the game with an in-game level editor.
+- Dependencies
+  + MagicUI
+  + Satchel
+- Integrations
+  + HKMP
+- Tags
+  + Gameplay
+
 ### BugPrince
 
 - Description: A Randomizer 4 connection which combines Blue Prince mechanics with Hollow Knight transition randomizer.
@@ -85,6 +96,10 @@
   + SFCore
 - Tags
   + Gameplay
+
+### RainbowShinies
+
+- Description: Makes all shinies have a random color
 
 ### RandoMapCore
 
@@ -166,6 +181,10 @@
 ### Custom Knight
 
 - Version: 3.1.0.0 -> 3.5.0.0
+
+### CustomBgm
+
+- Version: 1.5.4.0 -> 1.5.5.0
 
 ### CustomLogicInjector
 

@@ -1,7 +1,4 @@
 BugPrince
-PurenailCore
-Scattered and Lost
-BugPrince
 All4Love
 CharmPatch
 GarfieldStorage
@@ -12,3 +9,6 @@ Geo Remover
 Invulnerability Indicator
 Mask Remover
 Breakable Wall Randomizer
+Architect
+CustomBgm
+RainbowShinies
