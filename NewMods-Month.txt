@@ -14,3 +14,5 @@ Invulnerability Indicator
 Mask Remover
 Architect
 RainbowShinies
+GloriousGrimmMusic
+ScreenResolution

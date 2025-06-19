@@ -4196,9 +4196,9 @@ Enjoy!</Description>
     <Manifest>
         <Name>MagicUI</Name>
         <Description>A core mod to help other mods build UIs. Does nothing on its own.</Description>
-        <Version>1.9.9268.40304</Version>
-        <Link SHA256="AA1771974566671E1110F2E372507CB7604BF51D1227BA6D08D7F2DDFC242BEC">
-            <![CDATA[https://github.com/BadMagic100/HollowKnight.MagicUI/releases/download/v1.9.9268.40304/MagicUI.zip]]>
+        <Version>1.10.9277.8364</Version>
+        <Link SHA256="EED36275276EA1BC5E8538A7E77A70D4DC47E13E7938585E51575D4D1D946D05">
+            <![CDATA[https://github.com/BadMagic100/HollowKnight.MagicUI/releases/download/v1.10.9277.8364/MagicUI.zip]]>
         </Link>
         <Dependencies />
         <Repository>
@@ -4496,8 +4496,8 @@ Enjoy!</Description>
         <Name>Satchel</Name>
         <Description>A Satchel is a bag, this one has cool stuff for other mods to use.</Description>
         <Version>0.9.3.0</Version>
-        <Link SHA256="472a96d87e1a23945d067b5e917fa6884b6b9d81cdf1c7e5f11c1764e43d39db">
-            <![CDATA[https://github.com/PrashantMohta/Satchel/releases/download/v0.9.3r/Satchel.zip]]>
+        <Link SHA256="b23bb2f83fd969f018de76dac93f297bbfa07bdbe17f065a566d00fe5e29f47b">
+            <![CDATA[https://github.com/PrashantMohta/Satchel/releases/download/v0.9.3b/Satchel.zip]]>
         </Link>
         <Dependencies />
         <Repository>
@@ -8710,8 +8710,8 @@ Enjoy!</Description>
     <Manifest>
         <Name>Screensaver</Name>
         <Description>Adds a screensaver untop of the game.</Description>
-        <Version>1.2.0.0</Version>
-        <Link SHA256="64F21CADFAE8317963309315E381566CEEFDCA194DCA0E4130545A12AB65DFCD"><![CDATA[https://github.com/peekagrub/Screensaver/releases/download/1.2.0.0/Screensaver.zip]]></Link>
+        <Version>1.2.0.1</Version>
+        <Link SHA256="FB56115EFF2D2C400E4FC40A3BD996A28A0F381A8AEFCC4DB1E6CA8064290370"><![CDATA[https://github.com/peekagrub/Screensaver/releases/download/1.2.0.1/Screensaver.zip]]></Link>
         <Dependencies>
             <Dependency>Satchel</Dependency>
         </Dependencies>
@@ -8845,9 +8845,9 @@ Enjoy!</Description>
     <Manifest>
         <Name>RandoMapCore</Name>
         <Description>A library for RandoMapMod and ArchipelagoMapMod.</Description>
-        <Version>1.0.10.0</Version>
-        <Link SHA256="A4951AA8FAF980C865CD1732AAD183333301FB133811E66C7712CC45FD4A7DB3">
-            <![CDATA[https://github.com/syyePhenomenol/RandoMapCore/releases/download/v1.0.10/RandoMapCore.zip]]>
+        <Version>1.0.12.0</Version>
+        <Link SHA256="30F18BA26CCC8A1F84536EDB160CBCD840727619A9736EEA526AC1545B6F7B16">
+            <![CDATA[https://github.com/syyePhenomenol/RandoMapCore/releases/download/v1.0.12/RandoMapCore.zip]]>
         </Link>
         <Dependencies>
             <Dependency>ConnectionMetadataInjector</Dependency>

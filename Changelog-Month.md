@@ -59,6 +59,12 @@
 - Tags
   + Utility
 
+### GloriousGrimmMusic
+
+- Description: Listen to the more intense layer of Grimm&#x27;s theme for the whole fight
+- Dependencies
+  + Satchel
+
 ### GrubSpoiler
 
 - Description: A mod to add Grubs to CondensedSpoilerLog.
@@ -118,6 +124,15 @@
   + DebugMod
 - Tags
   + Library
+
+### ScreenResolution
+
+- Description: Adds more available screen resolution options.
+- Dependencies
+  + SFCore
+  + Satchel
+- Tags
+  + Utility
 
 ### Silksong Healing
 

@@ -59,3 +59,5 @@ Breakable Wall Randomizer
 Architect
 CustomBgm
 RainbowShinies
+GloriousGrimmMusic
+ScreenResolution

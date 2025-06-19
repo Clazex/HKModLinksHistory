@@ -3328,6 +3328,22 @@
       "Mulhima"
     ]
   },
+  "GloriousGrimmMusic": {
+    "description": "Listen to the more intense layer of Grimm's theme for the whole fight",
+    "version": "1.0.0.0",
+    "links": {
+      "type": "universal",
+      "sha256": "E8D681555E3A93685C6DD210B19D3FB03E95AF111F3AD8F31A334DC32F8010F6",
+      "url": "https://github.com/TheMathGeek314/GloriousGrimmMusic/releases/download/v1.0.0.0/GloriousGrimmMusic.zip"
+    },
+    "dependencies": [
+      "Satchel"
+    ],
+    "repository": "https://github.com/TheMathGeek314/GloriousGrimmMusic/",
+    "authors": [
+      "TheMathGeek_314"
+    ]
+  },
   "God Soul": {
     "description": "Makes the game really, really hard",
     "version": "1.5.0.0",
@@ -7137,6 +7153,27 @@
     ],
     "repository": "https://github.com/SFGrenade/ScenePainter/",
     "issues": "https://github.com/SFGrenade/ScenePainter/issues/",
+    "tags": [
+      "Utility"
+    ],
+    "authors": [
+      "SFGrenade"
+    ]
+  },
+  "ScreenResolution": {
+    "description": "Adds more available screen resolution options.",
+    "version": "1.5.0.0",
+    "links": {
+      "type": "universal",
+      "sha256": "F6D78D2A01D6D9C9D6F1050F122BCFFD579405B728DA1DFFF54008D131B38153",
+      "url": "https://github.com/SFGrenade/ScreenResolution/releases/download/v1.5.0.0/ScreenResolution.zip"
+    },
+    "dependencies": [
+      "SFCore",
+      "Satchel"
+    ],
+    "repository": "https://github.com/SFGrenade/ScreenResolution/",
+    "issues": "https://github.com/SFGrenade/ScreenResolution/issues/",
     "tags": [
       "Utility"
     ],

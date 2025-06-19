@@ -43,6 +43,12 @@
 - Tags
   + Utility
 
+### GloriousGrimmMusic
+
+- Description: Listen to the more intense layer of Grimm&#x27;s theme for the whole fight
+- Dependencies
+  + Satchel
+
 ### Invulnerability Indicator
 
 - Description: Adds a visual indicator when the player character is invulnerable outside of screen transitions, invincibility, and invulnerability that is already visually indicated.
@@ -58,6 +64,15 @@
 ### RainbowShinies
 
 - Description: Makes all shinies have a random color
+
+### ScreenResolution
+
+- Description: Adds more available screen resolution options.
+- Dependencies
+  + SFCore
+  + Satchel
+- Tags
+  + Utility
 
 
 ## Updated mods
