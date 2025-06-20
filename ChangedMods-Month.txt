@@ -1,7 +1,3 @@
-DivineFury
-Flukemaster
-GodSeekerPlus
-Hivesong
 Archipelago
 Archipelago Map Mod
 MapChanger
@@ -61,3 +57,6 @@ CustomBgm
 RainbowShinies
 GloriousGrimmMusic
 ScreenResolution
+RCPathfinder
+RandoMapCore
+RandoMapMod

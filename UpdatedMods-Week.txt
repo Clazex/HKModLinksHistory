@@ -1,6 +1,8 @@
-BugPrince
 CharmPatch
 Satchel
 SpeedChanger
 Breakable Wall Randomizer
 CustomBgm
+RCPathfinder
+RandoMapCore
+RandoMapMod

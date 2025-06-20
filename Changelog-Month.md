@@ -205,25 +205,6 @@
 
 - Version: 1.1.2.0 -> 1.1.3.0
 
-### DivineFury
-
-- Version: 1.0.0.0 -> 1.0.0.1
-- Description
-  + Old: This mod adds a new charm: Divine Fury. This charm sets the player&#x27;s health to 1, allowing Fury of the Fallen to be viable in certain Godhome battles.
-  + New: This mod adds a new charm: Divine Fury. This charm sets the player&#x27;s health to 1, allowing Fury of the Fallen to be viable in Radiant Godhome battles.
-
-### Flukemaster
-
-- Version: 1.0.0.0 -> 1.0.0.1
-
-### GodSeekerPlus
-
-- Version: 0.24.1.0 -> 0.25.0.0
-
-### Hivesong
-
-- Version: 1.1.0.0 -> 1.1.0.1
-
 ### ItemChanger
 
 - Version: 2.1.4.0 -> 2.1.5.0
@@ -263,7 +244,7 @@
 
 ### RCPathfinder
 
-- Version: 1.3.3.0 -> 1.4.2.0
+- Version: 1.3.3.0 -> 1.4.5.0
 
 ### Rando Vanilla Tracker
 
@@ -271,7 +252,7 @@
 
 ### RandoMapMod
 
-- Version: 3.5.8.0 -> 3.6.5.0
+- Version: 3.5.8.0 -> 3.6.6.0
 - Dependencies
   + Removed
     - ConnectionMetadataInjector

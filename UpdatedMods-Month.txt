@@ -1,7 +1,3 @@
-DivineFury
-Flukemaster
-GodSeekerPlus
-Hivesong
 Archipelago
 Archipelago Map Mod
 MapChanger
@@ -43,3 +39,6 @@ Satchel
 SpeedChanger
 Breakable Wall Randomizer
 CustomBgm
+RCPathfinder
+RandoMapCore
+RandoMapMod

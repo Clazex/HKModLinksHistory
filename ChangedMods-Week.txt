@@ -1,4 +1,3 @@
-BugPrince
 All4Love
 CharmPatch
 GarfieldStorage
@@ -14,3 +13,6 @@ CustomBgm
 RainbowShinies
 GloriousGrimmMusic
 ScreenResolution
+RCPathfinder
+RandoMapCore
+RandoMapMod
