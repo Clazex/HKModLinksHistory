@@ -60,3 +60,6 @@ ScreenResolution
 RCPathfinder
 RandoMapCore
 RandoMapMod
+Archipelago Map Mod
+ConfigurableMaskDamage
+CustomBgm

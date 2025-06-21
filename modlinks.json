@@ -382,11 +382,11 @@
   },
   "Archipelago Map Mod": {
     "description": "A conversion of RandoMapMod that works with the Archipelago multiworld randomizer",
-    "version": "3.0.1.0",
+    "version": "3.1.0.0",
     "links": {
       "type": "universal",
-      "sha256": "FB849FC3DCD2C13894287AC38C53DFC9BBC35D675F531630C09114A399E1A3A7",
-      "url": "https://github.com/ArchipelagoMW-HollowKnight/Archipelago.APMapMod/releases/download/v3.0.1/Archipelago.Map.Mod.zip"
+      "sha256": "45B4FDDB12C3A9AAC52446F668866CF7592265DC0849184389154293291973B4",
+      "url": "https://github.com/ArchipelagoMW-HollowKnight/Archipelago.APMapMod/releases/download/v3.1.0/Archipelago.Map.Mod.zip"
     },
     "dependencies": [
       "Archipelago",
@@ -1428,6 +1428,23 @@
     ],
     "repository": "https://github.com/flibber-hk/HollowKnight.CondensedSpoilerLogger/"
   },
+  "ConfigurableMaskDamage": {
+    "description": "Changes the amount of damage dealt to the knight",
+    "version": "1.0.0.0",
+    "links": {
+      "type": "universal",
+      "sha256": "CBEF978A7E71966F91399ED122EE598CE613F2F8A0CFF7CFE10F4F530E98C204",
+      "url": "https://github.com/F1NS3N/ConfigurableMaskDamage/releases/download/ConfigurableMaskDamage-v1.0.0/ConfigurableMaskDamage.zip"
+    },
+    "dependencies": [],
+    "repository": "https://github.com/F1NS3N/ConfigurableMaskDamage",
+    "tags": [
+      "Gameplay"
+    ],
+    "authors": [
+      "FIN"
+    ]
+  },
   "ConnectionMetadataInjector": {
     "description": "A core mod to allow randomizer-supplemental mods like RandoStats and MapModS to get custom metadata from connections without requiring hard dependencies.",
     "version": "2.2.8484.33350",
@@ -1734,11 +1751,11 @@
   },
   "CustomBgm": {
     "description": "Allows customization of background music. See its readme for a how-to.",
-    "version": "1.5.5.0",
+    "version": "1.5.5.1",
     "links": {
       "type": "universal",
-      "sha256": "EED2320FE6A4A0836D873C4C423A4F57750A93312A6D220459514D27373AB4E9",
-      "url": "https://github.com/SFGrenade/CustomBgm/releases/download/v1.5.5.0/CustomBgm.zip"
+      "sha256": "99E357CC7049FA686990A455764EB7BABE582BCA7F19010415B6C3C70B2FD26B",
+      "url": "https://github.com/SFGrenade/CustomBgm/releases/download/v1.5.5.1/CustomBgm.zip"
     },
     "dependencies": [],
     "repository": "https://github.com/SFGrenade/CustomBgm/",

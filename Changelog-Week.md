@@ -3,15 +3,6 @@
 
 ## New mods
 
-### All4Love
-
-- Description: Love 4 All.
-- Dependencies
-  + HKMirror
-  + Satchel
-- Tags
-  + Cosmetic
-
 ### Architect
 
 - Description: A mod to add platforms, enemies and more to change areas in the game with an in-game level editor.
@@ -31,11 +22,11 @@
 - Tags
   + Utility
 
-### GarfieldStorage
+### ConfigurableMaskDamage
 
-- Description: This mod explains itself
-- Dependencies
-  + Satchel
+- Description: Changes the amount of damage dealt to the knight
+- Tags
+  + Gameplay
 
 ### Geo Remover
 
@@ -77,17 +68,17 @@
 
 ## Updated mods
 
+### Archipelago Map Mod
+
+- Version: 3.0.1.0 -> 3.1.0.0
+
 ### Breakable Wall Randomizer
 
 - Version: 4.0.0.5 -> 4.0.0.6
 
-### CharmPatch
-
-- Version: 1.4.1.0 -> 1.4.1.1
-
 ### CustomBgm
 
-- Version: 1.5.4.0 -> 1.5.5.0
+- Version: 1.5.4.0 -> 1.5.5.1
 
 ### RCPathfinder
 
@@ -100,12 +91,4 @@
 ### RandoMapMod
 
 - Version: 3.6.5.0 -> 3.6.6.0
-
-### Satchel
-
-- Version: 0.9.3.0 -> 0.9.4.0
-
-### SpeedChanger
-
-- Version: 1.0.3.0 -> 1.0.4.0
 

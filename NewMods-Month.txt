@@ -16,3 +16,4 @@ Architect
 RainbowShinies
 GloriousGrimmMusic
 ScreenResolution
+ConfigurableMaskDamage

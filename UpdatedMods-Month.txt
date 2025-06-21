@@ -42,3 +42,5 @@ CustomBgm
 RCPathfinder
 RandoMapCore
 RandoMapMod
+Archipelago Map Mod
+CustomBgm

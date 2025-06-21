@@ -1,8 +1,7 @@
-CharmPatch
-Satchel
-SpeedChanger
 Breakable Wall Randomizer
 CustomBgm
 RCPathfinder
 RandoMapCore
 RandoMapMod
+Archipelago Map Mod
+CustomBgm

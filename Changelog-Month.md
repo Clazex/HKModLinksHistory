@@ -47,6 +47,12 @@
 - Tags
   + Utility
 
+### ConfigurableMaskDamage
+
+- Description: Changes the amount of damage dealt to the knight
+- Tags
+  + Gameplay
+
 ### GarfieldStorage
 
 - Description: This mod explains itself
@@ -172,7 +178,7 @@
 
 ### Archipelago Map Mod
 
-- Version: 2.3.1.0 -> 3.0.1.0
+- Version: 2.3.1.0 -> 3.1.0.0
 - Dependencies
   + Removed
     - ConnectionMetadataInjector
@@ -199,7 +205,7 @@
 
 ### CustomBgm
 
-- Version: 1.5.4.0 -> 1.5.5.0
+- Version: 1.5.4.0 -> 1.5.5.1
 
 ### CustomLogicInjector
 
