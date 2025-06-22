@@ -1,25 +1,17 @@
 # Changelog
 
 
-## New mods
-
-### Smart Nail
-
-- Description: Qol mod for RandoPlus,which auto-upgrades your nail in Godhome and in dream bosses fights.Doesn&#x27;t work with combat or curse rando.
-- Dependencies
-  + ItemChanger
-  + RandoPlus
-- Tags
-  + Utility
-
-
 ## Updated mods
 
-### Custom Knight
+### MagicUI
 
-- Version: 3.1.0.0 -> 3.5.0.0
+- Version: 1.9.9268.40304 -> 1.10.9277.8364
 
-### Satchel
+### RandoMapCore
 
-- Version: 0.9.2.0 -> 0.9.3.0
+- Version: 1.0.10.0 -> 1.0.12.0
+
+### Screensaver
+
+- Version: 1.2.0.0 -> 1.2.0.1
 

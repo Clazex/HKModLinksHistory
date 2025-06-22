@@ -1430,13 +1430,15 @@
   },
   "ConfigurableMaskDamage": {
     "description": "Changes the amount of damage dealt to the knight",
-    "version": "1.0.0.0",
+    "version": "1.1.0.0",
     "links": {
       "type": "universal",
-      "sha256": "CBEF978A7E71966F91399ED122EE598CE613F2F8A0CFF7CFE10F4F530E98C204",
-      "url": "https://github.com/F1NS3N/ConfigurableMaskDamage/releases/download/ConfigurableMaskDamage-v1.0.0/ConfigurableMaskDamage.zip"
+      "sha256": "6F63DEDFDD5BF695A440D4AAD5DE1EE7D29E707F55A46684CE2C9448609381B3",
+      "url": "https://github.com/F1NS3N/ConfigurableMaskDamage/releases/download/ConfigurableMaskDamage-v1.1.0/ConfigurableMaskDamage.zip"
     },
-    "dependencies": [],
+    "dependencies": [
+      "Satchel"
+    ],
     "repository": "https://github.com/F1NS3N/ConfigurableMaskDamage",
     "tags": [
       "Gameplay"
@@ -5237,11 +5239,11 @@
   },
   "MilliGolf": {
     "description": "An 18-hole course featuring Millibelle the Golf Ball",
-    "version": "1.2.0.3",
+    "version": "1.3.0.0",
     "links": {
       "type": "universal",
-      "sha256": "B905597200F84E73ECB4137CED471ABECAFAF9085FBBDF23C893425AB45E5BE2",
-      "url": "https://github.com/TheMathGeek314/MilliGolf/releases/download/v1.2.0.3/MilliGolf.zip"
+      "sha256": "61D4E5778C7493EB8AF82F64B25F37F0983276DE53A9E1E485AFEF7851CD06A6",
+      "url": "https://github.com/TheMathGeek314/MilliGolf/releases/download/v1.3.0.0/MilliGolf.zip"
     },
     "dependencies": [
       "Satchel"
@@ -5252,6 +5254,7 @@
       "Randomizer 4"
     ],
     "authors": [
+      "PimpasPimpinela",
       "TheMathGeek_314",
       "nerthul11"
     ]
@@ -7543,11 +7546,11 @@
   },
   "Smart Nail": {
     "description": "Qol mod for RandoPlus,which auto-upgrades your nail in Godhome and in dream bosses fights.Doesn't work with combat or curse rando.",
-    "version": "1.3.0.0",
+    "version": "1.3.5.5",
     "links": {
       "type": "universal",
-      "sha256": "D7E46371D52DF323184D334BC845545367E1A044A52F3475D0C83DC15ABD016C",
-      "url": "https://github.com/Roma-337/SmartNail/releases/download/v1.3.0/SmartNail.zip"
+      "sha256": "51D44499C23B281E4B62C328C393F0B62A0DA4C9FC542CECCDECD9BC84FADBFE",
+      "url": "https://github.com/Roma-337/SmartNail/releases/download/v1.3.5.5/SmartNail.zip"
     },
     "dependencies": [
       "ItemChanger",

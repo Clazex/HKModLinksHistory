@@ -44,3 +44,6 @@ RandoMapCore
 RandoMapMod
 Archipelago Map Mod
 CustomBgm
+ConfigurableMaskDamage
+MilliGolf
+Smart Nail

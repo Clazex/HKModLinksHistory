@@ -50,6 +50,8 @@
 ### ConfigurableMaskDamage
 
 - Description: Changes the amount of damage dealt to the knight
+- Dependencies
+  + Satchel
 - Tags
   + Gameplay
 
@@ -239,6 +241,10 @@
 ### MapSyncMod
 
 - Version: 1.3.2.0 -> 1.3.3.0
+
+### MilliGolf
+
+- Version: 1.2.0.3 -> 1.3.0.0
 
 ### MoreDoors
 

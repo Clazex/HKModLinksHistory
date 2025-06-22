@@ -1,7 +1,3 @@
-Collision Glitch Remover
-Geo Remover
-Invulnerability Indicator
-Mask Remover
 Breakable Wall Randomizer
 Architect
 CustomBgm
@@ -14,3 +10,6 @@ RandoMapMod
 Archipelago Map Mod
 ConfigurableMaskDamage
 CustomBgm
+ConfigurableMaskDamage
+MilliGolf
+Smart Nail
