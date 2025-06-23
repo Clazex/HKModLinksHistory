@@ -382,11 +382,11 @@
   },
   "Archipelago Map Mod": {
     "description": "A conversion of RandoMapMod that works with the Archipelago multiworld randomizer",
-    "version": "3.1.0.0",
+    "version": "3.1.1.0",
     "links": {
       "type": "universal",
-      "sha256": "45B4FDDB12C3A9AAC52446F668866CF7592265DC0849184389154293291973B4",
-      "url": "https://github.com/ArchipelagoMW-HollowKnight/Archipelago.APMapMod/releases/download/v3.1.0/Archipelago.Map.Mod.zip"
+      "sha256": "65A6132209949B3B5F69D7233C117FC802CBEAA76C51CF684B97855D7462D481",
+      "url": "https://github.com/ArchipelagoMW-HollowKnight/Archipelago.APMapMod/releases/download/v3.1.1/Archipelago.Map.Mod.zip"
     },
     "dependencies": [
       "Archipelago",
@@ -408,11 +408,11 @@
   },
   "Architect": {
     "description": "A mod to add platforms, enemies and more to change areas in the game with an in-game level editor.",
-    "version": "1.0.0.0",
+    "version": "1.1.0.0",
     "links": {
       "type": "universal",
-      "sha256": "84DCAFC19BD7A3F65B14A16D13A34C422F6E67C56C9334FF03C29C318EB071D4",
-      "url": "https://github.com/cometcake575/Architect/releases/download/Release/Architect.zip"
+      "sha256": "3DCE906EE1E2153866AED4C3EDB354C74BADA819AD026085D475B533EA29C278",
+      "url": "https://github.com/cometcake575/Architect/releases/download/1.1.0.0/Architect.zip"
     },
     "dependencies": [
       "MagicUI",
@@ -1430,11 +1430,11 @@
   },
   "ConfigurableMaskDamage": {
     "description": "Changes the amount of damage dealt to the knight",
-    "version": "1.1.0.0",
+    "version": "1.1.1.0",
     "links": {
       "type": "universal",
-      "sha256": "6F63DEDFDD5BF695A440D4AAD5DE1EE7D29E707F55A46684CE2C9448609381B3",
-      "url": "https://github.com/F1NS3N/ConfigurableMaskDamage/releases/download/ConfigurableMaskDamage-v1.1.0/ConfigurableMaskDamage.zip"
+      "sha256": "B60AFA25359414551686986EB33164B6EE439638A869C6FED82EEC306EB269A8",
+      "url": "https://github.com/F1NS3N/ConfigurableMaskDamage/releases/download/ConfigurableMaskDamage-v1.1.1/ConfigurableMaskDamage.zip"
     },
     "dependencies": [
       "Satchel"

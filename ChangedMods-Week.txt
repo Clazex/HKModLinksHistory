@@ -1,4 +1,3 @@
-Breakable Wall Randomizer
 Architect
 CustomBgm
 RainbowShinies
@@ -13,3 +12,6 @@ CustomBgm
 ConfigurableMaskDamage
 MilliGolf
 Smart Nail
+Archipelago Map Mod
+Architect
+ConfigurableMaskDamage

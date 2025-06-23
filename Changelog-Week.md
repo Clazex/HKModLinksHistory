@@ -46,11 +46,7 @@
 
 ### Archipelago Map Mod
 
-- Version: 3.0.1.0 -> 3.1.0.0
-
-### Breakable Wall Randomizer
-
-- Version: 4.0.0.5 -> 4.0.0.6
+- Version: 3.0.1.0 -> 3.1.1.0
 
 ### CustomBgm
 

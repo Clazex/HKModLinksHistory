@@ -115,24 +115,6 @@
 
 - Description: Makes all shinies have a random color
 
-### RandoMapCore
-
-- Description: A library for RandoMapMod and ArchipelagoMapMod.
-- Dependencies
-  + ConnectionMetadataInjector
-  + ItemChanger
-  + MagicUI
-  + MapChanger
-  + RCPathfinder
-  + RandomizerCore
-  + RandomizerCore.Json
-- Integrations
-  + AdditionalMaps
-  + Benchwarp
-  + DebugMod
-- Tags
-  + Library
-
 ### ScreenResolution
 
 - Description: Adds more available screen resolution options.
@@ -174,24 +156,9 @@
 
 - Version: 1.3.0.3 -> 1.3.0.4
 
-### Archipelago
-
-- Version: 0.8.1.0 -> 0.9.0.0
-
 ### Archipelago Map Mod
 
-- Version: 2.3.1.0 -> 3.1.0.0
-- Dependencies
-  + Removed
-    - ConnectionMetadataInjector
-    - MagicUI
-    - RCPathfinder
-    - Satchel
-  + Added
-    - RandoMapCore
-- Integrations
-  + Added
-    - BenchRando
+- Version: 3.0.1.0 -> 3.1.1.0
 
 ### Breakable Wall Randomizer
 
@@ -228,16 +195,6 @@
 
 - Version: 1.9.9268.40304 -> 1.10.9277.8364
 
-### MapChanger
-
-- Version: 1.2.2.0 -> 1.3.8.0
-- Dependencies
-  + Added
-    - Satchel
-- Integrations
-  + Added
-    - DebugMod
-
 ### MapSyncMod
 
 - Version: 1.3.2.0 -> 1.3.3.0
@@ -256,27 +213,15 @@
 
 ### RCPathfinder
 
-- Version: 1.3.3.0 -> 1.4.5.0
+- Version: 1.4.2.0 -> 1.4.5.0
 
-### Rando Vanilla Tracker
+### RandoMapCore
 
-- Version: 1.2.4.0 -> 1.2.5.0
+- Version: 1.0.10.0 -> 1.0.14.0
 
 ### RandoMapMod
 
-- Version: 3.5.8.0 -> 3.6.6.0
-- Dependencies
-  + Removed
-    - ConnectionMetadataInjector
-    - MagicUI
-    - RCPathfinder
-    - Vasi
-  + Added
-    - RandoMapCore
-- Integrations
-  + Added
-    - DebugMod
-    - RandoSettingsManager
+- Version: 3.6.5.0 -> 3.6.6.0
 
 ### RandoPlus
 
@@ -316,8 +261,4 @@
 - Dependencies
   + Added
     - SFCore
-
-### Vanilla Map Mod
-
-- Version: 2.1.1.0 -> 2.1.5.0
 
