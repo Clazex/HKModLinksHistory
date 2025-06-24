@@ -1,6 +1,3 @@
-Architect
-CustomBgm
-RainbowShinies
 GloriousGrimmMusic
 ScreenResolution
 RCPathfinder
@@ -15,3 +12,7 @@ Smart Nail
 Archipelago Map Mod
 Architect
 ConfigurableMaskDamage
+ExaltationExpanded
+MapChanger
+RandoMapCore
+RandoMapMod

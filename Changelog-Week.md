@@ -3,17 +3,6 @@
 
 ## New mods
 
-### Architect
-
-- Description: A mod to add platforms, enemies and more to change areas in the game with an in-game level editor.
-- Dependencies
-  + MagicUI
-  + Satchel
-- Integrations
-  + HKMP
-- Tags
-  + Gameplay
-
 ### ConfigurableMaskDamage
 
 - Description: Changes the amount of damage dealt to the knight
@@ -22,15 +11,22 @@
 - Tags
   + Gameplay
 
+### ExaltationExpanded
+
+- Description: A fan-made supplement to the Exaltation mod created by Xhuis (and ported/updated by Théodore).
+- Dependencies
+  + Exaltation
+  + HKMirror
+  + ItemChanger
+  + SFCore
+- Tags
+  + Gameplay
+
 ### GloriousGrimmMusic
 
 - Description: Listen to the more intense layer of Grimm&#x27;s theme for the whole fight
 - Dependencies
   + Satchel
-
-### RainbowShinies
-
-- Description: Makes all shinies have a random color
 
 ### ScreenResolution
 
@@ -48,9 +44,17 @@
 
 - Version: 3.0.1.0 -> 3.1.1.0
 
+### Architect
+
+- Version: 1.0.0.0 -> 1.1.0.0
+
 ### CustomBgm
 
-- Version: 1.5.4.0 -> 1.5.5.1
+- Version: 1.5.5.0 -> 1.5.5.1
+
+### MapChanger
+
+- Version: 1.3.8.0 -> 1.3.9.0
 
 ### MilliGolf
 
@@ -62,11 +66,11 @@
 
 ### RandoMapCore
 
-- Version: 1.0.12.0 -> 1.0.14.0
+- Version: 1.0.12.0 -> 1.0.15.0
 
 ### RandoMapMod
 
-- Version: 3.6.5.0 -> 3.6.6.0
+- Version: 3.6.5.0 -> 3.6.7.0
 
 ### Smart Nail
 

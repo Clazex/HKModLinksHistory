@@ -1,4 +1,3 @@
-CustomBgm
 RCPathfinder
 RandoMapCore
 RandoMapMod
@@ -10,3 +9,6 @@ Smart Nail
 Archipelago Map Mod
 Architect
 ConfigurableMaskDamage
+MapChanger
+RandoMapCore
+RandoMapMod

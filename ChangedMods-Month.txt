@@ -1,6 +1,3 @@
-Custom Knight
-Satchel
-Smart Nail
 MagicUI
 RandoMapCore
 Screensaver
@@ -61,3 +58,7 @@ Smart Nail
 Archipelago Map Mod
 Architect
 ConfigurableMaskDamage
+ExaltationExpanded
+MapChanger
+RandoMapCore
+RandoMapMod

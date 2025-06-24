@@ -55,6 +55,17 @@
 - Tags
   + Gameplay
 
+### ExaltationExpanded
+
+- Description: A fan-made supplement to the Exaltation mod created by Xhuis (and ported/updated by Théodore).
+- Dependencies
+  + Exaltation
+  + HKMirror
+  + ItemChanger
+  + SFCore
+- Tags
+  + Gameplay
+
 ### GarfieldStorage
 
 - Description: This mod explains itself
@@ -132,15 +143,6 @@
 - Tags
   + Gameplay
 
-### Smart Nail
-
-- Description: Qol mod for RandoPlus,which auto-upgrades your nail in Godhome and in dream bosses fights.Doesn&#x27;t work with combat or curse rando.
-- Dependencies
-  + ItemChanger
-  + RandoPlus
-- Tags
-  + Utility
-
 ### Zen Charm
 
 - Description: Adds a Charm that allows you to change other charms while not at a bench
@@ -168,10 +170,6 @@
 
 - Version: 1.3.0.0 -> 1.4.1.1
 
-### Custom Knight
-
-- Version: 3.1.0.0 -> 3.5.0.0
-
 ### CustomBgm
 
 - Version: 1.5.4.0 -> 1.5.5.1
@@ -195,6 +193,10 @@
 
 - Version: 1.9.9268.40304 -> 1.10.9277.8364
 
+### MapChanger
+
+- Version: 1.3.8.0 -> 1.3.9.0
+
 ### MapSyncMod
 
 - Version: 1.3.2.0 -> 1.3.3.0
@@ -217,11 +219,11 @@
 
 ### RandoMapCore
 
-- Version: 1.0.10.0 -> 1.0.14.0
+- Version: 1.0.10.0 -> 1.0.15.0
 
 ### RandoMapMod
 
-- Version: 3.6.5.0 -> 3.6.6.0
+- Version: 3.6.5.0 -> 3.6.7.0
 
 ### RandoPlus
 
@@ -241,7 +243,7 @@
 
 ### Satchel
 
-- Version: 0.9.2.0 -> 0.9.4.0
+- Version: 0.9.3.0 -> 0.9.4.0
 
 ### Scattered and Lost
 
@@ -250,6 +252,10 @@
 ### Screensaver
 
 - Version: 1.2.0.0 -> 1.2.0.1
+
+### Smart Nail
+
+- Version: 1.0.0.0 -> 1.3.5.5
 
 ### SpeedChanger
 
