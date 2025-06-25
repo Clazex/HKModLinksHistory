@@ -14,7 +14,7 @@
 
 ### Architect
 
-- Description: A mod to add platforms, enemies and more to change areas in the game with an in-game level editor.
+- Description: A mod to add platforms, enemies and more to change areas in the game with an in-game level editor and level sharer.
 - Dependencies
   + MagicUI
   + Satchel
@@ -189,10 +189,6 @@
   + Old: Adds abilities to lore tablets and certain npc. Currently not usable with Randomizer 4!
   + New: Adds abilities to lore tablets and certain npc. Not compatible with Lore Rando! If you&#x27;re only interested in the rando locations, please use Lore Randomizer instead.
 
-### MagicUI
-
-- Version: 1.9.9268.40304 -> 1.10.9277.8364
-
 ### MapChanger
 
 - Version: 1.3.8.0 -> 1.3.9.0
@@ -219,7 +215,7 @@
 
 ### RandoMapCore
 
-- Version: 1.0.10.0 -> 1.0.15.0
+- Version: 1.0.12.0 -> 1.0.15.0
 
 ### RandoMapMod
 
@@ -248,10 +244,6 @@
 ### Scattered and Lost
 
 - Version: 1.4.2.0 -> 1.4.3.1
-
-### Screensaver
-
-- Version: 1.2.0.0 -> 1.2.0.1
 
 ### Smart Nail
 

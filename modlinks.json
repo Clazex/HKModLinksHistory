@@ -407,12 +407,12 @@
     ]
   },
   "Architect": {
-    "description": "A mod to add platforms, enemies and more to change areas in the game with an in-game level editor.",
-    "version": "1.1.0.0",
+    "description": "A mod to add platforms, enemies and more to change areas in the game with an in-game level editor and level sharer.",
+    "version": "1.2.0.0",
     "links": {
       "type": "universal",
-      "sha256": "3DCE906EE1E2153866AED4C3EDB354C74BADA819AD026085D475B533EA29C278",
-      "url": "https://github.com/cometcake575/Architect/releases/download/1.1.0.0/Architect.zip"
+      "sha256": "1132CAF59C7D97C7AD8DCC2CD17F96E34162CBA975555F034FDEE28D893BEFBB",
+      "url": "https://github.com/cometcake575/Architect/releases/download/1.2.0.0/Architect.zip"
     },
     "dependencies": [
       "MagicUI",
@@ -961,11 +961,11 @@
   },
   "BugPrince": {
     "description": "A Randomizer 4 connection which combines Blue Prince mechanics with Hollow Knight transition randomizer.",
-    "version": "1.1.0.0",
+    "version": "1.2.0.0",
     "links": {
       "type": "universal",
-      "sha256": "EC234998C6640DFBC81C582F8727495376B65A13F7A14C2CB83068E27FB9AFF0",
-      "url": "https://github.com/dplochcoder/HollowKnight.BugPrince/releases/download/v1.1/BugPrince.zip"
+      "sha256": "4EA779DB14D18058BD87AEA53CB40F1A9EC0FA155459E8CA77E7B116F6F1DA24",
+      "url": "https://github.com/dplochcoder/HollowKnight.BugPrince/releases/download/v1.2/BugPrince.zip"
     },
     "dependencies": [
       "Benchwarp",

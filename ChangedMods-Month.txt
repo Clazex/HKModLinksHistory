@@ -1,6 +1,3 @@
-MagicUI
-RandoMapCore
-Screensaver
 MoreDoors
 Pure Vessel Skills
 PurenailCore
@@ -62,3 +59,5 @@ ExaltationExpanded
 MapChanger
 RandoMapCore
 RandoMapMod
+Architect
+BugPrince

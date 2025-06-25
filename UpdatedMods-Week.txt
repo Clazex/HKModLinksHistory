@@ -12,3 +12,5 @@ ConfigurableMaskDamage
 MapChanger
 RandoMapCore
 RandoMapMod
+Architect
+BugPrince

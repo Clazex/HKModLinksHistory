@@ -3,33 +3,29 @@
 
 ## New mods
 
-### All4Love
+### Collision Glitch Remover
 
-- Description: Love 4 All.
+- Description: Removes collision-based glitches such as the Gruz mother wall bounce and Collector &quot;sticky feet&quot; glitch. Works the same way as CollectorGlitchRemover except it fixes every scene. Can be enabled along with CollectorGlitchRemover or instead of CollectorGlitchRemover.
 - Dependencies
-  + HKMirror
-  + Satchel
+  + SFCore
 - Tags
-  + Cosmetic
+  + Utility
 
-### GarfieldStorage
+### Geo Remover
 
-- Description: This mod explains itself
-- Dependencies
-  + Satchel
+- Description: Removes geo icons from the HUD.
+- Tags
+  + Utility
 
+### Invulnerability Indicator
 
-## Updated mods
+- Description: Adds a visual indicator when the player character is invulnerable outside of screen transitions, invincibility, and invulnerability that is already visually indicated.
+- Tags
+  + Utility
 
-### CharmPatch
+### Mask Remover
 
-- Version: 1.4.1.0 -> 1.4.1.1
-
-### Satchel
-
-- Version: 0.9.3.0 -> 0.9.4.0
-
-### SpeedChanger
-
-- Version: 1.0.3.0 -> 1.0.4.0
+- Description: Removes masks from the HUD. Useful for radiant fights.
+- Tags
+  + Utility
 
