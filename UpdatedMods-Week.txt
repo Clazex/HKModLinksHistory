@@ -1,6 +1,3 @@
-RCPathfinder
-RandoMapCore
-RandoMapMod
 Archipelago Map Mod
 CustomBgm
 ConfigurableMaskDamage
@@ -14,3 +11,5 @@ RandoMapCore
 RandoMapMod
 Architect
 BugPrince
+ConfigurableMaskDamage
+SpicyRando

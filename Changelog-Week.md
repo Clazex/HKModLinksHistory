@@ -11,6 +11,14 @@
 - Tags
   + Gameplay
 
+### CustomizableNailDamage
+
+- Description: A Hollow Knight mod that allows you to change the damage of the nail almost as you like.
+- Dependencies
+  + Satchel
+- Tags
+  + Gameplay
+
 ### ExaltationExpanded
 
 - Description: A fan-made supplement to the Exaltation mod created by Xhuis (and ported/updated by Théodore).
@@ -52,19 +60,19 @@
 
 - Version: 1.2.0.3 -> 1.3.0.0
 
-### RCPathfinder
-
-- Version: 1.4.2.0 -> 1.4.5.0
-
 ### RandoMapCore
 
-- Version: 1.0.12.0 -> 1.0.15.0
+- Version: 1.0.14.0 -> 1.0.15.0
 
 ### RandoMapMod
 
-- Version: 3.6.5.0 -> 3.6.7.0
+- Version: 3.6.6.0 -> 3.6.7.0
 
 ### Smart Nail
 
 - Version: 1.3.0.0 -> 1.3.5.5
+
+### SpicyRando
+
+- Version: 1.2.2.0 -> 1.2.3.0
 

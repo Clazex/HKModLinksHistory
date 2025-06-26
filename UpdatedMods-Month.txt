@@ -43,3 +43,5 @@ RandoMapCore
 RandoMapMod
 Architect
 BugPrince
+ConfigurableMaskDamage
+SpicyRando

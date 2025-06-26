@@ -982,6 +982,9 @@
     ],
     "tags": [
       "Gameplay"
+    ],
+    "authors": [
+      "Purenail"
     ]
   },
   "Cagney Carnation": {
@@ -1430,11 +1433,11 @@
   },
   "ConfigurableMaskDamage": {
     "description": "Changes the amount of damage dealt to the knight",
-    "version": "1.1.1.0",
+    "version": "1.1.2.0",
     "links": {
       "type": "universal",
-      "sha256": "B60AFA25359414551686986EB33164B6EE439638A869C6FED82EEC306EB269A8",
-      "url": "https://github.com/F1NS3N/ConfigurableMaskDamage/releases/download/ConfigurableMaskDamage-v1.1.1/ConfigurableMaskDamage.zip"
+      "sha256": "92CF436A6B32017A4A8AC7D63A141FA95EEC29FD9BD230185D97A99EE825332C",
+      "url": "https://github.com/F1NS3N/ConfigurableMaskDamage/releases/download/ConfigurableMaskDamage-v1.1.2/ConfigurableMaskDamage.zip"
     },
     "dependencies": [
       "Satchel"
@@ -1942,6 +1945,25 @@
       "SFGrenade"
     ]
   },
+  "CustomizableNailDamage": {
+    "description": "A Hollow Knight mod that allows you to change the damage of the nail almost as you like.",
+    "version": "1.0.0.0",
+    "links": {
+      "type": "universal",
+      "sha256": "470AF11426A35DBB4223937D585BD00AEDF9BD82FEDACB886672A0D97E205293",
+      "url": "https://github.com/kon4ino/CustomizableNailDamage/releases/download/1.0/CustomizableNailDamage.zip"
+    },
+    "dependencies": [
+      "Satchel"
+    ],
+    "repository": "https://github.com/kon4ino/CustomizableNailDamage",
+    "tags": [
+      "Gameplay"
+    ],
+    "authors": [
+      "kon4ino"
+    ]
+  },
   "Cyclone Real Combat": {
     "description": "Removed the learn Cyclone cutscene in and replaced it with real combat",
     "version": "0.0.0.0",
@@ -2072,6 +2094,9 @@
     ],
     "tags": [
       "Gameplay"
+    ],
+    "authors": [
+      "Purenail"
     ]
   },
   "Dead Cells Barrel Launcher": {
@@ -5296,7 +5321,10 @@
       "Randomizer 4",
       "RandomizerCore"
     ],
-    "repository": "https://github.com/dplochcoder/HollowKnight.Mimicpocalypse"
+    "repository": "https://github.com/dplochcoder/HollowKnight.Mimicpocalypse",
+    "authors": [
+      "Purenail"
+    ]
   },
   "Mirrored Hallownest": {
     "description": "Mirrors the entire Hollow Knight map",
@@ -5432,6 +5460,9 @@
     ],
     "tags": [
       "Gameplay"
+    ],
+    "authors": [
+      "Purenail"
     ]
   },
   "MoreHealing": {
@@ -7163,6 +7194,9 @@
       "DecorationMaster",
       "RandoSettingsManager",
       "Randomizer 4"
+    ],
+    "authors": [
+      "Purenail"
     ]
   },
   "Scatternest": {
@@ -7322,7 +7356,10 @@
       "SFCore",
       "Satchel"
     ],
-    "repository": "https://github.com/dplochcoder/HollowKnight.Sein"
+    "repository": "https://github.com/dplochcoder/HollowKnight.Sein",
+    "authors": [
+      "Purenail"
+    ]
   },
   "ShadeControl": {
     "description": "A DebugAddition make you can control shade spell",
@@ -7745,11 +7782,11 @@
   },
   "SpicyRando": {
     "description": "Various difficulty increases in specific parts of rando",
-    "version": "1.2.2.0",
+    "version": "1.2.3.0",
     "links": {
       "type": "universal",
-      "sha256": "3D1A2E6FF6AA0C2A9F97F643C764779A8D843433D3C118FE73F5DC9396077B33",
-      "url": "https://github.com/dplochcoder/HollowKnight.SpicyRando/releases/download/v1.2.2.0/SpicyRando.zip"
+      "sha256": "8CEC3E515FC8919623A664B7DBBDF29D1076E2911F2F71B5C4556F8C41219D49",
+      "url": "https://github.com/dplochcoder/HollowKnight.SpicyRando/releases/download/v1.2.3.0/SpicyRando.zip"
     },
     "dependencies": [
       "ItemChanger",
@@ -7761,6 +7798,9 @@
     "integrations": [
       "RandoSettingsManager",
       "Randomizer 4"
+    ],
+    "authors": [
+      "Purenail"
     ]
   },
   "SpoilerViewerMod": {
@@ -7782,6 +7822,9 @@
     ],
     "tags": [
       "Utility"
+    ],
+    "authors": [
+      "Purenail"
     ]
   },
   "SpriteDumper": {
@@ -8325,6 +8368,9 @@
     ],
     "tags": [
       "Gameplay"
+    ],
+    "authors": [
+      "Purenail"
     ]
   },
   "TribeOfBattle": {
@@ -8391,6 +8437,9 @@
     ],
     "tags": [
       "Gameplay"
+    ],
+    "authors": [
+      "Purenail"
     ]
   },
   "UnconstrainedRotation": {

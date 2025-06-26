@@ -16,3 +16,4 @@ GloriousGrimmMusic
 ScreenResolution
 ConfigurableMaskDamage
 ExaltationExpanded
+CustomizableNailDamage

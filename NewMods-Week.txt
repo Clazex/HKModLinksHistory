@@ -1,2 +1,3 @@
 ConfigurableMaskDamage
 ExaltationExpanded
+CustomizableNailDamage

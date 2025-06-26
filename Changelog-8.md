@@ -3,25 +3,18 @@
 
 ## New mods
 
-### Architect
+### GloriousGrimmMusic
 
-- Description: A mod to add platforms, enemies and more to change areas in the game with an in-game level editor.
+- Description: Listen to the more intense layer of Grimm&#x27;s theme for the whole fight
 - Dependencies
-  + MagicUI
   + Satchel
-- Integrations
-  + HKMP
+
+### ScreenResolution
+
+- Description: Adds more available screen resolution options.
+- Dependencies
+  + SFCore
+  + Satchel
 - Tags
-  + Gameplay
-
-### RainbowShinies
-
-- Description: Makes all shinies have a random color
-
-
-## Updated mods
-
-### CustomBgm
-
-- Version: 1.5.4.0 -> 1.5.5.0
+  + Utility
 
