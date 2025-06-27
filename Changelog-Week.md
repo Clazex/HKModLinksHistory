@@ -3,14 +3,6 @@
 
 ## New mods
 
-### ConfigurableMaskDamage
-
-- Description: Changes the amount of damage dealt to the knight
-- Dependencies
-  + Satchel
-- Tags
-  + Gameplay
-
 ### CustomizableNailDamage
 
 - Description: A Hollow Knight mod that allows you to change the damage of the nail almost as you like.
@@ -30,27 +22,55 @@
 - Tags
   + Gameplay
 
+### Trial of Crusaders
+
+- Description: A rogue-like mod inspired by Dead Cells, Binding of Isaac and Blue Prince.
+- Dependencies
+  + KorzUtils
+  + MenuChanger
+  + SFCore
+- Tags
+  + Gameplay
+
 
 ## Updated mods
 
 ### Archipelago Map Mod
 
-- Version: 3.0.1.0 -> 3.1.1.0
+- Version: 3.1.0.0 -> 3.1.1.0
 
 ### Architect
 
-- Version: 1.0.0.0 -> 1.2.0.0
+- Version: 1.0.0.0 -> 1.2.2.0
 - Description
   + Old: A mod to add platforms, enemies and more to change areas in the game with an in-game level editor.
   + New: A mod to add platforms, enemies and more to change areas in the game with an in-game level editor and level sharer.
+- Dependencies
+  + Added
+    - SFCore
 
 ### BugPrince
 
 - Version: 1.1.0.0 -> 1.2.0.0
 
-### CustomBgm
+### CharmPatch
 
-- Version: 1.5.5.0 -> 1.5.5.1
+- Version: 1.4.1.1 -> 1.4.2.0
+
+### ConfigurableMaskDamage
+
+- Version: 1.0.0.0 -> 1.1.2.0
+- Dependencies
+  + Added
+    - Satchel
+
+### DapperMapperSpoils
+
+- Version: 1.1.0.0 -> 1.2.0.0
+
+### KorzUtils
+
+- Version: 0.8.0.0 -> 0.9.0.0
 
 ### MapChanger
 

@@ -408,14 +408,15 @@
   },
   "Architect": {
     "description": "A mod to add platforms, enemies and more to change areas in the game with an in-game level editor and level sharer.",
-    "version": "1.2.0.0",
+    "version": "1.2.2.0",
     "links": {
       "type": "universal",
-      "sha256": "1132CAF59C7D97C7AD8DCC2CD17F96E34162CBA975555F034FDEE28D893BEFBB",
-      "url": "https://github.com/cometcake575/Architect/releases/download/1.2.0.0/Architect.zip"
+      "sha256": "F2E37E7AE2E8DEE524EAC67BEAAE072B84AFFF2FA517E794A4D0D5E0E9E689ED",
+      "url": "https://github.com/cometcake575/Architect/releases/download/1.2.2.0/Architect.zip"
     },
     "dependencies": [
       "MagicUI",
+      "SFCore",
       "Satchel"
     ],
     "repository": "https://github.com/cometcake575/Architect",
@@ -1246,11 +1247,11 @@
   },
   "CharmPatch": {
     "description": "This is a collection of small changes that I think improve the balance of certain charms in the game. Please view Readme for Charm Changer mod recommendations.",
-    "version": "1.4.1.1",
+    "version": "1.4.2.0",
     "links": {
       "type": "universal",
-      "sha256": "ADA3859EED2C2252B2E16940BED13EAF7328204ECC32C30EB6802BF396C17F80",
-      "url": "https://github.com/danielstegink/HollowKnight.CharmPatch/releases/download/1.4.1.1/CharmPatch.zip"
+      "sha256": "C4CE706EEED6731D37F0A6D084CDC044AFFCF32BFC1B828628CBE2DE99BC8CA7",
+      "url": "https://github.com/danielstegink/HollowKnight.CharmPatch/releases/download/1.4.2.0/CharmPatch.zip"
     },
     "dependencies": [
       "HKMirror",
@@ -2028,11 +2029,11 @@
   },
   "DapperMapperSpoils": {
     "description": "Adds a category to the condensed spoiler log which shows the locations of the 13 maps.",
-    "version": "1.1.0.0",
+    "version": "1.2.0.0",
     "links": {
       "type": "universal",
-      "sha256": "8D799F25B82005F7FE1D401D56B1A088F28158FFEB6686DCA6255ABA04E65C25",
-      "url": "https://github.com/flibber-hk/HollowKnight.DapperMapperSpoils/releases/download/v1.1.0.0/DapperMapperSpoils.zip"
+      "sha256": "6D25392414DC3F8C97C32960DDCC6C82D4F8E763C6F4940F9BF38A83209C097D",
+      "url": "https://github.com/flibber-hk/HollowKnight.DapperMapperSpoils/releases/download/v1.2.0.0/DapperMapperSpoils.zip"
     },
     "dependencies": [],
     "repository": "https://github.com/flibber-hk/HollowKnight.DapperMapperSpoils/",
@@ -4709,11 +4710,11 @@
   },
   "KorzUtils": {
     "description": "Library mod that provide useful functions for other mods.",
-    "version": "0.8.0.0",
+    "version": "0.9.0.0",
     "links": {
       "type": "universal",
-      "sha256": "0BFE1BB26D4E4C47B65D027D7EA0BD90BAAACA90B7B3EFF7425D7EE517318590",
-      "url": "https://github.com/Korzer420/KorzUtils/releases/download/v0.8.0/KorzUtils.zip"
+      "sha256": "63D6C14C8BB547E565BC2849313DA9E4FF28BCDAD72633CDB77F2B4FD47C1A2E",
+      "url": "https://github.com/Korzer420/KorzUtils/releases/download/v0.9.0/KorzUtils.zip"
     },
     "dependencies": [],
     "repository": "https://github.com/Korzer420/KorzUtils",
@@ -8371,6 +8372,27 @@
     ],
     "authors": [
       "Purenail"
+    ]
+  },
+  "Trial of Crusaders": {
+    "description": "A rogue-like mod inspired by Dead Cells, Binding of Isaac and Blue Prince.",
+    "version": "0.1.0.0",
+    "links": {
+      "type": "universal",
+      "sha256": "B70B8504A798FE6790C8145E2A0BDFF92BFECA1D81552AF3F7E946B638F4F3B4",
+      "url": "https://github.com/Korzer420/TrialOfCrusaders/releases/download/v0.1.0/TrialOfCrusaders.zip"
+    },
+    "dependencies": [
+      "KorzUtils",
+      "MenuChanger",
+      "SFCore"
+    ],
+    "repository": "https://github.com/Korzer420/TrialOfCrusaders",
+    "tags": [
+      "Gameplay"
+    ],
+    "authors": [
+      "Korz"
     ]
   },
   "TribeOfBattle": {

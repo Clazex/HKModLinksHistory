@@ -17,6 +17,7 @@
 - Description: A mod to add platforms, enemies and more to change areas in the game with an in-game level editor and level sharer.
 - Dependencies
   + MagicUI
+  + SFCore
   + Satchel
 - Integrations
   + HKMP
@@ -121,15 +122,6 @@
   + Randomizer 4
   + RandomizerCore
 
-### Pure Vessel Skills
-
-- Description: Allow you to use Pure Vessel&#x27;s attacks
-- Dependencies
-  + FrogCore
-  + SFCore
-- Tags
-  + Gameplay
-
 ### RainbowShinies
 
 - Description: Makes all shinies have a random color
@@ -147,6 +139,16 @@
 
 - Description: Adds a charm called Soulburst, which allows players to instantly heal 3 masks when they have 99 soul, similar to Silksong
 - Dependencies
+  + SFCore
+- Tags
+  + Gameplay
+
+### Trial of Crusaders
+
+- Description: A rogue-like mod inspired by Dead Cells, Binding of Isaac and Blue Prince.
+- Dependencies
+  + KorzUtils
+  + MenuChanger
   + SFCore
 - Tags
   + Gameplay
@@ -176,7 +178,7 @@
 
 ### CharmPatch
 
-- Version: 1.3.0.0 -> 1.4.1.1
+- Version: 1.3.0.0 -> 1.4.2.0
 
 ### CustomBgm
 
@@ -186,9 +188,17 @@
 
 - Version: 1.1.2.0 -> 1.1.3.0
 
+### DapperMapperSpoils
+
+- Version: 1.1.0.0 -> 1.2.0.0
+
 ### ItemChanger
 
 - Version: 2.1.4.0 -> 2.1.5.0
+
+### KorzUtils
+
+- Version: 0.8.0.0 -> 0.9.0.0
 
 ### Lore Master
 
@@ -209,13 +219,9 @@
 
 - Version: 1.2.0.3 -> 1.3.0.0
 
-### MoreDoors
-
-- Version: 3.1.2.0 -> 3.2.0.0
-
 ### PurenailCore
 
-- Version: 1.3.0.0 -> 1.4.0.0
+- Version: 1.3.1.0 -> 1.4.0.0
 
 ### RCPathfinder
 
@@ -251,7 +257,7 @@
 
 ### Scattered and Lost
 
-- Version: 1.4.2.0 -> 1.4.3.1
+- Version: 1.4.3.0 -> 1.4.3.1
 
 ### Smart Nail
 
@@ -267,7 +273,7 @@
 
 ### TreasureHunt
 
-- Version: 1.2.0.0 -> 1.4.1.0
+- Version: 1.4.0.0 -> 1.4.1.0
 - Dependencies
   + Added
     - SFCore
