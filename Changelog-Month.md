@@ -101,6 +101,14 @@
 - Tags
   + Gameplay
 
+### HK_QoLTeleportKit
+
+- Description: QoL Teleport Kit is a Hollow Knight mod that adds a convenient teleportation system.
+- Dependencies
+  + Satchel
+- Tags
+  + Gameplay
+
 ### Invulnerability Indicator
 
 - Description: Adds a visual indicator when the player character is invulnerable outside of screen transitions, invincibility, and invulnerability that is already visually indicated.
@@ -180,6 +188,10 @@
 
 - Version: 1.3.0.0 -> 1.4.2.0
 
+### Curse Randomizer
+
+- Version: 5.1.5.0 -> 5.1.6.0
+
 ### CustomBgm
 
 - Version: 1.5.4.0 -> 1.5.5.1
@@ -191,6 +203,10 @@
 ### DapperMapperSpoils
 
 - Version: 1.1.0.0 -> 1.2.0.0
+
+### Extra Rando
+
+- Version: 0.6.1.0 -> 0.6.2.0
 
 ### ItemChanger
 
@@ -210,10 +226,6 @@
 ### MapChanger
 
 - Version: 1.3.8.0 -> 1.3.9.0
-
-### MapSyncMod
-
-- Version: 1.3.2.0 -> 1.3.3.0
 
 ### MilliGolf
 
@@ -261,7 +273,7 @@
 
 ### Smart Nail
 
-- Version: 1.0.0.0 -> 1.3.5.5
+- Version: 1.3.0.0 -> 1.3.5.5
 
 ### SpeedChanger
 
@@ -273,7 +285,7 @@
 
 ### TreasureHunt
 
-- Version: 1.4.0.0 -> 1.4.1.0
+- Version: 1.4.0.0 -> 1.5.0.0
 - Dependencies
   + Added
     - SFCore

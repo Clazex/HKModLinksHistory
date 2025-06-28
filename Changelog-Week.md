@@ -22,6 +22,14 @@
 - Tags
   + Gameplay
 
+### HK_QoLTeleportKit
+
+- Description: QoL Teleport Kit is a Hollow Knight mod that adds a convenient teleportation system.
+- Dependencies
+  + Satchel
+- Tags
+  + Gameplay
+
 ### Trial of Crusaders
 
 - Description: A rogue-like mod inspired by Dead Cells, Binding of Isaac and Blue Prince.
@@ -41,7 +49,7 @@
 
 ### Architect
 
-- Version: 1.0.0.0 -> 1.2.2.0
+- Version: 1.0.0.0 -> 1.3.2.1
 - Description
   + Old: A mod to add platforms, enemies and more to change areas in the game with an in-game level editor.
   + New: A mod to add platforms, enemies and more to change areas in the game with an in-game level editor and level sharer.
@@ -59,14 +67,19 @@
 
 ### ConfigurableMaskDamage
 
-- Version: 1.0.0.0 -> 1.1.2.0
-- Dependencies
-  + Added
-    - Satchel
+- Version: 1.1.0.0 -> 1.1.2.0
+
+### Curse Randomizer
+
+- Version: 5.1.5.0 -> 5.1.6.0
 
 ### DapperMapperSpoils
 
 - Version: 1.1.0.0 -> 1.2.0.0
+
+### Extra Rando
+
+- Version: 0.6.1.0 -> 0.6.2.0
 
 ### KorzUtils
 
@@ -76,10 +89,6 @@
 
 - Version: 1.3.8.0 -> 1.3.9.0
 
-### MilliGolf
-
-- Version: 1.2.0.3 -> 1.3.0.0
-
 ### RandoMapCore
 
 - Version: 1.0.14.0 -> 1.0.15.0
@@ -88,11 +97,11 @@
 
 - Version: 3.6.6.0 -> 3.6.7.0
 
-### Smart Nail
-
-- Version: 1.3.0.0 -> 1.3.5.5
-
 ### SpicyRando
 
 - Version: 1.2.2.0 -> 1.2.3.0
+
+### TreasureHunt
+
+- Version: 1.4.1.0 -> 1.5.0.0
 

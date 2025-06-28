@@ -1,6 +1,3 @@
-ConfigurableMaskDamage
-MilliGolf
-Smart Nail
 Archipelago Map Mod
 Architect
 ConfigurableMaskDamage
@@ -15,3 +12,9 @@ Architect
 CharmPatch
 DapperMapperSpoils
 KorzUtils
+Architect
+Curse Randomizer
+CustomizableNailDamage
+Extra Rando
+TreasureHunt
+Trial of Crusaders
