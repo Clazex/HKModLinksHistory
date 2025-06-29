@@ -104,8 +104,6 @@
 ### HK_QoLTeleportKit
 
 - Description: QoL Teleport Kit is a Hollow Knight mod that adds a convenient teleportation system.
-- Dependencies
-  + Satchel
 - Tags
   + Gameplay
 
@@ -157,6 +155,15 @@
 - Dependencies
   + KorzUtils
   + MenuChanger
+  + SFCore
+- Tags
+  + Gameplay
+
+### WanderersWisdom
+
+- Description: A mod that adds 2 new charms: Wanderer&#x27;s Wisdom and Wanderer&#x27;s Guile.
+- Dependencies
+  + ItemChanger
   + SFCore
 - Tags
   + Gameplay
@@ -282,6 +289,10 @@
 ### SpicyRando
 
 - Version: 1.2.2.0 -> 1.2.3.0
+
+### Transcendence
+
+- Version: 1.5.2.0 -> 1.5.3.0
 
 ### TreasureHunt
 

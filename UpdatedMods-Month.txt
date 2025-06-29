@@ -49,3 +49,5 @@ CustomizableNailDamage
 Extra Rando
 TreasureHunt
 Trial of Crusaders
+Transcendence
+Trial of Crusaders

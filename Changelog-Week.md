@@ -25,8 +25,6 @@
 ### HK_QoLTeleportKit
 
 - Description: QoL Teleport Kit is a Hollow Knight mod that adds a convenient teleportation system.
-- Dependencies
-  + Satchel
 - Tags
   + Gameplay
 
@@ -40,16 +38,21 @@
 - Tags
   + Gameplay
 
+### WanderersWisdom
+
+- Description: A mod that adds 2 new charms: Wanderer&#x27;s Wisdom and Wanderer&#x27;s Guile.
+- Dependencies
+  + ItemChanger
+  + SFCore
+- Tags
+  + Gameplay
+
 
 ## Updated mods
 
-### Archipelago Map Mod
-
-- Version: 3.1.0.0 -> 3.1.1.0
-
 ### Architect
 
-- Version: 1.0.0.0 -> 1.3.2.1
+- Version: 1.1.0.0 -> 1.3.2.1
 - Description
   + Old: A mod to add platforms, enemies and more to change areas in the game with an in-game level editor.
   + New: A mod to add platforms, enemies and more to change areas in the game with an in-game level editor and level sharer.
@@ -67,7 +70,7 @@
 
 ### ConfigurableMaskDamage
 
-- Version: 1.1.0.0 -> 1.1.2.0
+- Version: 1.1.1.0 -> 1.1.2.0
 
 ### Curse Randomizer
 
@@ -100,6 +103,10 @@
 ### SpicyRando
 
 - Version: 1.2.2.0 -> 1.2.3.0
+
+### Transcendence
+
+- Version: 1.5.2.0 -> 1.5.3.0
 
 ### TreasureHunt
 
