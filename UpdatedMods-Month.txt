@@ -51,3 +51,10 @@ TreasureHunt
 Trial of Crusaders
 Transcendence
 Trial of Crusaders
+Architect
+CustomizableNailDamage
+DivineFury
+ExaltationExpanded
+Hivesong
+Transcendence
+Trial of Crusaders

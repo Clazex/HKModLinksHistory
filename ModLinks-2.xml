@@ -1673,8 +1673,8 @@ All with an incredible new soundtrack!</Description>
     <Manifest>
         <Name>Transcendence</Name>
         <Description>Adds 15 new charms with various abilities. Can be used with the randomizer.</Description>
-        <Version>1.5.2.0</Version>
-        <Link SHA256="5a6bf2e7af2252f91a1277f1a837b73b1182b3ded9b06184be02c3b6574fa5fc">https://github.com/dpinela/Transcendence/releases/download/v1.5.2/Transcendence.zip</Link>
+        <Version>1.5.3.0</Version>
+        <Link SHA256="1856562c62a06998eb213c8ad85317856333eafd265c9bb8cdf13b39d59bf832">https://github.com/dpinela/Transcendence/releases/download/v1.5.3/Transcendence.zip</Link>
         <Dependencies>
             <Dependency>SFCore</Dependency>
             <Dependency>MagicUI</Dependency>
@@ -6650,9 +6650,9 @@ Enjoy!</Description>
     <Manifest>
         <Name>Trial of Crusaders</Name>
         <Description>A rogue-like mod inspired by Dead Cells, Binding of Isaac and Blue Prince.</Description>
-        <Version>0.1.2.0</Version>
-        <Link SHA256="f511acfd551402daac3cbc1cd24e00506078ff6a9f8d29683745328df53175f8">
-            <![CDATA[https://github.com/Korzer420/TrialOfCrusaders/releases/download/v0.1.2/TrialOfCrusaders.zip]]></Link>
+        <Version>0.2.0.0</Version>
+        <Link SHA256="1bfea894946fcaa93c08205b83edfea17e8b7ef56e59454004ad0c7a0042eb28">
+            <![CDATA[https://github.com/Korzer420/TrialOfCrusaders/releases/download/v0.2.0/TrialOfCrusaders.zip]]></Link>
         <Dependencies>
             <Dependency>SFCore</Dependency>
             <Dependency>KorzUtils</Dependency>
@@ -9331,9 +9331,7 @@ Enjoy!</Description>
         <Link SHA256="e27a73066c16120e0964a12723750fa68efcc8fcf938a483426df157b948966d">
             <![CDATA[https://github.com/NightFuryoOo/HK_QoLTeleportKit/releases/download/v1.0.0.0/QoLTeleportKit.zip]]>
         </Link>
-        <Dependencies>
-            <Dependency>Satchel</Dependency>
-        </Dependencies>
+        <Dependencies />
         <Repository>
             <![CDATA[https://github.com/NightFuryoOo/HK_QoLTeleportKit]]> 
         </Repository>
@@ -9342,6 +9340,30 @@ Enjoy!</Description>
         </Tags>
         <Authors>
             <Author>NightFuryo3o</Author>
+        </Authors>
+    </Manifest>
+    <Manifest>
+        <Name>WanderersWisdom</Name>
+        <Description>A mod that adds 2 new charms: Wanderer's Wisdom and Wanderer's Guile.</Description>
+        <Version>1.0.0.0</Version>
+        <Link SHA256="D03E3B075DF07977682239586B9EB24557C2327741429D40FC7C956AEF26649C">
+            <![CDATA[https://github.com/danielstegink/HollowKnight.WanderersWisdom/releases/download/1.0.0.0/WanderersWisdom.zip]]>
+        </Link>
+        <Dependencies>
+            <Dependency>ItemChanger</Dependency>
+            <Dependency>SFCore</Dependency>
+        </Dependencies>
+        <Repository>
+            <![CDATA[https://github.com/danielstegink/HollowKnight.WanderersWisdom]]>
+        </Repository>
+        <Issues>
+            <![CDATA[https://github.com/danielstegink/HollowKnight.WanderersWisdom/issues]]>
+        </Issues>
+        <Tags>
+            <Tag>Gameplay</Tag>
+        </Tags>
+        <Authors>
+            <Author>DanielStegink</Author>
         </Authors>
     </Manifest>
 </ModLinks>

@@ -14,7 +14,7 @@
 
 ### Architect
 
-- Description: A mod to add platforms, enemies and more to change areas in the game with an in-game level editor and level sharer.
+- Description: A mod to add/remove platforms, enemies and more to change areas in the game with an in-game level editor and level sharer.
 - Dependencies
   + MagicUI
   + SFCore
@@ -58,7 +58,7 @@
 
 ### CustomizableNailDamage
 
-- Description: A Hollow Knight mod that allows you to change the damage of the nail almost as you like.
+- Description: Mod that allows you to change the damage of the nail, including negative and fractional. Negative nail will heal enemies.
 - Dependencies
   + Satchel
 - Tags
@@ -128,6 +128,10 @@
   + Randomizer 4
   + RandomizerCore
 
+### PermaFlukes
+
+- Description: Flukes don&#x27;t disappear
+
 ### RainbowShinies
 
 - Description: Makes all shinies have a random color
@@ -168,14 +172,6 @@
 - Tags
   + Gameplay
 
-### Zen Charm
-
-- Description: Adds a Charm that allows you to change other charms while not at a bench
-- Dependencies
-  + SFCore
-- Tags
-  + Gameplay
-
 
 ## Updated mods
 
@@ -211,9 +207,17 @@
 
 - Version: 1.1.0.0 -> 1.2.0.0
 
+### DivineFury
+
+- Version: 1.0.0.1 -> 1.1.0.0
+
 ### Extra Rando
 
 - Version: 0.6.1.0 -> 0.6.2.0
+
+### Hivesong
+
+- Version: 1.1.0.1 -> 1.2.0.0
 
 ### ItemChanger
 
@@ -292,7 +296,7 @@
 
 ### Transcendence
 
-- Version: 1.5.2.0 -> 1.5.3.0
+- Version: 1.5.2.0 -> 1.5.4.0
 
 ### TreasureHunt
 

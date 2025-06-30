@@ -5,20 +5,9 @@
 
 ### CustomizableNailDamage
 
-- Description: A Hollow Knight mod that allows you to change the damage of the nail almost as you like.
+- Description: Mod that allows you to change the damage of the nail, including negative and fractional. Negative nail will heal enemies.
 - Dependencies
   + Satchel
-- Tags
-  + Gameplay
-
-### ExaltationExpanded
-
-- Description: A fan-made supplement to the Exaltation mod created by Xhuis (and ported/updated by Théodore).
-- Dependencies
-  + Exaltation
-  + HKMirror
-  + ItemChanger
-  + SFCore
 - Tags
   + Gameplay
 
@@ -27,6 +16,10 @@
 - Description: QoL Teleport Kit is a Hollow Knight mod that adds a convenient teleportation system.
 - Tags
   + Gameplay
+
+### PermaFlukes
+
+- Description: Flukes don&#x27;t disappear
 
 ### Trial of Crusaders
 
@@ -52,10 +45,10 @@
 
 ### Architect
 
-- Version: 1.1.0.0 -> 1.3.2.1
+- Version: 1.1.0.0 -> 1.4.0.0
 - Description
   + Old: A mod to add platforms, enemies and more to change areas in the game with an in-game level editor.
-  + New: A mod to add platforms, enemies and more to change areas in the game with an in-game level editor and level sharer.
+  + New: A mod to add/remove platforms, enemies and more to change areas in the game with an in-game level editor and level sharer.
 - Dependencies
   + Added
     - SFCore
@@ -80,25 +73,25 @@
 
 - Version: 1.1.0.0 -> 1.2.0.0
 
+### DivineFury
+
+- Version: 1.0.0.1 -> 1.1.0.0
+
+### ExaltationExpanded
+
+- Version: 1.0.1.0 -> 1.0.2.0
+
 ### Extra Rando
 
 - Version: 0.6.1.0 -> 0.6.2.0
 
+### Hivesong
+
+- Version: 1.1.0.1 -> 1.2.0.0
+
 ### KorzUtils
 
 - Version: 0.8.0.0 -> 0.9.0.0
-
-### MapChanger
-
-- Version: 1.3.8.0 -> 1.3.9.0
-
-### RandoMapCore
-
-- Version: 1.0.14.0 -> 1.0.15.0
-
-### RandoMapMod
-
-- Version: 3.6.6.0 -> 3.6.7.0
 
 ### SpicyRando
 
@@ -106,7 +99,7 @@
 
 ### Transcendence
 
-- Version: 1.5.2.0 -> 1.5.3.0
+- Version: 1.5.2.0 -> 1.5.4.0
 
 ### TreasureHunt
 

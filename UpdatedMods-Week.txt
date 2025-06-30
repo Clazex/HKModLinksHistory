@@ -1,6 +1,3 @@
-MapChanger
-RandoMapCore
-RandoMapMod
 Architect
 BugPrince
 ConfigurableMaskDamage
@@ -15,5 +12,12 @@ CustomizableNailDamage
 Extra Rando
 TreasureHunt
 Trial of Crusaders
+Transcendence
+Trial of Crusaders
+Architect
+CustomizableNailDamage
+DivineFury
+ExaltationExpanded
+Hivesong
 Transcendence
 Trial of Crusaders
