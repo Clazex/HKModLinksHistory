@@ -189,7 +189,7 @@
 
 ### CharmPatch
 
-- Version: 1.3.0.0 -> 1.4.2.0
+- Version: 1.4.0.0 -> 1.4.2.0
 
 ### Curse Randomizer
 
@@ -198,10 +198,6 @@
 ### CustomBgm
 
 - Version: 1.5.4.0 -> 1.5.5.1
-
-### CustomLogicInjector
-
-- Version: 1.1.2.0 -> 1.1.3.0
 
 ### DapperMapperSpoils
 
@@ -219,20 +215,9 @@
 
 - Version: 1.1.0.1 -> 1.2.0.0
 
-### ItemChanger
-
-- Version: 2.1.4.0 -> 2.1.5.0
-
 ### KorzUtils
 
 - Version: 0.8.0.0 -> 0.9.0.0
-
-### Lore Master
-
-- Version: 2.3.3.0 -> 2.3.4.0
-- Description
-  + Old: Adds abilities to lore tablets and certain npc. Currently not usable with Randomizer 4!
-  + New: Adds abilities to lore tablets and certain npc. Not compatible with Lore Rando! If you&#x27;re only interested in the rando locations, please use Lore Randomizer instead.
 
 ### MapChanger
 
@@ -266,14 +251,6 @@
 
 - Version: 1.2.6.0 -> 1.2.6.1
 
-### Randomizer 4
-
-- Version: 4.1.4.1 -> 4.1.5.0
-
-### RandomizerCore
-
-- Version: 2.0.2.0 -> 2.0.3.0
-
 ### Satchel
 
 - Version: 0.9.3.0 -> 0.9.4.0
@@ -296,11 +273,11 @@
 
 ### Transcendence
 
-- Version: 1.5.2.0 -> 1.5.4.0
+- Version: 1.5.2.0 -> 1.5.5.0
 
 ### TreasureHunt
 
-- Version: 1.4.0.0 -> 1.5.0.0
+- Version: 1.4.0.0 -> 1.6.0.0
 - Dependencies
   + Added
     - SFCore

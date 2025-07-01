@@ -45,9 +45,9 @@
 
 ### Architect
 
-- Version: 1.1.0.0 -> 1.4.0.0
+- Version: 1.2.0.0 -> 1.5.1.2
 - Description
-  + Old: A mod to add platforms, enemies and more to change areas in the game with an in-game level editor.
+  + Old: A mod to add platforms, enemies and more to change areas in the game with an in-game level editor and level sharer.
   + New: A mod to add/remove platforms, enemies and more to change areas in the game with an in-game level editor and level sharer.
 - Dependencies
   + Added
@@ -55,7 +55,7 @@
 
 ### BugPrince
 
-- Version: 1.1.0.0 -> 1.2.0.0
+- Version: 1.2.0.0 -> 1.3.1.0
 
 ### CharmPatch
 
@@ -99,9 +99,9 @@
 
 ### Transcendence
 
-- Version: 1.5.2.0 -> 1.5.4.0
+- Version: 1.5.2.0 -> 1.5.5.0
 
 ### TreasureHunt
 
-- Version: 1.4.1.0 -> 1.5.0.0
+- Version: 1.4.1.0 -> 1.6.0.0
 
