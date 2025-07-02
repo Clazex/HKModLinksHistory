@@ -1,3 +1,2 @@
-Architect
-CustomBgm
-RainbowShinies
+GloriousGrimmMusic
+ScreenResolution

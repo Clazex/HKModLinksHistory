@@ -1,5 +1,3 @@
-RandoPlus
-Randomizable Levers
 CharmPatch
 PurenailCore
 TreasureHunt
@@ -59,3 +57,5 @@ PermaFlukes
 Transcendence
 TreasureHunt
 Trial of Crusaders
+BugPrince
+TreasureHunt

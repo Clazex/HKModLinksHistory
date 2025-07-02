@@ -1,22 +1,20 @@
 # Changelog
 
 
-## New mods
+## Updated mods
 
 ### ConfigurableMaskDamage
 
-- Description: Changes the amount of damage dealt to the knight
-- Tags
-  + Gameplay
+- Version: 1.0.0.0 -> 1.1.0.0
+- Dependencies
+  + Added
+    - Satchel
 
+### MilliGolf
 
-## Updated mods
+- Version: 1.2.0.3 -> 1.3.0.0
 
-### Archipelago Map Mod
+### Smart Nail
 
-- Version: 3.0.1.0 -> 3.1.0.0
-
-### CustomBgm
-
-- Version: 1.5.5.0 -> 1.5.5.1
+- Version: 1.3.0.0 -> 1.3.5.5
 

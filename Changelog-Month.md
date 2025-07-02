@@ -243,14 +243,6 @@
 
 - Version: 3.6.5.0 -> 3.6.7.0
 
-### RandoPlus
-
-- Version: 1.7.0.1 -> 1.7.0.2
-
-### Randomizable Levers
-
-- Version: 1.2.6.0 -> 1.2.6.1
-
 ### Satchel
 
 - Version: 0.9.3.0 -> 0.9.4.0
@@ -277,7 +269,7 @@
 
 ### TreasureHunt
 
-- Version: 1.4.0.0 -> 1.6.0.0
+- Version: 1.4.0.0 -> 1.6.1.0
 - Dependencies
   + Added
     - SFCore

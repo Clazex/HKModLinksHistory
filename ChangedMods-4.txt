@@ -1,7 +1,3 @@
-Architect
-Curse Randomizer
-CustomizableNailDamage
-Extra Rando
-HK_QoLTeleportKit
-TreasureHunt
+Transcendence
 Trial of Crusaders
+WanderersWisdom

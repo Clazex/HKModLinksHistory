@@ -1,4 +1,3 @@
-CustomizableNailDamage
 Trial of Crusaders
 HK_QoLTeleportKit
 WanderersWisdom

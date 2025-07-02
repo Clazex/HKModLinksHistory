@@ -3,14 +3,6 @@
 
 ## New mods
 
-### CustomizableNailDamage
-
-- Description: Mod that allows you to change the damage of the nail, including negative and fractional. Negative nail will heal enemies.
-- Dependencies
-  + Satchel
-- Tags
-  + Gameplay
-
 ### HK_QoLTeleportKit
 
 - Description: QoL Teleport Kit is a Hollow Knight mod that adds a convenient teleportation system.
@@ -55,19 +47,22 @@
 
 ### BugPrince
 
-- Version: 1.2.0.0 -> 1.3.1.0
+- Version: 1.2.0.0 -> 1.3.2.0
 
 ### CharmPatch
 
 - Version: 1.4.1.1 -> 1.4.2.0
 
-### ConfigurableMaskDamage
-
-- Version: 1.1.1.0 -> 1.1.2.0
-
 ### Curse Randomizer
 
 - Version: 5.1.5.0 -> 5.1.6.0
+
+### CustomizableNailDamage
+
+- Version: 1.0.0.0 -> 1.2.1.0
+- Description
+  + Old: A Hollow Knight mod that allows you to change the damage of the nail almost as you like.
+  + New: Mod that allows you to change the damage of the nail, including negative and fractional. Negative nail will heal enemies.
 
 ### DapperMapperSpoils
 
@@ -93,15 +88,11 @@
 
 - Version: 0.8.0.0 -> 0.9.0.0
 
-### SpicyRando
-
-- Version: 1.2.2.0 -> 1.2.3.0
-
 ### Transcendence
 
 - Version: 1.5.2.0 -> 1.5.5.0
 
 ### TreasureHunt
 
-- Version: 1.4.1.0 -> 1.6.0.0
+- Version: 1.4.1.0 -> 1.6.1.0
 
