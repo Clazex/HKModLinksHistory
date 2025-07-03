@@ -1,4 +1,3 @@
-CharmPatch
 PurenailCore
 TreasureHunt
 TreasureHunt
@@ -59,3 +58,6 @@ TreasureHunt
 Trial of Crusaders
 BugPrince
 TreasureHunt
+Architect
+MidasTouch
+Trial of Crusaders

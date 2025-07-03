@@ -408,11 +408,11 @@
   },
   "Architect": {
     "description": "A mod to add/remove platforms, enemies and more to change areas in the game with an in-game level editor and level sharer.",
-    "version": "1.5.1.2",
+    "version": "1.5.3.0",
     "links": {
       "type": "universal",
-      "sha256": "9B65FA87CB0174593A9FB1B8C58F4497862FA728DD729AD7D361B7CE62904CFE",
-      "url": "https://github.com/cometcake575/Architect/releases/download/1.5.1.2/Architect.zip"
+      "sha256": "8A520D9DDB8DBF9A9BDD5743B537B0BCD1A4CE92A6C17D710D6CFFC6299882D5",
+      "url": "https://github.com/cometcake575/Architect/releases/download/1.5.3.0/Architect.zip"
     },
     "dependencies": [
       "MagicUI",
@@ -2098,6 +2098,26 @@
     ],
     "authors": [
       "Purenail"
+    ]
+  },
+  "DashChanger": {
+    "description": "Allows you to change the horizontal and vertical length of the dash.",
+    "version": "1.0.0.0",
+    "links": {
+      "type": "universal",
+      "sha256": "D8BB4DC60FB293875997FC1AE63CE1C69F94FAFC8E58F8F53A740CA7F321F94B",
+      "url": "https://github.com/AndrewDbdbd/DashChanger/releases/download/HollowKnightMod/DashChanger.zip"
+    },
+    "dependencies": [
+      "HKMirror",
+      "Satchel"
+    ],
+    "repository": "https://github.com/AndrewDbdbd/DashChanger",
+    "tags": [
+      "Gameplay"
+    ],
+    "authors": [
+      "Dbdbd"
     ]
   },
   "Dead Cells Barrel Launcher": {
@@ -5288,17 +5308,20 @@
   },
   "MidasTouch": {
     "description": "Gorgeous Husk drops a charm that turns enemies to gold",
-    "version": "1.0.1.1",
+    "version": "1.1.0.0",
     "links": {
       "type": "universal",
-      "sha256": "657B34B514F7E4BA07D0A591EE4345A377EEDEF4FF0584860A61AE28BAC7D8DC",
-      "url": "https://github.com/TheMathGeek314/MidasTouch/releases/download/v1.0.1.1/MidasTouch.zip"
+      "sha256": "F4EB92A4B2A423A8C12A9D769B473A6055AC4B1A801BC828F9431FE728D3D076",
+      "url": "https://github.com/TheMathGeek314/MidasTouch/releases/download/v1.1.0.0/MidasTouch.zip"
     },
     "dependencies": [
       "SFCore",
       "Satchel"
     ],
     "repository": "https://github.com/TheMathGeek314/MidasTouch/",
+    "integrations": [
+      "DebugMod"
+    ],
     "authors": [
       "TheMathGeek_314"
     ]
@@ -6222,6 +6245,24 @@
     ],
     "authors": [
       "Roy"
+    ]
+  },
+  "PlatformingQoL": {
+    "description": "Quality of life improvements for Hollow Knight platforming, including hitbox visualization and respawn animation skipping.",
+    "version": "1.0.0.0",
+    "links": {
+      "type": "universal",
+      "sha256": "E4137618BBD64D89606BDCEE1C1A36885C42D5ADA711635782E283B24256FD0B",
+      "url": "https://github.com/Ishmael-GameDev/Platforming-QoL-mod/releases/download/PlatformingQoL-v1.0.0/Platforming.QoL.zip"
+    },
+    "dependencies": [],
+    "repository": "https://github.com/Ishmael-GameDev/Platforming-QoL-mod",
+    "tags": [
+      "Gameplay",
+      "Utility"
+    ],
+    "authors": [
+      "Ishmael"
     ]
   },
   "PlayerDataManager": {
@@ -8407,11 +8448,11 @@
   },
   "Trial of Crusaders": {
     "description": "A rogue-like mod inspired by Dead Cells, Binding of Isaac and Blue Prince.",
-    "version": "0.2.3.0",
+    "version": "0.2.4.0",
     "links": {
       "type": "universal",
-      "sha256": "690207F50301F695C759B4C8FB17AA70F71E3113E352C754620680DE18E103D6",
-      "url": "https://github.com/Korzer420/TrialOfCrusaders/releases/download/v0.2.3/TrialOfCrusaders.zip"
+      "sha256": "E8B289FB3B87F555C27C31AE5E2B1773ECC50B5943D23F903417202AF116F064",
+      "url": "https://github.com/Korzer420/TrialOfCrusaders/releases/download/v0.2.4/TrialOfCrusaders.zip"
     },
     "dependencies": [
       "KorzUtils",

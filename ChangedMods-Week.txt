@@ -1,9 +1,4 @@
 Architect
-CharmPatch
-DapperMapperSpoils
-KorzUtils
-Trial of Crusaders
-Architect
 Curse Randomizer
 CustomizableNailDamage
 Extra Rando
@@ -30,3 +25,8 @@ TreasureHunt
 Trial of Crusaders
 BugPrince
 TreasureHunt
+Architect
+DashChanger
+MidasTouch
+PlatformingQoL
+Trial of Crusaders

@@ -64,6 +64,15 @@
 - Tags
   + Gameplay
 
+### DashChanger
+
+- Description: Allows you to change the horizontal and vertical length of the dash.
+- Dependencies
+  + HKMirror
+  + Satchel
+- Tags
+  + Gameplay
+
 ### ExaltationExpanded
 
 - Description: A fan-made supplement to the Exaltation mod created by Xhuis (and ported/updated by Théodore).
@@ -132,6 +141,13 @@
 
 - Description: Flukes don&#x27;t disappear
 
+### PlatformingQoL
+
+- Description: Quality of life improvements for Hollow Knight platforming, including hitbox visualization and respawn animation skipping.
+- Tags
+  + Gameplay
+  + Utility
+
 ### RainbowShinies
 
 - Description: Makes all shinies have a random color
@@ -189,7 +205,7 @@
 
 ### CharmPatch
 
-- Version: 1.4.0.0 -> 1.4.2.0
+- Version: 1.4.1.0 -> 1.4.2.0
 
 ### Curse Randomizer
 
@@ -222,6 +238,13 @@
 ### MapChanger
 
 - Version: 1.3.8.0 -> 1.3.9.0
+
+### MidasTouch
+
+- Version: 1.0.1.1 -> 1.1.0.0
+- Integrations
+  + Added
+    - DebugMod
 
 ### MilliGolf
 

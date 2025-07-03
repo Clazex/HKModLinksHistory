@@ -19,3 +19,5 @@ Trial of Crusaders
 HK_QoLTeleportKit
 WanderersWisdom
 PermaFlukes
+DashChanger
+PlatformingQoL

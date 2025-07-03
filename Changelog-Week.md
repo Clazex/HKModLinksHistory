@@ -3,6 +3,15 @@
 
 ## New mods
 
+### DashChanger
+
+- Description: Allows you to change the horizontal and vertical length of the dash.
+- Dependencies
+  + HKMirror
+  + Satchel
+- Tags
+  + Gameplay
+
 ### HK_QoLTeleportKit
 
 - Description: QoL Teleport Kit is a Hollow Knight mod that adds a convenient teleportation system.
@@ -13,15 +22,12 @@
 
 - Description: Flukes don&#x27;t disappear
 
-### Trial of Crusaders
+### PlatformingQoL
 
-- Description: A rogue-like mod inspired by Dead Cells, Binding of Isaac and Blue Prince.
-- Dependencies
-  + KorzUtils
-  + MenuChanger
-  + SFCore
+- Description: Quality of life improvements for Hollow Knight platforming, including hitbox visualization and respawn animation skipping.
 - Tags
   + Gameplay
+  + Utility
 
 ### WanderersWisdom
 
@@ -37,21 +43,14 @@
 
 ### Architect
 
-- Version: 1.2.0.0 -> 1.5.1.2
+- Version: 1.2.2.0 -> 1.5.3.0
 - Description
   + Old: A mod to add platforms, enemies and more to change areas in the game with an in-game level editor and level sharer.
   + New: A mod to add/remove platforms, enemies and more to change areas in the game with an in-game level editor and level sharer.
-- Dependencies
-  + Added
-    - SFCore
 
 ### BugPrince
 
 - Version: 1.2.0.0 -> 1.3.2.0
-
-### CharmPatch
-
-- Version: 1.4.1.1 -> 1.4.2.0
 
 ### Curse Randomizer
 
@@ -63,10 +62,6 @@
 - Description
   + Old: A Hollow Knight mod that allows you to change the damage of the nail almost as you like.
   + New: Mod that allows you to change the damage of the nail, including negative and fractional. Negative nail will heal enemies.
-
-### DapperMapperSpoils
-
-- Version: 1.1.0.0 -> 1.2.0.0
 
 ### DivineFury
 
@@ -84,9 +79,12 @@
 
 - Version: 1.1.0.1 -> 1.2.0.0
 
-### KorzUtils
+### MidasTouch
 
-- Version: 0.8.0.0 -> 0.9.0.0
+- Version: 1.0.1.1 -> 1.1.0.0
+- Integrations
+  + Added
+    - DebugMod
 
 ### Transcendence
 
@@ -95,4 +93,8 @@
 ### TreasureHunt
 
 - Version: 1.4.1.0 -> 1.6.1.0
+
+### Trial of Crusaders
+
+- Version: 0.1.0.0 -> 0.2.4.0
 

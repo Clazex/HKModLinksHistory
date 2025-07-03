@@ -1,2 +1,5 @@
-BugPrince
-TreasureHunt
+Architect
+DashChanger
+MidasTouch
+PlatformingQoL
+Trial of Crusaders
