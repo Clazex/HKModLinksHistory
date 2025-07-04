@@ -6588,9 +6588,9 @@ Enjoy!</Description>
     <Manifest>
         <Name>Extra Rando</Name>
         <Description>Randomizer 4 connection with miscellaneous settings.</Description>
-        <Version>0.6.1.0</Version>
-        <Link SHA256="941ee4da844a0e01c6430d91b9fa347ed8397854dfee059795c71691bd984d1d">
-            <![CDATA[https://github.com/Korzer420/ExtraRando/releases/download/v0.6.1/ExtraRando.zip]]></Link>
+        <Version>0.6.2.0</Version>
+        <Link SHA256="1880ba3056f683844780b719de6e8f82dfd840c85d98004abbcc14c59a507b4c">
+            <![CDATA[https://github.com/Korzer420/ExtraRando/releases/download/v0.6.2/ExtraRando.zip]]></Link>
         <Dependencies>
             <Dependency>Randomizer 4</Dependency>
             <Dependency>KorzUtils</Dependency>
@@ -6650,9 +6650,9 @@ Enjoy!</Description>
     <Manifest>
         <Name>Trial of Crusaders</Name>
         <Description>A rogue-like mod inspired by Dead Cells, Binding of Isaac and Blue Prince.</Description>
-        <Version>0.1.0.0</Version>
-        <Link SHA256="b70b8504a798fe6790c8145e2a0bdff92bfeca1d81552af3f7e946b638f4f3b4">
-            <![CDATA[https://github.com/Korzer420/TrialOfCrusaders/releases/download/v0.1.0/TrialOfCrusaders.zip]]></Link>
+        <Version>0.1.2.0</Version>
+        <Link SHA256="f511acfd551402daac3cbc1cd24e00506078ff6a9f8d29683745328df53175f8">
+            <![CDATA[https://github.com/Korzer420/TrialOfCrusaders/releases/download/v0.1.2/TrialOfCrusaders.zip]]></Link>
         <Dependencies>
             <Dependency>SFCore</Dependency>
             <Dependency>KorzUtils</Dependency>
@@ -6908,9 +6908,9 @@ Enjoy!</Description>
     <Manifest>
         <Name>TreasureHunt</Name>
         <Description>A Randomizer 4 connection fro a semi-spoiler format.</Description>
-        <Version>1.4.1.0</Version>
-        <Link SHA256="D2CC4B9D435C123AE8A8ACE305CDA3F0164356B6698EB4645C0241DE194FD993">
-            <![CDATA[https://github.com/dplochcoder/HollowKnight.TreasureHunt/releases/download/v1.4.1.0/TreasureHunt.zip]]>
+        <Version>1.5.0.0</Version>
+        <Link SHA256="E9B610DE5B961DFE4CDEE8D26F8D7636764930367AB5560BBEA72E81A86C6FF9">
+            <![CDATA[https://github.com/dplochcoder/HollowKnight.TreasureHunt/releases/download/v1.5.0.0/TreasureHunt.zip]]>
         </Link>
         <Dependencies>
             <Dependency>ConnectionMetadataInjector</Dependency>
@@ -7095,9 +7095,9 @@ Enjoy!</Description>
     <Manifest>
         <Name>Curse Randomizer</Name>
         <Description>Randomizer 4 connection that adds additional cursed options.</Description>
-        <Version>5.1.5.0</Version>
-        <Link SHA256="936e2348d715296de04f76f7f83c53c686cb376f47d6fc2bffad24ab40c47d60">
-            <![CDATA[https://github.com/Korzer420/CurseRandomizer/releases/download/v5.1.5/CurseRandomizer.zip]]></Link>
+        <Version>5.1.6.0</Version>
+        <Link SHA256="acc94d31c8a76ec8c64c6062d30308af9a6c6bcba4e8a7d6b73805e991b6e023">
+            <![CDATA[https://github.com/Korzer420/CurseRandomizer/releases/download/v5.1.6/CurseRandomizer.zip]]></Link>
         <Dependencies>
             <Dependency>Randomizer 4</Dependency>
             <Dependency>Benchwarp</Dependency>
@@ -9233,9 +9233,9 @@ Enjoy!</Description>
     <Manifest>
         <Name>Architect</Name>
         <Description>A mod to add platforms, enemies and more to change areas in the game with an in-game level editor and level sharer.</Description>
-        <Version>1.2.2.0</Version>
-        <Link SHA256="f2e37e7ae2e8dee524eac67beaae072b84afff2fa517e794a4d0d5e0e9e689ed">
-            <![CDATA[https://github.com/cometcake575/Architect/releases/download/1.2.2.0/Architect.zip]]>
+        <Version>1.3.2.1</Version>
+        <Link SHA256="1ebf39404b7ff8a091c376001f33a308fc77c6c329e5f873517a9f5003a66073">
+            <![CDATA[https://github.com/cometcake575/Architect/releases/download/1.3.2.1/Architect.zip]]>
         </Link>
         <Dependencies>
             <Dependency>Satchel</Dependency>
@@ -9307,9 +9307,9 @@ Enjoy!</Description>
     <Manifest>
         <Name>CustomizableNailDamage</Name>
         <Description>A Hollow Knight mod that allows you to change the damage of the nail almost as you like.</Description>
-        <Version>1.0.0.0</Version>
-        <Link SHA256="470af11426a35dbb4223937d585bd00aedf9bd82fedacb886672a0d97e205293">
-            <![CDATA[https://github.com/kon4ino/CustomizableNailDamage/releases/download/1.0/CustomizableNailDamage.zip]]>
+        <Version>1.1.0.1</Version>
+        <Link SHA256="a2044bce18199a011ae30061030972bd6307c6d9e8dde6b9b818d7793905bf5b">
+            <![CDATA[https://github.com/kon4ino/CustomizableNailDamage/releases/download/1.1.0.1/CustomizableNailDamage.zip]]>
         </Link>
         <Dependencies>
             <Dependency>Satchel</Dependency>
@@ -9322,6 +9322,26 @@ Enjoy!</Description>
         </Tags>
         <Authors>
             <Author>kon4ino</Author>
+        </Authors>
+    </Manifest>
+    <Manifest>
+        <Name>HK_QoLTeleportKit</Name>
+        <Description>QoL Teleport Kit is a Hollow Knight mod that adds a convenient teleportation system.</Description>
+        <Version>1.0.0.0</Version>
+        <Link SHA256="e27a73066c16120e0964a12723750fa68efcc8fcf938a483426df157b948966d">
+            <![CDATA[https://github.com/NightFuryoOo/HK_QoLTeleportKit/releases/download/v1.0.0.0/QoLTeleportKit.zip]]>
+        </Link>
+        <Dependencies>
+            <Dependency>Satchel</Dependency>
+        </Dependencies>
+        <Repository>
+            <![CDATA[https://github.com/NightFuryoOo/HK_QoLTeleportKit]]> 
+        </Repository>
+        <Tags>
+            <Tag>Gameplay</Tag>
+        </Tags>
+        <Authors>
+            <Author>NightFuryo3o</Author>
         </Authors>
     </Manifest>
 </ModLinks>

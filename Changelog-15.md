@@ -1,20 +1,17 @@
 # Changelog
 
 
-## New mods
+## Updated mods
 
-### GloriousGrimmMusic
+### RCPathfinder
 
-- Description: Listen to the more intense layer of Grimm&#x27;s theme for the whole fight
-- Dependencies
-  + Satchel
+- Version: 1.4.2.0 -> 1.4.5.0
 
-### ScreenResolution
+### RandoMapCore
 
-- Description: Adds more available screen resolution options.
-- Dependencies
-  + SFCore
-  + Satchel
-- Tags
-  + Utility
+- Version: 1.0.12.0 -> 1.0.14.0
+
+### RandoMapMod
+
+- Version: 3.6.5.0 -> 3.6.6.0
 

@@ -1,5 +1,3 @@
-PurenailCore
-TreasureHunt
 TreasureHunt
 GrubSpoiler
 Silksong Healing
@@ -84,3 +82,6 @@ DashChanger
 MidasTouch
 PlatformingQoL
 Trial of Crusaders
+Architect
+BugPrince
+SFCore

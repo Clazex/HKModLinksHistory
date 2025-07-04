@@ -252,7 +252,7 @@
 
 ### PurenailCore
 
-- Version: 1.3.1.0 -> 1.4.0.0
+- Version: 1.3.2.0 -> 1.4.0.0
 
 ### RCPathfinder
 
@@ -265,6 +265,10 @@
 ### RandoMapMod
 
 - Version: 3.6.5.0 -> 3.6.7.0
+
+### SFCore
+
+- Version: 1.5.14.10 -> 1.5.14.14
 
 ### Satchel
 
@@ -292,8 +296,5 @@
 
 ### TreasureHunt
 
-- Version: 1.4.0.0 -> 1.6.1.0
-- Dependencies
-  + Added
-    - SFCore
+- Version: 1.4.0.2 -> 1.6.1.0
 

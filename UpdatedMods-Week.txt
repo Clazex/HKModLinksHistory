@@ -1,9 +1,3 @@
-Architect
-Curse Randomizer
-CustomizableNailDamage
-Extra Rando
-TreasureHunt
-Trial of Crusaders
 Transcendence
 Trial of Crusaders
 Architect
@@ -25,3 +19,6 @@ TreasureHunt
 Architect
 MidasTouch
 Trial of Crusaders
+Architect
+BugPrince
+SFCore

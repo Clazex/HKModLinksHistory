@@ -2926,9 +2926,9 @@ All with an incredible new soundtrack!</Description>
         <Name>CustomBgm</Name>
         <DisplayName>Custom BGM</DisplayName>
         <Description>Allows customization of background music. See its readme for a how-to.</Description>
-        <Version>1.5.4.0</Version>
-        <Link SHA256="F0715A32FDAAD6495329536A0415CBD39297588ADD2EAE072BB7687AF882751C">
-            <![CDATA[https://github.com/SFGrenade/CustomBgm/releases/download/v1.5.4.0/CustomBgm.zip]]>
+        <Version>1.5.5.0</Version>
+        <Link SHA256="EED2320FE6A4A0836D873C4C423A4F57750A93312A6D220459514D27373AB4E9">
+            <![CDATA[https://github.com/SFGrenade/CustomBgm/releases/download/v1.5.5.0/CustomBgm.zip]]>
         </Link>
         <Dependencies />
         <Repository>
@@ -9128,6 +9128,41 @@ Enjoy!</Description>
         </Tags>
         <Authors>
             <Author>EarlyHemisphere</Author>
+        </Authors>
+    </Manifest>
+    <Manifest>
+        <Name>RainbowShinies</Name>
+        <Description>Makes all shinies have a random color</Description>
+        <Version>1.0.0.0</Version>
+        <Link SHA256="8ee2f97d80e553f06c7dc1fa6a45b8c273b1f11805942192f11e56bb0c64f635">https://github.com/dpinela/RainbowShinies/releases/download/v1.0/RainbowShinies.zip</Link>
+        <Dependencies></Dependencies>
+        <Repository>https://github.com/dpinela/RainbowShinies</Repository>
+    </Manifest>
+    <Manifest>
+        <Name>Architect</Name>
+        <Description>A mod to add platforms, enemies and more to change areas in the game with an in-game level editor.</Description>
+        <Version>1.0.0.0</Version>
+        <Link SHA256="84dcafc19bd7a3f65b14a16d13a34c422f6e67c56c9334ff03c29c318eb071d4">
+            <![CDATA[https://github.com/cometcake575/Architect/releases/download/Release/Architect.zip]]>
+        </Link>
+        <Dependencies>
+            <Dependency>Satchel</Dependency>
+            <Dependency>MagicUI</Dependency>
+        </Dependencies>
+        <Repository>
+            <![CDATA[https://github.com/cometcake575/Architect]]>
+        </Repository>
+        <Issues>
+            <![CDATA[https://github.com/cometcake575/Architect/issues]]>
+        </Issues>
+        <Integrations>
+            <Integration>HKMP</Integration>
+        </Integrations>
+        <Tags>
+            <Tag>Gameplay</Tag>
+        </Tags>
+        <Authors>
+            <Author>cometcake575</Author>
         </Authors>
     </Manifest>
 </ModLinks>
