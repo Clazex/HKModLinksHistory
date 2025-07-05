@@ -296,5 +296,5 @@
 
 ### TreasureHunt
 
-- Version: 1.4.0.2 -> 1.6.1.0
+- Version: 1.4.1.0 -> 1.6.1.0
 

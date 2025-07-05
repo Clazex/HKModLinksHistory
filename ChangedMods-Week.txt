@@ -1,6 +1,3 @@
-Transcendence
-Trial of Crusaders
-WanderersWisdom
 Architect
 CustomizableNailDamage
 DivineFury
@@ -26,3 +23,5 @@ Trial of Crusaders
 Architect
 BugPrince
 SFCore
+Architect
+Trial of Crusaders

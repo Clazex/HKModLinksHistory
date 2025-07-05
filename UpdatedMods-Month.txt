@@ -1,4 +1,3 @@
-TreasureHunt
 AccessRandomizer
 Breakable Wall Randomizer
 Breakable Wall Randomizer
@@ -62,3 +61,5 @@ Trial of Crusaders
 Architect
 BugPrince
 SFCore
+Architect
+Trial of Crusaders

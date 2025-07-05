@@ -1,1 +1,3 @@
-BugPrince
+CharmPatch
+Satchel
+SpeedChanger

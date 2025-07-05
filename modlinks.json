@@ -408,11 +408,11 @@
   },
   "Architect": {
     "description": "A mod to add/remove platforms, enemies and more to change areas in the game with an in-game level editor and level sharer.",
-    "version": "1.6.0.2",
+    "version": "1.6.1.2",
     "links": {
       "type": "universal",
-      "sha256": "80DBB8BC4C8D16091643726FE3D9DC26FC3647211A7CCC9206B6257C16D0E21F",
-      "url": "https://github.com/cometcake575/Architect/releases/download/1.6.0.2/Architect.zip"
+      "sha256": "6A5B9A3A4362FC2764ECA5D68B11BAAB182383F211D2641087F51C17E26BEDCD",
+      "url": "https://github.com/cometcake575/Architect/releases/download/1.6.1.2/Architect.zip"
     },
     "dependencies": [
       "MagicUI",
@@ -8449,11 +8449,11 @@
   },
   "Trial of Crusaders": {
     "description": "A rogue-like mod inspired by Dead Cells, Binding of Isaac and Blue Prince.",
-    "version": "0.2.4.0",
+    "version": "0.2.5.0",
     "links": {
       "type": "universal",
-      "sha256": "E8B289FB3B87F555C27C31AE5E2B1773ECC50B5943D23F903417202AF116F064",
-      "url": "https://github.com/Korzer420/TrialOfCrusaders/releases/download/v0.2.4/TrialOfCrusaders.zip"
+      "sha256": "4B5AA40AB14C1D1EC979F81EADCC8FC2A22A5B6A8CF336CEF3B2C3056161D4C5",
+      "url": "https://github.com/Korzer420/TrialOfCrusaders/releases/download/v0.2.5/TrialOfCrusaders.zip"
     },
     "dependencies": [
       "KorzUtils",

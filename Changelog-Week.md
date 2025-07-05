@@ -23,21 +23,12 @@
   + Gameplay
   + Utility
 
-### WanderersWisdom
-
-- Description: A mod that adds 2 new charms: Wanderer&#x27;s Wisdom and Wanderer&#x27;s Guile.
-- Dependencies
-  + ItemChanger
-  + SFCore
-- Tags
-  + Gameplay
-
 
 ## Updated mods
 
 ### Architect
 
-- Version: 1.3.2.1 -> 1.6.0.2
+- Version: 1.3.2.1 -> 1.6.1.2
 - Description
   + Old: A mod to add platforms, enemies and more to change areas in the game with an in-game level editor and level sharer.
   + New: A mod to add/remove platforms, enemies and more to change areas in the game with an in-game level editor and level sharer.
@@ -78,7 +69,7 @@
 
 ### Transcendence
 
-- Version: 1.5.2.0 -> 1.5.5.0
+- Version: 1.5.3.0 -> 1.5.5.0
 
 ### TreasureHunt
 
@@ -86,5 +77,5 @@
 
 ### Trial of Crusaders
 
-- Version: 0.1.2.0 -> 0.2.4.0
+- Version: 0.2.0.0 -> 0.2.5.0
 

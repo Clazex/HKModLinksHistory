@@ -1,17 +1,22 @@
 # Changelog
 
 
+## New mods
+
+### ConfigurableMaskDamage
+
+- Description: Changes the amount of damage dealt to the knight
+- Tags
+  + Gameplay
+
+
 ## Updated mods
 
-### RCPathfinder
+### Archipelago Map Mod
 
-- Version: 1.4.2.0 -> 1.4.5.0
+- Version: 3.0.1.0 -> 3.1.0.0
 
-### RandoMapCore
+### CustomBgm
 
-- Version: 1.0.12.0 -> 1.0.14.0
-
-### RandoMapMod
-
-- Version: 3.6.5.0 -> 3.6.6.0
+- Version: 1.5.5.0 -> 1.5.5.1
 

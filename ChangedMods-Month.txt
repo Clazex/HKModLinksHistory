@@ -1,4 +1,3 @@
-TreasureHunt
 GrubSpoiler
 Silksong Healing
 AccessRandomizer
@@ -85,3 +84,5 @@ Trial of Crusaders
 Architect
 BugPrince
 SFCore
+Architect
+Trial of Crusaders

@@ -1,4 +1,3 @@
-WanderersWisdom
 PermaFlukes
 DashChanger
 PlatformingQoL
