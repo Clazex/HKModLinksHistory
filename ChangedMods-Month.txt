@@ -1,5 +1,3 @@
-GrubSpoiler
-Silksong Healing
 AccessRandomizer
 Breakable Wall Randomizer
 Mimicpocalypse
@@ -86,3 +84,5 @@ BugPrince
 SFCore
 Architect
 Trial of Crusaders
+Architect
+Wrong Gravity

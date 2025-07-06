@@ -21,6 +21,7 @@
   + Satchel
 - Integrations
   + HKMP
+  + Scattered and Lost
 - Tags
   + Gameplay
 
@@ -102,14 +103,6 @@
 - Dependencies
   + Satchel
 
-### GrubSpoiler
-
-- Description: A mod to add Grubs to CondensedSpoilerLog.
-- Integrations
-  + CondensedSpoilerLogger
-- Tags
-  + Gameplay
-
 ### HK_QoLTeleportKit
 
 - Description: QoL Teleport Kit is a Hollow Knight mod that adds a convenient teleportation system.
@@ -161,14 +154,6 @@
 - Tags
   + Utility
 
-### Silksong Healing
-
-- Description: Adds a charm called Soulburst, which allows players to instantly heal 3 masks when they have 99 soul, similar to Silksong
-- Dependencies
-  + SFCore
-- Tags
-  + Gameplay
-
 ### Trial of Crusaders
 
 - Description: A rogue-like mod inspired by Dead Cells, Binding of Isaac and Blue Prince.
@@ -185,6 +170,14 @@
 - Dependencies
   + ItemChanger
   + SFCore
+- Tags
+  + Gameplay
+
+### Wrong Gravity
+
+- Description: Hallownest? Hɐlloʍuǝsʇ!
+- Dependencies
+  + Vasi
 - Tags
   + Gameplay
 

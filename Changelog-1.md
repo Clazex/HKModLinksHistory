@@ -1,13 +1,23 @@
 # Changelog
 
 
+## New mods
+
+### Wrong Gravity
+
+- Description: Hallownest? Hɐlloʍuǝsʇ!
+- Dependencies
+  + Vasi
+- Tags
+  + Gameplay
+
+
 ## Updated mods
 
 ### Architect
 
-- Version: 1.6.0.2 -> 1.6.1.2
-
-### Trial of Crusaders
-
-- Version: 0.2.4.0 -> 0.2.5.0
+- Version: 1.6.1.2 -> 1.7.1.0
+- Integrations
+  + Added
+    - Scattered and Lost
 

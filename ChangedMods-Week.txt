@@ -1,12 +1,4 @@
 Architect
-CustomizableNailDamage
-DivineFury
-ExaltationExpanded
-Hivesong
-PermaFlukes
-Transcendence
-Trial of Crusaders
-Architect
 BugPrince
 CustomizableNailDamage
 PermaFlukes
@@ -25,3 +17,5 @@ BugPrince
 SFCore
 Architect
 Trial of Crusaders
+Architect
+Wrong Gravity

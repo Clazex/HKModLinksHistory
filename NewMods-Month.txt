@@ -1,5 +1,3 @@
-GrubSpoiler
-Silksong Healing
 Mimicpocalypse
 BugPrince
 All4Love
@@ -21,3 +19,4 @@ WanderersWisdom
 PermaFlukes
 DashChanger
 PlatformingQoL
+Wrong Gravity

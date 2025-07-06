@@ -408,11 +408,11 @@
   },
   "Architect": {
     "description": "A mod to add/remove platforms, enemies and more to change areas in the game with an in-game level editor and level sharer.",
-    "version": "1.6.1.2",
+    "version": "1.7.1.0",
     "links": {
       "type": "universal",
-      "sha256": "6A5B9A3A4362FC2764ECA5D68B11BAAB182383F211D2641087F51C17E26BEDCD",
-      "url": "https://github.com/cometcake575/Architect/releases/download/1.6.1.2/Architect.zip"
+      "sha256": "C2EB33021A48BC3F740363188313566F2FDCF91972EFB1DA1D1426AD606D47CF",
+      "url": "https://github.com/cometcake575/Architect/releases/download/1.7.1.0/Architect.zip"
     },
     "dependencies": [
       "MagicUI",
@@ -422,7 +422,8 @@
     "repository": "https://github.com/cometcake575/Architect",
     "issues": "https://github.com/cometcake575/Architect/issues",
     "integrations": [
-      "HKMP"
+      "HKMP",
+      "Scattered and Lost"
     ],
     "tags": [
       "Gameplay"
@@ -8838,6 +8839,25 @@
     "repository": "https://github.com/TheMathGeek314/WorseSteadyBody/",
     "authors": [
       "TheMathGeek_314"
+    ]
+  },
+  "Wrong Gravity": {
+    "description": "Hallownest? Hɐlloʍuǝsʇ!",
+    "version": "1.0.0.0",
+    "links": {
+      "type": "universal",
+      "sha256": "A95BCAE12E8DD96EEA1D1107A3CB71D3090525CE864BFBF6E34E3BCB542D5137",
+      "url": "https://github.com/FrogBishop/HollowKnight.WrongGravity/releases/download/1.0.0.0/WrongGravity.zip"
+    },
+    "dependencies": [
+      "Vasi"
+    ],
+    "repository": "https://github.com/FrogBishop/HollowKnight.WrongGravity",
+    "tags": [
+      "Gameplay"
+    ],
+    "authors": [
+      "FrogBishop"
     ]
   },
   "Zaliants Surprise": {
