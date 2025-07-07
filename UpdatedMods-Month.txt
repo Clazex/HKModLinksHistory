@@ -64,3 +64,6 @@ SFCore
 Architect
 Trial of Crusaders
 Architect
+Architect
+BugPrince
+Scattered and Lost

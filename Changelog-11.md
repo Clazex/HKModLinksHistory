@@ -3,22 +3,35 @@
 
 ## New mods
 
-### CustomizableNailDamage
+### Trial of Crusaders
 
-- Description: A Hollow Knight mod that allows you to change the damage of the nail almost as you like.
+- Description: A rogue-like mod inspired by Dead Cells, Binding of Isaac and Blue Prince.
 - Dependencies
-  + Satchel
+  + KorzUtils
+  + MenuChanger
+  + SFCore
 - Tags
   + Gameplay
 
 
 ## Updated mods
 
-### ConfigurableMaskDamage
+### Architect
 
-- Version: 1.1.1.0 -> 1.1.2.0
+- Version: 1.2.0.0 -> 1.2.2.0
+- Dependencies
+  + Added
+    - SFCore
 
-### SpicyRando
+### CharmPatch
 
-- Version: 1.2.2.0 -> 1.2.3.0
+- Version: 1.4.1.1 -> 1.4.2.0
+
+### DapperMapperSpoils
+
+- Version: 1.1.0.0 -> 1.2.0.0
+
+### KorzUtils
+
+- Version: 0.8.0.0 -> 0.9.0.0
 

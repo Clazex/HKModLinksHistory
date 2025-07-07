@@ -408,11 +408,11 @@
   },
   "Architect": {
     "description": "A mod to add/remove platforms, enemies and more to change areas in the game with an in-game level editor and level sharer.",
-    "version": "1.7.1.0",
+    "version": "1.7.3.0",
     "links": {
       "type": "universal",
-      "sha256": "C2EB33021A48BC3F740363188313566F2FDCF91972EFB1DA1D1426AD606D47CF",
-      "url": "https://github.com/cometcake575/Architect/releases/download/1.7.1.0/Architect.zip"
+      "sha256": "EA680378437927A6975312C8777FCBE84B15258274046E3E2CDD69D284B7E064",
+      "url": "https://github.com/cometcake575/Architect/releases/download/1.7.3.0/Architect.zip"
     },
     "dependencies": [
       "MagicUI",
@@ -963,11 +963,11 @@
   },
   "BugPrince": {
     "description": "A Randomizer 4 connection which combines Blue Prince mechanics with Hollow Knight transition randomizer.",
-    "version": "1.3.3.0",
+    "version": "1.4.0.0",
     "links": {
       "type": "universal",
       "sha256": "9F5FAB35BB9972DE30B1F2C3016C03DBBACC72DF90D365E2BF55AFB240AC6FFD",
-      "url": "https://github.com/dplochcoder/HollowKnight.BugPrince/releases/download/v1.3.3/BugPrince.zip"
+      "url": "https://github.com/dplochcoder/HollowKnight.BugPrince/releases/download/v1.4/BugPrince.zip"
     },
     "dependencies": [
       "Benchwarp",
@@ -7248,11 +7248,11 @@
   },
   "Scattered and Lost": {
     "description": "Celeste-themed content mod, expanding Bretta's hut",
-    "version": "1.4.3.1",
+    "version": "1.5.0.0",
     "links": {
       "type": "universal",
-      "sha256": "DD4D16CE0AFF80FB72F116D2C2B391FD1EB99CEC2025736B129BB351BECC63AF",
-      "url": "https://github.com/dplochcoder/HollowKnight.ScatteredAndLost/releases/download/v1.4.3.1/Scattered.and.Lost.zip"
+      "sha256": "6F2DEEE22BB13E54A8E7801198F64CF296A225CA181D543AC203779C4B856A70",
+      "url": "https://github.com/dplochcoder/HollowKnight.ScatteredAndLost/releases/download/v1.5.0.0/Scattered.and.Lost.zip"
     },
     "dependencies": [
       "ItemChanger",
@@ -7264,6 +7264,7 @@
     ],
     "repository": "https://github.com/dplochcoder/HollowKnight.ScatteredAndLost",
     "integrations": [
+      "BugPrince",
       "CondensedSpoilerLogger",
       "DebugMod",
       "DecorationMaster",

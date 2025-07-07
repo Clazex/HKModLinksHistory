@@ -1,3 +1,8 @@
+Architect
+CustomizableNailDamage
+DivineFury
+ExaltationExpanded
+Hivesong
+PermaFlukes
 Transcendence
 Trial of Crusaders
-WanderersWisdom

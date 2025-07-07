@@ -32,18 +32,14 @@
 
 ### Architect
 
-- Version: 1.4.0.0 -> 1.7.1.0
+- Version: 1.5.1.2 -> 1.7.3.0
 - Integrations
   + Added
     - Scattered and Lost
 
 ### BugPrince
 
-- Version: 1.2.0.0 -> 1.3.3.0
-
-### CustomizableNailDamage
-
-- Version: 1.2.0.0 -> 1.2.1.0
+- Version: 1.3.1.0 -> 1.4.0.0
 
 ### MidasTouch
 
@@ -52,23 +48,22 @@
   + Added
     - DebugMod
 
-### PermaFlukes
-
-- Version: 1.0.0.0 -> 1.0.0.1
-
 ### SFCore
 
 - Version: 1.5.14.10 -> 1.5.14.14
 
-### Transcendence
+### Scattered and Lost
 
-- Version: 1.5.4.0 -> 1.5.5.0
+- Version: 1.4.3.1 -> 1.5.0.0
+- Integrations
+  + Added
+    - BugPrince
 
 ### TreasureHunt
 
-- Version: 1.5.0.0 -> 1.6.1.0
+- Version: 1.6.0.0 -> 1.6.1.0
 
 ### Trial of Crusaders
 
-- Version: 0.2.2.0 -> 0.2.5.0
+- Version: 0.2.3.0 -> 0.2.5.0
 

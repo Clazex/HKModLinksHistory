@@ -1,16 +1,24 @@
 # Changelog
 
 
+## New mods
+
+### CustomizableNailDamage
+
+- Description: A Hollow Knight mod that allows you to change the damage of the nail almost as you like.
+- Dependencies
+  + Satchel
+- Tags
+  + Gameplay
+
+
 ## Updated mods
 
-### Architect
+### ConfigurableMaskDamage
 
-- Version: 1.1.0.0 -> 1.2.0.0
-- Description
-  + Old: A mod to add platforms, enemies and more to change areas in the game with an in-game level editor.
-  + New: A mod to add platforms, enemies and more to change areas in the game with an in-game level editor and level sharer.
+- Version: 1.1.1.0 -> 1.1.2.0
 
-### BugPrince
+### SpicyRando
 
-- Version: 1.1.0.0 -> 1.2.0.0
+- Version: 1.2.2.0 -> 1.2.3.0
 

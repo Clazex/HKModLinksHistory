@@ -269,7 +269,10 @@
 
 ### Scattered and Lost
 
-- Version: 1.4.3.0 -> 1.4.3.1
+- Version: 1.4.3.0 -> 1.5.0.0
+- Integrations
+  + Added
+    - BugPrince
 
 ### Smart Nail
 
