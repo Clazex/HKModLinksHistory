@@ -1,5 +1,3 @@
-BugPrince
-TreasureHunt
 Architect
 DashChanger
 MidasTouch
@@ -15,3 +13,6 @@ Wrong Gravity
 Architect
 BugPrince
 Scattered and Lost
+Architect
+BugPrince
+ShowHPOnDeath

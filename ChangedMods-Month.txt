@@ -89,3 +89,6 @@ Wrong Gravity
 Architect
 BugPrince
 Scattered and Lost
+Architect
+BugPrince
+ShowHPOnDeath

@@ -408,11 +408,11 @@
   },
   "Architect": {
     "description": "A mod to add/remove platforms, enemies and more to change areas in the game with an in-game level editor and level sharer.",
-    "version": "1.7.3.0",
+    "version": "1.8.0.0",
     "links": {
       "type": "universal",
-      "sha256": "EA680378437927A6975312C8777FCBE84B15258274046E3E2CDD69D284B7E064",
-      "url": "https://github.com/cometcake575/Architect/releases/download/1.7.3.0/Architect.zip"
+      "sha256": "C8D7754A9BBFE8034C6DEAFE17848BB03F3FE4E8F0C713126C29088B71239764",
+      "url": "https://github.com/cometcake575/Architect/releases/download/1.8.0.0/Architect.zip"
     },
     "dependencies": [
       "MagicUI",
@@ -963,11 +963,11 @@
   },
   "BugPrince": {
     "description": "A Randomizer 4 connection which combines Blue Prince mechanics with Hollow Knight transition randomizer.",
-    "version": "1.4.0.0",
+    "version": "1.4.1.0",
     "links": {
       "type": "universal",
-      "sha256": "9F5FAB35BB9972DE30B1F2C3016C03DBBACC72DF90D365E2BF55AFB240AC6FFD",
-      "url": "https://github.com/dplochcoder/HollowKnight.BugPrince/releases/download/v1.4/BugPrince.zip"
+      "sha256": "83DB24C040FB16B53FDB4741C772B2416861F1361310325EE2E5DF1BE2B242D3",
+      "url": "https://github.com/dplochcoder/HollowKnight.BugPrince/releases/download/v1.4.1/BugPrince.zip"
     },
     "dependencies": [
       "Benchwarp",
@@ -7498,6 +7498,24 @@
     ],
     "authors": [
       "SFGrenade"
+    ]
+  },
+  "ShowHPOnDeath": {
+    "description": "A mod that allows you to watch hp after death",
+    "version": "1.1.1.0",
+    "links": {
+      "type": "universal",
+      "sha256": "97F174166B418F2CEA3775C43BA9402EBAB6443C73D7CF39FD7E89C2BD61F5C7",
+      "url": "https://github.com/F1NS3N/ShowHPOnDeath/releases/download/ShowHPOnDeath-v1.1.1/ShowHPOnDeath.zip"
+    },
+    "dependencies": [],
+    "repository": "https://github.com/F1NS3N/ShowHPOnDeath",
+    "tags": [
+      "Gameplay",
+      "Utility"
+    ],
+    "authors": [
+      "FIN"
     ]
   },
   "ShuffledCharmEffects": {

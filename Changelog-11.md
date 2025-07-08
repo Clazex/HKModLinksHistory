@@ -3,13 +3,11 @@
 
 ## New mods
 
-### Trial of Crusaders
+### HK_QoLTeleportKit
 
-- Description: A rogue-like mod inspired by Dead Cells, Binding of Isaac and Blue Prince.
+- Description: QoL Teleport Kit is a Hollow Knight mod that adds a convenient teleportation system.
 - Dependencies
-  + KorzUtils
-  + MenuChanger
-  + SFCore
+  + Satchel
 - Tags
   + Gameplay
 
@@ -18,20 +16,25 @@
 
 ### Architect
 
-- Version: 1.2.0.0 -> 1.2.2.0
-- Dependencies
-  + Added
-    - SFCore
+- Version: 1.2.2.0 -> 1.3.2.1
 
-### CharmPatch
+### Curse Randomizer
 
-- Version: 1.4.1.1 -> 1.4.2.0
+- Version: 5.1.5.0 -> 5.1.6.0
 
-### DapperMapperSpoils
+### CustomizableNailDamage
 
-- Version: 1.1.0.0 -> 1.2.0.0
+- Version: 1.0.0.0 -> 1.1.0.1
 
-### KorzUtils
+### Extra Rando
 
-- Version: 0.8.0.0 -> 0.9.0.0
+- Version: 0.6.1.0 -> 0.6.2.0
+
+### TreasureHunt
+
+- Version: 1.4.1.0 -> 1.5.0.0
+
+### Trial of Crusaders
+
+- Version: 0.1.0.0 -> 0.1.2.0
 

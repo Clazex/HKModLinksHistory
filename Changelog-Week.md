@@ -19,6 +19,13 @@
   + Gameplay
   + Utility
 
+### ShowHPOnDeath
+
+- Description: A mod that allows you to watch hp after death
+- Tags
+  + Gameplay
+  + Utility
+
 ### Wrong Gravity
 
 - Description: Hallownest? Hɐlloʍuǝsʇ!
@@ -32,14 +39,14 @@
 
 ### Architect
 
-- Version: 1.5.1.2 -> 1.7.3.0
+- Version: 1.5.1.2 -> 1.8.0.0
 - Integrations
   + Added
     - Scattered and Lost
 
 ### BugPrince
 
-- Version: 1.3.1.0 -> 1.4.0.0
+- Version: 1.3.2.0 -> 1.4.1.0
 
 ### MidasTouch
 
@@ -58,10 +65,6 @@
 - Integrations
   + Added
     - BugPrince
-
-### TreasureHunt
-
-- Version: 1.6.0.0 -> 1.6.1.0
 
 ### Trial of Crusaders
 

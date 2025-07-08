@@ -710,8 +710,8 @@ Not recommended for use in new mods.</Description>
     <Manifest>
         <Name>MilliGolf</Name>
         <Description>An 18-hole course featuring Millibelle the Golf Ball</Description>
-        <Version>1.2.0.3</Version>
-        <Link SHA256="B905597200F84E73ECB4137CED471ABECAFAF9085FBBDF23C893425AB45E5BE2"><![CDATA[https://github.com/TheMathGeek314/MilliGolf/releases/download/v1.2.0.3/MilliGolf.zip]]></Link>
+        <Version>1.3.0.0</Version>
+        <Link SHA256="61D4E5778C7493EB8AF82F64B25F37F0983276DE53A9E1E485AFEF7851CD06A6"><![CDATA[https://github.com/TheMathGeek314/MilliGolf/releases/download/v1.3.0.0/MilliGolf.zip]]></Link>
         <Dependencies>
             <Dependency>Satchel</Dependency>
         </Dependencies>
@@ -725,6 +725,7 @@ Not recommended for use in new mods.</Description>
         <Authors>
             <Author>TheMathGeek_314</Author>
             <Author>nerthul11</Author>
+            <Author>PimpasPimpinela</Author>
         </Authors>
     </Manifest>
     <Manifest>
@@ -9014,9 +9015,9 @@ Enjoy!</Description>
     <Manifest>
         <Name>Smart Nail</Name>
         <Description>Qol mod for RandoPlus,which auto-upgrades your nail in Godhome and in dream bosses fights.Doesn't work with combat or curse rando.</Description>
-        <Version>1.3.0.0</Version>
-        <Link SHA256 ="D7E46371D52DF323184D334BC845545367E1A044A52F3475D0C83DC15ABD016C">
-            <![CDATA[https://github.com/Roma-337/SmartNail/releases/download/v1.3.0/SmartNail.zip]]>
+        <Version>1.3.5.5</Version>
+        <Link SHA256 ="51D44499C23B281E4B62C328C393F0B62A0DA4C9FC542CECCDECD9BC84FADBFE">
+            <![CDATA[https://github.com/Roma-337/SmartNail/releases/download/v1.3.5.5/SmartNail.zip]]>
         </Link>
         <Dependencies>
             <Dependency>ItemChanger</Dependency>
@@ -9208,11 +9209,13 @@ Enjoy!</Description>
       <Manifest>
         <Name>ConfigurableMaskDamage</Name>
         <Description>Changes the amount of damage dealt to the knight</Description>
-        <Version>1.0.0.0</Version>
-        <Link SHA256="cbef978a7e71966f91399ed122ee598ce613f2f8a0cff7cfe10f4f530e98c204">
-            <![CDATA[https://github.com/F1NS3N/ConfigurableMaskDamage/releases/download/ConfigurableMaskDamage-v1.0.0/ConfigurableMaskDamage.zip]]>
+        <Version>1.1.0.0</Version>
+        <Link SHA256="6f63dedfdd5bf695a440d4aad5de1ee7d29e707f55a46684ce2c9448609381b3">
+            <![CDATA[https://github.com/F1NS3N/ConfigurableMaskDamage/releases/download/ConfigurableMaskDamage-v1.1.0/ConfigurableMaskDamage.zip]]>
         </Link>
-        <Dependencies />
+        <Dependencies>
+            <Dependency>Satchel</Dependency>
+        </Dependencies>
         <Repository>
             <![CDATA[https://github.com/F1NS3N/ConfigurableMaskDamage]]> 
         </Repository>

@@ -20,3 +20,4 @@ PermaFlukes
 DashChanger
 PlatformingQoL
 Wrong Gravity
+ShowHPOnDeath

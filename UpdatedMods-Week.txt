@@ -1,5 +1,3 @@
-BugPrince
-TreasureHunt
 Architect
 MidasTouch
 Trial of Crusaders
@@ -12,3 +10,5 @@ Architect
 Architect
 BugPrince
 Scattered and Lost
+Architect
+BugPrince

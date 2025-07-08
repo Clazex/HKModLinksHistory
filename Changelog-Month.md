@@ -154,6 +154,13 @@
 - Tags
   + Utility
 
+### ShowHPOnDeath
+
+- Description: A mod that allows you to watch hp after death
+- Tags
+  + Gameplay
+  + Utility
+
 ### Trial of Crusaders
 
 - Description: A rogue-like mod inspired by Dead Cells, Binding of Isaac and Blue Prince.
