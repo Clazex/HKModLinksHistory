@@ -121,15 +121,6 @@
 - Tags
   + Utility
 
-### Mimicpocalypse
-
-- Description: An add-on mod for the Grub Day 2025 Plando.
-- Dependencies
-  + ItemChanger
-  + PurenailCore
-  + Randomizer 4
-  + RandomizerCore
-
 ### PermaFlukes
 
 - Description: Flukes don&#x27;t disappear
@@ -191,17 +182,13 @@
 
 ## Updated mods
 
-### AccessRandomizer
-
-- Version: 1.3.0.3 -> 1.3.0.4
-
 ### Archipelago Map Mod
 
 - Version: 3.0.1.0 -> 3.1.1.0
 
 ### Breakable Wall Randomizer
 
-- Version: 4.0.0.3 -> 4.0.0.6
+- Version: 4.0.0.4 -> 4.0.0.6
 
 ### CharmPatch
 

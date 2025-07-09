@@ -3,38 +3,23 @@
 
 ## New mods
 
-### HK_QoLTeleportKit
+### WanderersWisdom
 
-- Description: QoL Teleport Kit is a Hollow Knight mod that adds a convenient teleportation system.
+- Description: A mod that adds 2 new charms: Wanderer&#x27;s Wisdom and Wanderer&#x27;s Guile.
 - Dependencies
-  + Satchel
+  + ItemChanger
+  + SFCore
 - Tags
   + Gameplay
 
 
 ## Updated mods
 
-### Architect
+### Transcendence
 
-- Version: 1.2.2.0 -> 1.3.2.1
-
-### Curse Randomizer
-
-- Version: 5.1.5.0 -> 5.1.6.0
-
-### CustomizableNailDamage
-
-- Version: 1.0.0.0 -> 1.1.0.1
-
-### Extra Rando
-
-- Version: 0.6.1.0 -> 0.6.2.0
-
-### TreasureHunt
-
-- Version: 1.4.1.0 -> 1.5.0.0
+- Version: 1.5.2.0 -> 1.5.3.0
 
 ### Trial of Crusaders
 
-- Version: 0.1.0.0 -> 0.1.2.0
+- Version: 0.1.2.0 -> 0.2.0.0
 

@@ -1,7 +1,4 @@
 Architect
-MidasTouch
-Trial of Crusaders
-Architect
 BugPrince
 SFCore
 Architect
@@ -12,3 +9,5 @@ BugPrince
 Scattered and Lost
 Architect
 BugPrince
+Architect
+CustomizableNailDamage

@@ -1,9 +1,4 @@
 Architect
-DashChanger
-MidasTouch
-PlatformingQoL
-Trial of Crusaders
-Architect
 BugPrince
 SFCore
 Architect
@@ -16,3 +11,5 @@ Scattered and Lost
 Architect
 BugPrince
 ShowHPOnDeath
+Architect
+CustomizableNailDamage
