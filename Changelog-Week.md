@@ -23,22 +23,18 @@
 
 ### Architect
 
-- Version: 1.5.3.0 -> 1.8.2.1
+- Version: 1.6.0.2 -> 1.8.4.0
 - Integrations
   + Added
     - Scattered and Lost
 
 ### BugPrince
 
-- Version: 1.3.2.0 -> 1.4.1.0
+- Version: 1.3.3.0 -> 1.4.1.0
 
 ### CustomizableNailDamage
 
 - Version: 1.2.1.0 -> 1.3.0.0
-
-### SFCore
-
-- Version: 1.5.14.10 -> 1.5.14.14
 
 ### Scattered and Lost
 

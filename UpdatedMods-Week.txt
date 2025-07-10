@@ -1,7 +1,4 @@
 Architect
-BugPrince
-SFCore
-Architect
 Trial of Crusaders
 Architect
 Architect
@@ -11,3 +8,5 @@ Architect
 BugPrince
 Architect
 CustomizableNailDamage
+Architect
+ShowHPOnDeath

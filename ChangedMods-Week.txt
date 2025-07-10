@@ -1,7 +1,4 @@
 Architect
-BugPrince
-SFCore
-Architect
 Trial of Crusaders
 Architect
 Wrong Gravity
@@ -13,3 +10,5 @@ BugPrince
 ShowHPOnDeath
 Architect
 CustomizableNailDamage
+Architect
+ShowHPOnDeath
