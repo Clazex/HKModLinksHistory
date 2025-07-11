@@ -23,7 +23,7 @@
 
 ### Architect
 
-- Version: 1.6.0.2 -> 1.8.4.0
+- Version: 1.6.1.2 -> 1.8.5.3
 - Integrations
   + Added
     - Scattered and Lost
@@ -42,8 +42,4 @@
 - Integrations
   + Added
     - BugPrince
-
-### Trial of Crusaders
-
-- Version: 0.2.4.0 -> 0.2.5.0
 

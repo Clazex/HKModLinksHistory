@@ -25,22 +25,6 @@
 - Tags
   + Gameplay
 
-### BugPrince
-
-- Description: A Randomizer 4 connection which combines Blue Prince mechanics with Hollow Knight transition randomizer.
-- Dependencies
-  + Benchwarp
-  + ItemChanger
-  + MenuChanger
-  + PurenailCore
-  + Randomizer 4
-  + RandomizerCore
-  + SFCore
-- Integrations
-  + RandoSettingsManager
-- Tags
-  + Gameplay
-
 ### Collision Glitch Remover
 
 - Description: Removes collision-based glitches such as the Gruz mother wall bounce and Collector &quot;sticky feet&quot; glitch. Works the same way as CollectorGlitchRemover except it fixes every scene. Can be enabled along with CollectorGlitchRemover or instead of CollectorGlitchRemover.
@@ -190,6 +174,10 @@
 
 - Version: 4.0.0.5 -> 4.0.0.6
 
+### BugPrince
+
+- Version: 1.0.0.0 -> 1.4.1.0
+
 ### CharmPatch
 
 - Version: 1.4.1.0 -> 1.4.2.0
@@ -237,10 +225,6 @@
 
 - Version: 1.2.0.3 -> 1.3.0.0
 
-### PurenailCore
-
-- Version: 1.3.2.0 -> 1.4.0.0
-
 ### RCPathfinder
 
 - Version: 1.4.2.0 -> 1.4.5.0
@@ -263,7 +247,7 @@
 
 ### Scattered and Lost
 
-- Version: 1.4.3.0 -> 1.5.0.0
+- Version: 1.4.3.1 -> 1.5.0.0
 - Integrations
   + Added
     - BugPrince

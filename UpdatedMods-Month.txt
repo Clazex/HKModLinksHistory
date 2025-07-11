@@ -1,5 +1,3 @@
-PurenailCore
-Scattered and Lost
 BugPrince
 CharmPatch
 Satchel
@@ -70,3 +68,4 @@ Architect
 CustomizableNailDamage
 Architect
 ShowHPOnDeath
+Architect

@@ -1,4 +1,3 @@
-BugPrince
 All4Love
 GarfieldStorage
 Collision Glitch Remover

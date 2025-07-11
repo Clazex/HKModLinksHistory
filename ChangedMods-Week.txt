@@ -1,6 +1,4 @@
 Architect
-Trial of Crusaders
-Architect
 Wrong Gravity
 Architect
 BugPrince
@@ -12,3 +10,4 @@ Architect
 CustomizableNailDamage
 Architect
 ShowHPOnDeath
+Architect

@@ -1,7 +1,4 @@
 BugPrince
-PurenailCore
-Scattered and Lost
-BugPrince
 All4Love
 CharmPatch
 GarfieldStorage
@@ -92,3 +89,4 @@ Architect
 CustomizableNailDamage
 Architect
 ShowHPOnDeath
+Architect
