@@ -1,5 +1,4 @@
 Architect
-Architect
 BugPrince
 Scattered and Lost
 Architect
@@ -9,3 +8,5 @@ CustomizableNailDamage
 Architect
 ShowHPOnDeath
 Architect
+Architect
+ShowHPOnDeath

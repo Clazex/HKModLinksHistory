@@ -105,6 +105,14 @@
 - Tags
   + Utility
 
+### OWO_HollowKnight
+
+- Description: A mod that allows the integration of OWO Skin haptic device with HK
+- Dependencies
+  + Satchel
+- Tags
+  + Utility
+
 ### PermaFlukes
 
 - Description: Flukes don&#x27;t disappear

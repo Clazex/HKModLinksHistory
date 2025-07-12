@@ -3,6 +3,14 @@
 
 ## New mods
 
+### OWO_HollowKnight
+
+- Description: A mod that allows the integration of OWO Skin haptic device with HK
+- Dependencies
+  + Satchel
+- Tags
+  + Utility
+
 ### ShowHPOnDeath
 
 - Description: A mod that allows you to watch hp after death
@@ -10,23 +18,12 @@
   + Gameplay
   + Utility
 
-### Wrong Gravity
-
-- Description: Hallownest? Hɐlloʍuǝsʇ!
-- Dependencies
-  + Vasi
-- Tags
-  + Gameplay
-
 
 ## Updated mods
 
 ### Architect
 
-- Version: 1.6.1.2 -> 1.8.5.3
-- Integrations
-  + Added
-    - Scattered and Lost
+- Version: 1.7.1.0 -> 1.8.5.5
 
 ### BugPrince
 

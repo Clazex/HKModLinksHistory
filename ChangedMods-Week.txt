@@ -1,6 +1,4 @@
 Architect
-Wrong Gravity
-Architect
 BugPrince
 Scattered and Lost
 Architect
@@ -11,3 +9,6 @@ CustomizableNailDamage
 Architect
 ShowHPOnDeath
 Architect
+Architect
+OWO_HollowKnight
+ShowHPOnDeath

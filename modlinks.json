@@ -408,11 +408,11 @@
   },
   "Architect": {
     "description": "A mod to add/remove platforms, enemies and more to change areas in the game with an in-game level editor and level sharer.",
-    "version": "1.8.5.3",
+    "version": "1.8.5.5",
     "links": {
       "type": "universal",
-      "sha256": "9DA1CADD3DA1A14BF74264FC115597DB1AF7C7D37DE1CB5664D9EACF461F3F7F",
-      "url": "https://github.com/cometcake575/Architect/releases/download/1.8.5.3/Architect.zip"
+      "sha256": "796FA0FDB0EA92D6DFDF8FB642265B52BC451496657C1F0FB519BEF224816241",
+      "url": "https://github.com/cometcake575/Architect/releases/download/1.8.5.5/Architect.zip"
     },
     "dependencies": [
       "MagicUI",
@@ -5902,6 +5902,25 @@
       "Randomizer 4"
     ]
   },
+  "OWO_HollowKnight": {
+    "description": "A mod that allows the integration of OWO Skin haptic device with HK",
+    "version": "1.0.0.0",
+    "links": {
+      "type": "universal",
+      "sha256": "C40041B5733D3FCE3F54CBBFDDAD63075B34999EDEBE550AA0970194DE9EBE96",
+      "url": "https://github.com/OWODevelopers/OWO_HollowKnight/releases/download/1.0.0/OWO_HollowKnight.zip"
+    },
+    "dependencies": [
+      "Satchel"
+    ],
+    "repository": "https://github.com/OWODevelopers/OWO_HollowKnight",
+    "tags": [
+      "Utility"
+    ],
+    "authors": [
+      "OWO Game"
+    ]
+  },
   "Omega Radiance": {
     "description": "Face the god of power, a modified version of Any Radiance which was made not to be harder but to be a cool and unique fight.",
     "version": "0.0.1.0",
@@ -7502,11 +7521,11 @@
   },
   "ShowHPOnDeath": {
     "description": "A mod that allows you to watch hp after death",
-    "version": "1.1.2.0",
+    "version": "1.2.0.0",
     "links": {
       "type": "universal",
-      "sha256": "13807214A4C0FAF08CA59C2167F435CF5960ECDC36B56437C07DE34562001A6B",
-      "url": "https://github.com/F1NS3N/ShowHPOnDeath/releases/download/ShowHPOnDeath-v1.1.2/ShowHPOnDeath.zip"
+      "sha256": "1DA370B6A01565C393847325DAD8236C993882BE9455AFBA4BD05E4EC5056DD0",
+      "url": "https://github.com/F1NS3N/ShowHPOnDeath/releases/download/ShowHPOnDeath-v1.2.0/ShowHPOnDeath.zip"
     },
     "dependencies": [],
     "repository": "https://github.com/F1NS3N/ShowHPOnDeath",

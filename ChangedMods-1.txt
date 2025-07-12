@@ -1,1 +1,3 @@
 Architect
+OWO_HollowKnight
+ShowHPOnDeath

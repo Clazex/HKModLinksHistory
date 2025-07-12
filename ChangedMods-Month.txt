@@ -90,3 +90,6 @@ CustomizableNailDamage
 Architect
 ShowHPOnDeath
 Architect
+Architect
+OWO_HollowKnight
+ShowHPOnDeath
