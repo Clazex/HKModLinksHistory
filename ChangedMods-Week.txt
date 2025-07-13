@@ -1,8 +1,5 @@
 Architect
 BugPrince
-Scattered and Lost
-Architect
-BugPrince
 ShowHPOnDeath
 Architect
 CustomizableNailDamage
@@ -11,4 +8,6 @@ ShowHPOnDeath
 Architect
 Architect
 OWO_HollowKnight
+ShowHPOnDeath
+Architect
 ShowHPOnDeath

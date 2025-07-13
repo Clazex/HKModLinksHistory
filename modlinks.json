@@ -408,11 +408,11 @@
   },
   "Architect": {
     "description": "A mod to add/remove platforms, enemies and more to change areas in the game with an in-game level editor and level sharer.",
-    "version": "1.8.5.5",
+    "version": "1.8.6.0",
     "links": {
       "type": "universal",
-      "sha256": "796FA0FDB0EA92D6DFDF8FB642265B52BC451496657C1F0FB519BEF224816241",
-      "url": "https://github.com/cometcake575/Architect/releases/download/1.8.5.5/Architect.zip"
+      "sha256": "B6E6111323C5BD6D990CF7D6AEDFC2F5B9C9143897E5D1AF67E78F1E5EF6FD01",
+      "url": "https://github.com/cometcake575/Architect/releases/download/1.8.6.0/Architect.zip"
     },
     "dependencies": [
       "MagicUI",
@@ -7521,11 +7521,11 @@
   },
   "ShowHPOnDeath": {
     "description": "A mod that allows you to watch hp after death",
-    "version": "1.2.0.0",
+    "version": "1.2.1.0",
     "links": {
       "type": "universal",
-      "sha256": "1DA370B6A01565C393847325DAD8236C993882BE9455AFBA4BD05E4EC5056DD0",
-      "url": "https://github.com/F1NS3N/ShowHPOnDeath/releases/download/ShowHPOnDeath-v1.2.0/ShowHPOnDeath.zip"
+      "sha256": "103BCB6F4898424CE8FCFAE710733578A4EA497DB0CFD2EA918D4FEDC6A4C612",
+      "url": "https://github.com/F1NS3N/ShowHPOnDeath/releases/download/ShowHPOnDeath-v1.2.1/ShowHPOnDeath.zip"
     },
     "dependencies": [],
     "repository": "https://github.com/F1NS3N/ShowHPOnDeath",

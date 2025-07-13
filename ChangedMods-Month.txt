@@ -1,4 +1,3 @@
-BugPrince
 All4Love
 CharmPatch
 GarfieldStorage
@@ -92,4 +91,6 @@ ShowHPOnDeath
 Architect
 Architect
 OWO_HollowKnight
+ShowHPOnDeath
+Architect
 ShowHPOnDeath

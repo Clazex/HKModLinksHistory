@@ -1,4 +1,3 @@
-BugPrince
 CharmPatch
 Satchel
 SpeedChanger
@@ -69,5 +68,7 @@ CustomizableNailDamage
 Architect
 ShowHPOnDeath
 Architect
+Architect
+ShowHPOnDeath
 Architect
 ShowHPOnDeath
