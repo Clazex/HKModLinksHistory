@@ -1,7 +1,4 @@
 Architect
-BugPrince
-ShowHPOnDeath
-Architect
 CustomizableNailDamage
 Architect
 ShowHPOnDeath
@@ -11,3 +8,6 @@ OWO_HollowKnight
 ShowHPOnDeath
 Architect
 ShowHPOnDeath
+Architect
+CustomizableNailDamage
+WanderersWisdom

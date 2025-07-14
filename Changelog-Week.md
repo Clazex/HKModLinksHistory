@@ -11,25 +11,25 @@
 - Tags
   + Utility
 
-### ShowHPOnDeath
-
-- Description: A mod that allows you to watch hp after death
-- Tags
-  + Gameplay
-  + Utility
-
 
 ## Updated mods
 
 ### Architect
 
-- Version: 1.7.3.0 -> 1.8.6.0
-
-### BugPrince
-
-- Version: 1.4.0.0 -> 1.4.1.0
+- Version: 1.8.0.0 -> 1.8.6.1
 
 ### CustomizableNailDamage
 
-- Version: 1.2.1.0 -> 1.3.0.0
+- Version: 1.2.1.0 -> 1.3.1.0
+- Description
+  + Old: Mod that allows you to change the damage of the nail, including negative and fractional. Negative nail will heal enemies.
+  + New: Mod that allows you to change the damage of the nail, including negative and fractional values, and also the amount of soul received from nail hits. Negative nail damage heals enemies.
+
+### ShowHPOnDeath
+
+- Version: 1.1.1.0 -> 1.2.1.0
+
+### WanderersWisdom
+
+- Version: 1.0.0.0 -> 1.0.1.0
 

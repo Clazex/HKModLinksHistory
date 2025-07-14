@@ -1,6 +1,4 @@
 Architect
-BugPrince
-Architect
 CustomizableNailDamage
 Architect
 ShowHPOnDeath
@@ -9,3 +7,6 @@ Architect
 ShowHPOnDeath
 Architect
 ShowHPOnDeath
+Architect
+CustomizableNailDamage
+WanderersWisdom

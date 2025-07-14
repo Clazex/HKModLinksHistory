@@ -1,6 +1,3 @@
-CharmPatch
-Satchel
-SpeedChanger
 Breakable Wall Randomizer
 CustomBgm
 RCPathfinder
@@ -72,3 +69,6 @@ Architect
 ShowHPOnDeath
 Architect
 ShowHPOnDeath
+Architect
+CustomizableNailDamage
+WanderersWisdom

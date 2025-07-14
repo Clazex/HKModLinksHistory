@@ -3,15 +3,6 @@
 
 ## New mods
 
-### All4Love
-
-- Description: Love 4 All.
-- Dependencies
-  + HKMirror
-  + Satchel
-- Tags
-  + Cosmetic
-
 ### Architect
 
 - Description: A mod to add/remove platforms, enemies and more to change areas in the game with an in-game level editor and level sharer.
@@ -43,7 +34,7 @@
 
 ### CustomizableNailDamage
 
-- Description: Mod that allows you to change the damage of the nail, including negative and fractional. Negative nail will heal enemies.
+- Description: Mod that allows you to change the damage of the nail, including negative and fractional values, and also the amount of soul received from nail hits. Negative nail damage heals enemies.
 - Dependencies
   + Satchel
 - Tags
@@ -68,12 +59,6 @@
   + SFCore
 - Tags
   + Gameplay
-
-### GarfieldStorage
-
-- Description: This mod explains itself
-- Dependencies
-  + Satchel
 
 ### Geo Remover
 
@@ -188,7 +173,7 @@
 
 ### CharmPatch
 
-- Version: 1.4.1.0 -> 1.4.2.0
+- Version: 1.4.1.1 -> 1.4.2.0
 
 ### Curse Randomizer
 
@@ -249,10 +234,6 @@
 
 - Version: 1.5.14.10 -> 1.5.14.14
 
-### Satchel
-
-- Version: 0.9.3.0 -> 0.9.4.0
-
 ### Scattered and Lost
 
 - Version: 1.4.3.1 -> 1.5.0.0
@@ -263,10 +244,6 @@
 ### Smart Nail
 
 - Version: 1.3.0.0 -> 1.3.5.5
-
-### SpeedChanger
-
-- Version: 1.0.3.0 -> 1.0.4.0
 
 ### SpicyRando
 
