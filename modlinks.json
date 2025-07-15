@@ -408,11 +408,11 @@
   },
   "Architect": {
     "description": "A mod to add/remove platforms, enemies and more to change areas in the game with an in-game level editor and level sharer.",
-    "version": "1.8.6.1",
+    "version": "1.8.6.2",
     "links": {
       "type": "universal",
-      "sha256": "4BBDB97A433FC44B94212555636841C7005B9EDFF6C1A35905BC01D83FBD83CA",
-      "url": "https://github.com/cometcake575/Architect/releases/download/1.8.6.1/Architect.zip"
+      "sha256": "304D54C75358A168CEA3E7C07ECFE4DF5F5D0F4EF34E89E0EE3E971F99F674DC",
+      "url": "https://github.com/cometcake575/Architect/releases/download/1.8.6.2/Architect.zip"
     },
     "dependencies": [
       "MagicUI",
@@ -789,11 +789,11 @@
   },
   "BingoUI": {
     "description": "Automatic tracking of bingo goals for randomizer and speedrun bingo races.",
-    "version": "2.1.2.2",
+    "version": "2.2.0.0",
     "links": {
       "type": "universal",
-      "sha256": "5CDB06B79CB8275928AEE832BB78D82694A33744CD5250CDCDA41872D416031E",
-      "url": "https://github.com/flibber-hk/HollowKnight.BingoUI/releases/download/v2.1.2.2/BingoUI.zip"
+      "sha256": "98C5CFA437FD4DD0C8F7E5246B31D8996CF5D1B9011D0D03F2A299FE5D5ECFDA",
+      "url": "https://github.com/flibber-hk/HollowKnight.BingoUI/releases/download/v2.2.0.0/BingoUI.zip"
     },
     "dependencies": [
       "Vasi"
@@ -7096,6 +7096,22 @@
       "Randomizer 4"
     ]
   },
+  "ReplayLogger": {
+    "description": "ReplayLoger is a mod that was created to verify the legitimacy of player challenge runs.",
+    "version": "1.0.0.0",
+    "links": {
+      "type": "universal",
+      "sha256": "9B0CBB5BA0BF1C1C7F34DAA6EC73710BE31609B38281BD40F6B6E11BE0BBAC62",
+      "url": "https://github.com/MorozicH20/ReplayLogger/releases/download/v1.0.0.0/ReplayLogger.zip"
+    },
+    "dependencies": [],
+    "repository": "https://github.com/MorozicH20/ReplayLogger",
+    "authors": [
+      "Egir",
+      "NightFuryo3o",
+      "mint"
+    ]
+  },
   "ResetCharmNotches": {
     "description": "Reset charm notches and charm notch cost.",
     "version": "1.5.0.0",
@@ -7267,11 +7283,11 @@
   },
   "Scattered and Lost": {
     "description": "Celeste-themed content mod, expanding Bretta's hut",
-    "version": "1.5.0.0",
+    "version": "1.5.1.0",
     "links": {
       "type": "universal",
-      "sha256": "6F2DEEE22BB13E54A8E7801198F64CF296A225CA181D543AC203779C4B856A70",
-      "url": "https://github.com/dplochcoder/HollowKnight.ScatteredAndLost/releases/download/v1.5.0.0/Scattered.and.Lost.zip"
+      "sha256": "9511B915BF4C17A02F325E7C175451029FA8A0CBFC3797381DA087B4FEBF747E",
+      "url": "https://github.com/dplochcoder/HollowKnight.ScatteredAndLost/releases/download/v1.5.1/Scattered.and.Lost.zip"
     },
     "dependencies": [
       "ItemChanger",
@@ -7283,6 +7299,7 @@
     ],
     "repository": "https://github.com/dplochcoder/HollowKnight.ScatteredAndLost",
     "integrations": [
+      "Architect",
       "BugPrince",
       "CondensedSpoilerLogger",
       "DebugMod",

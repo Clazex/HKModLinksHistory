@@ -1,7 +1,3 @@
-Collision Glitch Remover
-Geo Remover
-Invulnerability Indicator
-Mask Remover
 Breakable Wall Randomizer
 Architect
 CustomBgm
@@ -92,3 +88,7 @@ ShowHPOnDeath
 Architect
 CustomizableNailDamage
 WanderersWisdom
+Architect
+BingoUI
+ReplayLogger
+Scattered and Lost

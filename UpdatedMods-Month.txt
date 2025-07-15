@@ -72,3 +72,6 @@ ShowHPOnDeath
 Architect
 CustomizableNailDamage
 WanderersWisdom
+Architect
+BingoUI
+Scattered and Lost

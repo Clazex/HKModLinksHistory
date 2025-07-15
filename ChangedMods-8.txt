@@ -1,3 +1,3 @@
 Architect
 BugPrince
-Scattered and Lost
+ShowHPOnDeath

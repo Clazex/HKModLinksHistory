@@ -1,7 +1,3 @@
-Collision Glitch Remover
-Geo Remover
-Invulnerability Indicator
-Mask Remover
 Architect
 RainbowShinies
 GloriousGrimmMusic
@@ -18,3 +14,4 @@ PlatformingQoL
 Wrong Gravity
 ShowHPOnDeath
 OWO_HollowKnight
+ReplayLogger

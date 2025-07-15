@@ -1,6 +1,4 @@
 Architect
-CustomizableNailDamage
-Architect
 ShowHPOnDeath
 Architect
 Architect
@@ -10,3 +8,6 @@ ShowHPOnDeath
 Architect
 CustomizableNailDamage
 WanderersWisdom
+Architect
+BingoUI
+Scattered and Lost
