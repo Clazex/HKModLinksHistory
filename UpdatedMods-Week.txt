@@ -1,6 +1,4 @@
 Architect
-ShowHPOnDeath
-Architect
 Architect
 ShowHPOnDeath
 Architect
@@ -11,3 +9,4 @@ WanderersWisdom
 Architect
 BingoUI
 Scattered and Lost
+Architect

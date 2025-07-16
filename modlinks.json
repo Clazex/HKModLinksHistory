@@ -408,11 +408,11 @@
   },
   "Architect": {
     "description": "A mod to add/remove platforms, enemies and more to change areas in the game with an in-game level editor and level sharer.",
-    "version": "1.8.6.2",
+    "version": "1.8.7.1",
     "links": {
       "type": "universal",
-      "sha256": "304D54C75358A168CEA3E7C07ECFE4DF5F5D0F4EF34E89E0EE3E971F99F674DC",
-      "url": "https://github.com/cometcake575/Architect/releases/download/1.8.6.2/Architect.zip"
+      "sha256": "0FF6F993B3ABCB99A5995C5163E3C9F470E9F2889E94D5A1947ED8AA6A8B60E4",
+      "url": "https://github.com/cometcake575/Architect/releases/download/1.8.7.1/Architect.zip"
     },
     "dependencies": [
       "MagicUI",

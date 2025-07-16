@@ -1,6 +1,4 @@
 Architect
-ShowHPOnDeath
-Architect
 Architect
 OWO_HollowKnight
 ShowHPOnDeath
@@ -13,3 +11,4 @@ Architect
 BingoUI
 ReplayLogger
 Scattered and Lost
+Architect

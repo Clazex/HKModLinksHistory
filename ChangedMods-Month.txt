@@ -1,4 +1,3 @@
-Breakable Wall Randomizer
 Architect
 CustomBgm
 RainbowShinies
@@ -92,3 +91,4 @@ Architect
 BingoUI
 ReplayLogger
 Scattered and Lost
+Architect

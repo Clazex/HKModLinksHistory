@@ -1,7 +1,7 @@
 Architect
+BugPrince
 CustomizableNailDamage
-DivineFury
-ExaltationExpanded
-Hivesong
+PermaFlukes
 Transcendence
+TreasureHunt
 Trial of Crusaders

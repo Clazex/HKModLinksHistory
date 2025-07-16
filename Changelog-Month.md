@@ -145,10 +145,6 @@
 
 - Version: 2.1.2.2 -> 2.2.0.0
 
-### Breakable Wall Randomizer
-
-- Version: 4.0.0.5 -> 4.0.0.6
-
 ### BugPrince
 
 - Version: 1.1.0.0 -> 1.4.1.0
