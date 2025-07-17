@@ -3,19 +3,6 @@
 
 ## New mods
 
-### Architect
-
-- Description: A mod to add/remove platforms, enemies and more to change areas in the game with an in-game level editor and level sharer.
-- Dependencies
-  + MagicUI
-  + SFCore
-  + Satchel
-- Integrations
-  + HKMP
-  + Scattered and Lost
-- Tags
-  + Gameplay
-
 ### ConfigurableMaskDamage
 
 - Description: Changes the amount of damage dealt to the knight
@@ -24,13 +11,23 @@
 - Tags
   + Gameplay
 
-### CustomizableNailDamage
+### CustomizableAbilities
 
-- Description: Mod that allows you to change the damage of the nail, including negative and fractional values, and also the amount of soul received from nail hits. Negative nail damage heals enemies.
+- Description: Mod that allows you to customize abilities: negative and fractional nail; the amount of SOUL received from nail hits; spells. Negative nail damage heals enemies.
 - Dependencies
+  + HKMirror
+  + SFCore
   + Satchel
 - Tags
+  + Expansion
   + Gameplay
+  + Utility
+
+### CustomizableNailDamage
+
+- Description: Dummy mod. Install the dependency &quot;CustomizableAbilities&quot; directly.
+- Dependencies
+  + CustomizableAbilities
 
 ### DashChanger
 
@@ -82,10 +79,6 @@
 - Tags
   + Gameplay
   + Utility
-
-### RainbowShinies
-
-- Description: Makes all shinies have a random color
 
 ### ReplayLogger
 
@@ -141,6 +134,19 @@
 
 - Version: 3.0.1.0 -> 3.1.1.0
 
+### Architect
+
+- Version: 1.0.0.0 -> 1.8.8.0
+- Description
+  + Old: A mod to add platforms, enemies and more to change areas in the game with an in-game level editor.
+  + New: A mod to add/remove platforms, enemies and more to change areas in the game with an in-game level editor and level sharer.
+- Dependencies
+  + Added
+    - SFCore
+- Integrations
+  + Added
+    - Scattered and Lost
+
 ### BingoUI
 
 - Version: 2.1.2.2 -> 2.2.0.0
@@ -159,7 +165,7 @@
 
 ### CustomBgm
 
-- Version: 1.5.4.0 -> 1.5.5.1
+- Version: 1.5.5.0 -> 1.5.5.1
 
 ### DapperMapperSpoils
 
@@ -223,6 +229,13 @@
 ### Smart Nail
 
 - Version: 1.3.0.0 -> 1.3.5.5
+
+### SpeedChanger
+
+- Version: 1.0.4.0 -> 1.1.1.0
+- Dependencies
+  + Added
+    - Satchel
 
 ### SpicyRando
 

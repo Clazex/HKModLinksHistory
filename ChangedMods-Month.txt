@@ -1,6 +1,3 @@
-Architect
-CustomBgm
-RainbowShinies
 GloriousGrimmMusic
 ScreenResolution
 RCPathfinder
@@ -92,3 +89,7 @@ BingoUI
 ReplayLogger
 Scattered and Lost
 Architect
+Architect
+CustomizableAbilities
+CustomizableNailDamage
+SpeedChanger

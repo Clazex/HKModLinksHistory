@@ -1,5 +1,3 @@
-Architect
-RainbowShinies
 GloriousGrimmMusic
 ScreenResolution
 ConfigurableMaskDamage
@@ -15,3 +13,4 @@ Wrong Gravity
 ShowHPOnDeath
 OWO_HollowKnight
 ReplayLogger
+CustomizableAbilities

@@ -1,5 +1,4 @@
 Architect
-Architect
 OWO_HollowKnight
 ShowHPOnDeath
 Architect
@@ -12,3 +11,7 @@ BingoUI
 ReplayLogger
 Scattered and Lost
 Architect
+Architect
+CustomizableAbilities
+CustomizableNailDamage
+SpeedChanger

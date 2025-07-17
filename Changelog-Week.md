@@ -3,6 +3,18 @@
 
 ## New mods
 
+### CustomizableAbilities
+
+- Description: Mod that allows you to customize abilities: negative and fractional nail; the amount of SOUL received from nail hits; spells. Negative nail damage heals enemies.
+- Dependencies
+  + HKMirror
+  + SFCore
+  + Satchel
+- Tags
+  + Expansion
+  + Gameplay
+  + Utility
+
 ### OWO_HollowKnight
 
 - Description: A mod that allows the integration of OWO Skin haptic device with HK
@@ -20,7 +32,7 @@
 
 ### Architect
 
-- Version: 1.8.4.0 -> 1.8.7.1
+- Version: 1.8.5.3 -> 1.8.8.0
 
 ### BingoUI
 
@@ -28,10 +40,18 @@
 
 ### CustomizableNailDamage
 
-- Version: 1.3.0.0 -> 1.3.1.0
+- Version: 1.3.0.0 -> 9.9.9.9
 - Description
   + Old: Mod that allows you to change the damage of the nail, including negative and fractional. Negative nail will heal enemies.
-  + New: Mod that allows you to change the damage of the nail, including negative and fractional values, and also the amount of soul received from nail hits. Negative nail damage heals enemies.
+  + New: Dummy mod. Install the dependency &quot;CustomizableAbilities&quot; directly.
+- Dependencies
+  + Removed
+    - Satchel
+  + Added
+    - CustomizableAbilities
+- Tags
+  + Added
+    - Gameplay
 
 ### Scattered and Lost
 
@@ -43,6 +63,13 @@
 ### ShowHPOnDeath
 
 - Version: 1.1.2.0 -> 1.2.1.0
+
+### SpeedChanger
+
+- Version: 1.0.4.0 -> 1.1.1.0
+- Dependencies
+  + Added
+    - Satchel
 
 ### WanderersWisdom
 

@@ -1,5 +1,4 @@
 Architect
-Architect
 ShowHPOnDeath
 Architect
 ShowHPOnDeath
@@ -10,3 +9,6 @@ Architect
 BingoUI
 Scattered and Lost
 Architect
+Architect
+CustomizableNailDamage
+SpeedChanger

@@ -408,11 +408,11 @@
   },
   "Architect": {
     "description": "A mod to add/remove platforms, enemies and more to change areas in the game with an in-game level editor and level sharer.",
-    "version": "1.8.7.1",
+    "version": "1.8.8.0",
     "links": {
       "type": "universal",
-      "sha256": "0FF6F993B3ABCB99A5995C5163E3C9F470E9F2889E94D5A1947ED8AA6A8B60E4",
-      "url": "https://github.com/cometcake575/Architect/releases/download/1.8.7.1/Architect.zip"
+      "sha256": "EA15987131F56E24303B86F82BA64E19FBF329F3E2CA98751A90137FA0BFD846",
+      "url": "https://github.com/cometcake575/Architect/releases/download/1.8.8.0/Architect.zip"
     },
     "dependencies": [
       "MagicUI",
@@ -1947,24 +1947,41 @@
       "SFGrenade"
     ]
   },
-  "CustomizableNailDamage": {
-    "description": "Mod that allows you to change the damage of the nail, including negative and fractional values, and also the amount of soul received from nail hits. Negative nail damage heals enemies.",
-    "version": "1.3.1.0",
+  "CustomizableAbilities": {
+    "description": "Mod that allows you to customize abilities: negative and fractional nail; the amount of SOUL received from nail hits; spells. Negative nail damage heals enemies.",
+    "version": "1.3.2.1",
     "links": {
       "type": "universal",
-      "sha256": "3F177A9C0C0BDDA285124E9E79184C95165DF09A7234022D55545BF804704B5E",
-      "url": "https://github.com/kon4ino/CustomizableNailDamage/releases/download/1.3.1.0/CustomizableNailDamage.zip"
+      "sha256": "B3E12FFB5EE96BCA8A4D3AFC6EACED11C1491554B10CEAF35A5208892766A676",
+      "url": "https://github.com/kon4ino/CustomizableAbilities/releases/download/1.3.2.1/CustomizableNailDamage.zip"
     },
     "dependencies": [
+      "HKMirror",
+      "SFCore",
       "Satchel"
     ],
-    "repository": "https://github.com/kon4ino/CustomizableNailDamage",
+    "repository": "https://github.com/kon4ino/CustomizableAbilities",
     "tags": [
-      "Gameplay"
+      "Expansion",
+      "Gameplay",
+      "Utility"
     ],
     "authors": [
       "kon4ino"
     ]
+  },
+  "CustomizableNailDamage": {
+    "description": "Dummy mod. Install the dependency \"CustomizableAbilities\" directly.",
+    "version": "9.9.9.9",
+    "links": {
+      "type": "universal",
+      "sha256": "00280F51FB9F3030B4F1BBBAD3AB29082A706994E4FAF783AA955054673BC74B",
+      "url": "https://github.com/SFGrenade/EmptyMod/releases/download/v9.9.9.9/EmptyMod.zip"
+    },
+    "dependencies": [
+      "CustomizableAbilities"
+    ],
+    "repository": "https://github.com/SFGrenade/EmptyMod/"
   },
   "Cyclone Real Combat": {
     "description": "Removed the learn Cyclone cutscene in and replaced it with real combat",
@@ -7856,13 +7873,15 @@
   },
   "SpeedChanger": {
     "description": "Speed up or slow down your game. A more customisable and user-friendly version of the Sanic mod.",
-    "version": "1.0.4.0",
+    "version": "1.1.1.0",
     "links": {
       "type": "universal",
-      "sha256": "C389FD9929B0FD938AAB6AF5B8485601A8CF983BE7B72219704EBAB97CA22D92",
-      "url": "https://github.com/gGordey/SpeedChanger/releases/download/1.0.4/SpeedChanger.zip"
+      "sha256": "7E8A596DD5FD809F4327F6F423E9A484694E596D66D7CF537D6DACCD8DDA0E50",
+      "url": "https://github.com/gGordey/SpeedChanger/releases/download/1.1.1/SpeedChanger.zip"
     },
-    "dependencies": [],
+    "dependencies": [
+      "Satchel"
+    ],
     "repository": "https://github.com/gGordey/HkSpeedUp",
     "tags": [
       "Gameplay"
