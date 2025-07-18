@@ -1,5 +1,3 @@
-GloriousGrimmMusic
-ScreenResolution
 ConfigurableMaskDamage
 ExaltationExpanded
 CustomizableNailDamage
@@ -14,3 +12,6 @@ ShowHPOnDeath
 OWO_HollowKnight
 ReplayLogger
 CustomizableAbilities
+EnchantedMask
+QoLTeleportKit
+RainbowFlukes

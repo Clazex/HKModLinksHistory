@@ -15,13 +15,27 @@
   + Gameplay
   + Utility
 
-### OWO_HollowKnight
+### EnchantedMask
 
-- Description: A mod that allows the integration of OWO Skin haptic device with HK
+- Description: Adds new powerups called Glyphs, which can be purchased from the Mask maker.
 - Dependencies
+  + ItemChanger
+  + SFCore
   + Satchel
+- Integrations
+  + DebugMod
 - Tags
-  + Utility
+  + Gameplay
+
+### QoLTeleportKit
+
+- Description: QoL Teleport Kit is a Hollow Knight mod that adds a convenient teleportation system.
+- Tags
+  + Gameplay
+
+### RainbowFlukes
+
+- Description: The flukes are rainbow!
 
 ### ReplayLogger
 
@@ -32,11 +46,15 @@
 
 ### Architect
 
-- Version: 1.8.5.3 -> 1.8.8.0
+- Version: 1.8.5.5 -> 1.8.8.2
 
 ### BingoUI
 
 - Version: 2.1.2.2 -> 2.2.0.0
+
+### Breakable Wall Randomizer
+
+- Version: 4.0.0.6 -> 4.0.1.0
 
 ### CustomizableNailDamage
 
@@ -53,6 +71,19 @@
   + Added
     - Gameplay
 
+### HK_QoLTeleportKit
+
+- Version: 1.0.0.0 -> 9.9.9.9
+- Description
+  + Old: QoL Teleport Kit is a Hollow Knight mod that adds a convenient teleportation system.
+  + New: Dummy mod. Install the dependency &quot;QoLTeleportKit&quot; directly.
+- Dependencies
+  + Added
+    - QoLTeleportKit
+- Tags
+  + Added
+    - Gameplay
+
 ### Scattered and Lost
 
 - Version: 1.5.0.0 -> 1.5.1.0
@@ -62,11 +93,11 @@
 
 ### ShowHPOnDeath
 
-- Version: 1.1.2.0 -> 1.2.1.0
+- Version: 1.2.0.0 -> 1.2.1.0
 
 ### SpeedChanger
 
-- Version: 1.0.4.0 -> 1.1.1.0
+- Version: 1.0.4.0 -> 1.1.2.0
 - Dependencies
   + Added
     - Satchel

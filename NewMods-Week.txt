@@ -1,3 +1,5 @@
-OWO_HollowKnight
 ReplayLogger
 CustomizableAbilities
+EnchantedMask
+QoLTeleportKit
+RainbowFlukes

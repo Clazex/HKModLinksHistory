@@ -1,8 +1,6 @@
 Architect
 ShowHPOnDeath
 Architect
-ShowHPOnDeath
-Architect
 CustomizableNailDamage
 WanderersWisdom
 Architect
@@ -11,4 +9,8 @@ Scattered and Lost
 Architect
 Architect
 CustomizableNailDamage
+SpeedChanger
+Architect
+Breakable Wall Randomizer
+HK_QoLTeleportKit
 SpeedChanger

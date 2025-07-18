@@ -1,7 +1,4 @@
 Architect
-OWO_HollowKnight
-ShowHPOnDeath
-Architect
 ShowHPOnDeath
 Architect
 CustomizableNailDamage
@@ -14,4 +11,11 @@ Architect
 Architect
 CustomizableAbilities
 CustomizableNailDamage
+SpeedChanger
+Architect
+Breakable Wall Randomizer
+EnchantedMask
+HK_QoLTeleportKit
+QoLTeleportKit
+RainbowFlukes
 SpeedChanger

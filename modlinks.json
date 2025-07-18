@@ -408,11 +408,11 @@
   },
   "Architect": {
     "description": "A mod to add/remove platforms, enemies and more to change areas in the game with an in-game level editor and level sharer.",
-    "version": "1.8.8.0",
+    "version": "1.8.8.2",
     "links": {
       "type": "universal",
-      "sha256": "EA15987131F56E24303B86F82BA64E19FBF329F3E2CA98751A90137FA0BFD846",
-      "url": "https://github.com/cometcake575/Architect/releases/download/1.8.8.0/Architect.zip"
+      "sha256": "3D2C4541F4F5637B93E9F84EF739AF2A699FA0AFA12C0B7B3262892EEEE3B34A",
+      "url": "https://github.com/cometcake575/Architect/releases/download/1.8.8.2/Architect.zip"
     },
     "dependencies": [
       "MagicUI",
@@ -921,11 +921,11 @@
   },
   "Breakable Wall Randomizer": {
     "description": "A Hollow Knight Randomizer add-on for breakable walls.",
-    "version": "4.0.0.6",
+    "version": "4.0.1.0",
     "links": {
       "type": "universal",
-      "sha256": "CD12F40F9ECE256A0466C6E70289444141CC84682F10F27254FB817F85F0B40B",
-      "url": "https://github.com/nerthul11/BreakableWallRandomizer/releases/download/4.0.0.6/BreakableWallRandomizer.zip"
+      "sha256": "2EB9EDD026E240EADCB49216A67D3AE25141DAB0E7E22FB3106FC4686460DED2",
+      "url": "https://github.com/nerthul11/BreakableWallRandomizer/releases/download/4.0.1.0/BreakableWallRandomizer.zip"
     },
     "dependencies": [
       "Randomizer 4",
@@ -2596,6 +2596,31 @@
       "Cavernosa"
     ]
   },
+  "EnchantedMask": {
+    "description": "Adds new powerups called Glyphs, which can be purchased from the Mask maker.",
+    "version": "1.0.0.0",
+    "links": {
+      "type": "universal",
+      "sha256": "1381F0BA3294BDC0EF9A0854FB0095A1519E64C60E7E4EA900EB3A89DA793260",
+      "url": "https://github.com/danielstegink/HollowKnight.EnchantedMask/releases/download/1.0.0.0/EnchantedMask.zip"
+    },
+    "dependencies": [
+      "ItemChanger",
+      "SFCore",
+      "Satchel"
+    ],
+    "repository": "https://github.com/danielstegink/HollowKnight.EnchantedMask",
+    "issues": "https://github.com/danielstegink/HollowKnight.EnchantedMask/issues",
+    "integrations": [
+      "DebugMod"
+    ],
+    "tags": [
+      "Gameplay"
+    ],
+    "authors": [
+      "DanielStegink"
+    ]
+  },
   "EndlessIBaldur": {
     "description": "A mod for practicing itemless baldur",
     "version": "1.0.0.0",
@@ -4023,21 +4048,17 @@
     ]
   },
   "HK_QoLTeleportKit": {
-    "description": "QoL Teleport Kit is a Hollow Knight mod that adds a convenient teleportation system.",
-    "version": "1.0.0.0",
+    "description": "Dummy mod. Install the dependency \"QoLTeleportKit\" directly.",
+    "version": "9.9.9.9",
     "links": {
       "type": "universal",
-      "sha256": "E27A73066C16120E0964A12723750FA68EFCC8FCF938A483426DF157B948966D",
-      "url": "https://github.com/NightFuryoOo/HK_QoLTeleportKit/releases/download/v1.0.0.0/QoLTeleportKit.zip"
+      "sha256": "00280F51FB9F3030B4F1BBBAD3AB29082A706994E4FAF783AA955054673BC74B",
+      "url": "https://github.com/SFGrenade/EmptyMod/releases/download/v9.9.9.9/EmptyMod.zip"
     },
-    "dependencies": [],
-    "repository": "https://github.com/NightFuryoOo/HK_QoLTeleportKit",
-    "tags": [
-      "Gameplay"
+    "dependencies": [
+      "QoLTeleportKit"
     ],
-    "authors": [
-      "NightFuryo3o"
-    ]
+    "repository": "https://github.com/SFGrenade/EmptyMod/"
   },
   "HKmote": {
     "description": "Use emotes during multiplayer",
@@ -6508,6 +6529,23 @@
     ],
     "repository": "https://github.com/fifty-six/HollowKnight.QoL/"
   },
+  "QoLTeleportKit": {
+    "description": "QoL Teleport Kit is a Hollow Knight mod that adds a convenient teleportation system.",
+    "version": "1.0.0.1",
+    "links": {
+      "type": "universal",
+      "sha256": "2F18970FE14FC075F46ABC3C961B7B0102DD2E3FF19219A43DD24C19B35775FC",
+      "url": "https://github.com/NightFuryoOo/HK_QoLTeleportKit/releases/download/v1.0.0.1/QoLTeleportKit.zip"
+    },
+    "dependencies": [],
+    "repository": "https://github.com/NightFuryoOo/HK_QoLTeleportKit",
+    "tags": [
+      "Gameplay"
+    ],
+    "authors": [
+      "NightFuryo3o"
+    ]
+  },
   "Quasar Radiance": {
     "description": "A version of Any Radiance 3.0 that's heavily modified to be more fun and enjoyable by casual players while still providing some level of challenge. Very unique fight that's not impossibly hard like the real thing. The mod is meant to be played with a 300 FPS cap so if you play on lower or higher it's gonna be harder or easier than intended.",
     "version": "1.0.0.0",
@@ -6672,6 +6710,20 @@
       "Randomizer 4"
     ],
     "repository": "https://github.com/dpinela/RainbowEggs/"
+  },
+  "RainbowFlukes": {
+    "description": "The flukes are rainbow!",
+    "version": "1.0.0.0",
+    "links": {
+      "type": "universal",
+      "sha256": "E19A3341130D773D68A870BFA3F249985193F63EF1D9AF3780AC99CD0D7838FA",
+      "url": "https://github.com/TheMathGeek314/RainbowFlukes/releases/download/v1.0.0.0/RainbowFlukes.zip"
+    },
+    "dependencies": [],
+    "repository": "https://github.com/TheMathGeek314/RainbowFlukes/",
+    "authors": [
+      "TheMathGeek_314"
+    ]
   },
   "RainbowShinies": {
     "description": "Makes all shinies have a random color",
@@ -7873,11 +7925,11 @@
   },
   "SpeedChanger": {
     "description": "Speed up or slow down your game. A more customisable and user-friendly version of the Sanic mod.",
-    "version": "1.1.1.0",
+    "version": "1.1.2.0",
     "links": {
       "type": "universal",
-      "sha256": "7E8A596DD5FD809F4327F6F423E9A484694E596D66D7CF537D6DACCD8DDA0E50",
-      "url": "https://github.com/gGordey/SpeedChanger/releases/download/1.1.1/SpeedChanger.zip"
+      "sha256": "82B022719A82756CF2DD77690BF075E32C907D53427F263BCCB77804599F574E",
+      "url": "https://github.com/gGordey/SpeedChanger/releases/download/1.1.2/SpeedChanger.zip"
     },
     "dependencies": [
       "Satchel"

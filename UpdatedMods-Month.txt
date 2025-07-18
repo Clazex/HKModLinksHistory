@@ -77,3 +77,7 @@ Architect
 Architect
 CustomizableNailDamage
 SpeedChanger
+Architect
+Breakable Wall Randomizer
+HK_QoLTeleportKit
+SpeedChanger

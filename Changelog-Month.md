@@ -38,6 +38,18 @@
 - Tags
   + Gameplay
 
+### EnchantedMask
+
+- Description: Adds new powerups called Glyphs, which can be purchased from the Mask maker.
+- Dependencies
+  + ItemChanger
+  + SFCore
+  + Satchel
+- Integrations
+  + DebugMod
+- Tags
+  + Gameplay
+
 ### ExaltationExpanded
 
 - Description: A fan-made supplement to the Exaltation mod created by Xhuis (and ported/updated by Théodore).
@@ -49,17 +61,11 @@
 - Tags
   + Gameplay
 
-### GloriousGrimmMusic
-
-- Description: Listen to the more intense layer of Grimm&#x27;s theme for the whole fight
-- Dependencies
-  + Satchel
-
 ### HK_QoLTeleportKit
 
-- Description: QoL Teleport Kit is a Hollow Knight mod that adds a convenient teleportation system.
-- Tags
-  + Gameplay
+- Description: Dummy mod. Install the dependency &quot;QoLTeleportKit&quot; directly.
+- Dependencies
+  + QoLTeleportKit
 
 ### OWO_HollowKnight
 
@@ -80,18 +86,19 @@
   + Gameplay
   + Utility
 
+### QoLTeleportKit
+
+- Description: QoL Teleport Kit is a Hollow Knight mod that adds a convenient teleportation system.
+- Tags
+  + Gameplay
+
+### RainbowFlukes
+
+- Description: The flukes are rainbow!
+
 ### ReplayLogger
 
 - Description: ReplayLoger is a mod that was created to verify the legitimacy of player challenge runs.
-
-### ScreenResolution
-
-- Description: Adds more available screen resolution options.
-- Dependencies
-  + SFCore
-  + Satchel
-- Tags
-  + Utility
 
 ### ShowHPOnDeath
 
@@ -136,7 +143,7 @@
 
 ### Architect
 
-- Version: 1.0.0.0 -> 1.8.8.0
+- Version: 1.0.0.0 -> 1.8.8.2
 - Description
   + Old: A mod to add platforms, enemies and more to change areas in the game with an in-game level editor.
   + New: A mod to add/remove platforms, enemies and more to change areas in the game with an in-game level editor and level sharer.
@@ -150,6 +157,10 @@
 ### BingoUI
 
 - Version: 2.1.2.2 -> 2.2.0.0
+
+### Breakable Wall Randomizer
+
+- Version: 4.0.0.6 -> 4.0.1.0
 
 ### BugPrince
 
@@ -232,7 +243,7 @@
 
 ### SpeedChanger
 
-- Version: 1.0.4.0 -> 1.1.1.0
+- Version: 1.0.4.0 -> 1.1.2.0
 - Dependencies
   + Added
     - Satchel

@@ -1,4 +1,1 @@
 Architect
-BingoUI
-ReplayLogger
-Scattered and Lost
