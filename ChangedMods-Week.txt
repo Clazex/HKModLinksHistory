@@ -1,6 +1,4 @@
 Architect
-ShowHPOnDeath
-Architect
 CustomizableNailDamage
 WanderersWisdom
 Architect
@@ -18,4 +16,7 @@ EnchantedMask
 HK_QoLTeleportKit
 QoLTeleportKit
 RainbowFlukes
+SpeedChanger
+Architect
+CustomizableAbilities
 SpeedChanger

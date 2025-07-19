@@ -1,6 +1,4 @@
 Architect
-ShowHPOnDeath
-Architect
 CustomizableNailDamage
 WanderersWisdom
 Architect
@@ -13,4 +11,7 @@ SpeedChanger
 Architect
 Breakable Wall Randomizer
 HK_QoLTeleportKit
+SpeedChanger
+Architect
+CustomizableAbilities
 SpeedChanger

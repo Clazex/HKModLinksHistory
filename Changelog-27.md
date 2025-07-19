@@ -3,18 +3,15 @@
 
 ## Updated mods
 
-### ConfigurableMaskDamage
+### Archipelago Map Mod
+
+- Version: 3.1.0.0 -> 3.1.1.0
+
+### Architect
 
 - Version: 1.0.0.0 -> 1.1.0.0
-- Dependencies
-  + Added
-    - Satchel
 
-### MilliGolf
+### ConfigurableMaskDamage
 
-- Version: 1.2.0.3 -> 1.3.0.0
-
-### Smart Nail
-
-- Version: 1.3.0.0 -> 1.3.5.5
+- Version: 1.1.0.0 -> 1.1.1.0
 

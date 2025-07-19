@@ -408,11 +408,11 @@
   },
   "Architect": {
     "description": "A mod to add/remove platforms, enemies and more to change areas in the game with an in-game level editor and level sharer.",
-    "version": "1.8.8.2",
+    "version": "1.9.1.0",
     "links": {
       "type": "universal",
-      "sha256": "3D2C4541F4F5637B93E9F84EF739AF2A699FA0AFA12C0B7B3262892EEEE3B34A",
-      "url": "https://github.com/cometcake575/Architect/releases/download/1.8.8.2/Architect.zip"
+      "sha256": "F145A08412715D6F012E968A7AAB4553795424AEAF7BF719FDCD6F7182E168F1",
+      "url": "https://github.com/cometcake575/Architect/releases/download/1.9.1.0/Architect.zip"
     },
     "dependencies": [
       "MagicUI",
@@ -1948,12 +1948,12 @@
     ]
   },
   "CustomizableAbilities": {
-    "description": "Mod that allows you to customize abilities: negative and fractional nail; the amount of SOUL received from nail hits; spells. Negative nail damage heals enemies.",
-    "version": "1.3.2.1",
+    "description": "Mod that allows you to customize abilities: negative and fractional nail; the amount of SOUL received from nail hits; nail cooldown; damage (also negative and fractional) and the amount of SOUL received from dream nail; spells. Negative damage heals enemies.",
+    "version": "1.3.3.0",
     "links": {
       "type": "universal",
-      "sha256": "B3E12FFB5EE96BCA8A4D3AFC6EACED11C1491554B10CEAF35A5208892766A676",
-      "url": "https://github.com/kon4ino/CustomizableAbilities/releases/download/1.3.2.1/CustomizableNailDamage.zip"
+      "sha256": "64D982FDFFACD7659106B01F67ECE402A976B38EB484125EBF4730E9570933E4",
+      "url": "https://github.com/kon4ino/CustomizableAbilities/releases/download/1.3.3.0/CustomizableNailDamage.zip"
     },
     "dependencies": [
       "HKMirror",
@@ -7925,11 +7925,11 @@
   },
   "SpeedChanger": {
     "description": "Speed up or slow down your game. A more customisable and user-friendly version of the Sanic mod.",
-    "version": "1.1.2.0",
+    "version": "1.1.3.0",
     "links": {
       "type": "universal",
-      "sha256": "82B022719A82756CF2DD77690BF075E32C907D53427F263BCCB77804599F574E",
-      "url": "https://github.com/gGordey/SpeedChanger/releases/download/1.1.2/SpeedChanger.zip"
+      "sha256": "3C3C2B2A5444B853208629F7137F256F52E3E1138029D1D764BC67EC1A2EC142",
+      "url": "https://github.com/gGordey/SpeedChanger/releases/download/1.1.3/SpeedChanger.zip"
     },
     "dependencies": [
       "Satchel"

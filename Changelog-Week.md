@@ -5,7 +5,7 @@
 
 ### CustomizableAbilities
 
-- Description: Mod that allows you to customize abilities: negative and fractional nail; the amount of SOUL received from nail hits; spells. Negative nail damage heals enemies.
+- Description: Mod that allows you to customize abilities: negative and fractional nail; the amount of SOUL received from nail hits; nail cooldown; damage (also negative and fractional) and the amount of SOUL received from dream nail; spells. Negative damage heals enemies.
 - Dependencies
   + HKMirror
   + SFCore
@@ -46,7 +46,7 @@
 
 ### Architect
 
-- Version: 1.8.5.5 -> 1.8.8.2
+- Version: 1.8.6.0 -> 1.9.1.0
 
 ### BingoUI
 
@@ -91,13 +91,9 @@
   + Added
     - Architect
 
-### ShowHPOnDeath
-
-- Version: 1.2.0.0 -> 1.2.1.0
-
 ### SpeedChanger
 
-- Version: 1.0.4.0 -> 1.1.2.0
+- Version: 1.0.4.0 -> 1.1.3.0
 - Dependencies
   + Added
     - Satchel
