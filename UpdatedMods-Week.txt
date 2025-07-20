@@ -1,7 +1,4 @@
 Architect
-CustomizableNailDamage
-WanderersWisdom
-Architect
 BingoUI
 Scattered and Lost
 Architect
@@ -15,3 +12,6 @@ SpeedChanger
 Architect
 CustomizableAbilities
 SpeedChanger
+Architect
+BingoUI
+CustomizableAbilities

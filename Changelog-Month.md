@@ -3,14 +3,6 @@
 
 ## New mods
 
-### ConfigurableMaskDamage
-
-- Description: Changes the amount of damage dealt to the knight
-- Dependencies
-  + Satchel
-- Tags
-  + Gameplay
-
 ### CustomizableAbilities
 
 - Description: Mod that allows you to customize abilities: negative and fractional nail; the amount of SOUL received from nail hits; nail cooldown; damage (also negative and fractional) and the amount of SOUL received from dream nail; spells. Negative damage heals enemies.
@@ -139,11 +131,11 @@
 
 ### Archipelago Map Mod
 
-- Version: 3.0.1.0 -> 3.1.1.0
+- Version: 3.1.0.0 -> 3.1.1.0
 
 ### Architect
 
-- Version: 1.0.0.0 -> 1.9.1.0
+- Version: 1.0.0.0 -> 1.10.0.2
 - Description
   + Old: A mod to add platforms, enemies and more to change areas in the game with an in-game level editor.
   + New: A mod to add/remove platforms, enemies and more to change areas in the game with an in-game level editor and level sharer.
@@ -156,7 +148,7 @@
 
 ### BingoUI
 
-- Version: 2.1.2.2 -> 2.2.0.0
+- Version: 2.1.2.2 -> 2.2.0.1
 
 ### Breakable Wall Randomizer
 
@@ -170,13 +162,16 @@
 
 - Version: 1.4.1.1 -> 1.4.2.0
 
+### ConfigurableMaskDamage
+
+- Version: 1.0.0.0 -> 1.1.2.0
+- Dependencies
+  + Added
+    - Satchel
+
 ### Curse Randomizer
 
 - Version: 5.1.5.0 -> 5.1.6.0
-
-### CustomBgm
-
-- Version: 1.5.5.0 -> 1.5.5.1
 
 ### DapperMapperSpoils
 

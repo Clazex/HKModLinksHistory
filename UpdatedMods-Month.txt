@@ -1,5 +1,3 @@
-Archipelago Map Mod
-CustomBgm
 ConfigurableMaskDamage
 MilliGolf
 Smart Nail
@@ -81,3 +79,6 @@ SpeedChanger
 Architect
 CustomizableAbilities
 SpeedChanger
+Architect
+BingoUI
+CustomizableAbilities

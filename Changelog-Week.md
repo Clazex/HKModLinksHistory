@@ -46,11 +46,11 @@
 
 ### Architect
 
-- Version: 1.8.6.0 -> 1.9.1.0
+- Version: 1.8.6.1 -> 1.10.0.2
 
 ### BingoUI
 
-- Version: 2.1.2.2 -> 2.2.0.0
+- Version: 2.1.2.2 -> 2.2.0.1
 
 ### Breakable Wall Randomizer
 
@@ -58,9 +58,9 @@
 
 ### CustomizableNailDamage
 
-- Version: 1.3.0.0 -> 9.9.9.9
+- Version: 1.3.1.0 -> 9.9.9.9
 - Description
-  + Old: Mod that allows you to change the damage of the nail, including negative and fractional. Negative nail will heal enemies.
+  + Old: Mod that allows you to change the damage of the nail, including negative and fractional values, and also the amount of soul received from nail hits. Negative nail damage heals enemies.
   + New: Dummy mod. Install the dependency &quot;CustomizableAbilities&quot; directly.
 - Dependencies
   + Removed
@@ -97,8 +97,4 @@
 - Dependencies
   + Added
     - Satchel
-
-### WanderersWisdom
-
-- Version: 1.0.0.0 -> 1.0.1.0
 
