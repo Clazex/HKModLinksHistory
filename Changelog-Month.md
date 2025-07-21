@@ -135,7 +135,7 @@
 
 ### Architect
 
-- Version: 1.0.0.0 -> 1.10.0.2
+- Version: 1.0.0.0 -> 1.10.3.0
 - Description
   + Old: A mod to add platforms, enemies and more to change areas in the game with an in-game level editor.
   + New: A mod to add/remove platforms, enemies and more to change areas in the game with an in-game level editor and level sharer.
@@ -164,10 +164,7 @@
 
 ### ConfigurableMaskDamage
 
-- Version: 1.0.0.0 -> 1.1.2.0
-- Dependencies
-  + Added
-    - Satchel
+- Version: 1.1.0.0 -> 1.1.2.0
 
 ### Curse Randomizer
 
@@ -204,10 +201,6 @@
   + Added
     - DebugMod
 
-### MilliGolf
-
-- Version: 1.2.0.3 -> 1.3.0.0
-
 ### RandoMapCore
 
 - Version: 1.0.14.0 -> 1.0.15.0
@@ -215,6 +208,10 @@
 ### RandoMapMod
 
 - Version: 3.6.6.0 -> 3.6.7.0
+
+### RemoveLaggyObjects
+
+- Version: 1.0.2.0 -> 1.0.4.0
 
 ### SFCore
 
@@ -227,10 +224,6 @@
   + Added
     - Architect
     - BugPrince
-
-### Smart Nail
-
-- Version: 1.3.0.0 -> 1.3.5.5
 
 ### SpeedChanger
 

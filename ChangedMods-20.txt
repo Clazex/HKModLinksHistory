@@ -1,7 +1,2 @@
-Architect
 BugPrince
-CustomizableNailDamage
-PermaFlukes
-Transcendence
 TreasureHunt
-Trial of Crusaders

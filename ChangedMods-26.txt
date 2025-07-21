@@ -1,2 +1,3 @@
-Architect
-BugPrince
+ConfigurableMaskDamage
+CustomizableNailDamage
+SpicyRando

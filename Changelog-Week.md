@@ -37,20 +37,16 @@
 
 - Description: The flukes are rainbow!
 
-### ReplayLogger
-
-- Description: ReplayLoger is a mod that was created to verify the legitimacy of player challenge runs.
-
 
 ## Updated mods
 
 ### Architect
 
-- Version: 1.8.6.1 -> 1.10.0.2
+- Version: 1.8.6.2 -> 1.10.3.0
 
 ### BingoUI
 
-- Version: 2.1.2.2 -> 2.2.0.1
+- Version: 2.2.0.0 -> 2.2.0.1
 
 ### Breakable Wall Randomizer
 
@@ -84,12 +80,9 @@
   + Added
     - Gameplay
 
-### Scattered and Lost
+### RemoveLaggyObjects
 
-- Version: 1.5.0.0 -> 1.5.1.0
-- Integrations
-  + Added
-    - Architect
+- Version: 1.0.2.0 -> 1.0.4.0
 
 ### SpeedChanger
 

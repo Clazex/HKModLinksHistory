@@ -1,7 +1,3 @@
 Architect
-Breakable Wall Randomizer
-EnchantedMask
-HK_QoLTeleportKit
-QoLTeleportKit
-RainbowFlukes
+CustomizableAbilities
 SpeedChanger

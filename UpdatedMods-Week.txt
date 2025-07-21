@@ -1,7 +1,4 @@
 Architect
-BingoUI
-Scattered and Lost
-Architect
 Architect
 CustomizableNailDamage
 SpeedChanger
@@ -15,3 +12,6 @@ SpeedChanger
 Architect
 BingoUI
 CustomizableAbilities
+Architect
+CustomizableAbilities
+RemoveLaggyObjects

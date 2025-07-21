@@ -1,6 +1,3 @@
-ConfigurableMaskDamage
-MilliGolf
-Smart Nail
 Archipelago Map Mod
 Architect
 ConfigurableMaskDamage
@@ -98,3 +95,6 @@ SpeedChanger
 Architect
 BingoUI
 CustomizableAbilities
+Architect
+CustomizableAbilities
+RemoveLaggyObjects
