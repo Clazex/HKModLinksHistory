@@ -1,5 +1,4 @@
 Architect
-Architect
 CustomizableAbilities
 CustomizableNailDamage
 SpeedChanger
@@ -19,3 +18,4 @@ CustomizableAbilities
 Architect
 CustomizableAbilities
 RemoveLaggyObjects
+VendorRando

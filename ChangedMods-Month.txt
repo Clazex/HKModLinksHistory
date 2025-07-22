@@ -1,6 +1,3 @@
-Archipelago Map Mod
-Architect
-ConfigurableMaskDamage
 ExaltationExpanded
 MapChanger
 RandoMapCore
@@ -98,3 +95,4 @@ CustomizableAbilities
 Architect
 CustomizableAbilities
 RemoveLaggyObjects
+VendorRando

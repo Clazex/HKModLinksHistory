@@ -6038,9 +6038,9 @@ Enjoy!</Description>
     <Manifest>
         <Name>Archipelago Map Mod</Name>
         <Description>A conversion of RandoMapMod that works with the Archipelago multiworld randomizer</Description>
-        <Version>3.1.0.0</Version>
-        <Link SHA256="45B4FDDB12C3A9AAC52446F668866CF7592265DC0849184389154293291973B4">
-            <![CDATA[https://github.com/ArchipelagoMW-HollowKnight/Archipelago.APMapMod/releases/download/v3.1.0/Archipelago.Map.Mod.zip]]>
+        <Version>3.1.1.0</Version>
+        <Link SHA256="65A6132209949B3B5F69D7233C117FC802CBEAA76C51CF684B97855D7462D481">
+            <![CDATA[https://github.com/ArchipelagoMW-HollowKnight/Archipelago.APMapMod/releases/download/v3.1.1/Archipelago.Map.Mod.zip]]>
         </Link>
         <Dependencies>
             <Dependency>Archipelago</Dependency>
@@ -9182,9 +9182,9 @@ Enjoy!</Description>
     <Manifest>
         <Name>Architect</Name>
         <Description>A mod to add platforms, enemies and more to change areas in the game with an in-game level editor.</Description>
-        <Version>1.0.0.0</Version>
-        <Link SHA256="84dcafc19bd7a3f65b14a16d13a34c422f6e67c56c9334ff03c29c318eb071d4">
-            <![CDATA[https://github.com/cometcake575/Architect/releases/download/Release/Architect.zip]]>
+        <Version>1.1.0.0</Version>
+        <Link SHA256="3dce906ee1e2153866aed4c3edb354c74bada819ad026085d475b533ea29c278">
+            <![CDATA[https://github.com/cometcake575/Architect/releases/download/1.1.0.0/Architect.zip]]>
         </Link>
         <Dependencies>
             <Dependency>Satchel</Dependency>
@@ -9209,9 +9209,9 @@ Enjoy!</Description>
       <Manifest>
         <Name>ConfigurableMaskDamage</Name>
         <Description>Changes the amount of damage dealt to the knight</Description>
-        <Version>1.1.0.0</Version>
-        <Link SHA256="6f63dedfdd5bf695a440d4aad5de1ee7d29e707f55a46684ce2c9448609381b3">
-            <![CDATA[https://github.com/F1NS3N/ConfigurableMaskDamage/releases/download/ConfigurableMaskDamage-v1.1.0/ConfigurableMaskDamage.zip]]>
+        <Version>1.1.1.0</Version>
+        <Link SHA256="b60afa25359414551686986eb33164b6ee439638a869c6fed82eec306eb269a8">
+            <![CDATA[https://github.com/F1NS3N/ConfigurableMaskDamage/releases/download/ConfigurableMaskDamage-v1.1.1/ConfigurableMaskDamage.zip]]>
         </Link>
         <Dependencies>
             <Dependency>Satchel</Dependency>

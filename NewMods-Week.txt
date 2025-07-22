@@ -2,3 +2,4 @@ CustomizableAbilities
 EnchantedMask
 QoLTeleportKit
 RainbowFlukes
+VendorRando

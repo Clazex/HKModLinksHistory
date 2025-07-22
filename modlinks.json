@@ -8830,6 +8830,33 @@
     "dependencies": [],
     "repository": "https://github.com/fifty-six/HollowKnight.Vasi/"
   },
+  "VendorRando": {
+    "description": "A Randomizer add-on that randomizes the physical locations of vendors",
+    "version": "1.0.0.0",
+    "links": {
+      "type": "universal",
+      "sha256": "06CBED49586664D24B67B2B051D971391E36CDA105718612AD00A1F662C11867",
+      "url": "https://github.com/TheMathGeek314/VendorRando/releases/download/v1.0.0.0/VendorRando.zip"
+    },
+    "dependencies": [
+      "ConnectionMetadataInjector",
+      "ItemChanger",
+      "MenuChanger",
+      "Randomizer 4",
+      "RandomizerCore",
+      "RandomizerCore.Json",
+      "Satchel"
+    ],
+    "repository": "https://github.com/TheMathGeek314/VendorRando/",
+    "integrations": [
+      "CondensedSpoilerLogger",
+      "QoL",
+      "RandoSettingsManager"
+    ],
+    "authors": [
+      "TheMathGeek_314"
+    ]
+  },
   "Vessel May Cry": {
     "description": "A mod that overhauls the Knight's moveset to match Vergil's. Reading the mod page is recommended.",
     "version": "1.0.0.2",

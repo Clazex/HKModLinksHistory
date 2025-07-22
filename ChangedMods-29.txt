@@ -1,3 +1,4 @@
-Archipelago Map Mod
-Architect
-ConfigurableMaskDamage
+ExaltationExpanded
+MapChanger
+RandoMapCore
+RandoMapMod

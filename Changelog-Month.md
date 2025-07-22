@@ -109,6 +109,22 @@
 - Tags
   + Gameplay
 
+### VendorRando
+
+- Description: A Randomizer add-on that randomizes the physical locations of vendors
+- Dependencies
+  + ConnectionMetadataInjector
+  + ItemChanger
+  + MenuChanger
+  + Randomizer 4
+  + RandomizerCore
+  + RandomizerCore.Json
+  + Satchel
+- Integrations
+  + CondensedSpoilerLogger
+  + QoL
+  + RandoSettingsManager
+
 ### WanderersWisdom
 
 - Description: A mod that adds 2 new charms: Wanderer&#x27;s Wisdom and Wanderer&#x27;s Guile.
@@ -129,13 +145,9 @@
 
 ## Updated mods
 
-### Archipelago Map Mod
-
-- Version: 3.1.0.0 -> 3.1.1.0
-
 ### Architect
 
-- Version: 1.0.0.0 -> 1.10.3.0
+- Version: 1.1.0.0 -> 1.10.3.0
 - Description
   + Old: A mod to add platforms, enemies and more to change areas in the game with an in-game level editor.
   + New: A mod to add/remove platforms, enemies and more to change areas in the game with an in-game level editor and level sharer.
@@ -164,7 +176,7 @@
 
 ### ConfigurableMaskDamage
 
-- Version: 1.1.0.0 -> 1.1.2.0
+- Version: 1.1.1.0 -> 1.1.2.0
 
 ### Curse Randomizer
 

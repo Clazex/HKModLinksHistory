@@ -1,17 +1,31 @@
 # Changelog
 
 
+## New mods
+
+### ExaltationExpanded
+
+- Description: A fan-made supplement to the Exaltation mod created by Xhuis (and ported/updated by Théodore).
+- Dependencies
+  + Exaltation
+  + HKMirror
+  + ItemChanger
+  + SFCore
+- Tags
+  + Gameplay
+
+
 ## Updated mods
 
-### Archipelago Map Mod
+### MapChanger
 
-- Version: 3.1.0.0 -> 3.1.1.0
+- Version: 1.3.8.0 -> 1.3.9.0
 
-### Architect
+### RandoMapCore
 
-- Version: 1.0.0.0 -> 1.1.0.0
+- Version: 1.0.14.0 -> 1.0.15.0
 
-### ConfigurableMaskDamage
+### RandoMapMod
 
-- Version: 1.1.0.0 -> 1.1.1.0
+- Version: 3.6.6.0 -> 3.6.7.0
 

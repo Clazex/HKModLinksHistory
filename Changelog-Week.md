@@ -37,12 +37,28 @@
 
 - Description: The flukes are rainbow!
 
+### VendorRando
+
+- Description: A Randomizer add-on that randomizes the physical locations of vendors
+- Dependencies
+  + ConnectionMetadataInjector
+  + ItemChanger
+  + MenuChanger
+  + Randomizer 4
+  + RandomizerCore
+  + RandomizerCore.Json
+  + Satchel
+- Integrations
+  + CondensedSpoilerLogger
+  + QoL
+  + RandoSettingsManager
+
 
 ## Updated mods
 
 ### Architect
 
-- Version: 1.8.6.2 -> 1.10.3.0
+- Version: 1.8.7.1 -> 1.10.3.0
 
 ### BingoUI
 
