@@ -1,7 +1,4 @@
 Architect
-CustomizableNailDamage
-SpeedChanger
-Architect
 Breakable Wall Randomizer
 HK_QoLTeleportKit
 SpeedChanger
@@ -14,3 +11,9 @@ CustomizableAbilities
 Architect
 CustomizableAbilities
 RemoveLaggyObjects
+AccessRandomizer
+Architect
+DivineFury
+EnchantedMask
+Hivesong
+VendorRando

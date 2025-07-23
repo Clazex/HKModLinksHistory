@@ -73,11 +73,11 @@
   },
   "AccessRandomizer": {
     "description": "A randomizer add-on for miscellaneous access checks.",
-    "version": "1.3.0.4",
+    "version": "1.3.0.5",
     "links": {
       "type": "universal",
-      "sha256": "7862E565C78A0B50341C0D8ECF8E09953F691054733199496F46DAE583D6C5C2",
-      "url": "https://github.com/nerthul11/AccessRandomizer/releases/download/1.3.0.4/AccessRandomizer.zip"
+      "sha256": "87571A3A61E198DA409CFD682184F7605CF01C40715595F6171258C071CBBA3C",
+      "url": "https://github.com/nerthul11/AccessRandomizer/releases/download/1.3.0.5/AccessRandomizer.zip"
     },
     "dependencies": [
       "ItemChanger",
@@ -408,11 +408,11 @@
   },
   "Architect": {
     "description": "A mod to add/remove platforms, enemies and more to change areas in the game with an in-game level editor and level sharer.",
-    "version": "1.10.3.0",
+    "version": "1.10.4.1",
     "links": {
       "type": "universal",
-      "sha256": "A59513A86FFDBC34580F15EC380FE8A21E58273C8FE5289619AC463E553D8964",
-      "url": "https://github.com/cometcake575/Architect/releases/download/1.10.3.0/Architect.zip"
+      "sha256": "84DBCBAD3AAFE6C77885BCD2157E3071642239126DB6D570BD34C691D3EA5748",
+      "url": "https://github.com/cometcake575/Architect/releases/download/1.10.4.1/Architect.zip"
     },
     "dependencies": [
       "MagicUI",
@@ -2031,6 +2031,26 @@
       "TheMathGeek_314"
     ]
   },
+  "DPSMeter": {
+    "description": "Mod that allows you to see how much damage you deal per second. Also works with negative damage.",
+    "version": "1.0.0.0",
+    "links": {
+      "type": "universal",
+      "sha256": "894827B5354211349DE535F9DBEE928D81C7674082881C63967E1A7C80F3FDDD",
+      "url": "https://github.com/kon4ino/DPSMeter/releases/download/1.0.0/DPSMeter.zip"
+    },
+    "dependencies": [
+      "Satchel"
+    ],
+    "repository": "https://github.com/kon4ino/DPSMeter",
+    "tags": [
+      "Gameplay",
+      "Utility"
+    ],
+    "authors": [
+      "kon4ino"
+    ]
+  },
   "DamageValues": {
     "description": "Shows damage numbers when striking an enemy.",
     "version": "1.0.0.1",
@@ -2375,11 +2395,11 @@
   },
   "DivineFury": {
     "description": "This mod adds a new charm: Divine Fury. This charm sets the player's health to 1, allowing Fury of the Fallen to be viable in Radiant Godhome battles.",
-    "version": "1.1.0.0",
+    "version": "1.1.1.0",
     "links": {
       "type": "universal",
-      "sha256": "17E681DC284AE013FC63A511EAD2D23CB898C05BB5B367AA8FCE548A61D47761",
-      "url": "https://github.com/danielstegink/HollowKnight.DivineFury/releases/download/1.1.0.0/DivineFury.zip"
+      "sha256": "FA20CB5B2D7FEA77283EB868A085CE326CA54032CF2ECB96378DDAF0C6C09F5A",
+      "url": "https://github.com/danielstegink/HollowKnight.DivineFury/releases/download/1.1.1.0/DivineFury.zip"
     },
     "dependencies": [
       "ItemChanger",
@@ -2388,6 +2408,10 @@
     ],
     "repository": "https://github.com/danielstegink/HollowKnight.DivineFury",
     "issues": "https://github.com/danielstegink/HollowKnight.DivineFury/issues",
+    "integrations": [
+      "DebugMod",
+      "ExaltationExpanded"
+    ],
     "tags": [
       "Gameplay"
     ],
@@ -2598,11 +2622,11 @@
   },
   "EnchantedMask": {
     "description": "Adds new powerups called Glyphs, which can be purchased from the Mask maker.",
-    "version": "1.0.0.0",
+    "version": "1.0.1.0",
     "links": {
       "type": "universal",
-      "sha256": "1381F0BA3294BDC0EF9A0854FB0095A1519E64C60E7E4EA900EB3A89DA793260",
-      "url": "https://github.com/danielstegink/HollowKnight.EnchantedMask/releases/download/1.0.0.0/EnchantedMask.zip"
+      "sha256": "4CA9F364FFB61592C3BD5F2629BABE0FE3FAE5679FA77552218A23D22C72FC38",
+      "url": "https://github.com/danielstegink/HollowKnight.EnchantedMask/releases/download/1.0.1.0/EnchantedMask.zip"
     },
     "dependencies": [
       "ItemChanger",
@@ -4262,11 +4286,11 @@
   },
   "Hivesong": {
     "description": "This mod adds a new charm, Hivesong, which increases the damage dealt by pets.",
-    "version": "1.2.0.0",
+    "version": "1.2.1.0",
     "links": {
       "type": "universal",
-      "sha256": "C4BB950FBC77965B89C917C27B32F5A294C8B741358DF1B4166920BB2B8460D8",
-      "url": "https://github.com/danielstegink/HollowKnight.Hivesong/releases/download/1.2.0.0/Hivesong.zip"
+      "sha256": "32A4F87FB4847A6CD6A6BA98834A705179E31387FF690C45C3D99907645D9764",
+      "url": "https://github.com/danielstegink/HollowKnight.Hivesong/releases/download/1.2.1.0/Hivesong.zip"
     },
     "dependencies": [
       "ItemChanger",
@@ -4275,6 +4299,10 @@
     ],
     "repository": "https://github.com/danielstegink/HollowKnight.Hivesong",
     "issues": "https://github.com/danielstegink/HollowKnight.Hivesong/issues",
+    "integrations": [
+      "DebugMod",
+      "ExaltationExpanded"
+    ],
     "tags": [
       "Gameplay"
     ],
@@ -5327,6 +5355,24 @@
     ],
     "authors": [
       "SFGrenade"
+    ]
+  },
+  "MetalOST": {
+    "description": "Replaces all of Hallownest’s OST’s with custom metal variants made by RYS.",
+    "version": "1.0.0.0",
+    "links": {
+      "type": "universal",
+      "sha256": "A3B244B5F3207C2799700EEA71A47AA99601ACD402720674F5D67CD8AEF2B853",
+      "url": "https://github.com/maskedcreeper10/MetalOST/releases/download/v1.0.0.0/MetalOST.zip"
+    },
+    "dependencies": [],
+    "repository": "https://github.com/maskedcreeper10/MetalOST",
+    "tags": [
+      "Cosmetic"
+    ],
+    "authors": [
+      "Maskedcreeper10",
+      "RYS"
     ]
   },
   "MetalPipeHM": {
@@ -8832,11 +8878,11 @@
   },
   "VendorRando": {
     "description": "A Randomizer add-on that randomizes the physical locations of vendors",
-    "version": "1.0.0.0",
+    "version": "1.0.0.1",
     "links": {
       "type": "universal",
-      "sha256": "06CBED49586664D24B67B2B051D971391E36CDA105718612AD00A1F662C11867",
-      "url": "https://github.com/TheMathGeek314/VendorRando/releases/download/v1.0.0.0/VendorRando.zip"
+      "sha256": "B1C5514B8E952C151C9AF73DAB38E5C51BF47CC99E492B0701CBAAFC899DD620",
+      "url": "https://github.com/TheMathGeek314/VendorRando/releases/download/v1.0.0.1/VendorRando.zip"
     },
     "dependencies": [
       "ConnectionMetadataInjector",

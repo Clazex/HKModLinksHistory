@@ -1,7 +1,3 @@
-ExaltationExpanded
-MapChanger
-RandoMapCore
-RandoMapMod
 Architect
 BugPrince
 ConfigurableMaskDamage
@@ -95,4 +91,12 @@ CustomizableAbilities
 Architect
 CustomizableAbilities
 RemoveLaggyObjects
+VendorRando
+AccessRandomizer
+Architect
+DPSMeter
+DivineFury
+EnchantedMask
+Hivesong
+MetalOST
 VendorRando

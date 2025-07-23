@@ -1,5 +1,6 @@
-CustomizableAbilities
 EnchantedMask
 QoLTeleportKit
 RainbowFlukes
 VendorRando
+DPSMeter
+MetalOST

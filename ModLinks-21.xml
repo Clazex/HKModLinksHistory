@@ -586,8 +586,8 @@ Not recommended for use in new mods.</Description>
     <Manifest>
         <Name>MidasTouch</Name>
         <Description>Gorgeous Husk drops a charm that turns enemies to gold</Description>
-        <Version>1.0.1.1</Version>
-        <Link SHA256="657B34B514F7E4BA07D0A591EE4345A377EEDEF4FF0584860A61AE28BAC7D8DC"><![CDATA[https://github.com/TheMathGeek314/MidasTouch/releases/download/v1.0.1.1/MidasTouch.zip]]></Link>
+        <Version>1.1.0.0</Version>
+        <Link SHA256="F4EB92A4B2A423A8C12A9D769B473A6055AC4B1A801BC828F9431FE728D3D076"><![CDATA[https://github.com/TheMathGeek314/MidasTouch/releases/download/v1.1.0.0/MidasTouch.zip]]></Link>
         <Dependencies>
             <Dependency>Satchel</Dependency>
             <Dependency>SFCore</Dependency>
@@ -595,6 +595,9 @@ Not recommended for use in new mods.</Description>
         <Repository>
             <![CDATA[https://github.com/TheMathGeek314/MidasTouch/]]>
         </Repository>
+        <Integrations>
+            <Integration>DebugMod</Integration>
+        </Integrations>
         <Authors>
             <Author>TheMathGeek_314</Author>
         </Authors>
@@ -6664,9 +6667,9 @@ Enjoy!</Description>
     <Manifest>
         <Name>Trial of Crusaders</Name>
         <Description>A rogue-like mod inspired by Dead Cells, Binding of Isaac and Blue Prince.</Description>
-        <Version>0.2.3.0</Version>
-        <Link SHA256="690207f50301f695c759b4c8fb17aa70f71e3113e352c754620680de18e103d6">
-            <![CDATA[https://github.com/Korzer420/TrialOfCrusaders/releases/download/v0.2.3/TrialOfCrusaders.zip]]></Link>
+        <Version>0.2.4.0</Version>
+        <Link SHA256="e8b289fb3b87f555c27c31ae5e2b1773ecc50b5943d23f903417202af116f064">
+            <![CDATA[https://github.com/Korzer420/TrialOfCrusaders/releases/download/v0.2.4/TrialOfCrusaders.zip]]></Link>
         <Dependencies>
             <Dependency>SFCore</Dependency>
             <Dependency>KorzUtils</Dependency>
@@ -9247,9 +9250,9 @@ Enjoy!</Description>
     <Manifest>
         <Name>Architect</Name>
         <Description>A mod to add/remove platforms, enemies and more to change areas in the game with an in-game level editor and level sharer.</Description>
-        <Version>1.5.1.2</Version>
-        <Link SHA256="9b65fa87cb0174593a9fb1b8c58f4497862fa728dd729ad7d361b7ce62904cfe">
-            <![CDATA[https://github.com/cometcake575/Architect/releases/download/1.5.1.2/Architect.zip]]>
+        <Version>1.5.3.0</Version>
+        <Link SHA256="8a520d9ddb8dbf9a9bdd5743b537b0bcd1a4ce92a6c17d710d6cffc6299882d5">
+            <![CDATA[https://github.com/cometcake575/Architect/releases/download/1.5.3.0/Architect.zip]]>
         </Link>
         <Dependencies>
             <Dependency>Satchel</Dependency>
@@ -9378,6 +9381,46 @@ Enjoy!</Description>
         </Tags>
         <Authors>
             <Author>DanielStegink</Author>
+        </Authors>
+    </Manifest>
+    <Manifest>
+        <Name>DashChanger</Name>
+        <Description>Allows you to change the horizontal and vertical length of the dash.</Description>
+        <Version>1.0.0.0</Version>
+        <Link SHA256="d8bb4dc60fb293875997fc1ae63ce1c69f94fafc8e58f8f53a740ca7f321f94b">
+            <![CDATA[https://github.com/AndrewDbdbd/DashChanger/releases/download/HollowKnightMod/DashChanger.zip]]>
+        </Link>
+        <Dependencies>
+            <Dependency>HKMirror</Dependency>
+            <Dependency>Satchel</Dependency>
+        </Dependencies>
+        <Repository>
+            <![CDATA[https://github.com/AndrewDbdbd/DashChanger]]>
+        </Repository>
+        <Tags>
+            <Tag>Gameplay</Tag>
+        </Tags>
+        <Authors>
+            <Author>Dbdbd</Author>
+        </Authors>
+    </Manifest>
+    <Manifest>
+        <Name>PlatformingQoL</Name>
+        <Description>Quality of life improvements for Hollow Knight platforming, including hitbox visualization and respawn animation skipping.</Description>
+        <Version>1.0.0.0</Version>
+        <Link SHA256="e4137618bbd64d89606bdcee1c1a36885c42d5ada711635782e283b24256fd0b">
+            <![CDATA[https://github.com/Ishmael-GameDev/Platforming-QoL-mod/releases/download/PlatformingQoL-v1.0.0/Platforming.QoL.zip]]>
+        </Link>
+        <Dependencies />
+        <Repository>
+            <![CDATA[https://github.com/Ishmael-GameDev/Platforming-QoL-mod]]>
+        </Repository>
+        <Tags>
+            <Tag>Gameplay</Tag>
+            <Tag>Utility</Tag>
+        </Tags>
+        <Authors>
+            <Author>Ishmael</Author>
         </Authors>
     </Manifest>
 </ModLinks>

@@ -1,31 +1,16 @@
 # Changelog
 
 
-## New mods
-
-### ExaltationExpanded
-
-- Description: A fan-made supplement to the Exaltation mod created by Xhuis (and ported/updated by Théodore).
-- Dependencies
-  + Exaltation
-  + HKMirror
-  + ItemChanger
-  + SFCore
-- Tags
-  + Gameplay
-
-
 ## Updated mods
 
-### MapChanger
+### Architect
 
-- Version: 1.3.8.0 -> 1.3.9.0
+- Version: 1.1.0.0 -> 1.2.0.0
+- Description
+  + Old: A mod to add platforms, enemies and more to change areas in the game with an in-game level editor.
+  + New: A mod to add platforms, enemies and more to change areas in the game with an in-game level editor and level sharer.
 
-### RandoMapCore
+### BugPrince
 
-- Version: 1.0.14.0 -> 1.0.15.0
-
-### RandoMapMod
-
-- Version: 3.6.6.0 -> 3.6.7.0
+- Version: 1.1.0.0 -> 1.2.0.0
 

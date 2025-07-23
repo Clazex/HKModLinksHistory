@@ -21,6 +21,15 @@
 - Dependencies
   + CustomizableAbilities
 
+### DPSMeter
+
+- Description: Mod that allows you to see how much damage you deal per second. Also works with negative damage.
+- Dependencies
+  + Satchel
+- Tags
+  + Gameplay
+  + Utility
+
 ### DashChanger
 
 - Description: Allows you to change the horizontal and vertical length of the dash.
@@ -42,22 +51,17 @@
 - Tags
   + Gameplay
 
-### ExaltationExpanded
-
-- Description: A fan-made supplement to the Exaltation mod created by Xhuis (and ported/updated by Théodore).
-- Dependencies
-  + Exaltation
-  + HKMirror
-  + ItemChanger
-  + SFCore
-- Tags
-  + Gameplay
-
 ### HK_QoLTeleportKit
 
 - Description: Dummy mod. Install the dependency &quot;QoLTeleportKit&quot; directly.
 - Dependencies
   + QoLTeleportKit
+
+### MetalOST
+
+- Description: Replaces all of Hallownest’s OST’s with custom metal variants made by RYS.
+- Tags
+  + Cosmetic
 
 ### OWO_HollowKnight
 
@@ -145,9 +149,13 @@
 
 ## Updated mods
 
+### AccessRandomizer
+
+- Version: 1.3.0.4 -> 1.3.0.5
+
 ### Architect
 
-- Version: 1.1.0.0 -> 1.10.3.0
+- Version: 1.1.0.0 -> 1.10.4.1
 - Description
   + Old: A mod to add platforms, enemies and more to change areas in the game with an in-game level editor.
   + New: A mod to add/remove platforms, enemies and more to change areas in the game with an in-game level editor and level sharer.
@@ -188,7 +196,15 @@
 
 ### DivineFury
 
-- Version: 1.0.0.1 -> 1.1.0.0
+- Version: 1.0.0.1 -> 1.1.1.0
+- Integrations
+  + Added
+    - DebugMod
+    - ExaltationExpanded
+
+### ExaltationExpanded
+
+- Version: 1.0.1.0 -> 1.0.2.0
 
 ### Extra Rando
 
@@ -196,15 +212,15 @@
 
 ### Hivesong
 
-- Version: 1.1.0.1 -> 1.2.0.0
+- Version: 1.1.0.1 -> 1.2.1.0
+- Integrations
+  + Added
+    - DebugMod
+    - ExaltationExpanded
 
 ### KorzUtils
 
 - Version: 0.8.0.0 -> 0.9.0.0
-
-### MapChanger
-
-- Version: 1.3.8.0 -> 1.3.9.0
 
 ### MidasTouch
 
@@ -212,14 +228,6 @@
 - Integrations
   + Added
     - DebugMod
-
-### RandoMapCore
-
-- Version: 1.0.14.0 -> 1.0.15.0
-
-### RandoMapMod
-
-- Version: 3.6.6.0 -> 3.6.7.0
 
 ### RemoveLaggyObjects
 
