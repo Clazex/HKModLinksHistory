@@ -1,5 +1,3 @@
-Architect
-BugPrince
 ConfigurableMaskDamage
 SpicyRando
 Architect
@@ -82,3 +80,8 @@ DivineFury
 EnchantedMask
 Hivesong
 VendorRando
+Architect
+CustomizableAbilities
+ExaltationExpanded
+Extra Rando
+MetalOST

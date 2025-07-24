@@ -2203,9 +2203,9 @@ All with an incredible new soundtrack!</Description>
     <Manifest>
         <Name>DapperMapperSpoils</Name>
         <Description>Adds a category to the condensed spoiler log which shows the locations of the 13 maps.</Description>
-        <Version>1.1.0.0</Version>
-        <Link SHA256="8d799f25b82005f7fe1d401d56b1a088f28158ffeb6686dca6255aba04e65c25">
-            <![CDATA[https://github.com/flibber-hk/HollowKnight.DapperMapperSpoils/releases/download/v1.1.0.0/DapperMapperSpoils.zip]]>
+        <Version>1.2.0.0</Version>
+        <Link SHA256="6d25392414dc3f8c97c32960ddcc6c82d4f8e763c6f4940f9bf38a83209c097d">
+            <![CDATA[https://github.com/flibber-hk/HollowKnight.DapperMapperSpoils/releases/download/v1.2.0.0/DapperMapperSpoils.zip]]>
         </Link>
         <Dependencies />
         <Repository>
@@ -6530,9 +6530,9 @@ Enjoy!</Description>
     <Manifest>
         <Name>KorzUtils</Name>
         <Description>Library mod that provide useful functions for other mods.</Description>
-        <Version>0.8.0.0</Version>
-        <Link SHA256="0bfe1bb26d4e4c47b65d027d7ea0bd90baaaca90b7b3eff7425d7ee517318590">
-            <![CDATA[https://github.com/Korzer420/KorzUtils/releases/download/v0.8.0/KorzUtils.zip]]></Link>
+        <Version>0.9.0.0</Version>
+        <Link SHA256="63d6c14c8bb547e565bc2849313da9e4ff28bcdad72633cdb77f2b4fd47c1a2e">
+            <![CDATA[https://github.com/Korzer420/KorzUtils/releases/download/v0.9.0/KorzUtils.zip]]></Link>
         <Dependencies>
         </Dependencies>
         <Repository>
@@ -6645,6 +6645,27 @@ Enjoy!</Description>
             <Author>Korz</Author>
             <Author>Fireb0rn</Author>
             <Author>Extremelyd1</Author>
+        </Authors>
+    </Manifest>
+    <Manifest>
+        <Name>Trial of Crusaders</Name>
+        <Description>A rogue-like mod inspired by Dead Cells, Binding of Isaac and Blue Prince.</Description>
+        <Version>0.1.0.0</Version>
+        <Link SHA256="b70b8504a798fe6790c8145e2a0bdff92bfeca1d81552af3f7e946b638f4f3b4">
+            <![CDATA[https://github.com/Korzer420/TrialOfCrusaders/releases/download/v0.1.0/TrialOfCrusaders.zip]]></Link>
+        <Dependencies>
+            <Dependency>SFCore</Dependency>
+            <Dependency>KorzUtils</Dependency>
+            <Dependency>MenuChanger</Dependency>
+        </Dependencies>
+        <Repository>
+            <![CDATA[https://github.com/Korzer420/TrialOfCrusaders]]>
+        </Repository>
+        <Tags>
+            <Tag>Gameplay</Tag>
+        </Tags>
+        <Authors>
+            <Author>Korz</Author>
         </Authors>
     </Manifest>
     <Manifest>
@@ -8784,9 +8805,9 @@ Enjoy!</Description>
     <Manifest>
         <Name>CharmPatch</Name>
         <Description>This is a collection of small changes that I think improve the balance of certain charms in the game. Please view Readme for Charm Changer mod recommendations.</Description>
-        <Version>1.4.1.1</Version>
-        <Link SHA256="ADA3859EED2C2252B2E16940BED13EAF7328204ECC32C30EB6802BF396C17F80">
-            <![CDATA[https://github.com/danielstegink/HollowKnight.CharmPatch/releases/download/1.4.1.1/CharmPatch.zip]]>
+        <Version>1.4.2.0</Version>
+        <Link SHA256="C4CE706EEED6731D37F0A6D084CDC044AFFCF32BFC1B828628CBE2DE99BC8CA7">
+            <![CDATA[https://github.com/danielstegink/HollowKnight.CharmPatch/releases/download/1.4.2.0/CharmPatch.zip]]>
         </Link>
         <Dependencies>
             <Dependency>HKMirror</Dependency>
@@ -9212,13 +9233,14 @@ Enjoy!</Description>
     <Manifest>
         <Name>Architect</Name>
         <Description>A mod to add platforms, enemies and more to change areas in the game with an in-game level editor and level sharer.</Description>
-        <Version>1.2.0.0</Version>
-        <Link SHA256="1132caf59c7d97c7ad8dcc2cd17f96e34162cba975555f034fdee28d893befbb">
-            <![CDATA[https://github.com/cometcake575/Architect/releases/download/1.2.0.0/Architect.zip]]>
+        <Version>1.2.2.0</Version>
+        <Link SHA256="f2e37e7ae2e8dee524eac67beaae072b84afff2fa517e794a4d0d5e0e9e689ed">
+            <![CDATA[https://github.com/cometcake575/Architect/releases/download/1.2.2.0/Architect.zip]]>
         </Link>
         <Dependencies>
             <Dependency>Satchel</Dependency>
             <Dependency>MagicUI</Dependency>
+            <Dependency>SFCore</Dependency>
         </Dependencies>
         <Repository>
             <![CDATA[https://github.com/cometcake575/Architect]]>

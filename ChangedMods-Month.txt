@@ -1,5 +1,3 @@
-Architect
-BugPrince
 ConfigurableMaskDamage
 CustomizableNailDamage
 SpicyRando
@@ -100,3 +98,8 @@ EnchantedMask
 Hivesong
 MetalOST
 VendorRando
+Architect
+CustomizableAbilities
+ExaltationExpanded
+Extra Rando
+MetalOST

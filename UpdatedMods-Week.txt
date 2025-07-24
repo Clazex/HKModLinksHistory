@@ -1,8 +1,4 @@
 Architect
-Breakable Wall Randomizer
-HK_QoLTeleportKit
-SpeedChanger
-Architect
 CustomizableAbilities
 SpeedChanger
 Architect
@@ -17,3 +13,8 @@ DivineFury
 EnchantedMask
 Hivesong
 VendorRando
+Architect
+CustomizableAbilities
+ExaltationExpanded
+Extra Rando
+MetalOST

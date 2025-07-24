@@ -12,33 +12,11 @@
   + Gameplay
   + Utility
 
-### EnchantedMask
-
-- Description: Adds new powerups called Glyphs, which can be purchased from the Mask maker.
-- Dependencies
-  + ItemChanger
-  + SFCore
-  + Satchel
-- Integrations
-  + DebugMod
-- Tags
-  + Gameplay
-
 ### MetalOST
 
 - Description: Replaces all of Hallownest’s OST’s with custom metal variants made by RYS.
 - Tags
   + Cosmetic
-
-### QoLTeleportKit
-
-- Description: QoL Teleport Kit is a Hollow Knight mod that adds a convenient teleportation system.
-- Tags
-  + Gameplay
-
-### RainbowFlukes
-
-- Description: The flukes are rainbow!
 
 ### VendorRando
 
@@ -65,22 +43,18 @@
 
 ### Architect
 
-- Version: 1.8.8.0 -> 1.10.4.1
+- Version: 1.8.8.2 -> 1.10.5.1
 
 ### BingoUI
 
 - Version: 2.2.0.0 -> 2.2.0.1
 
-### Breakable Wall Randomizer
-
-- Version: 4.0.0.6 -> 4.0.1.0
-
 ### CustomizableAbilities
 
-- Version: 1.3.2.1 -> 1.3.3.4
+- Version: 1.3.2.1 -> 1.3.4.0
 - Description
   + Old: Mod that allows you to customize abilities: negative and fractional nail; the amount of SOUL received from nail hits; spells. Negative nail damage heals enemies.
-  + New: Mod that allows you to customize abilities: negative and fractional nail; the amount of SOUL received from nail hits; nail cooldown; damage (also negative and fractional) and the amount of SOUL received from dream nail; spells. Negative damage heals enemies.
+  + New: Mod that allows you to customize abilities: negative and fractional nail; the amount of SOUL received from nail hits; nail cooldown; damage (also negative and fractional) and the amount of SOUL received from dream nail; spells and other abilities. Negative damage heals enemies.
 
 ### DivineFury
 
@@ -90,18 +64,23 @@
     - DebugMod
     - ExaltationExpanded
 
-### HK_QoLTeleportKit
+### EnchantedMask
 
-- Version: 1.0.0.0 -> 9.9.9.9
-- Description
-  + Old: QoL Teleport Kit is a Hollow Knight mod that adds a convenient teleportation system.
-  + New: Dummy mod. Install the dependency &quot;QoLTeleportKit&quot; directly.
+- Version: 1.0.0.0 -> 1.0.1.0
+
+### ExaltationExpanded
+
+- Version: 1.0.2.0 -> 1.1.0.0
 - Dependencies
   + Added
-    - QoLTeleportKit
-- Tags
+    - Satchel
+- Integrations
   + Added
-    - Gameplay
+    - Pale Court
+
+### Extra Rando
+
+- Version: 0.6.2.0 -> 0.7.0.0
 
 ### Hivesong
 
@@ -117,5 +96,5 @@
 
 ### SpeedChanger
 
-- Version: 1.1.1.0 -> 1.1.3.0
+- Version: 1.1.2.0 -> 1.1.3.0
 

@@ -1,2 +1,2 @@
 Architect
-CustomizableNailDamage
+ShowHPOnDeath

@@ -5,7 +5,7 @@
 
 ### CustomizableAbilities
 
-- Description: Mod that allows you to customize abilities: negative and fractional nail; the amount of SOUL received from nail hits; nail cooldown; damage (also negative and fractional) and the amount of SOUL received from dream nail; spells. Negative damage heals enemies.
+- Description: Mod that allows you to customize abilities: negative and fractional nail; the amount of SOUL received from nail hits; nail cooldown; damage (also negative and fractional) and the amount of SOUL received from dream nail; spells and other abilities. Negative damage heals enemies.
 - Dependencies
   + HKMirror
   + SFCore
@@ -155,9 +155,9 @@
 
 ### Architect
 
-- Version: 1.1.0.0 -> 1.10.4.1
+- Version: 1.2.0.0 -> 1.10.5.1
 - Description
-  + Old: A mod to add platforms, enemies and more to change areas in the game with an in-game level editor.
+  + Old: A mod to add platforms, enemies and more to change areas in the game with an in-game level editor and level sharer.
   + New: A mod to add/remove platforms, enemies and more to change areas in the game with an in-game level editor and level sharer.
 - Dependencies
   + Added
@@ -176,7 +176,7 @@
 
 ### BugPrince
 
-- Version: 1.1.0.0 -> 1.4.1.0
+- Version: 1.2.0.0 -> 1.4.1.0
 
 ### CharmPatch
 
@@ -204,11 +204,17 @@
 
 ### ExaltationExpanded
 
-- Version: 1.0.1.0 -> 1.0.2.0
+- Version: 1.0.1.0 -> 1.1.0.0
+- Dependencies
+  + Added
+    - Satchel
+- Integrations
+  + Added
+    - Pale Court
 
 ### Extra Rando
 
-- Version: 0.6.1.0 -> 0.6.2.0
+- Version: 0.6.1.0 -> 0.7.0.0
 
 ### Hivesong
 
