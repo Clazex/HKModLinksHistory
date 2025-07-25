@@ -1,17 +1,21 @@
 # Changelog
 
 
-## Updated mods
+## New mods
 
-### Architect
+### VendorRando
 
-- Version: 1.10.0.2 -> 1.10.3.0
-
-### CustomizableAbilities
-
-- Version: 1.3.3.3 -> 1.3.3.4
-
-### RemoveLaggyObjects
-
-- Version: 1.0.2.0 -> 1.0.4.0
+- Description: A Randomizer add-on that randomizes the physical locations of vendors
+- Dependencies
+  + ConnectionMetadataInjector
+  + ItemChanger
+  + MenuChanger
+  + Randomizer 4
+  + RandomizerCore
+  + RandomizerCore.Json
+  + Satchel
+- Integrations
+  + CondensedSpoilerLogger
+  + QoL
+  + RandoSettingsManager
 

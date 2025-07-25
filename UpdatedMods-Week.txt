@@ -1,7 +1,4 @@
 Architect
-CustomizableAbilities
-SpeedChanger
-Architect
 BingoUI
 CustomizableAbilities
 Architect
@@ -18,3 +15,5 @@ CustomizableAbilities
 ExaltationExpanded
 Extra Rando
 MetalOST
+Architect
+ShowHPOnDeath

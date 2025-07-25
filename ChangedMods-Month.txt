@@ -1,6 +1,3 @@
-ConfigurableMaskDamage
-CustomizableNailDamage
-SpicyRando
 Architect
 CharmPatch
 DapperMapperSpoils
@@ -103,3 +100,5 @@ CustomizableAbilities
 ExaltationExpanded
 Extra Rando
 MetalOST
+Architect
+ShowHPOnDeath

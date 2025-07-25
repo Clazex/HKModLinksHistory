@@ -15,12 +15,6 @@
   + Gameplay
   + Utility
 
-### CustomizableNailDamage
-
-- Description: Dummy mod. Install the dependency &quot;CustomizableAbilities&quot; directly.
-- Dependencies
-  + CustomizableAbilities
-
 ### DPSMeter
 
 - Description: Mod that allows you to see how much damage you deal per second. Also works with negative damage.
@@ -155,7 +149,7 @@
 
 ### Architect
 
-- Version: 1.2.0.0 -> 1.10.5.1
+- Version: 1.2.0.0 -> 1.10.7.0
 - Description
   + Old: A mod to add platforms, enemies and more to change areas in the game with an in-game level editor and level sharer.
   + New: A mod to add/remove platforms, enemies and more to change areas in the game with an in-game level editor and level sharer.
@@ -182,13 +176,24 @@
 
 - Version: 1.4.1.1 -> 1.4.2.0
 
-### ConfigurableMaskDamage
-
-- Version: 1.1.1.0 -> 1.1.2.0
-
 ### Curse Randomizer
 
 - Version: 5.1.5.0 -> 5.1.6.0
+
+### CustomizableNailDamage
+
+- Version: 1.0.0.0 -> 9.9.9.9
+- Description
+  + Old: A Hollow Knight mod that allows you to change the damage of the nail almost as you like.
+  + New: Dummy mod. Install the dependency &quot;CustomizableAbilities&quot; directly.
+- Dependencies
+  + Removed
+    - Satchel
+  + Added
+    - CustomizableAbilities
+- Tags
+  + Added
+    - Gameplay
 
 ### DapperMapperSpoils
 
@@ -257,10 +262,6 @@
 - Dependencies
   + Added
     - Satchel
-
-### SpicyRando
-
-- Version: 1.2.2.0 -> 1.2.3.0
 
 ### Transcendence
 
