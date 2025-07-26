@@ -408,11 +408,11 @@
   },
   "Architect": {
     "description": "A mod to add/remove platforms, enemies and more to change areas in the game with an in-game level editor and level sharer.",
-    "version": "1.10.7.0",
+    "version": "1.10.8.1",
     "links": {
       "type": "universal",
-      "sha256": "3013693786C3F3166ABBA6B5BD8DD20109BAAC23AC218CA9EB5B44296040D3A2",
-      "url": "https://github.com/cometcake575/Architect/releases/download/1.10.7.0/Architect.zip"
+      "sha256": "0F11F92837B4A2820D827304FCE0BAB41BC33A95DEF04B99408F62A035E30889",
+      "url": "https://github.com/cometcake575/Architect/releases/download/1.10.8.1/Architect.zip"
     },
     "dependencies": [
       "MagicUI",
@@ -2395,11 +2395,11 @@
   },
   "DivineFury": {
     "description": "This mod adds a new charm: Divine Fury. This charm sets the player's health to 1, allowing Fury of the Fallen to be viable in Radiant Godhome battles.",
-    "version": "1.1.1.0",
+    "version": "1.1.2.0",
     "links": {
       "type": "universal",
-      "sha256": "FA20CB5B2D7FEA77283EB868A085CE326CA54032CF2ECB96378DDAF0C6C09F5A",
-      "url": "https://github.com/danielstegink/HollowKnight.DivineFury/releases/download/1.1.1.0/DivineFury.zip"
+      "sha256": "A6CF1286DD3163BF3A422AA3A7211CA81F94DB394A0A554D38D8F65C7C87528F",
+      "url": "https://github.com/danielstegink/HollowKnight.DivineFury/releases/download/1.1.2.0/DivineFury.zip"
     },
     "dependencies": [
       "ItemChanger",
@@ -3373,10 +3373,10 @@
   },
   "GearSwitcher": {
     "description": "A modification that allows you to switch the prepared equipment patterns, as well as switch the charms at any time.",
-    "version": "1.0.0.0",
+    "version": "1.0.1.0",
     "links": {
       "type": "universal",
-      "sha256": "375954BBEB7AC5D6C2A4EB8B6A52D94C44342E5D3AAF0C403FFD5AB19108D38E",
+      "sha256": "095398FF5FECE0A6A0BF432DEB07C74C3DE131426AB6ABE125D6C953A336DA09",
       "url": "https://github.com/MorozicH20/GearSwitcher/releases/download/v1.0.1.0/GearSwitcher.zip"
     },
     "dependencies": [
@@ -5363,11 +5363,11 @@
   },
   "MetalOST": {
     "description": "Replaces all of Hallownest’s OST’s with custom metal variants made by RYS.",
-    "version": "1.0.0.1",
+    "version": "1.1.0.0",
     "links": {
       "type": "universal",
-      "sha256": "B43D101085EEDAB519AB6CE43305C761168FBAA72A29DCD3F64D34DE23836F87",
-      "url": "https://github.com/maskedcreeper10/MetalOST/releases/download/v1.0.0.1/MetalOST.zip"
+      "sha256": "EE1B027A6AC6B8C8A2C91733C4D26F011D989B7E352CCF7DC4FB3CCDB3746D31",
+      "url": "https://github.com/maskedcreeper10/MetalOST/releases/download/v1.1.0.0/MetalOST.zip"
     },
     "dependencies": [],
     "repository": "https://github.com/maskedcreeper10/MetalOST",
@@ -6584,7 +6584,7 @@
     "version": "1.0.0.1",
     "links": {
       "type": "universal",
-      "sha256": "2F18970FE14FC075F46ABC3C961B7B0102DD2E3FF19219A43DD24C19B35775FC",
+      "sha256": "890772A9A65F47C0A5DBBC902C3283D36E345C257EF6965615BB89447C70BFF5",
       "url": "https://github.com/NightFuryoOo/HK_QoLTeleportKit/releases/download/v1.0.0.1/QoLTeleportKit.zip"
     },
     "dependencies": [],
@@ -7217,11 +7217,11 @@
   },
   "ReplayLogger": {
     "description": "ReplayLoger is a mod that was created to verify the legitimacy of player challenge runs.",
-    "version": "1.0.0.0",
+    "version": "1.0.0.1",
     "links": {
       "type": "universal",
-      "sha256": "9B0CBB5BA0BF1C1C7F34DAA6EC73710BE31609B38281BD40F6B6E11BE0BBAC62",
-      "url": "https://github.com/MorozicH20/ReplayLogger/releases/download/v1.0.0.0/ReplayLogger.zip"
+      "sha256": "178CCDE13A0C4C33B908DC28F9BFE51A63830512A0785A165C798F0AA53937A2",
+      "url": "https://github.com/MorozicH20/ReplayLogger/releases/download/v1.0.0.1/ReplayLogger.zip"
     },
     "dependencies": [],
     "repository": "https://github.com/MorozicH20/ReplayLogger",

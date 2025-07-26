@@ -1,4 +1,6 @@
 Architect
-CharmPatch
-DapperMapperSpoils
-KorzUtils
+Curse Randomizer
+CustomizableNailDamage
+Extra Rando
+TreasureHunt
+Trial of Crusaders

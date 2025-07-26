@@ -1,2 +1,7 @@
+Architect
+CustomizableNailDamage
+DivineFury
+ExaltationExpanded
+Hivesong
 Transcendence
 Trial of Crusaders

@@ -97,16 +97,6 @@
   + Gameplay
   + Utility
 
-### Trial of Crusaders
-
-- Description: A rogue-like mod inspired by Dead Cells, Binding of Isaac and Blue Prince.
-- Dependencies
-  + KorzUtils
-  + MenuChanger
-  + SFCore
-- Tags
-  + Gameplay
-
 ### VendorRando
 
 - Description: A Randomizer add-on that randomizes the physical locations of vendors
@@ -149,13 +139,10 @@
 
 ### Architect
 
-- Version: 1.2.0.0 -> 1.10.7.0
+- Version: 1.2.2.0 -> 1.10.8.1
 - Description
   + Old: A mod to add platforms, enemies and more to change areas in the game with an in-game level editor and level sharer.
   + New: A mod to add/remove platforms, enemies and more to change areas in the game with an in-game level editor and level sharer.
-- Dependencies
-  + Added
-    - SFCore
 - Integrations
   + Added
     - Scattered and Lost
@@ -171,10 +158,6 @@
 ### BugPrince
 
 - Version: 1.2.0.0 -> 1.4.1.0
-
-### CharmPatch
-
-- Version: 1.4.1.1 -> 1.4.2.0
 
 ### Curse Randomizer
 
@@ -195,13 +178,9 @@
   + Added
     - Gameplay
 
-### DapperMapperSpoils
-
-- Version: 1.1.0.0 -> 1.2.0.0
-
 ### DivineFury
 
-- Version: 1.0.0.1 -> 1.1.1.0
+- Version: 1.0.0.1 -> 1.1.2.0
 - Integrations
   + Added
     - DebugMod
@@ -221,6 +200,10 @@
 
 - Version: 0.6.1.0 -> 0.7.0.0
 
+### GearSwitcher
+
+- Version: 1.0.0.0 -> 1.0.1.0
+
 ### Hivesong
 
 - Version: 1.1.0.1 -> 1.2.1.0
@@ -228,10 +211,6 @@
   + Added
     - DebugMod
     - ExaltationExpanded
-
-### KorzUtils
-
-- Version: 0.8.0.0 -> 0.9.0.0
 
 ### MidasTouch
 
@@ -270,4 +249,8 @@
 ### TreasureHunt
 
 - Version: 1.4.1.0 -> 1.6.1.0
+
+### Trial of Crusaders
+
+- Version: 0.1.0.0 -> 0.2.5.0
 

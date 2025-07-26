@@ -1,7 +1,4 @@
 Architect
-BingoUI
-CustomizableAbilities
-Architect
 CustomizableAbilities
 RemoveLaggyObjects
 AccessRandomizer
@@ -17,3 +14,8 @@ Extra Rando
 MetalOST
 Architect
 ShowHPOnDeath
+Architect
+DivineFury
+GearSwitcher
+MetalOST
+ReplayLogger

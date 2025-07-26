@@ -1,8 +1,4 @@
 Architect
-CharmPatch
-DapperMapperSpoils
-KorzUtils
-Architect
 Curse Randomizer
 CustomizableNailDamage
 Extra Rando
@@ -85,3 +81,8 @@ Extra Rando
 MetalOST
 Architect
 ShowHPOnDeath
+Architect
+DivineFury
+GearSwitcher
+MetalOST
+ReplayLogger
