@@ -408,11 +408,11 @@
   },
   "Architect": {
     "description": "A mod to add/remove platforms, enemies and more to change areas in the game with an in-game level editor and level sharer.",
-    "version": "1.10.8.1",
+    "version": "1.10.9.2",
     "links": {
       "type": "universal",
-      "sha256": "0F11F92837B4A2820D827304FCE0BAB41BC33A95DEF04B99408F62A035E30889",
-      "url": "https://github.com/cometcake575/Architect/releases/download/1.10.8.1/Architect.zip"
+      "sha256": "AFCAFA60D1E39310D61FF0C759E0A878F00B1768720E37A0932955963BE10ACC",
+      "url": "https://github.com/cometcake575/Architect/releases/download/1.10.9.2/Architect.zip"
     },
     "dependencies": [
       "MagicUI",
@@ -1949,11 +1949,11 @@
   },
   "CustomizableAbilities": {
     "description": "Mod that allows you to customize abilities: negative and fractional nail; the amount of SOUL received from nail hits; nail cooldown; damage (also negative and fractional) and the amount of SOUL received from dream nail; spells and other abilities. Negative damage heals enemies.",
-    "version": "1.3.4.0",
+    "version": "1.3.4.1",
     "links": {
       "type": "universal",
-      "sha256": "1216AE8AE1C51C7D056143F6D2663DD42202F117F819CAC03F404AE4E4A7426D",
-      "url": "https://github.com/kon4ino/CustomizableAbilities/releases/download/1.3.4.0/CustomizableNailDamage.zip"
+      "sha256": "CE975C343EFC70596115EF0C3F3DA7254E6F4FC272F521699AEC0B37697ADB5E",
+      "url": "https://github.com/kon4ino/CustomizableAbilities/releases/download/1.3.4.1/CustomizableNailDamage.zip"
     },
     "dependencies": [
       "HKMirror",
@@ -3954,6 +3954,19 @@
       "HKMP"
     ],
     "repository": "https://github.com/BlindGarret/HKMP.ModDiff/"
+  },
+  "HKMP.VoiceChat": {
+    "description": "An HKMP addon that adds (proximity) voice chat. Requires OpenAL (https://www.openal.org/) to be installed.",
+    "version": "0.1.0.0",
+    "links": {
+      "type": "universal",
+      "sha256": "CFBC1E3D2BD1D1D9EBC3856E4EBABF6E9C7E896CEC6A26982C710ABF1E4424E5",
+      "url": "https://github.com/Extremelyd1/HKMP.VoiceChat/releases/download/v0.1.0/HKMPVoiceChat.zip"
+    },
+    "dependencies": [
+      "HKMP"
+    ],
+    "repository": "https://github.com/Extremelyd1/HKMP.VoiceChat/"
   },
   "HKMirror": {
     "description": "A core mod that makes it easier to access PlayerData, use reflection, and on/il hooks.",
@@ -6159,6 +6172,90 @@
       "ygsbzr"
     ]
   },
+  "Pale Court Charms": {
+    "description": "Adds charms from Pale Court. Made to allow compatibility with mods that don't work with the main Pale Court. Works with Randomizer.",
+    "version": "1.0.0.0",
+    "links": {
+      "type": "universal",
+      "sha256": "DEE20D5D00966B73034D27FCAC84064097444872E90E0A896BA4F940F08E6C2B",
+      "url": "https://github.com/Roma-337/PaleCourtCharms/releases/download/v1.0.0/PaleCourtCharms.zip"
+    },
+    "dependencies": [
+      "ItemChanger",
+      "SFCore"
+    ],
+    "repository": "https://github.com/Roma-337/PaleCourtCharms",
+    "integrations": [
+      "RandoSettingsManager",
+      "Randomizer 4"
+    ],
+    "tags": [
+      "Gameplay"
+    ],
+    "authors": [
+      "56",
+      "Alprechim",
+      "AshtinPeaks",
+      "Azerod",
+      "Bluevooid",
+      "CarsonComposes",
+      "Chaktis",
+      "Chrome",
+      "Clazex",
+      "CrankyTemplar",
+      "Croissant",
+      "Dark_Prelate",
+      "DwarfWoot",
+      "Erie",
+      "Exempt-Medic",
+      "FoldingPapers",
+      "Frunobulaxian",
+      "Gauthier",
+      "General Milky",
+      "HelenSB",
+      "HooKnows",
+      "Hotspring",
+      "HuntHussle",
+      "Jngo102",
+      "JoSeBach",
+      "KamaKiller",
+      "KitsuneMedia",
+      "Knightmere",
+      "Lethal_Vessel",
+      "Link459",
+      "MAT",
+      "MEBI",
+      "Manno Stone",
+      "Mulhima",
+      "MyPetCactus",
+      "Nerthul11",
+      "Pan",
+      "Piquant Trobbio",
+      "PizzaBox",
+      "Plush",
+      "RedFrog",
+      "Risto The Chicken",
+      "RiverRobot",
+      "RocketFire20",
+      "Roma 337",
+      "Rotten Legacy",
+      "SFGrenade",
+      "Saleh",
+      "Sarart",
+      "Schy",
+      "ShadicD20",
+      "SovereignElise",
+      "Spoonsei",
+      "TheBlueVirus",
+      "TheGreatGallus",
+      "WaxOcelot",
+      "Whisky",
+      "Yisrael",
+      "Zaliant",
+      "mossbag",
+      "ygsbzr"
+    ]
+  },
   "Pale Prince": {
     "description": "Overhaul of the Pure Vessel fight with a significant increase in difficulty",
     "version": "2.0.0.0",
@@ -7319,11 +7416,11 @@
   },
   "SFCore": {
     "description": "Library mod used by other mods.",
-    "version": "1.5.14.14",
+    "version": "1.5.14.15",
     "links": {
       "type": "universal",
-      "sha256": "321D6E7E60DA1473F16D3FA258B0BFC1DE638867C0628B1C9352D6DDA93C8F4A",
-      "url": "https://github.com/SFGrenade/SFCore/releases/download/v1.5.14.14/SFCore.zip"
+      "sha256": "3D3CFCF833E872A2EA3DAEC84FD5A2F6896E0B94E7841D5ECE740D631E1AAF12",
+      "url": "https://github.com/SFGrenade/SFCore/releases/download/v1.5.14.15/SFCore.zip"
     },
     "dependencies": [],
     "repository": "https://github.com/SFGrenade/SFCore/",
@@ -7791,6 +7888,23 @@
     ],
     "authors": [
       "Mimijackz"
+    ]
+  },
+  "SkillCharms": {
+    "description": "Skills are now equippable charms",
+    "version": "1.0.0.0",
+    "links": {
+      "type": "universal",
+      "sha256": "57FCDE3D3D26176F487B975F68FD758D3FDE39B75574C04F4FED307A5B6326D2",
+      "url": "https://github.com/TheMathGeek314/SkillCharms/releases/download/v1.0.0.0/SkillCharms.zip"
+    },
+    "dependencies": [
+      "SFCore",
+      "Satchel"
+    ],
+    "repository": "https://github.com/TheMathGeek314/SkillCharms/",
+    "authors": [
+      "TheMathGeek_314"
     ]
   },
   "SkillUpgrades": {

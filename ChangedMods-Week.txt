@@ -1,6 +1,3 @@
-Architect
-CustomizableAbilities
-RemoveLaggyObjects
 VendorRando
 AccessRandomizer
 Architect
@@ -22,3 +19,9 @@ DivineFury
 GearSwitcher
 MetalOST
 ReplayLogger
+Architect
+CustomizableAbilities
+HKMP.VoiceChat
+Pale Court Charms
+SFCore
+SkillCharms

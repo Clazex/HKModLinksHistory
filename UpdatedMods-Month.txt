@@ -1,9 +1,3 @@
-Architect
-Curse Randomizer
-CustomizableNailDamage
-Extra Rando
-TreasureHunt
-Trial of Crusaders
 Transcendence
 Trial of Crusaders
 Architect
@@ -86,3 +80,6 @@ DivineFury
 GearSwitcher
 MetalOST
 ReplayLogger
+Architect
+CustomizableAbilities
+SFCore

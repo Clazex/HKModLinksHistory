@@ -1,6 +1,3 @@
-Architect
-CustomizableAbilities
-RemoveLaggyObjects
 AccessRandomizer
 Architect
 DivineFury
@@ -19,3 +16,6 @@ DivineFury
 GearSwitcher
 MetalOST
 ReplayLogger
+Architect
+CustomizableAbilities
+SFCore

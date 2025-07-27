@@ -1,55 +1,20 @@
 # Changelog
 
 
-## New mods
-
-### EnchantedMask
-
-- Description: Adds new powerups called Glyphs, which can be purchased from the Mask maker.
-- Dependencies
-  + ItemChanger
-  + SFCore
-  + Satchel
-- Integrations
-  + DebugMod
-- Tags
-  + Gameplay
-
-### QoLTeleportKit
-
-- Description: QoL Teleport Kit is a Hollow Knight mod that adds a convenient teleportation system.
-- Tags
-  + Gameplay
-
-### RainbowFlukes
-
-- Description: The flukes are rainbow!
-
-
 ## Updated mods
 
 ### Architect
 
-- Version: 1.8.8.0 -> 1.8.8.2
+- Version: 1.8.8.2 -> 1.9.1.0
 
-### Breakable Wall Randomizer
+### CustomizableAbilities
 
-- Version: 4.0.0.6 -> 4.0.1.0
-
-### HK_QoLTeleportKit
-
-- Version: 1.0.0.0 -> 9.9.9.9
+- Version: 1.3.2.1 -> 1.3.3.0
 - Description
-  + Old: QoL Teleport Kit is a Hollow Knight mod that adds a convenient teleportation system.
-  + New: Dummy mod. Install the dependency &quot;QoLTeleportKit&quot; directly.
-- Dependencies
-  + Added
-    - QoLTeleportKit
-- Tags
-  + Added
-    - Gameplay
+  + Old: Mod that allows you to customize abilities: negative and fractional nail; the amount of SOUL received from nail hits; spells. Negative nail damage heals enemies.
+  + New: Mod that allows you to customize abilities: negative and fractional nail; the amount of SOUL received from nail hits; nail cooldown; damage (also negative and fractional) and the amount of SOUL received from dream nail; spells. Negative damage heals enemies.
 
 ### SpeedChanger
 
-- Version: 1.1.1.0 -> 1.1.2.0
+- Version: 1.1.2.0 -> 1.1.3.0
 

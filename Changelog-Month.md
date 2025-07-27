@@ -45,11 +45,11 @@
 - Tags
   + Gameplay
 
-### HK_QoLTeleportKit
+### HKMP.VoiceChat
 
-- Description: Dummy mod. Install the dependency &quot;QoLTeleportKit&quot; directly.
+- Description: An HKMP addon that adds (proximity) voice chat. Requires OpenAL (https://www.openal.org/) to be installed.
 - Dependencies
-  + QoLTeleportKit
+  + HKMP
 
 ### MetalOST
 
@@ -64,6 +64,18 @@
   + Satchel
 - Tags
   + Utility
+
+### Pale Court Charms
+
+- Description: Adds charms from Pale Court. Made to allow compatibility with mods that don&#x27;t work with the main Pale Court. Works with Randomizer.
+- Dependencies
+  + ItemChanger
+  + SFCore
+- Integrations
+  + RandoSettingsManager
+  + Randomizer 4
+- Tags
+  + Gameplay
 
 ### PermaFlukes
 
@@ -96,6 +108,13 @@
 - Tags
   + Gameplay
   + Utility
+
+### SkillCharms
+
+- Description: Skills are now equippable charms
+- Dependencies
+  + SFCore
+  + Satchel
 
 ### VendorRando
 
@@ -139,7 +158,7 @@
 
 ### Architect
 
-- Version: 1.2.2.0 -> 1.10.8.1
+- Version: 1.3.2.1 -> 1.10.9.2
 - Description
   + Old: A mod to add platforms, enemies and more to change areas in the game with an in-game level editor and level sharer.
   + New: A mod to add/remove platforms, enemies and more to change areas in the game with an in-game level editor and level sharer.
@@ -159,13 +178,9 @@
 
 - Version: 1.2.0.0 -> 1.4.1.0
 
-### Curse Randomizer
-
-- Version: 5.1.5.0 -> 5.1.6.0
-
 ### CustomizableNailDamage
 
-- Version: 1.0.0.0 -> 9.9.9.9
+- Version: 1.1.0.1 -> 9.9.9.9
 - Description
   + Old: A Hollow Knight mod that allows you to change the damage of the nail almost as you like.
   + New: Dummy mod. Install the dependency &quot;CustomizableAbilities&quot; directly.
@@ -198,11 +213,26 @@
 
 ### Extra Rando
 
-- Version: 0.6.1.0 -> 0.7.0.0
+- Version: 0.6.2.0 -> 0.7.0.0
 
 ### GearSwitcher
 
 - Version: 1.0.0.0 -> 1.0.1.0
+
+### HK_QoLTeleportKit
+
+- Version: 1.0.0.0 -> 9.9.9.9
+- Description
+  + Old: QoL Teleport Kit is a Hollow Knight mod that adds a convenient teleportation system.
+  + New: Dummy mod. Install the dependency &quot;QoLTeleportKit&quot; directly.
+- Dependencies
+  + Removed
+    - Satchel
+  + Added
+    - QoLTeleportKit
+- Tags
+  + Added
+    - Gameplay
 
 ### Hivesong
 
@@ -225,7 +255,7 @@
 
 ### SFCore
 
-- Version: 1.5.14.10 -> 1.5.14.14
+- Version: 1.5.14.10 -> 1.5.14.15
 
 ### Scattered and Lost
 
@@ -248,9 +278,9 @@
 
 ### TreasureHunt
 
-- Version: 1.4.1.0 -> 1.6.1.0
+- Version: 1.5.0.0 -> 1.6.1.0
 
 ### Trial of Crusaders
 
-- Version: 0.1.0.0 -> 0.2.5.0
+- Version: 0.1.2.0 -> 0.2.5.0
 

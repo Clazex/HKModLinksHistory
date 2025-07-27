@@ -1,4 +1,3 @@
-HK_QoLTeleportKit
 WanderersWisdom
 PermaFlukes
 DashChanger
@@ -14,3 +13,6 @@ RainbowFlukes
 VendorRando
 DPSMeter
 MetalOST
+HKMP.VoiceChat
+Pale Court Charms
+SkillCharms

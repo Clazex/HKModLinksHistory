@@ -1,6 +1,2 @@
-Architect
-Curse Randomizer
-CustomizableNailDamage
-Extra Rando
-TreasureHunt
+Transcendence
 Trial of Crusaders
