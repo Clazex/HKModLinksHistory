@@ -5,9 +5,21 @@
 
 ### Architect
 
-- Version: 1.10.5.1 -> 1.10.7.0
+- Version: 1.10.7.0 -> 1.10.8.1
 
-### ShowHPOnDeath
+### DivineFury
 
-- Version: 1.2.1.0 -> 1.3.0.0
+- Version: 1.1.1.0 -> 1.1.2.0
+
+### GearSwitcher
+
+- Version: 1.0.0.0 -> 1.0.1.0
+
+### MetalOST
+
+- Version: 1.0.0.1 -> 1.1.0.0
+
+### ReplayLogger
+
+- Version: 1.0.0.0 -> 1.0.0.1
 

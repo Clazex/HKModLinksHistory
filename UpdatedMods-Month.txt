@@ -1,5 +1,3 @@
-Transcendence
-Trial of Crusaders
 Architect
 CustomizableNailDamage
 DivineFury
@@ -83,3 +81,8 @@ ReplayLogger
 Architect
 CustomizableAbilities
 SFCore
+Architect
+BugPrince
+PurenailCore
+Scattered and Lost
+SkillCharms

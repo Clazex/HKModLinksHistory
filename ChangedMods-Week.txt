@@ -1,4 +1,3 @@
-VendorRando
 AccessRandomizer
 Architect
 DPSMeter
@@ -24,4 +23,11 @@ CustomizableAbilities
 HKMP.VoiceChat
 Pale Court Charms
 SFCore
+SkillCharms
+Architect
+BugPrince
+MoreMasks
+MoreNotches
+PurenailCore
+Scattered and Lost
 SkillCharms

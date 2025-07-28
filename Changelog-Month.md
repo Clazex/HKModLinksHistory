@@ -57,6 +57,22 @@
 - Tags
   + Cosmetic
 
+### MoreMasks
+
+- Description: Makes more masks available to be displayed. Also works for lifeblood masks. By default it shows 28 masks per row. Can be adjusted by editing the globalsettings file of this mod.
+- Dependencies
+  + SFCore
+- Tags
+  + Utility
+
+### MoreNotches
+
+- Description: Makes more charm notches available to be displayed. Also works for overcharm and charm detail notches. By default it shows up to 50 equipped notches and 20 charm detail notches. Can be adjusted by editing the globalsettings file of this mod.
+- Dependencies
+  + SFCore
+- Tags
+  + Utility
+
 ### OWO_HollowKnight
 
 - Description: A mod that allows the integration of OWO Skin haptic device with HK
@@ -113,6 +129,7 @@
 
 - Description: Skills are now equippable charms
 - Dependencies
+  + MoreNotches
   + SFCore
   + Satchel
 
@@ -132,15 +149,6 @@
   + QoL
   + RandoSettingsManager
 
-### WanderersWisdom
-
-- Description: A mod that adds 2 new charms: Wanderer&#x27;s Wisdom and Wanderer&#x27;s Guile.
-- Dependencies
-  + ItemChanger
-  + SFCore
-- Tags
-  + Gameplay
-
 ### Wrong Gravity
 
 - Description: Hallownest? Hɐlloʍuǝsʇ!
@@ -158,7 +166,7 @@
 
 ### Architect
 
-- Version: 1.3.2.1 -> 1.10.9.2
+- Version: 1.3.2.1 -> 1.11.0.1
 - Description
   + Old: A mod to add platforms, enemies and more to change areas in the game with an in-game level editor and level sharer.
   + New: A mod to add/remove platforms, enemies and more to change areas in the game with an in-game level editor and level sharer.
@@ -176,7 +184,7 @@
 
 ### BugPrince
 
-- Version: 1.2.0.0 -> 1.4.1.0
+- Version: 1.2.0.0 -> 1.4.2.0
 
 ### CustomizableNailDamage
 
@@ -226,8 +234,6 @@
   + Old: QoL Teleport Kit is a Hollow Knight mod that adds a convenient teleportation system.
   + New: Dummy mod. Install the dependency &quot;QoLTeleportKit&quot; directly.
 - Dependencies
-  + Removed
-    - Satchel
   + Added
     - QoLTeleportKit
 - Tags
@@ -249,6 +255,10 @@
   + Added
     - DebugMod
 
+### PurenailCore
+
+- Version: 1.4.0.0 -> 1.4.1.0
+
 ### RemoveLaggyObjects
 
 - Version: 1.0.2.0 -> 1.0.4.0
@@ -259,7 +269,7 @@
 
 ### Scattered and Lost
 
-- Version: 1.4.3.1 -> 1.5.1.0
+- Version: 1.4.3.1 -> 1.5.2.0
 - Integrations
   + Added
     - Architect
@@ -274,7 +284,7 @@
 
 ### Transcendence
 
-- Version: 1.5.2.0 -> 1.5.5.0
+- Version: 1.5.3.0 -> 1.5.5.0
 
 ### TreasureHunt
 
@@ -282,5 +292,9 @@
 
 ### Trial of Crusaders
 
-- Version: 0.1.2.0 -> 0.2.5.0
+- Version: 0.2.0.0 -> 0.2.5.0
+
+### WanderersWisdom
+
+- Version: 1.0.0.0 -> 1.0.1.0
 

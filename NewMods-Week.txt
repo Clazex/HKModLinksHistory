@@ -1,6 +1,7 @@
-VendorRando
 DPSMeter
 MetalOST
 HKMP.VoiceChat
 Pale Court Charms
 SkillCharms
+MoreMasks
+MoreNotches

@@ -24,6 +24,22 @@
 - Tags
   + Cosmetic
 
+### MoreMasks
+
+- Description: Makes more masks available to be displayed. Also works for lifeblood masks. By default it shows 28 masks per row. Can be adjusted by editing the globalsettings file of this mod.
+- Dependencies
+  + SFCore
+- Tags
+  + Utility
+
+### MoreNotches
+
+- Description: Makes more charm notches available to be displayed. Also works for overcharm and charm detail notches. By default it shows up to 50 equipped notches and 20 charm detail notches. Can be adjusted by editing the globalsettings file of this mod.
+- Dependencies
+  + SFCore
+- Tags
+  + Utility
+
 ### Pale Court Charms
 
 - Description: Adds charms from Pale Court. Made to allow compatibility with mods that don&#x27;t work with the main Pale Court. Works with Randomizer.
@@ -40,24 +56,9 @@
 
 - Description: Skills are now equippable charms
 - Dependencies
+  + MoreNotches
   + SFCore
   + Satchel
-
-### VendorRando
-
-- Description: A Randomizer add-on that randomizes the physical locations of vendors
-- Dependencies
-  + ConnectionMetadataInjector
-  + ItemChanger
-  + MenuChanger
-  + Randomizer 4
-  + RandomizerCore
-  + RandomizerCore.Json
-  + Satchel
-- Integrations
-  + CondensedSpoilerLogger
-  + QoL
-  + RandoSettingsManager
 
 
 ## Updated mods
@@ -68,7 +69,11 @@
 
 ### Architect
 
-- Version: 1.10.3.0 -> 1.10.9.2
+- Version: 1.10.3.0 -> 1.11.0.1
+
+### BugPrince
+
+- Version: 1.4.1.0 -> 1.4.2.0
 
 ### CustomizableAbilities
 
@@ -115,6 +120,10 @@
     - DebugMod
     - ExaltationExpanded
 
+### PurenailCore
+
+- Version: 1.4.0.0 -> 1.4.1.0
+
 ### ReplayLogger
 
 - Version: 1.0.0.0 -> 1.0.0.1
@@ -123,7 +132,15 @@
 
 - Version: 1.5.14.14 -> 1.5.14.15
 
+### Scattered and Lost
+
+- Version: 1.5.1.0 -> 1.5.2.0
+
 ### ShowHPOnDeath
 
 - Version: 1.2.1.0 -> 1.3.0.0
+
+### VendorRando
+
+- Version: 1.0.0.0 -> 1.0.0.1
 

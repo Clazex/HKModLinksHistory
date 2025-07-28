@@ -408,11 +408,11 @@
   },
   "Architect": {
     "description": "A mod to add/remove platforms, enemies and more to change areas in the game with an in-game level editor and level sharer.",
-    "version": "1.10.9.2",
+    "version": "1.11.0.1",
     "links": {
       "type": "universal",
-      "sha256": "AFCAFA60D1E39310D61FF0C759E0A878F00B1768720E37A0932955963BE10ACC",
-      "url": "https://github.com/cometcake575/Architect/releases/download/1.10.9.2/Architect.zip"
+      "sha256": "33DA4889B69E1E2FC3E102348F8901966A974655BB107FCEF4D6CA8195D86C9A",
+      "url": "https://github.com/cometcake575/Architect/releases/download/1.11.0.1/Architect.zip"
     },
     "dependencies": [
       "MagicUI",
@@ -963,11 +963,11 @@
   },
   "BugPrince": {
     "description": "A Randomizer 4 connection which combines Blue Prince mechanics with Hollow Knight transition randomizer.",
-    "version": "1.4.1.0",
+    "version": "1.4.2.0",
     "links": {
       "type": "universal",
-      "sha256": "83DB24C040FB16B53FDB4741C772B2416861F1361310325EE2E5DF1BE2B242D3",
-      "url": "https://github.com/dplochcoder/HollowKnight.BugPrince/releases/download/v1.4.1/BugPrince.zip"
+      "sha256": "7BF2C3180DD5F429DC35438CA068BFB7D5115C0BF53168B605B16FE3CE47C3DF",
+      "url": "https://github.com/dplochcoder/HollowKnight.BugPrince/releases/download/v1.4.2/BugPrince.zip"
     },
     "dependencies": [
       "Benchwarp",
@@ -5669,6 +5669,46 @@
       "SFGrenade"
     ]
   },
+  "MoreMasks": {
+    "description": "Makes more masks available to be displayed. Also works for lifeblood masks. By default it shows 28 masks per row. Can be adjusted by editing the globalsettings file of this mod.",
+    "version": "1.5.0.1",
+    "links": {
+      "type": "universal",
+      "sha256": "90310FBD2D7FB735351CB4089552EB84ABF3AF80D95FA550C48CC88F32C6A8C0",
+      "url": "https://github.com/SFGrenade/MoreMasks/releases/download/v1.5.0.1/MoreMasks.zip"
+    },
+    "dependencies": [
+      "SFCore"
+    ],
+    "repository": "https://github.com/SFGrenade/MoreMasks/",
+    "issues": "https://github.com/SFGrenade/MoreMasks/issues/",
+    "tags": [
+      "Utility"
+    ],
+    "authors": [
+      "SFGrenade"
+    ]
+  },
+  "MoreNotches": {
+    "description": "Makes more charm notches available to be displayed. Also works for overcharm and charm detail notches. By default it shows up to 50 equipped notches and 20 charm detail notches. Can be adjusted by editing the globalsettings file of this mod.",
+    "version": "1.5.0.0",
+    "links": {
+      "type": "universal",
+      "sha256": "92B7FA09D41CB35E85205A5E5E52ED02DA35014C3CC759058AD906E4FE09C30C",
+      "url": "https://github.com/SFGrenade/MoreNotches/releases/download/v1.5.0.0/MoreNotches.zip"
+    },
+    "dependencies": [
+      "SFCore"
+    ],
+    "repository": "https://github.com/SFGrenade/MoreNotches/",
+    "issues": "https://github.com/SFGrenade/MoreNotches/issues/",
+    "tags": [
+      "Utility"
+    ],
+    "authors": [
+      "SFGrenade"
+    ]
+  },
   "MoreSaves": {
     "description": "Allows for infinite saves. Uses modmenu to provide other features such as backup/restore, rename, lock and edit values in saves. Note: Editing the current save you are in now takes effect in game",
     "version": "0.7.10.0",
@@ -6618,11 +6658,11 @@
   },
   "PurenailCore": {
     "description": "Common utilities and interop for Purenail mods",
-    "version": "1.4.0.0",
+    "version": "1.4.1.0",
     "links": {
       "type": "universal",
-      "sha256": "DD395D828F26261D4D33568B1956873F9D9527BD739652DA9635A9DFDF7AA4B3",
-      "url": "https://github.com/dplochcoder/HollowKnight.PurenailCore/releases/download/v1.4.0.0/PurenailCore.zip"
+      "sha256": "64E7543E5A03CFF7B5CB795F84308133B8FDCF52F6A89FD2D72B8E114D8DC460",
+      "url": "https://github.com/dplochcoder/HollowKnight.PurenailCore/releases/download/v1.4.1.0/PurenailCore.zip"
     },
     "dependencies": [
       "Randomizer 4",
@@ -7499,11 +7539,11 @@
   },
   "Scattered and Lost": {
     "description": "Celeste-themed content mod, expanding Bretta's hut",
-    "version": "1.5.1.0",
+    "version": "1.5.2.0",
     "links": {
       "type": "universal",
-      "sha256": "9511B915BF4C17A02F325E7C175451029FA8A0CBFC3797381DA087B4FEBF747E",
-      "url": "https://github.com/dplochcoder/HollowKnight.ScatteredAndLost/releases/download/v1.5.1/Scattered.and.Lost.zip"
+      "sha256": "C79F967E4EC083238936ED03EA60CE204D912B927EEA23D8088CA90CA1C901EF",
+      "url": "https://github.com/dplochcoder/HollowKnight.ScatteredAndLost/releases/download/v1.5.2/Scattered.and.Lost.zip"
     },
     "dependencies": [
       "ItemChanger",
@@ -7892,13 +7932,14 @@
   },
   "SkillCharms": {
     "description": "Skills are now equippable charms",
-    "version": "1.0.0.0",
+    "version": "1.0.1.0",
     "links": {
       "type": "universal",
-      "sha256": "57FCDE3D3D26176F487B975F68FD758D3FDE39B75574C04F4FED307A5B6326D2",
-      "url": "https://github.com/TheMathGeek314/SkillCharms/releases/download/v1.0.0.0/SkillCharms.zip"
+      "sha256": "BA153F8DBDC362FFA55A77CE9E7E80627634A01F1DB692A1CBCF81D31C55922D",
+      "url": "https://github.com/TheMathGeek314/SkillCharms/releases/download/v1.0.1.0/SkillCharms.zip"
     },
     "dependencies": [
+      "MoreNotches",
       "SFCore",
       "Satchel"
     ],

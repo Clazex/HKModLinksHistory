@@ -19,3 +19,8 @@ ReplayLogger
 Architect
 CustomizableAbilities
 SFCore
+Architect
+BugPrince
+PurenailCore
+Scattered and Lost
+SkillCharms
