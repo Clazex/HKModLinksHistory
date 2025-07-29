@@ -366,11 +366,11 @@
   },
   "Archipelago": {
     "description": "Enables play with the Archipelago multiworld system.",
-    "version": "0.9.0.0",
+    "version": "0.10.0.0",
     "links": {
       "type": "universal",
-      "sha256": "000E9B193EE1383532F91C2D8DD6A021FA0592581D702A6D40B0102E470EBAFD",
-      "url": "https://github.com/ArchipelagoMW-HollowKnight/Archipelago.HollowKnight/releases/download/v0.9.0/Archipelago.zip"
+      "sha256": "9FB5EC5204FC83BB93C1752440D554695DD2ECC20F1253D1F9584E338AEBA219",
+      "url": "https://github.com/ArchipelagoMW-HollowKnight/Archipelago.HollowKnight/releases/download/v0.10.0/Archipelago.zip"
     },
     "dependencies": [
       "Benchwarp",
@@ -382,11 +382,11 @@
   },
   "Archipelago Map Mod": {
     "description": "A conversion of RandoMapMod that works with the Archipelago multiworld randomizer",
-    "version": "3.1.1.0",
+    "version": "3.1.2.0",
     "links": {
       "type": "universal",
-      "sha256": "65A6132209949B3B5F69D7233C117FC802CBEAA76C51CF684B97855D7462D481",
-      "url": "https://github.com/ArchipelagoMW-HollowKnight/Archipelago.APMapMod/releases/download/v3.1.1/Archipelago.Map.Mod.zip"
+      "sha256": "23419EE3A108FFA57C13BBBA23D22451CA6CA0469214E5E8E89EDD62CFAD16CE",
+      "url": "https://github.com/ArchipelagoMW-HollowKnight/Archipelago.APMapMod/releases/download/v3.1.2/Archipelago.Map.Mod.zip"
     },
     "dependencies": [
       "Archipelago",
@@ -408,11 +408,11 @@
   },
   "Architect": {
     "description": "A mod to add/remove platforms, enemies and more to change areas in the game with an in-game level editor and level sharer.",
-    "version": "1.11.0.1",
+    "version": "1.11.0.5",
     "links": {
       "type": "universal",
-      "sha256": "33DA4889B69E1E2FC3E102348F8901966A974655BB107FCEF4D6CA8195D86C9A",
-      "url": "https://github.com/cometcake575/Architect/releases/download/1.11.0.1/Architect.zip"
+      "sha256": "DB60BDF832C5A26D90B1F5F2817FA09424F57E95AC1C114DFD5C08448E8DC65D",
+      "url": "https://github.com/cometcake575/Architect/releases/download/1.11.0.5/Architect.zip"
     },
     "dependencies": [
       "MagicUI",
@@ -7539,11 +7539,11 @@
   },
   "Scattered and Lost": {
     "description": "Celeste-themed content mod, expanding Bretta's hut",
-    "version": "1.5.2.0",
+    "version": "1.5.2.1",
     "links": {
       "type": "universal",
-      "sha256": "C79F967E4EC083238936ED03EA60CE204D912B927EEA23D8088CA90CA1C901EF",
-      "url": "https://github.com/dplochcoder/HollowKnight.ScatteredAndLost/releases/download/v1.5.2/Scattered.and.Lost.zip"
+      "sha256": "30B5328F003302F681AF1BB30E3507D3E686B817E0316D6B198E3586E3E76BF2",
+      "url": "https://github.com/dplochcoder/HollowKnight.ScatteredAndLost/releases/download/v1.5.2.1/Scattered.and.Lost.zip"
     },
     "dependencies": [
       "ItemChanger",

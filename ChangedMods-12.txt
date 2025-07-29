@@ -1,4 +1,7 @@
 Architect
-CustomizableAbilities
-CustomizableNailDamage
+Breakable Wall Randomizer
+EnchantedMask
+HK_QoLTeleportKit
+QoLTeleportKit
+RainbowFlukes
 SpeedChanger

@@ -1,12 +1,4 @@
 Architect
-CustomizableNailDamage
-DivineFury
-ExaltationExpanded
-Hivesong
-PermaFlukes
-Transcendence
-Trial of Crusaders
-Architect
 BugPrince
 CustomizableNailDamage
 PermaFlukes
@@ -105,3 +97,7 @@ MoreNotches
 PurenailCore
 Scattered and Lost
 SkillCharms
+Archipelago
+Archipelago Map Mod
+Architect
+Scattered and Lost

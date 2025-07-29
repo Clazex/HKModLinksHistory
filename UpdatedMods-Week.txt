@@ -1,9 +1,3 @@
-AccessRandomizer
-Architect
-DivineFury
-EnchantedMask
-Hivesong
-VendorRando
 Architect
 CustomizableAbilities
 ExaltationExpanded
@@ -24,3 +18,7 @@ BugPrince
 PurenailCore
 Scattered and Lost
 SkillCharms
+Archipelago
+Archipelago Map Mod
+Architect
+Scattered and Lost

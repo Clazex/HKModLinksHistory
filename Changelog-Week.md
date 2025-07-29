@@ -3,26 +3,11 @@
 
 ## New mods
 
-### DPSMeter
-
-- Description: Mod that allows you to see how much damage you deal per second. Also works with negative damage.
-- Dependencies
-  + Satchel
-- Tags
-  + Gameplay
-  + Utility
-
 ### HKMP.VoiceChat
 
 - Description: An HKMP addon that adds (proximity) voice chat. Requires OpenAL (https://www.openal.org/) to be installed.
 - Dependencies
   + HKMP
-
-### MetalOST
-
-- Description: Replaces all of Hallownest’s OST’s with custom metal variants made by RYS.
-- Tags
-  + Cosmetic
 
 ### MoreMasks
 
@@ -63,13 +48,17 @@
 
 ## Updated mods
 
-### AccessRandomizer
+### Archipelago
 
-- Version: 1.3.0.4 -> 1.3.0.5
+- Version: 0.9.0.0 -> 0.10.0.0
+
+### Archipelago Map Mod
+
+- Version: 3.1.1.0 -> 3.1.2.0
 
 ### Architect
 
-- Version: 1.10.3.0 -> 1.11.0.1
+- Version: 1.10.4.1 -> 1.11.0.5
 
 ### BugPrince
 
@@ -84,15 +73,7 @@
 
 ### DivineFury
 
-- Version: 1.1.0.0 -> 1.1.2.0
-- Integrations
-  + Added
-    - DebugMod
-    - ExaltationExpanded
-
-### EnchantedMask
-
-- Version: 1.0.0.0 -> 1.0.1.0
+- Version: 1.1.1.0 -> 1.1.2.0
 
 ### ExaltationExpanded
 
@@ -112,13 +93,9 @@
 
 - Version: 1.0.0.0 -> 1.0.1.0
 
-### Hivesong
+### MetalOST
 
-- Version: 1.2.0.0 -> 1.2.1.0
-- Integrations
-  + Added
-    - DebugMod
-    - ExaltationExpanded
+- Version: 1.0.0.0 -> 1.1.0.0
 
 ### PurenailCore
 
@@ -134,13 +111,9 @@
 
 ### Scattered and Lost
 
-- Version: 1.5.1.0 -> 1.5.2.0
+- Version: 1.5.1.0 -> 1.5.2.1
 
 ### ShowHPOnDeath
 
 - Version: 1.2.1.0 -> 1.3.0.0
-
-### VendorRando
-
-- Version: 1.0.0.0 -> 1.0.0.1
 

@@ -93,10 +93,6 @@
 - Tags
   + Gameplay
 
-### PermaFlukes
-
-- Description: Flukes don&#x27;t disappear
-
 ### PlatformingQoL
 
 - Description: Quality of life improvements for Hollow Knight platforming, including hitbox visualization and respawn animation skipping.
@@ -164,12 +160,17 @@
 
 - Version: 1.3.0.4 -> 1.3.0.5
 
+### Archipelago
+
+- Version: 0.9.0.0 -> 0.10.0.0
+
+### Archipelago Map Mod
+
+- Version: 3.1.1.0 -> 3.1.2.0
+
 ### Architect
 
-- Version: 1.3.2.1 -> 1.11.0.1
-- Description
-  + Old: A mod to add platforms, enemies and more to change areas in the game with an in-game level editor and level sharer.
-  + New: A mod to add/remove platforms, enemies and more to change areas in the game with an in-game level editor and level sharer.
+- Version: 1.4.0.0 -> 1.11.0.5
 - Integrations
   + Added
     - Scattered and Lost
@@ -188,9 +189,9 @@
 
 ### CustomizableNailDamage
 
-- Version: 1.1.0.1 -> 9.9.9.9
+- Version: 1.2.0.0 -> 9.9.9.9
 - Description
-  + Old: A Hollow Knight mod that allows you to change the damage of the nail almost as you like.
+  + Old: Mod that allows you to change the damage of the nail, including negative and fractional. Negative nail will heal enemies.
   + New: Dummy mod. Install the dependency &quot;CustomizableAbilities&quot; directly.
 - Dependencies
   + Removed
@@ -203,7 +204,7 @@
 
 ### DivineFury
 
-- Version: 1.0.0.1 -> 1.1.2.0
+- Version: 1.1.0.0 -> 1.1.2.0
 - Integrations
   + Added
     - DebugMod
@@ -211,7 +212,7 @@
 
 ### ExaltationExpanded
 
-- Version: 1.0.1.0 -> 1.1.0.0
+- Version: 1.0.2.0 -> 1.1.0.0
 - Dependencies
   + Added
     - Satchel
@@ -242,7 +243,7 @@
 
 ### Hivesong
 
-- Version: 1.1.0.1 -> 1.2.1.0
+- Version: 1.2.0.0 -> 1.2.1.0
 - Integrations
   + Added
     - DebugMod
@@ -254,6 +255,10 @@
 - Integrations
   + Added
     - DebugMod
+
+### PermaFlukes
+
+- Version: 1.0.0.0 -> 1.0.0.1
 
 ### PurenailCore
 
@@ -269,7 +274,7 @@
 
 ### Scattered and Lost
 
-- Version: 1.4.3.1 -> 1.5.2.0
+- Version: 1.4.3.1 -> 1.5.2.1
 - Integrations
   + Added
     - Architect
@@ -284,7 +289,7 @@
 
 ### Transcendence
 
-- Version: 1.5.3.0 -> 1.5.5.0
+- Version: 1.5.4.0 -> 1.5.5.0
 
 ### TreasureHunt
 
@@ -292,7 +297,7 @@
 
 ### Trial of Crusaders
 
-- Version: 0.2.0.0 -> 0.2.5.0
+- Version: 0.2.2.0 -> 0.2.5.0
 
 ### WanderersWisdom
 
