@@ -9270,9 +9270,9 @@ Enjoy!</Description>
     <Manifest>
         <Name>Architect</Name>
         <Description>A mod to add/remove platforms, enemies and more to change areas in the game with an in-game level editor and level sharer.</Description>
-        <Version>1.8.5.5</Version>
-        <Link SHA256="796fa0fdb0ea92d6dfdf8fb642265b52bc451496657c1f0fb519bef224816241">
-            <![CDATA[https://github.com/cometcake575/Architect/releases/download/1.8.5.5/Architect.zip]]>
+        <Version>1.8.6.0</Version>
+        <Link SHA256="b6e6111323c5bd6d990cf7d6aedfc2f5b9c9143897e5d1af67e78f1e5ef6fd01">
+            <![CDATA[https://github.com/cometcake575/Architect/releases/download/1.8.6.0/Architect.zip]]>
         </Link>
         <Dependencies>
             <Dependency>Satchel</Dependency>
@@ -9447,9 +9447,9 @@ Enjoy!</Description>
     <Manifest>
         <Name>ShowHPOnDeath</Name>
         <Description>A mod that allows you to watch hp after death</Description>
-        <Version>1.2.0.0</Version>
-        <Link SHA256="1da370b6a01565c393847325dad8236c993882be9455afba4bd05e4ec5056dd0">
-            <![CDATA[https://github.com/F1NS3N/ShowHPOnDeath/releases/download/ShowHPOnDeath-v1.2.0/ShowHPOnDeath.zip]]>
+        <Version>1.2.1.0</Version>
+        <Link SHA256="103bcb6f4898424ce8fcfae710733578a4ea497db0cfd2ea918d4fedc6a4c612">
+            <![CDATA[https://github.com/F1NS3N/ShowHPOnDeath/releases/download/ShowHPOnDeath-v1.2.1/ShowHPOnDeath.zip]]>
         </Link>
         <Dependencies />
         <Repository>

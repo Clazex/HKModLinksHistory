@@ -3,3 +3,5 @@ Pale Court Charms
 SkillCharms
 MoreMasks
 MoreNotches
+MotionBlur
+SafeGodseekerQoL

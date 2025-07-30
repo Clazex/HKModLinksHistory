@@ -25,6 +25,14 @@
 - Tags
   + Utility
 
+### MotionBlur
+
+- Description: Adds motion blur.
+- Dependencies
+  + Satchel
+- Tags
+  + Gameplay
+
 ### Pale Court Charms
 
 - Description: Adds charms from Pale Court. Made to allow compatibility with mods that don&#x27;t work with the main Pale Court. Works with Randomizer.
@@ -36,6 +44,14 @@
   + Randomizer 4
 - Tags
   + Gameplay
+
+### SafeGodseekerQoL
+
+- Description: This mod is useful for challenge runners who don&#x27;t want their runs to be accidentally affected by QoL mods.
+- Dependencies
+  + Osmi
+  + Satchel
+  + Vasi
 
 ### SkillCharms
 
@@ -58,7 +74,10 @@
 
 ### Architect
 
-- Version: 1.10.4.1 -> 1.11.0.5
+- Version: 1.10.5.1 -> 1.11.1.3
+- Description
+  + Old: A mod to add/remove platforms, enemies and more to change areas in the game with an in-game level editor and level sharer.
+  + New: A level editor mod, allowing you to customise Hollow Knight by adding or removing platforms, enemies and more with an in-game level editor and level sharer.
 
 ### BugPrince
 
@@ -66,10 +85,7 @@
 
 ### CustomizableAbilities
 
-- Version: 1.3.3.4 -> 1.3.4.1
-- Description
-  + Old: Mod that allows you to customize abilities: negative and fractional nail; the amount of SOUL received from nail hits; nail cooldown; damage (also negative and fractional) and the amount of SOUL received from dream nail; spells. Negative damage heals enemies.
-  + New: Mod that allows you to customize abilities: negative and fractional nail; the amount of SOUL received from nail hits; nail cooldown; damage (also negative and fractional) and the amount of SOUL received from dream nail; spells and other abilities. Negative damage heals enemies.
+- Version: 1.3.4.0 -> 1.3.4.1
 
 ### DivineFury
 
@@ -77,17 +93,7 @@
 
 ### ExaltationExpanded
 
-- Version: 1.0.2.0 -> 1.1.0.0
-- Dependencies
-  + Added
-    - Satchel
-- Integrations
-  + Added
-    - Pale Court
-
-### Extra Rando
-
-- Version: 0.6.2.0 -> 0.7.0.0
+- Version: 1.1.0.0 -> 1.1.1.0
 
 ### GearSwitcher
 
@@ -95,7 +101,7 @@
 
 ### MetalOST
 
-- Version: 1.0.0.0 -> 1.1.0.0
+- Version: 1.0.0.1 -> 1.1.0.0
 
 ### PurenailCore
 
@@ -116,4 +122,25 @@
 ### ShowHPOnDeath
 
 - Version: 1.2.1.0 -> 1.3.0.0
+
+### StoriesOfaHkPlayer-Ch1
+
+- Version: 1.5.0.0 -> 1.5.1.0
+- Integrations
+  + Added
+    - StoriesOfaHkPlayer-Ch2
+- Tags
+  + Removed
+    - Expansion
+
+### StoriesOfaHkPlayer-Ch2
+
+- Version: 1.5.1.0 -> 1.5.2.1
+- Integrations
+  + Added
+    - StoriesOfaHkPlayer-Ch1
+
+### TheHuntIsOn
+
+- Version: 0.6.0.0 -> 1.0.0.0
 

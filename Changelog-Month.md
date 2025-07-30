@@ -73,6 +73,14 @@
 - Tags
   + Utility
 
+### MotionBlur
+
+- Description: Adds motion blur.
+- Dependencies
+  + Satchel
+- Tags
+  + Gameplay
+
 ### OWO_HollowKnight
 
 - Description: A mod that allows the integration of OWO Skin haptic device with HK
@@ -113,6 +121,14 @@
 ### ReplayLogger
 
 - Description: ReplayLoger is a mod that was created to verify the legitimacy of player challenge runs.
+
+### SafeGodseekerQoL
+
+- Description: This mod is useful for challenge runners who don&#x27;t want their runs to be accidentally affected by QoL mods.
+- Dependencies
+  + Osmi
+  + Satchel
+  + Vasi
 
 ### ShowHPOnDeath
 
@@ -170,7 +186,10 @@
 
 ### Architect
 
-- Version: 1.4.0.0 -> 1.11.0.5
+- Version: 1.5.1.2 -> 1.11.1.3
+- Description
+  + Old: A mod to add/remove platforms, enemies and more to change areas in the game with an in-game level editor and level sharer.
+  + New: A level editor mod, allowing you to customise Hollow Knight by adding or removing platforms, enemies and more with an in-game level editor and level sharer.
 - Integrations
   + Added
     - Scattered and Lost
@@ -185,11 +204,11 @@
 
 ### BugPrince
 
-- Version: 1.2.0.0 -> 1.4.2.0
+- Version: 1.3.1.0 -> 1.4.2.0
 
 ### CustomizableNailDamage
 
-- Version: 1.2.0.0 -> 9.9.9.9
+- Version: 1.2.1.0 -> 9.9.9.9
 - Description
   + Old: Mod that allows you to change the damage of the nail, including negative and fractional. Negative nail will heal enemies.
   + New: Dummy mod. Install the dependency &quot;CustomizableAbilities&quot; directly.
@@ -212,7 +231,7 @@
 
 ### ExaltationExpanded
 
-- Version: 1.0.2.0 -> 1.1.0.0
+- Version: 1.0.2.0 -> 1.1.1.0
 - Dependencies
   + Added
     - Satchel
@@ -256,10 +275,6 @@
   + Added
     - DebugMod
 
-### PermaFlukes
-
-- Version: 1.0.0.0 -> 1.0.0.1
-
 ### PurenailCore
 
 - Version: 1.4.0.0 -> 1.4.1.0
@@ -287,17 +302,34 @@
   + Added
     - Satchel
 
-### Transcendence
+### StoriesOfaHkPlayer-Ch1
 
-- Version: 1.5.4.0 -> 1.5.5.0
+- Version: 1.5.0.0 -> 1.5.1.0
+- Integrations
+  + Added
+    - StoriesOfaHkPlayer-Ch2
+- Tags
+  + Removed
+    - Expansion
+
+### StoriesOfaHkPlayer-Ch2
+
+- Version: 1.5.1.0 -> 1.5.2.1
+- Integrations
+  + Added
+    - StoriesOfaHkPlayer-Ch1
+
+### TheHuntIsOn
+
+- Version: 0.6.0.0 -> 1.0.0.0
 
 ### TreasureHunt
 
-- Version: 1.5.0.0 -> 1.6.1.0
+- Version: 1.6.0.0 -> 1.6.1.0
 
 ### Trial of Crusaders
 
-- Version: 0.2.2.0 -> 0.2.5.0
+- Version: 0.2.3.0 -> 0.2.5.0
 
 ### WanderersWisdom
 
