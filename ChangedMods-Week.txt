@@ -1,6 +1,4 @@
 Architect
-ShowHPOnDeath
-Architect
 DivineFury
 GearSwitcher
 MetalOST
@@ -29,3 +27,10 @@ SafeGodseekerQoL
 StoriesOfaHkPlayer-Ch1
 StoriesOfaHkPlayer-Ch2
 TheHuntIsOn
+Architect
+EnchantedMask
+MotionBlur
+SkillCharms
+SpeedChanger
+VendorRando
+WrathOfTheSwarm

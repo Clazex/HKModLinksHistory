@@ -408,11 +408,11 @@
   },
   "Architect": {
     "description": "A level editor mod, allowing you to customise Hollow Knight by adding or removing platforms, enemies and more with an in-game level editor and level sharer.",
-    "version": "1.11.1.3",
+    "version": "1.11.2.2",
     "links": {
       "type": "universal",
-      "sha256": "5A70E763E03A8F9AE5288C0FCE4E8876B07E4CEB5A9033DA9908D7851AFC50B0",
-      "url": "https://github.com/cometcake575/Architect/releases/download/1.11.1.3/Architect.zip"
+      "sha256": "E90E84010DF08FC502D41F351C51370B083879E7B5D519B401D4FDB4FABEF3C3",
+      "url": "https://github.com/cometcake575/Architect/releases/download/1.11.2.2/Architect.zip"
     },
     "dependencies": [
       "MagicUI",
@@ -2622,13 +2622,14 @@
   },
   "EnchantedMask": {
     "description": "Adds new powerups called Glyphs, which can be purchased from the Mask maker.",
-    "version": "1.0.1.0",
+    "version": "1.1.0.0",
     "links": {
       "type": "universal",
-      "sha256": "4CA9F364FFB61592C3BD5F2629BABE0FE3FAE5679FA77552218A23D22C72FC38",
-      "url": "https://github.com/danielstegink/HollowKnight.EnchantedMask/releases/download/1.0.1.0/EnchantedMask.zip"
+      "sha256": "DFB7969255F602E27150ED48F472F63883816D0748239C79B7F233555D594743",
+      "url": "https://github.com/danielstegink/HollowKnight.EnchantedMask/releases/download/1.1.0.0/EnchantedMask.zip"
     },
     "dependencies": [
+      "DebugMod",
       "ItemChanger",
       "SFCore",
       "Satchel"
@@ -2636,7 +2637,8 @@
     "repository": "https://github.com/danielstegink/HollowKnight.EnchantedMask",
     "issues": "https://github.com/danielstegink/HollowKnight.EnchantedMask/issues",
     "integrations": [
-      "DebugMod"
+      "Pale Court",
+      "Pale Court Charms"
     ],
     "tags": [
       "Gameplay"
@@ -5733,12 +5735,12 @@
     ]
   },
   "MotionBlur": {
-    "description": "Adds motion blur.",
-    "version": "1.0.0.0",
+    "description": "Adds motion blur",
+    "version": "1.0.1.0",
     "links": {
       "type": "universal",
-      "sha256": "ADBBF202643E0C5CF2BE15B0AFD74A92D0E571D3C47B35D692448BDCB98C080B",
-      "url": "https://github.com/Reinzer/MotionBlur/releases/download/1.0.0.0/MotionBlur.zip"
+      "sha256": "62665946F9F27B41B9767E7F5E29DB355C61851B6C42B608CAB56D517335A185",
+      "url": "https://github.com/Reinzer/MotionBlur/releases/download/1.0.1.0/MotionBlur.zip"
     },
     "dependencies": [
       "Satchel"
@@ -7973,11 +7975,11 @@
   },
   "SkillCharms": {
     "description": "Skills are now equippable charms",
-    "version": "1.0.1.0",
+    "version": "1.0.2.0",
     "links": {
       "type": "universal",
-      "sha256": "BA153F8DBDC362FFA55A77CE9E7E80627634A01F1DB692A1CBCF81D31C55922D",
-      "url": "https://github.com/TheMathGeek314/SkillCharms/releases/download/v1.0.1.0/SkillCharms.zip"
+      "sha256": "5991CF19D4F777AF6961375C4B48407845ED84DD14659A6F52EB95253792E737",
+      "url": "https://github.com/TheMathGeek314/SkillCharms/releases/download/v1.0.2.0/SkillCharms.zip"
     },
     "dependencies": [
       "MoreNotches",
@@ -7985,6 +7987,9 @@
       "Satchel"
     ],
     "repository": "https://github.com/TheMathGeek314/SkillCharms/",
+    "integrations": [
+      "DebugMod"
+    ],
     "authors": [
       "TheMathGeek_314"
     ]
@@ -8171,11 +8176,11 @@
   },
   "SpeedChanger": {
     "description": "Speed up or slow down your game. A more customisable and user-friendly version of the Sanic mod.",
-    "version": "1.1.3.0",
+    "version": "1.1.3.1",
     "links": {
       "type": "universal",
-      "sha256": "3C3C2B2A5444B853208629F7137F256F52E3E1138029D1D764BC67EC1A2EC142",
-      "url": "https://github.com/gGordey/SpeedChanger/releases/download/1.1.3/SpeedChanger.zip"
+      "sha256": "C389FD9929B0FD938AAB6AF5B8485601A8CF983BE7B72219704EBAB97CA22D92",
+      "url": "https://github.com/gGordey/SpeedChanger/releases/download/1.0.4/SpeedChanger.zip"
     },
     "dependencies": [
       "Satchel"
@@ -9085,11 +9090,11 @@
   },
   "VendorRando": {
     "description": "A Randomizer add-on that randomizes the physical locations of vendors",
-    "version": "1.0.0.1",
+    "version": "1.0.0.2",
     "links": {
       "type": "universal",
-      "sha256": "B1C5514B8E952C151C9AF73DAB38E5C51BF47CC99E492B0701CBAAFC899DD620",
-      "url": "https://github.com/TheMathGeek314/VendorRando/releases/download/v1.0.0.1/VendorRando.zip"
+      "sha256": "CADA187B641FFBC3ECEAF0D3430F01DAD25BCE8E0B34F1AA5C4712240BCDD7CC",
+      "url": "https://github.com/TheMathGeek314/VendorRando/releases/download/v1.0.0.2/VendorRando.zip"
     },
     "dependencies": [
       "ConnectionMetadataInjector",
@@ -9243,6 +9248,20 @@
     },
     "dependencies": [],
     "repository": "https://github.com/TheMathGeek314/WorseSteadyBody/",
+    "authors": [
+      "TheMathGeek_314"
+    ]
+  },
+  "WrathOfTheSwarm": {
+    "description": "Use Gathering Swarm as a weapon",
+    "version": "1.0.0.0",
+    "links": {
+      "type": "universal",
+      "sha256": "D08C2C3FF3781C9AC1363FFD66F7D6D5D1E2AC9E5CE1489ABF7DF5C4699AC344",
+      "url": "https://github.com/TheMathGeek314/WrathOfTheSwarm/releases/download/v1.0.0.0/WrathOfTheSwarm.zip"
+    },
+    "dependencies": [],
+    "repository": "https://github.com/TheMathGeek314/WrathOfTheSwarm/",
     "authors": [
       "TheMathGeek_314"
     ]

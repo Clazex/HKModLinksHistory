@@ -27,7 +27,7 @@
 
 ### MotionBlur
 
-- Description: Adds motion blur.
+- Description: Adds motion blur
 - Dependencies
   + Satchel
 - Tags
@@ -60,6 +60,12 @@
   + MoreNotches
   + SFCore
   + Satchel
+- Integrations
+  + DebugMod
+
+### WrathOfTheSwarm
+
+- Description: Use Gathering Swarm as a weapon
 
 
 ## Updated mods
@@ -74,7 +80,7 @@
 
 ### Architect
 
-- Version: 1.10.5.1 -> 1.11.1.3
+- Version: 1.10.7.0 -> 1.11.2.2
 - Description
   + Old: A mod to add/remove platforms, enemies and more to change areas in the game with an in-game level editor and level sharer.
   + New: A level editor mod, allowing you to customise Hollow Knight by adding or removing platforms, enemies and more with an in-game level editor and level sharer.
@@ -90,6 +96,19 @@
 ### DivineFury
 
 - Version: 1.1.1.0 -> 1.1.2.0
+
+### EnchantedMask
+
+- Version: 1.0.1.0 -> 1.1.0.0
+- Dependencies
+  + Added
+    - DebugMod
+- Integrations
+  + Removed
+    - DebugMod
+  + Added
+    - Pale Court
+    - Pale Court Charms
 
 ### ExaltationExpanded
 
@@ -119,9 +138,9 @@
 
 - Version: 1.5.1.0 -> 1.5.2.1
 
-### ShowHPOnDeath
+### SpeedChanger
 
-- Version: 1.2.1.0 -> 1.3.0.0
+- Version: 1.1.3.0 -> 1.1.3.1
 
 ### StoriesOfaHkPlayer-Ch1
 
@@ -143,4 +162,8 @@
 ### TheHuntIsOn
 
 - Version: 0.6.0.0 -> 1.0.0.0
+
+### VendorRando
+
+- Version: 1.0.0.1 -> 1.0.0.2
 

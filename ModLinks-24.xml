@@ -6723,9 +6723,9 @@ Enjoy!</Description>
     <Manifest>
         <Name>BugPrince</Name>
         <Description>A Randomizer 4 connection which combines Blue Prince mechanics with Hollow Knight transition randomizer.</Description>
-        <Version>1.4.0.0</Version>
-        <Link SHA256="9f5fab35bb9972de30b1f2c3016c03dbbacc72df90d365e2bf55afb240ac6ffd">
-            <![CDATA[https://github.com/dplochcoder/HollowKnight.BugPrince/releases/download/v1.4/BugPrince.zip]]>
+        <Version>1.4.1.0</Version>
+        <Link SHA256="83db24c040fb16b53fdb4741c772b2416861f1361310325ee2e5df1be2b242d3">
+            <![CDATA[https://github.com/dplochcoder/HollowKnight.BugPrince/releases/download/v1.4.1/BugPrince.zip]]>
         </Link>
         <Dependencies>
             <Dependency>Benchwarp</Dependency>
@@ -9270,9 +9270,9 @@ Enjoy!</Description>
     <Manifest>
         <Name>Architect</Name>
         <Description>A mod to add/remove platforms, enemies and more to change areas in the game with an in-game level editor and level sharer.</Description>
-        <Version>1.7.3.0</Version>
-        <Link SHA256="ea680378437927a6975312c8777fcbe84b15258274046e3e2cdd69d284b7e064">
-            <![CDATA[https://github.com/cometcake575/Architect/releases/download/1.7.3.0/Architect.zip]]>
+        <Version>1.8.0.0</Version>
+        <Link SHA256="c8d7754a9bbfe8034c6deafe17848bb03f3fe4e8f0c713126c29088b71239764">
+            <![CDATA[https://github.com/cometcake575/Architect/releases/download/1.8.0.0/Architect.zip]]>
         </Link>
         <Dependencies>
             <Dependency>Satchel</Dependency>
@@ -9442,6 +9442,25 @@ Enjoy!</Description>
         </Tags>
         <Authors>
             <Author>Ishmael</Author>
+        </Authors>
+    </Manifest>
+    <Manifest>
+        <Name>ShowHPOnDeath</Name>
+        <Description>A mod that allows you to watch hp after death</Description>
+        <Version>1.1.1.0</Version>
+        <Link SHA256="97f174166b418f2cea3775c43ba9402ebab6443c73d7cf39fd7e89c2bd61f5c7">
+            <![CDATA[https://github.com/F1NS3N/ShowHPOnDeath/releases/download/ShowHPOnDeath-v1.1.1/ShowHPOnDeath.zip]]>
+        </Link>
+        <Dependencies />
+        <Repository>
+            <![CDATA[https://github.com/F1NS3N/ShowHPOnDeath]]>
+        </Repository>
+        <Tags>
+            <Tag>Gameplay</Tag>
+            <Tag>Utility</Tag>
+        </Tags>
+        <Authors>
+            <Author>FIN</Author>
         </Authors>
     </Manifest>
 </ModLinks>

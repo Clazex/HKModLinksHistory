@@ -37,11 +37,13 @@
 
 - Description: Adds new powerups called Glyphs, which can be purchased from the Mask maker.
 - Dependencies
+  + DebugMod
   + ItemChanger
   + SFCore
   + Satchel
 - Integrations
-  + DebugMod
+  + Pale Court
+  + Pale Court Charms
 - Tags
   + Gameplay
 
@@ -75,7 +77,7 @@
 
 ### MotionBlur
 
-- Description: Adds motion blur.
+- Description: Adds motion blur
 - Dependencies
   + Satchel
 - Tags
@@ -144,6 +146,8 @@
   + MoreNotches
   + SFCore
   + Satchel
+- Integrations
+  + DebugMod
 
 ### VendorRando
 
@@ -160,6 +164,10 @@
   + CondensedSpoilerLogger
   + QoL
   + RandoSettingsManager
+
+### WrathOfTheSwarm
+
+- Description: Use Gathering Swarm as a weapon
 
 ### Wrong Gravity
 
@@ -186,7 +194,7 @@
 
 ### Architect
 
-- Version: 1.5.1.2 -> 1.11.1.3
+- Version: 1.5.1.2 -> 1.11.2.2
 - Description
   + Old: A mod to add/remove platforms, enemies and more to change areas in the game with an in-game level editor and level sharer.
   + New: A level editor mod, allowing you to customise Hollow Knight by adding or removing platforms, enemies and more with an in-game level editor and level sharer.
@@ -204,7 +212,7 @@
 
 ### BugPrince
 
-- Version: 1.3.1.0 -> 1.4.2.0
+- Version: 1.3.2.0 -> 1.4.2.0
 
 ### CustomizableNailDamage
 
@@ -297,7 +305,7 @@
 
 ### SpeedChanger
 
-- Version: 1.0.4.0 -> 1.1.3.0
+- Version: 1.0.4.0 -> 1.1.3.1
 - Dependencies
   + Added
     - Satchel
@@ -322,10 +330,6 @@
 ### TheHuntIsOn
 
 - Version: 0.6.0.0 -> 1.0.0.0
-
-### TreasureHunt
-
-- Version: 1.6.0.0 -> 1.6.1.0
 
 ### Trial of Crusaders
 
