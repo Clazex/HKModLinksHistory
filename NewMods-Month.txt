@@ -1,5 +1,3 @@
-DashChanger
-PlatformingQoL
 Wrong Gravity
 ShowHPOnDeath
 OWO_HollowKnight
@@ -19,3 +17,5 @@ MoreNotches
 MotionBlur
 SafeGodseekerQoL
 WrathOfTheSwarm
+BaldurRngConfig
+Faction Elimination

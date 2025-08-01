@@ -408,11 +408,11 @@
   },
   "Architect": {
     "description": "A level editor mod, allowing you to customise Hollow Knight by adding or removing platforms, enemies and more with an in-game level editor and level sharer.",
-    "version": "1.11.2.2",
+    "version": "1.12.0.1",
     "links": {
       "type": "universal",
-      "sha256": "E90E84010DF08FC502D41F351C51370B083879E7B5D519B401D4FDB4FABEF3C3",
-      "url": "https://github.com/cometcake575/Architect/releases/download/1.11.2.2/Architect.zip"
+      "sha256": "92F9B149A1843BD39C8CAB4BAD3227D5483692E3226542EB6AAEDA22369C5B6A",
+      "url": "https://github.com/cometcake575/Architect/releases/download/1.12.0.1/Architect.zip"
     },
     "dependencies": [
       "MagicUI",
@@ -534,6 +534,22 @@
       "HKTool Legacy"
     ],
     "repository": "https://github.com/HK-Modding-Preservation/Box074/"
+  },
+  "BaldurRngConfig": {
+    "description": "Configure various Elder Baldur settings",
+    "version": "1.0.0.0",
+    "links": {
+      "type": "universal",
+      "sha256": "631ABCA8FA3683D6D39E93B5161DBD5AC187A326A1B4D8039127E75011D648D7",
+      "url": "https://github.com/TheMathGeek314/BaldurRngConfig/releases/download/v1.0.0.0/BaldurRngConfig.zip"
+    },
+    "dependencies": [
+      "Satchel"
+    ],
+    "repository": "https://github.com/TheMathGeek314/BaldurRngConfig/",
+    "authors": [
+      "TheMathGeek_314"
+    ]
   },
   "BenchDeploy": {
     "description": "Deploy Multi Bench use controller/keyboard. other player bench on itemsync MapSyncMod",
@@ -2799,11 +2815,11 @@
   },
   "Extra Rando": {
     "description": "Randomizer 4 connection with miscellaneous settings.",
-    "version": "0.7.0.0",
+    "version": "0.8.0.0",
     "links": {
       "type": "universal",
-      "sha256": "1877909BC2F50375C2E9C49C8E2CDC8817DD99639D1E2EF2BA32F0B203B5743F",
-      "url": "https://github.com/Korzer420/ExtraRando/releases/download/v0.7.0/ExtraRando.zip"
+      "sha256": "C2C067E7CEB7213E1211C616A95A13B831012FEE9DA940F3327D293B0D191EE0",
+      "url": "https://github.com/Korzer420/ExtraRando/releases/download/v0.8.0/ExtraRando.zip"
     },
     "dependencies": [
       "KorzUtils",
@@ -2896,6 +2912,27 @@
     "integrations": [
       "Benchwarp",
       "ItemChanger"
+    ]
+  },
+  "Faction Elimination": {
+    "description": "A custom gamemode for HKMP where teams collect upgrades and fight each other.",
+    "version": "0.1.0.0",
+    "links": {
+      "type": "universal",
+      "sha256": "544CD1E9B8228FA7B9DD551E75AF554F070C3331378ED7469E670F71715970F1",
+      "url": "https://github.com/EmptyEagle/FactionElimination/releases/download/v0.1.0.0/FactionElimination.zip"
+    },
+    "dependencies": [
+      "Charm Changer",
+      "HkmpPouch",
+      "ItemChanger",
+      "MenuChanger",
+      "TheHuntIsOn"
+    ],
+    "repository": "https://github.com/EmptyEagle/FactionElimination",
+    "authors": [
+      "EmptyEagle",
+      "Nimble102"
     ]
   },
   "Fake Peppino": {
@@ -5736,11 +5773,11 @@
   },
   "MotionBlur": {
     "description": "Adds motion blur",
-    "version": "1.0.1.0",
+    "version": "1.0.2.0",
     "links": {
       "type": "universal",
-      "sha256": "62665946F9F27B41B9767E7F5E29DB355C61851B6C42B608CAB56D517335A185",
-      "url": "https://github.com/Reinzer/MotionBlur/releases/download/1.0.1.0/MotionBlur.zip"
+      "sha256": "F8BC8D130263D659654B5A92567C6D897C402C345BBA49E2B6784F0EDBE87656",
+      "url": "https://github.com/Reinzer/MotionBlur/releases/download/1.0.2.0/MotionBlur.zip"
     },
     "dependencies": [
       "Satchel"
@@ -6235,11 +6272,11 @@
   },
   "Pale Court Charms": {
     "description": "Adds charms from Pale Court. Made to allow compatibility with mods that don't work with the main Pale Court. Works with Randomizer.",
-    "version": "1.0.0.0",
+    "version": "1.0.0.1",
     "links": {
       "type": "universal",
-      "sha256": "DEE20D5D00966B73034D27FCAC84064097444872E90E0A896BA4F940F08E6C2B",
-      "url": "https://github.com/Roma-337/PaleCourtCharms/releases/download/v1.0.0/PaleCourtCharms.zip"
+      "sha256": "02A616D1556EA4C1AF31198E8913210C42D83CF4B6C317548F7F119130349F94",
+      "url": "https://github.com/Roma-337/PaleCourtCharms/releases/download/v1.0.1/PaleCourtCharms.zip"
     },
     "dependencies": [
       "ItemChanger",

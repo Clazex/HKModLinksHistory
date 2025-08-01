@@ -1,9 +1,4 @@
 Architect
-DivineFury
-GearSwitcher
-MetalOST
-ReplayLogger
-Architect
 CustomizableAbilities
 HKMP.VoiceChat
 Pale Court Charms
@@ -34,3 +29,9 @@ SkillCharms
 SpeedChanger
 VendorRando
 WrathOfTheSwarm
+Architect
+BaldurRngConfig
+Extra Rando
+Faction Elimination
+MotionBlur
+Pale Court Charms

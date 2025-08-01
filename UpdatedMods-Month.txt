@@ -1,7 +1,4 @@
 Architect
-MidasTouch
-Trial of Crusaders
-Architect
 BugPrince
 SFCore
 Architect
@@ -85,3 +82,7 @@ MotionBlur
 SkillCharms
 SpeedChanger
 VendorRando
+Architect
+Extra Rando
+MotionBlur
+Pale Court Charms

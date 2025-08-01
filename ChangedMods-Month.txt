@@ -1,9 +1,4 @@
 Architect
-DashChanger
-MidasTouch
-PlatformingQoL
-Trial of Crusaders
-Architect
 BugPrince
 SFCore
 Architect
@@ -106,3 +101,9 @@ SkillCharms
 SpeedChanger
 VendorRando
 WrathOfTheSwarm
+Architect
+BaldurRngConfig
+Extra Rando
+Faction Elimination
+MotionBlur
+Pale Court Charms

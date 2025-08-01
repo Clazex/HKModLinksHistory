@@ -1,9 +1,4 @@
 Architect
-DivineFury
-GearSwitcher
-MetalOST
-ReplayLogger
-Architect
 CustomizableAbilities
 SFCore
 Architect
@@ -26,3 +21,7 @@ MotionBlur
 SkillCharms
 SpeedChanger
 VendorRando
+Architect
+Extra Rando
+MotionBlur
+Pale Court Charms

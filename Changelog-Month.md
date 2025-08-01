@@ -3,6 +3,12 @@
 
 ## New mods
 
+### BaldurRngConfig
+
+- Description: Configure various Elder Baldur settings
+- Dependencies
+  + Satchel
+
 ### CustomizableAbilities
 
 - Description: Mod that allows you to customize abilities: negative and fractional nail; the amount of SOUL received from nail hits; nail cooldown; damage (also negative and fractional) and the amount of SOUL received from dream nail; spells and other abilities. Negative damage heals enemies.
@@ -24,15 +30,6 @@
   + Gameplay
   + Utility
 
-### DashChanger
-
-- Description: Allows you to change the horizontal and vertical length of the dash.
-- Dependencies
-  + HKMirror
-  + Satchel
-- Tags
-  + Gameplay
-
 ### EnchantedMask
 
 - Description: Adds new powerups called Glyphs, which can be purchased from the Mask maker.
@@ -46,6 +43,16 @@
   + Pale Court Charms
 - Tags
   + Gameplay
+
+### Faction Elimination
+
+- Description: A custom gamemode for HKMP where teams collect upgrades and fight each other.
+- Dependencies
+  + Charm Changer
+  + HkmpPouch
+  + ItemChanger
+  + MenuChanger
+  + TheHuntIsOn
 
 ### HKMP.VoiceChat
 
@@ -102,13 +109,6 @@
   + Randomizer 4
 - Tags
   + Gameplay
-
-### PlatformingQoL
-
-- Description: Quality of life improvements for Hollow Knight platforming, including hitbox visualization and respawn animation skipping.
-- Tags
-  + Gameplay
-  + Utility
 
 ### QoLTeleportKit
 
@@ -194,7 +194,7 @@
 
 ### Architect
 
-- Version: 1.5.1.2 -> 1.11.2.2
+- Version: 1.5.3.0 -> 1.12.0.1
 - Description
   + Old: A mod to add/remove platforms, enemies and more to change areas in the game with an in-game level editor and level sharer.
   + New: A level editor mod, allowing you to customise Hollow Knight by adding or removing platforms, enemies and more with an in-game level editor and level sharer.
@@ -249,7 +249,7 @@
 
 ### Extra Rando
 
-- Version: 0.6.2.0 -> 0.7.0.0
+- Version: 0.6.2.0 -> 0.8.0.0
 
 ### GearSwitcher
 
@@ -275,13 +275,6 @@
   + Added
     - DebugMod
     - ExaltationExpanded
-
-### MidasTouch
-
-- Version: 1.0.1.1 -> 1.1.0.0
-- Integrations
-  + Added
-    - DebugMod
 
 ### PurenailCore
 
@@ -333,7 +326,7 @@
 
 ### Trial of Crusaders
 
-- Version: 0.2.3.0 -> 0.2.5.0
+- Version: 0.2.4.0 -> 0.2.5.0
 
 ### WanderersWisdom
 
