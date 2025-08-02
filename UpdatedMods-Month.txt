@@ -1,7 +1,4 @@
 Architect
-BugPrince
-SFCore
-Architect
 Trial of Crusaders
 Architect
 Architect
@@ -86,3 +83,6 @@ Architect
 Extra Rando
 MotionBlur
 Pale Court Charms
+Architect
+ReplayLogger
+VendorRando

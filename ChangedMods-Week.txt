@@ -1,10 +1,4 @@
 Architect
-CustomizableAbilities
-HKMP.VoiceChat
-Pale Court Charms
-SFCore
-SkillCharms
-Architect
 BugPrince
 MoreMasks
 MoreNotches
@@ -35,3 +29,6 @@ Extra Rando
 Faction Elimination
 MotionBlur
 Pale Court Charms
+Architect
+ReplayLogger
+VendorRando

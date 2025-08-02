@@ -1,1 +1,8 @@
+AccessRandomizer
+Architect
+DPSMeter
+DivineFury
+EnchantedMask
+Hivesong
+MetalOST
 VendorRando

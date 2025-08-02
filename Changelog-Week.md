@@ -19,12 +19,6 @@
   + MenuChanger
   + TheHuntIsOn
 
-### HKMP.VoiceChat
-
-- Description: An HKMP addon that adds (proximity) voice chat. Requires OpenAL (https://www.openal.org/) to be installed.
-- Dependencies
-  + HKMP
-
 ### MoreMasks
 
 - Description: Makes more masks available to be displayed. Also works for lifeblood masks. By default it shows 28 masks per row. Can be adjusted by editing the globalsettings file of this mod.
@@ -49,18 +43,6 @@
 - Tags
   + Gameplay
 
-### Pale Court Charms
-
-- Description: Adds charms from Pale Court. Made to allow compatibility with mods that don&#x27;t work with the main Pale Court. Works with Randomizer.
-- Dependencies
-  + ItemChanger
-  + SFCore
-- Integrations
-  + RandoSettingsManager
-  + Randomizer 4
-- Tags
-  + Gameplay
-
 ### SafeGodseekerQoL
 
 - Description: This mod is useful for challenge runners who don&#x27;t want their runs to be accidentally affected by QoL mods.
@@ -68,16 +50,6 @@
   + Osmi
   + Satchel
   + Vasi
-
-### SkillCharms
-
-- Description: Skills are now equippable charms
-- Dependencies
-  + MoreNotches
-  + SFCore
-  + Satchel
-- Integrations
-  + DebugMod
 
 ### WrathOfTheSwarm
 
@@ -96,7 +68,7 @@
 
 ### Architect
 
-- Version: 1.10.8.1 -> 1.12.0.1
+- Version: 1.10.9.2 -> 1.12.1.0
 - Description
   + Old: A mod to add/remove platforms, enemies and more to change areas in the game with an in-game level editor and level sharer.
   + New: A level editor mod, allowing you to customise Hollow Knight by adding or removing platforms, enemies and more with an in-game level editor and level sharer.
@@ -104,10 +76,6 @@
 ### BugPrince
 
 - Version: 1.4.1.0 -> 1.4.2.0
-
-### CustomizableAbilities
-
-- Version: 1.3.4.0 -> 1.3.4.1
 
 ### EnchantedMask
 
@@ -130,17 +98,31 @@
 
 - Version: 0.7.0.0 -> 0.8.0.0
 
+### Pale Court Charms
+
+- Version: 1.0.0.0 -> 1.0.0.1
+
 ### PurenailCore
 
 - Version: 1.4.0.0 -> 1.4.1.0
 
-### SFCore
+### ReplayLogger
 
-- Version: 1.5.14.14 -> 1.5.14.15
+- Version: 1.0.0.1 -> 1.0.0.2
 
 ### Scattered and Lost
 
 - Version: 1.5.1.0 -> 1.5.2.1
+
+### SkillCharms
+
+- Version: 1.0.0.0 -> 1.0.2.0
+- Dependencies
+  + Added
+    - MoreNotches
+- Integrations
+  + Added
+    - DebugMod
 
 ### SpeedChanger
 
@@ -169,5 +151,5 @@
 
 ### VendorRando
 
-- Version: 1.0.0.1 -> 1.0.0.2
+- Version: 1.0.0.1 -> 1.0.0.3
 

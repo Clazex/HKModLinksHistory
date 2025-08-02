@@ -1,7 +1,4 @@
 Architect
-BugPrince
-SFCore
-Architect
 Trial of Crusaders
 Architect
 Wrong Gravity
@@ -107,3 +104,6 @@ Extra Rando
 Faction Elimination
 MotionBlur
 Pale Court Charms
+Architect
+ReplayLogger
+VendorRando

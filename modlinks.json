@@ -408,11 +408,11 @@
   },
   "Architect": {
     "description": "A level editor mod, allowing you to customise Hollow Knight by adding or removing platforms, enemies and more with an in-game level editor and level sharer.",
-    "version": "1.12.0.1",
+    "version": "1.12.1.0",
     "links": {
       "type": "universal",
-      "sha256": "92F9B149A1843BD39C8CAB4BAD3227D5483692E3226542EB6AAEDA22369C5B6A",
-      "url": "https://github.com/cometcake575/Architect/releases/download/1.12.0.1/Architect.zip"
+      "sha256": "CE77BCEAD16F63CA11717C2FE9AE26C5A45F8922EC39D8840B9E292A00D6F9D0",
+      "url": "https://github.com/cometcake575/Architect/releases/download/1.12.1.0/Architect.zip"
     },
     "dependencies": [
       "MagicUI",
@@ -7412,11 +7412,11 @@
   },
   "ReplayLogger": {
     "description": "ReplayLoger is a mod that was created to verify the legitimacy of player challenge runs.",
-    "version": "1.0.0.1",
+    "version": "1.0.0.2",
     "links": {
       "type": "universal",
-      "sha256": "178CCDE13A0C4C33B908DC28F9BFE51A63830512A0785A165C798F0AA53937A2",
-      "url": "https://github.com/MorozicH20/ReplayLogger/releases/download/v1.0.0.1/ReplayLogger.zip"
+      "sha256": "60587D06C271A22C5C2E00A00BF916ED04771364145A0F126902D03A02AEEA26",
+      "url": "https://github.com/MorozicH20/ReplayLogger/releases/download/v1.0.0.2/ReplayLogger.zip"
     },
     "dependencies": [],
     "repository": "https://github.com/MorozicH20/ReplayLogger",
@@ -9127,11 +9127,11 @@
   },
   "VendorRando": {
     "description": "A Randomizer add-on that randomizes the physical locations of vendors",
-    "version": "1.0.0.2",
+    "version": "1.0.0.3",
     "links": {
       "type": "universal",
-      "sha256": "CADA187B641FFBC3ECEAF0D3430F01DAD25BCE8E0B34F1AA5C4712240BCDD7CC",
-      "url": "https://github.com/TheMathGeek314/VendorRando/releases/download/v1.0.0.2/VendorRando.zip"
+      "sha256": "ACFA088027047B7CC2C48BA99C5914147276FA5F1FEAAB47CB1F302BCB219C1F",
+      "url": "https://github.com/TheMathGeek314/VendorRando/releases/download/v1.0.0.3/VendorRando.zip"
     },
     "dependencies": [
       "ConnectionMetadataInjector",

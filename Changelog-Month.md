@@ -194,7 +194,7 @@
 
 ### Architect
 
-- Version: 1.5.3.0 -> 1.12.0.1
+- Version: 1.6.0.2 -> 1.12.1.0
 - Description
   + Old: A mod to add/remove platforms, enemies and more to change areas in the game with an in-game level editor and level sharer.
   + New: A level editor mod, allowing you to customise Hollow Knight by adding or removing platforms, enemies and more with an in-game level editor and level sharer.
@@ -212,7 +212,7 @@
 
 ### BugPrince
 
-- Version: 1.3.2.0 -> 1.4.2.0
+- Version: 1.3.3.0 -> 1.4.2.0
 
 ### CustomizableNailDamage
 
@@ -286,7 +286,7 @@
 
 ### SFCore
 
-- Version: 1.5.14.10 -> 1.5.14.15
+- Version: 1.5.14.14 -> 1.5.14.15
 
 ### Scattered and Lost
 
