@@ -3703,9 +3703,9 @@ All with an incredible new soundtrack!</Description>
         <Name>StoriesOfaHkPlayer-Ch1</Name>
         <DisplayName>Stories of a HK player - Chapter 1</DisplayName>
         <Description>The start of a story of a Hollow Knight player and his personalized copy of the game.</Description>
-        <Version>1.5.0.0</Version>
-        <Link SHA256="28FE1E34A8EB8F7C1AE73103603567061EB7580BE8BA724DE21AFD7317FBC6C6">
-            <![CDATA[https://github.com/SFGrenade/StoriesOfaHkPlayer-Ch1/releases/download/v1.5/StoriesOfaHkPlayer_Ch1.zip]]>
+        <Version>1.5.1.0</Version>
+        <Link SHA256="F4F9EB8CDC264D5F57EAD6C0FA68428D137635B7D1E4228A4100FF4AAA776B07">
+            <![CDATA[https://github.com/SFGrenade/StoriesOfaHkPlayer-Ch1/releases/download/v1.5.1.0/StoriesOfaHkPlayer_Ch1.zip]]>
         </Link>
         <Dependencies>
             <Dependency>SFCore</Dependency>
@@ -3716,8 +3716,12 @@ All with an incredible new soundtrack!</Description>
         <Issues>
             <![CDATA[https://github.com/SFGrenade/StoriesOfaHkPlayer-Ch1/issues/]]>
         </Issues>
+        <Integrations>
+            <Integration>StoriesOfaHkPlayer-Ch2</Integration>
+        </Integrations>
         <Tags>
             <Tag>Cosmetic</Tag>
+            <Tag>Expansion</Tag>
         </Tags>
         <Authors>
             <Author>SFGrenade</Author>
@@ -3728,9 +3732,9 @@ All with an incredible new soundtrack!</Description>
         <DisplayName>Stories of a HK player - Chapter 2</DisplayName>
         <Description>The second iteration of a story of a Hollow Knight player and his personalized copy of the game.
 Warning for people streaming this mod: This mod displays your windows/mac/linux username.</Description>
-        <Version>1.5.1.0</Version>
-        <Link SHA256="59693C7BA14E497AF191BA5FC67D16F9CCB7B7109C055533248887125BC17E47">
-            <![CDATA[https://github.com/SFGrenade/StoriesOfaHkPlayer-Ch2/releases/download/v1.5.1/StoriesOfaHkPlayer_Ch2.zip]]>
+        <Version>1.5.2.1</Version>
+        <Link SHA256="9458E95F34C66943299A14CC247BA9C61A48ABFBA36AF2F8C1701D055D194D35">
+            <![CDATA[https://github.com/SFGrenade/StoriesOfaHkPlayer-Ch2/releases/download/v1.5.2.1/StoriesOfaHkPlayer_Ch2.zip]]>
         </Link>
         <Dependencies>
             <Dependency>SFCore</Dependency>
@@ -3741,6 +3745,9 @@ Warning for people streaming this mod: This mod displays your windows/mac/linux 
         <Issues>
             <![CDATA[https://github.com/SFGrenade/StoriesOfaHkPlayer-Ch2/issues/]]>
         </Issues>
+        <Integrations>
+            <Integration>StoriesOfaHkPlayer-Ch1</Integration>
+        </Integrations>
         <Tags>
             <Tag>Expansion</Tag>
             <Tag>Gameplay</Tag>
@@ -6768,9 +6775,9 @@ Enjoy!</Description>
     <Manifest>
         <Name>TheHuntIsOn</Name>
         <Description>A mod for manhunting. Provides modules to change how the game affects hunter and speedrunner.</Description>
-        <Version>0.6.0.0</Version>
-        <Link SHA256="26de140c83c8a0de2bea8bfc2347ff672fb34f91581a5464a7632f483ed6159a">
-            <![CDATA[https://github.com/Korzer420/TheHuntIsOn/releases/download/v0.6.0/TheHuntIsOn.zip]]></Link>
+        <Version>1.0.0.0</Version>
+        <Link SHA256="6f811047050d2b556080f2ca56446f74fb97737120713bab9058f2465e29c0ae">
+            <![CDATA[https://github.com/Korzer420/TheHuntIsOn/releases/download/v1.0.0/TheHuntIsOn.zip]]></Link>
         <Dependencies>
             <Dependency>HKMP</Dependency>
             <Dependency>KorzUtils</Dependency>
@@ -9135,6 +9142,29 @@ Enjoy!</Description>
         </Authors>
     </Manifest>
     <Manifest>
+        <Name>SafeGodseekerQoL</Name>
+        <Description>This mod is useful for challenge runners who don't want their runs to be accidentally affected by QoL mods.</Description>
+        <Version>1.0.0.0</Version>
+        <Link SHA256="fe9e9faff6b24c124ec82a7bde9bb835a2a0b3d063188e886d77cf3215702d40">
+            <![CDATA[https://github.com/MorozicH20/SafeGodseekerQoL/releases/download/1.0.0.0/SafeGodseekerQoL.zip]]>
+        </Link>
+         <Dependencies>
+             <Dependency>Osmi</Dependency>
+             <Dependency>Satchel</Dependency>
+             <Dependency>Vasi</Dependency>
+         </Dependencies>
+        <Repository>
+            <![CDATA[https://github.com/MorozicH20/SafeGodseekerQoL]]>
+        </Repository>
+        <Authors>
+            <Author>Clazex</Author>
+            <Author>TheMulhima</Author>
+            <Author>royitaqi</Author>
+            <Author>flibber-hk</Author>
+            <Author>Egir</Author>
+        </Authors>
+    </Manifest>
+    <Manifest>
         <Name>Fishing</Name>
         <Description>Adds a fishing minigame to the randomizer</Description>
         <Version>1.0.0.0</Version>
@@ -9402,10 +9432,10 @@ Enjoy!</Description>
     </Manifest>
     <Manifest>
         <Name>Architect</Name>
-        <Description>A mod to add/remove platforms, enemies and more to change areas in the game with an in-game level editor and level sharer.</Description>
-        <Version>1.11.0.5</Version>
-        <Link SHA256="db60bdf832c5a26d90b1f5f2817fa09424f57e95ac1c114dfd5c08448e8dc65d">
-            <![CDATA[https://github.com/cometcake575/Architect/releases/download/1.11.0.5/Architect.zip]]>
+        <Description>A level editor mod, allowing you to customise Hollow Knight by adding or removing platforms, enemies and more with an in-game level editor and level sharer.</Description>
+        <Version>1.11.1.3</Version>
+        <Link SHA256="5a70e763e03a8f9ae5288c0fce4e8876b07e4ceb5a9033da9908d7851afc50b0">
+            <![CDATA[https://github.com/cometcake575/Architect/releases/download/1.11.1.3/Architect.zip]]>
         </Link>
         <Dependencies>
             <Dependency>Satchel</Dependency>
@@ -9452,9 +9482,9 @@ Enjoy!</Description>
     <Manifest>
         <Name>ExaltationExpanded</Name>
         <Description>A fan-made supplement to the Exaltation mod created by Xhuis (and ported/updated by Théodore).</Description>
-        <Version>1.1.0.0</Version>
-        <Link SHA256="FC3061FAB41B922EAA8739BD32A5455B69649FAC9D1C357E54CCB2481E733F47">
-            <![CDATA[https://github.com/danielstegink/HollowKnight.ExaltationExpanded/releases/download/1.1.0.0/ExaltationExpanded.zip]]>
+        <Version>1.1.1.0</Version>
+        <Link SHA256="640E6DA1FCED1E1B6659DF5F7EB68BA73C2BA949C1E742403421B2F3C6585074">
+            <![CDATA[https://github.com/danielstegink/HollowKnight.ExaltationExpanded/releases/download/1.1.1.0/ExaltationExpanded.zip]]>
         </Link>
         <Dependencies>
             <Dependency>Exaltation</Dependency>
@@ -9806,4 +9836,24 @@ Enjoy!</Description>
             <![CDATA[https://github.com/Extremelyd1/HKMP.VoiceChat/]]>
         </Repository>
     </Manifest>
+    <Manifest>
+            <Name>MotionBlur</Name>
+            <Description>Adds motion blur.</Description>
+            <Version>1.0.0.0</Version>
+            <Link SHA256="adbbf202643e0c5cf2be15b0afd74a92d0e571d3c47b35d692448bdcb98c080b">
+            <![CDATA[https://github.com/Reinzer/MotionBlur/releases/download/1.0.0.0/MotionBlur.zip]]>
+            </Link>
+            <Dependencies>
+                <Dependency>Satchel</Dependency>
+            </Dependencies>
+            <Repository>
+                <![CDATA[https://github.com/Reinzer/MotionBlur]]>
+            </Repository>
+            <Tags>
+                <Tag>Gameplay</Tag>
+            </Tags>
+            <Authors>
+                <Author>Reinzer</Author>
+            </Authors>
+        </Manifest>
 </ModLinks>

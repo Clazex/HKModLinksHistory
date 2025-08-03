@@ -19,3 +19,4 @@ SafeGodseekerQoL
 WrathOfTheSwarm
 BaldurRngConfig
 Faction Elimination
+Charm Editor

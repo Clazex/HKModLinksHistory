@@ -9,6 +9,12 @@
 - Dependencies
   + Satchel
 
+### Charm Editor
+
+- Description: This mod allows you to change charm notches and dashmaster
+- Tags
+  + Utility
+
 ### Faction Elimination
 
 - Description: A custom gamemode for HKMP where teams collect upgrades and fight each other.
@@ -18,22 +24,6 @@
   + ItemChanger
   + MenuChanger
   + TheHuntIsOn
-
-### MoreMasks
-
-- Description: Makes more masks available to be displayed. Also works for lifeblood masks. By default it shows 28 masks per row. Can be adjusted by editing the globalsettings file of this mod.
-- Dependencies
-  + SFCore
-- Tags
-  + Utility
-
-### MoreNotches
-
-- Description: Makes more charm notches available to be displayed. Also works for overcharm and charm detail notches. By default it shows up to 50 equipped notches and 20 charm detail notches. Can be adjusted by editing the globalsettings file of this mod.
-- Dependencies
-  + SFCore
-- Tags
-  + Utility
 
 ### MotionBlur
 
@@ -68,18 +58,14 @@
 
 ### Architect
 
-- Version: 1.10.9.2 -> 1.12.1.0
+- Version: 1.11.0.1 -> 1.12.4.0
 - Description
   + Old: A mod to add/remove platforms, enemies and more to change areas in the game with an in-game level editor and level sharer.
   + New: A level editor mod, allowing you to customise Hollow Knight by adding or removing platforms, enemies and more with an in-game level editor and level sharer.
 
-### BugPrince
-
-- Version: 1.4.1.0 -> 1.4.2.0
-
 ### EnchantedMask
 
-- Version: 1.0.1.0 -> 1.1.0.0
+- Version: 1.0.1.0 -> 1.1.1.0
 - Dependencies
   + Added
     - DebugMod
@@ -98,13 +84,13 @@
 
 - Version: 0.7.0.0 -> 0.8.0.0
 
+### Fishing
+
+- Version: 1.0.0.0 -> 1.0.1.0
+
 ### Pale Court Charms
 
 - Version: 1.0.0.0 -> 1.0.0.1
-
-### PurenailCore
-
-- Version: 1.4.0.0 -> 1.4.1.0
 
 ### ReplayLogger
 
@@ -112,14 +98,11 @@
 
 ### Scattered and Lost
 
-- Version: 1.5.1.0 -> 1.5.2.1
+- Version: 1.5.2.0 -> 1.5.2.1
 
 ### SkillCharms
 
-- Version: 1.0.0.0 -> 1.0.2.0
-- Dependencies
-  + Added
-    - MoreNotches
+- Version: 1.0.1.0 -> 1.0.2.0
 - Integrations
   + Added
     - DebugMod

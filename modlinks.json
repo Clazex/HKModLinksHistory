@@ -408,11 +408,11 @@
   },
   "Architect": {
     "description": "A level editor mod, allowing you to customise Hollow Knight by adding or removing platforms, enemies and more with an in-game level editor and level sharer.",
-    "version": "1.12.1.0",
+    "version": "1.12.4.0",
     "links": {
       "type": "universal",
-      "sha256": "CE77BCEAD16F63CA11717C2FE9AE26C5A45F8922EC39D8840B9E292A00D6F9D0",
-      "url": "https://github.com/cometcake575/Architect/releases/download/1.12.1.0/Architect.zip"
+      "sha256": "077085BF30BD07138CCBB0D3DE0E40FB620B1DCE84896372987DF429802ECE24",
+      "url": "https://github.com/cometcake575/Architect/releases/download/1.12.4.0/Architect.zip"
     },
     "dependencies": [
       "MagicUI",
@@ -1238,6 +1238,24 @@
     "repository": "https://github.com/DistractionCrab/Charm-Crab",
     "tags": [
       "Gameplay"
+    ]
+  },
+  "Charm Editor": {
+    "description": "This mod allows you to change charm notches and dashmaster",
+    "version": "1.0.0.0",
+    "links": {
+      "type": "universal",
+      "sha256": "7B8FA4F4327D8C441FF1885F3E5352B81414E2206EF70F2B9A3C9A877935D038",
+      "url": "https://github.com/Vitaxses/HKCharmEditor/releases/download/v1.0.0.0/CharmEditor.zip"
+    },
+    "dependencies": [],
+    "repository": "https://github.com/Vitaxses/HKCharmEditor",
+    "issues": "https://github.com/Vitaxses/HKCharmEditor/issues",
+    "tags": [
+      "Utility"
+    ],
+    "authors": [
+      "Vitaxses"
     ]
   },
   "Charm Overhaul": {
@@ -2638,11 +2656,11 @@
   },
   "EnchantedMask": {
     "description": "Adds new powerups called Glyphs, which can be purchased from the Mask maker.",
-    "version": "1.1.0.0",
+    "version": "1.1.1.0",
     "links": {
       "type": "universal",
-      "sha256": "DFB7969255F602E27150ED48F472F63883816D0748239C79B7F233555D594743",
-      "url": "https://github.com/danielstegink/HollowKnight.EnchantedMask/releases/download/1.1.0.0/EnchantedMask.zip"
+      "sha256": "244B8716ED76A919B4ABF8D749B66C5D1D6B085EE5F7CD6B0CC0C3CEAB188842",
+      "url": "https://github.com/danielstegink/HollowKnight.EnchantedMask/releases/download/1.1.1.0/EnchantedMask.zip"
     },
     "dependencies": [
       "DebugMod",
@@ -3086,11 +3104,11 @@
   },
   "Fishing": {
     "description": "Adds a fishing minigame to the randomizer",
-    "version": "1.0.0.0",
+    "version": "1.0.1.0",
     "links": {
       "type": "universal",
-      "sha256": "57A91718D92D65296962D1E6E336F3DDFBF3D85829402346C973D32E1C3EDA9B",
-      "url": "https://github.com/dpinela/Fishing/releases/download/v1.0/Fishing.zip"
+      "sha256": "64DA0DEDB76B65758B735F2D5539CA5BD56B24D42BC097875CD3BD2CF1702E1C",
+      "url": "https://github.com/dpinela/Fishing/releases/download/v1.0.1/Fishing.zip"
     },
     "dependencies": [
       "Randomizer 4"

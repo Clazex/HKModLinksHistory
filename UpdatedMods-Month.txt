@@ -1,6 +1,4 @@
 Architect
-Trial of Crusaders
-Architect
 Architect
 BugPrince
 Scattered and Lost
@@ -86,3 +84,6 @@ Pale Court Charms
 Architect
 ReplayLogger
 VendorRando
+Architect
+EnchantedMask
+Fishing

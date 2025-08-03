@@ -1,6 +1,4 @@
 Architect
-Trial of Crusaders
-Architect
 Wrong Gravity
 Architect
 BugPrince
@@ -107,3 +105,7 @@ Pale Court Charms
 Architect
 ReplayLogger
 VendorRando
+Architect
+Charm Editor
+EnchantedMask
+Fishing

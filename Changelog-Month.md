@@ -9,6 +9,12 @@
 - Dependencies
   + Satchel
 
+### Charm Editor
+
+- Description: This mod allows you to change charm notches and dashmaster
+- Tags
+  + Utility
+
 ### CustomizableAbilities
 
 - Description: Mod that allows you to customize abilities: negative and fractional nail; the amount of SOUL received from nail hits; nail cooldown; damage (also negative and fractional) and the amount of SOUL received from dream nail; spells and other abilities. Negative damage heals enemies.
@@ -194,7 +200,7 @@
 
 ### Architect
 
-- Version: 1.6.0.2 -> 1.12.1.0
+- Version: 1.6.1.2 -> 1.12.4.0
 - Description
   + Old: A mod to add/remove platforms, enemies and more to change areas in the game with an in-game level editor and level sharer.
   + New: A level editor mod, allowing you to customise Hollow Knight by adding or removing platforms, enemies and more with an in-game level editor and level sharer.
@@ -250,6 +256,10 @@
 ### Extra Rando
 
 - Version: 0.6.2.0 -> 0.8.0.0
+
+### Fishing
+
+- Version: 1.0.0.0 -> 1.0.1.0
 
 ### GearSwitcher
 
@@ -323,10 +333,6 @@
 ### TheHuntIsOn
 
 - Version: 0.6.0.0 -> 1.0.0.0
-
-### Trial of Crusaders
-
-- Version: 0.2.4.0 -> 0.2.5.0
 
 ### WanderersWisdom
 
