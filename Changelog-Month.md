@@ -60,11 +60,27 @@
   + MenuChanger
   + TheHuntIsOn
 
+### FrameLimiter
+
+- Description: Can limit fps to whatever you like (can be usefull for frame specific skips)
+- Dependencies
+  + Satchel
+- Tags
+  + Utility
+
 ### HKMP.VoiceChat
 
 - Description: An HKMP addon that adds (proximity) voice chat. Requires OpenAL (https://www.openal.org/) to be installed.
 - Dependencies
   + HKMP
+
+### Less Flashing Lights
+
+- Description: Reduces the amount of flashing lights. Check the readme for more info
+- Dependencies
+  + Satchel
+- Tags
+  + Utility
 
 ### MetalOST
 
@@ -102,6 +118,13 @@
 - Dependencies
   + Satchel
 - Tags
+  + Utility
+
+### OnlyBosses
+
+- Description: OnlyBosses is an alternative to TheHuntIsOn enemy module (which removes basic enemies), but since it got removed this mod is here.
+- Tags
+  + Gameplay
   + Utility
 
 ### Pale Court Charms
@@ -175,14 +198,6 @@
 
 - Description: Use Gathering Swarm as a weapon
 
-### Wrong Gravity
-
-- Description: Hallownest? Hɐlloʍuǝsʇ!
-- Dependencies
-  + Vasi
-- Tags
-  + Gameplay
-
 
 ## Updated mods
 
@@ -200,13 +215,10 @@
 
 ### Architect
 
-- Version: 1.6.1.2 -> 1.12.4.0
+- Version: 1.7.1.0 -> 1.12.4.1
 - Description
   + Old: A mod to add/remove platforms, enemies and more to change areas in the game with an in-game level editor and level sharer.
   + New: A level editor mod, allowing you to customise Hollow Knight by adding or removing platforms, enemies and more with an in-game level editor and level sharer.
-- Integrations
-  + Added
-    - Scattered and Lost
 
 ### BingoUI
 
@@ -333,6 +345,10 @@
 ### TheHuntIsOn
 
 - Version: 0.6.0.0 -> 1.0.0.0
+
+### TreasureHunt
+
+- Version: 1.6.1.0 -> 1.6.3.0
 
 ### WanderersWisdom
 

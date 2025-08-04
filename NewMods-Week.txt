@@ -4,3 +4,6 @@ WrathOfTheSwarm
 BaldurRngConfig
 Faction Elimination
 Charm Editor
+FrameLimiter
+Less Flashing Lights
+OnlyBosses

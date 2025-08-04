@@ -3,6 +3,24 @@
     xmlns:xsd="http://www.w3.org/2001/XMLSchema"
     xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://raw.githubusercontent.com/HollowKnight-Modding/HollowKnight.ModLinks/main/Schemas/ModLinks.xml">
     <Manifest>
+        <Name>Wrong Gravity</Name>
+        <Description>Hallownest? Hɐlloʍuǝsʇ!</Description>
+        <Version>1.0.0.0</Version>
+        <Link SHA256="A95BCAE12E8DD96EEA1D1107A3CB71D3090525CE864BFBF6E34E3BCB542D5137"><![CDATA[https://github.com/FrogBishop/HollowKnight.WrongGravity/releases/download/1.0.0.0/WrongGravity.zip]]></Link>
+        <Dependencies>
+            <Dependency>Vasi</Dependency>
+        </Dependencies>
+        <Repository>
+            <![CDATA[https://github.com/FrogBishop/HollowKnight.WrongGravity]]>
+        </Repository>
+        <Tags>
+            <Tag>Gameplay</Tag>
+        </Tags>
+        <Authors>
+            <Author>FrogBishop</Author>
+        </Authors>
+    </Manifest>
+    <Manifest>
         <Name>Quasar Radiance</Name>
         <Description>A version of Any Radiance 3.0 that's heavily modified to be more fun and enjoyable by casual players while still providing some level of challenge. Very unique fight that's not impossibly hard like the real thing. The mod is meant to be played with a 300 FPS cap so if you play on lower or higher it's gonna be harder or easier than intended.</Description>
         <Version>1.0.0.0</Version>
@@ -9251,9 +9269,9 @@ Enjoy!</Description>
     <Manifest>
         <Name>Architect</Name>
         <Description>A mod to add/remove platforms, enemies and more to change areas in the game with an in-game level editor and level sharer.</Description>
-        <Version>1.6.1.2</Version>
-        <Link SHA256="6a5b9a3a4362fc2764eca5d68b11baab182383f211d2641087f51c17e26bedcd">
-            <![CDATA[https://github.com/cometcake575/Architect/releases/download/1.6.1.2/Architect.zip]]>
+        <Version>1.7.1.0</Version>
+        <Link SHA256="c2eb33021a48bc3f740363188313566f2fdcf91972efb1da1d1426ad606d47cf">
+            <![CDATA[https://github.com/cometcake575/Architect/releases/download/1.7.1.0/Architect.zip]]>
         </Link>
         <Dependencies>
             <Dependency>Satchel</Dependency>
@@ -9268,6 +9286,7 @@ Enjoy!</Description>
         </Issues>
         <Integrations>
             <Integration>HKMP</Integration>
+            <Integration>Scattered and Lost</Integration>
         </Integrations>
         <Tags>
             <Tag>Gameplay</Tag>

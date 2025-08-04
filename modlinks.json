@@ -408,11 +408,11 @@
   },
   "Architect": {
     "description": "A level editor mod, allowing you to customise Hollow Knight by adding or removing platforms, enemies and more with an in-game level editor and level sharer.",
-    "version": "1.12.4.0",
+    "version": "1.12.4.1",
     "links": {
       "type": "universal",
-      "sha256": "077085BF30BD07138CCBB0D3DE0E40FB620B1DCE84896372987DF429802ECE24",
-      "url": "https://github.com/cometcake575/Architect/releases/download/1.12.4.0/Architect.zip"
+      "sha256": "47ADB8105F03B303FE13CB4F2D04E559F28B3654CA9FEB0FD8A95B9E591BEDF3",
+      "url": "https://github.com/cometcake575/Architect/releases/download/1.12.4.1/Architect.zip"
     },
     "dependencies": [
       "MagicUI",
@@ -1242,11 +1242,11 @@
   },
   "Charm Editor": {
     "description": "This mod allows you to change charm notches and dashmaster",
-    "version": "1.0.0.0",
+    "version": "1.1.0.0",
     "links": {
       "type": "universal",
-      "sha256": "7B8FA4F4327D8C441FF1885F3E5352B81414E2206EF70F2B9A3C9A877935D038",
-      "url": "https://github.com/Vitaxses/HKCharmEditor/releases/download/v1.0.0.0/CharmEditor.zip"
+      "sha256": "7CB8E378626C1C35D4939951591B15B1E3C8EF9B589A0E598AB12DE91C4DC309",
+      "url": "https://github.com/Vitaxses/HKCharmEditor/releases/download/v1.1.0.0/CharmEditor.zip"
     },
     "dependencies": [],
     "repository": "https://github.com/Vitaxses/HKCharmEditor",
@@ -3252,6 +3252,26 @@
     "dependencies": [],
     "repository": "https://github.com/Araraura/FragileStrengthForNailArts/"
   },
+  "FrameLimiter": {
+    "description": "Can limit fps to whatever you like (can be usefull for frame specific skips)",
+    "version": "1.0.0.0",
+    "links": {
+      "type": "universal",
+      "sha256": "F2591BECC928BC80C24B7802C8D59CF74CE8BB11D1D94B3E916BD9478C16DC6B",
+      "url": "https://github.com/Vitaxses/HKFrameLimiter/releases/download/v1.0.0.0/FrameLimiter.zip"
+    },
+    "dependencies": [
+      "Satchel"
+    ],
+    "repository": "https://github.com/Vitaxses/HKFrameLimiter/",
+    "issues": "https://github.com/Vitaxses/HKFrameLimiter/issues/",
+    "tags": [
+      "Utility"
+    ],
+    "authors": [
+      "Vitaxses"
+    ]
+  },
   "FriendCore": {
     "description": "Experimental (but stable) library mod with enemy editing capabilities.",
     "version": "0.9.2.0",
@@ -4961,6 +4981,26 @@
       "Wangha"
     ]
   },
+  "Less Flashing Lights": {
+    "description": "Reduces the amount of flashing lights. Check the readme for more info",
+    "version": "1.0.0.0",
+    "links": {
+      "type": "universal",
+      "sha256": "E022876E944AB6ACF4560167B4A65058DE5BAB46D2C0250E5486224CEE618D76",
+      "url": "https://github.com/Arwangha/LessFlashingLights/releases/download/v1.0.0/LessFlashingLights.zip"
+    },
+    "dependencies": [
+      "Satchel"
+    ],
+    "repository": "https://github.com/Arwangha/LessFlashingLights",
+    "issues": "https://github.com/Arwangha/LessFlashingLights/issues",
+    "tags": [
+      "Utility"
+    ],
+    "authors": [
+      "Wangha"
+    ]
+  },
   "LessHealing": {
     "description": "A Hollow Knight mod that adds toggleable options that remove various healing methods from the game.",
     "version": "1.0.5.0",
@@ -6157,6 +6197,25 @@
       "talezshadid"
     ]
   },
+  "OnlyBosses": {
+    "description": "OnlyBosses is an alternative to TheHuntIsOn enemy module (which removes basic enemies), but since it got removed this mod is here.",
+    "version": "1.0.0.0",
+    "links": {
+      "type": "universal",
+      "sha256": "173ED5F0A307177D4ABE9BC3231E500F8B3B1973B9DE82B94C6FC7E8891A035C",
+      "url": "https://github.com/Vitaxses/HKOnlyBosses/releases/download/v1.0.0.0/OnlyBosses.zip"
+    },
+    "dependencies": [],
+    "repository": "https://github.com/Vitaxses/HKOnlyBosses/",
+    "issues": "https://github.com/Vitaxses/HKOnlyBosses/issues/",
+    "tags": [
+      "Gameplay",
+      "Utility"
+    ],
+    "authors": [
+      "Vitaxses"
+    ]
+  },
   "OrbTracker": {
     "description": "Points an arrow to the closest Whispering Root orb, and counts how many you have gotten.",
     "version": "1.1.4.0",
@@ -6290,11 +6349,11 @@
   },
   "Pale Court Charms": {
     "description": "Adds charms from Pale Court. Made to allow compatibility with mods that don't work with the main Pale Court. Works with Randomizer.",
-    "version": "1.0.0.1",
+    "version": "1.1.1.0",
     "links": {
       "type": "universal",
-      "sha256": "02A616D1556EA4C1AF31198E8913210C42D83CF4B6C317548F7F119130349F94",
-      "url": "https://github.com/Roma-337/PaleCourtCharms/releases/download/v1.0.1/PaleCourtCharms.zip"
+      "sha256": "AD2CCA069D36A6FA418F1D1BF00B2696EF764639E610B2F259F332CF0BB905BE",
+      "url": "https://github.com/Roma-337/PaleCourtCharms/releases/download/v1.1.1/PaleCourtCharms.zip"
     },
     "dependencies": [
       "ItemChanger",
@@ -8860,11 +8919,11 @@
   },
   "TreasureHunt": {
     "description": "A Randomizer 4 connection fro a semi-spoiler format.",
-    "version": "1.6.1.0",
+    "version": "1.6.3.0",
     "links": {
       "type": "universal",
-      "sha256": "6A7922BD49A9BFB8C27BAB961C95BE34D3028DDDB24774C8FED055A5D8B68C32",
-      "url": "https://github.com/dplochcoder/HollowKnight.TreasureHunt/releases/download/v1.6.1.0/TreasureHunt.zip"
+      "sha256": "9ADCF8B02CEED73DE2965C8F6328B4AB4FAB04D84180C7129EC6998847A95ADE",
+      "url": "https://github.com/dplochcoder/HollowKnight.TreasureHunt/releases/download/v1.6.3.0/TreasureHunt.zip"
     },
     "dependencies": [
       "ConnectionMetadataInjector",

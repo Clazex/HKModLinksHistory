@@ -1,5 +1,4 @@
 Architect
-Architect
 BugPrince
 Scattered and Lost
 Architect
@@ -87,3 +86,7 @@ VendorRando
 Architect
 EnchantedMask
 Fishing
+Architect
+Charm Editor
+Pale Court Charms
+TreasureHunt

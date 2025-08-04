@@ -2,6 +2,27 @@
 <ModLinks xmlns="https://github.com/HollowKnight-Modding/HollowKnight.ModLinks/HollowKnight.ModManager"
     xmlns:xsd="http://www.w3.org/2001/XMLSchema"
     xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://raw.githubusercontent.com/HollowKnight-Modding/HollowKnight.ModLinks/main/Schemas/ModLinks.xml">
+<Manifest>
+    <Name>Charm Editor</Name>
+    <Description>This mod allows you to change charm notches and dashmaster</Description>
+    <Version>1.0.0.0</Version>
+    <Link SHA256="7b8fa4f4327d8c441ff1885f3e5352b81414e2206ef70f2b9a3c9a877935d038"><![CDATA[https://github.com/Vitaxses/HKCharmEditor/releases/download/v1.0.0.0/CharmEditor.zip]]></Link>
+    <Dependencies>
+    </Dependencies>
+    <Repository>
+        <![CDATA[https://github.com/Vitaxses/HKCharmEditor]]>
+    </Repository>
+    <Issues>
+        <![CDATA[https://github.com/Vitaxses/HKCharmEditor/issues]]>
+    </Issues>
+    <Tags>
+        <Tag>Utility</Tag>
+    </Tags>
+    <Authors>
+        <Author>Vitaxses</Author>
+    </Authors>
+</Manifest>
+
     <Manifest>
         <Name>Faction Elimination</Name>
         <Description>A custom gamemode for HKMP where teams collect upgrades and fight each other.</Description>
@@ -9219,8 +9240,8 @@ Enjoy!</Description>
     <Manifest>
         <Name>Fishing</Name>
         <Description>Adds a fishing minigame to the randomizer</Description>
-        <Version>1.0.0.0</Version>
-        <Link SHA256="57a91718d92d65296962d1e6e336f3ddfbf3d85829402346c973d32e1c3eda9b">https://github.com/dpinela/Fishing/releases/download/v1.0/Fishing.zip</Link>
+        <Version>1.0.1.0</Version>
+        <Link SHA256="64da0dedb76b65758b735f2d5539ca5bd56b24d42bc097875cd3bd2cf1702e1c">https://github.com/dpinela/Fishing/releases/download/v1.0.1/Fishing.zip</Link>
         <Dependencies>
             <Dependency>Randomizer 4</Dependency>
         </Dependencies>
@@ -9485,9 +9506,9 @@ Enjoy!</Description>
     <Manifest>
         <Name>Architect</Name>
         <Description>A level editor mod, allowing you to customise Hollow Knight by adding or removing platforms, enemies and more with an in-game level editor and level sharer.</Description>
-        <Version>1.12.1.0</Version>
-        <Link SHA256="ce77bcead16f63ca11717c2fe9ae26c5a45f8922ec39d8840b9e292a00d6f9d0">
-            <![CDATA[https://github.com/cometcake575/Architect/releases/download/1.12.1.0/Architect.zip]]>
+        <Version>1.12.4.0</Version>
+        <Link SHA256="077085bf30bd07138ccbb0d3de0e40fb620b1dce84896372987df429802ece24">
+            <![CDATA[https://github.com/cometcake575/Architect/releases/download/1.12.4.0/Architect.zip]]>
         </Link>
         <Dependencies>
             <Dependency>Satchel</Dependency>
@@ -9726,9 +9747,9 @@ Enjoy!</Description>
     <Manifest>
         <Name>EnchantedMask</Name>
         <Description>Adds new powerups called Glyphs, which can be purchased from the Mask maker.</Description>
-        <Version>1.1.0.0</Version>
-        <Link SHA256="DFB7969255F602E27150ED48F472F63883816D0748239C79B7F233555D594743">
-            <![CDATA[https://github.com/danielstegink/HollowKnight.EnchantedMask/releases/download/1.1.0.0/EnchantedMask.zip]]>
+        <Version>1.1.1.0</Version>
+        <Link SHA256="244B8716ED76A919B4ABF8D749B66C5D1D6B085EE5F7CD6B0CC0C3CEAB188842">
+            <![CDATA[https://github.com/danielstegink/HollowKnight.EnchantedMask/releases/download/1.1.1.0/EnchantedMask.zip]]>
         </Link>
         <Dependencies>
             <Dependency>Satchel</Dependency>

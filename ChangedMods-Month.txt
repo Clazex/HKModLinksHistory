@@ -1,6 +1,4 @@
 Architect
-Wrong Gravity
-Architect
 BugPrince
 Scattered and Lost
 Architect
@@ -109,3 +107,10 @@ Architect
 Charm Editor
 EnchantedMask
 Fishing
+Architect
+Charm Editor
+FrameLimiter
+Less Flashing Lights
+OnlyBosses
+Pale Court Charms
+TreasureHunt

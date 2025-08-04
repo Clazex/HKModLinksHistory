@@ -1,4 +1,3 @@
-Wrong Gravity
 ShowHPOnDeath
 OWO_HollowKnight
 ReplayLogger
@@ -20,3 +19,6 @@ WrathOfTheSwarm
 BaldurRngConfig
 Faction Elimination
 Charm Editor
+FrameLimiter
+Less Flashing Lights
+OnlyBosses
