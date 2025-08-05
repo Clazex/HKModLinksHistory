@@ -1,9 +1,4 @@
 Architect
-ExaltationExpanded
-StoriesOfaHkPlayer-Ch1
-StoriesOfaHkPlayer-Ch2
-TheHuntIsOn
-Architect
 EnchantedMask
 MotionBlur
 SkillCharms
@@ -23,3 +18,7 @@ Architect
 Charm Editor
 Pale Court Charms
 TreasureHunt
+Architect
+Extra Rando
+KorzUtils
+Trial of Crusaders

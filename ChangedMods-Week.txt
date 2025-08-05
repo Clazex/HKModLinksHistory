@@ -1,11 +1,4 @@
 Architect
-ExaltationExpanded
-MotionBlur
-SafeGodseekerQoL
-StoriesOfaHkPlayer-Ch1
-StoriesOfaHkPlayer-Ch2
-TheHuntIsOn
-Architect
 EnchantedMask
 MotionBlur
 SkillCharms
@@ -32,3 +25,7 @@ Less Flashing Lights
 OnlyBosses
 Pale Court Charms
 TreasureHunt
+Architect
+Extra Rando
+KorzUtils
+Trial of Crusaders

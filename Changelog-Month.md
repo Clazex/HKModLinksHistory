@@ -215,7 +215,7 @@
 
 ### Architect
 
-- Version: 1.7.1.0 -> 1.12.4.1
+- Version: 1.7.3.0 -> 1.14.1.0
 - Description
   + Old: A mod to add/remove platforms, enemies and more to change areas in the game with an in-game level editor and level sharer.
   + New: A level editor mod, allowing you to customise Hollow Knight by adding or removing platforms, enemies and more with an in-game level editor and level sharer.
@@ -230,7 +230,7 @@
 
 ### BugPrince
 
-- Version: 1.3.3.0 -> 1.4.2.0
+- Version: 1.4.0.0 -> 1.4.2.0
 
 ### CustomizableNailDamage
 
@@ -267,7 +267,7 @@
 
 ### Extra Rando
 
-- Version: 0.6.2.0 -> 0.8.0.0
+- Version: 0.6.2.0 -> 0.9.0.0
 
 ### Fishing
 
@@ -298,6 +298,10 @@
     - DebugMod
     - ExaltationExpanded
 
+### KorzUtils
+
+- Version: 0.9.0.0 -> 0.10.0.0
+
 ### PurenailCore
 
 - Version: 1.4.0.0 -> 1.4.1.0
@@ -312,11 +316,10 @@
 
 ### Scattered and Lost
 
-- Version: 1.4.3.1 -> 1.5.2.1
+- Version: 1.5.0.0 -> 1.5.2.1
 - Integrations
   + Added
     - Architect
-    - BugPrince
 
 ### SpeedChanger
 
@@ -349,6 +352,10 @@
 ### TreasureHunt
 
 - Version: 1.6.1.0 -> 1.6.3.0
+
+### Trial of Crusaders
+
+- Version: 0.2.5.0 -> 0.3.0.0
 
 ### WanderersWisdom
 

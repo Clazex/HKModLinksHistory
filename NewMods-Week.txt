@@ -1,5 +1,3 @@
-MotionBlur
-SafeGodseekerQoL
 WrathOfTheSwarm
 BaldurRngConfig
 Faction Elimination

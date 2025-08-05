@@ -1,8 +1,5 @@
 Architect
 BugPrince
-Scattered and Lost
-Architect
-BugPrince
 Architect
 CustomizableNailDamage
 Architect
@@ -90,3 +87,7 @@ Architect
 Charm Editor
 Pale Court Charms
 TreasureHunt
+Architect
+Extra Rando
+KorzUtils
+Trial of Crusaders

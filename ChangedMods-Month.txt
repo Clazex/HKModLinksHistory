@@ -1,8 +1,5 @@
 Architect
 BugPrince
-Scattered and Lost
-Architect
-BugPrince
 ShowHPOnDeath
 Architect
 CustomizableNailDamage
@@ -114,3 +111,7 @@ Less Flashing Lights
 OnlyBosses
 Pale Court Charms
 TreasureHunt
+Architect
+Extra Rando
+KorzUtils
+Trial of Crusaders

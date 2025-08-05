@@ -408,11 +408,11 @@
   },
   "Architect": {
     "description": "A level editor mod, allowing you to customise Hollow Knight by adding or removing platforms, enemies and more with an in-game level editor and level sharer.",
-    "version": "1.12.4.1",
+    "version": "1.14.1.0",
     "links": {
       "type": "universal",
-      "sha256": "47ADB8105F03B303FE13CB4F2D04E559F28B3654CA9FEB0FD8A95B9E591BEDF3",
-      "url": "https://github.com/cometcake575/Architect/releases/download/1.12.4.1/Architect.zip"
+      "sha256": "F6AFFBCEBD52EB648D8F458E26D0D2126CD870772CEFC6F903379C972A91D245",
+      "url": "https://github.com/cometcake575/Architect/releases/download/1.14.1.0/Architect.zip"
     },
     "dependencies": [
       "MagicUI",
@@ -2833,11 +2833,11 @@
   },
   "Extra Rando": {
     "description": "Randomizer 4 connection with miscellaneous settings.",
-    "version": "0.8.0.0",
+    "version": "0.9.0.0",
     "links": {
       "type": "universal",
-      "sha256": "C2C067E7CEB7213E1211C616A95A13B831012FEE9DA940F3327D293B0D191EE0",
-      "url": "https://github.com/Korzer420/ExtraRando/releases/download/v0.8.0/ExtraRando.zip"
+      "sha256": "2C9E186C61137B1EA1A8DE135D574A0A8A4426B2BC85AC2D356620E14EC4E943",
+      "url": "https://github.com/Korzer420/ExtraRando/releases/download/v0.9.0/ExtraRando.zip"
     },
     "dependencies": [
       "KorzUtils",
@@ -4909,11 +4909,11 @@
   },
   "KorzUtils": {
     "description": "Library mod that provide useful functions for other mods.",
-    "version": "0.9.0.0",
+    "version": "0.10.0.0",
     "links": {
       "type": "universal",
-      "sha256": "63D6C14C8BB547E565BC2849313DA9E4FF28BCDAD72633CDB77F2B4FD47C1A2E",
-      "url": "https://github.com/Korzer420/KorzUtils/releases/download/v0.9.0/KorzUtils.zip"
+      "sha256": "0D378A796E4E6BAE5E2965BA5B136C210E806926D22D3D0FF59432161E6DB6E6",
+      "url": "https://github.com/Korzer420/KorzUtils/releases/download/v0.10.0/KorzUtils.zip"
     },
     "dependencies": [],
     "repository": "https://github.com/Korzer420/KorzUtils",
@@ -8948,11 +8948,11 @@
   },
   "Trial of Crusaders": {
     "description": "A rogue-like mod inspired by Dead Cells, Binding of Isaac and Blue Prince.",
-    "version": "0.2.5.0",
+    "version": "0.3.0.0",
     "links": {
       "type": "universal",
-      "sha256": "4B5AA40AB14C1D1EC979F81EADCC8FC2A22A5B6A8CF336CEF3B2C3056161D4C5",
-      "url": "https://github.com/Korzer420/TrialOfCrusaders/releases/download/v0.2.5/TrialOfCrusaders.zip"
+      "sha256": "14F268CDA82621FBFC2D497EB3E67521B11C6FD420E531EAB4E0D6BB24B97C26",
+      "url": "https://github.com/Korzer420/TrialOfCrusaders/releases/download/v0.3.0/TrialOfCrusaders.zip"
     },
     "dependencies": [
       "KorzUtils",

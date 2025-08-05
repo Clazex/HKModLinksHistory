@@ -41,28 +41,12 @@
 - Tags
   + Utility
 
-### MotionBlur
-
-- Description: Adds motion blur
-- Dependencies
-  + Satchel
-- Tags
-  + Gameplay
-
 ### OnlyBosses
 
 - Description: OnlyBosses is an alternative to TheHuntIsOn enemy module (which removes basic enemies), but since it got removed this mod is here.
 - Tags
   + Gameplay
   + Utility
-
-### SafeGodseekerQoL
-
-- Description: This mod is useful for challenge runners who don&#x27;t want their runs to be accidentally affected by QoL mods.
-- Dependencies
-  + Osmi
-  + Satchel
-  + Vasi
 
 ### WrathOfTheSwarm
 
@@ -73,10 +57,7 @@
 
 ### Architect
 
-- Version: 1.11.0.5 -> 1.12.4.1
-- Description
-  + Old: A mod to add/remove platforms, enemies and more to change areas in the game with an in-game level editor and level sharer.
-  + New: A level editor mod, allowing you to customise Hollow Knight by adding or removing platforms, enemies and more with an in-game level editor and level sharer.
+- Version: 1.11.1.3 -> 1.14.1.0
 
 ### EnchantedMask
 
@@ -91,17 +72,24 @@
     - Pale Court
     - Pale Court Charms
 
-### ExaltationExpanded
-
-- Version: 1.1.0.0 -> 1.1.1.0
-
 ### Extra Rando
 
-- Version: 0.7.0.0 -> 0.8.0.0
+- Version: 0.7.0.0 -> 0.9.0.0
 
 ### Fishing
 
 - Version: 1.0.0.0 -> 1.0.1.0
+
+### KorzUtils
+
+- Version: 0.9.0.0 -> 0.10.0.0
+
+### MotionBlur
+
+- Version: 1.0.0.0 -> 1.0.2.0
+- Description
+  + Old: Adds motion blur.
+  + New: Adds motion blur
 
 ### Pale Court Charms
 
@@ -122,30 +110,13 @@
 
 - Version: 1.1.3.0 -> 1.1.3.1
 
-### StoriesOfaHkPlayer-Ch1
-
-- Version: 1.5.0.0 -> 1.5.1.0
-- Integrations
-  + Added
-    - StoriesOfaHkPlayer-Ch2
-- Tags
-  + Removed
-    - Expansion
-
-### StoriesOfaHkPlayer-Ch2
-
-- Version: 1.5.1.0 -> 1.5.2.1
-- Integrations
-  + Added
-    - StoriesOfaHkPlayer-Ch1
-
-### TheHuntIsOn
-
-- Version: 0.6.0.0 -> 1.0.0.0
-
 ### TreasureHunt
 
 - Version: 1.6.1.0 -> 1.6.3.0
+
+### Trial of Crusaders
+
+- Version: 0.2.5.0 -> 0.3.0.0
 
 ### VendorRando
 
