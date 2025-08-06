@@ -1,10 +1,4 @@
 Architect
-EnchantedMask
-MotionBlur
-SkillCharms
-SpeedChanger
-VendorRando
-Architect
 Extra Rando
 MotionBlur
 Pale Court Charms
@@ -22,3 +16,6 @@ Architect
 Extra Rando
 KorzUtils
 Trial of Crusaders
+Architect
+BugPrince
+ReplayLogger

@@ -1,3 +1,2 @@
 Architect
-BugPrince
-ShowHPOnDeath
+CustomizableNailDamage

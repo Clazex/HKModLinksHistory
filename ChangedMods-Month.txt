@@ -1,7 +1,4 @@
 Architect
-BugPrince
-ShowHPOnDeath
-Architect
 CustomizableNailDamage
 Architect
 ShowHPOnDeath
@@ -115,3 +112,7 @@ Architect
 Extra Rando
 KorzUtils
 Trial of Crusaders
+Architect
+BugPrince
+Galien Illusionist
+ReplayLogger

@@ -68,6 +68,14 @@
 - Tags
   + Utility
 
+### Galien Illusionist
+
+- Description: Modboss. Now there will be two galiens in the arena, one of which is not real.
+- Dependencies
+  + Vasi
+- Tags
+  + Boss
+
 ### HKMP.VoiceChat
 
 - Description: An HKMP addon that adds (proximity) voice chat. Requires OpenAL (https://www.openal.org/) to be installed.
@@ -161,13 +169,6 @@
   + Satchel
   + Vasi
 
-### ShowHPOnDeath
-
-- Description: A mod that allows you to watch hp after death
-- Tags
-  + Gameplay
-  + Utility
-
 ### SkillCharms
 
 - Description: Skills are now equippable charms
@@ -215,7 +216,7 @@
 
 ### Architect
 
-- Version: 1.7.3.0 -> 1.14.1.0
+- Version: 1.8.0.0 -> 1.14.5.0
 - Description
   + Old: A mod to add/remove platforms, enemies and more to change areas in the game with an in-game level editor and level sharer.
   + New: A level editor mod, allowing you to customise Hollow Knight by adding or removing platforms, enemies and more with an in-game level editor and level sharer.
@@ -230,7 +231,7 @@
 
 ### BugPrince
 
-- Version: 1.4.0.0 -> 1.4.2.0
+- Version: 1.4.1.0 -> 1.4.3.0
 
 ### CustomizableNailDamage
 
@@ -320,6 +321,10 @@
 - Integrations
   + Added
     - Architect
+
+### ShowHPOnDeath
+
+- Version: 1.1.1.0 -> 1.3.0.0
 
 ### SpeedChanger
 
