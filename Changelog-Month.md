@@ -36,6 +36,14 @@
   + Gameplay
   + Utility
 
+### DanielSteginkUtils
+
+- Description: Custom library with calculations, logic and cross-mod helpers.
+- Dependencies
+  + SFCore
+- Tags
+  + Library
+
 ### EnchantedMask
 
 - Description: Adds new powerups called Glyphs, which can be purchased from the Mask maker.
@@ -216,7 +224,7 @@
 
 ### Architect
 
-- Version: 1.8.0.0 -> 1.14.5.0
+- Version: 1.8.2.1 -> 1.15.0.0
 - Description
   + Old: A mod to add/remove platforms, enemies and more to change areas in the game with an in-game level editor and level sharer.
   + New: A level editor mod, allowing you to customise Hollow Knight by adding or removing platforms, enemies and more with an in-game level editor and level sharer.
@@ -235,7 +243,7 @@
 
 ### CustomizableNailDamage
 
-- Version: 1.2.1.0 -> 9.9.9.9
+- Version: 1.3.0.0 -> 9.9.9.9
 - Description
   + Old: Mod that allows you to change the damage of the nail, including negative and fractional. Negative nail will heal enemies.
   + New: Dummy mod. Install the dependency &quot;CustomizableAbilities&quot; directly.

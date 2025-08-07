@@ -1,6 +1,4 @@
 Architect
-CustomizableNailDamage
-Architect
 ShowHPOnDeath
 Architect
 Architect
@@ -92,3 +90,5 @@ Trial of Crusaders
 Architect
 BugPrince
 ReplayLogger
+Architect
+VendorRando

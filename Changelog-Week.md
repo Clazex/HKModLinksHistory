@@ -3,27 +3,19 @@
 
 ## New mods
 
-### BaldurRngConfig
-
-- Description: Configure various Elder Baldur settings
-- Dependencies
-  + Satchel
-
 ### Charm Editor
 
 - Description: This mod allows you to change charm notches and dashmaster
 - Tags
   + Utility
 
-### Faction Elimination
+### DanielSteginkUtils
 
-- Description: A custom gamemode for HKMP where teams collect upgrades and fight each other.
+- Description: Custom library with calculations, logic and cross-mod helpers.
 - Dependencies
-  + Charm Changer
-  + HkmpPouch
-  + ItemChanger
-  + MenuChanger
-  + TheHuntIsOn
+  + SFCore
+- Tags
+  + Library
 
 ### FrameLimiter
 
@@ -61,7 +53,7 @@
 
 ### Architect
 
-- Version: 1.11.2.2 -> 1.14.5.0
+- Version: 1.12.0.1 -> 1.15.0.0
 
 ### BugPrince
 
@@ -73,7 +65,7 @@
 
 ### Extra Rando
 
-- Version: 0.7.0.0 -> 0.9.0.0
+- Version: 0.8.0.0 -> 0.9.0.0
 
 ### Fishing
 
@@ -83,13 +75,9 @@
 
 - Version: 0.9.0.0 -> 0.10.0.0
 
-### MotionBlur
-
-- Version: 1.0.1.0 -> 1.0.2.0
-
 ### Pale Court Charms
 
-- Version: 1.0.0.0 -> 1.1.1.0
+- Version: 1.0.0.1 -> 1.1.1.0
 
 ### ReplayLogger
 
@@ -105,5 +93,5 @@
 
 ### VendorRando
 
-- Version: 1.0.0.2 -> 1.0.0.3
+- Version: 1.0.0.2 -> 1.0.0.4
 

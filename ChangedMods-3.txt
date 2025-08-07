@@ -1,7 +1,4 @@
 Architect
-Charm Editor
-FrameLimiter
-Less Flashing Lights
-OnlyBosses
-Pale Court Charms
-TreasureHunt
+Extra Rando
+KorzUtils
+Trial of Crusaders

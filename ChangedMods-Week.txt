@@ -1,10 +1,4 @@
 Architect
-BaldurRngConfig
-Extra Rando
-Faction Elimination
-MotionBlur
-Pale Court Charms
-Architect
 ReplayLogger
 VendorRando
 Architect
@@ -26,3 +20,6 @@ Architect
 BugPrince
 Galien Illusionist
 ReplayLogger
+Architect
+DanielSteginkUtils
+VendorRando

@@ -1,6 +1,4 @@
 Architect
-CustomizableNailDamage
-Architect
 ShowHPOnDeath
 Architect
 Architect
@@ -116,3 +114,6 @@ Architect
 BugPrince
 Galien Illusionist
 ReplayLogger
+Architect
+DanielSteginkUtils
+VendorRando

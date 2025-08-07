@@ -1,8 +1,4 @@
 Architect
-Extra Rando
-MotionBlur
-Pale Court Charms
-Architect
 ReplayLogger
 VendorRando
 Architect
@@ -19,3 +15,5 @@ Trial of Crusaders
 Architect
 BugPrince
 ReplayLogger
+Architect
+VendorRando

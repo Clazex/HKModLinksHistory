@@ -1,8 +1,5 @@
-AccessRandomizer
 Architect
-DPSMeter
-DivineFury
-EnchantedMask
-Hivesong
+CustomizableAbilities
+ExaltationExpanded
+Extra Rando
 MetalOST
-VendorRando
