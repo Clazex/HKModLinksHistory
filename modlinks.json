@@ -408,11 +408,11 @@
   },
   "Architect": {
     "description": "A level editor mod, allowing you to customise Hollow Knight by adding or removing platforms, enemies and more with an in-game level editor and level sharer.",
-    "version": "1.15.0.0",
+    "version": "1.16.0.0",
     "links": {
       "type": "universal",
-      "sha256": "0E47CEF7A932A58533B660A5A8B57C1AFFBEB8C11BDAB420A313DD6B014346C5",
-      "url": "https://github.com/cometcake575/Architect/releases/download/1.15.0.0/Architect.zip"
+      "sha256": "A6322F721EAA654B976984A060938595C1E62CD0EDB7E11C92BF6903038AD25E",
+      "url": "https://github.com/cometcake575/Architect/releases/download/1.16.0.0/Architect.zip"
     },
     "dependencies": [
       "MagicUI",
@@ -2676,13 +2676,14 @@
   },
   "EnchantedMask": {
     "description": "Adds new powerups called Glyphs, which can be purchased from the Mask maker.",
-    "version": "1.1.1.0",
+    "version": "1.2.0.0",
     "links": {
       "type": "universal",
-      "sha256": "244B8716ED76A919B4ABF8D749B66C5D1D6B085EE5F7CD6B0CC0C3CEAB188842",
-      "url": "https://github.com/danielstegink/HollowKnight.EnchantedMask/releases/download/1.1.1.0/EnchantedMask.zip"
+      "sha256": "C8944B1BCFF5B7BB9946F551E97E0A5F7FD0739F3255B58305FB22997AE0B242",
+      "url": "https://github.com/danielstegink/HollowKnight.EnchantedMask/releases/download/1.2.0.0/EnchantedMask.zip"
     },
     "dependencies": [
+      "DanielSteginkUtils",
       "DebugMod",
       "ItemChanger",
       "SFCore",
@@ -2690,10 +2691,6 @@
     ],
     "repository": "https://github.com/danielstegink/HollowKnight.EnchantedMask",
     "issues": "https://github.com/danielstegink/HollowKnight.EnchantedMask/issues",
-    "integrations": [
-      "Pale Court",
-      "Pale Court Charms"
-    ],
     "tags": [
       "Gameplay"
     ],
@@ -2826,13 +2823,14 @@
   },
   "ExaltationExpanded": {
     "description": "A fan-made supplement to the Exaltation mod created by Xhuis (and ported/updated by Théodore).",
-    "version": "1.1.1.0",
+    "version": "1.2.0.0",
     "links": {
       "type": "universal",
-      "sha256": "640E6DA1FCED1E1B6659DF5F7EB68BA73C2BA949C1E742403421B2F3C6585074",
-      "url": "https://github.com/danielstegink/HollowKnight.ExaltationExpanded/releases/download/1.1.1.0/ExaltationExpanded.zip"
+      "sha256": "56DC6F034EFF766A2B581C98CF3E312560B95D593EE0379B6A243A04D29B4088",
+      "url": "https://github.com/danielstegink/HollowKnight.ExaltationExpanded/releases/download/1.2.0.0/ExaltationExpanded.zip"
     },
     "dependencies": [
+      "DanielSteginkUtils",
       "Exaltation",
       "HKMirror",
       "ItemChanger",

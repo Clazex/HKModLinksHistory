@@ -53,7 +53,7 @@
 
 ### Architect
 
-- Version: 1.12.0.1 -> 1.15.0.0
+- Version: 1.12.1.0 -> 1.16.0.0
 
 ### BugPrince
 
@@ -61,7 +61,21 @@
 
 ### EnchantedMask
 
-- Version: 1.1.0.0 -> 1.1.1.0
+- Version: 1.1.0.0 -> 1.2.0.0
+- Dependencies
+  + Added
+    - DanielSteginkUtils
+- Integrations
+  + Removed
+    - Pale Court
+    - Pale Court Charms
+
+### ExaltationExpanded
+
+- Version: 1.1.1.0 -> 1.2.0.0
+- Dependencies
+  + Added
+    - DanielSteginkUtils
 
 ### Extra Rando
 
@@ -81,7 +95,7 @@
 
 ### ReplayLogger
 
-- Version: 1.0.0.1 -> 1.0.0.3
+- Version: 1.0.0.2 -> 1.0.0.3
 
 ### TreasureHunt
 
@@ -93,5 +107,5 @@
 
 ### VendorRando
 
-- Version: 1.0.0.2 -> 1.0.0.4
+- Version: 1.0.0.3 -> 1.0.0.4
 

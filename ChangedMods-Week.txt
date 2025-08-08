@@ -1,7 +1,4 @@
 Architect
-ReplayLogger
-VendorRando
-Architect
 Charm Editor
 EnchantedMask
 Fishing
@@ -23,3 +20,6 @@ ReplayLogger
 Architect
 DanielSteginkUtils
 VendorRando
+Architect
+EnchantedMask
+ExaltationExpanded

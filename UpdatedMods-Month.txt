@@ -1,6 +1,4 @@
 Architect
-ShowHPOnDeath
-Architect
 Architect
 ShowHPOnDeath
 Architect
@@ -92,3 +90,6 @@ BugPrince
 ReplayLogger
 Architect
 VendorRando
+Architect
+EnchantedMask
+ExaltationExpanded

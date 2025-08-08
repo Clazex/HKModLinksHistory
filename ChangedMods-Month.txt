@@ -1,6 +1,4 @@
 Architect
-ShowHPOnDeath
-Architect
 Architect
 OWO_HollowKnight
 ShowHPOnDeath
@@ -117,3 +115,6 @@ ReplayLogger
 Architect
 DanielSteginkUtils
 VendorRando
+Architect
+EnchantedMask
+ExaltationExpanded

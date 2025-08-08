@@ -48,13 +48,11 @@
 
 - Description: Adds new powerups called Glyphs, which can be purchased from the Mask maker.
 - Dependencies
+  + DanielSteginkUtils
   + DebugMod
   + ItemChanger
   + SFCore
   + Satchel
-- Integrations
-  + Pale Court
-  + Pale Court Charms
 - Tags
   + Gameplay
 
@@ -224,7 +222,7 @@
 
 ### Architect
 
-- Version: 1.8.2.1 -> 1.15.0.0
+- Version: 1.8.4.0 -> 1.16.0.0
 - Description
   + Old: A mod to add/remove platforms, enemies and more to change areas in the game with an in-game level editor and level sharer.
   + New: A level editor mod, allowing you to customise Hollow Knight by adding or removing platforms, enemies and more with an in-game level editor and level sharer.
@@ -266,9 +264,10 @@
 
 ### ExaltationExpanded
 
-- Version: 1.0.2.0 -> 1.1.1.0
+- Version: 1.0.2.0 -> 1.2.0.0
 - Dependencies
   + Added
+    - DanielSteginkUtils
     - Satchel
 - Integrations
   + Added
@@ -332,7 +331,7 @@
 
 ### ShowHPOnDeath
 
-- Version: 1.1.1.0 -> 1.3.0.0
+- Version: 1.1.2.0 -> 1.3.0.0
 
 ### SpeedChanger
 
