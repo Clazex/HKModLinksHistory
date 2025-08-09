@@ -1,5 +1,4 @@
 Architect
-Architect
 OWO_HollowKnight
 ShowHPOnDeath
 Architect
@@ -118,3 +117,5 @@ VendorRando
 Architect
 EnchantedMask
 ExaltationExpanded
+Architect
+Pale Court Charms

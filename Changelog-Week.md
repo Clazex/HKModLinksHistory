@@ -3,12 +3,6 @@
 
 ## New mods
 
-### Charm Editor
-
-- Description: This mod allows you to change charm notches and dashmaster
-- Tags
-  + Utility
-
 ### DanielSteginkUtils
 
 - Description: Custom library with calculations, logic and cross-mod helpers.
@@ -53,15 +47,19 @@
 
 ### Architect
 
-- Version: 1.12.1.0 -> 1.16.0.0
+- Version: 1.12.4.0 -> 1.16.0.1
 
 ### BugPrince
 
 - Version: 1.4.2.0 -> 1.4.3.0
 
+### Charm Editor
+
+- Version: 1.0.0.0 -> 1.1.0.0
+
 ### EnchantedMask
 
-- Version: 1.1.0.0 -> 1.2.0.0
+- Version: 1.1.1.0 -> 1.2.0.0
 - Dependencies
   + Added
     - DanielSteginkUtils
@@ -81,17 +79,13 @@
 
 - Version: 0.8.0.0 -> 0.9.0.0
 
-### Fishing
-
-- Version: 1.0.0.0 -> 1.0.1.0
-
 ### KorzUtils
 
 - Version: 0.9.0.0 -> 0.10.0.0
 
 ### Pale Court Charms
 
-- Version: 1.0.0.1 -> 1.1.1.0
+- Version: 1.0.0.1 -> 1.1.3.0
 
 ### ReplayLogger
 

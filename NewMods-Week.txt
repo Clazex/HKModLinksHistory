@@ -1,4 +1,3 @@
-Charm Editor
 FrameLimiter
 Less Flashing Lights
 OnlyBosses

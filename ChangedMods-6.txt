@@ -1,4 +1,7 @@
 Architect
 Charm Editor
-EnchantedMask
-Fishing
+FrameLimiter
+Less Flashing Lights
+OnlyBosses
+Pale Court Charms
+TreasureHunt

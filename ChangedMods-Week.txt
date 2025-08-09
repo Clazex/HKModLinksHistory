@@ -1,9 +1,5 @@
 Architect
 Charm Editor
-EnchantedMask
-Fishing
-Architect
-Charm Editor
 FrameLimiter
 Less Flashing Lights
 OnlyBosses
@@ -23,3 +19,5 @@ VendorRando
 Architect
 EnchantedMask
 ExaltationExpanded
+Architect
+Pale Court Charms

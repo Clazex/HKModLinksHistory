@@ -1,7 +1,4 @@
 Architect
-EnchantedMask
-Fishing
-Architect
 Charm Editor
 Pale Court Charms
 TreasureHunt
@@ -17,3 +14,5 @@ VendorRando
 Architect
 EnchantedMask
 ExaltationExpanded
+Architect
+Pale Court Charms
