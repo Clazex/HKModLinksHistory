@@ -1,7 +1,6 @@
 Architect
-EnchantedMask
+BaldurRngConfig
+Extra Rando
+Faction Elimination
 MotionBlur
-SkillCharms
-SpeedChanger
-VendorRando
-WrathOfTheSwarm
+Pale Court Charms

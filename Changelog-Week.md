@@ -11,14 +11,6 @@
 - Tags
   + Library
 
-### FrameLimiter
-
-- Description: Can limit fps to whatever you like (can be usefull for frame specific skips)
-- Dependencies
-  + Satchel
-- Tags
-  + Utility
-
 ### Galien Illusionist
 
 - Description: Modboss. Now there will be two galiens in the arena, one of which is not real.
@@ -27,35 +19,16 @@
 - Tags
   + Boss
 
-### Less Flashing Lights
-
-- Description: Reduces the amount of flashing lights. Check the readme for more info
-- Dependencies
-  + Satchel
-- Tags
-  + Utility
-
-### OnlyBosses
-
-- Description: OnlyBosses is an alternative to TheHuntIsOn enemy module (which removes basic enemies), but since it got removed this mod is here.
-- Tags
-  + Gameplay
-  + Utility
-
 
 ## Updated mods
 
 ### Architect
 
-- Version: 1.12.4.0 -> 1.16.0.1
+- Version: 1.12.4.1 -> 1.16.0.1
 
 ### BugPrince
 
 - Version: 1.4.2.0 -> 1.4.3.0
-
-### Charm Editor
-
-- Version: 1.0.0.0 -> 1.1.0.0
 
 ### EnchantedMask
 
@@ -85,15 +58,11 @@
 
 ### Pale Court Charms
 
-- Version: 1.0.0.1 -> 1.1.3.0
+- Version: 1.1.1.0 -> 1.1.3.0
 
 ### ReplayLogger
 
-- Version: 1.0.0.2 -> 1.0.0.3
-
-### TreasureHunt
-
-- Version: 1.6.1.0 -> 1.6.3.0
+- Version: 1.0.0.2 -> 1.0.0.4
 
 ### Trial of Crusaders
 

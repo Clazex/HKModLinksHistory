@@ -1,5 +1,6 @@
 Architect
-DivineFury
-GearSwitcher
-MetalOST
-ReplayLogger
+CustomizableAbilities
+HKMP.VoiceChat
+Pale Court Charms
+SFCore
+SkillCharms

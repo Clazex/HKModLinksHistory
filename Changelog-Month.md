@@ -126,14 +126,6 @@
 - Tags
   + Gameplay
 
-### OWO_HollowKnight
-
-- Description: A mod that allows the integration of OWO Skin haptic device with HK
-- Dependencies
-  + Satchel
-- Tags
-  + Utility
-
 ### OnlyBosses
 
 - Description: OnlyBosses is an alternative to TheHuntIsOn enemy module (which removes basic enemies), but since it got removed this mod is here.
@@ -222,7 +214,7 @@
 
 ### Architect
 
-- Version: 1.8.5.3 -> 1.16.0.1
+- Version: 1.8.5.5 -> 1.16.0.1
 - Description
   + Old: A mod to add/remove platforms, enemies and more to change areas in the game with an in-game level editor and level sharer.
   + New: A level editor mod, allowing you to customise Hollow Knight by adding or removing platforms, enemies and more with an in-game level editor and level sharer.
@@ -331,7 +323,7 @@
 
 ### ShowHPOnDeath
 
-- Version: 1.1.2.0 -> 1.3.0.0
+- Version: 1.2.0.0 -> 1.3.0.0
 
 ### SpeedChanger
 

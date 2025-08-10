@@ -1,6 +1,4 @@
 Architect
-EnchantedMask
+Extra Rando
 MotionBlur
-SkillCharms
-SpeedChanger
-VendorRando
+Pale Court Charms

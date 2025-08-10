@@ -6792,9 +6792,9 @@ Enjoy!</Description>
     <Manifest>
         <Name>KorzUtils</Name>
         <Description>Library mod that provide useful functions for other mods.</Description>
-        <Version>0.9.0.0</Version>
-        <Link SHA256="63d6c14c8bb547e565bc2849313da9e4ff28bcdad72633cdb77f2b4fd47c1a2e">
-            <![CDATA[https://github.com/Korzer420/KorzUtils/releases/download/v0.9.0/KorzUtils.zip]]></Link>
+        <Version>0.10.0.0</Version>
+        <Link SHA256="0d378a796e4e6bae5e2965ba5b136c210e806926d22d3d0ff59432161e6db6e6">
+            <![CDATA[https://github.com/Korzer420/KorzUtils/releases/download/v0.10.0/KorzUtils.zip]]></Link>
         <Dependencies>
         </Dependencies>
         <Repository>
@@ -6850,9 +6850,9 @@ Enjoy!</Description>
     <Manifest>
         <Name>Extra Rando</Name>
         <Description>Randomizer 4 connection with miscellaneous settings.</Description>
-        <Version>0.8.0.0</Version>
-        <Link SHA256="c2c067e7ceb7213e1211c616a95a13b831012fee9da940f3327d293b0d191ee0">
-            <![CDATA[https://github.com/Korzer420/ExtraRando/releases/download/v0.8.0/ExtraRando.zip]]></Link>
+        <Version>0.9.0.0</Version>
+        <Link SHA256="2c9e186c61137b1ea1a8de135d574a0a8a4426b2bc85ac2d356620e14ec4e943">
+            <![CDATA[https://github.com/Korzer420/ExtraRando/releases/download/v0.9.0/ExtraRando.zip]]></Link>
         <Dependencies>
             <Dependency>Randomizer 4</Dependency>
             <Dependency>KorzUtils</Dependency>
@@ -6912,9 +6912,9 @@ Enjoy!</Description>
     <Manifest>
         <Name>Trial of Crusaders</Name>
         <Description>A rogue-like mod inspired by Dead Cells, Binding of Isaac and Blue Prince.</Description>
-        <Version>0.2.5.0</Version>
-        <Link SHA256="4b5aa40ab14c1d1ec979f81eadcc8fc2a22a5b6a8cf336cef3b2c3056161d4c5">
-            <![CDATA[https://github.com/Korzer420/TrialOfCrusaders/releases/download/v0.2.5/TrialOfCrusaders.zip]]></Link>
+        <Version>0.3.0.0</Version>
+        <Link SHA256="14f268cda82621fbfc2d497eb3e67521b11c6fd420e531eab4e0d6bb24b97c26">
+            <![CDATA[https://github.com/Korzer420/TrialOfCrusaders/releases/download/v0.3.0/TrialOfCrusaders.zip]]></Link>
         <Dependencies>
             <Dependency>SFCore</Dependency>
             <Dependency>KorzUtils</Dependency>
@@ -9547,9 +9547,9 @@ Enjoy!</Description>
     <Manifest>
         <Name>Architect</Name>
         <Description>A level editor mod, allowing you to customise Hollow Knight by adding or removing platforms, enemies and more with an in-game level editor and level sharer.</Description>
-        <Version>1.12.4.1</Version>
-        <Link SHA256="47adb8105f03b303fe13cb4f2d04e559f28b3654ca9feb0fd8a95b9e591bedf3">
-            <![CDATA[https://github.com/cometcake575/Architect/releases/download/1.12.4.1/Architect.zip]]>
+        <Version>1.14.1.0</Version>
+        <Link SHA256="f6affbcebd52eb648d8f458e26d0d2126cd870772cefc6f903379c972a91d245">
+            <![CDATA[https://github.com/cometcake575/Architect/releases/download/1.14.1.0/Architect.zip]]>
         </Link>
         <Dependencies>
             <Dependency>Satchel</Dependency>

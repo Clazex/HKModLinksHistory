@@ -2104,7 +2104,7 @@
     "version": "1.0.1.0",
     "links": {
       "type": "universal",
-      "sha256": "DA8BEAEE595475812E61C95AF860407A1A485E1DA86467DC525155B1C175BC8E",
+      "sha256": "FDE9BE5F11F103409BBF680F915B7DD9389E42915C03712B5D38BE7C367080DD",
       "url": "https://github.com/danielstegink/HollowKnight.DanielSteginkUtils/releases/download/1.0.1.0/DanielSteginkUtils.zip"
     },
     "dependencies": [
@@ -7526,11 +7526,11 @@
   },
   "ReplayLogger": {
     "description": "ReplayLoger is a mod that was created to verify the legitimacy of player challenge runs.",
-    "version": "1.0.0.3",
+    "version": "1.0.0.4",
     "links": {
       "type": "universal",
-      "sha256": "65CA031FBB24EC8CD1997BFCFEFAEC1254DAC988367CDC4ECD6ADC080F0DC176",
-      "url": "https://github.com/MorozicH20/ReplayLogger/releases/download/v1.0.0.3/ReplayLogger.zip"
+      "sha256": "FB203F9E927D95F409DFA81A047C431B524F540017D26BF02ED2C1AF78700DC3",
+      "url": "https://github.com/MorozicH20/ReplayLogger/releases/download/v1.0.0.4/ReplayLogger.zip"
     },
     "dependencies": [],
     "repository": "https://github.com/MorozicH20/ReplayLogger",

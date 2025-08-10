@@ -293,6 +293,22 @@ Not recommended for use in new mods.</Description>
         </Authors>
     </Manifest>
     <Manifest>
+        <Name>SkillCharms</Name>
+        <Description>Skills are now equippable charms</Description>
+        <Version>1.0.0.0</Version>
+        <Link SHA256="57FCDE3D3D26176F487B975F68FD758D3FDE39B75574C04F4FED307A5B6326D2"><![CDATA[https://github.com/TheMathGeek314/SkillCharms/releases/download/v1.0.0.0/SkillCharms.zip]]></Link>
+        <Dependencies>
+            <Dependency>Satchel</Dependency>
+            <Dependency>SFCore</Dependency>
+        </Dependencies>
+        <Repository>
+            <![CDATA[https://github.com/TheMathGeek314/SkillCharms/]]>
+        </Repository>
+        <Authors>
+            <Author>TheMathGeek_314</Author>
+        </Authors>
+    </Manifest>
+    <Manifest>
         <Name>VendorRando</Name>
         <Description>A Randomizer add-on that randomizes the physical locations of vendors</Description>
         <Version>1.0.0.1</Version>
@@ -3569,9 +3585,9 @@ All with an incredible new soundtrack!</Description>
         <Name>SFCore</Name>
         <DisplayName>SFCore</DisplayName>
         <Description>Library mod used by other mods.</Description>
-        <Version>1.5.14.14</Version>
-        <Link SHA256="321D6E7E60DA1473F16D3FA258B0BFC1DE638867C0628B1C9352D6DDA93C8F4A">
-            <![CDATA[https://github.com/SFGrenade/SFCore/releases/download/v1.5.14.14/SFCore.zip]]>
+        <Version>1.5.14.15</Version>
+        <Link SHA256="3D3CFCF833E872A2EA3DAEC84FD5A2F6896E0B94E7841D5ECE740D631E1AAF12">
+            <![CDATA[https://github.com/SFGrenade/SFCore/releases/download/v1.5.14.15/SFCore.zip]]>
         </Link>
         <Dependencies />
         <Repository>
@@ -9338,9 +9354,9 @@ Enjoy!</Description>
     <Manifest>
         <Name>Architect</Name>
         <Description>A mod to add/remove platforms, enemies and more to change areas in the game with an in-game level editor and level sharer.</Description>
-        <Version>1.10.8.1</Version>
-        <Link SHA256="0f11f92837b4a2820d827304fce0bab41bc33a95def04b99408f62a035e30889">
-            <![CDATA[https://github.com/cometcake575/Architect/releases/download/1.10.8.1/Architect.zip]]>
+        <Version>1.10.9.2</Version>
+        <Link SHA256="afcafa60d1e39310d61ff0c759e0a878f00b1768720e37a0932955963be10acc">
+            <![CDATA[https://github.com/cometcake575/Architect/releases/download/1.10.9.2/Architect.zip]]>
         </Link>
         <Dependencies>
             <Dependency>Satchel</Dependency>
@@ -9426,9 +9442,9 @@ Enjoy!</Description>
     <Manifest>
         <Name>CustomizableAbilities</Name>
         <Description>Mod that allows you to customize abilities: negative and fractional nail; the amount of SOUL received from nail hits; nail cooldown; damage (also negative and fractional) and the amount of SOUL received from dream nail; spells and other abilities. Negative damage heals enemies.</Description>
-        <Version>1.3.4.0</Version>
-        <Link SHA256="1216ae8ae1c51c7d056143f6d2663dd42202f117f819cac03f404ae4e4a7426d">
-            <![CDATA[https://github.com/kon4ino/CustomizableAbilities/releases/download/1.3.4.0/CustomizableNailDamage.zip]]>
+        <Version>1.3.4.1</Version>
+        <Link SHA256="ce975c343efc70596115ef0c3f3da7254e6f4fc272f521699aec0b37697adb5e">
+            <![CDATA[https://github.com/kon4ino/CustomizableAbilities/releases/download/1.3.4.1/CustomizableNailDamage.zip]]>
         </Link>
         <Dependencies>
             <Dependency>Satchel</Dependency>
@@ -9641,5 +9657,104 @@ Enjoy!</Description>
         <Authors>
             <Author>kon4ino</Author>
         </Authors>
+    </Manifest>
+    <Manifest>
+        <Name>Pale Court Charms</Name>
+        <Description>Adds charms from Pale Court. Made to allow compatibility with mods that don't work with the main Pale Court. Works with Randomizer.</Description>
+        <Version>1.0.0.0</Version>
+        <Link SHA256="DEE20D5D00966B73034D27FCAC84064097444872E90E0A896BA4F940F08E6C2B">
+            <![CDATA[https://github.com/Roma-337/PaleCourtCharms/releases/download/v1.0.0/PaleCourtCharms.zip]]>
+        </Link>
+        <Dependencies>
+            <Dependency>ItemChanger</Dependency>
+            <Dependency>SFCore</Dependency>
+        </Dependencies>
+        <Repository>
+            <![CDATA[https://github.com/Roma-337/PaleCourtCharms]]>
+        </Repository>
+        <Integrations>
+            <Integration>Randomizer 4</Integration>
+            <Integration>RandoSettingsManager</Integration>
+        </Integrations>
+        <Tags>
+            <Tag>Gameplay</Tag>
+        </Tags>
+        <Authors>
+            <Author>Roma 337</Author>
+            <Author>MEBI</Author>
+            <Author>Zaliant</Author>
+            <Author>Saleh</Author>
+            <Author>HooKnows</Author>
+            <Author>RiverRobot</Author>
+            <Author>RedFrog</Author>
+            <Author>SFGrenade</Author>
+            <Author>Clazex</Author>
+            <Author>Jngo102</Author>
+            <Author>TheGreatGallus</Author>
+            <Author>56</Author>
+            <Author>Link459</Author>
+            <Author>Chaktis</Author>
+            <Author>KitsuneMedia</Author>
+            <Author>FoldingPapers</Author>
+            <Author>Gauthier</Author>
+            <Author>CarsonComposes</Author>
+            <Author>MAT</Author>
+            <Author>SovereignElise</Author>
+            <Author>Rotten Legacy</Author>
+            <Author>mossbag</Author>
+            <Author>Sarart</Author>
+            <Author>JoSeBach</Author>
+            <Author>RocketFire20</Author>
+            <Author>Manno Stone</Author>
+            <Author>HelenSB</Author>
+            <Author>Azerod</Author>
+            <Author>Whisky</Author>
+            <Author>Croissant</Author>
+            <Author>HuntHussle</Author>
+            <Author>General Milky</Author>
+            <Author>Knightmere</Author>
+            <Author>Erie</Author>
+            <Author>Spoonsei</Author>
+            <Author>Pan</Author>
+            <Author>DwarfWoot</Author>
+            <Author>Schy</Author>
+            <Author>Alprechim</Author>
+            <Author>ygsbzr</Author>
+            <Author>Yisrael</Author>
+            <Author>KamaKiller</Author>
+            <Author>Piquant Trobbio</Author>
+            <Author>WaxOcelot</Author>
+            <Author>Plush</Author>
+            <Author>ShadicD20</Author>
+            <Author>Chrome</Author>
+            <Author>Exempt-Medic</Author>
+            <Author>CrankyTemplar</Author>
+            <Author>MyPetCactus</Author>
+            <Author>Mulhima</Author>
+            <Author>Frunobulaxian</Author>
+            <Author>AshtinPeaks</Author>
+            <Author>PizzaBox</Author>
+            <Author>Bluevooid</Author>
+            <Author>TheBlueVirus</Author>
+            <Author>Dark_Prelate</Author>
+            <Author>Nerthul11</Author>
+            <Author>Hotspring</Author>
+            <Author>Lethal_Vessel</Author>
+            <Author>Risto The Chicken</Author>
+        </Authors>
+    </Manifest>
+    <Manifest>
+        <Name>HKMP.VoiceChat</Name>
+        <Description>An HKMP addon that adds (proximity) voice chat. Requires OpenAL (https://www.openal.org/) to be installed.</Description>
+        <Version>0.1.0.0</Version>
+        <Link SHA256="cfbc1e3d2bd1d1d9ebc3856e4ebabf6e9c7e896cec6a26982c710abf1e4424e5">
+            <![CDATA[https://github.com/Extremelyd1/HKMP.VoiceChat/releases/download/v0.1.0/HKMPVoiceChat.zip]]>
+        </Link>
+        <Dependencies>
+            <Dependency>HKMP</Dependency>
+        </Dependencies>
+        <Repository>
+            <![CDATA[https://github.com/Extremelyd1/HKMP.VoiceChat/]]>
+        </Repository>
     </Manifest>
 </ModLinks>

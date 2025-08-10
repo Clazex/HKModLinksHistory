@@ -1,11 +1,4 @@
 Architect
-Charm Editor
-FrameLimiter
-Less Flashing Lights
-OnlyBosses
-Pale Court Charms
-TreasureHunt
-Architect
 Extra Rando
 KorzUtils
 Trial of Crusaders
@@ -21,3 +14,4 @@ EnchantedMask
 ExaltationExpanded
 Architect
 Pale Court Charms
+ReplayLogger

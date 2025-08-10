@@ -1,7 +1,4 @@
 Architect
-OWO_HollowKnight
-ShowHPOnDeath
-Architect
 ShowHPOnDeath
 Architect
 CustomizableNailDamage
@@ -119,3 +116,4 @@ EnchantedMask
 ExaltationExpanded
 Architect
 Pale Court Charms
+ReplayLogger
