@@ -1,6 +1,4 @@
 Architect
-ShowHPOnDeath
-Architect
 CustomizableNailDamage
 WanderersWisdom
 Architect
@@ -93,3 +91,8 @@ ExaltationExpanded
 Architect
 Pale Court Charms
 ReplayLogger
+Architect
+DanielSteginkUtils
+DivineFury
+Hivesong
+WanderersWisdom

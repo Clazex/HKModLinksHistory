@@ -408,11 +408,11 @@
   },
   "Architect": {
     "description": "A level editor mod, allowing you to customise Hollow Knight by adding or removing platforms, enemies and more with an in-game level editor and level sharer.",
-    "version": "1.16.0.1",
+    "version": "1.16.2.0",
     "links": {
       "type": "universal",
-      "sha256": "E81396C7897C51A77F537CBD08254CCB943EC759028CC540829297DA91DCD43F",
-      "url": "https://github.com/cometcake575/Architect/releases/download/1.16.0.1/Architect.zip"
+      "sha256": "3DEB36708FC7BA01E9C0B30A600A4232852A0949A4B7A8778D92DDD815361810",
+      "url": "https://github.com/cometcake575/Architect/releases/download/1.16.2.0/Architect.zip"
     },
     "dependencies": [
       "MagicUI",
@@ -2101,13 +2101,14 @@
   },
   "DanielSteginkUtils": {
     "description": "Custom library with calculations, logic and cross-mod helpers.",
-    "version": "1.0.1.0",
+    "version": "1.1.0.0",
     "links": {
       "type": "universal",
-      "sha256": "FDE9BE5F11F103409BBF680F915B7DD9389E42915C03712B5D38BE7C367080DD",
-      "url": "https://github.com/danielstegink/HollowKnight.DanielSteginkUtils/releases/download/1.0.1.0/DanielSteginkUtils.zip"
+      "sha256": "C5A488FF36E4DEEBA8F1B89E90E93588AAD3E91CF79226B921BCC413C038BC97",
+      "url": "https://github.com/danielstegink/HollowKnight.DanielSteginkUtils/releases/download/1.1.0.0/DanielSteginkUtils.zip"
     },
     "dependencies": [
+      "ItemChanger",
       "SFCore"
     ],
     "repository": "https://github.com/danielstegink/HollowKnight.DanielSteginkUtils",
@@ -2449,13 +2450,14 @@
   },
   "DivineFury": {
     "description": "This mod adds a new charm: Divine Fury. This charm sets the player's health to 1, allowing Fury of the Fallen to be viable in Radiant Godhome battles.",
-    "version": "1.1.2.0",
+    "version": "1.2.0.0",
     "links": {
       "type": "universal",
-      "sha256": "A6CF1286DD3163BF3A422AA3A7211CA81F94DB394A0A554D38D8F65C7C87528F",
-      "url": "https://github.com/danielstegink/HollowKnight.DivineFury/releases/download/1.1.2.0/DivineFury.zip"
+      "sha256": "3E56A380427AE13A1DAC48200C9FD936FD70E452CCAF5B9B05FAEA8BCDE27FCC",
+      "url": "https://github.com/danielstegink/HollowKnight.DivineFury/releases/download/1.2.0.0/DivineFury.zip"
     },
     "dependencies": [
+      "DanielSteginkUtils",
       "ItemChanger",
       "SFCore",
       "Satchel"
@@ -2464,7 +2466,7 @@
     "issues": "https://github.com/danielstegink/HollowKnight.DivineFury/issues",
     "integrations": [
       "DebugMod",
-      "ExaltationExpanded"
+      "Exaltation"
     ],
     "tags": [
       "Gameplay"
@@ -4417,13 +4419,14 @@
   },
   "Hivesong": {
     "description": "This mod adds a new charm, Hivesong, which increases the damage dealt by pets.",
-    "version": "1.2.1.0",
+    "version": "1.3.0.0",
     "links": {
       "type": "universal",
-      "sha256": "32A4F87FB4847A6CD6A6BA98834A705179E31387FF690C45C3D99907645D9764",
-      "url": "https://github.com/danielstegink/HollowKnight.Hivesong/releases/download/1.2.1.0/Hivesong.zip"
+      "sha256": "8746DAC75D8A2890F2AA816BD92F6A4403C54F382BABEC2FC579C8546F9533EC",
+      "url": "https://github.com/danielstegink/HollowKnight.Hivesong/releases/download/1.3.0.0/Hivesong.zip"
     },
     "dependencies": [
+      "DanielSteginkUtils",
       "ItemChanger",
       "SFCore",
       "Satchel"
@@ -4432,7 +4435,7 @@
     "issues": "https://github.com/danielstegink/HollowKnight.Hivesong/issues",
     "integrations": [
       "DebugMod",
-      "ExaltationExpanded"
+      "Exaltation"
     ],
     "tags": [
       "Gameplay"
@@ -9306,18 +9309,22 @@
   },
   "WanderersWisdom": {
     "description": "A mod that adds 2 new charms: Wanderer's Wisdom and Wanderer's Guile.",
-    "version": "1.0.1.0",
+    "version": "1.1.0.0",
     "links": {
       "type": "universal",
-      "sha256": "A52E9294178244CA2F64C82569F490D4C8E50B4111C7DC111CE5145029E853B9",
-      "url": "https://github.com/danielstegink/HollowKnight.WanderersWisdom/releases/download/1.0.1.0/WanderersWisdom.zip"
+      "sha256": "25D9D076116FE40423C9EDF4904F2CC3BBD08678F8D0B323B7D9A353B66B1F52",
+      "url": "https://github.com/danielstegink/HollowKnight.WanderersWisdom/releases/download/1.1.0.0/WanderersWisdom.zip"
     },
     "dependencies": [
+      "DanielSteginkUtils",
       "ItemChanger",
       "SFCore"
     ],
     "repository": "https://github.com/danielstegink/HollowKnight.WanderersWisdom",
     "issues": "https://github.com/danielstegink/HollowKnight.WanderersWisdom/issues",
+    "integrations": [
+      "DebugMod"
+    ],
     "tags": [
       "Gameplay"
     ],

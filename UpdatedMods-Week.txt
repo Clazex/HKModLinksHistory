@@ -1,8 +1,4 @@
 Architect
-Extra Rando
-KorzUtils
-Trial of Crusaders
-Architect
 BugPrince
 ReplayLogger
 Architect
@@ -13,3 +9,8 @@ ExaltationExpanded
 Architect
 Pale Court Charms
 ReplayLogger
+Architect
+DanielSteginkUtils
+DivineFury
+Hivesong
+WanderersWisdom

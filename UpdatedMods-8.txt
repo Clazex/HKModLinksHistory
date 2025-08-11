@@ -1,3 +1,4 @@
 Architect
-EnchantedMask
-Fishing
+Charm Editor
+Pale Court Charms
+TreasureHunt

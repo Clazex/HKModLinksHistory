@@ -40,6 +40,7 @@
 
 - Description: Custom library with calculations, logic and cross-mod helpers.
 - Dependencies
+  + ItemChanger
   + SFCore
 - Tags
   + Library
@@ -214,7 +215,7 @@
 
 ### Architect
 
-- Version: 1.8.5.5 -> 1.16.0.1
+- Version: 1.8.6.0 -> 1.16.2.0
 - Description
   + Old: A mod to add/remove platforms, enemies and more to change areas in the game with an in-game level editor and level sharer.
   + New: A level editor mod, allowing you to customise Hollow Knight by adding or removing platforms, enemies and more with an in-game level editor and level sharer.
@@ -248,11 +249,14 @@
 
 ### DivineFury
 
-- Version: 1.1.0.0 -> 1.1.2.0
+- Version: 1.1.0.0 -> 1.2.0.0
+- Dependencies
+  + Added
+    - DanielSteginkUtils
 - Integrations
   + Added
     - DebugMod
-    - ExaltationExpanded
+    - Exaltation
 
 ### ExaltationExpanded
 
@@ -292,11 +296,14 @@
 
 ### Hivesong
 
-- Version: 1.2.0.0 -> 1.2.1.0
+- Version: 1.2.0.0 -> 1.3.0.0
+- Dependencies
+  + Added
+    - DanielSteginkUtils
 - Integrations
   + Added
     - DebugMod
-    - ExaltationExpanded
+    - Exaltation
 
 ### KorzUtils
 
@@ -323,7 +330,7 @@
 
 ### ShowHPOnDeath
 
-- Version: 1.2.0.0 -> 1.3.0.0
+- Version: 1.2.1.0 -> 1.3.0.0
 
 ### SpeedChanger
 
@@ -363,5 +370,11 @@
 
 ### WanderersWisdom
 
-- Version: 1.0.0.0 -> 1.0.1.0
+- Version: 1.0.0.0 -> 1.1.0.0
+- Dependencies
+  + Added
+    - DanielSteginkUtils
+- Integrations
+  + Added
+    - DebugMod
 
