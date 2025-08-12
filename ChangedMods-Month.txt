@@ -1,7 +1,4 @@
 Architect
-CustomizableNailDamage
-WanderersWisdom
-Architect
 BingoUI
 ReplayLogger
 Scattered and Lost
@@ -120,3 +117,6 @@ DanielSteginkUtils
 DivineFury
 Hivesong
 WanderersWisdom
+Architect
+INFINITY
+Pale Court Charms

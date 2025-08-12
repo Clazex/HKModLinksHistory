@@ -1,8 +1,4 @@
 Architect
-BugPrince
-Galien Illusionist
-ReplayLogger
-Architect
 DanielSteginkUtils
 VendorRando
 Architect
@@ -16,3 +12,6 @@ DanielSteginkUtils
 DivineFury
 Hivesong
 WanderersWisdom
+Architect
+INFINITY
+Pale Court Charms

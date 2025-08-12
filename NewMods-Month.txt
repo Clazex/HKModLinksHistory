@@ -22,3 +22,4 @@ Less Flashing Lights
 OnlyBosses
 Galien Illusionist
 DanielSteginkUtils
+INFINITY

@@ -1,7 +1,4 @@
 Architect
-BugPrince
-ReplayLogger
-Architect
 VendorRando
 Architect
 EnchantedMask
@@ -14,3 +11,5 @@ DanielSteginkUtils
 DivineFury
 Hivesong
 WanderersWisdom
+Architect
+Pale Court Charms

@@ -12,10 +12,11 @@
 - Tags
   + Library
 
-### Galien Illusionist
+### INFINITY
 
-- Description: Modboss. Now there will be two galiens in the arena, one of which is not real.
+- Description: A pure vessel boss mod.
 - Dependencies
+  + HKMirror
   + Vasi
 - Tags
   + Boss
@@ -25,11 +26,7 @@
 
 ### Architect
 
-- Version: 1.14.1.0 -> 1.16.2.0
-
-### BugPrince
-
-- Version: 1.4.2.0 -> 1.4.3.0
+- Version: 1.14.5.0 -> 1.16.3.0
 
 ### DivineFury
 
@@ -75,11 +72,17 @@
 
 ### Pale Court Charms
 
-- Version: 1.1.1.0 -> 1.1.3.0
+- Version: 1.1.1.0 -> 1.2.0.0
+- Description
+  + Old: Adds charms from Pale Court. Made to allow compatibility with mods that don&#x27;t work with the main Pale Court. Works with Randomizer.
+  + New: Adds charms from Pale Court. Made to allow compatibility with mods that don&#x27;t work with the main Pale Court. Works with Randomizer and Transcendence.
+- Integrations
+  + Added
+    - Transcendence
 
 ### ReplayLogger
 
-- Version: 1.0.0.2 -> 1.0.0.4
+- Version: 1.0.0.3 -> 1.0.0.4
 
 ### VendorRando
 

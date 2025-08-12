@@ -1,7 +1,4 @@
 Architect
-CustomizableNailDamage
-WanderersWisdom
-Architect
 BingoUI
 Scattered and Lost
 Architect
@@ -96,3 +93,5 @@ DanielSteginkUtils
 DivineFury
 Hivesong
 WanderersWisdom
+Architect
+Pale Court Charms

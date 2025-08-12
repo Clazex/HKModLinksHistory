@@ -89,6 +89,15 @@
 - Dependencies
   + HKMP
 
+### INFINITY
+
+- Description: A pure vessel boss mod.
+- Dependencies
+  + HKMirror
+  + Vasi
+- Tags
+  + Boss
+
 ### Less Flashing Lights
 
 - Description: Reduces the amount of flashing lights. Check the readme for more info
@@ -136,13 +145,14 @@
 
 ### Pale Court Charms
 
-- Description: Adds charms from Pale Court. Made to allow compatibility with mods that don&#x27;t work with the main Pale Court. Works with Randomizer.
+- Description: Adds charms from Pale Court. Made to allow compatibility with mods that don&#x27;t work with the main Pale Court. Works with Randomizer and Transcendence.
 - Dependencies
   + ItemChanger
   + SFCore
 - Integrations
   + RandoSettingsManager
   + Randomizer 4
+  + Transcendence
 - Tags
   + Gameplay
 
@@ -215,7 +225,7 @@
 
 ### Architect
 
-- Version: 1.8.6.0 -> 1.16.2.0
+- Version: 1.8.6.1 -> 1.16.3.0
 - Description
   + Old: A mod to add/remove platforms, enemies and more to change areas in the game with an in-game level editor and level sharer.
   + New: A level editor mod, allowing you to customise Hollow Knight by adding or removing platforms, enemies and more with an in-game level editor and level sharer.
@@ -234,9 +244,9 @@
 
 ### CustomizableNailDamage
 
-- Version: 1.3.0.0 -> 9.9.9.9
+- Version: 1.3.1.0 -> 9.9.9.9
 - Description
-  + Old: Mod that allows you to change the damage of the nail, including negative and fractional. Negative nail will heal enemies.
+  + Old: Mod that allows you to change the damage of the nail, including negative and fractional values, and also the amount of soul received from nail hits. Negative nail damage heals enemies.
   + New: Dummy mod. Install the dependency &quot;CustomizableAbilities&quot; directly.
 - Dependencies
   + Removed
@@ -370,7 +380,7 @@
 
 ### WanderersWisdom
 
-- Version: 1.0.0.0 -> 1.1.0.0
+- Version: 1.0.1.0 -> 1.1.0.0
 - Dependencies
   + Added
     - DanielSteginkUtils
