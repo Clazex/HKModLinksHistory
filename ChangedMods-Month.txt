@@ -1,8 +1,4 @@
 Architect
-BingoUI
-ReplayLogger
-Scattered and Lost
-Architect
 Architect
 CustomizableAbilities
 CustomizableNailDamage
@@ -120,3 +116,8 @@ WanderersWisdom
 Architect
 INFINITY
 Pale Court Charms
+Architect
+Breakable Wall Randomizer
+PURITY
+Sunset Samsara II
+YetAnotherRandoConnection

@@ -143,6 +143,15 @@
   + Gameplay
   + Utility
 
+### PURITY
+
+- Description: New Version of &quot;Sunset Samsara II&quot;. Modded Radiance.
+- Dependencies
+  + HKMirror
+  + Vasi
+- Tags
+  + Boss
+
 ### Pale Court Charms
 
 - Description: Adds charms from Pale Court. Made to allow compatibility with mods that don&#x27;t work with the main Pale Court. Works with Randomizer and Transcendence.
@@ -165,10 +174,6 @@
 ### RainbowFlukes
 
 - Description: The flukes are rainbow!
-
-### ReplayLogger
-
-- Description: ReplayLoger is a mod that was created to verify the legitimacy of player challenge runs.
 
 ### SafeGodseekerQoL
 
@@ -208,6 +213,21 @@
 
 - Description: Use Gathering Swarm as a weapon
 
+### YetAnotherRandoConnection
+
+- Description: A Randomizer add-on with an assortment of additions
+- Dependencies
+  + ConnectionMetadataInjector
+  + ItemChanger
+  + MenuChanger
+  + Randomizer 4
+  + RandomizerCore
+  + RandomizerCore.Json
+  + Satchel
+- Integrations
+  + CondensedSpoilerLogger
+  + RandoSettingsManager
+
 
 ## Updated mods
 
@@ -225,18 +245,18 @@
 
 ### Architect
 
-- Version: 1.8.6.1 -> 1.16.3.0
+- Version: 1.8.6.2 -> 1.16.4.0
 - Description
   + Old: A mod to add/remove platforms, enemies and more to change areas in the game with an in-game level editor and level sharer.
   + New: A level editor mod, allowing you to customise Hollow Knight by adding or removing platforms, enemies and more with an in-game level editor and level sharer.
 
 ### BingoUI
 
-- Version: 2.1.2.2 -> 2.2.0.1
+- Version: 2.2.0.0 -> 2.2.0.1
 
 ### Breakable Wall Randomizer
 
-- Version: 4.0.0.6 -> 4.0.1.0
+- Version: 4.0.0.6 -> 4.0.1.1
 
 ### BugPrince
 
@@ -327,16 +347,17 @@
 
 - Version: 1.0.2.0 -> 1.0.4.0
 
+### ReplayLogger
+
+- Version: 1.0.0.0 -> 1.0.0.4
+
 ### SFCore
 
 - Version: 1.5.14.14 -> 1.5.14.15
 
 ### Scattered and Lost
 
-- Version: 1.5.0.0 -> 1.5.2.1
-- Integrations
-  + Added
-    - Architect
+- Version: 1.5.1.0 -> 1.5.2.1
 
 ### ShowHPOnDeath
 
@@ -365,6 +386,22 @@
 - Integrations
   + Added
     - StoriesOfaHkPlayer-Ch1
+
+### Sunset Samsara II
+
+- Version: 1.0.0.1 -> 9.9.9.9
+- Description
+  + Old: Modded Radiance. WARNING: Currently the mod&#x27;s download is slightly special. Go to the mod&#x27;s folder and move the .dll files one folder up.
+  + New: Dummy mod. Install the dependency &quot;PURITY&quot; directly.
+- Dependencies
+  + Removed
+    - HKMirror
+    - Vasi
+  + Added
+    - PURITY
+- Tags
+  + Added
+    - Boss
 
 ### TheHuntIsOn
 

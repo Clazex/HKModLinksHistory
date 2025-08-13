@@ -1,6 +1,4 @@
 Architect
-VendorRando
-Architect
 EnchantedMask
 ExaltationExpanded
 Architect
@@ -13,3 +11,6 @@ Hivesong
 WanderersWisdom
 Architect
 Pale Court Charms
+Architect
+Breakable Wall Randomizer
+Sunset Samsara II

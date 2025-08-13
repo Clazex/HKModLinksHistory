@@ -1,7 +1,4 @@
 Architect
-BingoUI
-Scattered and Lost
-Architect
 Architect
 CustomizableNailDamage
 SpeedChanger
@@ -95,3 +92,6 @@ Hivesong
 WanderersWisdom
 Architect
 Pale Court Charms
+Architect
+Breakable Wall Randomizer
+Sunset Samsara II

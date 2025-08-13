@@ -1,50 +1,31 @@
 # Changelog
 
 
+## New mods
+
+### INFINITY
+
+- Description: A pure vessel boss mod.
+- Dependencies
+  + HKMirror
+  + Vasi
+- Tags
+  + Boss
+
+
 ## Updated mods
 
 ### Architect
 
-- Version: 1.16.0.1 -> 1.16.2.0
+- Version: 1.16.2.0 -> 1.16.3.0
 
-### DanielSteginkUtils
+### Pale Court Charms
 
-- Version: 1.0.1.0 -> 1.1.0.0
-- Dependencies
-  + Added
-    - ItemChanger
-
-### DivineFury
-
-- Version: 1.1.2.0 -> 1.2.0.0
-- Dependencies
-  + Added
-    - DanielSteginkUtils
-- Integrations
-  + Removed
-    - ExaltationExpanded
-  + Added
-    - Exaltation
-
-### Hivesong
-
-- Version: 1.2.1.0 -> 1.3.0.0
-- Dependencies
-  + Added
-    - DanielSteginkUtils
-- Integrations
-  + Removed
-    - ExaltationExpanded
-  + Added
-    - Exaltation
-
-### WanderersWisdom
-
-- Version: 1.0.1.0 -> 1.1.0.0
-- Dependencies
-  + Added
-    - DanielSteginkUtils
+- Version: 1.1.3.0 -> 1.2.0.0
+- Description
+  + Old: Adds charms from Pale Court. Made to allow compatibility with mods that don&#x27;t work with the main Pale Court. Works with Randomizer.
+  + New: Adds charms from Pale Court. Made to allow compatibility with mods that don&#x27;t work with the main Pale Court. Works with Randomizer and Transcendence.
 - Integrations
   + Added
-    - DebugMod
+    - Transcendence
 

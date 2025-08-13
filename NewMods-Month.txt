@@ -1,4 +1,3 @@
-ReplayLogger
 CustomizableAbilities
 EnchantedMask
 QoLTeleportKit
@@ -23,3 +22,5 @@ OnlyBosses
 Galien Illusionist
 DanielSteginkUtils
 INFINITY
+PURITY
+YetAnotherRandoConnection

@@ -408,11 +408,11 @@
   },
   "Architect": {
     "description": "A level editor mod, allowing you to customise Hollow Knight by adding or removing platforms, enemies and more with an in-game level editor and level sharer.",
-    "version": "1.16.3.0",
+    "version": "1.16.4.0",
     "links": {
       "type": "universal",
-      "sha256": "3FE054BE2039081937D11996728BA6BC44EED4E7DE9A9F7E867D99EC13688D04",
-      "url": "https://github.com/cometcake575/Architect/releases/download/1.16.3.0/Architect.zip"
+      "sha256": "8322A7F2B1DAB52606CBFE2E4D3601BFBC12DD7BA43DD4A4611036F5AA81880F",
+      "url": "https://github.com/cometcake575/Architect/releases/download/1.16.4.0/Architect.zip"
     },
     "dependencies": [
       "MagicUI",
@@ -937,11 +937,11 @@
   },
   "Breakable Wall Randomizer": {
     "description": "A Hollow Knight Randomizer add-on for breakable walls.",
-    "version": "4.0.1.0",
+    "version": "4.0.1.1",
     "links": {
       "type": "universal",
-      "sha256": "2EB9EDD026E240EADCB49216A67D3AE25141DAB0E7E22FB3106FC4686460DED2",
-      "url": "https://github.com/nerthul11/BreakableWallRandomizer/releases/download/4.0.1.0/BreakableWallRandomizer.zip"
+      "sha256": "553574B94871ACB8E350B4C5F9354FF35552B3A78B31981F53177B95B0D6C4D9",
+      "url": "https://github.com/nerthul11/BreakableWallRandomizer/releases/download/4.0.1.1/BreakableWallRandomizer.zip"
     },
     "dependencies": [
       "Randomizer 4",
@@ -6312,6 +6312,26 @@
       "Clazex"
     ]
   },
+  "PURITY": {
+    "description": "New Version of \"Sunset Samsara II\". Modded Radiance.",
+    "version": "1.0.3.0",
+    "links": {
+      "type": "universal",
+      "sha256": "C1BD3C4C2E2AFDEA7A7FFA65127509A239737C1B43588121FB2208027CA9A3C9",
+      "url": "https://github.com/ROTTEN108/PURITY/releases/download/v1.0.3.0/PURITY.zip"
+    },
+    "dependencies": [
+      "HKMirror",
+      "Vasi"
+    ],
+    "repository": "https://github.com/ROTTEN108/PURITY",
+    "tags": [
+      "Boss"
+    ],
+    "authors": [
+      "ROTTEN108"
+    ]
+  },
   "Pale Court": {
     "description": "Challenge Hallownest's mightiest champions in grand combat!\nOvercome your opponents with powerful new charms!\nDiscover new secrets and stories!\nAll with an incredible new soundtrack!",
     "version": "1.1.1.7",
@@ -8640,24 +8660,17 @@
     ]
   },
   "Sunset Samsara II": {
-    "description": "Modded Radiance. WARNING: Currently the mod's download is slightly special. Go to the mod's folder and move the .dll files one folder up.",
-    "version": "1.0.0.1",
+    "description": "Dummy mod. Install the dependency \"PURITY\" directly.",
+    "version": "9.9.9.9",
     "links": {
       "type": "universal",
-      "sha256": "F9DECC8C52C1F5731527DDB7010671E3CF751BCFD920A254B1019449BC12CDE1",
-      "url": "https://github.com/ROTTEN108/Sunset-Samsara-2/releases/download/v1.0.0.1/Sunset.Samsara.II.zip"
+      "sha256": "00280F51FB9F3030B4F1BBBAD3AB29082A706994E4FAF783AA955054673BC74B",
+      "url": "https://github.com/SFGrenade/EmptyMod/releases/download/v9.9.9.9/EmptyMod.zip"
     },
     "dependencies": [
-      "HKMirror",
-      "Vasi"
+      "PURITY"
     ],
-    "repository": "https://github.com/ROTTEN108/Sunset-Samsara-2",
-    "tags": [
-      "Boss"
-    ],
-    "authors": [
-      "ROTTEN108"
-    ]
+    "repository": "https://github.com/SFGrenade/EmptyMod/"
   },
   "SvgLib": {
     "description": "SVG parser and composer library for .NET Framework and .NET Core.",
@@ -9462,6 +9475,33 @@
     ],
     "authors": [
       "FrogBishop"
+    ]
+  },
+  "YetAnotherRandoConnection": {
+    "description": "A Randomizer add-on with an assortment of additions",
+    "version": "1.0.0.0",
+    "links": {
+      "type": "universal",
+      "sha256": "1384FBA54C9B11960B0AA559D2302151E521A8AE002C46B6399F6D2816577464",
+      "url": "https://github.com/TheMathGeek314/YetAnotherRandoConnection/releases/download/v1.0.0.0/YetAnotherRandoConnection.zip"
+    },
+    "dependencies": [
+      "ConnectionMetadataInjector",
+      "ItemChanger",
+      "MenuChanger",
+      "Randomizer 4",
+      "RandomizerCore",
+      "RandomizerCore.Json",
+      "Satchel"
+    ],
+    "repository": "https://github.com/TheMathGeek314/YetAnotherRandoConnection/",
+    "integrations": [
+      "CondensedSpoilerLogger",
+      "RandoSettingsManager"
+    ],
+    "authors": [
+      "TheMathGeek_314",
+      "nerthul11"
     ]
   },
   "Zaliants Surprise": {

@@ -2,27 +2,68 @@
 <ModLinks xmlns="https://github.com/HollowKnight-Modding/HollowKnight.ModLinks/HollowKnight.ModManager"
     xmlns:xsd="http://www.w3.org/2001/XMLSchema"
     xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://raw.githubusercontent.com/HollowKnight-Modding/HollowKnight.ModLinks/main/Schemas/ModLinks.xml">
-<Manifest>
-    <Name>Charm Editor</Name>
-    <Description>This mod allows you to change charm notches and dashmaster</Description>
-    <Version>1.0.0.0</Version>
-    <Link SHA256="7b8fa4f4327d8c441ff1885f3e5352b81414e2206ef70f2b9a3c9a877935d038"><![CDATA[https://github.com/Vitaxses/HKCharmEditor/releases/download/v1.0.0.0/CharmEditor.zip]]></Link>
-    <Dependencies>
-    </Dependencies>
-    <Repository>
-        <![CDATA[https://github.com/Vitaxses/HKCharmEditor]]>
-    </Repository>
-    <Issues>
-        <![CDATA[https://github.com/Vitaxses/HKCharmEditor/issues]]>
-    </Issues>
-    <Tags>
-        <Tag>Utility</Tag>
-    </Tags>
-    <Authors>
-        <Author>Vitaxses</Author>
-    </Authors>
-</Manifest>
-
+    <Manifest>
+        <Name>Charm Editor</Name>
+        <Description>This mod allows you to change charm notches and dashmaster</Description>
+        <Version>1.1.0.0</Version>
+        <Link SHA256="7cb8e378626c1c35d4939951591b15b1e3c8ef9b589a0e598ab12de91c4dc309"><![CDATA[https://github.com/Vitaxses/HKCharmEditor/releases/download/v1.1.0.0/CharmEditor.zip]]></Link>
+        <Dependencies>
+        </Dependencies>
+        <Repository>
+            <![CDATA[https://github.com/Vitaxses/HKCharmEditor]]>
+        </Repository>
+        <Issues>
+            <![CDATA[https://github.com/Vitaxses/HKCharmEditor/issues]]>
+        </Issues>
+        <Tags>
+            <Tag>Utility</Tag>
+        </Tags>
+        <Authors>
+            <Author>Vitaxses</Author>
+        </Authors>
+    </Manifest>
+    <Manifest>
+        <Name>OnlyBosses</Name>
+        <Description>OnlyBosses is an alternative to TheHuntIsOn enemy module (which removes basic enemies), but since it got removed this mod is here.</Description>
+        <Version>1.0.0.0</Version>
+        <Link SHA256="173ed5f0a307177d4abe9bc3231e500f8b3b1973b9de82b94c6fc7e8891a035c"><![CDATA[https://github.com/Vitaxses/HKOnlyBosses/releases/download/v1.0.0.0/OnlyBosses.zip]]></Link>
+        <Dependencies>
+        </Dependencies>
+        <Repository>
+            <![CDATA[https://github.com/Vitaxses/HKOnlyBosses/]]>
+        </Repository>
+        <Issues>
+            <![CDATA[https://github.com/Vitaxses/HKOnlyBosses/issues/]]>
+        </Issues>
+        <Tags>
+            <Tag>Utility</Tag>
+            <Tag>Gameplay</Tag>
+        </Tags>
+        <Authors>
+            <Author>Vitaxses</Author>
+        </Authors>
+    </Manifest>
+    <Manifest>
+        <Name>FrameLimiter</Name>
+        <Description>Can limit fps to whatever you like (can be usefull for frame specific skips)</Description>
+        <Version>1.0.0.0</Version>
+        <Link SHA256="f2591becc928bc80c24b7802c8d59cf74ce8bb11d1d94b3e916bd9478c16dc6b"><![CDATA[https://github.com/Vitaxses/HKFrameLimiter/releases/download/v1.0.0.0/FrameLimiter.zip]]></Link>
+        <Dependencies>
+            <Dependency>Satchel</Dependency>
+        </Dependencies>
+        <Repository>
+            <![CDATA[https://github.com/Vitaxses/HKFrameLimiter/]]>
+        </Repository>
+        <Issues>
+            <![CDATA[https://github.com/Vitaxses/HKFrameLimiter/issues/]]>
+        </Issues>
+        <Tags>
+            <Tag>Utility</Tag>
+        </Tags>
+        <Authors>
+            <Author>Vitaxses</Author>
+        </Authors>
+    </Manifest>
     <Manifest>
         <Name>Faction Elimination</Name>
         <Description>A custom gamemode for HKMP where teams collect upgrades and fight each other.</Description>
@@ -7131,9 +7172,9 @@ Enjoy!</Description>
     <Manifest>
         <Name>TreasureHunt</Name>
         <Description>A Randomizer 4 connection fro a semi-spoiler format.</Description>
-        <Version>1.6.1.0</Version>
-        <Link SHA256="6A7922BD49A9BFB8C27BAB961C95BE34D3028DDDB24774C8FED055A5D8B68C32">
-            <![CDATA[https://github.com/dplochcoder/HollowKnight.TreasureHunt/releases/download/v1.6.1.0/TreasureHunt.zip]]>
+        <Version>1.6.3.0</Version>
+        <Link SHA256="9ADCF8B02CEED73DE2965C8F6328B4AB4FAB04D84180C7129EC6998847A95ADE">
+            <![CDATA[https://github.com/dplochcoder/HollowKnight.TreasureHunt/releases/download/v1.6.3.0/TreasureHunt.zip]]>
         </Link>
         <Dependencies>
             <Dependency>ConnectionMetadataInjector</Dependency>
@@ -9506,9 +9547,9 @@ Enjoy!</Description>
     <Manifest>
         <Name>Architect</Name>
         <Description>A level editor mod, allowing you to customise Hollow Knight by adding or removing platforms, enemies and more with an in-game level editor and level sharer.</Description>
-        <Version>1.12.4.0</Version>
-        <Link SHA256="077085bf30bd07138ccbb0d3de0e40fb620b1dce84896372987df429802ece24">
-            <![CDATA[https://github.com/cometcake575/Architect/releases/download/1.12.4.0/Architect.zip]]>
+        <Version>1.12.4.1</Version>
+        <Link SHA256="47adb8105f03b303fe13cb4f2d04e559f28b3654ca9feb0fd8a95b9e591bedf3">
+            <![CDATA[https://github.com/cometcake575/Architect/releases/download/1.12.4.1/Architect.zip]]>
         </Link>
         <Dependencies>
             <Dependency>Satchel</Dependency>
@@ -9815,9 +9856,9 @@ Enjoy!</Description>
     <Manifest>
         <Name>Pale Court Charms</Name>
         <Description>Adds charms from Pale Court. Made to allow compatibility with mods that don't work with the main Pale Court. Works with Randomizer.</Description>
-        <Version>1.0.0.1</Version>
-        <Link SHA256="02A616D1556EA4C1AF31198E8913210C42D83CF4B6C317548F7F119130349F94">
-            <![CDATA[https://github.com/Roma-337/PaleCourtCharms/releases/download/v1.0.1/PaleCourtCharms.zip]]>
+        <Version>1.1.1.0</Version>
+        <Link SHA256="AD2CCA069D36A6FA418F1D1BF00B2696EF764639E610B2F259F332CF0BB905BE">
+            <![CDATA[https://github.com/Roma-337/PaleCourtCharms/releases/download/v1.1.1/PaleCourtCharms.zip]]>
         </Link>
         <Dependencies>
             <Dependency>ItemChanger</Dependency>
@@ -9929,6 +9970,29 @@ Enjoy!</Description>
             </Tags>
             <Authors>
                 <Author>Reinzer</Author>
+            </Authors>
+        </Manifest>
+        <Manifest>
+            <Name>Less Flashing Lights</Name>
+            <Description>Reduces the amount of flashing lights. Check the readme for more info</Description>
+            <Version>1.0.0.0</Version>
+            <Link SHA256="e022876e944ab6acf4560167b4a65058de5bab46d2c0250e5486224cee618d76">
+                <![CDATA[https://github.com/Arwangha/LessFlashingLights/releases/download/v1.0.0/LessFlashingLights.zip]]>
+            </Link>
+            <Dependencies>
+                <Dependency>Satchel</Dependency>
+            </Dependencies>
+            <Repository>
+                <![CDATA[https://github.com/Arwangha/LessFlashingLights]]>
+            </Repository>
+            <Issues>
+                <![CDATA[https://github.com/Arwangha/LessFlashingLights/issues]]>
+            </Issues>
+            <Tags>
+                <Tag>Utility</Tag>
+            </Tags>
+            <Authors>
+                <Author>Wangha</Author>
             </Authors>
         </Manifest>
 </ModLinks>

@@ -1,7 +1,4 @@
 Architect
-DanielSteginkUtils
-VendorRando
-Architect
 EnchantedMask
 ExaltationExpanded
 Architect
@@ -15,3 +12,8 @@ WanderersWisdom
 Architect
 INFINITY
 Pale Court Charms
+Architect
+Breakable Wall Randomizer
+PURITY
+Sunset Samsara II
+YetAnotherRandoConnection
