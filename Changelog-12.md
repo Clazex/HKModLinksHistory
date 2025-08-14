@@ -1,17 +1,26 @@
 # Changelog
 
 
+## New mods
+
+### Charm Editor
+
+- Description: This mod allows you to change charm notches and dashmaster
+- Tags
+  + Utility
+
+
 ## Updated mods
 
 ### Architect
 
-- Version: 1.12.0.1 -> 1.12.1.0
+- Version: 1.12.1.0 -> 1.12.4.0
 
-### ReplayLogger
+### EnchantedMask
 
-- Version: 1.0.0.1 -> 1.0.0.2
+- Version: 1.1.0.0 -> 1.1.1.0
 
-### VendorRando
+### Fishing
 
-- Version: 1.0.0.2 -> 1.0.0.3
+- Version: 1.0.0.0 -> 1.0.1.0
 

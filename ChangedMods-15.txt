@@ -1,7 +1,7 @@
 Architect
-ExaltationExpanded
+EnchantedMask
 MotionBlur
-SafeGodseekerQoL
-StoriesOfaHkPlayer-Ch1
-StoriesOfaHkPlayer-Ch2
-TheHuntIsOn
+SkillCharms
+SpeedChanger
+VendorRando
+WrathOfTheSwarm

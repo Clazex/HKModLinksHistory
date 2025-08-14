@@ -1,5 +1,4 @@
 Architect
-Architect
 CustomizableNailDamage
 SpeedChanger
 Architect
@@ -95,3 +94,7 @@ Pale Court Charms
 Architect
 Breakable Wall Randomizer
 Sunset Samsara II
+Architect
+Breakable Wall Randomizer
+VendorRando
+YetAnotherRandoConnection

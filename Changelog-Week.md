@@ -41,11 +41,11 @@
 
 ### Architect
 
-- Version: 1.15.0.0 -> 1.16.4.0
+- Version: 1.16.0.0 -> 1.16.6.2
 
 ### Breakable Wall Randomizer
 
-- Version: 4.0.1.0 -> 4.0.1.1
+- Version: 4.0.1.0 -> 4.1.0.0
 
 ### DanielSteginkUtils
 
@@ -65,24 +65,6 @@
     - ExaltationExpanded
   + Added
     - Exaltation
-
-### EnchantedMask
-
-- Version: 1.1.1.0 -> 1.2.0.0
-- Dependencies
-  + Added
-    - DanielSteginkUtils
-- Integrations
-  + Removed
-    - Pale Court
-    - Pale Court Charms
-
-### ExaltationExpanded
-
-- Version: 1.1.1.0 -> 1.2.0.0
-- Dependencies
-  + Added
-    - DanielSteginkUtils
 
 ### Hivesong
 
@@ -125,6 +107,10 @@
 - Tags
   + Added
     - Boss
+
+### VendorRando
+
+- Version: 1.0.0.4 -> 1.0.0.6
 
 ### WanderersWisdom
 

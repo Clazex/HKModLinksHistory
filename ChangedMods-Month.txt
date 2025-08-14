@@ -1,5 +1,4 @@
 Architect
-Architect
 CustomizableAbilities
 CustomizableNailDamage
 SpeedChanger
@@ -120,4 +119,8 @@ Architect
 Breakable Wall Randomizer
 PURITY
 Sunset Samsara II
+YetAnotherRandoConnection
+Architect
+Breakable Wall Randomizer
+VendorRando
 YetAnotherRandoConnection

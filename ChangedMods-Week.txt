@@ -1,7 +1,4 @@
 Architect
-EnchantedMask
-ExaltationExpanded
-Architect
 Pale Court Charms
 ReplayLogger
 Architect
@@ -16,4 +13,8 @@ Architect
 Breakable Wall Randomizer
 PURITY
 Sunset Samsara II
+YetAnotherRandoConnection
+Architect
+Breakable Wall Randomizer
+VendorRando
 YetAnotherRandoConnection

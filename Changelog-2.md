@@ -3,29 +3,54 @@
 
 ## New mods
 
-### INFINITY
+### PURITY
 
-- Description: A pure vessel boss mod.
+- Description: New Version of &quot;Sunset Samsara II&quot;. Modded Radiance.
 - Dependencies
   + HKMirror
   + Vasi
 - Tags
   + Boss
 
+### YetAnotherRandoConnection
+
+- Description: A Randomizer add-on with an assortment of additions
+- Dependencies
+  + ConnectionMetadataInjector
+  + ItemChanger
+  + MenuChanger
+  + Randomizer 4
+  + RandomizerCore
+  + RandomizerCore.Json
+  + Satchel
+- Integrations
+  + CondensedSpoilerLogger
+  + RandoSettingsManager
+
 
 ## Updated mods
 
 ### Architect
 
-- Version: 1.16.2.0 -> 1.16.3.0
+- Version: 1.16.3.0 -> 1.16.4.0
 
-### Pale Court Charms
+### Breakable Wall Randomizer
 
-- Version: 1.1.3.0 -> 1.2.0.0
+- Version: 4.0.1.0 -> 4.0.1.1
+
+### Sunset Samsara II
+
+- Version: 1.0.0.1 -> 9.9.9.9
 - Description
-  + Old: Adds charms from Pale Court. Made to allow compatibility with mods that don&#x27;t work with the main Pale Court. Works with Randomizer.
-  + New: Adds charms from Pale Court. Made to allow compatibility with mods that don&#x27;t work with the main Pale Court. Works with Randomizer and Transcendence.
-- Integrations
+  + Old: Modded Radiance. WARNING: Currently the mod&#x27;s download is slightly special. Go to the mod&#x27;s folder and move the .dll files one folder up.
+  + New: Dummy mod. Install the dependency &quot;PURITY&quot; directly.
+- Dependencies
+  + Removed
+    - HKMirror
+    - Vasi
   + Added
-    - Transcendence
+    - PURITY
+- Tags
+  + Added
+    - Boss
 
