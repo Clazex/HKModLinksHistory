@@ -408,11 +408,11 @@
   },
   "Architect": {
     "description": "A level editor mod, allowing you to customise Hollow Knight by adding or removing platforms, enemies and more with an in-game level editor and level sharer.",
-    "version": "1.16.6.2",
+    "version": "1.16.8.2",
     "links": {
       "type": "universal",
-      "sha256": "5C3758778F04B87D9E63328C84991EB20EC6B153469AA80525B3C061EFDD40D0",
-      "url": "https://github.com/cometcake575/Architect/releases/download/1.16.6.2/Architect.zip"
+      "sha256": "535E2BB3FF724CC3EE76CF790955FDD19E6EFD7A11A1412ADD1C5EDD038DCDFE",
+      "url": "https://github.com/cometcake575/Architect/releases/download/1.16.8.2/Architect.zip"
     },
     "dependencies": [
       "MagicUI",
@@ -2853,11 +2853,11 @@
   },
   "Extra Rando": {
     "description": "Randomizer 4 connection with miscellaneous settings.",
-    "version": "0.9.0.0",
+    "version": "0.11.0.0",
     "links": {
       "type": "universal",
-      "sha256": "2C9E186C61137B1EA1A8DE135D574A0A8A4426B2BC85AC2D356620E14EC4E943",
-      "url": "https://github.com/Korzer420/ExtraRando/releases/download/v0.9.0/ExtraRando.zip"
+      "sha256": "DA9C5A129839EA05662AFA0BAE895AE4AEACD954CE9C9A22236B0782CEFA5BE7",
+      "url": "https://github.com/Korzer420/ExtraRando/releases/download/v0.11.0/ExtraRando.zip"
     },
     "dependencies": [
       "KorzUtils",
@@ -5741,11 +5741,11 @@
   },
   "MoreDoors": {
     "description": "A Rando 4 connection which adds more locked doors to Hallownest.",
-    "version": "3.2.0.0",
+    "version": "3.2.1.0",
     "links": {
       "type": "universal",
-      "sha256": "D7BD7306400DA70B21E0772C8D07238F9C5D87BD7CBC9B1ECFB8F0763CFD3F43",
-      "url": "https://github.com/dplochcoder/HollowKnight.MoreDoors/releases/download/v3.2.0.0/MoreDoors.zip"
+      "sha256": "E97810A0B82D4346E56DE65D5BA61052940038E4FE1946EDA8FCD6ED7140B63C",
+      "url": "https://github.com/dplochcoder/HollowKnight.MoreDoors/releases/download/v3.2.1.0/MoreDoors.zip"
     },
     "dependencies": [
       "ItemChanger",
@@ -5756,6 +5756,7 @@
     ],
     "repository": "https://github.com/dplochcoder/HollowKnight.MoreDoors",
     "integrations": [
+      "Extra Rando",
       "RandoSettingsManager",
       "Randomizer 4"
     ],
@@ -9022,11 +9023,11 @@
   },
   "Trial of Crusaders": {
     "description": "A rogue-like mod inspired by Dead Cells, Binding of Isaac and Blue Prince.",
-    "version": "0.3.0.0",
+    "version": "0.3.1.0",
     "links": {
       "type": "universal",
-      "sha256": "14F268CDA82621FBFC2D497EB3E67521B11C6FD420E531EAB4E0D6BB24B97C26",
-      "url": "https://github.com/Korzer420/TrialOfCrusaders/releases/download/v0.3.0/TrialOfCrusaders.zip"
+      "sha256": "83630FF0A203601E907AEB60356174F5B77E3629B80CE928C1C51B18FE6A4559",
+      "url": "https://github.com/Korzer420/TrialOfCrusaders/releases/download/v0.3.1/TrialOfCrusaders.zip"
     },
     "dependencies": [
       "KorzUtils",
@@ -9479,11 +9480,11 @@
   },
   "YetAnotherRandoConnection": {
     "description": "A Randomizer add-on with an assortment of additions",
-    "version": "1.0.0.1",
+    "version": "1.0.0.2",
     "links": {
       "type": "universal",
-      "sha256": "FE7577CD53E2A226C7DB466E6BD639921599BDCD0E474A66A1CE7BB5C0D01DDD",
-      "url": "https://github.com/TheMathGeek314/YetAnotherRandoConnection/releases/download/v1.0.0.1/YetAnotherRandoConnection.zip"
+      "sha256": "75816BAE45785F74E7A0E1E80C36188A2FA9CFD7E1BC9ADA760509BBF31A6BFE",
+      "url": "https://github.com/TheMathGeek314/YetAnotherRandoConnection/releases/download/v1.0.0.2/YetAnotherRandoConnection.zip"
     },
     "dependencies": [
       "ConnectionMetadataInjector",

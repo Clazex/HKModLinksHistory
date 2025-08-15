@@ -1,55 +1,34 @@
 # Changelog
 
 
-## New mods
-
-### DPSMeter
-
-- Description: Mod that allows you to see how much damage you deal per second. Also works with negative damage.
-- Dependencies
-  + Satchel
-- Tags
-  + Gameplay
-  + Utility
-
-### MetalOST
-
-- Description: Replaces all of Hallownest’s OST’s with custom metal variants made by RYS.
-- Tags
-  + Cosmetic
-
-
 ## Updated mods
-
-### AccessRandomizer
-
-- Version: 1.3.0.4 -> 1.3.0.5
 
 ### Architect
 
-- Version: 1.10.3.0 -> 1.10.4.1
+- Version: 1.10.4.1 -> 1.10.5.1
 
-### DivineFury
+### CustomizableAbilities
 
-- Version: 1.1.0.0 -> 1.1.1.0
+- Version: 1.3.3.4 -> 1.3.4.0
+- Description
+  + Old: Mod that allows you to customize abilities: negative and fractional nail; the amount of SOUL received from nail hits; nail cooldown; damage (also negative and fractional) and the amount of SOUL received from dream nail; spells. Negative damage heals enemies.
+  + New: Mod that allows you to customize abilities: negative and fractional nail; the amount of SOUL received from nail hits; nail cooldown; damage (also negative and fractional) and the amount of SOUL received from dream nail; spells and other abilities. Negative damage heals enemies.
+
+### ExaltationExpanded
+
+- Version: 1.0.2.0 -> 1.1.0.0
+- Dependencies
+  + Added
+    - Satchel
 - Integrations
   + Added
-    - DebugMod
-    - ExaltationExpanded
+    - Pale Court
 
-### EnchantedMask
+### Extra Rando
 
-- Version: 1.0.0.0 -> 1.0.1.0
+- Version: 0.6.2.0 -> 0.7.0.0
 
-### Hivesong
-
-- Version: 1.2.0.0 -> 1.2.1.0
-- Integrations
-  + Added
-    - DebugMod
-    - ExaltationExpanded
-
-### VendorRando
+### MetalOST
 
 - Version: 1.0.0.0 -> 1.0.0.1
 

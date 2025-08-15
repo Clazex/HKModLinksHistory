@@ -1,5 +1,3 @@
-Architect
-Pale Court Charms
 ReplayLogger
 Architect
 DanielSteginkUtils
@@ -14,4 +12,9 @@ Sunset Samsara II
 Architect
 Breakable Wall Randomizer
 VendorRando
+YetAnotherRandoConnection
+Architect
+Extra Rando
+MoreDoors
+Trial of Crusaders
 YetAnotherRandoConnection

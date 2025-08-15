@@ -41,7 +41,7 @@
 
 ### Architect
 
-- Version: 1.16.0.0 -> 1.16.6.2
+- Version: 1.16.0.1 -> 1.16.8.2
 
 ### Breakable Wall Randomizer
 
@@ -66,6 +66,10 @@
   + Added
     - Exaltation
 
+### Extra Rando
+
+- Version: 0.9.0.0 -> 0.11.0.0
+
 ### Hivesong
 
 - Version: 1.2.1.0 -> 1.3.0.0
@@ -78,9 +82,16 @@
   + Added
     - Exaltation
 
+### MoreDoors
+
+- Version: 3.2.0.0 -> 3.2.1.0
+- Integrations
+  + Added
+    - Extra Rando
+
 ### Pale Court Charms
 
-- Version: 1.1.1.0 -> 1.2.0.0
+- Version: 1.1.3.0 -> 1.2.0.0
 - Description
   + Old: Adds charms from Pale Court. Made to allow compatibility with mods that don&#x27;t work with the main Pale Court. Works with Randomizer.
   + New: Adds charms from Pale Court. Made to allow compatibility with mods that don&#x27;t work with the main Pale Court. Works with Randomizer and Transcendence.
@@ -107,6 +118,10 @@
 - Tags
   + Added
     - Boss
+
+### Trial of Crusaders
+
+- Version: 0.3.0.0 -> 0.3.1.0
 
 ### VendorRando
 

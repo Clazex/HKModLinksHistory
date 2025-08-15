@@ -15,18 +15,6 @@
 - Tags
   + Utility
 
-### CustomizableAbilities
-
-- Description: Mod that allows you to customize abilities: negative and fractional nail; the amount of SOUL received from nail hits; nail cooldown; damage (also negative and fractional) and the amount of SOUL received from dream nail; spells and other abilities. Negative damage heals enemies.
-- Dependencies
-  + HKMirror
-  + SFCore
-  + Satchel
-- Tags
-  + Expansion
-  + Gameplay
-  + Utility
-
 ### DPSMeter
 
 - Description: Mod that allows you to see how much damage you deal per second. Also works with negative damage.
@@ -245,7 +233,7 @@
 
 ### Architect
 
-- Version: 1.8.7.1 -> 1.16.6.2
+- Version: 1.8.8.0 -> 1.16.8.2
 - Description
   + Old: A mod to add/remove platforms, enemies and more to change areas in the game with an in-game level editor and level sharer.
   + New: A level editor mod, allowing you to customise Hollow Knight by adding or removing platforms, enemies and more with an in-game level editor and level sharer.
@@ -262,20 +250,12 @@
 
 - Version: 1.4.1.0 -> 1.4.3.0
 
-### CustomizableNailDamage
+### CustomizableAbilities
 
-- Version: 1.3.1.0 -> 9.9.9.9
+- Version: 1.3.2.1 -> 1.3.4.1
 - Description
-  + Old: Mod that allows you to change the damage of the nail, including negative and fractional values, and also the amount of soul received from nail hits. Negative nail damage heals enemies.
-  + New: Dummy mod. Install the dependency &quot;CustomizableAbilities&quot; directly.
-- Dependencies
-  + Removed
-    - Satchel
-  + Added
-    - CustomizableAbilities
-- Tags
-  + Added
-    - Gameplay
+  + Old: Mod that allows you to customize abilities: negative and fractional nail; the amount of SOUL received from nail hits; spells. Negative nail damage heals enemies.
+  + New: Mod that allows you to customize abilities: negative and fractional nail; the amount of SOUL received from nail hits; nail cooldown; damage (also negative and fractional) and the amount of SOUL received from dream nail; spells and other abilities. Negative damage heals enemies.
 
 ### DivineFury
 
@@ -301,7 +281,7 @@
 
 ### Extra Rando
 
-- Version: 0.6.2.0 -> 0.9.0.0
+- Version: 0.6.2.0 -> 0.11.0.0
 
 ### Fishing
 
@@ -339,6 +319,13 @@
 
 - Version: 0.9.0.0 -> 0.10.0.0
 
+### MoreDoors
+
+- Version: 3.2.0.0 -> 3.2.1.0
+- Integrations
+  + Added
+    - Extra Rando
+
 ### PurenailCore
 
 - Version: 1.4.0.0 -> 1.4.1.0
@@ -365,10 +352,7 @@
 
 ### SpeedChanger
 
-- Version: 1.0.4.0 -> 1.1.3.1
-- Dependencies
-  + Added
-    - Satchel
+- Version: 1.1.1.0 -> 1.1.3.1
 
 ### StoriesOfaHkPlayer-Ch1
 
@@ -413,7 +397,7 @@
 
 ### Trial of Crusaders
 
-- Version: 0.2.5.0 -> 0.3.0.0
+- Version: 0.2.5.0 -> 0.3.1.0
 
 ### WanderersWisdom
 

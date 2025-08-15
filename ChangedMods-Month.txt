@@ -1,8 +1,4 @@
 Architect
-CustomizableAbilities
-CustomizableNailDamage
-SpeedChanger
-Architect
 Breakable Wall Randomizer
 EnchantedMask
 HK_QoLTeleportKit
@@ -123,4 +119,9 @@ YetAnotherRandoConnection
 Architect
 Breakable Wall Randomizer
 VendorRando
+YetAnotherRandoConnection
+Architect
+Extra Rando
+MoreDoors
+Trial of Crusaders
 YetAnotherRandoConnection

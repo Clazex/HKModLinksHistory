@@ -1,7 +1,4 @@
 Architect
-CustomizableNailDamage
-SpeedChanger
-Architect
 Breakable Wall Randomizer
 HK_QoLTeleportKit
 SpeedChanger
@@ -97,4 +94,9 @@ Sunset Samsara II
 Architect
 Breakable Wall Randomizer
 VendorRando
+YetAnotherRandoConnection
+Architect
+Extra Rando
+MoreDoors
+Trial of Crusaders
 YetAnotherRandoConnection
