@@ -3,26 +3,22 @@
 
 ## New mods
 
-### Galien Illusionist
+### DanielSteginkUtils
 
-- Description: Modboss. Now there will be two galiens in the arena, one of which is not real.
+- Description: Custom library with calculations, logic and cross-mod helpers.
 - Dependencies
-  + Vasi
+  + SFCore
 - Tags
-  + Boss
+  + Library
 
 
 ## Updated mods
 
 ### Architect
 
-- Version: 1.14.1.0 -> 1.14.5.0
+- Version: 1.14.5.0 -> 1.15.0.0
 
-### BugPrince
+### VendorRando
 
-- Version: 1.4.2.0 -> 1.4.3.0
-
-### ReplayLogger
-
-- Version: 1.0.0.2 -> 1.0.0.3
+- Version: 1.0.0.3 -> 1.0.0.4
 

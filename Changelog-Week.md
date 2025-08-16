@@ -41,7 +41,7 @@
 
 ### Architect
 
-- Version: 1.16.0.1 -> 1.16.8.2
+- Version: 1.16.0.1 -> 1.16.9.1
 
 ### Breakable Wall Randomizer
 
@@ -68,7 +68,7 @@
 
 ### Extra Rando
 
-- Version: 0.9.0.0 -> 0.11.0.0
+- Version: 0.9.0.0 -> 0.11.1.0
 
 ### Hivesong
 
@@ -81,6 +81,14 @@
     - ExaltationExpanded
   + Added
     - Exaltation
+
+### Lore Randomizer
+
+- Version: 0.3.3.0 -> 0.4.1.0
+
+### LoreCore
+
+- Version: 0.6.3.0 -> 0.7.0.0
 
 ### MoreDoors
 
@@ -99,9 +107,9 @@
   + Added
     - Transcendence
 
-### ReplayLogger
+### PurenailCore
 
-- Version: 1.0.0.3 -> 1.0.0.4
+- Version: 1.4.1.0 -> 1.5.0.0
 
 ### Sunset Samsara II
 

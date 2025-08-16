@@ -408,11 +408,11 @@
   },
   "Architect": {
     "description": "A level editor mod, allowing you to customise Hollow Knight by adding or removing platforms, enemies and more with an in-game level editor and level sharer.",
-    "version": "1.16.8.2",
+    "version": "1.16.9.1",
     "links": {
       "type": "universal",
-      "sha256": "535E2BB3FF724CC3EE76CF790955FDD19E6EFD7A11A1412ADD1C5EDD038DCDFE",
-      "url": "https://github.com/cometcake575/Architect/releases/download/1.16.8.2/Architect.zip"
+      "sha256": "298A0587D677321D3B19723D8A457D6CCD44046A25C8DCF45936389D78E7AF8C",
+      "url": "https://github.com/cometcake575/Architect/releases/download/1.16.9.1/Architect.zip"
     },
     "dependencies": [
       "MagicUI",
@@ -2853,11 +2853,11 @@
   },
   "Extra Rando": {
     "description": "Randomizer 4 connection with miscellaneous settings.",
-    "version": "0.11.0.0",
+    "version": "0.11.1.0",
     "links": {
       "type": "universal",
-      "sha256": "DA9C5A129839EA05662AFA0BAE895AE4AEACD954CE9C9A22236B0782CEFA5BE7",
-      "url": "https://github.com/Korzer420/ExtraRando/releases/download/v0.11.0/ExtraRando.zip"
+      "sha256": "65B0919C937CC7931A04F530C11E3F0A731795A88B77311426102DA1125F0009",
+      "url": "https://github.com/Korzer420/ExtraRando/releases/download/v0.11.1/ExtraRando.zip"
     },
     "dependencies": [
       "KorzUtils",
@@ -5169,11 +5169,11 @@
   },
   "Lore Randomizer": {
     "description": "Randomizer 4 connection that adds a bunch of lore related items and locations.",
-    "version": "0.3.3.0",
+    "version": "0.4.1.0",
     "links": {
       "type": "universal",
-      "sha256": "62564A6F23082DCDD2FAAAE807D2131F016FF716B25B5A686CD12F25F4A9DD97",
-      "url": "https://github.com/Korzer420/LoreRandomizer/releases/download/v0.3.3/LoreRandomizer.zip"
+      "sha256": "3A03A95A6D0158D42A2C17BF4A1791D45255A9FB2B40B4AF96E084D11CA3E15E",
+      "url": "https://github.com/Korzer420/LoreRandomizer/releases/download/v0.4.1/LoreRandomizer.zip"
     },
     "dependencies": [
       "LoreCore",
@@ -5189,11 +5189,11 @@
   },
   "LoreCore": {
     "description": "Adds a bunch of lore related Item Changer locations and items.",
-    "version": "0.6.3.0",
+    "version": "0.7.0.0",
     "links": {
       "type": "universal",
-      "sha256": "E05F0611890C1E88D9A7CF6F37F16E1C825336ED45A8932F01FFA2ACC326FE87",
-      "url": "https://github.com/Korzer420/LoreCore/releases/download/v0.6.3/LoreCore.zip"
+      "sha256": "5B16A559751DB99F069F1D9078488F9D6D074C543509FAD5151A7BE8F925F67F",
+      "url": "https://github.com/Korzer420/LoreCore/releases/download/v0.7.0/LoreCore.zip"
     },
     "dependencies": [
       "ItemChanger",
@@ -6875,11 +6875,11 @@
   },
   "PurenailCore": {
     "description": "Common utilities and interop for Purenail mods",
-    "version": "1.4.1.0",
+    "version": "1.5.0.0",
     "links": {
       "type": "universal",
-      "sha256": "64E7543E5A03CFF7B5CB795F84308133B8FDCF52F6A89FD2D72B8E114D8DC460",
-      "url": "https://github.com/dplochcoder/HollowKnight.PurenailCore/releases/download/v1.4.1.0/PurenailCore.zip"
+      "sha256": "6FF21B059DFEC194157C27EE4274B457775B03F5B1BBB852807D1DEC97E6B70A",
+      "url": "https://github.com/dplochcoder/HollowKnight.PurenailCore/releases/download/v1.5.0.0/PurenailCore.zip"
     },
     "dependencies": [
       "Randomizer 4",
@@ -9480,11 +9480,11 @@
   },
   "YetAnotherRandoConnection": {
     "description": "A Randomizer add-on with an assortment of additions",
-    "version": "1.0.0.2",
+    "version": "1.0.0.3",
     "links": {
       "type": "universal",
-      "sha256": "75816BAE45785F74E7A0E1E80C36188A2FA9CFD7E1BC9ADA760509BBF31A6BFE",
-      "url": "https://github.com/TheMathGeek314/YetAnotherRandoConnection/releases/download/v1.0.0.2/YetAnotherRandoConnection.zip"
+      "sha256": "29236DD2B9D0E106AD71BC4DE0282BCAB2E12856964E2055019AE2E276F9F2EB",
+      "url": "https://github.com/TheMathGeek314/YetAnotherRandoConnection/releases/download/v1.0.0.3/YetAnotherRandoConnection.zip"
     },
     "dependencies": [
       "ConnectionMetadataInjector",

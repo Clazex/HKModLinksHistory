@@ -1,11 +1,4 @@
 Architect
-Breakable Wall Randomizer
-EnchantedMask
-HK_QoLTeleportKit
-QoLTeleportKit
-RainbowFlukes
-SpeedChanger
-Architect
 CustomizableAbilities
 SpeedChanger
 Architect
@@ -124,4 +117,10 @@ Architect
 Extra Rando
 MoreDoors
 Trial of Crusaders
+YetAnotherRandoConnection
+Architect
+Extra Rando
+Lore Randomizer
+LoreCore
+PurenailCore
 YetAnotherRandoConnection

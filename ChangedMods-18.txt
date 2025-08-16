@@ -1,4 +1,7 @@
-Archipelago
-Archipelago Map Mod
 Architect
-Scattered and Lost
+ExaltationExpanded
+MotionBlur
+SafeGodseekerQoL
+StoriesOfaHkPlayer-Ch1
+StoriesOfaHkPlayer-Ch2
+TheHuntIsOn

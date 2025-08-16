@@ -33,18 +33,6 @@
 - Tags
   + Library
 
-### EnchantedMask
-
-- Description: Adds new powerups called Glyphs, which can be purchased from the Mask maker.
-- Dependencies
-  + DanielSteginkUtils
-  + DebugMod
-  + ItemChanger
-  + SFCore
-  + Satchel
-- Tags
-  + Gameplay
-
 ### Faction Elimination
 
 - Description: A custom gamemode for HKMP where teams collect upgrades and fight each other.
@@ -153,16 +141,6 @@
 - Tags
   + Gameplay
 
-### QoLTeleportKit
-
-- Description: QoL Teleport Kit is a Hollow Knight mod that adds a convenient teleportation system.
-- Tags
-  + Gameplay
-
-### RainbowFlukes
-
-- Description: The flukes are rainbow!
-
 ### SafeGodseekerQoL
 
 - Description: This mod is useful for challenge runners who don&#x27;t want their runs to be accidentally affected by QoL mods.
@@ -233,7 +211,7 @@
 
 ### Architect
 
-- Version: 1.8.8.0 -> 1.16.8.2
+- Version: 1.8.8.2 -> 1.16.9.1
 - Description
   + Old: A mod to add/remove platforms, enemies and more to change areas in the game with an in-game level editor and level sharer.
   + New: A level editor mod, allowing you to customise Hollow Knight by adding or removing platforms, enemies and more with an in-game level editor and level sharer.
@@ -244,7 +222,7 @@
 
 ### Breakable Wall Randomizer
 
-- Version: 4.0.0.6 -> 4.1.0.0
+- Version: 4.0.1.0 -> 4.1.0.0
 
 ### BugPrince
 
@@ -268,6 +246,17 @@
     - DebugMod
     - Exaltation
 
+### EnchantedMask
+
+- Version: 1.0.0.0 -> 1.2.0.0
+- Dependencies
+  + Added
+    - DanielSteginkUtils
+    - DebugMod
+- Integrations
+  + Removed
+    - DebugMod
+
 ### ExaltationExpanded
 
 - Version: 1.0.2.0 -> 1.2.0.0
@@ -281,7 +270,7 @@
 
 ### Extra Rando
 
-- Version: 0.6.2.0 -> 0.11.0.0
+- Version: 0.6.2.0 -> 0.11.1.0
 
 ### Fishing
 
@@ -290,19 +279,6 @@
 ### GearSwitcher
 
 - Version: 1.0.0.0 -> 1.0.1.0
-
-### HK_QoLTeleportKit
-
-- Version: 1.0.0.0 -> 9.9.9.9
-- Description
-  + Old: QoL Teleport Kit is a Hollow Knight mod that adds a convenient teleportation system.
-  + New: Dummy mod. Install the dependency &quot;QoLTeleportKit&quot; directly.
-- Dependencies
-  + Added
-    - QoLTeleportKit
-- Tags
-  + Added
-    - Gameplay
 
 ### Hivesong
 
@@ -319,6 +295,14 @@
 
 - Version: 0.9.0.0 -> 0.10.0.0
 
+### Lore Randomizer
+
+- Version: 0.3.3.0 -> 0.4.1.0
+
+### LoreCore
+
+- Version: 0.6.3.0 -> 0.7.0.0
+
 ### MoreDoors
 
 - Version: 3.2.0.0 -> 3.2.1.0
@@ -328,7 +312,7 @@
 
 ### PurenailCore
 
-- Version: 1.4.0.0 -> 1.4.1.0
+- Version: 1.4.0.0 -> 1.5.0.0
 
 ### RemoveLaggyObjects
 
@@ -352,7 +336,7 @@
 
 ### SpeedChanger
 
-- Version: 1.1.1.0 -> 1.1.3.1
+- Version: 1.1.2.0 -> 1.1.3.1
 
 ### StoriesOfaHkPlayer-Ch1
 
