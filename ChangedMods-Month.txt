@@ -1,7 +1,4 @@
 Architect
-CustomizableAbilities
-SpeedChanger
-Architect
 BingoUI
 CustomizableAbilities
 Architect
@@ -124,3 +121,7 @@ Lore Randomizer
 LoreCore
 PurenailCore
 YetAnotherRandoConnection
+Architect
+BugPrince
+PantheonOfRegions
+VendorRando

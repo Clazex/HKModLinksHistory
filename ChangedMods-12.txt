@@ -1,4 +1,4 @@
 Architect
-Extra Rando
-KorzUtils
-Trial of Crusaders
+BugPrince
+Galien Illusionist
+ReplayLogger

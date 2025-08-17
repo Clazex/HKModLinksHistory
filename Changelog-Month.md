@@ -141,6 +141,14 @@
 - Tags
   + Gameplay
 
+### PantheonOfRegions
+
+- Description: Adds new Pantheon to fight bosses together
+- Dependencies
+  + Osmi
+  + Satchel
+  + Vasi
+
 ### SafeGodseekerQoL
 
 - Description: This mod is useful for challenge runners who don&#x27;t want their runs to be accidentally affected by QoL mods.
@@ -211,7 +219,7 @@
 
 ### Architect
 
-- Version: 1.8.8.2 -> 1.16.9.1
+- Version: 1.9.1.0 -> 1.16.10.0
 - Description
   + Old: A mod to add/remove platforms, enemies and more to change areas in the game with an in-game level editor and level sharer.
   + New: A level editor mod, allowing you to customise Hollow Knight by adding or removing platforms, enemies and more with an in-game level editor and level sharer.
@@ -226,13 +234,13 @@
 
 ### BugPrince
 
-- Version: 1.4.1.0 -> 1.4.3.0
+- Version: 1.4.1.0 -> 1.4.4.0
 
 ### CustomizableAbilities
 
-- Version: 1.3.2.1 -> 1.3.4.1
+- Version: 1.3.3.0 -> 1.3.4.1
 - Description
-  + Old: Mod that allows you to customize abilities: negative and fractional nail; the amount of SOUL received from nail hits; spells. Negative nail damage heals enemies.
+  + Old: Mod that allows you to customize abilities: negative and fractional nail; the amount of SOUL received from nail hits; nail cooldown; damage (also negative and fractional) and the amount of SOUL received from dream nail; spells. Negative damage heals enemies.
   + New: Mod that allows you to customize abilities: negative and fractional nail; the amount of SOUL received from nail hits; nail cooldown; damage (also negative and fractional) and the amount of SOUL received from dream nail; spells and other abilities. Negative damage heals enemies.
 
 ### DivineFury
@@ -336,7 +344,7 @@
 
 ### SpeedChanger
 
-- Version: 1.1.2.0 -> 1.1.3.1
+- Version: 1.1.3.0 -> 1.1.3.1
 
 ### StoriesOfaHkPlayer-Ch1
 

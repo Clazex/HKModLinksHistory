@@ -408,11 +408,11 @@
   },
   "Architect": {
     "description": "A level editor mod, allowing you to customise Hollow Knight by adding or removing platforms, enemies and more with an in-game level editor and level sharer.",
-    "version": "1.16.9.1",
+    "version": "1.16.10.0",
     "links": {
       "type": "universal",
-      "sha256": "298A0587D677321D3B19723D8A457D6CCD44046A25C8DCF45936389D78E7AF8C",
-      "url": "https://github.com/cometcake575/Architect/releases/download/1.16.9.1/Architect.zip"
+      "sha256": "0A57098FFD05A1C570C73CDFCE012F382D31C1B39A711CB275D5BE9FACC6CB1A",
+      "url": "https://github.com/cometcake575/Architect/releases/download/1.16.10.0/Architect.zip"
     },
     "dependencies": [
       "MagicUI",
@@ -979,11 +979,11 @@
   },
   "BugPrince": {
     "description": "A Randomizer 4 connection which combines Blue Prince mechanics with Hollow Knight transition randomizer.",
-    "version": "1.4.3.0",
+    "version": "1.4.4.0",
     "links": {
       "type": "universal",
-      "sha256": "32716AB9F30B40A9BAC0F76645F41AA1A3CA73421ABFAC1D5A30DBE0AC4976E5",
-      "url": "https://github.com/dplochcoder/HollowKnight.BugPrince/releases/download/v1.4.3/BugPrince.zip"
+      "sha256": "DA4D4D98932109EA441D0D9F76942A219B320488A84D37B7BCD6A44AE826A58B",
+      "url": "https://github.com/dplochcoder/HollowKnight.BugPrince/releases/download/v1.4.4/BugPrince.zip"
     },
     "dependencies": [
       "Benchwarp",
@@ -6556,6 +6556,24 @@
     "dependencies": [],
     "repository": "https://github.com/homothetyhk/HollowKnight.PaletteSwapper/"
   },
+  "PantheonOfRegions": {
+    "description": "Adds new Pantheon to fight bosses together",
+    "version": "1.0.0.3",
+    "links": {
+      "type": "universal",
+      "sha256": "713271332CAA6F9D4F494F62065B706F9CF1F1B13F76EA4BED2A8EDB6BFD7E5C",
+      "url": "https://github.com/EpsilonDown/PantheonOfRegions/releases/download/v1.0.0.3/Pantheon_of_Regions.zip"
+    },
+    "dependencies": [
+      "Osmi",
+      "Satchel",
+      "Vasi"
+    ],
+    "repository": "https://github.com/EpsilonDown/PantheonOfRegions",
+    "authors": [
+      "EpsilonDown"
+    ]
+  },
   "Pantheons Hit Counter": {
     "description": "Counts hits in pantheons automatically.",
     "version": "1.3.6.0",
@@ -9279,11 +9297,11 @@
   },
   "VendorRando": {
     "description": "A Randomizer add-on that randomizes the physical locations of vendors",
-    "version": "1.0.0.6",
+    "version": "1.0.1.0",
     "links": {
       "type": "universal",
-      "sha256": "55A6F8E210AFC7C28E62828A615581706E10AE70CB37047E34D30CFC50715ADF",
-      "url": "https://github.com/TheMathGeek314/VendorRando/releases/download/v1.0.0.6/VendorRando.zip"
+      "sha256": "18B6F935397753DC2272B179584FD89957927B7389581176DB1D07A344D9EA8E",
+      "url": "https://github.com/TheMathGeek314/VendorRando/releases/download/v1.0.1.0/VendorRando.zip"
     },
     "dependencies": [
       "ConnectionMetadataInjector",

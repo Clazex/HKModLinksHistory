@@ -20,3 +20,4 @@ DanielSteginkUtils
 INFINITY
 PURITY
 YetAnotherRandoConnection
+PantheonOfRegions

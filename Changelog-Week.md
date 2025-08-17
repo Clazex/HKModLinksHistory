@@ -21,6 +21,14 @@
 - Tags
   + Boss
 
+### PantheonOfRegions
+
+- Description: Adds new Pantheon to fight bosses together
+- Dependencies
+  + Osmi
+  + Satchel
+  + Vasi
+
 ### YetAnotherRandoConnection
 
 - Description: A Randomizer add-on with an assortment of additions
@@ -41,46 +49,19 @@
 
 ### Architect
 
-- Version: 1.16.0.1 -> 1.16.9.1
+- Version: 1.16.2.0 -> 1.16.10.0
 
 ### Breakable Wall Randomizer
 
 - Version: 4.0.1.0 -> 4.1.0.0
 
-### DanielSteginkUtils
+### BugPrince
 
-- Version: 1.0.1.0 -> 1.1.0.0
-- Dependencies
-  + Added
-    - ItemChanger
-
-### DivineFury
-
-- Version: 1.1.2.0 -> 1.2.0.0
-- Dependencies
-  + Added
-    - DanielSteginkUtils
-- Integrations
-  + Removed
-    - ExaltationExpanded
-  + Added
-    - Exaltation
+- Version: 1.4.3.0 -> 1.4.4.0
 
 ### Extra Rando
 
 - Version: 0.9.0.0 -> 0.11.1.0
-
-### Hivesong
-
-- Version: 1.2.1.0 -> 1.3.0.0
-- Dependencies
-  + Added
-    - DanielSteginkUtils
-- Integrations
-  + Removed
-    - ExaltationExpanded
-  + Added
-    - Exaltation
 
 ### Lore Randomizer
 
@@ -133,15 +114,5 @@
 
 ### VendorRando
 
-- Version: 1.0.0.4 -> 1.0.0.6
-
-### WanderersWisdom
-
-- Version: 1.0.1.0 -> 1.1.0.0
-- Dependencies
-  + Added
-    - DanielSteginkUtils
-- Integrations
-  + Added
-    - DebugMod
+- Version: 1.0.0.4 -> 1.0.1.0
 
