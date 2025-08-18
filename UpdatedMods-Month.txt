@@ -1,7 +1,4 @@
 Architect
-BingoUI
-CustomizableAbilities
-Architect
 CustomizableAbilities
 RemoveLaggyObjects
 AccessRandomizer
@@ -102,3 +99,5 @@ YetAnotherRandoConnection
 Architect
 BugPrince
 VendorRando
+Architect
+YetAnotherRandoConnection

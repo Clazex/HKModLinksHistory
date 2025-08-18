@@ -1,7 +1,4 @@
 Architect
-BingoUI
-CustomizableAbilities
-Architect
 CustomizableAbilities
 RemoveLaggyObjects
 VendorRando
@@ -125,3 +122,5 @@ Architect
 BugPrince
 PantheonOfRegions
 VendorRando
+Architect
+YetAnotherRandoConnection

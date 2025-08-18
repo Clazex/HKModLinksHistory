@@ -219,14 +219,10 @@
 
 ### Architect
 
-- Version: 1.9.1.0 -> 1.16.10.0
+- Version: 1.10.0.2 -> 1.16.11.1
 - Description
   + Old: A mod to add/remove platforms, enemies and more to change areas in the game with an in-game level editor and level sharer.
   + New: A level editor mod, allowing you to customise Hollow Knight by adding or removing platforms, enemies and more with an in-game level editor and level sharer.
-
-### BingoUI
-
-- Version: 2.2.0.0 -> 2.2.0.1
 
 ### Breakable Wall Randomizer
 
@@ -238,7 +234,7 @@
 
 ### CustomizableAbilities
 
-- Version: 1.3.3.0 -> 1.3.4.1
+- Version: 1.3.3.3 -> 1.3.4.1
 - Description
   + Old: Mod that allows you to customize abilities: negative and fractional nail; the amount of SOUL received from nail hits; nail cooldown; damage (also negative and fractional) and the amount of SOUL received from dream nail; spells. Negative damage heals enemies.
   + New: Mod that allows you to customize abilities: negative and fractional nail; the amount of SOUL received from nail hits; nail cooldown; damage (also negative and fractional) and the amount of SOUL received from dream nail; spells and other abilities. Negative damage heals enemies.

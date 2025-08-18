@@ -1,6 +1,7 @@
 Architect
-CustomizableAbilities
-HKMP.VoiceChat
-Pale Court Charms
-SFCore
+BugPrince
+MoreMasks
+MoreNotches
+PurenailCore
+Scattered and Lost
 SkillCharms
