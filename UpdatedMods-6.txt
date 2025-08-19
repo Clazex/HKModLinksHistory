@@ -1,3 +1,4 @@
 Architect
 Breakable Wall Randomizer
-Sunset Samsara II
+VendorRando
+YetAnotherRandoConnection

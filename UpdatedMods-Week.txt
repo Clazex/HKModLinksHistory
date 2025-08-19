@@ -1,8 +1,5 @@
 Architect
 Breakable Wall Randomizer
-Sunset Samsara II
-Architect
-Breakable Wall Randomizer
 VendorRando
 YetAnotherRandoConnection
 Architect
@@ -21,3 +18,6 @@ BugPrince
 VendorRando
 Architect
 YetAnotherRandoConnection
+Architect
+Pale Court Charms
+SafeGodseekerQoL

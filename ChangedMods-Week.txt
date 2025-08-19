@@ -1,10 +1,5 @@
 Architect
 Breakable Wall Randomizer
-PURITY
-Sunset Samsara II
-YetAnotherRandoConnection
-Architect
-Breakable Wall Randomizer
 VendorRando
 YetAnotherRandoConnection
 Architect
@@ -24,3 +19,6 @@ PantheonOfRegions
 VendorRando
 Architect
 YetAnotherRandoConnection
+Architect
+Pale Court Charms
+SafeGodseekerQoL

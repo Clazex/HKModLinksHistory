@@ -5,24 +5,25 @@
 
 ### Architect
 
-- Version: 1.16.6.2 -> 1.16.8.2
+- Version: 1.16.8.2 -> 1.16.9.1
 
 ### Extra Rando
 
-- Version: 0.9.0.0 -> 0.11.0.0
+- Version: 0.11.0.0 -> 0.11.1.0
 
-### MoreDoors
+### Lore Randomizer
 
-- Version: 3.2.0.0 -> 3.2.1.0
-- Integrations
-  + Added
-    - Extra Rando
+- Version: 0.3.3.0 -> 0.4.1.0
 
-### Trial of Crusaders
+### LoreCore
 
-- Version: 0.3.0.0 -> 0.3.1.0
+- Version: 0.6.3.0 -> 0.7.0.0
+
+### PurenailCore
+
+- Version: 1.4.1.0 -> 1.5.0.0
 
 ### YetAnotherRandoConnection
 
-- Version: 1.0.0.1 -> 1.0.0.2
+- Version: 1.0.0.2 -> 1.0.0.3
 
