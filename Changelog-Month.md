@@ -167,22 +167,6 @@
 - Integrations
   + DebugMod
 
-### VendorRando
-
-- Description: A Randomizer add-on that randomizes the physical locations of vendors
-- Dependencies
-  + ConnectionMetadataInjector
-  + ItemChanger
-  + MenuChanger
-  + Randomizer 4
-  + RandomizerCore
-  + RandomizerCore.Json
-  + Satchel
-- Integrations
-  + CondensedSpoilerLogger
-  + QoL
-  + RandoSettingsManager
-
 ### WrathOfTheSwarm
 
 - Description: Use Gathering Swarm as a weapon
@@ -219,14 +203,14 @@
 
 ### Architect
 
-- Version: 1.10.3.0 -> 1.16.11.3
+- Version: 1.10.3.0 -> 1.16.11.4
 - Description
   + Old: A mod to add/remove platforms, enemies and more to change areas in the game with an in-game level editor and level sharer.
   + New: A level editor mod, allowing you to customise Hollow Knight by adding or removing platforms, enemies and more with an in-game level editor and level sharer.
 
 ### Breakable Wall Randomizer
 
-- Version: 4.0.1.0 -> 4.1.0.0
+- Version: 4.0.1.0 -> 4.1.1.0
 
 ### BugPrince
 
@@ -307,6 +291,10 @@
 
 - Version: 0.6.3.0 -> 0.7.0.0
 
+### MilliGolf
+
+- Version: 1.3.0.0 -> 1.3.0.1
+
 ### MoreDoors
 
 - Version: 3.2.0.0 -> 3.2.1.0
@@ -382,6 +370,10 @@
 ### Trial of Crusaders
 
 - Version: 0.2.5.0 -> 0.3.1.0
+
+### VendorRando
+
+- Version: 1.0.0.0 -> 1.0.1.0
 
 ### WanderersWisdom
 

@@ -101,3 +101,6 @@ YetAnotherRandoConnection
 Architect
 Pale Court Charms
 SafeGodseekerQoL
+Architect
+Breakable Wall Randomizer
+MilliGolf

@@ -1,4 +1,3 @@
-VendorRando
 DPSMeter
 MetalOST
 HKMP.VoiceChat

@@ -16,11 +16,11 @@
 
 ### Architect
 
-- Version: 1.16.4.0 -> 1.16.11.3
+- Version: 1.16.6.2 -> 1.16.11.4
 
 ### Breakable Wall Randomizer
 
-- Version: 4.0.1.1 -> 4.1.0.0
+- Version: 4.1.0.0 -> 4.1.1.0
 
 ### BugPrince
 
@@ -37,6 +37,10 @@
 ### LoreCore
 
 - Version: 0.6.3.0 -> 0.7.0.0
+
+### MilliGolf
+
+- Version: 1.3.0.0 -> 1.3.0.1
 
 ### MoreDoors
 
@@ -63,9 +67,9 @@
 
 ### VendorRando
 
-- Version: 1.0.0.4 -> 1.0.1.0
+- Version: 1.0.0.6 -> 1.0.1.0
 
 ### YetAnotherRandoConnection
 
-- Version: 1.0.0.0 -> 1.0.0.4
+- Version: 1.0.0.1 -> 1.0.0.4
 
