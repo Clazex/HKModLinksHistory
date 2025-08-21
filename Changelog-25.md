@@ -3,43 +3,45 @@
 
 ## New mods
 
-### HKMP.VoiceChat
+### MoreMasks
 
-- Description: An HKMP addon that adds (proximity) voice chat. Requires OpenAL (https://www.openal.org/) to be installed.
+- Description: Makes more masks available to be displayed. Also works for lifeblood masks. By default it shows 28 masks per row. Can be adjusted by editing the globalsettings file of this mod.
 - Dependencies
-  + HKMP
-
-### Pale Court Charms
-
-- Description: Adds charms from Pale Court. Made to allow compatibility with mods that don&#x27;t work with the main Pale Court. Works with Randomizer.
-- Dependencies
-  + ItemChanger
   + SFCore
-- Integrations
-  + RandoSettingsManager
-  + Randomizer 4
 - Tags
-  + Gameplay
+  + Utility
 
-### SkillCharms
+### MoreNotches
 
-- Description: Skills are now equippable charms
+- Description: Makes more charm notches available to be displayed. Also works for overcharm and charm detail notches. By default it shows up to 50 equipped notches and 20 charm detail notches. Can be adjusted by editing the globalsettings file of this mod.
 - Dependencies
   + SFCore
-  + Satchel
+- Tags
+  + Utility
 
 
 ## Updated mods
 
 ### Architect
 
-- Version: 1.10.8.1 -> 1.10.9.2
+- Version: 1.10.9.2 -> 1.11.0.1
 
-### CustomizableAbilities
+### BugPrince
 
-- Version: 1.3.4.0 -> 1.3.4.1
+- Version: 1.4.1.0 -> 1.4.2.0
 
-### SFCore
+### PurenailCore
 
-- Version: 1.5.14.14 -> 1.5.14.15
+- Version: 1.4.0.0 -> 1.4.1.0
+
+### Scattered and Lost
+
+- Version: 1.5.1.0 -> 1.5.2.0
+
+### SkillCharms
+
+- Version: 1.0.0.0 -> 1.0.1.0
+- Dependencies
+  + Added
+    - MoreNotches
 

@@ -1,9 +1,3 @@
-AccessRandomizer
-Architect
-DivineFury
-EnchantedMask
-Hivesong
-VendorRando
 Architect
 CustomizableAbilities
 ExaltationExpanded
@@ -104,3 +98,9 @@ SafeGodseekerQoL
 Architect
 Breakable Wall Randomizer
 MilliGolf
+Architect
+CharmPatch
+DanielSteginkUtils
+DivineFury
+ExaltationExpanded
+Hivesong

@@ -15,15 +15,6 @@
 - Tags
   + Utility
 
-### DPSMeter
-
-- Description: Mod that allows you to see how much damage you deal per second. Also works with negative damage.
-- Dependencies
-  + Satchel
-- Tags
-  + Gameplay
-  + Utility
-
 ### DanielSteginkUtils
 
 - Description: Custom library with calculations, logic and cross-mod helpers.
@@ -81,12 +72,6 @@
   + Satchel
 - Tags
   + Utility
-
-### MetalOST
-
-- Description: Replaces all of Hallownest’s OST’s with custom metal variants made by RYS.
-- Tags
-  + Cosmetic
 
 ### MoreMasks
 
@@ -189,10 +174,6 @@
 
 ## Updated mods
 
-### AccessRandomizer
-
-- Version: 1.3.0.4 -> 1.3.0.5
-
 ### Archipelago
 
 - Version: 0.9.0.0 -> 0.10.0.0
@@ -203,7 +184,7 @@
 
 ### Architect
 
-- Version: 1.10.3.0 -> 1.16.11.4
+- Version: 1.10.4.1 -> 1.16.12.0
 - Description
   + Old: A mod to add/remove platforms, enemies and more to change areas in the game with an in-game level editor and level sharer.
   + New: A level editor mod, allowing you to customise Hollow Knight by adding or removing platforms, enemies and more with an in-game level editor and level sharer.
@@ -216,6 +197,13 @@
 
 - Version: 1.4.1.0 -> 1.4.4.0
 
+### CharmPatch
+
+- Version: 1.4.2.0 -> 1.5.0.0
+- Dependencies
+  + Added
+    - DanielSteginkUtils
+
 ### CustomizableAbilities
 
 - Version: 1.3.3.4 -> 1.3.4.1
@@ -225,18 +213,19 @@
 
 ### DivineFury
 
-- Version: 1.1.0.0 -> 1.2.0.0
+- Version: 1.1.1.0 -> 1.2.1.0
 - Dependencies
   + Added
     - DanielSteginkUtils
 - Integrations
+  + Removed
+    - ExaltationExpanded
   + Added
-    - DebugMod
     - Exaltation
 
 ### EnchantedMask
 
-- Version: 1.0.0.0 -> 1.2.0.0
+- Version: 1.0.1.0 -> 1.2.0.0
 - Dependencies
   + Added
     - DanielSteginkUtils
@@ -247,7 +236,7 @@
 
 ### ExaltationExpanded
 
-- Version: 1.0.2.0 -> 1.2.0.0
+- Version: 1.0.2.0 -> 1.2.1.0
 - Dependencies
   + Added
     - DanielSteginkUtils
@@ -270,13 +259,14 @@
 
 ### Hivesong
 
-- Version: 1.2.0.0 -> 1.3.0.0
+- Version: 1.2.1.0 -> 1.3.1.0
 - Dependencies
   + Added
     - DanielSteginkUtils
 - Integrations
+  + Removed
+    - ExaltationExpanded
   + Added
-    - DebugMod
     - Exaltation
 
 ### KorzUtils
@@ -290,6 +280,10 @@
 ### LoreCore
 
 - Version: 0.6.3.0 -> 0.7.0.0
+
+### MetalOST
+
+- Version: 1.0.0.0 -> 1.1.0.0
 
 ### MilliGolf
 
@@ -373,7 +367,7 @@
 
 ### VendorRando
 
-- Version: 1.0.0.0 -> 1.0.1.0
+- Version: 1.0.0.1 -> 1.0.1.0
 
 ### WanderersWisdom
 

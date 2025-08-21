@@ -1,2 +1,5 @@
 Architect
-ShowHPOnDeath
+DivineFury
+GearSwitcher
+MetalOST
+ReplayLogger

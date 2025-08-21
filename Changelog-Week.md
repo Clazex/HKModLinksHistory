@@ -16,7 +16,7 @@
 
 ### Architect
 
-- Version: 1.16.6.2 -> 1.16.11.4
+- Version: 1.16.8.2 -> 1.16.12.0
 
 ### Breakable Wall Randomizer
 
@@ -26,9 +26,32 @@
 
 - Version: 1.4.3.0 -> 1.4.4.0
 
+### CharmPatch
+
+- Version: 1.4.2.0 -> 1.5.0.0
+- Dependencies
+  + Added
+    - DanielSteginkUtils
+
+### DanielSteginkUtils
+
+- Version: 1.1.0.0 -> 1.2.1.0
+
+### DivineFury
+
+- Version: 1.2.0.0 -> 1.2.1.0
+
+### ExaltationExpanded
+
+- Version: 1.2.0.0 -> 1.2.1.0
+
 ### Extra Rando
 
-- Version: 0.9.0.0 -> 0.11.1.0
+- Version: 0.11.0.0 -> 0.11.1.0
+
+### Hivesong
+
+- Version: 1.3.0.0 -> 1.3.1.0
 
 ### Lore Randomizer
 
@@ -42,13 +65,6 @@
 
 - Version: 1.3.0.0 -> 1.3.0.1
 
-### MoreDoors
-
-- Version: 3.2.0.0 -> 3.2.1.0
-- Integrations
-  + Added
-    - Extra Rando
-
 ### Pale Court Charms
 
 - Version: 1.2.0.0 -> 1.3.0.0
@@ -61,15 +77,11 @@
 
 - Version: 1.0.0.0 -> 1.0.0.1
 
-### Trial of Crusaders
-
-- Version: 0.3.0.0 -> 0.3.1.0
-
 ### VendorRando
 
 - Version: 1.0.0.6 -> 1.0.1.0
 
 ### YetAnotherRandoConnection
 
-- Version: 1.0.0.1 -> 1.0.0.4
+- Version: 1.0.0.2 -> 1.0.0.4
 

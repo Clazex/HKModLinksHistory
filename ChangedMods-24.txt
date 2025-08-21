@@ -1,7 +1,4 @@
+Archipelago
+Archipelago Map Mod
 Architect
-BugPrince
-MoreMasks
-MoreNotches
-PurenailCore
 Scattered and Lost
-SkillCharms

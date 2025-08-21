@@ -408,11 +408,11 @@
   },
   "Architect": {
     "description": "A level editor mod, allowing you to customise Hollow Knight by adding or removing platforms, enemies and more with an in-game level editor and level sharer.",
-    "version": "1.16.11.4",
+    "version": "1.16.12.0",
     "links": {
       "type": "universal",
-      "sha256": "6F4C05F57ACC03AA6CE2EF26FBFD94EAE07A9CC83D4BB44A3B25F0E9ADE6DDE9",
-      "url": "https://github.com/cometcake575/Architect/releases/download/1.16.11.4/Architect.zip"
+      "sha256": "0754FE6B6B6DE34CD9C9834C235976FA53002198AA03A9CFAE8705A561FD9F94",
+      "url": "https://github.com/cometcake575/Architect/releases/download/1.16.12.0/Architect.zip"
     },
     "dependencies": [
       "MagicUI",
@@ -1282,13 +1282,14 @@
   },
   "CharmPatch": {
     "description": "This is a collection of small changes that I think improve the balance of certain charms in the game. Please view Readme for Charm Changer mod recommendations.",
-    "version": "1.4.2.0",
+    "version": "1.5.0.0",
     "links": {
       "type": "universal",
-      "sha256": "C4CE706EEED6731D37F0A6D084CDC044AFFCF32BFC1B828628CBE2DE99BC8CA7",
-      "url": "https://github.com/danielstegink/HollowKnight.CharmPatch/releases/download/1.4.2.0/CharmPatch.zip"
+      "sha256": "AE738424224673342330611E458AFEC3AD28F62C8B9932663D91C36C6B05B8AA",
+      "url": "https://github.com/danielstegink/HollowKnight.CharmPatch/releases/download/1.5.0.0/CharmPatch.zip"
     },
     "dependencies": [
+      "DanielSteginkUtils",
       "HKMirror",
       "SFCore",
       "Satchel"
@@ -2101,11 +2102,11 @@
   },
   "DanielSteginkUtils": {
     "description": "Custom library with calculations, logic and cross-mod helpers.",
-    "version": "1.1.0.0",
+    "version": "1.2.1.0",
     "links": {
       "type": "universal",
-      "sha256": "C5A488FF36E4DEEBA8F1B89E90E93588AAD3E91CF79226B921BCC413C038BC97",
-      "url": "https://github.com/danielstegink/HollowKnight.DanielSteginkUtils/releases/download/1.1.0.0/DanielSteginkUtils.zip"
+      "sha256": "EAAB60339B41D6F3E98D8C2E8AB835984C5DF3C9A3DBCE317C934077F0EF55F0",
+      "url": "https://github.com/danielstegink/HollowKnight.DanielSteginkUtils/releases/download/1.2.1.0/DanielSteginkUtils.zip"
     },
     "dependencies": [
       "ItemChanger",
@@ -2450,11 +2451,11 @@
   },
   "DivineFury": {
     "description": "This mod adds a new charm: Divine Fury. This charm sets the player's health to 1, allowing Fury of the Fallen to be viable in Radiant Godhome battles.",
-    "version": "1.2.0.0",
+    "version": "1.2.1.0",
     "links": {
       "type": "universal",
-      "sha256": "3E56A380427AE13A1DAC48200C9FD936FD70E452CCAF5B9B05FAEA8BCDE27FCC",
-      "url": "https://github.com/danielstegink/HollowKnight.DivineFury/releases/download/1.2.0.0/DivineFury.zip"
+      "sha256": "6BB806AC8C86F98AEA250EC5F7BCF119128371D1E7B0B96B16B538497B0A507E",
+      "url": "https://github.com/danielstegink/HollowKnight.DivineFury/releases/download/1.2.1.0/DivineFury.zip"
     },
     "dependencies": [
       "DanielSteginkUtils",
@@ -2825,11 +2826,11 @@
   },
   "ExaltationExpanded": {
     "description": "A fan-made supplement to the Exaltation mod created by Xhuis (and ported/updated by Théodore).",
-    "version": "1.2.0.0",
+    "version": "1.2.1.0",
     "links": {
       "type": "universal",
-      "sha256": "56DC6F034EFF766A2B581C98CF3E312560B95D593EE0379B6A243A04D29B4088",
-      "url": "https://github.com/danielstegink/HollowKnight.ExaltationExpanded/releases/download/1.2.0.0/ExaltationExpanded.zip"
+      "sha256": "E6F83362282634FBC5916FA1A295C4C3296C216AC07C6EAED906889A5D96A236",
+      "url": "https://github.com/danielstegink/HollowKnight.ExaltationExpanded/releases/download/1.2.1.0/ExaltationExpanded.zip"
     },
     "dependencies": [
       "DanielSteginkUtils",
@@ -4419,11 +4420,11 @@
   },
   "Hivesong": {
     "description": "This mod adds a new charm, Hivesong, which increases the damage dealt by pets.",
-    "version": "1.3.0.0",
+    "version": "1.3.1.0",
     "links": {
       "type": "universal",
-      "sha256": "8746DAC75D8A2890F2AA816BD92F6A4403C54F382BABEC2FC579C8546F9533EC",
-      "url": "https://github.com/danielstegink/HollowKnight.Hivesong/releases/download/1.3.0.0/Hivesong.zip"
+      "sha256": "9260DF17CB9E0F753C0C5A74EA0CEDAD1915B2824F2939A04E387FF13EC6F336",
+      "url": "https://github.com/danielstegink/HollowKnight.Hivesong/releases/download/1.3.1.0/Hivesong.zip"
     },
     "dependencies": [
       "DanielSteginkUtils",

@@ -1,5 +1,4 @@
 Architect
 Breakable Wall Randomizer
-PURITY
-Sunset Samsara II
+VendorRando
 YetAnotherRandoConnection
