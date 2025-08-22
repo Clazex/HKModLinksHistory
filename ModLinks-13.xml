@@ -9241,9 +9241,9 @@ Enjoy!</Description>
      <Manifest>
         <Name>ReplayLogger</Name>
         <Description>ReplayLoger is a mod that was created to verify the legitimacy of player challenge runs.</Description>
-        <Version>1.0.0.3</Version>
-        <Link SHA256="65ca031fbb24ec8cd1997bfcfefaec1254dac988367cdc4ecd6adc080f0dc176">
-            <![CDATA[https://github.com/MorozicH20/ReplayLogger/releases/download/v1.0.0.3/ReplayLogger.zip]]>
+        <Version>1.0.0.4</Version>
+        <Link SHA256="fb203f9e927d95f409dfa81a047c431b524f540017d26bf02ed2c1af78700dc3">
+            <![CDATA[https://github.com/MorozicH20/ReplayLogger/releases/download/v1.0.0.4/ReplayLogger.zip]]>
         </Link>
          <Dependencies />
         <Repository>
@@ -10017,7 +10017,7 @@ Enjoy!</Description>
         <Name>DanielSteginkUtils</Name>
         <Description>Custom library with calculations, logic and cross-mod helpers.</Description>
         <Version>1.0.1.0</Version>
-        <Link SHA256="DA8BEAEE595475812E61C95AF860407A1A485E1DA86467DC525155B1C175BC8E">
+        <Link SHA256="fde9be5f11f103409bbf680f915b7dd9389e42915c03712b5d38be7c367080dd">
             <![CDATA[https://github.com/danielstegink/HollowKnight.DanielSteginkUtils/releases/download/1.0.1.0/DanielSteginkUtils.zip]]>
         </Link>
         <Dependencies>

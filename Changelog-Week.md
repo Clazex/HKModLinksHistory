@@ -16,7 +16,7 @@
 
 ### Architect
 
-- Version: 1.16.8.2 -> 1.16.12.0
+- Version: 1.16.9.1 -> 1.16.12.0
 
 ### Breakable Wall Randomizer
 
@@ -43,23 +43,14 @@
 
 ### ExaltationExpanded
 
-- Version: 1.2.0.0 -> 1.2.1.0
-
-### Extra Rando
-
-- Version: 0.11.0.0 -> 0.11.1.0
+- Version: 1.2.0.0 -> 1.3.0.0
+- Integrations
+  + Added
+    - MoreMasks
 
 ### Hivesong
 
 - Version: 1.3.0.0 -> 1.3.1.0
-
-### Lore Randomizer
-
-- Version: 0.3.3.0 -> 0.4.1.0
-
-### LoreCore
-
-- Version: 0.6.3.0 -> 0.7.0.0
 
 ### MilliGolf
 
@@ -68,10 +59,6 @@
 ### Pale Court Charms
 
 - Version: 1.2.0.0 -> 1.3.0.0
-
-### PurenailCore
-
-- Version: 1.4.1.0 -> 1.5.0.0
 
 ### SafeGodseekerQoL
 
@@ -83,5 +70,5 @@
 
 ### YetAnotherRandoConnection
 
-- Version: 1.0.0.2 -> 1.0.0.4
+- Version: 1.0.0.3 -> 1.0.0.4
 

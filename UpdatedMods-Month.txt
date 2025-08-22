@@ -1,9 +1,4 @@
 Architect
-CustomizableAbilities
-ExaltationExpanded
-Extra Rando
-MetalOST
-Architect
 ShowHPOnDeath
 Architect
 DivineFury
@@ -104,3 +99,4 @@ DanielSteginkUtils
 DivineFury
 ExaltationExpanded
 Hivesong
+ExaltationExpanded

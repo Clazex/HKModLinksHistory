@@ -1,10 +1,4 @@
 Architect
-Extra Rando
-Lore Randomizer
-LoreCore
-PurenailCore
-YetAnotherRandoConnection
-Architect
 BugPrince
 PantheonOfRegions
 VendorRando
@@ -22,3 +16,4 @@ DanielSteginkUtils
 DivineFury
 ExaltationExpanded
 Hivesong
+ExaltationExpanded
