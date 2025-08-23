@@ -1,7 +1,4 @@
 Architect
-BugPrince
-VendorRando
-Architect
 YetAnotherRandoConnection
 Architect
 Pale Court Charms
@@ -16,3 +13,7 @@ DivineFury
 ExaltationExpanded
 Hivesong
 ExaltationExpanded
+CharmPatch
+DanielSteginkUtils
+ExaltationExpanded
+YetAnotherRandoConnection

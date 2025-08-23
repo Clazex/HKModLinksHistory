@@ -18,3 +18,4 @@ INFINITY
 PURITY
 YetAnotherRandoConnection
 PantheonOfRegions
+Limitations

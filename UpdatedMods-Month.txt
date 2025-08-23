@@ -1,6 +1,4 @@
 Architect
-ShowHPOnDeath
-Architect
 DivineFury
 GearSwitcher
 MetalOST
@@ -100,3 +98,7 @@ DivineFury
 ExaltationExpanded
 Hivesong
 ExaltationExpanded
+CharmPatch
+DanielSteginkUtils
+ExaltationExpanded
+YetAnotherRandoConnection
