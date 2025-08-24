@@ -14,7 +14,7 @@
 
 ### Architect
 
-- Version: 1.16.10.0 -> 1.16.12.0
+- Version: 1.16.11.1 -> 1.16.12.1
 
 ### Breakable Wall Randomizer
 
@@ -63,5 +63,5 @@
 
 ### YetAnotherRandoConnection
 
-- Version: 1.0.0.3 -> 1.1.0.0
+- Version: 1.0.0.4 -> 1.1.0.1
 

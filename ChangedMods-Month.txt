@@ -1,9 +1,4 @@
 Architect
-DivineFury
-GearSwitcher
-MetalOST
-ReplayLogger
-Architect
 CustomizableAbilities
 HKMP.VoiceChat
 Pale Court Charms
@@ -122,4 +117,6 @@ CharmPatch
 DanielSteginkUtils
 ExaltationExpanded
 Limitations
+YetAnotherRandoConnection
+Architect
 YetAnotherRandoConnection

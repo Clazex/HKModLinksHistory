@@ -1,9 +1,4 @@
 Architect
-DivineFury
-GearSwitcher
-MetalOST
-ReplayLogger
-Architect
 CustomizableAbilities
 SFCore
 Architect
@@ -101,4 +96,6 @@ ExaltationExpanded
 CharmPatch
 DanielSteginkUtils
 ExaltationExpanded
+YetAnotherRandoConnection
+Architect
 YetAnotherRandoConnection

@@ -190,7 +190,7 @@
 
 ### Architect
 
-- Version: 1.10.7.0 -> 1.16.12.0
+- Version: 1.10.8.1 -> 1.16.12.1
 - Description
   + Old: A mod to add/remove platforms, enemies and more to change areas in the game with an in-game level editor and level sharer.
   + New: A level editor mod, allowing you to customise Hollow Knight by adding or removing platforms, enemies and more with an in-game level editor and level sharer.
@@ -219,7 +219,7 @@
 
 ### DivineFury
 
-- Version: 1.1.1.0 -> 1.2.1.0
+- Version: 1.1.2.0 -> 1.2.1.0
 - Dependencies
   + Added
     - DanielSteginkUtils
@@ -258,10 +258,6 @@
 
 - Version: 1.0.0.0 -> 1.0.1.0
 
-### GearSwitcher
-
-- Version: 1.0.0.0 -> 1.0.1.0
-
 ### Hivesong
 
 - Version: 1.2.1.0 -> 1.3.1.0
@@ -286,10 +282,6 @@
 
 - Version: 0.6.3.0 -> 0.7.0.0
 
-### MetalOST
-
-- Version: 1.0.0.1 -> 1.1.0.0
-
 ### MilliGolf
 
 - Version: 1.3.0.0 -> 1.3.0.1
@@ -307,7 +299,7 @@
 
 ### ReplayLogger
 
-- Version: 1.0.0.0 -> 1.0.0.4
+- Version: 1.0.0.1 -> 1.0.0.4
 
 ### SFCore
 

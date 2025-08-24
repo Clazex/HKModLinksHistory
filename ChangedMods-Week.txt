@@ -1,6 +1,4 @@
 Architect
-YetAnotherRandoConnection
-Architect
 Pale Court Charms
 SafeGodseekerQoL
 Architect
@@ -17,4 +15,6 @@ CharmPatch
 DanielSteginkUtils
 ExaltationExpanded
 Limitations
+YetAnotherRandoConnection
+Architect
 YetAnotherRandoConnection

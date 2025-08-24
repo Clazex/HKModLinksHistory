@@ -408,11 +408,11 @@
   },
   "Architect": {
     "description": "A level editor mod, allowing you to customise Hollow Knight by adding or removing platforms, enemies and more with an in-game level editor and level sharer.",
-    "version": "1.16.12.0",
+    "version": "1.16.12.1",
     "links": {
       "type": "universal",
-      "sha256": "0754FE6B6B6DE34CD9C9834C235976FA53002198AA03A9CFAE8705A561FD9F94",
-      "url": "https://github.com/cometcake575/Architect/releases/download/1.16.12.0/Architect.zip"
+      "sha256": "381083A3C5A471EF72B6C1B31EB046D554E680B516E3C4278C9C9AE8D3FA1ADB",
+      "url": "https://github.com/cometcake575/Architect/releases/download/1.16.12.1/Architect.zip"
     },
     "dependencies": [
       "MagicUI",
@@ -9521,11 +9521,11 @@
   },
   "YetAnotherRandoConnection": {
     "description": "A Randomizer add-on with an assortment of additions",
-    "version": "1.1.0.0",
+    "version": "1.1.0.1",
     "links": {
       "type": "universal",
-      "sha256": "E2CBB05D8E40E5C5BDDA0883243A764776C694D02771D05927B824047722B60A",
-      "url": "https://github.com/TheMathGeek314/YetAnotherRandoConnection/releases/download/v1.1.0.0/YetAnotherRandoConnection.zip"
+      "sha256": "AF31416744A9FFC35553DCD4267716D95943A14E2958A1F6C20E69470CBBACAF",
+      "url": "https://github.com/TheMathGeek314/YetAnotherRandoConnection/releases/download/v1.1.0.1/YetAnotherRandoConnection.zip"
     },
     "dependencies": [
       "ConnectionMetadataInjector",
