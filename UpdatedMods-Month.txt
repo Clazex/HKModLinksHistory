@@ -1,7 +1,4 @@
 Architect
-CustomizableAbilities
-SFCore
-Architect
 BugPrince
 PurenailCore
 Scattered and Lost
@@ -99,3 +96,4 @@ ExaltationExpanded
 YetAnotherRandoConnection
 Architect
 YetAnotherRandoConnection
+SFCore

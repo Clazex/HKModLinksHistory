@@ -7714,11 +7714,11 @@
   },
   "SFCore": {
     "description": "Library mod used by other mods.",
-    "version": "1.5.14.15",
+    "version": "1.5.14.16",
     "links": {
       "type": "universal",
-      "sha256": "3D3CFCF833E872A2EA3DAEC84FD5A2F6896E0B94E7841D5ECE740D631E1AAF12",
-      "url": "https://github.com/SFGrenade/SFCore/releases/download/v1.5.14.15/SFCore.zip"
+      "sha256": "E8882F764AF1E90A1574D0D87A8687995D786FC36965B7D0F053AE7F52755FA0",
+      "url": "https://github.com/SFGrenade/SFCore/releases/download/v1.5.14.16/SFCore.zip"
     },
     "dependencies": [],
     "repository": "https://github.com/SFGrenade/SFCore/",

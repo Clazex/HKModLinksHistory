@@ -14,7 +14,7 @@
 
 ### Architect
 
-- Version: 1.16.11.1 -> 1.16.12.1
+- Version: 1.16.11.3 -> 1.16.12.1
 
 ### Breakable Wall Randomizer
 
@@ -53,13 +53,9 @@
 
 - Version: 1.3.0.0 -> 1.3.0.1
 
-### Pale Court Charms
+### SFCore
 
-- Version: 1.2.0.0 -> 1.3.0.0
-
-### SafeGodseekerQoL
-
-- Version: 1.0.0.0 -> 1.0.0.1
+- Version: 1.5.14.15 -> 1.5.14.16
 
 ### YetAnotherRandoConnection
 

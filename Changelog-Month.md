@@ -50,12 +50,6 @@
 - Tags
   + Boss
 
-### HKMP.VoiceChat
-
-- Description: An HKMP addon that adds (proximity) voice chat. Requires OpenAL (https://www.openal.org/) to be installed.
-- Dependencies
-  + HKMP
-
 ### INFINITY
 
 - Description: A pure vessel boss mod.
@@ -119,19 +113,6 @@
 - Tags
   + Boss
 
-### Pale Court Charms
-
-- Description: Adds charms from Pale Court. Made to allow compatibility with mods that don&#x27;t work with the main Pale Court. Works with Randomizer and Transcendence.
-- Dependencies
-  + ItemChanger
-  + SFCore
-- Integrations
-  + RandoSettingsManager
-  + Randomizer 4
-  + Transcendence
-- Tags
-  + Gameplay
-
 ### PantheonOfRegions
 
 - Description: Adds new Pantheon to fight bosses together
@@ -147,16 +128,6 @@
   + Osmi
   + Satchel
   + Vasi
-
-### SkillCharms
-
-- Description: Skills are now equippable charms
-- Dependencies
-  + MoreNotches
-  + SFCore
-  + Satchel
-- Integrations
-  + DebugMod
 
 ### WrathOfTheSwarm
 
@@ -190,7 +161,7 @@
 
 ### Architect
 
-- Version: 1.10.8.1 -> 1.16.12.1
+- Version: 1.10.9.2 -> 1.16.12.1
 - Description
   + Old: A mod to add/remove platforms, enemies and more to change areas in the game with an in-game level editor and level sharer.
   + New: A level editor mod, allowing you to customise Hollow Knight by adding or removing platforms, enemies and more with an in-game level editor and level sharer.
@@ -212,10 +183,6 @@
 - Integrations
   + Added
     - Charm Changer
-
-### CustomizableAbilities
-
-- Version: 1.3.4.0 -> 1.3.4.1
 
 ### DivineFury
 
@@ -293,6 +260,16 @@
   + Added
     - Extra Rando
 
+### Pale Court Charms
+
+- Version: 1.0.0.0 -> 1.3.0.0
+- Description
+  + Old: Adds charms from Pale Court. Made to allow compatibility with mods that don&#x27;t work with the main Pale Court. Works with Randomizer.
+  + New: Adds charms from Pale Court. Made to allow compatibility with mods that don&#x27;t work with the main Pale Court. Works with Randomizer and Transcendence.
+- Integrations
+  + Added
+    - Transcendence
+
 ### PurenailCore
 
 - Version: 1.4.0.0 -> 1.5.0.0
@@ -303,11 +280,21 @@
 
 ### SFCore
 
-- Version: 1.5.14.14 -> 1.5.14.15
+- Version: 1.5.14.15 -> 1.5.14.16
 
 ### Scattered and Lost
 
 - Version: 1.5.1.0 -> 1.5.2.1
+
+### SkillCharms
+
+- Version: 1.0.0.0 -> 1.0.2.0
+- Dependencies
+  + Added
+    - MoreNotches
+- Integrations
+  + Added
+    - DebugMod
 
 ### SpeedChanger
 

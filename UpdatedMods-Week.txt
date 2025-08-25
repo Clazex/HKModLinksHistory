@@ -1,7 +1,4 @@
 Architect
-Pale Court Charms
-SafeGodseekerQoL
-Architect
 Breakable Wall Randomizer
 MilliGolf
 Architect
@@ -17,3 +14,4 @@ ExaltationExpanded
 YetAnotherRandoConnection
 Architect
 YetAnotherRandoConnection
+SFCore
