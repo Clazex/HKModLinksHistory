@@ -1,7 +1,4 @@
 Architect
-Breakable Wall Randomizer
-MilliGolf
-Architect
 CharmPatch
 DanielSteginkUtils
 DivineFury
@@ -15,3 +12,4 @@ YetAnotherRandoConnection
 Architect
 YetAnotherRandoConnection
 SFCore
+Architect

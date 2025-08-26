@@ -1,5 +1,3 @@
-MoreMasks
-MoreNotches
 MotionBlur
 SafeGodseekerQoL
 WrathOfTheSwarm
@@ -16,3 +14,5 @@ PURITY
 YetAnotherRandoConnection
 PantheonOfRegions
 Limitations
+GPZPractice
+PowerfulShadowDash

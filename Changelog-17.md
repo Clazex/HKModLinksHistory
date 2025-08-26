@@ -3,11 +3,7 @@
 
 ## Updated mods
 
-### Architect
+### ReplayLogger
 
-- Version: 1.16.0.0 -> 1.16.0.1
-
-### Pale Court Charms
-
-- Version: 1.1.1.0 -> 1.1.3.0
+- Version: 1.0.0.3 -> 1.0.0.4
 

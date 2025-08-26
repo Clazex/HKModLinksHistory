@@ -5,9 +5,13 @@
 
 ### Architect
 
-- Version: 1.16.10.0 -> 1.16.11.1
+- Version: 1.16.11.1 -> 1.16.11.3
 
-### YetAnotherRandoConnection
+### Pale Court Charms
 
-- Version: 1.0.0.3 -> 1.0.0.4
+- Version: 1.2.0.0 -> 1.3.0.0
+
+### SafeGodseekerQoL
+
+- Version: 1.0.0.0 -> 1.0.0.1
 

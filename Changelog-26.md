@@ -3,49 +3,38 @@
 
 ## New mods
 
-### WrathOfTheSwarm
+### BaldurRngConfig
 
-- Description: Use Gathering Swarm as a weapon
+- Description: Configure various Elder Baldur settings
+- Dependencies
+  + Satchel
+
+### Faction Elimination
+
+- Description: A custom gamemode for HKMP where teams collect upgrades and fight each other.
+- Dependencies
+  + Charm Changer
+  + HkmpPouch
+  + ItemChanger
+  + MenuChanger
+  + TheHuntIsOn
 
 
 ## Updated mods
 
 ### Architect
 
-- Version: 1.11.1.3 -> 1.11.2.2
+- Version: 1.11.2.2 -> 1.12.0.1
 
-### EnchantedMask
+### Extra Rando
 
-- Version: 1.0.1.0 -> 1.1.0.0
-- Dependencies
-  + Added
-    - DebugMod
-- Integrations
-  + Removed
-    - DebugMod
-  + Added
-    - Pale Court
-    - Pale Court Charms
+- Version: 0.7.0.0 -> 0.8.0.0
 
 ### MotionBlur
 
-- Version: 1.0.0.0 -> 1.0.1.0
-- Description
-  + Old: Adds motion blur.
-  + New: Adds motion blur
-
-### SkillCharms
-
 - Version: 1.0.1.0 -> 1.0.2.0
-- Integrations
-  + Added
-    - DebugMod
 
-### SpeedChanger
+### Pale Court Charms
 
-- Version: 1.1.3.0 -> 1.1.3.1
-
-### VendorRando
-
-- Version: 1.0.0.1 -> 1.0.0.2
+- Version: 1.0.0.0 -> 1.0.0.1
 

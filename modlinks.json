@@ -408,11 +408,11 @@
   },
   "Architect": {
     "description": "A level editor mod, allowing you to customise Hollow Knight by adding or removing platforms, enemies and more with an in-game level editor and level sharer.",
-    "version": "1.16.12.1",
+    "version": "1.16.12.2",
     "links": {
       "type": "universal",
-      "sha256": "381083A3C5A471EF72B6C1B31EB046D554E680B516E3C4278C9C9AE8D3FA1ADB",
-      "url": "https://github.com/cometcake575/Architect/releases/download/1.16.12.1/Architect.zip"
+      "sha256": "1D97E1BC07D4F4D835B586C68219CA2EDC50BC625B4AE553538473CE14567F67",
+      "url": "https://github.com/cometcake575/Architect/releases/download/1.16.12.2/Architect.zip"
     },
     "dependencies": [
       "MagicUI",
@@ -3417,6 +3417,24 @@
     ],
     "authors": [
       "Exempt-Medic"
+    ]
+  },
+  "GPZPractice": {
+    "description": "This mod allows you config spawning of Zotelings.",
+    "version": "1.0.0.0",
+    "links": {
+      "type": "universal",
+      "sha256": "0E21F499FBD7366AA29AA55EABE665FD343CBD497CB50D0BB08ADCE601B8427B",
+      "url": "https://github.com/Vitaxses/HKGPZPractice/releases/download/v1.0.0.0/GPZPractice.zip"
+    },
+    "dependencies": [],
+    "repository": "https://github.com/Vitaxses/HKGPZPractice/",
+    "issues": "https://github.com/Vitaxses/HKGPZPractice/issues/",
+    "tags": [
+      "Utility"
+    ],
+    "authors": [
+      "Vitaxses"
     ]
   },
   "Galien Illusionist": {
@@ -6840,6 +6858,22 @@
     "repository": "https://github.com/TheMulhima/HollowKnight.TranslationMod/",
     "tags": [
       "Cosmetic"
+    ]
+  },
+  "PowerfulShadowDash": {
+    "description": "This mod set shadow dash cooltime to 0.",
+    "version": "1.0.0.0",
+    "links": {
+      "type": "universal",
+      "sha256": "2F1A54D72156D40E34BA4B936728112B776BF5EB19CC4997902671BC3A963036",
+      "url": "https://github.com/Null993/Powerful-Shadow-Dash/releases/download/Release/PowerfulShadowDash.zip"
+    },
+    "dependencies": [
+      "Satchel"
+    ],
+    "repository": "https://github.com/Null993/Powerful-Shadow-Dash/",
+    "authors": [
+      "Null_993"
     ]
   },
   "Propeller Knight": {

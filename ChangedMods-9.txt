@@ -1,4 +1,2 @@
 Architect
-BugPrince
-PantheonOfRegions
-VendorRando
+YetAnotherRandoConnection

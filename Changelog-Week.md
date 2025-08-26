@@ -3,22 +3,30 @@
 
 ## New mods
 
+### GPZPractice
+
+- Description: This mod allows you config spawning of Zotelings.
+- Tags
+  + Utility
+
 ### Limitations
 
 - Description: Create none endless limitations
 - Tags
   + Gameplay
 
+### PowerfulShadowDash
+
+- Description: This mod set shadow dash cooltime to 0.
+- Dependencies
+  + Satchel
+
 
 ## Updated mods
 
 ### Architect
 
-- Version: 1.16.11.3 -> 1.16.12.1
-
-### Breakable Wall Randomizer
-
-- Version: 4.1.0.0 -> 4.1.1.0
+- Version: 1.16.11.4 -> 1.16.12.2
 
 ### CharmPatch
 
@@ -48,10 +56,6 @@
 ### Hivesong
 
 - Version: 1.3.0.0 -> 1.3.1.0
-
-### MilliGolf
-
-- Version: 1.3.0.0 -> 1.3.0.1
 
 ### SFCore
 

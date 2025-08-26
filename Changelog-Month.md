@@ -42,6 +42,12 @@
 - Tags
   + Utility
 
+### GPZPractice
+
+- Description: This mod allows you config spawning of Zotelings.
+- Tags
+  + Utility
+
 ### Galien Illusionist
 
 - Description: Modboss. Now there will be two galiens in the arena, one of which is not real.
@@ -72,22 +78,6 @@
 - Description: Create none endless limitations
 - Tags
   + Gameplay
-
-### MoreMasks
-
-- Description: Makes more masks available to be displayed. Also works for lifeblood masks. By default it shows 28 masks per row. Can be adjusted by editing the globalsettings file of this mod.
-- Dependencies
-  + SFCore
-- Tags
-  + Utility
-
-### MoreNotches
-
-- Description: Makes more charm notches available to be displayed. Also works for overcharm and charm detail notches. By default it shows up to 50 equipped notches and 20 charm detail notches. Can be adjusted by editing the globalsettings file of this mod.
-- Dependencies
-  + SFCore
-- Tags
-  + Utility
 
 ### MotionBlur
 
@@ -120,6 +110,12 @@
   + Osmi
   + Satchel
   + Vasi
+
+### PowerfulShadowDash
+
+- Description: This mod set shadow dash cooltime to 0.
+- Dependencies
+  + Satchel
 
 ### SafeGodseekerQoL
 
@@ -161,7 +157,7 @@
 
 ### Architect
 
-- Version: 1.10.9.2 -> 1.16.12.1
+- Version: 1.11.0.1 -> 1.16.12.2
 - Description
   + Old: A mod to add/remove platforms, enemies and more to change areas in the game with an in-game level editor and level sharer.
   + New: A level editor mod, allowing you to customise Hollow Knight by adding or removing platforms, enemies and more with an in-game level editor and level sharer.
@@ -172,7 +168,7 @@
 
 ### BugPrince
 
-- Version: 1.4.1.0 -> 1.4.4.0
+- Version: 1.4.2.0 -> 1.4.4.0
 
 ### CharmPatch
 
@@ -272,7 +268,7 @@
 
 ### PurenailCore
 
-- Version: 1.4.0.0 -> 1.5.0.0
+- Version: 1.4.1.0 -> 1.5.0.0
 
 ### ReplayLogger
 
@@ -284,14 +280,11 @@
 
 ### Scattered and Lost
 
-- Version: 1.5.1.0 -> 1.5.2.1
+- Version: 1.5.2.0 -> 1.5.2.1
 
 ### SkillCharms
 
-- Version: 1.0.0.0 -> 1.0.2.0
-- Dependencies
-  + Added
-    - MoreNotches
+- Version: 1.0.1.0 -> 1.0.2.0
 - Integrations
   + Added
     - DebugMod
