@@ -61,12 +61,12 @@
     "links": {
       "type": "universal",
       "sha256": "327BD4575877834B7E94B141CA9C09354DBD61E976A6DBBB2A16C842C70E984C",
-      "url": "https://github.com/mystelin/HollowKnight.AbsoluteZote/releases/download/2.0/AbsoluteZote-v2.0.zip"
+      "url": "https://github.com/nQvTgLrp/HollowKnight.AbsoluteZote/releases/download/2.0/AbsoluteZote-v2.0.zip"
     },
     "dependencies": [
       "Satchel"
     ],
-    "repository": "https://github.com/mystelin/HollowKnight.AbsoluteZote/",
+    "repository": "https://github.com/nQvTgLrp/HollowKnight.AbsoluteZote/",
     "integrations": [
       "PureZote"
     ]
@@ -190,7 +190,7 @@
     ],
     "authors": [
       "Godfriend",
-      "mystelin"
+      "nQvTgLrp"
     ]
   },
   "All4Love": {
@@ -937,11 +937,11 @@
   },
   "Breakable Wall Randomizer": {
     "description": "A Hollow Knight Randomizer add-on for breakable walls.",
-    "version": "4.1.1.0",
+    "version": "4.1.1.2",
     "links": {
       "type": "universal",
-      "sha256": "50C403279B78030D5A55F3C7672D58A0646FE57310BA58A4FB0AD9754709CEB4",
-      "url": "https://github.com/nerthul11/BreakableWallRandomizer/releases/download/4.1.1.0/BreakableWallRandomizer.zip"
+      "sha256": "03D21CC850B4F41E57338339F866AA27D297AA9727AFB0E3EA5ABBEDBBD11BF8",
+      "url": "https://github.com/nerthul11/BreakableWallRandomizer/releases/download/4.1.1.2/BreakableWallRandomizer.zip"
     },
     "dependencies": [
       "Randomizer 4",
@@ -1139,13 +1139,13 @@
     "links": {
       "type": "universal",
       "sha256": "857B2DC30A125C276DE40F342B0F7FA10AB285C5B17FA17AB95D614F37166018",
-      "url": "https://github.com/danirainy/CelesteKnight/releases/download/1.0.0.1/CelesteKnightfix1.zip"
+      "url": "https://github.com/nQvTgLrp/HollowKnight.CelesteKnight/releases/download/1.0.0.1/CelesteKnightfix1.zip"
     },
     "dependencies": [
       "HKMirror",
       "Satchel"
     ],
-    "repository": "https://github.com/danirainy/CelesteKnight"
+    "repository": "https://github.com/nQvTgLrp/HollowKnight.CelesteKnight"
   },
   "Challenge Mode": {
     "description": "A mod that adds randomly selected challege modifiers to Godhome with several customization options. See ReadMe for info on modifiers and more.",
@@ -3678,7 +3678,7 @@
       "HKLab",
       "Mulhima",
       "Roy",
-      "mystelin"
+      "nQvTgLrp"
     ]
   },
   "Godhome Elo Counter": {
@@ -4435,10 +4435,10 @@
     "links": {
       "type": "universal",
       "sha256": "A10A68B088628C6C4420067555E20B9CBC12E1238AF26696CD1C0383B6C2DC17",
-      "url": "https://github.com/mystelin/HollowKnight.HitboxOnly/releases/download/1.3/HitboxOnly-v1.3.zip"
+      "url": "https://github.com/nQvTgLrp/HollowKnight.HitboxOnly/releases/download/1.3/HitboxOnly-v1.3.zip"
     },
     "dependencies": [],
-    "repository": "https://github.com/mystelin/HollowKnight.HitboxOnly/"
+    "repository": "https://github.com/nQvTgLrp/HollowKnight.HitboxOnly/"
   },
   "Hivesong": {
     "description": "This mod adds a new charm, Hivesong, which increases the damage dealt by pets.",
@@ -6012,12 +6012,12 @@
     "links": {
       "type": "universal",
       "sha256": "B7AE9607DEF72FACFDEF00142C0269273506D55897EE835A9B3374887CA73335",
-      "url": "https://github.com/danirainy/HollowKnight.Nailgod/releases/download/1.0.0.2.fix/Nailgod.zip"
+      "url": "https://github.com/nQvTgLrp/HollowKnight.Nailgod/releases/download/1.0.0.2.fix/Nailgod.zip"
     },
     "dependencies": [
       "Satchel"
     ],
-    "repository": "https://github.com/danirainy/HollowKnight.Nailgod/"
+    "repository": "https://github.com/nQvTgLrp/HollowKnight.Nailgod/"
   },
   "Nailmaster's Pride": {
     "description": "Nailmaster's Glory prevents regular Nail attacks but grants all Nail Arts and automatically charges them",
@@ -6938,12 +6938,12 @@
     "links": {
       "type": "universal",
       "sha256": "52FA80B5FB01AE7D756F0B9AF3958C4F79CB95B826D14A3D5FEF2692B77F65A5",
-      "url": "https://github.com/mystelin/HollowKnight.PureZote/releases/download/1.0/PureZote.zip"
+      "url": "https://github.com/nQvTgLrp/HollowKnight.PureZote/releases/download/1.0/PureZote.zip"
     },
     "dependencies": [
       "Satchel"
     ],
-    "repository": "https://github.com/mystelin/HollowKnight.PureZote/",
+    "repository": "https://github.com/nQvTgLrp/HollowKnight.PureZote/",
     "integrations": [
       "AbsoluteZote"
     ]
@@ -8012,14 +8012,14 @@
     "links": {
       "type": "universal",
       "sha256": "83D049B0C5585CF0C427F02A7E38489928B88A5F94C6CC14877ED6BB70ACB173",
-      "url": "https://github.com/danirainy/DreamEchoes/releases/download/1.0/Seer.zip"
+      "url": "https://github.com/nQvTgLrp/HollowKnight.DreamEchoes/releases/download/1.0/Seer.zip"
     },
     "dependencies": [
       "More Godhome Space",
       "SFCore",
       "WeaverCore"
     ],
-    "repository": "https://github.com/danirainy/DreamEchoes"
+    "repository": "https://github.com/nQvTgLrp/HollowKnight.DreamEchoes"
   },
   "Sein": {
     "description": "Companion mod for the Custom Knight skin \"Ori\", adding specialized effects",
@@ -9354,11 +9354,11 @@
   },
   "VendorRando": {
     "description": "A Randomizer add-on that randomizes the physical locations of vendors",
-    "version": "1.0.1.0",
+    "version": "1.0.2.0",
     "links": {
       "type": "universal",
-      "sha256": "18B6F935397753DC2272B179584FD89957927B7389581176DB1D07A344D9EA8E",
-      "url": "https://github.com/TheMathGeek314/VendorRando/releases/download/v1.0.1.0/VendorRando.zip"
+      "sha256": "2BBDCEE2A3DEFA158E1EA7883E320E87DE44762E7D5827B175F2FFD2920F2DEE",
+      "url": "https://github.com/TheMathGeek314/VendorRando/releases/download/v1.0.2.0/VendorRando.zip"
     },
     "dependencies": [
       "ConnectionMetadataInjector",
@@ -9488,11 +9488,11 @@
   },
   "WideCamera": {
     "description": "Make ultrawide screens possible without black bars. Should also work for thinner/taller than 16:9. In theory.",
-    "version": "1.5.1.0",
+    "version": "1.5.1.3",
     "links": {
       "type": "universal",
-      "sha256": "73DC688F0361E7D7780CA5E75607CBEDCA0345C2E2AEB02D601A6158729426CF",
-      "url": "https://github.com/SFGrenade/WideCamera/releases/download/v1.5.1/WideCamera.zip"
+      "sha256": "491CCFF5E026F449A02D89217506AC4F48799E37871DCD2C3BD5F52E9003C0AD",
+      "url": "https://github.com/SFGrenade/WideCamera/releases/download/v1.5.1.3/WideCamera.zip"
     },
     "dependencies": [
       "SFCore"
@@ -9573,6 +9573,7 @@
     "repository": "https://github.com/TheMathGeek314/YetAnotherRandoConnection/",
     "integrations": [
       "CondensedSpoilerLogger",
+      "FStats",
       "RandoSettingsManager"
     ],
     "authors": [
@@ -9658,12 +9659,12 @@
     "links": {
       "type": "universal",
       "sha256": "83CB2C38D51FAF8BD6A0106F95586BEC5580CF8D8173185CF76550A74C7DF1B9",
-      "url": "https://github.com/mystelin/HollowKnight.ZoteCollectorHelper/releases/download/1.0.0.0/ZoteCollectorHelper.zip"
+      "url": "https://github.com/nQvTgLrp/HollowKnight.ZoteCollectorHelper/releases/download/1.0.0.0/ZoteCollectorHelper.zip"
     },
     "dependencies": [
       "Satchel"
     ],
-    "repository": "https://github.com/mystelin/HollowKnight.ZoteCollectorHelper/"
+    "repository": "https://github.com/nQvTgLrp/HollowKnight.ZoteCollectorHelper/"
   },
   "niaPfohtaP (PoP Upside Down)": {
     "description": "Makes Path of Pain upside down.",
@@ -9671,12 +9672,12 @@
     "links": {
       "type": "universal",
       "sha256": "4C52D44C3F2F21BCBB78E3D6213EF0E9B24B8CE641DCA4991C736ED4EA4676A5",
-      "url": "https://github.com/mystelin/HollowKnight.niaPfohtaP/releases/download/1.0/niaPfohtaP.zip"
+      "url": "https://github.com/nQvTgLrp/HollowKnight.niaPfohtaP/releases/download/1.0/niaPfohtaP.zip"
     },
     "dependencies": [
       "Satchel"
     ],
-    "repository": "https://github.com/mystelin/HollowKnight.niaPfohtaP/"
+    "repository": "https://github.com/nQvTgLrp/HollowKnight.niaPfohtaP/"
   },
   "ouchyGrass": {
     "description": "Touching grass hurts or kills the player.",

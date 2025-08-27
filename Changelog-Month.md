@@ -142,29 +142,22 @@
   + Satchel
 - Integrations
   + CondensedSpoilerLogger
+  + FStats
   + RandoSettingsManager
 
 
 ## Updated mods
 
-### Archipelago
-
-- Version: 0.9.0.0 -> 0.10.0.0
-
-### Archipelago Map Mod
-
-- Version: 3.1.1.0 -> 3.1.2.0
-
 ### Architect
 
-- Version: 1.11.0.1 -> 1.16.12.2
+- Version: 1.11.0.5 -> 1.16.12.2
 - Description
   + Old: A mod to add/remove platforms, enemies and more to change areas in the game with an in-game level editor and level sharer.
   + New: A level editor mod, allowing you to customise Hollow Knight by adding or removing platforms, enemies and more with an in-game level editor and level sharer.
 
 ### Breakable Wall Randomizer
 
-- Version: 4.0.1.0 -> 4.1.1.0
+- Version: 4.0.1.0 -> 4.1.1.2
 
 ### BugPrince
 
@@ -278,10 +271,6 @@
 
 - Version: 1.5.14.15 -> 1.5.14.16
 
-### Scattered and Lost
-
-- Version: 1.5.2.0 -> 1.5.2.1
-
 ### SkillCharms
 
 - Version: 1.0.1.0 -> 1.0.2.0
@@ -340,7 +329,7 @@
 
 ### VendorRando
 
-- Version: 1.0.0.1 -> 1.0.1.0
+- Version: 1.0.0.1 -> 1.0.2.0
 
 ### WanderersWisdom
 
@@ -351,4 +340,8 @@
 - Integrations
   + Added
     - DebugMod
+
+### WideCamera
+
+- Version: 1.5.1.0 -> 1.5.1.3
 

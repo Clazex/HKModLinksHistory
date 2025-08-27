@@ -1,4 +1,4 @@
 Architect
-Charm Editor
-Pale Court Charms
-TreasureHunt
+Extra Rando
+KorzUtils
+Trial of Crusaders

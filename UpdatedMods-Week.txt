@@ -1,9 +1,3 @@
-Architect
-CharmPatch
-DanielSteginkUtils
-DivineFury
-ExaltationExpanded
-Hivesong
 ExaltationExpanded
 CharmPatch
 DanielSteginkUtils
@@ -13,3 +7,6 @@ Architect
 YetAnotherRandoConnection
 SFCore
 Architect
+Breakable Wall Randomizer
+VendorRando
+WideCamera
