@@ -1,6 +1,3 @@
 Architect
-Extra Rando
-Lore Randomizer
-LoreCore
-PurenailCore
-YetAnotherRandoConnection
+BugPrince
+VendorRando

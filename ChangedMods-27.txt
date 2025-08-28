@@ -1,6 +1,3 @@
 Architect
-BaldurRngConfig
-Extra Rando
-Faction Elimination
-MotionBlur
-Pale Court Charms
+ReplayLogger
+VendorRando

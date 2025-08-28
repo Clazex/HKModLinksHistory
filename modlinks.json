@@ -1764,6 +1764,20 @@
     ],
     "repository": "https://github.com/PrashantMohta/HollowKnight.CustomKnight/"
   },
+  "Custom Title": {
+    "description": "A Hollow Knight mod that allows players to use their custom title",
+    "version": "1.0.0.0",
+    "links": {
+      "type": "universal",
+      "sha256": "BEBB65F1F2C9DC5243F672D31EC16908EE44BC6674787A2C9760C4EC4806D87B",
+      "url": "https://github.com/hien-ngo29/CustomTitle/releases/download/v1.0.0.0/CustomTitle.zip"
+    },
+    "dependencies": [],
+    "repository": "https://github.com/hien-ngo29/CustomTitle",
+    "authors": [
+      "Hien Ngo"
+    ]
+  },
   "Custom Trial": {
     "description": "Allows creation of custom trials for the Colosseum of Fools.",
     "version": "1.0.0.1",
@@ -5990,6 +6004,27 @@
     ],
     "repository": "https://github.com/PrashantMohta/MultiplayerEvents/"
   },
+  "MyHK": {
+    "description": "An assisting mod for HK that can improve the gaming experience significantly",
+    "version": "1.2.0.1",
+    "links": {
+      "type": "universal",
+      "sha256": "40ADCD9BC85366F24633D936BF8B8F9EAFCC232FA79D92BEDFE51078BBCDAB6C",
+      "url": "https://github.com/QiQi7-7/MyHK/releases/download/v1.2.0.1/MyHK-v1.2.0.1.zip"
+    },
+    "dependencies": [
+      "HKTool",
+      "Satchel"
+    ],
+    "repository": "https://github.com/QiQi7-7/MyHK",
+    "issues": "https://github.com/QiQi7-7/MyHK/issues",
+    "tags": [
+      "Optimization"
+    ],
+    "authors": [
+      "QiQi7"
+    ]
+  },
   "MylaFlower": {
     "description": "Protect Myla from the infection by bringing her a flower.",
     "version": "2.0.0.0",
@@ -9160,6 +9195,24 @@
       "Mimijackz"
     ]
   },
+  "U-tils": {
+    "description": "Utilities by and for U-tale",
+    "version": "0.0.0.1",
+    "links": {
+      "type": "universal",
+      "sha256": "470288D1496E4EE588E8DC2C30347685257EE956F1C7AAAAE1E99C3D8CBE7A76",
+      "url": "https://github.com/U-tale/U-tils/releases/download/v2/U_tils.2.zip"
+    },
+    "dependencies": [],
+    "repository": "https://github.com/U-tale/U-tils",
+    "issues": "https://github.com/U-tale/U-tils/issues",
+    "tags": [
+      "Utility"
+    ],
+    "authors": [
+      "U-tale"
+    ]
+  },
   "UnRando": {
     "description": "A Rando 4 connection which fixes the order in which rando items are obtained.",
     "version": "1.1.0.0",
@@ -9415,6 +9468,24 @@
     "repository": "https://github.com/TheMathGeek314/VoiceToCrySuffering/",
     "authors": [
       "TheMathGeek_314"
+    ]
+  },
+  "VoidHeartMenu": {
+    "description": "Makes the Voidheart edition text appear on pc versions of the game.",
+    "version": "1.5.0.0",
+    "links": {
+      "type": "universal",
+      "sha256": "18768E89D677E64AAB3C95DBCAD37901EC03413F643F26E58F22524C4452CE79",
+      "url": "https://github.com/SFGrenade/VoidHeartMenu/releases/download/v1.5.0.0/VoidHeartMenu.zip"
+    },
+    "dependencies": [],
+    "repository": "https://github.com/SFGrenade/VoidHeartMenu/",
+    "issues": "https://github.com/SFGrenade/VoidHeartMenu/issues",
+    "tags": [
+      "Cosmetic"
+    ],
+    "authors": [
+      "SFGrenade"
     ]
   },
   "WanderersWisdom": {

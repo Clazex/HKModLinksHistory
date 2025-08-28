@@ -15,6 +15,10 @@
 - Tags
   + Utility
 
+### Custom Title
+
+- Description: A Hollow Knight mod that allows players to use their custom title
+
 ### DanielSteginkUtils
 
 - Description: Custom library with calculations, logic and cross-mod helpers.
@@ -79,13 +83,14 @@
 - Tags
   + Gameplay
 
-### MotionBlur
+### MyHK
 
-- Description: Adds motion blur
+- Description: An assisting mod for HK that can improve the gaming experience significantly
 - Dependencies
+  + HKTool
   + Satchel
 - Tags
-  + Gameplay
+  + Optimization
 
 ### OnlyBosses
 
@@ -117,13 +122,17 @@
 - Dependencies
   + Satchel
 
-### SafeGodseekerQoL
+### U-tils
 
-- Description: This mod is useful for challenge runners who don&#x27;t want their runs to be accidentally affected by QoL mods.
-- Dependencies
-  + Osmi
-  + Satchel
-  + Vasi
+- Description: Utilities by and for U-tale
+- Tags
+  + Utility
+
+### VoidHeartMenu
+
+- Description: Makes the Voidheart edition text appear on pc versions of the game.
+- Tags
+  + Cosmetic
 
 ### WrathOfTheSwarm
 
@@ -150,10 +159,7 @@
 
 ### Architect
 
-- Version: 1.11.0.5 -> 1.16.12.2
-- Description
-  + Old: A mod to add/remove platforms, enemies and more to change areas in the game with an in-game level editor and level sharer.
-  + New: A level editor mod, allowing you to customise Hollow Knight by adding or removing platforms, enemies and more with an in-game level editor and level sharer.
+- Version: 1.11.1.3 -> 1.16.12.2
 
 ### Breakable Wall Randomizer
 
@@ -198,7 +204,7 @@
 
 ### ExaltationExpanded
 
-- Version: 1.1.0.0 -> 1.3.1.0
+- Version: 1.1.1.0 -> 1.3.1.0
 - Dependencies
   + Added
     - DanielSteginkUtils
@@ -249,6 +255,13 @@
   + Added
     - Extra Rando
 
+### MotionBlur
+
+- Version: 1.0.0.0 -> 1.0.2.0
+- Description
+  + Old: Adds motion blur.
+  + New: Adds motion blur
+
 ### Pale Court Charms
 
 - Version: 1.0.0.0 -> 1.3.0.0
@@ -271,6 +284,10 @@
 
 - Version: 1.5.14.15 -> 1.5.14.16
 
+### SafeGodseekerQoL
+
+- Version: 1.0.0.0 -> 1.0.0.1
+
 ### SkillCharms
 
 - Version: 1.0.1.0 -> 1.0.2.0
@@ -281,23 +298,6 @@
 ### SpeedChanger
 
 - Version: 1.1.3.0 -> 1.1.3.1
-
-### StoriesOfaHkPlayer-Ch1
-
-- Version: 1.5.0.0 -> 1.5.1.0
-- Integrations
-  + Added
-    - StoriesOfaHkPlayer-Ch2
-- Tags
-  + Removed
-    - Expansion
-
-### StoriesOfaHkPlayer-Ch2
-
-- Version: 1.5.1.0 -> 1.5.2.1
-- Integrations
-  + Added
-    - StoriesOfaHkPlayer-Ch1
 
 ### Sunset Samsara II
 
@@ -314,10 +314,6 @@
 - Tags
   + Added
     - Boss
-
-### TheHuntIsOn
-
-- Version: 0.6.0.0 -> 1.0.0.0
 
 ### TreasureHunt
 

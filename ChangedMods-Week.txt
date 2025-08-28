@@ -1,4 +1,3 @@
-ExaltationExpanded
 CharmPatch
 DanielSteginkUtils
 ExaltationExpanded
@@ -13,3 +12,7 @@ PowerfulShadowDash
 Breakable Wall Randomizer
 VendorRando
 WideCamera
+Custom Title
+MyHK
+U-tils
+VoidHeartMenu

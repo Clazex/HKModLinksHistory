@@ -1,3 +1,4 @@
 Architect
-ReplayLogger
-VendorRando
+Charm Editor
+EnchantedMask
+Fishing
