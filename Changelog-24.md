@@ -1,21 +1,28 @@
 # Changelog
 
 
+## New mods
+
+### Galien Illusionist
+
+- Description: Modboss. Now there will be two galiens in the arena, one of which is not real.
+- Dependencies
+  + Vasi
+- Tags
+  + Boss
+
+
 ## Updated mods
 
 ### Architect
 
-- Version: 1.12.4.1 -> 1.14.1.0
+- Version: 1.14.1.0 -> 1.14.5.0
 
-### Extra Rando
+### BugPrince
 
-- Version: 0.8.0.0 -> 0.9.0.0
+- Version: 1.4.2.0 -> 1.4.3.0
 
-### KorzUtils
+### ReplayLogger
 
-- Version: 0.9.0.0 -> 0.10.0.0
-
-### Trial of Crusaders
-
-- Version: 0.2.5.0 -> 0.3.0.0
+- Version: 1.0.0.2 -> 1.0.0.3
 

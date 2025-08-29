@@ -821,14 +821,15 @@
   },
   "BlindRadiance": {
     "description": "Makes background darker in selected scenes to make foreground objects more visible.",
-    "version": "1.5.2.0",
+    "version": "1.5.2.3",
     "links": {
       "type": "universal",
-      "sha256": "CD99E06AD0D9C7F0BAD39A608EB4EFDBFD9E93C37D8E5450F5CC7F1058FF4A03",
-      "url": "https://github.com/SFGrenade/BlindRadiance/releases/download/v1.5.2/BlindRadiance.zip"
+      "sha256": "C5FD2168D077FD8F96275804966E527F5361DD94927F598A47B415610DCEFE19",
+      "url": "https://github.com/SFGrenade/BlindRadiance/releases/download/v1.5.2.3/BlindRadiance.zip"
     },
     "dependencies": [
-      "SFCore"
+      "SFCore",
+      "Satchel"
     ],
     "repository": "https://github.com/SFGrenade/BlindRadiance/",
     "issues": "https://github.com/SFGrenade/BlindRadiance/issues/",
@@ -1766,11 +1767,11 @@
   },
   "Custom Title": {
     "description": "A Hollow Knight mod that allows players to use their custom title",
-    "version": "1.0.0.0",
+    "version": "1.1.0.0",
     "links": {
       "type": "universal",
-      "sha256": "BEBB65F1F2C9DC5243F672D31EC16908EE44BC6674787A2C9760C4EC4806D87B",
-      "url": "https://github.com/hien-ngo29/CustomTitle/releases/download/v1.0.0.0/CustomTitle.zip"
+      "sha256": "BE17348B2E5A3408CDB2B96DE19F58AC69156E7626FCF2AE52BE97CC66FD159A",
+      "url": "https://github.com/hien-ngo29/CustomTitle/releases/download/v1.1.0.0/CustomTitle.zip"
     },
     "dependencies": [],
     "repository": "https://github.com/hien-ngo29/CustomTitle",
@@ -6506,11 +6507,11 @@
   },
   "Pale Court Charms": {
     "description": "Adds charms from Pale Court. Made to allow compatibility with mods that don't work with the main Pale Court. Works with Randomizer and Transcendence.",
-    "version": "1.3.0.0",
+    "version": "1.3.1.0",
     "links": {
       "type": "universal",
-      "sha256": "D2F383003292A423CA43DC5B07F3DEFC0CD855A96F33AC29F5B01E191F9E8222",
-      "url": "https://github.com/Roma-337/PaleCourtCharms/releases/download/v1.3.0/PaleCourtCharms.zip"
+      "sha256": "32F988B0B32D79E8C2442AF0DD60DFB725858F6A7E1E37A57A2B4FFDDF038932",
+      "url": "https://github.com/Roma-337/PaleCourtCharms/releases/download/v1.3.1/PaleCourtCharms.zip"
     },
     "dependencies": [
       "ItemChanger",
@@ -8727,11 +8728,11 @@
   },
   "StoriesOfaHkPlayer-Ch2": {
     "description": "The second iteration of a story of a Hollow Knight player and his personalized copy of the game.\nWarning for people streaming this mod: This mod displays your windows/mac/linux username.",
-    "version": "1.5.2.1",
+    "version": "1.5.2.2",
     "links": {
       "type": "universal",
-      "sha256": "9458E95F34C66943299A14CC247BA9C61A48ABFBA36AF2F8C1701D055D194D35",
-      "url": "https://github.com/SFGrenade/StoriesOfaHkPlayer-Ch2/releases/download/v1.5.2.1/StoriesOfaHkPlayer_Ch2.zip"
+      "sha256": "C5E95E5D79E78737E32E22C0303DCBF3F24E1EB060C995382D7AA4E83735E29A",
+      "url": "https://github.com/SFGrenade/StoriesOfaHkPlayer-Ch2/releases/download/v1.5.2.2/StoriesOfaHkPlayer_Ch2.zip"
     },
     "dependencies": [
       "SFCore"

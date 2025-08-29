@@ -1,10 +1,4 @@
 Architect
-EnchantedMask
-MotionBlur
-SkillCharms
-SpeedChanger
-VendorRando
-Architect
 Extra Rando
 MotionBlur
 Pale Court Charms
@@ -87,3 +81,7 @@ Architect
 Breakable Wall Randomizer
 VendorRando
 WideCamera
+BlindRadiance
+Custom Title
+Pale Court Charms
+StoriesOfaHkPlayer-Ch2

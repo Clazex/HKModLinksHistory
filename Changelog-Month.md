@@ -134,10 +134,6 @@
 - Tags
   + Cosmetic
 
-### WrathOfTheSwarm
-
-- Description: Use Gathering Swarm as a weapon
-
 ### YetAnotherRandoConnection
 
 - Description: A Randomizer add-on with an assortment of additions
@@ -159,7 +155,14 @@
 
 ### Architect
 
-- Version: 1.11.1.3 -> 1.16.12.2
+- Version: 1.11.2.2 -> 1.16.12.2
+
+### BlindRadiance
+
+- Version: 1.5.2.0 -> 1.5.2.3
+- Dependencies
+  + Added
+    - Satchel
 
 ### Breakable Wall Randomizer
 
@@ -193,14 +196,14 @@
 
 ### EnchantedMask
 
-- Version: 1.0.1.0 -> 1.2.0.0
+- Version: 1.1.0.0 -> 1.2.0.0
 - Dependencies
   + Added
     - DanielSteginkUtils
-    - DebugMod
 - Integrations
   + Removed
-    - DebugMod
+    - Pale Court
+    - Pale Court Charms
 
 ### ExaltationExpanded
 
@@ -257,14 +260,11 @@
 
 ### MotionBlur
 
-- Version: 1.0.0.0 -> 1.0.2.0
-- Description
-  + Old: Adds motion blur.
-  + New: Adds motion blur
+- Version: 1.0.1.0 -> 1.0.2.0
 
 ### Pale Court Charms
 
-- Version: 1.0.0.0 -> 1.3.0.0
+- Version: 1.0.0.0 -> 1.3.1.0
 - Description
   + Old: Adds charms from Pale Court. Made to allow compatibility with mods that don&#x27;t work with the main Pale Court. Works with Randomizer.
   + New: Adds charms from Pale Court. Made to allow compatibility with mods that don&#x27;t work with the main Pale Court. Works with Randomizer and Transcendence.
@@ -288,16 +288,9 @@
 
 - Version: 1.0.0.0 -> 1.0.0.1
 
-### SkillCharms
+### StoriesOfaHkPlayer-Ch2
 
-- Version: 1.0.1.0 -> 1.0.2.0
-- Integrations
-  + Added
-    - DebugMod
-
-### SpeedChanger
-
-- Version: 1.1.3.0 -> 1.1.3.1
+- Version: 1.5.2.1 -> 1.5.2.2
 
 ### Sunset Samsara II
 
@@ -325,7 +318,7 @@
 
 ### VendorRando
 
-- Version: 1.0.0.1 -> 1.0.2.0
+- Version: 1.0.0.2 -> 1.0.2.0
 
 ### WanderersWisdom
 

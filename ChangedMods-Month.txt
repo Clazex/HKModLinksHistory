@@ -1,11 +1,4 @@
 Architect
-EnchantedMask
-MotionBlur
-SkillCharms
-SpeedChanger
-VendorRando
-WrathOfTheSwarm
-Architect
 BaldurRngConfig
 Extra Rando
 Faction Elimination
@@ -107,3 +100,7 @@ Custom Title
 MyHK
 U-tils
 VoidHeartMenu
+BlindRadiance
+Custom Title
+Pale Court Charms
+StoriesOfaHkPlayer-Ch2

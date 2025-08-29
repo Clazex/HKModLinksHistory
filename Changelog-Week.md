@@ -13,12 +13,6 @@
 - Tags
   + Utility
 
-### Limitations
-
-- Description: Create none endless limitations
-- Tags
-  + Gameplay
-
 ### MyHK
 
 - Description: An assisting mod for HK that can improve the gaming experience significantly
@@ -53,28 +47,28 @@
 
 - Version: 1.16.12.0 -> 1.16.12.2
 
+### BlindRadiance
+
+- Version: 1.5.2.0 -> 1.5.2.3
+- Dependencies
+  + Added
+    - Satchel
+
 ### Breakable Wall Randomizer
 
 - Version: 4.1.1.0 -> 4.1.1.2
 
-### CharmPatch
-
-- Version: 1.5.0.0 -> 1.5.1.0
-- Integrations
-  + Added
-    - Charm Changer
-
-### DanielSteginkUtils
-
-- Version: 1.2.1.0 -> 1.2.1.1
-
-### ExaltationExpanded
+### Pale Court Charms
 
 - Version: 1.3.0.0 -> 1.3.1.0
 
 ### SFCore
 
 - Version: 1.5.14.15 -> 1.5.14.16
+
+### StoriesOfaHkPlayer-Ch2
+
+- Version: 1.5.2.1 -> 1.5.2.2
 
 ### VendorRando
 
@@ -86,7 +80,7 @@
 
 ### YetAnotherRandoConnection
 
-- Version: 1.0.0.4 -> 1.1.0.1
+- Version: 1.1.0.0 -> 1.1.0.1
 - Integrations
   + Added
     - FStats
