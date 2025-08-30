@@ -1,8 +1,4 @@
 Architect
-Extra Rando
-MotionBlur
-Pale Court Charms
-Architect
 ReplayLogger
 VendorRando
 Architect
@@ -85,3 +81,15 @@ BlindRadiance
 Custom Title
 Pale Court Charms
 StoriesOfaHkPlayer-Ch2
+Architect
+Breakable Wall Randomizer
+Faction Elimination
+MapChanger
+MyHK
+PowerfulShadowDash
+RandoMapCore
+RandoMapMod
+Rogue
+Vanilla Map Mod
+WideCamera
+YetAnotherRandoConnection

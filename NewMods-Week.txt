@@ -4,3 +4,5 @@ Custom Title
 MyHK
 U-tils
 VoidHeartMenu
+Nail Destroy Bullet
+Powerful Shadow Dash

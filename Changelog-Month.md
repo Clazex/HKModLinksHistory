@@ -3,12 +3,6 @@
 
 ## New mods
 
-### BaldurRngConfig
-
-- Description: Configure various Elder Baldur settings
-- Dependencies
-  + Satchel
-
 ### Charm Editor
 
 - Description: This mod allows you to change charm notches and dashmaster
@@ -27,16 +21,6 @@
   + SFCore
 - Tags
   + Library
-
-### Faction Elimination
-
-- Description: A custom gamemode for HKMP where teams collect upgrades and fight each other.
-- Dependencies
-  + Charm Changer
-  + HkmpPouch
-  + ItemChanger
-  + MenuChanger
-  + TheHuntIsOn
 
 ### FrameLimiter
 
@@ -92,6 +76,12 @@
 - Tags
   + Optimization
 
+### Nail Destroy Bullet
+
+- Description: Swinging the nail will destroy enemies&#x27; bullet.
+- Dependencies
+  + Satchel
+
 ### OnlyBosses
 
 - Description: OnlyBosses is an alternative to TheHuntIsOn enemy module (which removes basic enemies), but since it got removed this mod is here.
@@ -116,11 +106,17 @@
   + Satchel
   + Vasi
 
-### PowerfulShadowDash
+### Powerful Shadow Dash
 
 - Description: This mod set shadow dash cooltime to 0.
 - Dependencies
   + Satchel
+
+### PowerfulShadowDash
+
+- Description: Dummy mod. Install the dependency &quot;Powerful Shadow Dash&quot; directly.
+- Dependencies
+  + Powerful Shadow Dash
 
 ### U-tils
 
@@ -155,7 +151,7 @@
 
 ### Architect
 
-- Version: 1.11.2.2 -> 1.16.12.2
+- Version: 1.12.0.1 -> 1.16.13.1
 
 ### BlindRadiance
 
@@ -166,7 +162,7 @@
 
 ### Breakable Wall Randomizer
 
-- Version: 4.0.1.0 -> 4.1.1.2
+- Version: 4.0.1.0 -> 4.1.1.3
 
 ### BugPrince
 
@@ -217,7 +213,11 @@
 
 ### Extra Rando
 
-- Version: 0.7.0.0 -> 0.11.1.0
+- Version: 0.8.0.0 -> 0.11.1.0
+
+### Faction Elimination
+
+- Version: 0.1.0.0 -> 0.1.1.0
 
 ### Fishing
 
@@ -247,6 +247,10 @@
 
 - Version: 0.6.3.0 -> 0.7.0.0
 
+### MapChanger
+
+- Version: 1.3.9.0 -> 1.3.10.0
+
 ### MilliGolf
 
 - Version: 1.3.0.0 -> 1.3.0.1
@@ -258,13 +262,9 @@
   + Added
     - Extra Rando
 
-### MotionBlur
-
-- Version: 1.0.1.0 -> 1.0.2.0
-
 ### Pale Court Charms
 
-- Version: 1.0.0.0 -> 1.3.1.0
+- Version: 1.0.0.1 -> 1.3.1.0
 - Description
   + Old: Adds charms from Pale Court. Made to allow compatibility with mods that don&#x27;t work with the main Pale Court. Works with Randomizer.
   + New: Adds charms from Pale Court. Made to allow compatibility with mods that don&#x27;t work with the main Pale Court. Works with Randomizer and Transcendence.
@@ -276,9 +276,24 @@
 
 - Version: 1.4.1.0 -> 1.5.0.0
 
+### RandoMapCore
+
+- Version: 1.0.15.0 -> 1.0.16.0
+
+### RandoMapMod
+
+- Version: 3.6.7.0 -> 3.6.8.0
+
 ### ReplayLogger
 
 - Version: 1.0.0.1 -> 1.0.0.4
+
+### Rogue
+
+- Version: 1.0.0.5 -> 2.0.0.0
+- Dependencies
+  + Added
+    - SFCore
 
 ### SFCore
 
@@ -316,6 +331,10 @@
 
 - Version: 0.2.5.0 -> 0.3.1.0
 
+### Vanilla Map Mod
+
+- Version: 2.1.5.0 -> 2.1.6.0
+
 ### VendorRando
 
 - Version: 1.0.0.2 -> 1.0.2.0
@@ -332,5 +351,5 @@
 
 ### WideCamera
 
-- Version: 1.5.1.0 -> 1.5.1.3
+- Version: 1.5.1.0 -> 1.5.1.4
 

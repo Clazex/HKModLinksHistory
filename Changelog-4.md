@@ -1,24 +1,17 @@
 # Changelog
 
 
-## New mods
-
-### GPZPractice
-
-- Description: This mod allows you config spawning of Zotelings.
-- Tags
-  + Utility
-
-### PowerfulShadowDash
-
-- Description: This mod set shadow dash cooltime to 0.
-- Dependencies
-  + Satchel
-
-
 ## Updated mods
 
-### Architect
+### Breakable Wall Randomizer
 
-- Version: 1.16.12.1 -> 1.16.12.2
+- Version: 4.1.1.0 -> 4.1.1.2
+
+### VendorRando
+
+- Version: 1.0.1.0 -> 1.0.2.0
+
+### WideCamera
+
+- Version: 1.5.1.0 -> 1.5.1.3
 

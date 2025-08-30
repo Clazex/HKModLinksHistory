@@ -408,11 +408,11 @@
   },
   "Architect": {
     "description": "A level editor mod, allowing you to customise Hollow Knight by adding or removing platforms, enemies and more with an in-game level editor and level sharer.",
-    "version": "1.16.12.2",
+    "version": "1.16.13.1",
     "links": {
       "type": "universal",
-      "sha256": "1D97E1BC07D4F4D835B586C68219CA2EDC50BC625B4AE553538473CE14567F67",
-      "url": "https://github.com/cometcake575/Architect/releases/download/1.16.12.2/Architect.zip"
+      "sha256": "FB6E729C80A658A0E758D8984BE55A558B220326EDEDAB02783C250BEFDA01EC",
+      "url": "https://github.com/cometcake575/Architect/releases/download/1.16.13.1/Architect.zip"
     },
     "dependencies": [
       "MagicUI",
@@ -938,11 +938,11 @@
   },
   "Breakable Wall Randomizer": {
     "description": "A Hollow Knight Randomizer add-on for breakable walls.",
-    "version": "4.1.1.2",
+    "version": "4.1.1.3",
     "links": {
       "type": "universal",
-      "sha256": "03D21CC850B4F41E57338339F866AA27D297AA9727AFB0E3EA5ABBEDBBD11BF8",
-      "url": "https://github.com/nerthul11/BreakableWallRandomizer/releases/download/4.1.1.2/BreakableWallRandomizer.zip"
+      "sha256": "7364EC8C0F04D7940913A480A0BEFB135C180C355EC3FFF36FAF2D8721EE9264",
+      "url": "https://github.com/nerthul11/BreakableWallRandomizer/releases/download/4.1.1.3/BreakableWallRandomizer.zip"
     },
     "dependencies": [
       "Randomizer 4",
@@ -2974,11 +2974,11 @@
   },
   "Faction Elimination": {
     "description": "A custom gamemode for HKMP where teams collect upgrades and fight each other.",
-    "version": "0.1.0.0",
+    "version": "0.1.1.0",
     "links": {
       "type": "universal",
-      "sha256": "544CD1E9B8228FA7B9DD551E75AF554F070C3331378ED7469E670F71715970F1",
-      "url": "https://github.com/EmptyEagle/FactionElimination/releases/download/v0.1.0.0/FactionElimination.zip"
+      "sha256": "77C794C1889D9DDEF02614012B279546CA757BBB9469AF14110FEBD05F8A9306",
+      "url": "https://github.com/EmptyEagle/FactionElimination/releases/download/v0.1.1.0/FactionElimination.zip"
     },
     "dependencies": [
       "Charm Changer",
@@ -5381,11 +5381,11 @@
   },
   "MapChanger": {
     "description": "A library for map mods.",
-    "version": "1.3.9.0",
+    "version": "1.3.10.0",
     "links": {
       "type": "universal",
-      "sha256": "4338862CD8ACA9C7FE04B7C7A718B160704E258BD97FF3006C99C44179B42B0D",
-      "url": "https://github.com/syyePhenomenol/MapChanger/releases/download/v1.3.9/MapChanger.zip"
+      "sha256": "FB49D6FD21E6B1B0440CDC8BFA977F71504F8B75B5F78E22E2E4F49F3F9EFE64",
+      "url": "https://github.com/syyePhenomenol/MapChanger/releases/download/v1.3.10/MapChanger.zip"
     },
     "dependencies": [
       "MagicUI",
@@ -6007,11 +6007,11 @@
   },
   "MyHK": {
     "description": "An assisting mod for HK that can improve the gaming experience significantly",
-    "version": "1.2.0.1",
+    "version": "1.2.0.2",
     "links": {
       "type": "universal",
-      "sha256": "40ADCD9BC85366F24633D936BF8B8F9EAFCC232FA79D92BEDFE51078BBCDAB6C",
-      "url": "https://github.com/QiQi7-7/MyHK/releases/download/v1.2.0.1/MyHK-v1.2.0.1.zip"
+      "sha256": "927FBED9D2F7ABE57B13B804FC30611F37AAF357D757CC19A1CA8101C40B2335",
+      "url": "https://github.com/QiQi7-7/MyHK/releases/download/v1.2.0.2/MyHK-v1.2.0.2.zip"
     },
     "dependencies": [
       "HKTool",
@@ -6040,6 +6040,22 @@
     "repository": "https://github.com/flibber-hk/HollowKnight.MylaFlower/",
     "integrations": [
       "Randomizer 4"
+    ]
+  },
+  "Nail Destroy Bullet": {
+    "description": "Swinging the nail will destroy enemies' bullet.",
+    "version": "1.0.0.0",
+    "links": {
+      "type": "universal",
+      "sha256": "579274ABBF9E1917B29F97F9427A83421B577613557007AD6F44A307FC258B1A",
+      "url": "https://github.com/Null993/Nail-Destroy-Bullet/releases/download/Release/NailDestroyBullet.zip"
+    },
+    "dependencies": [
+      "Satchel"
+    ],
+    "repository": "https://github.com/Null993/Nail-Destroy-Bullet",
+    "authors": [
+      "Null_993"
     ]
   },
   "Nailgod": {
@@ -6896,7 +6912,7 @@
       "Cosmetic"
     ]
   },
-  "PowerfulShadowDash": {
+  "Powerful Shadow Dash": {
     "description": "This mod set shadow dash cooltime to 0.",
     "version": "1.0.0.0",
     "links": {
@@ -6911,6 +6927,19 @@
     "authors": [
       "Null_993"
     ]
+  },
+  "PowerfulShadowDash": {
+    "description": "Dummy mod. Install the dependency \"Powerful Shadow Dash\" directly.",
+    "version": "9.9.9.9",
+    "links": {
+      "type": "universal",
+      "sha256": "00280F51FB9F3030B4F1BBBAD3AB29082A706994E4FAF783AA955054673BC74B",
+      "url": "https://github.com/SFGrenade/EmptyMod/releases/download/v9.9.9.9/EmptyMod.zip"
+    },
+    "dependencies": [
+      "Powerful Shadow Dash"
+    ],
+    "repository": "https://github.com/SFGrenade/EmptyMod/"
   },
   "Propeller Knight": {
     "description": "Adds Propeller Knight from Shovel Knight to Hollow Knight.",
@@ -7290,11 +7319,11 @@
   },
   "RandoMapCore": {
     "description": "A library for RandoMapMod and ArchipelagoMapMod.",
-    "version": "1.0.15.0",
+    "version": "1.0.16.0",
     "links": {
       "type": "universal",
-      "sha256": "E786E8712D13F2E1B1BE045079F8868687DDB6F40A0DD8638D0C920378D2B617",
-      "url": "https://github.com/syyePhenomenol/RandoMapCore/releases/download/v1.0.15/RandoMapCore.zip"
+      "sha256": "BEFF106C3766D9C455EB702D4BB7215B8809C2C250A0ABC147127D5C610C7B7A",
+      "url": "https://github.com/syyePhenomenol/RandoMapCore/releases/download/v1.0.16/RandoMapCore.zip"
     },
     "dependencies": [
       "ConnectionMetadataInjector",
@@ -7320,11 +7349,11 @@
   },
   "RandoMapMod": {
     "description": "A Randomizer 4 overhaul of the World Map to help find item and transition checks.",
-    "version": "3.6.7.0",
+    "version": "3.6.8.0",
     "links": {
       "type": "universal",
-      "sha256": "0F3830F7E0729001904D3AFE1A62742D8F3AA20A4EDB6026D378DD101D3A490A",
-      "url": "https://github.com/syyePhenomenol/RandoMapMod/releases/download/v3.6.7/RandoMapMod.zip"
+      "sha256": "E373C31A35755608AC282934E1CB603D194E72BB23B4C39BC9EF0617C30573FA",
+      "url": "https://github.com/syyePhenomenol/RandoMapMod/releases/download/v3.6.8/RandoMapMod.zip"
     },
     "dependencies": [
       "ItemChanger",
@@ -7730,13 +7759,14 @@
   },
   "Rogue": {
     "description": "A rogue-like Pantheon of Hallownest mod",
-    "version": "1.0.0.5",
+    "version": "2.0.0.0",
     "links": {
       "type": "universal",
-      "sha256": "D51D6DE2935A36C198564A485CD9C442FE1741E84E860D81966E34AB7D3C2B89",
-      "url": "https://github.com/MCXGK3/HollowKnight-rogue/releases/download/V1.0.0.5/rogue.zip"
+      "sha256": "6276CD712DCA1C22AE56AF1400997D3B93E4F71107880D8EB48018973623BBB6",
+      "url": "https://github.com/MCXGK3/HollowKnight-rogue/releases/download/V2.0.0.0/rogue.zip"
     },
     "dependencies": [
+      "SFCore",
       "Satchel"
     ],
     "repository": "https://github.com/MCXGK3/HollowKnight-rogue",
@@ -9373,11 +9403,11 @@
   },
   "Vanilla Map Mod": {
     "description": "Adds all items/locations to the existing map.",
-    "version": "2.1.5.0",
+    "version": "2.1.6.0",
     "links": {
       "type": "universal",
-      "sha256": "4243E9C4E50DA857300157A8964176097FA2A6FEB1226918E0081504FA17F1C8",
-      "url": "https://github.com/syyePhenomenol/HollowKnight.VanillaMapMod/releases/download/v2.1.5/VanillaMapMod.zip"
+      "sha256": "213A5613D49E986642CD2378ECEDC57FA7B6188D14445BF3F51078646ECBC495",
+      "url": "https://github.com/syyePhenomenol/HollowKnight.VanillaMapMod/releases/download/v2.1.6/VanillaMapMod.zip"
     },
     "dependencies": [
       "ConnectionMetadataInjector",
@@ -9560,11 +9590,11 @@
   },
   "WideCamera": {
     "description": "Make ultrawide screens possible without black bars. Should also work for thinner/taller than 16:9. In theory.",
-    "version": "1.5.1.3",
+    "version": "1.5.1.4",
     "links": {
       "type": "universal",
-      "sha256": "491CCFF5E026F449A02D89217506AC4F48799E37871DCD2C3BD5F52E9003C0AD",
-      "url": "https://github.com/SFGrenade/WideCamera/releases/download/v1.5.1.3/WideCamera.zip"
+      "sha256": "2F4C3DC72E885FB6E0B2200CD6DE887519288F585750A2BD92085864EF03C5D9",
+      "url": "https://github.com/SFGrenade/WideCamera/releases/download/v1.5.1.4/WideCamera.zip"
     },
     "dependencies": [
       "SFCore"
@@ -9627,11 +9657,11 @@
   },
   "YetAnotherRandoConnection": {
     "description": "A Randomizer add-on with an assortment of additions",
-    "version": "1.1.0.1",
+    "version": "1.1.0.2",
     "links": {
       "type": "universal",
-      "sha256": "AF31416744A9FFC35553DCD4267716D95943A14E2958A1F6C20E69470CBBACAF",
-      "url": "https://github.com/TheMathGeek314/YetAnotherRandoConnection/releases/download/v1.1.0.1/YetAnotherRandoConnection.zip"
+      "sha256": "0D137CA539451DC46C5A1FA2FB8493ADA587FDFC1C6A50155AF3B83EC064C9F1",
+      "url": "https://github.com/TheMathGeek314/YetAnotherRandoConnection/releases/download/v1.1.0.2/YetAnotherRandoConnection.zip"
     },
     "dependencies": [
       "ConnectionMetadataInjector",

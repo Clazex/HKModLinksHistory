@@ -1,10 +1,4 @@
 Architect
-BaldurRngConfig
-Extra Rando
-Faction Elimination
-MotionBlur
-Pale Court Charms
-Architect
 ReplayLogger
 VendorRando
 Architect
@@ -104,3 +98,17 @@ BlindRadiance
 Custom Title
 Pale Court Charms
 StoriesOfaHkPlayer-Ch2
+Architect
+Breakable Wall Randomizer
+Faction Elimination
+MapChanger
+MyHK
+Nail Destroy Bullet
+Powerful Shadow Dash
+PowerfulShadowDash
+RandoMapCore
+RandoMapMod
+Rogue
+Vanilla Map Mod
+WideCamera
+YetAnotherRandoConnection
