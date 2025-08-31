@@ -1,7 +1,4 @@
 Architect
-ReplayLogger
-VendorRando
-Architect
 EnchantedMask
 Fishing
 Architect
@@ -93,3 +90,7 @@ Rogue
 Vanilla Map Mod
 WideCamera
 YetAnotherRandoConnection
+Archipelago
+Archipelago Map Mod
+Architect
+HollowPoint

@@ -1,4 +1,3 @@
-SFCore
 Architect
 Breakable Wall Randomizer
 VendorRando
@@ -19,3 +18,7 @@ Rogue
 Vanilla Map Mod
 WideCamera
 YetAnotherRandoConnection
+Archipelago
+Archipelago Map Mod
+Architect
+HollowPoint

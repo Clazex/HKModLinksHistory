@@ -1,7 +1,4 @@
 Architect
-ReplayLogger
-VendorRando
-Architect
 Charm Editor
 EnchantedMask
 Fishing
@@ -112,3 +109,8 @@ Rogue
 Vanilla Map Mod
 WideCamera
 YetAnotherRandoConnection
+Archipelago
+Archipelago Map Mod
+Architect
+Dash Slash Plus
+HollowPoint

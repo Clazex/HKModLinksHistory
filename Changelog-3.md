@@ -1,30 +1,24 @@
 # Changelog
 
 
-## New mods
+## Updated mods
+
+### BlindRadiance
+
+- Version: 1.5.2.0 -> 1.5.2.3
+- Dependencies
+  + Added
+    - Satchel
 
 ### Custom Title
 
-- Description: A Hollow Knight mod that allows players to use their custom title
+- Version: 1.0.0.0 -> 1.1.0.0
 
-### MyHK
+### Pale Court Charms
 
-- Description: An assisting mod for HK that can improve the gaming experience significantly
-- Dependencies
-  + HKTool
-  + Satchel
-- Tags
-  + Optimization
+- Version: 1.3.0.0 -> 1.3.1.0
 
-### U-tils
+### StoriesOfaHkPlayer-Ch2
 
-- Description: Utilities by and for U-tale
-- Tags
-  + Utility
-
-### VoidHeartMenu
-
-- Description: Makes the Voidheart edition text appear on pc versions of the game.
-- Tags
-  + Cosmetic
+- Version: 1.5.2.1 -> 1.5.2.2
 

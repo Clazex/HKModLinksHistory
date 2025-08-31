@@ -7,6 +7,12 @@
 
 - Description: A Hollow Knight mod that allows players to use their custom title
 
+### Dash Slash Plus
+
+- Description: Removes the charge requirement for Dash Slash.
+- Dependencies
+  + Satchel
+
 ### GPZPractice
 
 - Description: This mod allows you config spawning of Zotelings.
@@ -55,9 +61,17 @@
 
 ## Updated mods
 
+### Archipelago
+
+- Version: 0.10.0.0 -> 0.11.0.0
+
+### Archipelago Map Mod
+
+- Version: 3.1.2.0 -> 3.2.0.0
+
 ### Architect
 
-- Version: 1.16.12.1 -> 1.16.13.1
+- Version: 1.16.12.1 -> 1.16.14.0
 
 ### BlindRadiance
 
@@ -73,6 +87,10 @@
 ### Faction Elimination
 
 - Version: 0.1.0.0 -> 0.1.1.0
+
+### HollowPoint
+
+- Version: 1.4.0.1 -> 1.4.0.2
 
 ### MapChanger
 
@@ -96,10 +114,6 @@
 - Dependencies
   + Added
     - SFCore
-
-### SFCore
-
-- Version: 1.5.14.15 -> 1.5.14.16
 
 ### StoriesOfaHkPlayer-Ch2
 

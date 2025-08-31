@@ -22,6 +22,12 @@
 - Tags
   + Library
 
+### Dash Slash Plus
+
+- Description: Removes the charge requirement for Dash Slash.
+- Dependencies
+  + Satchel
+
 ### FrameLimiter
 
 - Description: Can limit fps to whatever you like (can be usefull for frame specific skips)
@@ -149,9 +155,17 @@
 
 ## Updated mods
 
+### Archipelago
+
+- Version: 0.10.0.0 -> 0.11.0.0
+
+### Archipelago Map Mod
+
+- Version: 3.1.2.0 -> 3.2.0.0
+
 ### Architect
 
-- Version: 1.12.0.1 -> 1.16.13.1
+- Version: 1.12.1.0 -> 1.16.14.0
 
 ### BlindRadiance
 
@@ -235,6 +249,10 @@
   + Added
     - Exaltation
 
+### HollowPoint
+
+- Version: 1.4.0.1 -> 1.4.0.2
+
 ### KorzUtils
 
 - Version: 0.9.0.0 -> 0.10.0.0
@@ -286,7 +304,7 @@
 
 ### ReplayLogger
 
-- Version: 1.0.0.1 -> 1.0.0.4
+- Version: 1.0.0.2 -> 1.0.0.4
 
 ### Rogue
 
@@ -337,7 +355,7 @@
 
 ### VendorRando
 
-- Version: 1.0.0.2 -> 1.0.2.0
+- Version: 1.0.0.3 -> 1.0.2.0
 
 ### WanderersWisdom
 

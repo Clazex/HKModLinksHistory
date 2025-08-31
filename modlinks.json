@@ -366,11 +366,11 @@
   },
   "Archipelago": {
     "description": "Enables play with the Archipelago multiworld system.",
-    "version": "0.10.0.0",
+    "version": "0.11.0.0",
     "links": {
       "type": "universal",
-      "sha256": "9FB5EC5204FC83BB93C1752440D554695DD2ECC20F1253D1F9584E338AEBA219",
-      "url": "https://github.com/ArchipelagoMW-HollowKnight/Archipelago.HollowKnight/releases/download/v0.10.0/Archipelago.zip"
+      "sha256": "19E4026A08F9984CB89DFEE39B76542331B5DFF12FBE93C2CE1696B313DCB8AB",
+      "url": "https://github.com/ArchipelagoMW-HollowKnight/Archipelago.HollowKnight/releases/download/v0.11.0/Archipelago.zip"
     },
     "dependencies": [
       "Benchwarp",
@@ -382,11 +382,11 @@
   },
   "Archipelago Map Mod": {
     "description": "A conversion of RandoMapMod that works with the Archipelago multiworld randomizer",
-    "version": "3.1.2.0",
+    "version": "3.2.0.0",
     "links": {
       "type": "universal",
-      "sha256": "23419EE3A108FFA57C13BBBA23D22451CA6CA0469214E5E8E89EDD62CFAD16CE",
-      "url": "https://github.com/ArchipelagoMW-HollowKnight/Archipelago.APMapMod/releases/download/v3.1.2/Archipelago.Map.Mod.zip"
+      "sha256": "F872436A356883483B3597FBB79153FBA5B1C0504C29DFC4361FDEBAC56D6219",
+      "url": "https://github.com/ArchipelagoMW-HollowKnight/Archipelago.APMapMod/releases/download/v3.2.0/Archipelago.Map.Mod.zip"
     },
     "dependencies": [
       "Archipelago",
@@ -408,11 +408,11 @@
   },
   "Architect": {
     "description": "A level editor mod, allowing you to customise Hollow Knight by adding or removing platforms, enemies and more with an in-game level editor and level sharer.",
-    "version": "1.16.13.1",
+    "version": "1.16.14.0",
     "links": {
       "type": "universal",
-      "sha256": "FB6E729C80A658A0E758D8984BE55A558B220326EDEDAB02783C250BEFDA01EC",
-      "url": "https://github.com/cometcake575/Architect/releases/download/1.16.13.1/Architect.zip"
+      "sha256": "33D97047F8A68DC460D9F1C66EBBCB9A57359FFF7E24DEF1BD7BACDEABD89894",
+      "url": "https://github.com/cometcake575/Architect/releases/download/1.16.14.0/Architect.zip"
     },
     "dependencies": [
       "MagicUI",
@@ -2210,6 +2210,22 @@
     ],
     "authors": [
       "Purenail"
+    ]
+  },
+  "Dash Slash Plus": {
+    "description": "Removes the charge requirement for Dash Slash.",
+    "version": "1.0.0.0",
+    "links": {
+      "type": "universal",
+      "sha256": "2D3981EC36D535BCCD993EC8DC1CBB61F49C290C24AE3278392180AB406C1749",
+      "url": "https://github.com/Null993/Dash-Slash-Plus/releases/download/v1.0/DashSlashPlus.zip"
+    },
+    "dependencies": [
+      "Satchel"
+    ],
+    "repository": "https://github.com/Null993/Dash-Slash-Plus",
+    "authors": [
+      "Null_993"
     ]
   },
   "DashChanger": {
@@ -4548,16 +4564,16 @@
   },
   "HollowPoint": {
     "description": "Gives the player a gun, reworks charms and abilities to play around the concept of gun usage",
-    "version": "1.4.0.1",
+    "version": "1.4.0.2",
     "links": {
       "type": "universal",
-      "sha256": "8A4F8F8E08A00DF4346DEF0434A1C6EC0FF5BB2F2EF43183E4445FC378234AFF",
-      "url": "https://github.com/RedFrog6002/Hollow-Point/releases/download/1.4.0.1/HollowPoint.zip"
+      "sha256": "FE19D83DC4D5B62F1C4E2BBFB484649A38E2BE9D081AA7BEBC42FD354FC805B2",
+      "url": "https://github.com/ZestyMace/Hollow-Point/releases/download/1.4.0.2/HollowPoint.zip"
     },
     "dependencies": [
       "Vasi"
     ],
-    "repository": "https://github.com/RedFrog6002/Hollow-Point/"
+    "repository": "https://github.com/ZestyMace/Hollow-Point/"
   },
   "HollowTwitch": {
     "description": "Allows Twitch Chat to use tons of commands that spice up and vary gameplay.",
@@ -6048,7 +6064,7 @@
     "links": {
       "type": "universal",
       "sha256": "579274ABBF9E1917B29F97F9427A83421B577613557007AD6F44A307FC258B1A",
-      "url": "https://github.com/Null993/Nail-Destroy-Bullet/releases/download/Release/NailDestroyBullet.zip"
+      "url": "https://github.com/Null993/Nail-Destroy-Bullet/releases/download/Beta/NailDestoryBullet.zip"
     },
     "dependencies": [
       "Satchel"
