@@ -1,6 +1,3 @@
-Architect
-GPZPractice
-PowerfulShadowDash
 Breakable Wall Randomizer
 VendorRando
 WideCamera
@@ -31,3 +28,6 @@ Archipelago Map Mod
 Architect
 Dash Slash Plus
 HollowPoint
+Nail Destroy Bullet
+Shade Lord
+YetAnotherRandoConnection

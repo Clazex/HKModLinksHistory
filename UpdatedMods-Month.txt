@@ -1,7 +1,4 @@
 Architect
-EnchantedMask
-Fishing
-Architect
 Charm Editor
 Pale Court Charms
 TreasureHunt
@@ -94,3 +91,5 @@ Archipelago
 Archipelago Map Mod
 Architect
 HollowPoint
+Nail Destroy Bullet
+YetAnotherRandoConnection

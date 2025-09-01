@@ -6060,11 +6060,11 @@
   },
   "Nail Destroy Bullet": {
     "description": "Swinging the nail will destroy enemies' bullet.",
-    "version": "1.0.0.0",
+    "version": "1.2.3.0",
     "links": {
       "type": "universal",
-      "sha256": "579274ABBF9E1917B29F97F9427A83421B577613557007AD6F44A307FC258B1A",
-      "url": "https://github.com/Null993/Nail-Destroy-Bullet/releases/download/Beta/NailDestoryBullet.zip"
+      "sha256": "6B7B6E53B287DFCF28C1FC8911A03F34E21030EF896B9458513B065BF231AF8D",
+      "url": "https://github.com/Null993/Nail-Destroy-Bullet/releases/download/v1.2.3/NailDestroyBullet-v1.2.3.zip"
     },
     "dependencies": [
       "Satchel"
@@ -8125,6 +8125,24 @@
       "Purenail"
     ]
   },
+  "Shade Lord": {
+    "description": "Adds the Shade Lord as a boss in the Hall of Gods",
+    "version": "1.0.0.0",
+    "links": {
+      "type": "universal",
+      "sha256": "55B3F96D609E139AAD7952E7848CACC1E1F6B70B33211C55DB4795A53192CD83",
+      "url": "https://github.com/OrusLiOx/ShadeLord/releases/download/v1.0.0.0/ShadeLord-v1.0.0.0.zip"
+    },
+    "dependencies": [],
+    "repository": "https://github.com/OrusLiOx/ShadeLord.git",
+    "issues": "https://forms.gle/y3eMAyfebwoViJ1z5",
+    "tags": [
+      "Boss"
+    ],
+    "authors": [
+      "OrusLiOx"
+    ]
+  },
   "ShadeControl": {
     "description": "A DebugAddition make you can control shade spell",
     "version": "1.0.0.0",
@@ -9673,11 +9691,11 @@
   },
   "YetAnotherRandoConnection": {
     "description": "A Randomizer add-on with an assortment of additions",
-    "version": "1.1.0.2",
+    "version": "1.1.0.3",
     "links": {
       "type": "universal",
-      "sha256": "0D137CA539451DC46C5A1FA2FB8493ADA587FDFC1C6A50155AF3B83EC064C9F1",
-      "url": "https://github.com/TheMathGeek314/YetAnotherRandoConnection/releases/download/v1.1.0.2/YetAnotherRandoConnection.zip"
+      "sha256": "A43FFA050A6F01F480601A3D85EE023C3708F040201F0717656F4F0901CBDB0F",
+      "url": "https://github.com/TheMathGeek314/YetAnotherRandoConnection/releases/download/v1.1.0.3/YetAnotherRandoConnection.zip"
     },
     "dependencies": [
       "ConnectionMetadataInjector",

@@ -1,5 +1,3 @@
-GPZPractice
-PowerfulShadowDash
 Custom Title
 MyHK
 U-tils
@@ -7,3 +5,4 @@ VoidHeartMenu
 Nail Destroy Bullet
 Powerful Shadow Dash
 Dash Slash Plus
+Shade Lord

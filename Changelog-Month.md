@@ -3,12 +3,6 @@
 
 ## New mods
 
-### Charm Editor
-
-- Description: This mod allows you to change charm notches and dashmaster
-- Tags
-  + Utility
-
 ### Custom Title
 
 - Description: A Hollow Knight mod that allows players to use their custom title
@@ -124,6 +118,12 @@
 - Dependencies
   + Powerful Shadow Dash
 
+### Shade Lord
+
+- Description: Adds the Shade Lord as a boss in the Hall of Gods
+- Tags
+  + Boss
+
 ### U-tils
 
 - Description: Utilities by and for U-tale
@@ -165,7 +165,7 @@
 
 ### Architect
 
-- Version: 1.12.1.0 -> 1.16.14.0
+- Version: 1.12.4.0 -> 1.16.14.0
 
 ### BlindRadiance
 
@@ -181,6 +181,10 @@
 ### BugPrince
 
 - Version: 1.4.2.0 -> 1.4.4.0
+
+### Charm Editor
+
+- Version: 1.0.0.0 -> 1.1.0.0
 
 ### CharmPatch
 
@@ -206,7 +210,7 @@
 
 ### EnchantedMask
 
-- Version: 1.1.0.0 -> 1.2.0.0
+- Version: 1.1.1.0 -> 1.2.0.0
 - Dependencies
   + Added
     - DanielSteginkUtils
@@ -232,10 +236,6 @@
 ### Faction Elimination
 
 - Version: 0.1.0.0 -> 0.1.1.0
-
-### Fishing
-
-- Version: 1.0.0.0 -> 1.0.1.0
 
 ### Hivesong
 

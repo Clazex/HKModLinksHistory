@@ -13,12 +13,6 @@
 - Dependencies
   + Satchel
 
-### GPZPractice
-
-- Description: This mod allows you config spawning of Zotelings.
-- Tags
-  + Utility
-
 ### MyHK
 
 - Description: An assisting mod for HK that can improve the gaming experience significantly
@@ -40,11 +34,11 @@
 - Dependencies
   + Satchel
 
-### PowerfulShadowDash
+### Shade Lord
 
-- Description: Dummy mod. Install the dependency &quot;Powerful Shadow Dash&quot; directly.
-- Dependencies
-  + Powerful Shadow Dash
+- Description: Adds the Shade Lord as a boss in the Hall of Gods
+- Tags
+  + Boss
 
 ### U-tils
 
@@ -71,7 +65,7 @@
 
 ### Architect
 
-- Version: 1.16.12.1 -> 1.16.14.0
+- Version: 1.16.12.2 -> 1.16.14.0
 
 ### BlindRadiance
 
@@ -99,6 +93,18 @@
 ### Pale Court Charms
 
 - Version: 1.3.0.0 -> 1.3.1.0
+
+### PowerfulShadowDash
+
+- Version: 1.0.0.0 -> 9.9.9.9
+- Description
+  + Old: This mod set shadow dash cooltime to 0.
+  + New: Dummy mod. Install the dependency &quot;Powerful Shadow Dash&quot; directly.
+- Dependencies
+  + Removed
+    - Satchel
+  + Added
+    - Powerful Shadow Dash
 
 ### RandoMapCore
 
@@ -133,7 +139,7 @@
 
 ### YetAnotherRandoConnection
 
-- Version: 1.1.0.1 -> 1.1.0.2
+- Version: 1.1.0.1 -> 1.1.0.3
 - Integrations
   + Added
     - FStats

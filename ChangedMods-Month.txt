@@ -1,9 +1,5 @@
 Architect
 Charm Editor
-EnchantedMask
-Fishing
-Architect
-Charm Editor
 FrameLimiter
 Less Flashing Lights
 OnlyBosses
@@ -114,3 +110,6 @@ Archipelago Map Mod
 Architect
 Dash Slash Plus
 HollowPoint
+Nail Destroy Bullet
+Shade Lord
+YetAnotherRandoConnection
