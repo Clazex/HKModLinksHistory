@@ -406,8 +406,8 @@ Not recommended for use in new mods.</Description>
     <Manifest>
         <Name>YetAnotherRandoConnection</Name>
         <Description>A Randomizer add-on with an assortment of additions</Description>
-        <Version>1.0.0.2</Version>
-        <Link SHA256="75816BAE45785F74E7A0E1E80C36188A2FA9CFD7E1BC9ADA760509BBF31A6BFE"><![CDATA[https://github.com/TheMathGeek314/YetAnotherRandoConnection/releases/download/v1.0.0.2/YetAnotherRandoConnection.zip]]></Link>
+        <Version>1.0.0.3</Version>
+        <Link SHA256="29236DD2B9D0E106AD71BC4DE0282BCAB2E12856964E2055019AE2E276F9F2EB"><![CDATA[https://github.com/TheMathGeek314/YetAnotherRandoConnection/releases/download/v1.0.0.3/YetAnotherRandoConnection.zip]]></Link>
         <Dependencies>
             <Dependency>ConnectionMetadataInjector</Dependency>
             <Dependency>ItemChanger</Dependency>
@@ -6865,9 +6865,9 @@ Enjoy!</Description>
     <Manifest>
         <Name>LoreCore</Name>
         <Description>Adds a bunch of lore related Item Changer locations and items.</Description>
-        <Version>0.6.3.0</Version>
-        <Link SHA256="e05f0611890c1e88d9a7cf6f37f16e1c825336ed45a8932f01ffa2acc326fe87">
-            <![CDATA[https://github.com/Korzer420/LoreCore/releases/download/v0.6.3/LoreCore.zip]]></Link>
+        <Version>0.7.0.0</Version>
+        <Link SHA256="5b16a559751db99f069f1d9078488f9d6d074c543509fad5151a7be8f925f67f">
+            <![CDATA[https://github.com/Korzer420/LoreCore/releases/download/v0.7.0/LoreCore.zip]]></Link>
         <Dependencies>
             <Dependency>ItemChanger</Dependency>
             <Dependency>KorzUtils</Dependency>
@@ -6885,9 +6885,9 @@ Enjoy!</Description>
     <Manifest>
         <Name>Lore Randomizer</Name>
         <Description>Randomizer 4 connection that adds a bunch of lore related items and locations.</Description>
-        <Version>0.3.3.0</Version>
-        <Link SHA256="62564a6f23082dcdd2faaae807d2131f016ff716b25b5a686cd12f25f4a9dd97">
-            <![CDATA[https://github.com/Korzer420/LoreRandomizer/releases/download/v0.3.3/LoreRandomizer.zip]]></Link>
+        <Version>0.4.1.0</Version>
+        <Link SHA256="3a03a95a6d0158d42a2c17bf4a1791d45255a9fb2b40b4af96e084d11ca3e15e">
+            <![CDATA[https://github.com/Korzer420/LoreRandomizer/releases/download/v0.4.1/LoreRandomizer.zip]]></Link>
         <Dependencies>
             <Dependency>Randomizer 4</Dependency>
             <Dependency>LoreCore</Dependency>
@@ -6905,9 +6905,9 @@ Enjoy!</Description>
     <Manifest>
         <Name>Extra Rando</Name>
         <Description>Randomizer 4 connection with miscellaneous settings.</Description>
-        <Version>0.11.0.0</Version>
-        <Link SHA256="da9c5a129839ea05662afa0bae895ae4aeacd954ce9c9a22236b0782cefa5be7">
-            <![CDATA[https://github.com/Korzer420/ExtraRando/releases/download/v0.11.0/ExtraRando.zip]]></Link>
+        <Version>0.11.1.0</Version>
+        <Link SHA256="65b0919c937cc7931a04f530c11e3f0a731795a88b77311426102da1125f0009">
+            <![CDATA[https://github.com/Korzer420/ExtraRando/releases/download/v0.11.1/ExtraRando.zip]]></Link>
         <Dependencies>
             <Dependency>Randomizer 4</Dependency>
             <Dependency>KorzUtils</Dependency>
@@ -7110,9 +7110,9 @@ Enjoy!</Description>
     <Manifest>
         <Name>PurenailCore</Name>
         <Description>Common utilities and interop for Purenail mods</Description>
-        <Version>1.4.1.0</Version>
-        <Link SHA256="64e7543e5a03cff7b5cb795f84308133b8fdcf52f6a89fd2d72b8e114d8dc460">
-            <![CDATA[https://github.com/dplochcoder/HollowKnight.PurenailCore/releases/download/v1.4.1.0/PurenailCore.zip]]>
+        <Version>1.5.0.0</Version>
+        <Link SHA256="6FF21B059DFEC194157C27EE4274B457775B03F5B1BBB852807D1DEC97E6B70A">
+            <![CDATA[https://github.com/dplochcoder/HollowKnight.PurenailCore/releases/download/v1.5.0.0/PurenailCore.zip]]>
         </Link>
         <Dependencies>
             <Dependency>RandomizerCore.Json</Dependency>
@@ -9605,9 +9605,9 @@ Enjoy!</Description>
     <Manifest>
         <Name>Architect</Name>
         <Description>A level editor mod, allowing you to customise Hollow Knight by adding or removing platforms, enemies and more with an in-game level editor and level sharer.</Description>
-        <Version>1.16.8.2</Version>
-        <Link SHA256="535e2bb3ff724cc3ee76cf790955fdd19e6efd7a11a1412add1c5edd038dcdfe">
-            <![CDATA[https://github.com/cometcake575/Architect/releases/download/1.16.8.2/Architect.zip]]>
+        <Version>1.16.9.1</Version>
+        <Link SHA256="298a0587d677321d3b19723d8a457d6ccd44046a25c8dcf45936389d78e7af8c">
+            <![CDATA[https://github.com/cometcake575/Architect/releases/download/1.16.9.1/Architect.zip]]>
         </Link>
         <Dependencies>
             <Dependency>Satchel</Dependency>

@@ -22,14 +22,6 @@
 - Dependencies
   + Satchel
 
-### FrameLimiter
-
-- Description: Can limit fps to whatever you like (can be usefull for frame specific skips)
-- Dependencies
-  + Satchel
-- Tags
-  + Utility
-
 ### GPZPractice
 
 - Description: This mod allows you config spawning of Zotelings.
@@ -53,14 +45,6 @@
 - Tags
   + Boss
 
-### Less Flashing Lights
-
-- Description: Reduces the amount of flashing lights. Check the readme for more info
-- Dependencies
-  + Satchel
-- Tags
-  + Utility
-
 ### Limitations
 
 - Description: Create none endless limitations
@@ -81,13 +65,6 @@
 - Description: Swinging the nail will destroy enemies&#x27; bullet.
 - Dependencies
   + Satchel
-
-### OnlyBosses
-
-- Description: OnlyBosses is an alternative to TheHuntIsOn enemy module (which removes basic enemies), but since it got removed this mod is here.
-- Tags
-  + Gameplay
-  + Utility
 
 ### PURITY
 
@@ -165,7 +142,7 @@
 
 ### Architect
 
-- Version: 1.12.4.0 -> 1.16.14.0
+- Version: 1.12.4.1 -> 1.16.14.0
 
 ### BlindRadiance
 
@@ -176,25 +153,22 @@
 
 ### Breakable Wall Randomizer
 
-- Version: 4.0.1.0 -> 4.1.1.3
+- Version: 4.0.1.0 -> 4.1.1.4
 
 ### BugPrince
 
 - Version: 1.4.2.0 -> 1.4.4.0
 
-### Charm Editor
-
-- Version: 1.0.0.0 -> 1.1.0.0
-
 ### CharmPatch
 
-- Version: 1.4.2.0 -> 1.5.1.0
+- Version: 1.4.2.0 -> 1.5.1.1
 - Dependencies
   + Added
     - DanielSteginkUtils
 - Integrations
   + Added
     - Charm Changer
+    - Exaltation
 
 ### DivineFury
 
@@ -282,7 +256,7 @@
 
 ### Pale Court Charms
 
-- Version: 1.0.0.1 -> 1.3.1.0
+- Version: 1.1.1.0 -> 1.3.1.0
 - Description
   + Old: Adds charms from Pale Court. Made to allow compatibility with mods that don&#x27;t work with the main Pale Court. Works with Randomizer.
   + New: Adds charms from Pale Court. Made to allow compatibility with mods that don&#x27;t work with the main Pale Court. Works with Randomizer and Transcendence.
@@ -340,10 +314,6 @@
 - Tags
   + Added
     - Boss
-
-### TreasureHunt
-
-- Version: 1.6.1.0 -> 1.6.3.0
 
 ### Trial of Crusaders
 

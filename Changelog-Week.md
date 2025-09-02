@@ -76,7 +76,14 @@
 
 ### Breakable Wall Randomizer
 
-- Version: 4.1.1.0 -> 4.1.1.3
+- Version: 4.1.1.2 -> 4.1.1.4
+
+### CharmPatch
+
+- Version: 1.5.1.0 -> 1.5.1.1
+- Integrations
+  + Added
+    - Exaltation
 
 ### Faction Elimination
 
@@ -129,18 +136,11 @@
 
 - Version: 2.1.5.0 -> 2.1.6.0
 
-### VendorRando
-
-- Version: 1.0.1.0 -> 1.0.2.0
-
 ### WideCamera
 
-- Version: 1.5.1.0 -> 1.5.1.4
+- Version: 1.5.1.3 -> 1.5.1.4
 
 ### YetAnotherRandoConnection
 
 - Version: 1.1.0.1 -> 1.1.0.3
-- Integrations
-  + Added
-    - FStats
 

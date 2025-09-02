@@ -1,8 +1,4 @@
 Architect
-Charm Editor
-Pale Court Charms
-TreasureHunt
-Architect
 Extra Rando
 KorzUtils
 Trial of Crusaders
@@ -93,3 +89,5 @@ Architect
 HollowPoint
 Nail Destroy Bullet
 YetAnotherRandoConnection
+Breakable Wall Randomizer
+CharmPatch

@@ -1,11 +1,4 @@
 Architect
-Charm Editor
-FrameLimiter
-Less Flashing Lights
-OnlyBosses
-Pale Court Charms
-TreasureHunt
-Architect
 Extra Rando
 KorzUtils
 Trial of Crusaders
@@ -113,3 +106,5 @@ HollowPoint
 Nail Destroy Bullet
 Shade Lord
 YetAnotherRandoConnection
+Breakable Wall Randomizer
+CharmPatch

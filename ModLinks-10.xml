@@ -426,8 +426,8 @@ Not recommended for use in new mods.</Description>
     <Manifest>
         <Name>YetAnotherRandoConnection</Name>
         <Description>A Randomizer add-on with an assortment of additions</Description>
-        <Version>1.1.0.0</Version>
-        <Link SHA256="E2CBB05D8E40E5C5BDDA0883243A764776C694D02771D05927B824047722B60A"><![CDATA[https://github.com/TheMathGeek314/YetAnotherRandoConnection/releases/download/v1.1.0.0/YetAnotherRandoConnection.zip]]></Link>
+        <Version>1.1.0.1</Version>
+        <Link SHA256="AF31416744A9FFC35553DCD4267716D95943A14E2958A1F6C20E69470CBBACAF"><![CDATA[https://github.com/TheMathGeek314/YetAnotherRandoConnection/releases/download/v1.1.0.1/YetAnotherRandoConnection.zip]]></Link>
         <Dependencies>
             <Dependency>ConnectionMetadataInjector</Dependency>
             <Dependency>ItemChanger</Dependency>
@@ -9629,9 +9629,9 @@ Enjoy!</Description>
     <Manifest>
         <Name>Architect</Name>
         <Description>A level editor mod, allowing you to customise Hollow Knight by adding or removing platforms, enemies and more with an in-game level editor and level sharer.</Description>
-        <Version>1.16.12.0</Version>
-        <Link SHA256="0754fe6b6b6de34cd9c9834c235976fa53002198aa03a9cfae8705a561fd9f94">
-            <![CDATA[https://github.com/cometcake575/Architect/releases/download/1.16.12.0/Architect.zip]]>
+        <Version>1.16.12.1</Version>
+        <Link SHA256="381083a3c5a471ef72b6c1b31eb046d554e680b516e3c4278c9c9ae8d3fa1adb">
+            <![CDATA[https://github.com/cometcake575/Architect/releases/download/1.16.12.1/Architect.zip]]>
         </Link>
         <Dependencies>
             <Dependency>Satchel</Dependency>
