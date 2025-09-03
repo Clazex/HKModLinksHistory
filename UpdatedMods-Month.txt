@@ -1,8 +1,4 @@
 Architect
-Extra Rando
-KorzUtils
-Trial of Crusaders
-Architect
 BugPrince
 ReplayLogger
 Architect
@@ -91,3 +87,5 @@ Nail Destroy Bullet
 YetAnotherRandoConnection
 Breakable Wall Randomizer
 CharmPatch
+ExaltationExpanded
+MyHK

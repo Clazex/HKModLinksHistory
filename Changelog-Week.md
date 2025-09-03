@@ -3,24 +3,11 @@
 
 ## New mods
 
-### Custom Title
-
-- Description: A Hollow Knight mod that allows players to use their custom title
-
 ### Dash Slash Plus
 
 - Description: Removes the charge requirement for Dash Slash.
 - Dependencies
   + Satchel
-
-### MyHK
-
-- Description: An assisting mod for HK that can improve the gaming experience significantly
-- Dependencies
-  + HKTool
-  + Satchel
-- Tags
-  + Optimization
 
 ### Nail Destroy Bullet
 
@@ -39,18 +26,6 @@
 - Description: Adds the Shade Lord as a boss in the Hall of Gods
 - Tags
   + Boss
-
-### U-tils
-
-- Description: Utilities by and for U-tale
-- Tags
-  + Utility
-
-### VoidHeartMenu
-
-- Description: Makes the Voidheart edition text appear on pc versions of the game.
-- Tags
-  + Cosmetic
 
 
 ## Updated mods
@@ -85,6 +60,18 @@
   + Added
     - Exaltation
 
+### Custom Title
+
+- Version: 1.0.0.0 -> 1.1.0.0
+
+### ExaltationExpanded
+
+- Version: 1.3.1.0 -> 1.4.0.0
+- Integrations
+  + Added
+    - Carefree Grimm
+    - Charm Changer
+
 ### Faction Elimination
 
 - Version: 0.1.0.0 -> 0.1.1.0
@@ -96,6 +83,10 @@
 ### MapChanger
 
 - Version: 1.3.9.0 -> 1.3.10.0
+
+### MyHK
+
+- Version: 1.2.0.1 -> 1.2.0.3
 
 ### Pale Court Charms
 

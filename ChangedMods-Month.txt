@@ -1,8 +1,4 @@
 Architect
-Extra Rando
-KorzUtils
-Trial of Crusaders
-Architect
 BugPrince
 Galien Illusionist
 ReplayLogger
@@ -108,3 +104,5 @@ Shade Lord
 YetAnotherRandoConnection
 Breakable Wall Randomizer
 CharmPatch
+ExaltationExpanded
+MyHK

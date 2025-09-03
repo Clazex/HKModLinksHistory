@@ -1,7 +1,3 @@
-Custom Title
-MyHK
-U-tils
-VoidHeartMenu
 BlindRadiance
 Custom Title
 Pale Court Charms
@@ -30,3 +26,5 @@ Shade Lord
 YetAnotherRandoConnection
 Breakable Wall Randomizer
 CharmPatch
+ExaltationExpanded
+MyHK
