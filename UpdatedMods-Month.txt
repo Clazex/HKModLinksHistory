@@ -1,7 +1,4 @@
 Architect
-BugPrince
-ReplayLogger
-Architect
 VendorRando
 Architect
 EnchantedMask
@@ -89,3 +86,4 @@ Breakable Wall Randomizer
 CharmPatch
 ExaltationExpanded
 MyHK
+ReplayLogger

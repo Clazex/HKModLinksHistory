@@ -4987,6 +4987,23 @@
       "TheMathGeek_314"
     ]
   },
+  "Killable Dreamnail": {
+    "description": "Add a charm called \"Serrated Dream\" which allows you to deal damage with dream nail, the damage is depend on the essence you have",
+    "version": "1.0.0.0",
+    "links": {
+      "type": "universal",
+      "sha256": "13B9C08222CC30DD0B1E74C31533861369BCEBC57BDA9F31C8DA3A9039D02C79",
+      "url": "https://github.com/hien-ngo29/KillableDreamNail/releases/download/v1.0.0.0/SerratedDreams.zip"
+    },
+    "dependencies": [],
+    "repository": "https://github.com/hien-ngo29/KillableDreamNail",
+    "tags": [
+      "Gameplay"
+    ],
+    "authors": [
+      "Hien Ngo"
+    ]
+  },
   "Kindred Spirit": {
     "description": "Replaces the Massive Mosscharger's statue in Godhome with a dream and non dream version of the Greenpath Vessel.",
     "version": "1.0.0.2",
@@ -5793,6 +5810,25 @@
     ],
     "authors": [
       "nerthul11"
+    ]
+  },
+  "More Charm Notches": {
+    "description": "Doubles the number of charm notches you have, so that you start wih 6 instead of 3, and every additional charm notch item you find will give you an extra 2 notches.",
+    "version": "1.0.9377.28227",
+    "links": {
+      "type": "universal",
+      "sha256": "261E0511F743EBE4C4475861D0AD34BF31F0CDA83E3E9B2F02FB5B67A9D15237",
+      "url": "https://github.com/meanwhile-labs/hk-more-charm-notches/releases/download/v1.0.9377.28227/HK_More_Charm_Notches.zip"
+    },
+    "dependencies": [],
+    "repository": "https://github.com/meanwhile-labs/hk-more-charm-notches",
+    "issues": "https://github.com/meanwhile-labs/hk-more-charm-notches/issues",
+    "tags": [
+      "Gameplay",
+      "Utility"
+    ],
+    "authors": [
+      "Meanwhile"
     ]
   },
   "More Godhome Space": {
@@ -7730,11 +7766,11 @@
   },
   "ReplayLogger": {
     "description": "ReplayLoger is a mod that was created to verify the legitimacy of player challenge runs.",
-    "version": "1.0.0.4",
+    "version": "1.0.0.5",
     "links": {
       "type": "universal",
-      "sha256": "FB203F9E927D95F409DFA81A047C431B524F540017D26BF02ED2C1AF78700DC3",
-      "url": "https://github.com/MorozicH20/ReplayLogger/releases/download/v1.0.0.4/ReplayLogger.zip"
+      "sha256": "D337B8B8EC8E400B9F452FAF99E25FE413A8BB14F022191041D415445C05870A",
+      "url": "https://github.com/MorozicH20/ReplayLogger/releases/download/v1.0.0.5/ReplayLogger.zip"
     },
     "dependencies": [],
     "repository": "https://github.com/MorozicH20/ReplayLogger",

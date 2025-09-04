@@ -1,8 +1,4 @@
 Architect
-BugPrince
-Galien Illusionist
-ReplayLogger
-Architect
 DanielSteginkUtils
 VendorRando
 Architect
@@ -106,3 +102,6 @@ Breakable Wall Randomizer
 CharmPatch
 ExaltationExpanded
 MyHK
+Killable Dreamnail
+More Charm Notches
+ReplayLogger

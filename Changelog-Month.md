@@ -28,14 +28,6 @@
 - Tags
   + Utility
 
-### Galien Illusionist
-
-- Description: Modboss. Now there will be two galiens in the arena, one of which is not real.
-- Dependencies
-  + Vasi
-- Tags
-  + Boss
-
 ### INFINITY
 
 - Description: A pure vessel boss mod.
@@ -45,11 +37,24 @@
 - Tags
   + Boss
 
+### Killable Dreamnail
+
+- Description: Add a charm called &quot;Serrated Dream&quot; which allows you to deal damage with dream nail, the damage is depend on the essence you have
+- Tags
+  + Gameplay
+
 ### Limitations
 
 - Description: Create none endless limitations
 - Tags
   + Gameplay
+
+### More Charm Notches
+
+- Description: Doubles the number of charm notches you have, so that you start wih 6 instead of 3, and every additional charm notch item you find will give you an extra 2 notches.
+- Tags
+  + Gameplay
+  + Utility
 
 ### MyHK
 
@@ -142,7 +147,7 @@
 
 ### Architect
 
-- Version: 1.14.1.0 -> 1.16.14.0
+- Version: 1.14.5.0 -> 1.16.14.0
 
 ### BlindRadiance
 
@@ -157,7 +162,7 @@
 
 ### BugPrince
 
-- Version: 1.4.2.0 -> 1.4.4.0
+- Version: 1.4.3.0 -> 1.4.4.0
 
 ### CharmPatch
 
@@ -276,7 +281,7 @@
 
 ### ReplayLogger
 
-- Version: 1.0.0.2 -> 1.0.0.4
+- Version: 1.0.0.3 -> 1.0.0.5
 
 ### Rogue
 
