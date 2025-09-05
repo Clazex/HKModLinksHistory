@@ -5328,15 +5328,15 @@ Enjoy!</Description>
     <Manifest>
         <Name>HollowPoint</Name>
         <Description>Gives the player a gun, reworks charms and abilities to play around the concept of gun usage</Description>
-        <Version>1.4.0.1</Version>
-        <Link SHA256="8a4f8f8e08a00df4346def0434a1c6ec0ff5bb2f2ef43183e4445fc378234aff">
-            <![CDATA[https://github.com/RedFrog6002/Hollow-Point/releases/download/1.4.0.1/HollowPoint.zip]]>
+        <Version>1.4.0.2</Version>
+        <Link SHA256="fe19d83dc4d5b62f1c4e2bbfb484649a38e2be9d081aa7bebc42fd354fc805b2">
+            <![CDATA[https://github.com/ZestyMace/Hollow-Point/releases/download/1.4.0.2/HollowPoint.zip]]>
         </Link>
         <Dependencies>
             <Dependency>Vasi</Dependency>
         </Dependencies>
         <Repository>
-            <![CDATA[https://github.com/RedFrog6002/Hollow-Point/]]>
+            <![CDATA[https://github.com/ZestyMace/Hollow-Point/]]>
         </Repository>
     </Manifest>
     <Manifest>
@@ -6444,9 +6444,9 @@ Enjoy!</Description>
     <Manifest>
         <Name>Archipelago</Name>
         <Description>Enables play with the Archipelago multiworld system.</Description>
-        <Version>0.10.0.0</Version>
-        <Link SHA256="9FB5EC5204FC83BB93C1752440D554695DD2ECC20F1253D1F9584E338AEBA219">
-            <![CDATA[https://github.com/ArchipelagoMW-HollowKnight/Archipelago.HollowKnight/releases/download/v0.10.0/Archipelago.zip]]>
+        <Version>0.11.0.0</Version>
+        <Link SHA256="19E4026A08F9984CB89DFEE39B76542331B5DFF12FBE93C2CE1696B313DCB8AB">
+            <![CDATA[https://github.com/ArchipelagoMW-HollowKnight/Archipelago.HollowKnight/releases/download/v0.11.0/Archipelago.zip]]>
         </Link>
         <Dependencies>
             <Dependency>ItemChanger</Dependency>
@@ -6461,9 +6461,9 @@ Enjoy!</Description>
     <Manifest>
         <Name>Archipelago Map Mod</Name>
         <Description>A conversion of RandoMapMod that works with the Archipelago multiworld randomizer</Description>
-        <Version>3.1.2.0</Version>
-        <Link SHA256="23419EE3A108FFA57C13BBBA23D22451CA6CA0469214E5E8E89EDD62CFAD16CE">
-            <![CDATA[https://github.com/ArchipelagoMW-HollowKnight/Archipelago.APMapMod/releases/download/v3.1.2/Archipelago.Map.Mod.zip]]>
+        <Version>3.2.0.0</Version>
+        <Link SHA256="F872436A356883483B3597FBB79153FBA5B1C0504C29DFC4361FDEBAC56D6219">
+            <![CDATA[https://github.com/ArchipelagoMW-HollowKnight/Archipelago.APMapMod/releases/download/v3.2.0/Archipelago.Map.Mod.zip]]>
         </Link>
         <Dependencies>
             <Dependency>Archipelago</Dependency>
@@ -9716,9 +9716,9 @@ Enjoy!</Description>
     <Manifest>
         <Name>Architect</Name>
         <Description>A level editor mod, allowing you to customise Hollow Knight by adding or removing platforms, enemies and more with an in-game level editor and level sharer.</Description>
-        <Version>1.16.13.1</Version>
-        <Link SHA256="fb6e729c80a658a0e758d8984be55a558b220326ededab02783c250befda01ec">
-            <![CDATA[https://github.com/cometcake575/Architect/releases/download/1.16.13.1/Architect.zip]]>
+        <Version>1.16.14.0</Version>
+        <Link SHA256="33d97047f8a68dc460d9f1c66ebbcb9a57359fff7e24def1bd7bacdeabd89894">
+            <![CDATA[https://github.com/cometcake575/Architect/releases/download/1.16.14.0/Architect.zip]]>
         </Link>
         <Dependencies>
             <Dependency>Satchel</Dependency>
@@ -10269,12 +10269,27 @@ Enjoy!</Description>
         <Name>Nail Destroy Bullet</Name>
         <Description>Swinging the nail will destroy enemies' bullet.</Description>
         <Version>1.0.0.0</Version>
-        <Link SHA256="579274abbf9e1917b29f97f9427a83421b577613557007ad6f44a307fc258b1a"><![CDATA[https://github.com/Null993/Nail-Destroy-Bullet/releases/download/Release/NailDestroyBullet.zip]]></Link>
+        <Link SHA256="579274abbf9e1917b29f97f9427a83421b577613557007ad6f44a307fc258b1a"><![CDATA[https://github.com/Null993/Nail-Destroy-Bullet/releases/download/Beta/NailDestoryBullet.zip]]></Link>
         <Dependencies>
             <Dependency>Satchel</Dependency>
         </Dependencies>
         <Repository>
             <![CDATA[https://github.com/Null993/Nail-Destroy-Bullet]]>
+        </Repository>
+        <Authors>
+            <Author>Null_993</Author>
+        </Authors>
+    </Manifest>
+    <Manifest>
+        <Name>Dash Slash Plus</Name>
+        <Description>Removes the charge requirement for Dash Slash.</Description>
+        <Version>1.0.0.0</Version>
+        <Link SHA256="2d3981ec36d535bccd993ec8dc1cbb61f49c290c24ae3278392180ab406c1749"><![CDATA[https://github.com/Null993/Dash-Slash-Plus/releases/download/v1.0/DashSlashPlus.zip]]></Link>
+        <Dependencies>
+            <Dependency>Satchel</Dependency>
+        </Dependencies>
+        <Repository>
+            <![CDATA[https://github.com/Null993/Dash-Slash-Plus]]>
         </Repository>
         <Authors>
             <Author>Null_993</Author>

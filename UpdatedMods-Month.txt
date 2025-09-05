@@ -1,6 +1,4 @@
 Architect
-VendorRando
-Architect
 EnchantedMask
 ExaltationExpanded
 Architect
@@ -87,3 +85,4 @@ CharmPatch
 ExaltationExpanded
 MyHK
 ReplayLogger
+ExaltationExpanded

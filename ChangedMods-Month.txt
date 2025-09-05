@@ -1,7 +1,4 @@
 Architect
-DanielSteginkUtils
-VendorRando
-Architect
 EnchantedMask
 ExaltationExpanded
 Architect
@@ -105,3 +102,4 @@ MyHK
 Killable Dreamnail
 More Charm Notches
 ReplayLogger
+ExaltationExpanded

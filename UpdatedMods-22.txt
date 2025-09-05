@@ -1,4 +1,5 @@
 Architect
-Breakable Wall Randomizer
-VendorRando
+Extra Rando
+MoreDoors
+Trial of Crusaders
 YetAnotherRandoConnection

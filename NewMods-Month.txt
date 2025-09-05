@@ -1,4 +1,3 @@
-DanielSteginkUtils
 INFINITY
 PURITY
 YetAnotherRandoConnection

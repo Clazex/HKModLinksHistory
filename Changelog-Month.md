@@ -7,15 +7,6 @@
 
 - Description: A Hollow Knight mod that allows players to use their custom title
 
-### DanielSteginkUtils
-
-- Description: Custom library with calculations, logic and cross-mod helpers.
-- Dependencies
-  + ItemChanger
-  + SFCore
-- Tags
-  + Library
-
 ### Dash Slash Plus
 
 - Description: Removes the charge requirement for Dash Slash.
@@ -147,7 +138,7 @@
 
 ### Architect
 
-- Version: 1.14.5.0 -> 1.16.14.0
+- Version: 1.15.0.0 -> 1.16.14.0
 
 ### BlindRadiance
 
@@ -175,6 +166,13 @@
     - Charm Changer
     - Exaltation
 
+### DanielSteginkUtils
+
+- Version: 1.0.1.0 -> 1.2.1.1
+- Dependencies
+  + Added
+    - ItemChanger
+
 ### DivineFury
 
 - Version: 1.1.2.0 -> 1.2.1.0
@@ -200,7 +198,7 @@
 
 ### ExaltationExpanded
 
-- Version: 1.1.1.0 -> 1.4.0.0
+- Version: 1.1.1.0 -> 1.4.1.0
 - Dependencies
   + Added
     - DanielSteginkUtils
@@ -328,7 +326,7 @@
 
 ### VendorRando
 
-- Version: 1.0.0.3 -> 1.0.2.0
+- Version: 1.0.0.4 -> 1.0.2.0
 
 ### WanderersWisdom
 
