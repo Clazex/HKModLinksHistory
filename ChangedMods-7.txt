@@ -1,14 +1,5 @@
+Archipelago
+Archipelago Map Mod
 Architect
-Breakable Wall Randomizer
-Faction Elimination
-MapChanger
-MyHK
-Nail Destroy Bullet
-Powerful Shadow Dash
-PowerfulShadowDash
-RandoMapCore
-RandoMapMod
-Rogue
-Vanilla Map Mod
-WideCamera
-YetAnotherRandoConnection
+Dash Slash Plus
+HollowPoint

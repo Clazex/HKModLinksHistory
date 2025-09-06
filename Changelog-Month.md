@@ -138,7 +138,7 @@
 
 ### Architect
 
-- Version: 1.15.0.0 -> 1.16.14.0
+- Version: 1.16.0.0 -> 1.16.14.0
 
 ### BlindRadiance
 
@@ -185,23 +185,9 @@
   + Added
     - Exaltation
 
-### EnchantedMask
-
-- Version: 1.1.1.0 -> 1.2.0.0
-- Dependencies
-  + Added
-    - DanielSteginkUtils
-- Integrations
-  + Removed
-    - Pale Court
-    - Pale Court Charms
-
 ### ExaltationExpanded
 
-- Version: 1.1.1.0 -> 1.4.1.0
-- Dependencies
-  + Added
-    - DanielSteginkUtils
+- Version: 1.2.0.0 -> 1.4.1.0
 - Integrations
   + Added
     - Carefree Grimm
@@ -261,6 +247,7 @@
 - Description
   + Old: Adds charms from Pale Court. Made to allow compatibility with mods that don&#x27;t work with the main Pale Court. Works with Randomizer.
   + New: Adds charms from Pale Court. Made to allow compatibility with mods that don&#x27;t work with the main Pale Court. Works with Randomizer and Transcendence.
+        Do not use with Pale Court,as both mods add the same charms.
 - Integrations
   + Added
     - Transcendence
