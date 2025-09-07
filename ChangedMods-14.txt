@@ -1,2 +1,1 @@
-Architect
-YetAnotherRandoConnection
+SFCore

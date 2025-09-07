@@ -1,17 +1,30 @@
 # Changelog
 
 
-## Updated mods
+## New mods
 
-### Breakable Wall Randomizer
+### Custom Title
 
-- Version: 4.1.1.0 -> 4.1.1.2
+- Description: A Hollow Knight mod that allows players to use their custom title
 
-### VendorRando
+### MyHK
 
-- Version: 1.0.1.0 -> 1.0.2.0
+- Description: An assisting mod for HK that can improve the gaming experience significantly
+- Dependencies
+  + HKTool
+  + Satchel
+- Tags
+  + Optimization
 
-### WideCamera
+### U-tils
 
-- Version: 1.5.1.0 -> 1.5.1.3
+- Description: Utilities by and for U-tale
+- Tags
+  + Utility
+
+### VoidHeartMenu
+
+- Description: Makes the Voidheart edition text appear on pc versions of the game.
+- Tags
+  + Cosmetic
 

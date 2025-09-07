@@ -1,5 +1,3 @@
-Architect
-Pale Court Charms
 ReplayLogger
 Architect
 DanielSteginkUtils
