@@ -1,3 +1,2 @@
-Nail Destroy Bullet
-Shade Lord
-YetAnotherRandoConnection
+Breakable Wall Randomizer
+CharmPatch

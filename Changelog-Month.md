@@ -266,7 +266,7 @@
 
 ### ReplayLogger
 
-- Version: 1.0.0.3 -> 1.0.0.5
+- Version: 1.0.0.4 -> 1.0.0.5
 
 ### Rogue
 

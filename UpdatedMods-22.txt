@@ -1,3 +1,2 @@
 Architect
-BugPrince
-VendorRando
+YetAnotherRandoConnection

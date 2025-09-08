@@ -481,8 +481,8 @@ Not recommended for use in new mods.</Description>
     <Manifest>
         <Name>VendorRando</Name>
         <Description>A Randomizer add-on that randomizes the physical locations of vendors</Description>
-        <Version>1.0.0.6</Version>
-        <Link SHA256="55A6F8E210AFC7C28E62828A615581706E10AE70CB37047E34D30CFC50715ADF"><![CDATA[https://github.com/TheMathGeek314/VendorRando/releases/download/v1.0.0.6/VendorRando.zip]]></Link>
+        <Version>1.0.1.0</Version>
+        <Link SHA256="18B6F935397753DC2272B179584FD89957927B7389581176DB1D07A344D9EA8E"><![CDATA[https://github.com/TheMathGeek314/VendorRando/releases/download/v1.0.1.0/VendorRando.zip]]></Link>
         <Dependencies>
             <Dependency>ConnectionMetadataInjector</Dependency>
             <Dependency>ItemChanger</Dependency>
@@ -7004,9 +7004,9 @@ Enjoy!</Description>
     <Manifest>
         <Name>BugPrince</Name>
         <Description>A Randomizer 4 connection which combines Blue Prince mechanics with Hollow Knight transition randomizer.</Description>
-        <Version>1.4.3.0</Version>
-        <Link SHA256="32716ab9f30b40a9bac0f76645f41aa1a3ca73421abfac1d5a30dbe0ac4976e5">
-            <![CDATA[https://github.com/dplochcoder/HollowKnight.BugPrince/releases/download/v1.4.3/BugPrince.zip]]>
+        <Version>1.4.4.0</Version>
+        <Link SHA256="da4d4d98932109ea441d0d9f76942a219b320488a84d37b7bcd6a44ae826a58b">
+            <![CDATA[https://github.com/dplochcoder/HollowKnight.BugPrince/releases/download/v1.4.4/BugPrince.zip]]>
         </Link>
         <Dependencies>
             <Dependency>Benchwarp</Dependency>
@@ -9605,9 +9605,9 @@ Enjoy!</Description>
     <Manifest>
         <Name>Architect</Name>
         <Description>A level editor mod, allowing you to customise Hollow Knight by adding or removing platforms, enemies and more with an in-game level editor and level sharer.</Description>
-        <Version>1.16.9.1</Version>
-        <Link SHA256="298a0587d677321d3b19723d8a457d6ccd44046a25c8dcf45936389d78e7af8c">
-            <![CDATA[https://github.com/cometcake575/Architect/releases/download/1.16.9.1/Architect.zip]]>
+        <Version>1.16.10.0</Version>
+        <Link SHA256="0a57098ffd05a1c570c73cdfce012f382d31c1b39a711cb275d5be9facc6cb1a">
+            <![CDATA[https://github.com/cometcake575/Architect/releases/download/1.16.10.0/Architect.zip]]>
         </Link>
         <Dependencies>
             <Dependency>Satchel</Dependency>
@@ -10098,6 +10098,23 @@ Enjoy!</Description>
         </Tags>
         <Authors>
             <Author>DanielStegink</Author>
+        </Authors>
+    </Manifest>
+    <Manifest>
+        <Name>PantheonOfRegions</Name>
+        <Description>Adds new Pantheon to fight bosses together</Description>
+        <Version>1.0.0.3</Version>
+        <Link SHA256="713271332caa6f9d4f494f62065b706f9cf1f1b13f76ea4bed2a8edb6bfd7e5c"><![CDATA[https://github.com/EpsilonDown/PantheonOfRegions/releases/download/v1.0.0.3/Pantheon_of_Regions.zip]]></Link>
+        <Dependencies>
+            <Dependency>Vasi</Dependency>
+            <Dependency>Osmi</Dependency>
+            <Dependency>Satchel</Dependency>
+        </Dependencies>
+        <Repository>
+            <![CDATA[https://github.com/EpsilonDown/PantheonOfRegions]]>
+        </Repository>
+        <Authors>
+            <Author>EpsilonDown</Author>
         </Authors>
     </Manifest>
 </ModLinks>
