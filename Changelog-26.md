@@ -5,17 +5,24 @@
 
 ### Architect
 
-- Version: 1.16.4.0 -> 1.16.6.2
+- Version: 1.16.6.2 -> 1.16.8.2
 
-### Breakable Wall Randomizer
+### Extra Rando
 
-- Version: 4.0.1.1 -> 4.1.0.0
+- Version: 0.9.0.0 -> 0.11.0.0
 
-### VendorRando
+### MoreDoors
 
-- Version: 1.0.0.4 -> 1.0.0.6
+- Version: 3.2.0.0 -> 3.2.1.0
+- Integrations
+  + Added
+    - Extra Rando
+
+### Trial of Crusaders
+
+- Version: 0.3.0.0 -> 0.3.1.0
 
 ### YetAnotherRandoConnection
 
-- Version: 1.0.0.0 -> 1.0.0.1
+- Version: 1.0.0.1 -> 1.0.0.2
 

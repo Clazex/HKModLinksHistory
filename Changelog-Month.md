@@ -138,7 +138,7 @@
 
 ### Architect
 
-- Version: 1.16.0.1 -> 1.16.14.0
+- Version: 1.16.2.0 -> 1.16.14.0
 
 ### BlindRadiance
 
@@ -168,22 +168,11 @@
 
 ### DanielSteginkUtils
 
-- Version: 1.0.1.0 -> 1.2.1.1
-- Dependencies
-  + Added
-    - ItemChanger
+- Version: 1.1.0.0 -> 1.2.1.1
 
 ### DivineFury
 
-- Version: 1.1.2.0 -> 1.2.1.0
-- Dependencies
-  + Added
-    - DanielSteginkUtils
-- Integrations
-  + Removed
-    - ExaltationExpanded
-  + Added
-    - Exaltation
+- Version: 1.2.0.0 -> 1.2.1.0
 
 ### ExaltationExpanded
 
@@ -204,15 +193,7 @@
 
 ### Hivesong
 
-- Version: 1.2.1.0 -> 1.3.1.0
-- Dependencies
-  + Added
-    - DanielSteginkUtils
-- Integrations
-  + Removed
-    - ExaltationExpanded
-  + Added
-    - Exaltation
+- Version: 1.3.0.0 -> 1.3.1.0
 
 ### HollowPoint
 
@@ -314,16 +295,6 @@
 ### VendorRando
 
 - Version: 1.0.0.4 -> 1.0.2.0
-
-### WanderersWisdom
-
-- Version: 1.0.1.0 -> 1.1.0.0
-- Dependencies
-  + Added
-    - DanielSteginkUtils
-- Integrations
-  + Added
-    - DebugMod
 
 ### WideCamera
 
