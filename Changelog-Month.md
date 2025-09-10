@@ -19,15 +19,6 @@
 - Tags
   + Utility
 
-### INFINITY
-
-- Description: A pure vessel boss mod.
-- Dependencies
-  + HKMirror
-  + Vasi
-- Tags
-  + Boss
-
 ### Killable Dreamnail
 
 - Description: Add a charm called &quot;Serrated Dream&quot; which allows you to deal damage with dream nail, the damage is depend on the essence you have
@@ -138,7 +129,7 @@
 
 ### Architect
 
-- Version: 1.16.2.0 -> 1.16.14.0
+- Version: 1.16.3.0 -> 1.16.14.0
 
 ### BlindRadiance
 
@@ -224,14 +215,11 @@
 
 ### Pale Court Charms
 
-- Version: 1.1.3.0 -> 1.3.1.0
+- Version: 1.2.0.0 -> 1.3.2.0
 - Description
-  + Old: Adds charms from Pale Court. Made to allow compatibility with mods that don&#x27;t work with the main Pale Court. Works with Randomizer.
+  + Old: Adds charms from Pale Court. Made to allow compatibility with mods that don&#x27;t work with the main Pale Court. Works with Randomizer and Transcendence.
   + New: Adds charms from Pale Court. Made to allow compatibility with mods that don&#x27;t work with the main Pale Court. Works with Randomizer and Transcendence.
         Do not use with Pale Court,as both mods add the same charms.
-- Integrations
-  + Added
-    - Transcendence
 
 ### PurenailCore
 

@@ -1,7 +1,4 @@
 Architect
-INFINITY
-Pale Court Charms
-Architect
 Breakable Wall Randomizer
 PURITY
 Sunset Samsara II
@@ -92,3 +89,4 @@ Killable Dreamnail
 More Charm Notches
 ReplayLogger
 ExaltationExpanded
+Pale Court Charms
