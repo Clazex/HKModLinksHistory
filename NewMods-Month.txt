@@ -1,5 +1,3 @@
-PURITY
-YetAnotherRandoConnection
 PantheonOfRegions
 Limitations
 GPZPractice
@@ -14,3 +12,4 @@ Dash Slash Plus
 Shade Lord
 Killable Dreamnail
 More Charm Notches
+Uneated Grubs

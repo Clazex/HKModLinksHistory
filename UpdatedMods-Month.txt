@@ -1,8 +1,5 @@
 Architect
 Breakable Wall Randomizer
-Sunset Samsara II
-Architect
-Breakable Wall Randomizer
 VendorRando
 YetAnotherRandoConnection
 Architect
@@ -74,3 +71,4 @@ MyHK
 ReplayLogger
 ExaltationExpanded
 Pale Court Charms
+Silksong Healing

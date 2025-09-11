@@ -53,15 +53,6 @@
 - Dependencies
   + Satchel
 
-### PURITY
-
-- Description: New Version of &quot;Sunset Samsara II&quot;. Modded Radiance.
-- Dependencies
-  + HKMirror
-  + Vasi
-- Tags
-  + Boss
-
 ### PantheonOfRegions
 
 - Description: Adds new Pantheon to fight bosses together
@@ -94,27 +85,17 @@
 - Tags
   + Utility
 
+### Uneated Grubs
+
+- Description: Keeps the Grubs in Grubhome without Grubfather eating them.
+- Tags
+  + Cosmetic
+
 ### VoidHeartMenu
 
 - Description: Makes the Voidheart edition text appear on pc versions of the game.
 - Tags
   + Cosmetic
-
-### YetAnotherRandoConnection
-
-- Description: A Randomizer add-on with an assortment of additions
-- Dependencies
-  + ConnectionMetadataInjector
-  + ItemChanger
-  + MenuChanger
-  + Randomizer 4
-  + RandomizerCore
-  + RandomizerCore.Json
-  + Satchel
-- Integrations
-  + CondensedSpoilerLogger
-  + FStats
-  + RandoSettingsManager
 
 
 ## Updated mods
@@ -129,7 +110,7 @@
 
 ### Architect
 
-- Version: 1.16.3.0 -> 1.16.14.0
+- Version: 1.16.4.0 -> 1.16.14.0
 
 ### BlindRadiance
 
@@ -140,7 +121,7 @@
 
 ### Breakable Wall Randomizer
 
-- Version: 4.0.1.0 -> 4.1.1.4
+- Version: 4.0.1.1 -> 4.1.1.4
 
 ### BugPrince
 
@@ -252,25 +233,16 @@
 
 - Version: 1.0.0.0 -> 1.0.0.1
 
+### Silksong Healing
+
+- Version: 1.0.0.0 -> 1.1.0.1
+- Dependencies
+  + Added
+    - Satchel
+
 ### StoriesOfaHkPlayer-Ch2
 
 - Version: 1.5.2.1 -> 1.5.2.2
-
-### Sunset Samsara II
-
-- Version: 1.0.0.1 -> 9.9.9.9
-- Description
-  + Old: Modded Radiance. WARNING: Currently the mod&#x27;s download is slightly special. Go to the mod&#x27;s folder and move the .dll files one folder up.
-  + New: Dummy mod. Install the dependency &quot;PURITY&quot; directly.
-- Dependencies
-  + Removed
-    - HKMirror
-    - Vasi
-  + Added
-    - PURITY
-- Tags
-  + Added
-    - Boss
 
 ### Trial of Crusaders
 
@@ -287,4 +259,11 @@
 ### WideCamera
 
 - Version: 1.5.1.0 -> 1.5.1.4
+
+### YetAnotherRandoConnection
+
+- Version: 1.0.0.0 -> 1.1.0.3
+- Integrations
+  + Added
+    - FStats
 
