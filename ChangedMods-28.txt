@@ -1,5 +1,6 @@
 Architect
 Extra Rando
-MoreDoors
-Trial of Crusaders
+Lore Randomizer
+LoreCore
+PurenailCore
 YetAnotherRandoConnection

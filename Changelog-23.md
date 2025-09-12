@@ -5,13 +5,28 @@
 
 ### Architect
 
-- Version: 1.16.11.3 -> 1.16.11.4
+- Version: 1.16.11.4 -> 1.16.12.0
 
-### Breakable Wall Randomizer
+### CharmPatch
 
-- Version: 4.1.0.0 -> 4.1.1.0
+- Version: 1.4.2.0 -> 1.5.0.0
+- Dependencies
+  + Added
+    - DanielSteginkUtils
 
-### MilliGolf
+### DanielSteginkUtils
 
-- Version: 1.3.0.0 -> 1.3.0.1
+- Version: 1.1.0.0 -> 1.2.1.0
+
+### DivineFury
+
+- Version: 1.2.0.0 -> 1.2.1.0
+
+### ExaltationExpanded
+
+- Version: 1.2.0.0 -> 1.2.1.0
+
+### Hivesong
+
+- Version: 1.3.0.0 -> 1.3.1.0
 

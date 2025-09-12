@@ -110,7 +110,7 @@
 
 ### Architect
 
-- Version: 1.16.4.0 -> 1.16.14.0
+- Version: 1.16.6.2 -> 1.16.14.0
 
 ### BlindRadiance
 
@@ -121,7 +121,7 @@
 
 ### Breakable Wall Randomizer
 
-- Version: 4.0.1.1 -> 4.1.1.4
+- Version: 4.1.0.0 -> 4.1.1.4
 
 ### BugPrince
 
@@ -140,11 +140,11 @@
 
 ### DanielSteginkUtils
 
-- Version: 1.1.0.0 -> 1.2.1.1
+- Version: 1.1.0.0 -> 1.2.1.2
 
 ### DivineFury
 
-- Version: 1.2.0.0 -> 1.2.1.0
+- Version: 1.2.0.0 -> 1.2.1.1
 
 ### ExaltationExpanded
 
@@ -165,7 +165,7 @@
 
 ### Hivesong
 
-- Version: 1.3.0.0 -> 1.3.1.0
+- Version: 1.3.0.0 -> 1.3.1.1
 
 ### HollowPoint
 
@@ -254,7 +254,11 @@
 
 ### VendorRando
 
-- Version: 1.0.0.4 -> 1.0.2.0
+- Version: 1.0.0.6 -> 1.0.2.0
+
+### WanderersWisdom
+
+- Version: 1.1.0.0 -> 1.1.1.0
 
 ### WideCamera
 
@@ -262,7 +266,7 @@
 
 ### YetAnotherRandoConnection
 
-- Version: 1.0.0.0 -> 1.1.0.3
+- Version: 1.0.0.1 -> 1.1.0.3
 - Integrations
   + Added
     - FStats

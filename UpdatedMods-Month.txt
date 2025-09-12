@@ -1,8 +1,4 @@
 Architect
-Breakable Wall Randomizer
-VendorRando
-YetAnotherRandoConnection
-Architect
 Extra Rando
 MoreDoors
 Trial of Crusaders
@@ -72,3 +68,7 @@ ReplayLogger
 ExaltationExpanded
 Pale Court Charms
 Silksong Healing
+DanielSteginkUtils
+DivineFury
+Hivesong
+WanderersWisdom

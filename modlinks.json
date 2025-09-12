@@ -2121,11 +2121,11 @@
   },
   "DanielSteginkUtils": {
     "description": "Custom library with calculations, logic and cross-mod helpers.",
-    "version": "1.2.1.1",
+    "version": "1.2.1.2",
     "links": {
       "type": "universal",
-      "sha256": "7898DAA105458735149AA95677E20D46E85FF064E840D6FEDC32A7C93F60451D",
-      "url": "https://github.com/danielstegink/HollowKnight.DanielSteginkUtils/releases/download/1.2.1.1/DanielSteginkUtils.zip"
+      "sha256": "4BA78446004B84EEA5F4913AED89CF6CD458648EAAED06FFDA37E983ACEA405D",
+      "url": "https://github.com/danielstegink/HollowKnight.DanielSteginkUtils/releases/download/1.2.1.2/DanielSteginkUtils.zip"
     },
     "dependencies": [
       "ItemChanger",
@@ -2486,11 +2486,11 @@
   },
   "DivineFury": {
     "description": "This mod adds a new charm: Divine Fury. This charm sets the player's health to 1, allowing Fury of the Fallen to be viable in Radiant Godhome battles.",
-    "version": "1.2.1.0",
+    "version": "1.2.1.1",
     "links": {
       "type": "universal",
-      "sha256": "6BB806AC8C86F98AEA250EC5F7BCF119128371D1E7B0B96B16B538497B0A507E",
-      "url": "https://github.com/danielstegink/HollowKnight.DivineFury/releases/download/1.2.1.0/DivineFury.zip"
+      "sha256": "389AF5CFF2F43F44C1D0E582B2B549DAA17C096EA70267BA09CBEB06002B3A51",
+      "url": "https://github.com/danielstegink/HollowKnight.DivineFury/releases/download/1.2.1.1/DivineFury.zip"
     },
     "dependencies": [
       "DanielSteginkUtils",
@@ -4476,11 +4476,11 @@
   },
   "Hivesong": {
     "description": "This mod adds a new charm, Hivesong, which increases the damage dealt by pets.",
-    "version": "1.3.1.0",
+    "version": "1.3.1.1",
     "links": {
       "type": "universal",
-      "sha256": "9260DF17CB9E0F753C0C5A74EA0CEDAD1915B2824F2939A04E387FF13EC6F336",
-      "url": "https://github.com/danielstegink/HollowKnight.Hivesong/releases/download/1.3.1.0/Hivesong.zip"
+      "sha256": "3C40DB735E9DA5CE9FA4AB472914678681451385C51AC8CD546B23BBCE2A0F28",
+      "url": "https://github.com/danielstegink/HollowKnight.Hivesong/releases/download/1.3.1.1/Hivesong.zip"
     },
     "dependencies": [
       "DanielSteginkUtils",
@@ -9612,11 +9612,11 @@
   },
   "WanderersWisdom": {
     "description": "A mod that adds 2 new charms: Wanderer's Wisdom and Wanderer's Guile.",
-    "version": "1.1.0.0",
+    "version": "1.1.1.0",
     "links": {
       "type": "universal",
-      "sha256": "25D9D076116FE40423C9EDF4904F2CC3BBD08678F8D0B323B7D9A353B66B1F52",
-      "url": "https://github.com/danielstegink/HollowKnight.WanderersWisdom/releases/download/1.1.0.0/WanderersWisdom.zip"
+      "sha256": "A2239FCFBDCA64154FD6CD334A8AE03B1D718811B820763BA3D3CBB7107D38EA",
+      "url": "https://github.com/danielstegink/HollowKnight.WanderersWisdom/releases/download/1.1.1.0/WanderersWisdom.zip"
     },
     "dependencies": [
       "DanielSteginkUtils",

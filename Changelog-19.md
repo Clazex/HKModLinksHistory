@@ -3,11 +3,7 @@
 
 ## Updated mods
 
-### Architect
+### SFCore
 
-- Version: 1.16.12.0 -> 1.16.12.1
-
-### YetAnotherRandoConnection
-
-- Version: 1.1.0.0 -> 1.1.0.1
+- Version: 1.5.14.15 -> 1.5.14.16
 

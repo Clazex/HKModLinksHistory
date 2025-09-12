@@ -9411,9 +9411,9 @@ Enjoy!</Description>
      <Manifest>
         <Name>ReplayLogger</Name>
         <Description>ReplayLoger is a mod that was created to verify the legitimacy of player challenge runs.</Description>
-        <Version>1.0.0.4</Version>
-        <Link SHA256="fb203f9e927d95f409dfa81a047c431b524f540017d26bf02ed2c1af78700dc3">
-            <![CDATA[https://github.com/MorozicH20/ReplayLogger/releases/download/v1.0.0.4/ReplayLogger.zip]]>
+        <Version>1.0.0.5</Version>
+        <Link SHA256="d337b8b8ec8e400b9f452faf99e25fe413a8bb14f022191041d415445c05870a">
+            <![CDATA[https://github.com/MorozicH20/ReplayLogger/releases/download/v1.0.0.5/ReplayLogger.zip]]>
         </Link>
          <Dependencies />
         <Repository>
@@ -10317,6 +10317,45 @@ Enjoy!</Description>
         </Tags>
         <Authors>
             <Author>OrusLiOx</Author>
+        </Authors>
+    </Manifest>
+    <Manifest>
+        <Name>Killable Dreamnail</Name>
+        <Description>Add a charm called "Serrated Dream" which allows you to deal damage with dream nail, the damage is depend on the essence you have</Description>
+        <Version>1.0.0.0</Version>
+        <Link SHA256="13b9c08222cc30dd0b1e74c31533861369bcebc57bda9f31c8da3a9039d02c79"><![CDATA[https://github.com/hien-ngo29/KillableDreamNail/releases/download/v1.0.0.0/SerratedDreams.zip]]></Link>
+        <Dependencies>
+        </Dependencies>
+        <Repository>
+            <![CDATA[https://github.com/hien-ngo29/KillableDreamNail]]>
+        </Repository>
+        <Tags>
+            <Tag>Gameplay</Tag>
+        </Tags>
+        <Authors>
+            <Author>Hien Ngo</Author>
+        </Authors>
+    </Manifest>
+    <Manifest>
+        <Name>More Charm Notches</Name>
+        <Description>Doubles the number of charm notches you have, so that you start wih 6 instead of 3, and every additional charm notch item you find will give you an extra 2 notches.</Description>
+        <Version>1.0.9377.28227</Version>
+        <Link SHA256="261e0511f743ebe4c4475861d0ad34bf31f0cda83e3e9b2f02fb5b67a9d15237"><![CDATA[https://github.com/meanwhile-labs/hk-more-charm-notches/releases/download/v1.0.9377.28227/HK_More_Charm_Notches.zip]]></Link>
+        <Dependencies>
+        </Dependencies>
+        <Repository>
+            <![CDATA[https://github.com/meanwhile-labs/hk-more-charm-notches]]>
+        </Repository>
+        <!-- Optional -->
+        <Issues>
+            <![CDATA[https://github.com/meanwhile-labs/hk-more-charm-notches/issues]]>
+        </Issues>
+        <Tags>
+            <Tag>Gameplay</Tag>
+            <Tag>Utility</Tag>
+        </Tags>
+        <Authors>
+            <Author>Meanwhile</Author>
         </Authors>
     </Manifest>
 </ModLinks>
