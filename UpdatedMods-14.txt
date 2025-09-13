@@ -1,12 +1,4 @@
+Archipelago
+Archipelago Map Mod
 Architect
-Breakable Wall Randomizer
-Faction Elimination
-MapChanger
-MyHK
-PowerfulShadowDash
-RandoMapCore
-RandoMapMod
-Rogue
-Vanilla Map Mod
-WideCamera
-YetAnotherRandoConnection
+HollowPoint
