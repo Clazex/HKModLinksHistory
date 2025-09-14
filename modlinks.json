@@ -4433,6 +4433,23 @@
     "dependencies": [],
     "repository": "https://github.com/fifty-six/HollowKnight.HellMod/"
   },
+  "Hide Dialog Text": {
+    "description": "Toggle dialog text's visibility by pressing F3. May remove in the future as it is porting to DebugMod",
+    "version": "1.0.0.0",
+    "links": {
+      "type": "universal",
+      "sha256": "D8C1A0B2CBA89B277E646B0C2A259EE79C2D0C98811CE37B927940BA91CCC6BA",
+      "url": "https://github.com/hien-ngo29/HideDialogText/releases/download/v1.0.0.0/HideDialogText.zip"
+    },
+    "dependencies": [],
+    "repository": "https://github.com/hien-ngo29/HideDialogText",
+    "tags": [
+      "Utility"
+    ],
+    "authors": [
+      "Hien Ngo"
+    ]
+  },
   "Hide Mod List": {
     "description": "Allows you to hide your mod list or reduce the space the mod list takes on the screen.",
     "version": "0.2.3.0",

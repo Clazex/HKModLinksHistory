@@ -1,10 +1,4 @@
 Architect
-Extra Rando
-Lore Randomizer
-LoreCore
-PurenailCore
-YetAnotherRandoConnection
-Architect
 BugPrince
 PantheonOfRegions
 VendorRando
@@ -82,3 +76,4 @@ DanielSteginkUtils
 DivineFury
 Hivesong
 WanderersWisdom
+Hide Dialog Text

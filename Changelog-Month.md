@@ -19,6 +19,12 @@
 - Tags
   + Utility
 
+### Hide Dialog Text
+
+- Description: Toggle dialog text&#x27;s visibility by pressing F3. May remove in the future as it is porting to DebugMod
+- Tags
+  + Utility
+
 ### Killable Dreamnail
 
 - Description: Add a charm called &quot;Serrated Dream&quot; which allows you to deal damage with dream nail, the damage is depend on the essence you have
@@ -110,7 +116,7 @@
 
 ### Architect
 
-- Version: 1.16.8.2 -> 1.16.14.0
+- Version: 1.16.9.1 -> 1.16.14.0
 
 ### BlindRadiance
 
@@ -155,10 +161,6 @@
     - Charm Changer
     - MoreMasks
 
-### Extra Rando
-
-- Version: 0.11.0.0 -> 0.11.1.0
-
 ### Faction Elimination
 
 - Version: 0.1.0.0 -> 0.1.1.0
@@ -170,14 +172,6 @@
 ### HollowPoint
 
 - Version: 1.4.0.1 -> 1.4.0.2
-
-### Lore Randomizer
-
-- Version: 0.3.3.0 -> 0.4.1.0
-
-### LoreCore
-
-- Version: 0.6.3.0 -> 0.7.0.0
 
 ### MapChanger
 
@@ -194,10 +188,6 @@
   + Old: Adds charms from Pale Court. Made to allow compatibility with mods that don&#x27;t work with the main Pale Court. Works with Randomizer and Transcendence.
   + New: Adds charms from Pale Court. Made to allow compatibility with mods that don&#x27;t work with the main Pale Court. Works with Randomizer and Transcendence.
         Do not use with Pale Court,as both mods add the same charms.
-
-### PurenailCore
-
-- Version: 1.4.1.0 -> 1.5.0.0
 
 ### RandoMapCore
 
@@ -255,7 +245,7 @@
 
 ### YetAnotherRandoConnection
 
-- Version: 1.0.0.2 -> 1.1.0.3
+- Version: 1.0.0.3 -> 1.1.0.3
 - Integrations
   + Added
     - FStats
