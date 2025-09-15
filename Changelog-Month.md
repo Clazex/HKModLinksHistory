@@ -59,14 +59,6 @@
 - Dependencies
   + Satchel
 
-### PantheonOfRegions
-
-- Description: Adds new Pantheon to fight bosses together
-- Dependencies
-  + Osmi
-  + Satchel
-  + Vasi
-
 ### Powerful Shadow Dash
 
 - Description: This mod set shadow dash cooltime to 0.
@@ -116,7 +108,7 @@
 
 ### Architect
 
-- Version: 1.16.9.1 -> 1.16.14.0
+- Version: 1.16.10.0 -> 1.16.14.0
 
 ### BlindRadiance
 
@@ -128,10 +120,6 @@
 ### Breakable Wall Randomizer
 
 - Version: 4.1.0.0 -> 4.1.1.4
-
-### BugPrince
-
-- Version: 1.4.3.0 -> 1.4.4.0
 
 ### CharmPatch
 
@@ -233,7 +221,7 @@
 
 ### VendorRando
 
-- Version: 1.0.0.6 -> 1.0.2.0
+- Version: 1.0.1.0 -> 1.0.2.0
 
 ### WanderersWisdom
 

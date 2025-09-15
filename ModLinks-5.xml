@@ -9616,12 +9616,13 @@ Enjoy!</Description>
     <Manifest>
         <Name>Silksong Healing</Name>
         <Description>Adds a charm called Soulburst, which allows players to instantly heal 3 masks when they have 99 soul, similar to Silksong</Description>
-        <Version>1.0.0.0</Version>
-        <Link SHA256 ="B1C63D71B4D39758EB73CE74A9892B946E0F07519FF0ECC353099E1497E555BC">
-            <![CDATA[https://github.com/hien-ngo29/SilksongHealing/releases/download/v1.0.0/SilksongHealing.zip]]>
+        <Version>1.1.0.1</Version>
+        <Link SHA256 ="CF0DF8A98874BF7239C46CDD992D143C0F673B25C34DCB82440804BA76F2FC2A">
+            <![CDATA[https://github.com/hien-ngo29/SilksongHealing/releases/download/v1.1.0.1/SilksongHealing.zip]]>
         </Link>
         <Dependencies>
             <Dependency>SFCore</Dependency>
+            <Dependency>Satchel</Dependency>
         </Dependencies>
         <Repository>
             <![CDATA[https://github.com/hien-ngo29/SilksongHealing]]>
@@ -10357,6 +10358,23 @@ Enjoy!</Description>
         </Tags>
         <Authors>
             <Author>Meanwhile</Author>
+        </Authors>
+    </Manifest>
+    <Manifest>
+        <Name>Uneated Grubs</Name>
+        <Description>Keeps the Grubs in Grubhome without Grubfather eating them.</Description>
+        <Version>1.0.0.0</Version>
+        <Link SHA256="F04183D8E343C5AE8511C01D44CBDEFA8A372BCCF975BE1DC0C78AED504A66AE"><![CDATA[https://github.com/ZiggySaidGrub/UneatedGrubs/releases/download/v1.0.0.0/UneatedGrubs.zip]]></Link>
+        <Dependencies>
+        </Dependencies>
+        <Repository>
+            <![CDATA[https://github.com/ZiggySaidGrub/UneatedGrubs]]>
+        </Repository>
+        <Tags>
+            <Tag>Cosmetic</Tag>
+        </Tags>
+        <Authors>
+            <Author>Grub</Author>
         </Authors>
     </Manifest>
 </ModLinks>
