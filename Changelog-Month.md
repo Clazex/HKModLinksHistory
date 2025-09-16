@@ -108,7 +108,7 @@
 
 ### Architect
 
-- Version: 1.16.10.0 -> 1.16.14.0
+- Version: 1.16.11.1 -> 1.16.14.0
 
 ### BlindRadiance
 
@@ -123,7 +123,7 @@
 
 ### CharmPatch
 
-- Version: 1.4.2.0 -> 1.5.1.1
+- Version: 1.4.2.0 -> 1.5.2.0
 - Dependencies
   + Added
     - DanielSteginkUtils
@@ -233,7 +233,7 @@
 
 ### YetAnotherRandoConnection
 
-- Version: 1.0.0.3 -> 1.1.0.3
+- Version: 1.0.0.4 -> 1.1.0.3
 - Integrations
   + Added
     - FStats

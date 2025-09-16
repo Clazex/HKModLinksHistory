@@ -1,6 +1,4 @@
 Architect
-YetAnotherRandoConnection
-Architect
 Pale Court Charms
 SafeGodseekerQoL
 Architect
@@ -58,3 +56,4 @@ DanielSteginkUtils
 DivineFury
 Hivesong
 WanderersWisdom
+CharmPatch

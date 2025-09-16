@@ -1,4 +1,3 @@
-Pale Court Charms
 Silksong Healing
 Uneated Grubs
 DanielSteginkUtils
@@ -6,3 +5,4 @@ DivineFury
 Hivesong
 WanderersWisdom
 Hide Dialog Text
+CharmPatch

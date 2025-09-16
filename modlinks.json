@@ -1283,11 +1283,11 @@
   },
   "CharmPatch": {
     "description": "This is a collection of small changes that I think improve the balance of certain charms in the game. Please view Readme for Charm Changer mod recommendations.",
-    "version": "1.5.1.1",
+    "version": "1.5.2.0",
     "links": {
       "type": "universal",
-      "sha256": "81D53996FA72B677254D68D93B0CBBD1A410D293F7F2B8C4166EF1134878BE3F",
-      "url": "https://github.com/danielstegink/HollowKnight.CharmPatch/releases/download/1.5.1.1/CharmPatch.zip"
+      "sha256": "F5B87D809BA39C2DE1FF2F012A393B8BE5D2461FBE2390685C43C48701A56DC7",
+      "url": "https://github.com/danielstegink/HollowKnight.CharmPatch/releases/download/1.5.2.0/CharmPatch.zip"
     },
     "dependencies": [
       "DanielSteginkUtils",

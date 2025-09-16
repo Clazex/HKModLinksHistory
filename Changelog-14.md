@@ -3,14 +3,15 @@
 
 ## Updated mods
 
-### Breakable Wall Randomizer
+### ExaltationExpanded
 
-- Version: 4.1.1.3 -> 4.1.1.4
-
-### CharmPatch
-
-- Version: 1.5.1.0 -> 1.5.1.1
+- Version: 1.3.1.0 -> 1.4.0.0
 - Integrations
   + Added
-    - Exaltation
+    - Carefree Grimm
+    - Charm Changer
+
+### MyHK
+
+- Version: 1.2.0.2 -> 1.2.0.3
 
