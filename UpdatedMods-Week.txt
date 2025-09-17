@@ -1,4 +1,3 @@
-Silksong Healing
 DanielSteginkUtils
 DivineFury
 Hivesong

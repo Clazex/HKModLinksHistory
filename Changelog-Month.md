@@ -108,7 +108,7 @@
 
 ### Architect
 
-- Version: 1.16.11.1 -> 1.16.14.0
+- Version: 1.16.11.3 -> 1.16.14.0
 
 ### BlindRadiance
 
@@ -171,7 +171,7 @@
 
 ### Pale Court Charms
 
-- Version: 1.2.0.0 -> 1.3.2.0
+- Version: 1.3.0.0 -> 1.3.2.0
 - Description
   + Old: Adds charms from Pale Court. Made to allow compatibility with mods that don&#x27;t work with the main Pale Court. Works with Randomizer and Transcendence.
   + New: Adds charms from Pale Court. Made to allow compatibility with mods that don&#x27;t work with the main Pale Court. Works with Randomizer and Transcendence.
@@ -199,10 +199,6 @@
 ### SFCore
 
 - Version: 1.5.14.15 -> 1.5.14.16
-
-### SafeGodseekerQoL
-
-- Version: 1.0.0.0 -> 1.0.0.1
 
 ### Silksong Healing
 

@@ -9,12 +9,6 @@
 - Tags
   + Utility
 
-### Uneated Grubs
-
-- Description: Keeps the Grubs in Grubhome without Grubfather eating them.
-- Tags
-  + Cosmetic
-
 
 ## Updated mods
 
@@ -33,13 +27,6 @@
 ### Hivesong
 
 - Version: 1.3.1.0 -> 1.3.1.1
-
-### Silksong Healing
-
-- Version: 1.0.0.0 -> 1.1.0.1
-- Dependencies
-  + Added
-    - Satchel
 
 ### WanderersWisdom
 
