@@ -1,25 +1,9 @@
 # Changelog
 
 
-## New mods
-
-### Killable Dreamnail
-
-- Description: Add a charm called &quot;Serrated Dream&quot; which allows you to deal damage with dream nail, the damage is depend on the essence you have
-- Tags
-  + Gameplay
-
-### More Charm Notches
-
-- Description: Doubles the number of charm notches you have, so that you start wih 6 instead of 3, and every additional charm notch item you find will give you an extra 2 notches.
-- Tags
-  + Gameplay
-  + Utility
-
-
 ## Updated mods
 
-### ReplayLogger
+### ExaltationExpanded
 
-- Version: 1.0.0.4 -> 1.0.0.5
+- Version: 1.4.0.0 -> 1.4.1.0
 

@@ -108,7 +108,7 @@
 
 ### Architect
 
-- Version: 1.16.11.3 -> 1.16.14.0
+- Version: 1.16.11.4 -> 1.16.14.0
 
 ### BlindRadiance
 
@@ -119,7 +119,7 @@
 
 ### Breakable Wall Randomizer
 
-- Version: 4.1.0.0 -> 4.1.1.4
+- Version: 4.1.1.0 -> 4.1.1.4
 
 ### CharmPatch
 
@@ -164,10 +164,6 @@
 ### MapChanger
 
 - Version: 1.3.9.0 -> 1.3.10.0
-
-### MilliGolf
-
-- Version: 1.3.0.0 -> 1.3.0.1
 
 ### Pale Court Charms
 
