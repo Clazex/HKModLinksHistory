@@ -150,11 +150,11 @@
   },
   "AdditionalMaps": {
     "description": "Adds white palace and godhome maps. The white palace one is next to the bench in the big room. The godhome one is next to the bench above the pantheons.",
-    "version": "1.5.4.1",
+    "version": "1.5.4.2",
     "links": {
       "type": "universal",
-      "sha256": "78F34209CA461769F15705B73F1C2437BFCFD8894D3DB2201DD4F5B4E635957B",
-      "url": "https://github.com/SFGrenade/AdditionalMaps/releases/download/v1.5.4.1/AdditionalMaps.zip"
+      "sha256": "FE017C138AE50769BB21152BD42834979943D8F3BD0CDCDBC90AAC9E61C51CAA",
+      "url": "https://github.com/SFGrenade/AdditionalMaps/releases/download/v1.5.4.2/AdditionalMaps.zip"
     },
     "dependencies": [
       "SFCore"
@@ -5480,6 +5480,30 @@
       "wdghzym"
     ]
   },
+  "MarkothShield": {
+    "description": "This mod upgrades the Dreamshield into the Markoth Shield.",
+    "version": "1.0.0.0",
+    "links": {
+      "type": "universal",
+      "sha256": "1B6D86ADDE1F2156B2584713A31643E91AB659FA9D03457AB0ECEC97247A68DE",
+      "url": "https://github.com/danielstegink/HollowKnight.MarkothShield/releases/download/1.0.0.0/MarkothShield.zip"
+    },
+    "dependencies": [
+      "DanielSteginkUtils",
+      "Satchel"
+    ],
+    "repository": "https://github.com/danielstegink/HollowKnight.MarkothShield",
+    "issues": "https://github.com/danielstegink/HollowKnight.MarkothShield/issues",
+    "integrations": [
+      "ExaltationExpanded"
+    ],
+    "tags": [
+      "Gameplay"
+    ],
+    "authors": [
+      "DanielStegink"
+    ]
+  },
   "Marmalade": {
     "description": "Radiance spawns Marmu instead of orbs",
     "version": "1.0.0.0",
@@ -8348,11 +8372,11 @@
   },
   "Silksong Healing": {
     "description": "Adds a charm called Soulburst, which allows players to instantly heal 3 masks when they have 99 soul, similar to Silksong",
-    "version": "1.1.0.1",
+    "version": "1.1.0.2",
     "links": {
       "type": "universal",
-      "sha256": "CF0DF8A98874BF7239C46CDD992D143C0F673B25C34DCB82440804BA76F2FC2A",
-      "url": "https://github.com/hien-ngo29/SilksongHealing/releases/download/v1.1.0.1/SilksongHealing.zip"
+      "sha256": "F66BBA7A181E0EB9FD330CC30F8F703B6A1F4DB4F282BBC05B6D0F2CAABC0899",
+      "url": "https://github.com/hien-ngo29/SilksongHealing/releases/download/v1.1.0.2/SilksongHealing.zip"
     },
     "dependencies": [
       "SFCore",
@@ -8363,7 +8387,9 @@
       "Gameplay"
     ],
     "authors": [
-      "Hien Ngo"
+      "Hien Ngo",
+      "Vwert",
+      "nihalrahman"
     ]
   },
   "Silksong-Start-Screen": {

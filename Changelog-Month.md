@@ -37,6 +37,17 @@
 - Tags
   + Gameplay
 
+### MarkothShield
+
+- Description: This mod upgrades the Dreamshield into the Markoth Shield.
+- Dependencies
+  + DanielSteginkUtils
+  + Satchel
+- Integrations
+  + ExaltationExpanded
+- Tags
+  + Gameplay
+
 ### More Charm Notches
 
 - Description: Doubles the number of charm notches you have, so that you start wih 6 instead of 3, and every additional charm notch item you find will give you an extra 2 notches.
@@ -98,6 +109,10 @@
 
 ## Updated mods
 
+### AdditionalMaps
+
+- Version: 1.5.4.1 -> 1.5.4.2
+
 ### Archipelago
 
 - Version: 0.10.0.0 -> 0.11.0.0
@@ -108,7 +123,7 @@
 
 ### Architect
 
-- Version: 1.16.11.4 -> 1.16.14.0
+- Version: 1.16.12.0 -> 1.16.14.0
 
 ### BlindRadiance
 
@@ -123,10 +138,7 @@
 
 ### CharmPatch
 
-- Version: 1.4.2.0 -> 1.5.2.0
-- Dependencies
-  + Added
-    - DanielSteginkUtils
+- Version: 1.5.0.0 -> 1.5.2.0
 - Integrations
   + Added
     - Charm Changer
@@ -134,15 +146,15 @@
 
 ### DanielSteginkUtils
 
-- Version: 1.1.0.0 -> 1.2.1.2
+- Version: 1.2.1.0 -> 1.2.1.2
 
 ### DivineFury
 
-- Version: 1.2.0.0 -> 1.2.1.1
+- Version: 1.2.1.0 -> 1.2.1.1
 
 ### ExaltationExpanded
 
-- Version: 1.2.0.0 -> 1.4.1.0
+- Version: 1.2.1.0 -> 1.4.1.0
 - Integrations
   + Added
     - Carefree Grimm
@@ -155,7 +167,7 @@
 
 ### Hivesong
 
-- Version: 1.3.0.0 -> 1.3.1.1
+- Version: 1.3.1.0 -> 1.3.1.1
 
 ### HollowPoint
 
@@ -198,7 +210,7 @@
 
 ### Silksong Healing
 
-- Version: 1.0.0.0 -> 1.1.0.1
+- Version: 1.0.0.0 -> 1.1.0.2
 - Dependencies
   + Added
     - Satchel

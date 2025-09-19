@@ -1,9 +1,3 @@
-Architect
-CharmPatch
-DanielSteginkUtils
-DivineFury
-ExaltationExpanded
-Hivesong
 ExaltationExpanded
 CharmPatch
 DanielSteginkUtils
@@ -66,3 +60,6 @@ Hivesong
 WanderersWisdom
 Hide Dialog Text
 CharmPatch
+AdditionalMaps
+MarkothShield
+Silksong Healing

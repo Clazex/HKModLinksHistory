@@ -1,9 +1,3 @@
-Architect
-CharmPatch
-DanielSteginkUtils
-DivineFury
-ExaltationExpanded
-Hivesong
 ExaltationExpanded
 CharmPatch
 DanielSteginkUtils
@@ -51,3 +45,5 @@ DivineFury
 Hivesong
 WanderersWisdom
 CharmPatch
+AdditionalMaps
+Silksong Healing

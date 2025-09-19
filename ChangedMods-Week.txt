@@ -1,2 +1,5 @@
 Hide Dialog Text
 CharmPatch
+AdditionalMaps
+MarkothShield
+Silksong Healing

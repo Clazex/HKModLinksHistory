@@ -1,7 +1,8 @@
 <?xml version="1.0"?>
 <ModLinks xmlns="https://github.com/HollowKnight-Modding/HollowKnight.ModLinks/HollowKnight.ModManager"
     xmlns:xsd="http://www.w3.org/2001/XMLSchema"
-    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://raw.githubusercontent.com/HollowKnight-Modding/HollowKnight.ModLinks/main/Schemas/ModLinks.xml">
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xsi:schemaLocation="https://github.com/HollowKnight-Modding/HollowKnight.ModLinks/HollowKnight.ModManager https://raw.githubusercontent.com/HollowKnight-Modding/HollowKnight.ModLinks/main/Schemas/ModLinks.xml">
     <Manifest>
         <Name>U-tils</Name>
         <Description>Utilities by and for U-tale</Description>
@@ -488,8 +489,8 @@ Not recommended for use in new mods.</Description>
     <Manifest>
         <Name>YetAnotherRandoConnection</Name>
         <Description>A Randomizer add-on with an assortment of additions</Description>
-        <Version>1.1.0.2</Version>
-        <Link SHA256="0D137CA539451DC46C5A1FA2FB8493ADA587FDFC1C6A50155AF3B83EC064C9F1"><![CDATA[https://github.com/TheMathGeek314/YetAnotherRandoConnection/releases/download/v1.1.0.2/YetAnotherRandoConnection.zip]]></Link>
+        <Version>1.1.0.3</Version>
+        <Link SHA256="A43FFA050A6F01F480601A3D85EE023C3708F040201F0717656F4F0901CBDB0F"><![CDATA[https://github.com/TheMathGeek314/YetAnotherRandoConnection/releases/download/v1.1.0.3/YetAnotherRandoConnection.zip]]></Link>
         <Dependencies>
             <Dependency>ConnectionMetadataInjector</Dependency>
             <Dependency>ItemChanger</Dependency>
@@ -4080,7 +4081,7 @@ This is a singleplayer mod. The "teamwork" refers to in-game events.</Descriptio
     </Manifest>
     <Manifest>
         <Name>VoidHeartMenu</Name>
-        <DisplayName>Void HEart Menu</DisplayName>
+        <DisplayName>Void Heart Menu</DisplayName>
         <Description>Makes the Voidheart edition text appear on pc versions of the game.</Description>
         <Version>1.5.0.0</Version>
         <Link SHA256="18768E89D677E64AAB3C95DBCAD37901EC03413F643F26E58F22524C4452CE79">
@@ -10268,8 +10269,8 @@ Enjoy!</Description>
     <Manifest>
         <Name>Nail Destroy Bullet</Name>
         <Description>Swinging the nail will destroy enemies' bullet.</Description>
-        <Version>1.0.0.0</Version>
-        <Link SHA256="579274abbf9e1917b29f97f9427a83421b577613557007ad6f44a307fc258b1a"><![CDATA[https://github.com/Null993/Nail-Destroy-Bullet/releases/download/Beta/NailDestoryBullet.zip]]></Link>
+        <Version>1.2.3.0</Version>
+        <Link SHA256="6b7b6e53b287dfcf28c1fc8911a03f34e21030ef896b9458513b065bf231af8d"><![CDATA[https://github.com/Null993/Nail-Destroy-Bullet/releases/download/v1.2.3/NailDestroyBullet-v1.2.3.zip]]></Link>
         <Dependencies>
             <Dependency>Satchel</Dependency>
         </Dependencies>
@@ -10293,6 +10294,26 @@ Enjoy!</Description>
         </Repository>
         <Authors>
             <Author>Null_993</Author>
+        </Authors>
+    </Manifest>
+    <Manifest>
+        <Name>Shade Lord</Name>
+        <Description>Adds the Shade Lord as a boss in the Hall of Gods</Description>
+        <Version>1.0.0.0</Version>
+        <Link SHA256="55b3f96d609e139aad7952e7848cacc1e1f6b70b33211c55db4795a53192cd83"><![CDATA[https://github.com/OrusLiOx/ShadeLord/releases/download/v1.0.0.0/ShadeLord-v1.0.0.0.zip]]></Link>
+        <Dependencies>
+        </Dependencies>
+        <Repository>
+            <![CDATA[https://github.com/OrusLiOx/ShadeLord.git]]>
+        </Repository>
+        <Issues>
+            <![CDATA[https://forms.gle/y3eMAyfebwoViJ1z5]]>
+        </Issues>
+        <Tags>
+            <Tag>Boss</Tag>
+        </Tags>
+        <Authors>
+            <Author>OrusLiOx</Author>
         </Authors>
     </Manifest>
 </ModLinks>
