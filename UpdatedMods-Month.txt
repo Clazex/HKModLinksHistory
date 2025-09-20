@@ -1,4 +1,3 @@
-ExaltationExpanded
 CharmPatch
 DanielSteginkUtils
 ExaltationExpanded
@@ -47,3 +46,5 @@ WanderersWisdom
 CharmPatch
 AdditionalMaps
 Silksong Healing
+ExaltationExpanded
+Faction Elimination

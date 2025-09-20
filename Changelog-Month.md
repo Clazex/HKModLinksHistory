@@ -154,16 +154,16 @@
 
 ### ExaltationExpanded
 
-- Version: 1.2.1.0 -> 1.4.1.0
+- Version: 1.3.0.0 -> 1.5.1.0
 - Integrations
   + Added
     - Carefree Grimm
     - Charm Changer
-    - MoreMasks
+    - Pale Court Charms
 
 ### Faction Elimination
 
-- Version: 0.1.0.0 -> 0.1.1.0
+- Version: 0.1.0.0 -> 0.1.2.0
 
 ### Hivesong
 

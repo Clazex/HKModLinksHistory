@@ -2861,11 +2861,11 @@
   },
   "ExaltationExpanded": {
     "description": "A fan-made supplement to the Exaltation mod created by Xhuis (and ported/updated by Théodore).",
-    "version": "1.4.1.0",
+    "version": "1.5.1.0",
     "links": {
       "type": "universal",
-      "sha256": "05A3025BF84C6D2BDD746A36CC7A4ABEB327EFAA0DDAA5790AAC689887B06B1D",
-      "url": "https://github.com/danielstegink/HollowKnight.ExaltationExpanded/releases/download/1.4.1.0/ExaltationExpanded.zip"
+      "sha256": "3EF44B1FEFB68AFD1A05FBEF84DAED68081461100082B54AF66DBF8813AE8BA5",
+      "url": "https://github.com/danielstegink/HollowKnight.ExaltationExpanded/releases/download/1.5.1.0/ExaltationExpanded.zip"
     },
     "dependencies": [
       "DanielSteginkUtils",
@@ -2881,7 +2881,8 @@
       "Carefree Grimm",
       "Charm Changer",
       "MoreMasks",
-      "Pale Court"
+      "Pale Court",
+      "Pale Court Charms"
     ],
     "tags": [
       "Gameplay"
@@ -2993,11 +2994,11 @@
   },
   "Faction Elimination": {
     "description": "A custom gamemode for HKMP where teams collect upgrades and fight each other.",
-    "version": "0.1.1.0",
+    "version": "0.1.2.0",
     "links": {
       "type": "universal",
-      "sha256": "77C794C1889D9DDEF02614012B279546CA757BBB9469AF14110FEBD05F8A9306",
-      "url": "https://github.com/EmptyEagle/FactionElimination/releases/download/v0.1.1.0/FactionElimination.zip"
+      "sha256": "6E7A464F42EB0BCC79832FBD579030FD859B75D00AEA66459A3AD8FE3AE45FFB",
+      "url": "https://github.com/EmptyEagle/FactionElimination/releases/download/v0.1.2.0/FactionElimination.zip"
     },
     "dependencies": [
       "Charm Changer",

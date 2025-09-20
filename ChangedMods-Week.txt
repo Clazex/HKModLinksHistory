@@ -1,5 +1,6 @@
-Hide Dialog Text
 CharmPatch
 AdditionalMaps
 MarkothShield
 Silksong Healing
+ExaltationExpanded
+Faction Elimination

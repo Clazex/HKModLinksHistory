@@ -1,27 +1,16 @@
 # Changelog
 
 
-## New mods
-
-### MarkothShield
-
-- Description: This mod upgrades the Dreamshield into the Markoth Shield.
-- Dependencies
-  + DanielSteginkUtils
-  + Satchel
-- Integrations
-  + ExaltationExpanded
-- Tags
-  + Gameplay
-
-
 ## Updated mods
 
-### AdditionalMaps
+### ExaltationExpanded
 
-- Version: 1.5.4.1 -> 1.5.4.2
+- Version: 1.4.1.0 -> 1.5.1.0
+- Integrations
+  + Added
+    - Pale Court Charms
 
-### Silksong Healing
+### Faction Elimination
 
-- Version: 1.1.0.1 -> 1.1.0.2
+- Version: 0.1.1.0 -> 0.1.2.0
 

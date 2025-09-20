@@ -1,3 +1,5 @@
 CharmPatch
 AdditionalMaps
 Silksong Healing
+ExaltationExpanded
+Faction Elimination
