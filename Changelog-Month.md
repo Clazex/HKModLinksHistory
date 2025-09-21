@@ -31,12 +31,6 @@
 - Tags
   + Gameplay
 
-### Limitations
-
-- Description: Create none endless limitations
-- Tags
-  + Gameplay
-
 ### MarkothShield
 
 - Description: This mod upgrades the Dreamshield into the Markoth Shield.
@@ -138,23 +132,26 @@
 
 ### CharmPatch
 
-- Version: 1.5.0.0 -> 1.5.2.0
+- Version: 1.5.1.0 -> 1.5.2.0
 - Integrations
   + Added
-    - Charm Changer
     - Exaltation
 
 ### DanielSteginkUtils
 
-- Version: 1.2.1.0 -> 1.2.1.2
+- Version: 1.2.1.1 -> 1.2.1.2
 
 ### DivineFury
 
 - Version: 1.2.1.0 -> 1.2.1.1
 
+### EnchantedMask
+
+- Version: 1.2.0.0 -> 1.3.0.0
+
 ### ExaltationExpanded
 
-- Version: 1.3.0.0 -> 1.5.1.0
+- Version: 1.3.1.0 -> 1.5.1.0
 - Integrations
   + Added
     - Carefree Grimm
@@ -237,7 +234,7 @@
 
 ### YetAnotherRandoConnection
 
-- Version: 1.0.0.4 -> 1.1.0.3
+- Version: 1.1.0.0 -> 1.1.0.3
 - Integrations
   + Added
     - FStats

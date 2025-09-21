@@ -4,3 +4,4 @@ MarkothShield
 Silksong Healing
 ExaltationExpanded
 Faction Elimination
+EnchantedMask

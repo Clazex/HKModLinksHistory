@@ -3,3 +3,4 @@ AdditionalMaps
 Silksong Healing
 ExaltationExpanded
 Faction Elimination
+EnchantedMask

@@ -1,7 +1,3 @@
-CharmPatch
-DanielSteginkUtils
-ExaltationExpanded
-YetAnotherRandoConnection
 Architect
 YetAnotherRandoConnection
 SFCore
@@ -48,3 +44,4 @@ AdditionalMaps
 Silksong Healing
 ExaltationExpanded
 Faction Elimination
+EnchantedMask
