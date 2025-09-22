@@ -1,4 +1,3 @@
-CharmPatch
 AdditionalMaps
 Silksong Healing
 ExaltationExpanded
