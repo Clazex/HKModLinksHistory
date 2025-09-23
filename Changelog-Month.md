@@ -201,10 +201,6 @@
   + Added
     - SFCore
 
-### SFCore
-
-- Version: 1.5.14.15 -> 1.5.14.16
-
 ### Silksong Healing
 
 - Version: 1.0.0.0 -> 1.1.0.2
