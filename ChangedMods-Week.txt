@@ -4,3 +4,8 @@ Silksong Healing
 ExaltationExpanded
 Faction Elimination
 EnchantedMask
+AlwaysHazardRespawn
+DanielSteginkUtils
+DivineFury
+ExaltationExpanded
+Hivesong

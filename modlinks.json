@@ -267,6 +267,24 @@
       "Exempt-Medic"
     ]
   },
+  "AlwaysHazardRespawn": {
+    "description": "Always respawn at hazard respawn locations after death.",
+    "version": "0.1.0.0",
+    "links": {
+      "type": "universal",
+      "sha256": "3A56F21DB39A4454DC7238267660B4FBBFE8DCD0C1CA375538DB090FD599B4FF",
+      "url": "https://github.com/Leuthil/HollowKnight.AlwaysHazardRespawn/releases/download/0.1.0.0/AlwaysHazardRespawn-0.1.0.0.zip"
+    },
+    "dependencies": [],
+    "repository": "https://github.com/Leuthil/HollowKnight.AlwaysHazardRespawn",
+    "issues": "https://github.com/Leuthil/HollowKnight.AlwaysHazardRespawn/issues",
+    "tags": [
+      "Gameplay"
+    ],
+    "authors": [
+      "Leuthil"
+    ]
+  },
   "AlwaysWorldSense": {
     "description": "Grants World Sense immediately",
     "version": "1.0.0.0",
@@ -2121,11 +2139,11 @@
   },
   "DanielSteginkUtils": {
     "description": "Custom library with calculations, logic and cross-mod helpers.",
-    "version": "1.2.1.2",
+    "version": "1.2.2.0",
     "links": {
       "type": "universal",
-      "sha256": "4BA78446004B84EEA5F4913AED89CF6CD458648EAAED06FFDA37E983ACEA405D",
-      "url": "https://github.com/danielstegink/HollowKnight.DanielSteginkUtils/releases/download/1.2.1.2/DanielSteginkUtils.zip"
+      "sha256": "472B8DECA3B7E4B661CE94BD90D58E307E0F60E9B494CBB99914DFAE95B6E38D",
+      "url": "https://github.com/danielstegink/HollowKnight.DanielSteginkUtils/releases/download/1.2.2.0/DanielSteginkUtils.zip"
     },
     "dependencies": [
       "ItemChanger",
@@ -2486,11 +2504,11 @@
   },
   "DivineFury": {
     "description": "This mod adds a new charm: Divine Fury. This charm sets the player's health to 1, allowing Fury of the Fallen to be viable in Radiant Godhome battles.",
-    "version": "1.2.1.1",
+    "version": "1.2.1.2",
     "links": {
       "type": "universal",
-      "sha256": "389AF5CFF2F43F44C1D0E582B2B549DAA17C096EA70267BA09CBEB06002B3A51",
-      "url": "https://github.com/danielstegink/HollowKnight.DivineFury/releases/download/1.2.1.1/DivineFury.zip"
+      "sha256": "9C97D1BD218055C02E44118C61999D33768AA0F06480C62D67C378E263E9634B",
+      "url": "https://github.com/danielstegink/HollowKnight.DivineFury/releases/download/1.2.1.2/DivineFury.zip"
     },
     "dependencies": [
       "DanielSteginkUtils",
@@ -2861,17 +2879,16 @@
   },
   "ExaltationExpanded": {
     "description": "A fan-made supplement to the Exaltation mod created by Xhuis (and ported/updated by Théodore).",
-    "version": "1.5.1.0",
+    "version": "1.5.2.0",
     "links": {
       "type": "universal",
-      "sha256": "3EF44B1FEFB68AFD1A05FBEF84DAED68081461100082B54AF66DBF8813AE8BA5",
-      "url": "https://github.com/danielstegink/HollowKnight.ExaltationExpanded/releases/download/1.5.1.0/ExaltationExpanded.zip"
+      "sha256": "19E417AAC6BEB78A07B2CC6C73C900B28C6E4ACD0A9A00403F3C0781DA8E005B",
+      "url": "https://github.com/danielstegink/HollowKnight.ExaltationExpanded/releases/download/1.5.2.0/ExaltationExpanded.zip"
     },
     "dependencies": [
       "DanielSteginkUtils",
       "Exaltation",
       "HKMirror",
-      "ItemChanger",
       "SFCore",
       "Satchel"
     ],
@@ -4494,11 +4511,11 @@
   },
   "Hivesong": {
     "description": "This mod adds a new charm, Hivesong, which increases the damage dealt by pets.",
-    "version": "1.3.1.1",
+    "version": "1.3.1.2",
     "links": {
       "type": "universal",
-      "sha256": "3C40DB735E9DA5CE9FA4AB472914678681451385C51AC8CD546B23BBCE2A0F28",
-      "url": "https://github.com/danielstegink/HollowKnight.Hivesong/releases/download/1.3.1.1/Hivesong.zip"
+      "sha256": "5B003912ABE00E8AAB99FEDC3B9CC3EE3CE03B98090F4ED04CA0AB1F8C530702",
+      "url": "https://github.com/danielstegink/HollowKnight.Hivesong/releases/download/1.3.1.2/Hivesong.zip"
     },
     "dependencies": [
       "DanielSteginkUtils",

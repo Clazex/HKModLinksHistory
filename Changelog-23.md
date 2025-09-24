@@ -1,22 +1,16 @@
 # Changelog
 
 
-## New mods
-
-### Shade Lord
-
-- Description: Adds the Shade Lord as a boss in the Hall of Gods
-- Tags
-  + Boss
-
-
 ## Updated mods
 
-### Nail Destroy Bullet
+### Breakable Wall Randomizer
 
-- Version: 1.0.0.0 -> 1.2.3.0
+- Version: 4.1.1.3 -> 4.1.1.4
 
-### YetAnotherRandoConnection
+### CharmPatch
 
-- Version: 1.1.0.2 -> 1.1.0.3
+- Version: 1.5.1.0 -> 1.5.1.1
+- Integrations
+  + Added
+    - Exaltation
 

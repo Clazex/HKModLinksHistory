@@ -3,6 +3,12 @@
 
 ## New mods
 
+### AlwaysHazardRespawn
+
+- Description: Always respawn at hazard respawn locations after death.
+- Tags
+  + Gameplay
+
 ### Custom Title
 
 - Description: A Hollow Knight mod that allows players to use their custom title
@@ -12,12 +18,6 @@
 - Description: Removes the charge requirement for Dash Slash.
 - Dependencies
   + Satchel
-
-### GPZPractice
-
-- Description: This mod allows you config spawning of Zotelings.
-- Tags
-  + Utility
 
 ### Hide Dialog Text
 
@@ -70,12 +70,6 @@
 - Dependencies
   + Satchel
 
-### PowerfulShadowDash
-
-- Description: Dummy mod. Install the dependency &quot;Powerful Shadow Dash&quot; directly.
-- Dependencies
-  + Powerful Shadow Dash
-
 ### Shade Lord
 
 - Description: Adds the Shade Lord as a boss in the Hall of Gods
@@ -117,7 +111,7 @@
 
 ### Architect
 
-- Version: 1.16.12.1 -> 1.16.14.0
+- Version: 1.16.12.2 -> 1.16.14.0
 
 ### BlindRadiance
 
@@ -139,11 +133,11 @@
 
 ### DanielSteginkUtils
 
-- Version: 1.2.1.1 -> 1.2.1.2
+- Version: 1.2.1.1 -> 1.2.2.0
 
 ### DivineFury
 
-- Version: 1.2.1.0 -> 1.2.1.1
+- Version: 1.2.1.0 -> 1.2.1.2
 
 ### EnchantedMask
 
@@ -151,7 +145,10 @@
 
 ### ExaltationExpanded
 
-- Version: 1.3.1.0 -> 1.5.1.0
+- Version: 1.3.1.0 -> 1.5.2.0
+- Dependencies
+  + Removed
+    - ItemChanger
 - Integrations
   + Added
     - Carefree Grimm
@@ -164,7 +161,7 @@
 
 ### Hivesong
 
-- Version: 1.3.1.0 -> 1.3.1.1
+- Version: 1.3.1.0 -> 1.3.1.2
 
 ### HollowPoint
 
@@ -181,6 +178,18 @@
   + Old: Adds charms from Pale Court. Made to allow compatibility with mods that don&#x27;t work with the main Pale Court. Works with Randomizer and Transcendence.
   + New: Adds charms from Pale Court. Made to allow compatibility with mods that don&#x27;t work with the main Pale Court. Works with Randomizer and Transcendence.
         Do not use with Pale Court,as both mods add the same charms.
+
+### PowerfulShadowDash
+
+- Version: 1.0.0.0 -> 9.9.9.9
+- Description
+  + Old: This mod set shadow dash cooltime to 0.
+  + New: Dummy mod. Install the dependency &quot;Powerful Shadow Dash&quot; directly.
+- Dependencies
+  + Removed
+    - Satchel
+  + Added
+    - Powerful Shadow Dash
 
 ### RandoMapCore
 

@@ -1,5 +1,3 @@
-GPZPractice
-PowerfulShadowDash
 Custom Title
 MyHK
 U-tils
@@ -13,3 +11,4 @@ More Charm Notches
 Uneated Grubs
 Hide Dialog Text
 MarkothShield
+AlwaysHazardRespawn
