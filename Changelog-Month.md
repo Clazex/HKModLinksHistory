@@ -9,10 +9,6 @@
 - Tags
   + Gameplay
 
-### Custom Title
-
-- Description: A Hollow Knight mod that allows players to use their custom title
-
 ### Dash Slash Plus
 
 - Description: Removes the charge requirement for Dash Slash.
@@ -49,15 +45,6 @@
   + Gameplay
   + Utility
 
-### MyHK
-
-- Description: An assisting mod for HK that can improve the gaming experience significantly
-- Dependencies
-  + HKTool
-  + Satchel
-- Tags
-  + Optimization
-
 ### Nail Destroy Bullet
 
 - Description: Swinging the nail will destroy enemies&#x27; bullet.
@@ -76,21 +63,9 @@
 - Tags
   + Boss
 
-### U-tils
-
-- Description: Utilities by and for U-tale
-- Tags
-  + Utility
-
 ### Uneated Grubs
 
 - Description: Keeps the Grubs in Grubhome without Grubfather eating them.
-- Tags
-  + Cosmetic
-
-### VoidHeartMenu
-
-- Description: Makes the Voidheart edition text appear on pc versions of the game.
 - Tags
   + Cosmetic
 
@@ -111,7 +86,7 @@
 
 ### Architect
 
-- Version: 1.16.12.2 -> 1.16.14.0
+- Version: 1.16.12.2 -> 1.16.14.1
 
 ### BlindRadiance
 
@@ -130,6 +105,10 @@
 - Integrations
   + Added
     - Exaltation
+
+### Custom Title
+
+- Version: 1.0.0.0 -> 1.1.0.0
 
 ### DanielSteginkUtils
 
@@ -170,6 +149,10 @@
 ### MapChanger
 
 - Version: 1.3.9.0 -> 1.3.10.0
+
+### MyHK
+
+- Version: 1.2.0.1 -> 1.2.0.3
 
 ### Pale Court Charms
 

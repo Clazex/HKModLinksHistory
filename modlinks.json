@@ -269,11 +269,11 @@
   },
   "AlwaysHazardRespawn": {
     "description": "Always respawn at hazard respawn locations after death.",
-    "version": "0.1.0.0",
+    "version": "0.2.0.0",
     "links": {
       "type": "universal",
-      "sha256": "3A56F21DB39A4454DC7238267660B4FBBFE8DCD0C1CA375538DB090FD599B4FF",
-      "url": "https://github.com/Leuthil/HollowKnight.AlwaysHazardRespawn/releases/download/0.1.0.0/AlwaysHazardRespawn-0.1.0.0.zip"
+      "sha256": "63ABB812C5816D06B19F4F36A4BACA9C993B1DC47F48A25B4C6F81E313F44C2C",
+      "url": "https://github.com/Leuthil/HollowKnight.AlwaysHazardRespawn/releases/download/0.2.0.0/AlwaysHazardRespawn-0.2.0.0.zip"
     },
     "dependencies": [],
     "repository": "https://github.com/Leuthil/HollowKnight.AlwaysHazardRespawn",
@@ -426,11 +426,11 @@
   },
   "Architect": {
     "description": "A level editor mod, allowing you to customise Hollow Knight by adding or removing platforms, enemies and more with an in-game level editor and level sharer.",
-    "version": "1.16.14.0",
+    "version": "1.16.14.1",
     "links": {
       "type": "universal",
-      "sha256": "33D97047F8A68DC460D9F1C66EBBCB9A57359FFF7E24DEF1BD7BACDEABD89894",
-      "url": "https://github.com/cometcake575/Architect/releases/download/1.16.14.0/Architect.zip"
+      "sha256": "CB34342B19A9FC6058F6A6C8652E5D850E3119C988EAB0F40688FD6B8CE1692A",
+      "url": "https://github.com/cometcake575/Architect/releases/download/1.16.14.1/Architect.zip"
     },
     "dependencies": [
       "MagicUI",

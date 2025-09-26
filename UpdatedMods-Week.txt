@@ -1,7 +1,7 @@
-ExaltationExpanded
-Faction Elimination
 EnchantedMask
 DanielSteginkUtils
 DivineFury
 ExaltationExpanded
 Hivesong
+AlwaysHazardRespawn
+Architect
