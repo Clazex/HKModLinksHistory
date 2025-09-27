@@ -24,10 +24,6 @@
 
 - Version: 1.2.1.1 -> 1.2.1.2
 
-### EnchantedMask
-
-- Version: 1.2.0.0 -> 1.3.0.0
-
 ### ExaltationExpanded
 
 - Version: 1.5.1.0 -> 1.5.2.0

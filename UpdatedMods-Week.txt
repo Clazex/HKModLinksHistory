@@ -1,4 +1,3 @@
-EnchantedMask
 DanielSteginkUtils
 DivineFury
 ExaltationExpanded

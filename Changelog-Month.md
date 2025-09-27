@@ -88,13 +88,6 @@
 
 - Version: 1.16.12.2 -> 1.16.14.1
 
-### BlindRadiance
-
-- Version: 1.5.2.0 -> 1.5.2.3
-- Dependencies
-  + Added
-    - Satchel
-
 ### Breakable Wall Randomizer
 
 - Version: 4.1.1.2 -> 4.1.1.4
@@ -105,10 +98,6 @@
 - Integrations
   + Added
     - Exaltation
-
-### Custom Title
-
-- Version: 1.0.0.0 -> 1.1.0.0
 
 ### DanielSteginkUtils
 
@@ -156,7 +145,7 @@
 
 ### Pale Court Charms
 
-- Version: 1.3.0.0 -> 1.3.2.0
+- Version: 1.3.1.0 -> 1.3.2.0
 - Description
   + Old: Adds charms from Pale Court. Made to allow compatibility with mods that don&#x27;t work with the main Pale Court. Works with Randomizer and Transcendence.
   + New: Adds charms from Pale Court. Made to allow compatibility with mods that don&#x27;t work with the main Pale Court. Works with Randomizer and Transcendence.
@@ -199,10 +188,6 @@
 - Dependencies
   + Added
     - Satchel
-
-### StoriesOfaHkPlayer-Ch2
-
-- Version: 1.5.2.1 -> 1.5.2.2
 
 ### Vanilla Map Mod
 
