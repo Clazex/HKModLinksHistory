@@ -3,28 +3,20 @@
 
 ## New mods
 
-### Dash Slash Plus
+### Shade Lord
 
-- Description: Removes the charge requirement for Dash Slash.
-- Dependencies
-  + Satchel
+- Description: Adds the Shade Lord as a boss in the Hall of Gods
+- Tags
+  + Boss
 
 
 ## Updated mods
 
-### Archipelago
+### Nail Destroy Bullet
 
-- Version: 0.10.0.0 -> 0.11.0.0
+- Version: 1.0.0.0 -> 1.2.3.0
 
-### Archipelago Map Mod
+### YetAnotherRandoConnection
 
-- Version: 3.1.2.0 -> 3.2.0.0
-
-### Architect
-
-- Version: 1.16.13.1 -> 1.16.14.0
-
-### HollowPoint
-
-- Version: 1.4.0.1 -> 1.4.0.2
+- Version: 1.1.0.2 -> 1.1.0.3
 

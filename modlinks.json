@@ -1299,6 +1299,29 @@
       "Exempt-Medic"
     ]
   },
+  "Charm ReValance": {
+    "description": "Charm and ability overhaul and customization",
+    "version": "1.25.9.24",
+    "links": {
+      "type": "universal",
+      "sha256": "0E7470A383903FF9079247013BB50A75784BA7C719C3B072912A2CBD3B9B0261",
+      "url": "https://github.com/ValancedBreakfast/CharmReValance/releases/download/1.25.09.24/CharmReValance.dll"
+    },
+    "dependencies": [
+      "HKMirror",
+      "SFCore",
+      "Satchel"
+    ],
+    "repository": "https://github.com/ValancedBreakfast/CharmReValance",
+    "issues": "https://github.com/ValancedBreakfast/CharmReValance/issues",
+    "tags": [
+      "Charm",
+      "Gameplay"
+    ],
+    "authors": [
+      "ValancedBreakfast"
+    ]
+  },
   "CharmPatch": {
     "description": "This is a collection of small changes that I think improve the balance of certain charms in the game. Please view Readme for Charm Changer mod recommendations.",
     "version": "1.5.2.0",
