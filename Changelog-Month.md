@@ -20,12 +20,6 @@
   + Charm
   + Gameplay
 
-### Dash Slash Plus
-
-- Description: Removes the charge requirement for Dash Slash.
-- Dependencies
-  + Satchel
-
 ### Hide Dialog Text
 
 - Description: Toggle dialog text&#x27;s visibility by pressing F3. May remove in the future as it is porting to DebugMod
@@ -75,17 +69,9 @@
 
 - Version: 1.5.4.1 -> 1.5.4.2
 
-### Archipelago
-
-- Version: 0.10.0.0 -> 0.11.0.0
-
-### Archipelago Map Mod
-
-- Version: 3.1.2.0 -> 3.2.0.0
-
 ### Architect
 
-- Version: 1.16.13.1 -> 1.16.14.1
+- Version: 1.16.14.0 -> 1.16.14.1
 
 ### Breakable Wall Randomizer
 
@@ -129,10 +115,6 @@
 ### Hivesong
 
 - Version: 1.3.1.0 -> 1.3.1.2
-
-### HollowPoint
-
-- Version: 1.4.0.1 -> 1.4.0.2
 
 ### MyHK
 
