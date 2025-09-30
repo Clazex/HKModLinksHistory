@@ -1,6 +1,3 @@
-Nail Destroy Bullet
-Shade Lord
-YetAnotherRandoConnection
 Breakable Wall Randomizer
 CharmPatch
 ExaltationExpanded
@@ -32,3 +29,5 @@ Hivesong
 AlwaysHazardRespawn
 Architect
 Charm ReValance
+CharmPatch
+DanielSteginkUtils

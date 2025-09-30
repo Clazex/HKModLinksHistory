@@ -50,12 +50,6 @@
   + Gameplay
   + Utility
 
-### Shade Lord
-
-- Description: Adds the Shade Lord as a boss in the Hall of Gods
-- Tags
-  + Boss
-
 ### Uneated Grubs
 
 - Description: Keeps the Grubs in Grubhome without Grubfather eating them.
@@ -79,14 +73,16 @@
 
 ### CharmPatch
 
-- Version: 1.5.1.0 -> 1.5.2.0
+- Version: 1.5.1.0 -> 1.6.0.0
 - Integrations
   + Added
     - Exaltation
+    - Pale Court
+    - Pale Court Charms
 
 ### DanielSteginkUtils
 
-- Version: 1.2.1.1 -> 1.2.2.0
+- Version: 1.2.1.1 -> 1.3.0.0
 
 ### DivineFury
 
@@ -120,10 +116,6 @@
 
 - Version: 1.2.0.2 -> 1.2.0.3
 
-### Nail Destroy Bullet
-
-- Version: 1.0.0.0 -> 1.2.3.0
-
 ### Pale Court Charms
 
 - Version: 1.3.1.0 -> 1.3.2.0
@@ -146,8 +138,4 @@
 ### WanderersWisdom
 
 - Version: 1.1.0.0 -> 1.1.1.0
-
-### YetAnotherRandoConnection
-
-- Version: 1.1.0.2 -> 1.1.0.3
 
