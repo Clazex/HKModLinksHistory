@@ -2164,11 +2164,11 @@
   },
   "DanielSteginkUtils": {
     "description": "Custom library with calculations, logic and cross-mod helpers.",
-    "version": "1.3.0.0",
+    "version": "1.3.1.0",
     "links": {
       "type": "universal",
-      "sha256": "8A345BA2508817BC8D302C529F8BF6C9115C3975715D7F685448CF949651FA5E",
-      "url": "https://github.com/danielstegink/HollowKnight.DanielSteginkUtils/releases/download/1.3.0.0/DanielSteginkUtils.zip"
+      "sha256": "ECB256FB54016AA0ACB2C2CAED47B190EE052054B890F2FC428BC4A16F019E28",
+      "url": "https://github.com/danielstegink/HollowKnight.DanielSteginkUtils/releases/download/1.3.1.0/DanielSteginkUtils.zip"
     },
     "dependencies": [
       "ItemChanger",

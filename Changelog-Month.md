@@ -67,22 +67,17 @@
 
 - Version: 1.16.14.0 -> 1.16.14.1
 
-### Breakable Wall Randomizer
-
-- Version: 4.1.1.3 -> 4.1.1.4
-
 ### CharmPatch
 
-- Version: 1.5.1.0 -> 1.6.0.0
+- Version: 1.5.1.1 -> 1.6.0.0
 - Integrations
   + Added
-    - Exaltation
     - Pale Court
     - Pale Court Charms
 
 ### DanielSteginkUtils
 
-- Version: 1.2.1.1 -> 1.3.0.0
+- Version: 1.2.1.1 -> 1.3.1.0
 
 ### DivineFury
 

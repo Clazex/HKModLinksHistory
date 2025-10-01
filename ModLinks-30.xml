@@ -1597,8 +1597,8 @@ All with an incredible new soundtrack!</Description>
         <Name>Charm Crab</Name>
         <Description>New Charm Mechanics, New Charms, New Spells, and Rebalances</Description>
         <Version>1.0.8.0</Version>
-        <Link SHA256="8c56a904547e217d89def3d39b89ce8a1e4893ad7afd0d25f5e17d2b2e74013a">
-            <![CDATA[https://github.com/DistractionCrab/Charm-Crab/releases/download/v1.0.8/CharmCrab-1-0-8.zip]]></Link>
+        <Link SHA256="f277d8f117bab515f9e65c89aee85644fe370e19a25d98f09c41dc601d8be76a">
+            <![CDATA[https://github.com/HK-Modding-Preservation/Charm-Crab/releases/download/v1.0.8/CharmCrab.zip]]></Link>
         <Dependencies>
             <Dependency>Vasi</Dependency>
             <Dependency>SFCore</Dependency>
@@ -1632,9 +1632,9 @@ All with an incredible new soundtrack!</Description>
     <Manifest>
         <Name>Breakable Wall Randomizer</Name>
         <Description>A Hollow Knight Randomizer add-on for breakable walls.</Description>
-        <Version>4.1.1.3</Version>
-        <Link SHA256="7364EC8C0F04D7940913A480A0BEFB135C180C355EC3FFF36FAF2D8721EE9264">
-            <![CDATA[https://github.com/nerthul11/BreakableWallRandomizer/releases/download/4.1.1.3/BreakableWallRandomizer.zip]]>
+        <Version>4.1.1.4</Version>
+        <Link SHA256="02E64DE6BA5A2F720AF5C0951D0A7F2AACDB57DBF9819E87EACB36FDFFF86F45">
+            <![CDATA[https://github.com/nerthul11/BreakableWallRandomizer/releases/download/4.1.1.4/BreakableWallRandomizer.zip]]>
         </Link>
         <Dependencies>
             <Dependency>Randomizer 4</Dependency>
@@ -9238,9 +9238,9 @@ Enjoy!</Description>
     <Manifest>
         <Name>CharmPatch</Name>
         <Description>This is a collection of small changes that I think improve the balance of certain charms in the game. Please view Readme for Charm Changer mod recommendations.</Description>
-        <Version>1.5.1.0</Version>
-        <Link SHA256="D523CA20678F69D5B2DF1C19DA6CC7CCCD65E235ECD6914498FD3E76F8176972">
-            <![CDATA[https://github.com/danielstegink/HollowKnight.CharmPatch/releases/download/1.5.1.0/CharmPatch.zip]]>
+        <Version>1.5.1.1</Version>
+        <Link SHA256="81D53996FA72B677254D68D93B0CBBD1A410D293F7F2B8C4166EF1134878BE3F">
+            <![CDATA[https://github.com/danielstegink/HollowKnight.CharmPatch/releases/download/1.5.1.1/CharmPatch.zip]]>
         </Link>
         <Dependencies>
             <Dependency>HKMirror</Dependency>
@@ -9256,6 +9256,7 @@ Enjoy!</Description>
         </Issues>
         <Integrations>
             <Integration>Charm Changer</Integration>
+            <Integration>Exaltation</Integration>
         </Integrations>
         <Tags>
             <Tag>Gameplay</Tag>
@@ -10300,7 +10301,7 @@ Enjoy!</Description>
         <Name>Shade Lord</Name>
         <Description>Adds the Shade Lord as a boss in the Hall of Gods</Description>
         <Version>1.0.0.0</Version>
-        <Link SHA256="55b3f96d609e139aad7952e7848cacc1e1f6b70b33211c55db4795a53192cd83"><![CDATA[https://github.com/OrusLiOx/ShadeLord/releases/download/v1.0.0.0/ShadeLord-v1.0.0.0.zip]]></Link>
+        <Link SHA256="0913e3d0dbe8f6f3f008db8bbfbba2e17e8e96352dee17a282bdd178fbb3c951"><![CDATA[https://github.com/OrusLiOx/ShadeLord/releases/download/v1.0.0.1/v1.0.0.1.zip]]></Link>
         <Dependencies>
         </Dependencies>
         <Repository>
