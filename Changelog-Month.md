@@ -89,14 +89,12 @@
 
 ### ExaltationExpanded
 
-- Version: 1.3.1.0 -> 1.5.2.0
+- Version: 1.4.0.0 -> 1.5.2.0
 - Dependencies
   + Removed
     - ItemChanger
 - Integrations
   + Added
-    - Carefree Grimm
-    - Charm Changer
     - Pale Court Charms
 
 ### Faction Elimination
@@ -106,10 +104,6 @@
 ### Hivesong
 
 - Version: 1.3.1.0 -> 1.3.1.2
-
-### MyHK
-
-- Version: 1.2.0.2 -> 1.2.0.3
 
 ### Pale Court Charms
 
