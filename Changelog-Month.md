@@ -26,12 +26,6 @@
 - Tags
   + Utility
 
-### Killable Dreamnail
-
-- Description: Add a charm called &quot;Serrated Dream&quot; which allows you to deal damage with dream nail, the damage is depend on the essence you have
-- Tags
-  + Gameplay
-
 ### MarkothShield
 
 - Description: This mod upgrades the Dreamshield into the Markoth Shield.
@@ -42,13 +36,6 @@
   + ExaltationExpanded
 - Tags
   + Gameplay
-
-### More Charm Notches
-
-- Description: Doubles the number of charm notches you have, so that you start wih 6 instead of 3, and every additional charm notch item you find will give you an extra 2 notches.
-- Tags
-  + Gameplay
-  + Utility
 
 ### Uneated Grubs
 
@@ -89,7 +76,7 @@
 
 ### ExaltationExpanded
 
-- Version: 1.4.0.0 -> 1.5.2.0
+- Version: 1.4.0.0 -> 1.5.3.0
 - Dependencies
   + Removed
     - ItemChanger
@@ -112,10 +99,6 @@
   + Old: Adds charms from Pale Court. Made to allow compatibility with mods that don&#x27;t work with the main Pale Court. Works with Randomizer and Transcendence.
   + New: Adds charms from Pale Court. Made to allow compatibility with mods that don&#x27;t work with the main Pale Court. Works with Randomizer and Transcendence.
         Do not use with Pale Court,as both mods add the same charms.
-
-### ReplayLogger
-
-- Version: 1.0.0.4 -> 1.0.0.5
 
 ### Silksong Healing
 
