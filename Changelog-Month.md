@@ -76,7 +76,7 @@
 
 ### ExaltationExpanded
 
-- Version: 1.4.0.0 -> 1.5.3.0
+- Version: 1.4.1.0 -> 1.5.3.0
 - Dependencies
   + Removed
     - ItemChanger

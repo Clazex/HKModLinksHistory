@@ -1,3 +1,2 @@
-AdditionalMaps
-MarkothShield
-Silksong Healing
+ExaltationExpanded
+Faction Elimination
