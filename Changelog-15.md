@@ -3,14 +3,7 @@
 
 ## Updated mods
 
-### ExaltationExpanded
+### EnchantedMask
 
-- Version: 1.4.1.0 -> 1.5.1.0
-- Integrations
-  + Added
-    - Pale Court Charms
-
-### Faction Elimination
-
-- Version: 0.1.1.0 -> 0.1.2.0
+- Version: 1.2.0.0 -> 1.3.0.0
 

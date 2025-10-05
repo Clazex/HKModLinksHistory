@@ -956,11 +956,11 @@
   },
   "Breakable Wall Randomizer": {
     "description": "A Hollow Knight Randomizer add-on for breakable walls.",
-    "version": "4.1.1.4",
+    "version": "4.1.1.5",
     "links": {
       "type": "universal",
-      "sha256": "02E64DE6BA5A2F720AF5C0951D0A7F2AACDB57DBF9819E87EACB36FDFFF86F45",
-      "url": "https://github.com/nerthul11/BreakableWallRandomizer/releases/download/4.1.1.4/BreakableWallRandomizer.zip"
+      "sha256": "4D6BBBFF5DB2541E29526AC1361891005D9084C0707A914EE0045868348C58D1",
+      "url": "https://github.com/nerthul11/BreakableWallRandomizer/releases/download/4.1.1.5/BreakableWallRandomizer.zip"
     },
     "dependencies": [
       "Randomizer 4",

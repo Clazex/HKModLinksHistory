@@ -54,6 +54,10 @@
 
 - Version: 1.16.14.0 -> 1.16.14.1
 
+### Breakable Wall Randomizer
+
+- Version: 4.1.1.4 -> 4.1.1.5
+
 ### CharmPatch
 
 - Version: 1.5.1.1 -> 1.6.0.0
@@ -95,10 +99,6 @@
 ### Pale Court Charms
 
 - Version: 1.3.1.0 -> 1.3.2.0
-- Description
-  + Old: Adds charms from Pale Court. Made to allow compatibility with mods that don&#x27;t work with the main Pale Court. Works with Randomizer and Transcendence.
-  + New: Adds charms from Pale Court. Made to allow compatibility with mods that don&#x27;t work with the main Pale Court. Works with Randomizer and Transcendence.
-        Do not use with Pale Court,as both mods add the same charms.
 
 ### Silksong Healing
 

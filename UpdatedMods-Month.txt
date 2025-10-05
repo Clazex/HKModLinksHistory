@@ -20,3 +20,4 @@ CharmPatch
 DanielSteginkUtils
 DanielSteginkUtils
 ExaltationExpanded
+Breakable Wall Randomizer
