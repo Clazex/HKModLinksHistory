@@ -1,2 +1,9 @@
 # Changelog
 
+
+## Updated mods
+
+### Pale Court Charms
+
+- Version: 1.3.1.0 -> 1.3.2.0
+
