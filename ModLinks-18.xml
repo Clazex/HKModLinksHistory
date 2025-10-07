@@ -150,8 +150,8 @@
     <Manifest>
         <Name>Faction Elimination</Name>
         <Description>A custom gamemode for HKMP where teams collect upgrades and fight each other.</Description>
-        <Version>0.1.1.0</Version>
-        <Link SHA256="77c794c1889d9ddef02614012b279546ca757bbb9469af14110febd05f8a9306"><![CDATA[https://github.com/EmptyEagle/FactionElimination/releases/download/v0.1.1.0/FactionElimination.zip]]></Link>
+        <Version>0.1.2.0</Version>
+        <Link SHA256="6e7a464f42eb0bcc79832fbd579030fd859b75d00aea66459a3ad8fe3ae45ffb"><![CDATA[https://github.com/EmptyEagle/FactionElimination/releases/download/v0.1.2.0/FactionElimination.zip]]></Link>
         <Dependencies>
             <Dependency>Charm Changer</Dependency>
             <Dependency>MenuChanger</Dependency>
@@ -9770,9 +9770,9 @@ Enjoy!</Description>
     <Manifest>
         <Name>ExaltationExpanded</Name>
         <Description>A fan-made supplement to the Exaltation mod created by Xhuis (and ported/updated by Théodore).</Description>
-        <Version>1.4.1.0</Version>
-        <Link SHA256="05A3025BF84C6D2BDD746A36CC7A4ABEB327EFAA0DDAA5790AAC689887B06B1D">
-            <![CDATA[https://github.com/danielstegink/HollowKnight.ExaltationExpanded/releases/download/1.4.1.0/ExaltationExpanded.zip]]>
+        <Version>1.5.1.0</Version>
+        <Link SHA256="3EF44B1FEFB68AFD1A05FBEF84DAED68081461100082B54AF66DBF8813AE8BA5">
+            <![CDATA[https://github.com/danielstegink/HollowKnight.ExaltationExpanded/releases/download/1.5.1.0/ExaltationExpanded.zip]]>
         </Link>
         <Dependencies>
             <Dependency>Exaltation</Dependency>
@@ -9790,6 +9790,7 @@ Enjoy!</Description>
         </Issues>
         <Integrations>
             <Integration>Pale Court</Integration>
+            <Integration>Pale Court Charms</Integration>
             <Integration>MoreMasks</Integration>
             <Integration>Charm Changer</Integration>
             <Integration>Carefree Grimm</Integration>
