@@ -426,11 +426,11 @@
   },
   "Architect": {
     "description": "A level editor mod, allowing you to customise Hollow Knight by adding or removing platforms, enemies and more with an in-game level editor and level sharer.",
-    "version": "1.16.14.1",
+    "version": "1.16.15.0",
     "links": {
       "type": "universal",
-      "sha256": "CB34342B19A9FC6058F6A6C8652E5D850E3119C988EAB0F40688FD6B8CE1692A",
-      "url": "https://github.com/cometcake575/Architect/releases/download/1.16.14.1/Architect.zip"
+      "sha256": "5CC34A947FDE42187F3BFD79D7577E5D7173D44FE846BC4C344511AFF64B69BC",
+      "url": "https://github.com/cometcake575/Architect/releases/download/1.16.15.0/Architect.zip"
     },
     "dependencies": [
       "MagicUI",
@@ -2148,19 +2148,37 @@
       "kon4ino"
     ]
   },
-  "DamageValues": {
-    "description": "Shows damage numbers when striking an enemy.",
-    "version": "1.0.0.1",
+  "Damage Values Rewritten": {
+    "description": "Display damage values when enemies suffer damage",
+    "version": "1.25.10.7",
     "links": {
       "type": "universal",
-      "sha256": "D9ABF248B4C06DF125CD9A6923C33BCBBE61AD4243A553FF6F1AB80059170927",
-      "url": "https://github.com/jngo102/DamageValues/releases/download/1.0.0.1/DamageValues.zip"
+      "sha256": "799C42143150387622D4ECD4597F2FEFC17795D2E4682623857121F2E3D01A36",
+      "url": "https://github.com/ValancedBreakfast/DamageValuesRewritten/releases/download/1.25.10.07/DamageValuesRewritten.zip"
     },
     "dependencies": [],
-    "repository": "https://github.com/jngo102/DamageValues",
+    "repository": "https://github.com/ValancedBreakfast/DamageValuesRewritten",
+    "issues": "https://github.com/ValancedBreakfast/DamageValuesRewritten/issues",
     "tags": [
-      "Cosmetic"
+      "Utility"
+    ],
+    "authors": [
+      "ValancedBreakfast",
+      "jngo102"
     ]
+  },
+  "DamageValues": {
+    "description": "Dummy mod. Install the dependency \"Damage Values Rewritten\" directly.",
+    "version": "9.9.9.9",
+    "links": {
+      "type": "universal",
+      "sha256": "00280F51FB9F3030B4F1BBBAD3AB29082A706994E4FAF783AA955054673BC74B",
+      "url": "https://github.com/SFGrenade/EmptyMod/releases/download/v9.9.9.9/EmptyMod.zip"
+    },
+    "dependencies": [
+      "Damage Values Rewritten"
+    ],
+    "repository": "https://github.com/SFGrenade/EmptyMod/"
   },
   "DanielSteginkUtils": {
     "description": "Custom library with calculations, logic and cross-mod helpers.",
@@ -5154,6 +5172,26 @@
     "authors": [
       "Mulhima",
       "SFGrenade"
+    ]
+  },
+  "LaughMod": {
+    "description": "Plays laugh sound on specific events.",
+    "version": "1.0.0.0",
+    "links": {
+      "type": "universal",
+      "sha256": "4ED7EA0F5A61F25C8659EC4DC31646E784B0E0177018649DF3D61FF969DDF9FB",
+      "url": "https://github.com/Dzhake/HK.LaughMod/releases/download/1.0.0/LaughMod.zip"
+    },
+    "dependencies": [
+      "Satchel"
+    ],
+    "repository": "https://github.com/Dzhake/HK.LaughMod",
+    "issues": "https://github.com/Dzhake/HK.LaughMod/issues",
+    "tags": [
+      "Joke"
+    ],
+    "authors": [
+      "Dzhake"
     ]
   },
   "Legacy Charm Costs": {
@@ -8731,17 +8769,18 @@
   },
   "SpicyRando": {
     "description": "Various difficulty increases in specific parts of rando",
-    "version": "1.2.3.0",
+    "version": "2.0.0.0",
     "links": {
       "type": "universal",
-      "sha256": "8CEC3E515FC8919623A664B7DBBDF29D1076E2911F2F71B5C4556F8C41219D49",
-      "url": "https://github.com/dplochcoder/HollowKnight.SpicyRando/releases/download/v1.2.3.0/SpicyRando.zip"
+      "sha256": "BF35D745A65602565930FA6A36F52E95D2E2026BC3F10EF3B7F640C2F539183C",
+      "url": "https://github.com/dplochcoder/HollowKnight.SpicyRando/releases/download/v2.0.0.0/SpicyRando.zip"
     },
     "dependencies": [
       "ItemChanger",
       "MenuChanger",
       "PurenailCore",
-      "RandomizerCore.Json"
+      "RandomizerCore.Json",
+      "SFCore"
     ],
     "repository": "https://github.com/dplochcoder/HollowKnight.SpicyRando",
     "integrations": [

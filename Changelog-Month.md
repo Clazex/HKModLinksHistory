@@ -20,11 +20,25 @@
   + Charm
   + Gameplay
 
+### Damage Values Rewritten
+
+- Description: Display damage values when enemies suffer damage
+- Tags
+  + Utility
+
 ### Hide Dialog Text
 
 - Description: Toggle dialog text&#x27;s visibility by pressing F3. May remove in the future as it is porting to DebugMod
 - Tags
   + Utility
+
+### LaughMod
+
+- Description: Plays laugh sound on specific events.
+- Dependencies
+  + Satchel
+- Tags
+  + Joke
 
 ### MarkothShield
 
@@ -52,7 +66,7 @@
 
 ### Architect
 
-- Version: 1.16.14.0 -> 1.16.14.1
+- Version: 1.16.14.0 -> 1.16.15.0
 
 ### Breakable Wall Randomizer
 
@@ -65,6 +79,19 @@
   + Added
     - Pale Court
     - Pale Court Charms
+
+### DamageValues
+
+- Version: 1.0.0.1 -> 9.9.9.9
+- Description
+  + Old: Shows damage numbers when striking an enemy.
+  + New: Dummy mod. Install the dependency &quot;Damage Values Rewritten&quot; directly.
+- Dependencies
+  + Added
+    - Damage Values Rewritten
+- Tags
+  + Added
+    - Cosmetic
 
 ### DanielSteginkUtils
 
@@ -113,6 +140,13 @@
 - Dependencies
   + Added
     - Satchel
+
+### SpicyRando
+
+- Version: 1.2.3.0 -> 2.0.0.0
+- Dependencies
+  + Added
+    - SFCore
 
 ### WanderersWisdom
 

@@ -1,3 +1,6 @@
 ExaltationExpanded
 Breakable Wall Randomizer
 MultiWorld
+Architect
+DamageValues
+SpicyRando

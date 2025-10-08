@@ -27,3 +27,8 @@ DanielSteginkUtils
 ExaltationExpanded
 Breakable Wall Randomizer
 MultiWorld
+Architect
+Damage Values Rewritten
+DamageValues
+LaughMod
+SpicyRando
