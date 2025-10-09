@@ -11,6 +11,12 @@
 
 ### Charm ReValance
 
+- Description: Dummy mod. Install the dependency &quot;CharmReValance&quot; directly.
+- Dependencies
+  + CharmReValance
+
+### CharmReValance
+
 - Description: Charm and ability overhaul and customization
 - Dependencies
   + HKMirror
@@ -21,6 +27,12 @@
   + Gameplay
 
 ### Damage Values Rewritten
+
+- Description: Dummy mod. Install the dependency &quot;DamageValuesRewritten&quot; directly.
+- Dependencies
+  + DamageValuesRewritten
+
+### DamageValuesRewritten
 
 - Description: Display damage values when enemies suffer damage
 - Tags
@@ -85,10 +97,10 @@
 - Version: 1.0.0.1 -> 9.9.9.9
 - Description
   + Old: Shows damage numbers when striking an enemy.
-  + New: Dummy mod. Install the dependency &quot;Damage Values Rewritten&quot; directly.
+  + New: Dummy mod. Install the dependency &quot;DamageValuesRewritten&quot; directly.
 - Dependencies
   + Added
-    - Damage Values Rewritten
+    - DamageValuesRewritten
 - Tags
   + Added
     - Cosmetic
@@ -130,9 +142,13 @@
   + Old: A RandomizerMod 4 add-on for distributing players&#x27; items between all their worlds. The default IP no longer works. Please use &#x60;mw.hkmp.org&#x60; if you want to connect to the public server.
   + New: A RandomizerMod 4 add-on for distributing players&#x27; items between all their worlds.
 
-### Pale Court Charms
+### MylaFlower
 
-- Version: 1.3.1.0 -> 1.3.2.0
+- Version: 2.0.0.0 -> 2.0.0.1
+
+### Randomizable Levers
+
+- Version: 1.2.6.1 -> 1.2.6.2
 
 ### Silksong Healing
 
@@ -150,5 +166,5 @@
 
 ### WanderersWisdom
 
-- Version: 1.1.0.0 -> 1.1.1.0
+- Version: 1.1.0.0 -> 1.1.2.0
 

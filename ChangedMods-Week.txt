@@ -1,4 +1,3 @@
-ExaltationExpanded
 Breakable Wall Randomizer
 MultiWorld
 Architect
@@ -6,3 +5,11 @@ Damage Values Rewritten
 DamageValues
 LaughMod
 SpicyRando
+Charm ReValance
+CharmReValance
+Damage Values Rewritten
+DamageValuesRewritten
+LaughMod
+MylaFlower
+Randomizable Levers
+WanderersWisdom

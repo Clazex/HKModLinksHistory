@@ -1300,27 +1300,17 @@
     ]
   },
   "Charm ReValance": {
-    "description": "Charm and ability overhaul and customization",
-    "version": "1.25.9.24",
+    "description": "Dummy mod. Install the dependency \"CharmReValance\" directly.",
+    "version": "9.9.9.9",
     "links": {
       "type": "universal",
-      "sha256": "0E7470A383903FF9079247013BB50A75784BA7C719C3B072912A2CBD3B9B0261",
-      "url": "https://github.com/ValancedBreakfast/CharmReValance/releases/download/1.25.09.24/CharmReValance.dll"
+      "sha256": "00280F51FB9F3030B4F1BBBAD3AB29082A706994E4FAF783AA955054673BC74B",
+      "url": "https://github.com/SFGrenade/EmptyMod/releases/download/v9.9.9.9/EmptyMod.zip"
     },
     "dependencies": [
-      "HKMirror",
-      "SFCore",
-      "Satchel"
+      "CharmReValance"
     ],
-    "repository": "https://github.com/ValancedBreakfast/CharmReValance",
-    "issues": "https://github.com/ValancedBreakfast/CharmReValance/issues",
-    "tags": [
-      "Charm",
-      "Gameplay"
-    ],
-    "authors": [
-      "ValancedBreakfast"
-    ]
+    "repository": "https://github.com/SFGrenade/EmptyMod/"
   },
   "CharmPatch": {
     "description": "This is a collection of small changes that I think improve the balance of certain charms in the game. Please view Readme for Charm Changer mod recommendations.",
@@ -1369,6 +1359,29 @@
     ],
     "authors": [
       "Clazex"
+    ]
+  },
+  "CharmReValance": {
+    "description": "Charm and ability overhaul and customization",
+    "version": "1.25.10.7",
+    "links": {
+      "type": "universal",
+      "sha256": "73E89CF5A0531A41411A8CB4459F085E554A3279404AF441981E1296C462F667",
+      "url": "https://github.com/ValancedBreakfast/CharmReValance/releases/download/1.25.10.07/CharmReValance.dll"
+    },
+    "dependencies": [
+      "HKMirror",
+      "SFCore",
+      "Satchel"
+    ],
+    "repository": "https://github.com/ValancedBreakfast/CharmReValance",
+    "issues": "https://github.com/ValancedBreakfast/CharmReValance/issues",
+    "tags": [
+      "Charm",
+      "Gameplay"
+    ],
+    "authors": [
+      "ValancedBreakfast"
     ]
   },
   "Christmas In Dirtmouth": {
@@ -2149,6 +2162,32 @@
     ]
   },
   "Damage Values Rewritten": {
+    "description": "Dummy mod. Install the dependency \"DamageValuesRewritten\" directly.",
+    "version": "9.9.9.9",
+    "links": {
+      "type": "universal",
+      "sha256": "00280F51FB9F3030B4F1BBBAD3AB29082A706994E4FAF783AA955054673BC74B",
+      "url": "https://github.com/SFGrenade/EmptyMod/releases/download/v9.9.9.9/EmptyMod.zip"
+    },
+    "dependencies": [
+      "DamageValuesRewritten"
+    ],
+    "repository": "https://github.com/SFGrenade/EmptyMod/"
+  },
+  "DamageValues": {
+    "description": "Dummy mod. Install the dependency \"DamageValuesRewritten\" directly.",
+    "version": "9.9.9.9",
+    "links": {
+      "type": "universal",
+      "sha256": "00280F51FB9F3030B4F1BBBAD3AB29082A706994E4FAF783AA955054673BC74B",
+      "url": "https://github.com/SFGrenade/EmptyMod/releases/download/v9.9.9.9/EmptyMod.zip"
+    },
+    "dependencies": [
+      "DamageValuesRewritten"
+    ],
+    "repository": "https://github.com/SFGrenade/EmptyMod/"
+  },
+  "DamageValuesRewritten": {
     "description": "Display damage values when enemies suffer damage",
     "version": "1.25.10.7",
     "links": {
@@ -2166,19 +2205,6 @@
       "ValancedBreakfast",
       "jngo102"
     ]
-  },
-  "DamageValues": {
-    "description": "Dummy mod. Install the dependency \"Damage Values Rewritten\" directly.",
-    "version": "9.9.9.9",
-    "links": {
-      "type": "universal",
-      "sha256": "00280F51FB9F3030B4F1BBBAD3AB29082A706994E4FAF783AA955054673BC74B",
-      "url": "https://github.com/SFGrenade/EmptyMod/releases/download/v9.9.9.9/EmptyMod.zip"
-    },
-    "dependencies": [
-      "Damage Values Rewritten"
-    ],
-    "repository": "https://github.com/SFGrenade/EmptyMod/"
   },
   "DanielSteginkUtils": {
     "description": "Custom library with calculations, logic and cross-mod helpers.",
@@ -5176,11 +5202,11 @@
   },
   "LaughMod": {
     "description": "Plays laugh sound on specific events.",
-    "version": "1.0.0.0",
+    "version": "1.0.1.0",
     "links": {
       "type": "universal",
-      "sha256": "4ED7EA0F5A61F25C8659EC4DC31646E784B0E0177018649DF3D61FF969DDF9FB",
-      "url": "https://github.com/Dzhake/HK.LaughMod/releases/download/1.0.0/LaughMod.zip"
+      "sha256": "F72AAFECB44D01C745A4CA0E23349AD97DF433A138955ECC6B1ABAEAE8677406",
+      "url": "https://github.com/Dzhake/HK.LaughMod/releases/download/1.0.1/LaughMod.zip"
     },
     "dependencies": [
       "Satchel"
@@ -6205,11 +6231,11 @@
   },
   "MylaFlower": {
     "description": "Protect Myla from the infection by bringing her a flower.",
-    "version": "2.0.0.0",
+    "version": "2.0.0.1",
     "links": {
       "type": "universal",
-      "sha256": "94C9DA348C80F68076B493CED1726709166BC19B5D32B6043DED282DE9238128",
-      "url": "https://github.com/flibber-hk/HollowKnight.MylaFlower/releases/download/v2.0.0.0/MylaFlower.zip"
+      "sha256": "406829F219E0F7CED28D3CB1120396897FA285D55BC427F031E8801D42F2843A",
+      "url": "https://github.com/flibber-hk/HollowKnight.MylaFlower/releases/download/v2.0.0.1/MylaFlower.zip"
     },
     "dependencies": [
       "Vasi"
@@ -6708,7 +6734,8 @@
     },
     "dependencies": [
       "ItemChanger",
-      "SFCore"
+      "SFCore",
+      "Vasi"
     ],
     "repository": "https://github.com/Roma-337/PaleCourtCharms",
     "integrations": [
@@ -7715,11 +7742,11 @@
   },
   "Randomizable Levers": {
     "description": "Randomizer 4 addon that adds the option to randomize levers. Activate lever rando in the Connections menu of Randomizer 4.",
-    "version": "1.2.6.1",
+    "version": "1.2.6.2",
     "links": {
       "type": "universal",
-      "sha256": "A5E56512C3973878C3086C036AB5583D8AA59CD080FD2767472525EBC358F550",
-      "url": "https://github.com/flibber-hk/HollowKnight.RandomizableLevers/releases/download/v1.2.6.1/RandomizableLevers.zip"
+      "sha256": "58128CAA70E7CDB10F7ED7B8B3BE49E17BC1DE415C52BD1E59E244CD156FAC91",
+      "url": "https://github.com/flibber-hk/HollowKnight.RandomizableLevers/releases/download/v1.2.6.2/RandomizableLevers.zip"
     },
     "dependencies": [
       "ItemChanger"
@@ -9737,11 +9764,11 @@
   },
   "WanderersWisdom": {
     "description": "A mod that adds 2 new charms: Wanderer's Wisdom and Wanderer's Guile.",
-    "version": "1.1.1.0",
+    "version": "1.1.2.0",
     "links": {
       "type": "universal",
-      "sha256": "A2239FCFBDCA64154FD6CD334A8AE03B1D718811B820763BA3D3CBB7107D38EA",
-      "url": "https://github.com/danielstegink/HollowKnight.WanderersWisdom/releases/download/1.1.1.0/WanderersWisdom.zip"
+      "sha256": "C7044644BB8728808EA5B5F1A280EA6B22E1D751DCFB29EAB1F30A03E088791F",
+      "url": "https://github.com/danielstegink/HollowKnight.WanderersWisdom/releases/download/1.1.2.0/WanderersWisdom.zip"
     },
     "dependencies": [
       "DanielSteginkUtils",

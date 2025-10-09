@@ -5,3 +5,5 @@ AlwaysHazardRespawn
 Charm ReValance
 Damage Values Rewritten
 LaughMod
+CharmReValance
+DamageValuesRewritten

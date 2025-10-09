@@ -1,4 +1,3 @@
-Pale Court Charms
 Silksong Healing
 DanielSteginkUtils
 DivineFury
@@ -25,3 +24,9 @@ MultiWorld
 Architect
 DamageValues
 SpicyRando
+Charm ReValance
+Damage Values Rewritten
+LaughMod
+MylaFlower
+Randomizable Levers
+WanderersWisdom
