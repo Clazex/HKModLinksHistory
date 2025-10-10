@@ -998,11 +998,11 @@
   },
   "BugPrince": {
     "description": "A Randomizer 4 connection which combines Blue Prince mechanics with Hollow Knight transition randomizer.",
-    "version": "1.4.4.0",
+    "version": "1.4.5.0",
     "links": {
       "type": "universal",
-      "sha256": "DA4D4D98932109EA441D0D9F76942A219B320488A84D37B7BCD6A44AE826A58B",
-      "url": "https://github.com/dplochcoder/HollowKnight.BugPrince/releases/download/v1.4.4/BugPrince.zip"
+      "sha256": "94D1112F5D35BA08602744C6D84FF2D697AB3C83CEFE64D5D04CF36F3182528C",
+      "url": "https://github.com/dplochcoder/HollowKnight.BugPrince/releases/download/v1.4.5/BugPrince.zip"
     },
     "dependencies": [
       "Benchwarp",
@@ -1314,11 +1314,11 @@
   },
   "CharmPatch": {
     "description": "This is a collection of small changes that I think improve the balance of certain charms in the game. Please view Readme for Charm Changer mod recommendations.",
-    "version": "1.6.0.0",
+    "version": "1.7.0.0",
     "links": {
       "type": "universal",
-      "sha256": "1C1DBEF527A5E806E6F7C2B2B7639E97F6EADFD9277FCDDD8BA420CCD75F0F98",
-      "url": "https://github.com/danielstegink/HollowKnight.CharmPatch/releases/download/1.6.0.0/CharmPatch.zip"
+      "sha256": "DB6F78665E7A86F874228A9D3103D4617CEA0E6EF253B101629C8D3E3CEBA2B2",
+      "url": "https://github.com/danielstegink/HollowKnight.CharmPatch/releases/download/1.7.0.0/CharmPatch.zip"
     },
     "dependencies": [
       "DanielSteginkUtils",
@@ -2208,11 +2208,11 @@
   },
   "DanielSteginkUtils": {
     "description": "Custom library with calculations, logic and cross-mod helpers.",
-    "version": "1.3.1.0",
+    "version": "1.4.1.0",
     "links": {
       "type": "universal",
-      "sha256": "ECB256FB54016AA0ACB2C2CAED47B190EE052054B890F2FC428BC4A16F019E28",
-      "url": "https://github.com/danielstegink/HollowKnight.DanielSteginkUtils/releases/download/1.3.1.0/DanielSteginkUtils.zip"
+      "sha256": "519B4EDB02537AC21C6E1D248EB593A64455D4C4FE4AA935D74A0F4B59A13223",
+      "url": "https://github.com/danielstegink/HollowKnight.DanielSteginkUtils/releases/download/1.4.1.0/DanielSteginkUtils.zip"
     },
     "dependencies": [
       "ItemChanger",
@@ -8796,11 +8796,11 @@
   },
   "SpicyRando": {
     "description": "Various difficulty increases in specific parts of rando",
-    "version": "2.0.0.0",
+    "version": "2.0.1.0",
     "links": {
       "type": "universal",
-      "sha256": "BF35D745A65602565930FA6A36F52E95D2E2026BC3F10EF3B7F640C2F539183C",
-      "url": "https://github.com/dplochcoder/HollowKnight.SpicyRando/releases/download/v2.0.0.0/SpicyRando.zip"
+      "sha256": "FA04521D7E5DCAEAD71456F00854C6C5E5ABA71C01582B310F402036CAC6362C",
+      "url": "https://github.com/dplochcoder/HollowKnight.SpicyRando/releases/download/v2.0.1.0/SpicyRando.zip"
     },
     "dependencies": [
       "ItemChanger",

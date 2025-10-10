@@ -13,3 +13,7 @@ LaughMod
 MylaFlower
 Randomizable Levers
 WanderersWisdom
+BugPrince
+CharmPatch
+DanielSteginkUtils
+SpicyRando

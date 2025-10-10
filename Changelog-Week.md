@@ -45,6 +45,10 @@
 
 - Version: 4.1.1.4 -> 4.1.1.5
 
+### BugPrince
+
+- Version: 1.4.4.0 -> 1.4.5.0
+
 ### Charm ReValance
 
 - Version: 1.25.9.24 -> 9.9.9.9
@@ -63,6 +67,10 @@
     - Charm
     - Gameplay
 
+### CharmPatch
+
+- Version: 1.6.0.0 -> 1.7.0.0
+
 ### DamageValues
 
 - Version: 1.0.0.1 -> 9.9.9.9
@@ -75,6 +83,10 @@
 - Tags
   + Added
     - Cosmetic
+
+### DanielSteginkUtils
+
+- Version: 1.3.1.0 -> 1.4.1.0
 
 ### MultiWorld
 
@@ -93,7 +105,7 @@
 
 ### SpicyRando
 
-- Version: 1.2.3.0 -> 2.0.0.0
+- Version: 1.2.3.0 -> 2.0.1.0
 - Dependencies
   + Added
     - SFCore

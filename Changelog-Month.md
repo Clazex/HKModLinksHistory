@@ -63,12 +63,6 @@
 - Tags
   + Gameplay
 
-### Uneated Grubs
-
-- Description: Keeps the Grubs in Grubhome without Grubfather eating them.
-- Tags
-  + Cosmetic
-
 
 ## Updated mods
 
@@ -84,9 +78,13 @@
 
 - Version: 4.1.1.4 -> 4.1.1.5
 
+### BugPrince
+
+- Version: 1.4.4.0 -> 1.4.5.0
+
 ### CharmPatch
 
-- Version: 1.5.1.1 -> 1.6.0.0
+- Version: 1.5.1.1 -> 1.7.0.0
 - Integrations
   + Added
     - Pale Court
@@ -107,7 +105,7 @@
 
 ### DanielSteginkUtils
 
-- Version: 1.2.1.1 -> 1.3.1.0
+- Version: 1.2.1.1 -> 1.4.1.0
 
 ### DivineFury
 
@@ -152,14 +150,11 @@
 
 ### Silksong Healing
 
-- Version: 1.0.0.0 -> 1.1.0.2
-- Dependencies
-  + Added
-    - Satchel
+- Version: 1.1.0.1 -> 1.1.0.2
 
 ### SpicyRando
 
-- Version: 1.2.3.0 -> 2.0.0.0
+- Version: 1.2.3.0 -> 2.0.1.0
 - Dependencies
   + Added
     - SFCore

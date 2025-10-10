@@ -1,4 +1,3 @@
-Uneated Grubs
 Hide Dialog Text
 MarkothShield
 AlwaysHazardRespawn
