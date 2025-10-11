@@ -3,44 +3,70 @@
 
 ## New mods
 
-### Damage Values Rewritten
+### CharmReValance
+
+- Description: Charm and ability overhaul and customization
+- Dependencies
+  + HKMirror
+  + SFCore
+  + Satchel
+- Tags
+  + Charm
+  + Gameplay
+
+### DamageValuesRewritten
 
 - Description: Display damage values when enemies suffer damage
 - Tags
   + Utility
 
-### LaughMod
-
-- Description: Plays laugh sound on specific events.
-- Dependencies
-  + Satchel
-- Tags
-  + Joke
-
 
 ## Updated mods
 
-### Architect
+### Charm ReValance
 
-- Version: 1.16.14.1 -> 1.16.15.0
-
-### DamageValues
-
-- Version: 1.0.0.1 -> 9.9.9.9
+- Version: 1.25.9.24 -> 9.9.9.9
 - Description
-  + Old: Shows damage numbers when striking an enemy.
-  + New: Dummy mod. Install the dependency &quot;Damage Values Rewritten&quot; directly.
+  + Old: Charm and ability overhaul and customization
+  + New: Dummy mod. Install the dependency &quot;CharmReValance&quot; directly.
 - Dependencies
+  + Removed
+    - HKMirror
+    - SFCore
+    - Satchel
   + Added
-    - Damage Values Rewritten
+    - CharmReValance
 - Tags
   + Added
-    - Cosmetic
+    - Charm
+    - Gameplay
 
-### SpicyRando
+### Damage Values Rewritten
 
-- Version: 1.2.3.0 -> 2.0.0.0
+- Version: 1.25.10.7 -> 9.9.9.9
+- Description
+  + Old: Display damage values when enemies suffer damage
+  + New: Dummy mod. Install the dependency &quot;DamageValuesRewritten&quot; directly.
 - Dependencies
   + Added
-    - SFCore
+    - DamageValuesRewritten
+- Tags
+  + Added
+    - Utility
+
+### LaughMod
+
+- Version: 1.0.0.0 -> 1.0.1.0
+
+### MylaFlower
+
+- Version: 2.0.0.0 -> 2.0.0.1
+
+### Randomizable Levers
+
+- Version: 1.2.6.1 -> 1.2.6.2
+
+### WanderersWisdom
+
+- Version: 1.1.1.0 -> 1.1.2.0
 

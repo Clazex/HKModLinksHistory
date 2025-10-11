@@ -1,7 +1,3 @@
-DanielSteginkUtils
-DivineFury
-Hivesong
-WanderersWisdom
 Hide Dialog Text
 CharmPatch
 AdditionalMaps
@@ -41,3 +37,4 @@ BugPrince
 CharmPatch
 DanielSteginkUtils
 SpicyRando
+HKMP

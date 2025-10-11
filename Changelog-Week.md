@@ -41,10 +41,6 @@
 
 - Version: 1.16.14.1 -> 1.16.15.0
 
-### Breakable Wall Randomizer
-
-- Version: 4.1.1.4 -> 4.1.1.5
-
 ### BugPrince
 
 - Version: 1.4.4.0 -> 1.4.5.0
@@ -87,6 +83,10 @@
 ### DanielSteginkUtils
 
 - Version: 1.3.1.0 -> 1.4.1.0
+
+### HKMP
+
+- Version: 2.4.2.0 -> 2.4.3.0
 
 ### MultiWorld
 

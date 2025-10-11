@@ -1,7 +1,3 @@
-DanielSteginkUtils
-DivineFury
-Hivesong
-WanderersWisdom
 CharmPatch
 AdditionalMaps
 Silksong Healing
@@ -33,3 +29,4 @@ BugPrince
 CharmPatch
 DanielSteginkUtils
 SpicyRando
+HKMP
