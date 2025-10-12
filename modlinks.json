@@ -9172,8 +9172,8 @@
     "version": "1.0.0.0",
     "links": {
       "type": "universal",
-      "sha256": "B1A32454F89CDA9608F67732AAAF71D2FD0DB75638F505A6B125F2E36F9AECDF",
-      "url": "https://github.com/thegodfriend/BuzzbosLair/releases/download/v1.0.0/BuzzbosLair.zip"
+      "sha256": "DE01743FC5303860AF25EDDC3F996B42821D279D668054B3D91E466AACC9A7E0",
+      "url": "https://github.com/thegodfriend/BuzzbosLair/releases/download/v1.1.0/BuzzbosLair.zip"
     },
     "dependencies": [
       "FriendCore",
