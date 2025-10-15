@@ -3882,7 +3882,7 @@
   },
   "Golden Godhome": {
     "description": "Reskins bosses in the Godhome to have more golden designs and details",
-    "version": "0.1.1.0",
+    "version": "1.1.0.0",
     "links": {
       "type": "universal",
       "sha256": "C3D2FE63C8DBDE25F0D85B8EE780F4D2651E4992E5E59DF52DA8FC9EFDA8C031",
@@ -7881,7 +7881,7 @@
     ]
   },
   "RemoveLaggyObjects": {
-    "description": "Removes various objects from scenes where they can cause major lag.",
+    "description": "Removes various objects from scenes where they can cause major lag. Also RLO",
     "version": "1.0.4.0",
     "links": {
       "type": "universal",
@@ -7892,7 +7892,7 @@
     "repository": "https://github.com/thegodfriend/RemoveLaggyObjects",
     "tags": [
       "Cosmetic",
-      "Gameplay"
+      "Optimization"
     ],
     "authors": [
       "Godfriend"

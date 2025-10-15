@@ -78,7 +78,7 @@
 
 ### CharmPatch
 
-- Version: 1.5.1.1 -> 1.7.0.0
+- Version: 1.5.2.0 -> 1.7.0.0
 - Integrations
   + Added
     - Pale Court
@@ -122,6 +122,10 @@
 ### Faction Elimination
 
 - Version: 0.1.1.0 -> 0.1.2.0
+
+### Golden Godhome
+
+- Version: 0.1.1.0 -> 1.1.0.0
 
 ### HKMP
 

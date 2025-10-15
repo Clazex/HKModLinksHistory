@@ -1,11 +1,6 @@
-Charm ReValance
-Damage Values Rewritten
-LaughMod
-MylaFlower
-Randomizable Levers
-WanderersWisdom
 BugPrince
 CharmPatch
 DanielSteginkUtils
 SpicyRando
 HKMP
+Golden Godhome

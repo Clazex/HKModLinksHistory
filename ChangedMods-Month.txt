@@ -1,4 +1,3 @@
-CharmPatch
 AdditionalMaps
 MarkothShield
 Silksong Healing
@@ -37,3 +36,4 @@ CharmPatch
 DanielSteginkUtils
 SpicyRando
 HKMP
+Golden Godhome

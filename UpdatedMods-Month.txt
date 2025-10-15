@@ -1,4 +1,3 @@
-CharmPatch
 AdditionalMaps
 Silksong Healing
 ExaltationExpanded
@@ -30,3 +29,4 @@ CharmPatch
 DanielSteginkUtils
 SpicyRando
 HKMP
+Golden Godhome
