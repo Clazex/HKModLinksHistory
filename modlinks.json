@@ -6210,11 +6210,11 @@
   },
   "MyHK": {
     "description": "An assisting mod for HK that can improve the gaming experience significantly",
-    "version": "1.2.0.3",
+    "version": "1.2.0.4",
     "links": {
       "type": "universal",
-      "sha256": "21AE6F346573A3E1E725CB5A61711D491920FB1DB770EE38421D1719F8D1BE2C",
-      "url": "https://github.com/QiQi7-7/MyHK/releases/download/v1.2.0.3/MyHK-v1.2.0.3.zip"
+      "sha256": "B07421ED5A920CDCF7AB5ED1D6E74DA49814C4AFBA416869A3C40BCC3643EB8B",
+      "url": "https://github.com/QiQi7-7/MyHK/releases/download/v1.2.0.4/MyHK-v1.2.0.4.zip"
     },
     "dependencies": [
       "HKTool",

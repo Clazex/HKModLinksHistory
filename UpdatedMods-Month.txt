@@ -30,3 +30,4 @@ DanielSteginkUtils
 SpicyRando
 HKMP
 Golden Godhome
+MyHK
