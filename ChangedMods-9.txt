@@ -1,5 +1,8 @@
-Architect
+Charm ReValance
+CharmReValance
 Damage Values Rewritten
-DamageValues
+DamageValuesRewritten
 LaughMod
-SpicyRando
+MylaFlower
+Randomizable Levers
+WanderersWisdom

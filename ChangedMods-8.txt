@@ -1,8 +1,4 @@
-Charm ReValance
-CharmReValance
-Damage Values Rewritten
-DamageValuesRewritten
-LaughMod
-MylaFlower
-Randomizable Levers
-WanderersWisdom
+BugPrince
+CharmPatch
+DanielSteginkUtils
+SpicyRando
