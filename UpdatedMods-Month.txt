@@ -1,5 +1,3 @@
-AdditionalMaps
-Silksong Healing
 ExaltationExpanded
 Faction Elimination
 EnchantedMask
@@ -31,3 +29,6 @@ SpicyRando
 HKMP
 Golden Godhome
 MyHK
+CharmPatch
+DanielSteginkUtils
+ExaltationExpanded

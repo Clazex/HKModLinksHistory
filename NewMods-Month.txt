@@ -1,4 +1,3 @@
-MarkothShield
 AlwaysHazardRespawn
 Charm ReValance
 Damage Values Rewritten

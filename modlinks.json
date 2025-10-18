@@ -1314,11 +1314,11 @@
   },
   "CharmPatch": {
     "description": "This is a collection of small changes that I think improve the balance of certain charms in the game. Please view Readme for Charm Changer mod recommendations.",
-    "version": "1.7.0.0",
+    "version": "1.7.0.1",
     "links": {
       "type": "universal",
-      "sha256": "DB6F78665E7A86F874228A9D3103D4617CEA0E6EF253B101629C8D3E3CEBA2B2",
-      "url": "https://github.com/danielstegink/HollowKnight.CharmPatch/releases/download/1.7.0.0/CharmPatch.zip"
+      "sha256": "8A0CD1A03FABF3619A9046F848FC761BBAA86C7B0AC4E406C9302A84D287A6A5",
+      "url": "https://github.com/danielstegink/HollowKnight.CharmPatch/releases/download/1.7.0.1/CharmPatch.zip"
     },
     "dependencies": [
       "DanielSteginkUtils",
@@ -2208,11 +2208,11 @@
   },
   "DanielSteginkUtils": {
     "description": "Custom library with calculations, logic and cross-mod helpers.",
-    "version": "1.4.1.0",
+    "version": "1.4.2.1",
     "links": {
       "type": "universal",
-      "sha256": "519B4EDB02537AC21C6E1D248EB593A64455D4C4FE4AA935D74A0F4B59A13223",
-      "url": "https://github.com/danielstegink/HollowKnight.DanielSteginkUtils/releases/download/1.4.1.0/DanielSteginkUtils.zip"
+      "sha256": "46C122F60B698145B73F3AE2A1CACAD96A386ED8DDD443C1D16DC6CE31FC6EEB",
+      "url": "https://github.com/danielstegink/HollowKnight.DanielSteginkUtils/releases/download/1.4.2.1/DanielSteginkUtils.zip"
     },
     "dependencies": [
       "ItemChanger",
@@ -2948,11 +2948,11 @@
   },
   "ExaltationExpanded": {
     "description": "A fan-made supplement to the Exaltation mod created by Xhuis (and ported/updated by Théodore).",
-    "version": "1.5.3.0",
+    "version": "1.5.4.0",
     "links": {
       "type": "universal",
-      "sha256": "F7100D53383A9FA98070A7D4EF0B30EF73DAAAC3E84566C404E80206DB6C7A4E",
-      "url": "https://github.com/danielstegink/HollowKnight.ExaltationExpanded/releases/download/1.5.3.0/ExaltationExpanded.zip"
+      "sha256": "DF7280D760E92159E4DD373355D500D6434844312C53F72D1498436D6FD25741",
+      "url": "https://github.com/danielstegink/HollowKnight.ExaltationExpanded/releases/download/1.5.4.0/ExaltationExpanded.zip"
     },
     "dependencies": [
       "DanielSteginkUtils",

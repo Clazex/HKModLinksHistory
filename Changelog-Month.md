@@ -46,23 +46,8 @@
 - Tags
   + Joke
 
-### MarkothShield
-
-- Description: This mod upgrades the Dreamshield into the Markoth Shield.
-- Dependencies
-  + DanielSteginkUtils
-  + Satchel
-- Integrations
-  + ExaltationExpanded
-- Tags
-  + Gameplay
-
 
 ## Updated mods
-
-### AdditionalMaps
-
-- Version: 1.5.4.1 -> 1.5.4.2
 
 ### Architect
 
@@ -78,7 +63,7 @@
 
 ### CharmPatch
 
-- Version: 1.5.2.0 -> 1.7.0.0
+- Version: 1.5.2.0 -> 1.7.0.1
 - Integrations
   + Added
     - Pale Court
@@ -99,7 +84,7 @@
 
 ### DanielSteginkUtils
 
-- Version: 1.2.1.2 -> 1.4.1.0
+- Version: 1.2.1.2 -> 1.4.2.1
 
 ### DivineFury
 
@@ -111,7 +96,7 @@
 
 ### ExaltationExpanded
 
-- Version: 1.4.1.0 -> 1.5.3.0
+- Version: 1.4.1.0 -> 1.5.4.0
 - Dependencies
   + Removed
     - ItemChanger
@@ -153,10 +138,6 @@
 ### Randomizable Levers
 
 - Version: 1.2.6.1 -> 1.2.6.2
-
-### Silksong Healing
-
-- Version: 1.1.0.1 -> 1.1.0.2
 
 ### SpicyRando
 
