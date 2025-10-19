@@ -4784,11 +4784,11 @@
   },
   "INFINITY": {
     "description": "A pure vessel boss mod.",
-    "version": "0.0.10.0",
+    "version": "0.0.12.0",
     "links": {
       "type": "universal",
-      "sha256": "C1E030A9AE6A1086EF4C73BE2DE86F6A219116EB672C00DE62259EA80DB29927",
-      "url": "https://github.com/ROTTEN108/INFINITY/releases/download/v0.0.10.0/INFINITY.zip"
+      "sha256": "11F826CDAF79A33C445B3E22E6FB830355A8F07A004FA17BFD99AD3D9BBBD610",
+      "url": "https://github.com/ROTTEN108/INFINITY/releases/download/v0.0.12.0/INFINITY.zip"
     },
     "dependencies": [
       "HKMirror",

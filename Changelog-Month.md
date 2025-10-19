@@ -96,17 +96,10 @@
 
 ### ExaltationExpanded
 
-- Version: 1.4.1.0 -> 1.5.4.0
+- Version: 1.5.1.0 -> 1.5.4.0
 - Dependencies
   + Removed
     - ItemChanger
-- Integrations
-  + Added
-    - Pale Court Charms
-
-### Faction Elimination
-
-- Version: 0.1.1.0 -> 0.1.2.0
 
 ### Golden Godhome
 
@@ -119,6 +112,10 @@
 ### Hivesong
 
 - Version: 1.3.1.1 -> 1.3.1.2
+
+### INFINITY
+
+- Version: 0.0.10.0 -> 0.0.12.0
 
 ### MultiWorld
 

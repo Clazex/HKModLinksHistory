@@ -1,5 +1,3 @@
-ExaltationExpanded
-Faction Elimination
 EnchantedMask
 AlwaysHazardRespawn
 DanielSteginkUtils
@@ -38,3 +36,4 @@ MyHK
 CharmPatch
 DanielSteginkUtils
 ExaltationExpanded
+INFINITY
