@@ -1,2 +1,17 @@
 # Changelog
 
+
+## Updated mods
+
+### CharmPatch
+
+- Version: 1.5.2.0 -> 1.6.0.0
+- Integrations
+  + Added
+    - Pale Court
+    - Pale Court Charms
+
+### DanielSteginkUtils
+
+- Version: 1.2.2.0 -> 1.3.0.0
+

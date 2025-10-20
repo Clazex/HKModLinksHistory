@@ -7163,9 +7163,9 @@ Enjoy!</Description>
     <Manifest>
         <Name>BugPrince</Name>
         <Description>A Randomizer 4 connection which combines Blue Prince mechanics with Hollow Knight transition randomizer.</Description>
-        <Version>1.4.4.0</Version>
-        <Link SHA256="da4d4d98932109ea441d0d9f76942a219b320488a84d37b7bcd6a44ae826a58b">
-            <![CDATA[https://github.com/dplochcoder/HollowKnight.BugPrince/releases/download/v1.4.4/BugPrince.zip]]>
+        <Version>1.4.5.0</Version>
+        <Link SHA256="94d1112f5d35ba08602744c6d84ff2d697ab3c83cefe64d5d04cf36f3182528c">
+            <![CDATA[https://github.com/dplochcoder/HollowKnight.BugPrince/releases/download/v1.4.5/BugPrince.zip]]>
         </Link>
         <Dependencies>
             <Dependency>Benchwarp</Dependency>
@@ -7338,9 +7338,9 @@ Enjoy!</Description>
     <Manifest>
         <Name>SpicyRando</Name>
         <Description>Various difficulty increases in specific parts of rando</Description>
-        <Version>2.0.0.0</Version>
-        <Link SHA256="BF35D745A65602565930FA6A36F52E95D2E2026BC3F10EF3B7F640C2F539183C">
-            <![CDATA[https://github.com/dplochcoder/HollowKnight.SpicyRando/releases/download/v2.0.0.0/SpicyRando.zip]]>
+        <Version>2.0.1.0</Version>
+        <Link SHA256="FA04521D7E5DCAEAD71456F00854C6C5E5ABA71C01582B310F402036CAC6362C">
+            <![CDATA[https://github.com/dplochcoder/HollowKnight.SpicyRando/releases/download/v2.0.1.0/SpicyRando.zip]]>
         </Link>
         <Dependencies>
             <Dependency>ItemChanger</Dependency>
@@ -9291,9 +9291,9 @@ Enjoy!</Description>
     <Manifest>
         <Name>CharmPatch</Name>
         <Description>This is a collection of small changes that I think improve the balance of certain charms in the game. Please view Readme for Charm Changer mod recommendations.</Description>
-        <Version>1.6.0.0</Version>
-        <Link SHA256="1c1dbef527a5e806e6f7c2b2b7639e97f6eadfd9277fcddd8ba420ccd75f0f98">
-            <![CDATA[https://github.com/danielstegink/HollowKnight.CharmPatch/releases/download/1.6.0.0/CharmPatch.zip]]>
+        <Version>1.7.0.0</Version>
+        <Link SHA256="db6f78665e7a86f874228a9d3103d4617cea0e6ef253b101629c8d3e3ceba2b2">
+            <![CDATA[https://github.com/danielstegink/HollowKnight.CharmPatch/releases/download/1.7.0.0/CharmPatch.zip]]>
         </Link>
         <Dependencies>
             <Dependency>HKMirror</Dependency>
@@ -10255,9 +10255,9 @@ Enjoy!</Description>
      <Manifest>
         <Name>DanielSteginkUtils</Name>
         <Description>Custom library with calculations, logic and cross-mod helpers.</Description>
-        <Version>1.3.1.0</Version>
-        <Link SHA256="ecb256fb54016aa0acb2c2caed47b190ee052054b890f2fc428bc4a16f019e28">
-            <![CDATA[https://github.com/danielstegink/HollowKnight.DanielSteginkUtils/releases/download/1.3.1.0/DanielSteginkUtils.zip]]>
+        <Version>1.4.1.0</Version>
+        <Link SHA256="519b4edb02537ac21c6e1d248eb593a64455d4c4fe4aa935d74a0f4b59a13223">
+            <![CDATA[https://github.com/danielstegink/HollowKnight.DanielSteginkUtils/releases/download/1.4.1.0/DanielSteginkUtils.zip]]>
         </Link>
         <Dependencies>
             <Dependency>SFCore</Dependency>
