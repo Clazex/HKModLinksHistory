@@ -2801,11 +2801,11 @@
   },
   "EnchantedMask": {
     "description": "Adds new powerups called Glyphs, which can be purchased from the Mask maker.",
-    "version": "1.3.0.0",
+    "version": "1.4.0.0",
     "links": {
       "type": "universal",
-      "sha256": "B8E715AB2F725BABD730C627E6298E1180FB22657AB6FF4B08706C92C607649B",
-      "url": "https://github.com/danielstegink/HollowKnight.EnchantedMask/releases/download/1.3.0.0/EnchantedMask.zip"
+      "sha256": "DA50F6ED06661AC7ED601776CA3908F6A0F3EB745DF53B401357762CB0237F3A",
+      "url": "https://github.com/danielstegink/HollowKnight.EnchantedMask/releases/download/1.4.0.0/EnchantedMask.zip"
     },
     "dependencies": [
       "DanielSteginkUtils",

@@ -30,3 +30,4 @@ CharmPatch
 DanielSteginkUtils
 ExaltationExpanded
 INFINITY
+EnchantedMask
