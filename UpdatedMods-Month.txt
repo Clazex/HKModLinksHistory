@@ -1,7 +1,3 @@
-DanielSteginkUtils
-DivineFury
-ExaltationExpanded
-Hivesong
 AlwaysHazardRespawn
 Architect
 CharmPatch

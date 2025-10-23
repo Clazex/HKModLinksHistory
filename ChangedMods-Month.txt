@@ -1,9 +1,4 @@
 AlwaysHazardRespawn
-DanielSteginkUtils
-DivineFury
-ExaltationExpanded
-Hivesong
-AlwaysHazardRespawn
 Architect
 Charm ReValance
 CharmPatch

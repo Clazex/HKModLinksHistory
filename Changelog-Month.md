@@ -3,12 +3,6 @@
 
 ## New mods
 
-### AlwaysHazardRespawn
-
-- Description: Always respawn at hazard respawn locations after death.
-- Tags
-  + Gameplay
-
 ### Charm ReValance
 
 - Description: Dummy mod. Install the dependency &quot;CharmReValance&quot; directly.
@@ -49,6 +43,10 @@
 
 ## Updated mods
 
+### AlwaysHazardRespawn
+
+- Version: 0.1.0.0 -> 0.2.0.0
+
 ### Architect
 
 - Version: 1.16.14.0 -> 1.16.15.0
@@ -84,11 +82,7 @@
 
 ### DanielSteginkUtils
 
-- Version: 1.2.1.2 -> 1.4.2.1
-
-### DivineFury
-
-- Version: 1.2.1.1 -> 1.2.1.2
+- Version: 1.2.2.0 -> 1.4.2.1
 
 ### EnchantedMask
 
@@ -96,10 +90,7 @@
 
 ### ExaltationExpanded
 
-- Version: 1.5.1.0 -> 1.5.4.0
-- Dependencies
-  + Removed
-    - ItemChanger
+- Version: 1.5.2.0 -> 1.5.4.0
 
 ### Golden Godhome
 
@@ -108,10 +99,6 @@
 ### HKMP
 
 - Version: 2.4.2.0 -> 2.4.3.0
-
-### Hivesong
-
-- Version: 1.3.1.1 -> 1.3.1.2
 
 ### INFINITY
 
