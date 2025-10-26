@@ -7103,9 +7103,9 @@ Enjoy!</Description>
     <Manifest>
         <Name>TheHuntIsOn</Name>
         <Description>A mod for manhunting. Provides modules to change how the game affects hunter and speedrunner.</Description>
-        <Version>1.0.0.0</Version>
-        <Link SHA256="6f811047050d2b556080f2ca56446f74fb97737120713bab9058f2465e29c0ae">
-            <![CDATA[https://github.com/Korzer420/TheHuntIsOn/releases/download/v1.0.0/TheHuntIsOn.zip]]></Link>
+        <Version>1.1.0.0</Version>
+        <Link SHA256="36acbb3f39727d5a78e04285174826fd9f338b2d3f8a776c6716b07e0f53c10e">
+            <![CDATA[https://github.com/dplochcoder/TheHuntIsOn/releases/download/v1.1.0/TheHuntIsOn.zip]]></Link>
         <Dependencies>
             <Dependency>HKMP</Dependency>
             <Dependency>KorzUtils</Dependency>
@@ -7121,6 +7121,7 @@ Enjoy!</Description>
             <Author>Korz</Author>
             <Author>Fireb0rn</Author>
             <Author>Extremelyd1</Author>
+			<Author>Purenail</Author>
         </Authors>
     </Manifest>
     <Manifest>
@@ -10522,4 +10523,26 @@ Enjoy!</Description>
 			<Author>Dzhake</Author>
 		</Authors>
 	</Manifest>
+	<Manifest>
+        <Name>Fast World</Name>
+        <Description>Making your Hallownest more challenging by changing speed of the entire world, except you!</Description>
+        <Version>1.0.0.0</Version>
+        <Link SHA256="cbf86d13f2d54215f5ec71ebec420519870340ca6a2d19ef67062ab1feb1bb43">
+            <![CDATA[https://github.com/hien-ngo29/FastWorld/releases/download/v1.0.0.0/FastWorld.zip]]>
+        </Link>
+        <Dependencies>
+            <Dependency>Sanic</Dependency>
+            <Dependency>Satchel</Dependency>
+			<Dependency>HKMirror</Dependency>
+        </Dependencies>
+        <Repository>
+            <![CDATA[https://github.com/hien-ngo29/FastWorld]]>
+        </Repository>
+        <Tags>
+            <Tag>Gameplay</Tag>
+        </Tags>
+        <Authors>
+            <Author>Hien Ngo</Author>
+        </Authors>
+    </Manifest>
 </ModLinks>

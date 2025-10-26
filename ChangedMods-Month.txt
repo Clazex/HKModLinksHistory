@@ -30,3 +30,5 @@ DanielSteginkUtils
 ExaltationExpanded
 INFINITY
 EnchantedMask
+Fast World
+TheHuntIsOn

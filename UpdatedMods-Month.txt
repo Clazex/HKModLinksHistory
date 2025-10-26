@@ -25,3 +25,4 @@ DanielSteginkUtils
 ExaltationExpanded
 INFINITY
 EnchantedMask
+TheHuntIsOn

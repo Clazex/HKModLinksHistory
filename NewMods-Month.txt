@@ -3,3 +3,4 @@ Damage Values Rewritten
 LaughMod
 CharmReValance
 DamageValuesRewritten
+Fast World
