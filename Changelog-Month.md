@@ -3,12 +3,6 @@
 
 ## New mods
 
-### Charm ReValance
-
-- Description: Dummy mod. Install the dependency &quot;CharmReValance&quot; directly.
-- Dependencies
-  + CharmReValance
-
 ### CharmReValance
 
 - Description: Charm and ability overhaul and customization
@@ -64,6 +58,24 @@
 ### BugPrince
 
 - Version: 1.4.4.0 -> 1.4.5.0
+
+### Charm ReValance
+
+- Version: 1.25.9.24 -> 9.9.9.9
+- Description
+  + Old: Charm and ability overhaul and customization
+  + New: Dummy mod. Install the dependency &quot;CharmReValance&quot; directly.
+- Dependencies
+  + Removed
+    - HKMirror
+    - SFCore
+    - Satchel
+  + Added
+    - CharmReValance
+- Tags
+  + Added
+    - Charm
+    - Gameplay
 
 ### CharmPatch
 

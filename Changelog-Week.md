@@ -16,10 +16,6 @@
 
 ## Updated mods
 
-### EnchantedMask
-
-- Version: 1.3.0.0 -> 1.4.0.0
-
 ### TheHuntIsOn
 
 - Version: 1.0.0.0 -> 1.1.0.0
