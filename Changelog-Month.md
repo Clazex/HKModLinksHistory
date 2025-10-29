@@ -79,11 +79,7 @@
 
 ### CharmPatch
 
-- Version: 1.5.2.0 -> 1.7.0.1
-- Integrations
-  + Added
-    - Pale Court
-    - Pale Court Charms
+- Version: 1.6.0.0 -> 1.7.0.1
 
 ### DamageValues
 
@@ -100,7 +96,7 @@
 
 ### DanielSteginkUtils
 
-- Version: 1.2.2.0 -> 1.4.2.1
+- Version: 1.3.0.0 -> 1.4.2.1
 
 ### EnchantedMask
 
@@ -109,6 +105,10 @@
 ### ExaltationExpanded
 
 - Version: 1.5.2.0 -> 1.5.4.0
+
+### Godhome Elo Counter
+
+- Version: 1.2.0.0 -> 1.4.1.0
 
 ### Golden Godhome
 
