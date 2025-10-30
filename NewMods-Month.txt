@@ -3,3 +3,4 @@ LaughMod
 CharmReValance
 DamageValuesRewritten
 Fast World
+GeoPots

@@ -13,6 +13,12 @@
 - Tags
   + Gameplay
 
+### GeoPots
+
+- Description: Adds a chance for carts and barrels to drop geo when broken.
+- Tags
+  + Gameplay
+
 
 ## Updated mods
 

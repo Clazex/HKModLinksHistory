@@ -1,4 +1,3 @@
-DanielSteginkUtils
 ExaltationExpanded
 Breakable Wall Randomizer
 MultiWorld
@@ -30,3 +29,4 @@ EnchantedMask
 Fast World
 TheHuntIsOn
 Godhome Elo Counter
+GeoPots

@@ -1,72 +1,21 @@
 # Changelog
 
 
-## New mods
-
-### CharmReValance
-
-- Description: Charm and ability overhaul and customization
-- Dependencies
-  + HKMirror
-  + SFCore
-  + Satchel
-- Tags
-  + Charm
-  + Gameplay
-
-### DamageValuesRewritten
-
-- Description: Display damage values when enemies suffer damage
-- Tags
-  + Utility
-
-
 ## Updated mods
 
-### Charm ReValance
+### BugPrince
 
-- Version: 1.25.9.24 -> 9.9.9.9
-- Description
-  + Old: Charm and ability overhaul and customization
-  + New: Dummy mod. Install the dependency &quot;CharmReValance&quot; directly.
-- Dependencies
-  + Removed
-    - HKMirror
-    - SFCore
-    - Satchel
-  + Added
-    - CharmReValance
-- Tags
-  + Added
-    - Charm
-    - Gameplay
+- Version: 1.4.4.0 -> 1.4.5.0
 
-### Damage Values Rewritten
+### CharmPatch
 
-- Version: 1.25.10.7 -> 9.9.9.9
-- Description
-  + Old: Display damage values when enemies suffer damage
-  + New: Dummy mod. Install the dependency &quot;DamageValuesRewritten&quot; directly.
-- Dependencies
-  + Added
-    - DamageValuesRewritten
-- Tags
-  + Added
-    - Utility
+- Version: 1.6.0.0 -> 1.7.0.0
 
-### LaughMod
+### DanielSteginkUtils
 
-- Version: 1.0.0.0 -> 1.0.1.0
+- Version: 1.3.1.0 -> 1.4.1.0
 
-### MylaFlower
+### SpicyRando
 
-- Version: 2.0.0.0 -> 2.0.0.1
-
-### Randomizable Levers
-
-- Version: 1.2.6.1 -> 1.2.6.2
-
-### WanderersWisdom
-
-- Version: 1.1.1.0 -> 1.1.2.0
+- Version: 2.0.0.0 -> 2.0.1.0
 

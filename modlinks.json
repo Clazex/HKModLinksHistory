@@ -3723,6 +3723,23 @@
       "SFGrenade"
     ]
   },
+  "GeoPots": {
+    "description": "Adds a chance for carts and barrels to drop geo when broken.",
+    "version": "1.0.0.0",
+    "links": {
+      "type": "universal",
+      "sha256": "194CC71F267E4BB7211513405E7ED40A163E90D6B8EA8F01287783AC7749DFD4",
+      "url": "https://github.com/danielstegink/HollowKnight.GeoPots/releases/download/1.0.0.0/GeoPots.zip"
+    },
+    "dependencies": [],
+    "repository": "https://github.com/danielstegink/HollowKnight.GeoPots",
+    "tags": [
+      "Gameplay"
+    ],
+    "authors": [
+      "DanielStegink"
+    ]
+  },
   "GhostHunter": {
     "description": "A mod that shows the positions of other player's enemies during multiplay.",
     "version": "2.1.0.0",

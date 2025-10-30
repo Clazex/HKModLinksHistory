@@ -36,6 +36,12 @@
 - Tags
   + Gameplay
 
+### GeoPots
+
+- Description: Adds a chance for carts and barrels to drop geo when broken.
+- Tags
+  + Gameplay
+
 ### LaughMod
 
 - Description: Plays laugh sound on specific events.
@@ -96,7 +102,7 @@
 
 ### DanielSteginkUtils
 
-- Version: 1.3.0.0 -> 1.4.2.1
+- Version: 1.3.1.0 -> 1.4.2.1
 
 ### EnchantedMask
 
