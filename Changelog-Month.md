@@ -36,6 +36,15 @@
 - Tags
   + Gameplay
 
+### GeoBundles
+
+- Description: Store Geo in &quot;bundles&quot; to protect it from loss upon death, similar to rosary strings in silksong.
+- Dependencies
+  + SFCore
+- Tags
+  + Gameplay
+  + Utility
+
 ### GeoPots
 
 - Description: Adds a chance for carts and barrels to drop geo when broken.
