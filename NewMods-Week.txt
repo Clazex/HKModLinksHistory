@@ -1,3 +1,2 @@
-Fast World
 GeoPots
 GeoBundles

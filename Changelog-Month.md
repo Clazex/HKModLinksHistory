@@ -64,7 +64,7 @@
 
 ### Architect
 
-- Version: 1.16.14.1 -> 1.16.15.0
+- Version: 1.16.14.1 -> 1.16.15.1
 
 ### Breakable Wall Randomizer
 
@@ -119,7 +119,7 @@
 
 ### ExaltationExpanded
 
-- Version: 1.5.2.0 -> 1.5.4.0
+- Version: 1.5.3.0 -> 1.5.4.0
 
 ### Godhome Elo Counter
 

@@ -426,11 +426,11 @@
   },
   "Architect": {
     "description": "A level editor mod, allowing you to customise Hollow Knight by adding or removing platforms, enemies and more with an in-game level editor and level sharer.",
-    "version": "1.16.15.0",
+    "version": "1.16.15.1",
     "links": {
       "type": "universal",
-      "sha256": "5CC34A947FDE42187F3BFD79D7577E5D7173D44FE846BC4C344511AFF64B69BC",
-      "url": "https://github.com/cometcake575/Architect/releases/download/1.16.15.0/Architect.zip"
+      "sha256": "36E9B0297311BAA2089D675CE9E44AE77DCDD718C5BFB32AC0324BE33B9FCF5D",
+      "url": "https://github.com/cometcake575/Architect/releases/download/1.16.15.1/Architect.zip"
     },
     "dependencies": [
       "MagicUI",
