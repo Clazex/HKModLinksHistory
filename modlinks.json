@@ -683,6 +683,26 @@
       "Gameplay"
     ]
   },
+  "BetterCrystalHeart": {
+    "description": "Adds synergies and bonuses to Crystal Heart's damage and charge time.",
+    "version": "1.0.0.0",
+    "links": {
+      "type": "universal",
+      "sha256": "09B9AD04E7CE232B91C2E2992953950A7A89863158856BBE8FC5C775AB9A5055",
+      "url": "https://github.com/danielstegink/HollowKnight.BetterCrystalHeart/releases/download/1.0.0.0/BetterCrystalHeart.zip"
+    },
+    "dependencies": [
+      "DanielSteginkUtils",
+      "Satchel"
+    ],
+    "repository": "https://github.com/danielstegink/HollowKnight.BetterCrystalHeart",
+    "tags": [
+      "Gameplay"
+    ],
+    "authors": [
+      "DanielStegink"
+    ]
+  },
   "BetterModList": {
     "description": "Customize how the mod list is displayed",
     "version": "1.0.0.0",

@@ -3,6 +3,15 @@
 
 ## New mods
 
+### BetterCrystalHeart
+
+- Description: Adds synergies and bonuses to Crystal Heart&#x27;s damage and charge time.
+- Dependencies
+  + DanielSteginkUtils
+  + Satchel
+- Tags
+  + Gameplay
+
 ### CharmReValance
 
 - Description: Charm and ability overhaul and customization
@@ -65,10 +74,6 @@
 ### Architect
 
 - Version: 1.16.14.1 -> 1.16.15.1
-
-### Breakable Wall Randomizer
-
-- Version: 4.1.1.4 -> 4.1.1.5
 
 ### BugPrince
 

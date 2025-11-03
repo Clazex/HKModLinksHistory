@@ -5,3 +5,4 @@ DamageValuesRewritten
 Fast World
 GeoPots
 GeoBundles
+BetterCrystalHeart

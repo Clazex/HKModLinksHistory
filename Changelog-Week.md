@@ -3,6 +3,15 @@
 
 ## New mods
 
+### BetterCrystalHeart
+
+- Description: Adds synergies and bonuses to Crystal Heart&#x27;s damage and charge time.
+- Dependencies
+  + DanielSteginkUtils
+  + Satchel
+- Tags
+  + Gameplay
+
 ### GeoBundles
 
 - Description: Store Geo in &quot;bundles&quot; to protect it from loss upon death, similar to rosary strings in silksong.
