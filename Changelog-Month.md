@@ -60,6 +60,12 @@
 - Tags
   + Gameplay
 
+### InfectedHallownest
+
+- Description: Adds a new stage to the game: after beating the Hollow Knight, the Infection expands throughout the game, strengthening enemies at random.
+- Tags
+  + Gameplay
+
 ### LaughMod
 
 - Description: Plays laugh sound on specific events.
@@ -73,7 +79,7 @@
 
 ### Architect
 
-- Version: 1.16.14.1 -> 1.16.15.1
+- Version: 1.16.14.1 -> 1.17.0.0
 
 ### BugPrince
 
@@ -142,13 +148,6 @@
 
 - Version: 0.0.10.0 -> 0.0.12.0
 
-### MultiWorld
-
-- Version: 1.2.3.0 -> 1.2.4.0
-- Description
-  + Old: A RandomizerMod 4 add-on for distributing players&#x27; items between all their worlds. The default IP no longer works. Please use &#x60;mw.hkmp.org&#x60; if you want to connect to the public server.
-  + New: A RandomizerMod 4 add-on for distributing players&#x27; items between all their worlds.
-
 ### MyHK
 
 - Version: 1.2.0.3 -> 1.2.0.4
@@ -171,6 +170,10 @@
 ### TheHuntIsOn
 
 - Version: 1.0.0.0 -> 1.1.0.0
+
+### VendorRando
+
+- Version: 1.0.2.0 -> 1.0.2.1
 
 ### WanderersWisdom
 

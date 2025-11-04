@@ -1,4 +1,3 @@
-MultiWorld
 Architect
 DamageValues
 SpicyRando
@@ -23,3 +22,5 @@ EnchantedMask
 TheHuntIsOn
 Godhome Elo Counter
 Architect
+Architect
+VendorRando

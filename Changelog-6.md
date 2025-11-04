@@ -1,9 +1,11 @@
 # Changelog
 
 
-## Updated mods
+## New mods
 
-### Godhome Elo Counter
+### GeoPots
 
-- Version: 1.2.0.0 -> 1.4.1.0
+- Description: Adds a chance for carts and barrels to drop geo when broken.
+- Tags
+  + Gameplay
 

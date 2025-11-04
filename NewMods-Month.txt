@@ -6,3 +6,4 @@ Fast World
 GeoPots
 GeoBundles
 BetterCrystalHeart
+InfectedHallownest

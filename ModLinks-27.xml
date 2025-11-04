@@ -25,9 +25,17 @@
     </Manifest>
     <Manifest>
         <Name>Charm ReValance</Name>
+        <Description>Dummy mod. Install the dependency "CharmReValance" directly.</Description>
+        <Version>9.9.9.9</Version>
+        <Link SHA256="00280F51FB9F3030B4F1BBBAD3AB29082A706994E4FAF783AA955054673BC74B"><![CDATA[https://github.com/SFGrenade/EmptyMod/releases/download/v9.9.9.9/EmptyMod.zip]]></Link>
+        <Dependencies><Dependency>CharmReValance</Dependency></Dependencies>
+        <Repository><![CDATA[https://github.com/SFGrenade/EmptyMod/]]></Repository>
+    </Manifest>
+    <Manifest>
+        <Name>CharmReValance</Name>
         <Description>Charm and ability overhaul and customization</Description>
-        <Version>1.25.09.24</Version>
-        <Link SHA256="0e7470a383903ff9079247013bb50a75784ba7c719c3b072912a2cbd3b9b0261"><![CDATA[https://github.com/ValancedBreakfast/CharmReValance/releases/download/1.25.09.24/CharmReValance.dll]]></Link>
+        <Version>1.25.10.07</Version>
+        <Link SHA256="73e89cf5a0531a41411a8cb4459f085e554a3279404af441981e1296c462f667"><![CDATA[https://github.com/ValancedBreakfast/CharmReValance/releases/download/1.25.10.07/CharmReValance.dll]]></Link>
         <Dependencies>
             <Dependency>HKMirror</Dependency>
             <Dependency>Satchel</Dependency>
@@ -49,14 +57,22 @@
     </Manifest>
     <Manifest>
         <Name>DamageValues</Name>
-        <Description>Dummy mod. Install the dependency "Damage Values Rewritten" directly.</Description>
+        <Description>Dummy mod. Install the dependency "DamageValuesRewritten" directly.</Description>
         <Version>9.9.9.9</Version>
         <Link SHA256="00280F51FB9F3030B4F1BBBAD3AB29082A706994E4FAF783AA955054673BC74B"><![CDATA[https://github.com/SFGrenade/EmptyMod/releases/download/v9.9.9.9/EmptyMod.zip]]></Link>
-        <Dependencies><Dependency>Damage Values Rewritten</Dependency></Dependencies>
+        <Dependencies><Dependency>DamageValuesRewritten</Dependency></Dependencies>
+        <Repository><![CDATA[https://github.com/SFGrenade/EmptyMod/]]></Repository>
+    </Manifest>
+    <Manifest>
+        <Name>Damage Values Rewritten</Name>
+        <Description>Dummy mod. Install the dependency "DamageValuesRewritten" directly.</Description>
+        <Version>9.9.9.9</Version>
+        <Link SHA256="00280F51FB9F3030B4F1BBBAD3AB29082A706994E4FAF783AA955054673BC74B"><![CDATA[https://github.com/SFGrenade/EmptyMod/releases/download/v9.9.9.9/EmptyMod.zip]]></Link>
+        <Dependencies><Dependency>DamageValuesRewritten</Dependency></Dependencies>
         <Repository><![CDATA[https://github.com/SFGrenade/EmptyMod/]]></Repository>
     </Manifest>
 	<Manifest>
-        <Name>Damage Values Rewritten</Name>
+        <Name>DamageValuesRewritten</Name>
         <Description>Display damage values when enemies suffer damage</Description>
         <Version>1.25.10.07</Version>
         <Link SHA256="799c42143150387622d4ecd4597f2fefc17795d2e4682623857121f2e3d01a36"><![CDATA[https://github.com/ValancedBreakfast/DamageValuesRewritten/releases/download/1.25.10.07/DamageValuesRewritten.zip]]></Link>
@@ -2525,9 +2541,9 @@ All with an incredible new soundtrack!</Description>
     <Manifest>
         <Name>MylaFlower</Name>
         <Description>Protect Myla from the infection by bringing her a flower.</Description>
-        <Version>2.0.0.0</Version>
-        <Link SHA256="94c9da348c80f68076b493ced1726709166bc19b5d32b6043ded282de9238128">
-            <![CDATA[https://github.com/flibber-hk/HollowKnight.MylaFlower/releases/download/v2.0.0.0/MylaFlower.zip]]>
+        <Version>2.0.0.1</Version>
+        <Link SHA256="406829f219e0f7ced28d3cb1120396897fa285d55bc427f031e8801d42f2843a">
+            <![CDATA[https://github.com/flibber-hk/HollowKnight.MylaFlower/releases/download/v2.0.0.1/MylaFlower.zip]]>
         </Link>
         <Dependencies>
             <Dependency>Vasi</Dependency>
@@ -2658,9 +2674,9 @@ All with an incredible new soundtrack!</Description>
     <Manifest>
         <Name>Randomizable Levers</Name>
         <Description>Randomizer 4 addon that adds the option to randomize levers. Activate lever rando in the Connections menu of Randomizer 4.</Description>
-        <Version>1.2.6.1</Version>
-        <Link SHA256="a5e56512c3973878c3086c036ab5583d8aa59cd080fd2767472525ebc358f550">
-            <![CDATA[https://github.com/flibber-hk/HollowKnight.RandomizableLevers/releases/download/v1.2.6.1/RandomizableLevers.zip]]>
+        <Version>1.2.6.2</Version>
+        <Link SHA256="58128caa70e7cdb10f7ed7b8b3be49e17bc1de415c52bd1e59e244cd156fac91">
+            <![CDATA[https://github.com/flibber-hk/HollowKnight.RandomizableLevers/releases/download/v1.2.6.2/RandomizableLevers.zip]]>
         </Link>
         <Dependencies>
             <Dependency>ItemChanger</Dependency>
@@ -9903,9 +9919,9 @@ Enjoy!</Description>
     <Manifest>
         <Name>WanderersWisdom</Name>
         <Description>A mod that adds 2 new charms: Wanderer's Wisdom and Wanderer's Guile.</Description>
-        <Version>1.1.1.0</Version>
-        <Link SHA256="a2239fcfbdca64154fd6cd334a8ae03b1d718811b820763ba3d3cbb7107d38ea">
-            <![CDATA[https://github.com/danielstegink/HollowKnight.WanderersWisdom/releases/download/1.1.1.0/WanderersWisdom.zip]]>
+        <Version>1.1.2.0</Version>
+        <Link SHA256="c7044644bb8728808ea5b5f1a280ea6b22e1d751dcfb29eab1f30a03e088791f">
+            <![CDATA[https://github.com/danielstegink/HollowKnight.WanderersWisdom/releases/download/1.1.2.0/WanderersWisdom.zip]]>
         </Link>
         <Dependencies>
             <Dependency>ItemChanger</Dependency>
@@ -10082,6 +10098,7 @@ Enjoy!</Description>
         <Dependencies>
             <Dependency>ItemChanger</Dependency>
             <Dependency>SFCore</Dependency>
+			<Dependency>Vasi</Dependency>
         </Dependencies>
         <Repository>
             <![CDATA[https://github.com/Roma-337/PaleCourtCharms]]>
@@ -10487,8 +10504,8 @@ Enjoy!</Description>
 		<Name>LaughMod</Name>
 		<DisplayName>Laugh Mod</DisplayName>
 		<Description>Plays laugh sound on specific events.</Description>
-		<Version>1.0.0.0</Version>
-		<Link SHA256="4ED7EA0F5A61F25C8659EC4DC31646E784B0E0177018649DF3D61FF969DDF9FB"><![CDATA[https://github.com/Dzhake/HK.LaughMod/releases/download/1.0.0/LaughMod.zip]]></Link>
+		<Version>1.0.1.0</Version>
+		<Link SHA256="F72AAFECB44D01C745A4CA0E23349AD97DF433A138955ECC6B1ABAEAE8677406"><![CDATA[https://github.com/Dzhake/HK.LaughMod/releases/download/1.0.1/LaughMod.zip]]></Link>
 		<Dependencies>
 			<Dependency>Satchel</Dependency>
 		</Dependencies>

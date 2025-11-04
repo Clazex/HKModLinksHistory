@@ -426,11 +426,11 @@
   },
   "Architect": {
     "description": "A level editor mod, allowing you to customise Hollow Knight by adding or removing platforms, enemies and more with an in-game level editor and level sharer.",
-    "version": "1.16.15.1",
+    "version": "1.17.0.0",
     "links": {
       "type": "universal",
-      "sha256": "36E9B0297311BAA2089D675CE9E44AE77DCDD718C5BFB32AC0324BE33B9FCF5D",
-      "url": "https://github.com/cometcake575/Architect/releases/download/1.16.15.1/Architect.zip"
+      "sha256": "E3F26241276269D4430A489786338AAE5B213C80E4360605DB85263954B49678",
+      "url": "https://github.com/cometcake575/Architect/releases/download/1.17.0.0/Architect.zip"
     },
     "dependencies": [
       "MagicUI",
@@ -4899,6 +4899,23 @@
     ],
     "authors": [
       "MCXGK3"
+    ]
+  },
+  "InfectedHallownest": {
+    "description": "Adds a new stage to the game: after beating the Hollow Knight, the Infection expands throughout the game, strengthening enemies at random.",
+    "version": "1.0.0.0",
+    "links": {
+      "type": "universal",
+      "sha256": "6A5A5A6F958D896E8ACA85A18AEE18911CE0982ED81D6242D3D73B4A367C53E0",
+      "url": "https://github.com/danielstegink/HollowKnight.InfectedHallownest/releases/download/1.0.0.0/InfectedHallownest.zip"
+    },
+    "dependencies": [],
+    "repository": "https://github.com/danielstegink/HollowKnight.InfectedHallownest",
+    "tags": [
+      "Gameplay"
+    ],
+    "authors": [
+      "DanielStegink"
     ]
   },
   "Infection Bomb": {
@@ -9760,11 +9777,11 @@
   },
   "VendorRando": {
     "description": "A Randomizer add-on that randomizes the physical locations of vendors",
-    "version": "1.0.2.0",
+    "version": "1.0.2.1",
     "links": {
       "type": "universal",
-      "sha256": "2BBDCEE2A3DEFA158E1EA7883E320E87DE44762E7D5827B175F2FFD2920F2DEE",
-      "url": "https://github.com/TheMathGeek314/VendorRando/releases/download/v1.0.2.0/VendorRando.zip"
+      "sha256": "D60CCEC162347B17E81DB91EE7A6DA06A5D03C1B36E9A7F1DA443D5984B6D9EE",
+      "url": "https://github.com/TheMathGeek314/VendorRando/releases/download/v1.0.2.1/VendorRando.zip"
     },
     "dependencies": [
       "ConnectionMetadataInjector",
