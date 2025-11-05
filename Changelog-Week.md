@@ -21,12 +21,6 @@
   + Gameplay
   + Utility
 
-### GeoPots
-
-- Description: Adds a chance for carts and barrels to drop geo when broken.
-- Tags
-  + Gameplay
-
 ### InfectedHallownest
 
 - Description: Adds a new stage to the game: after beating the Hollow Knight, the Infection expands throughout the game, strengthening enemies at random.
@@ -42,5 +36,5 @@
 
 ### VendorRando
 
-- Version: 1.0.2.0 -> 1.0.2.1
+- Version: 1.0.2.0 -> 1.0.2.2
 

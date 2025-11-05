@@ -33,3 +33,4 @@ BetterCrystalHeart
 Architect
 InfectedHallownest
 VendorRando
+VendorRando
