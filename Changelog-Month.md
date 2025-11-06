@@ -23,12 +23,6 @@
   + Charm
   + Gameplay
 
-### Damage Values Rewritten
-
-- Description: Dummy mod. Install the dependency &quot;DamageValuesRewritten&quot; directly.
-- Dependencies
-  + DamageValuesRewritten
-
 ### DamageValuesRewritten
 
 - Description: Display damage values when enemies suffer damage
@@ -66,20 +60,12 @@
 - Tags
   + Gameplay
 
-### LaughMod
-
-- Description: Plays laugh sound on specific events.
-- Dependencies
-  + Satchel
-- Tags
-  + Joke
-
 
 ## Updated mods
 
 ### Architect
 
-- Version: 1.16.14.1 -> 1.17.0.0
+- Version: 1.16.15.0 -> 1.17.0.0
 
 ### BugPrince
 
@@ -107,18 +93,18 @@
 
 - Version: 1.6.0.0 -> 1.7.0.1
 
-### DamageValues
+### Damage Values Rewritten
 
-- Version: 1.0.0.1 -> 9.9.9.9
+- Version: 1.25.10.7 -> 9.9.9.9
 - Description
-  + Old: Shows damage numbers when striking an enemy.
+  + Old: Display damage values when enemies suffer damage
   + New: Dummy mod. Install the dependency &quot;DamageValuesRewritten&quot; directly.
 - Dependencies
   + Added
     - DamageValuesRewritten
 - Tags
   + Added
-    - Cosmetic
+    - Utility
 
 ### DanielSteginkUtils
 
@@ -148,6 +134,10 @@
 
 - Version: 0.0.10.0 -> 0.0.12.0
 
+### LaughMod
+
+- Version: 1.0.0.0 -> 1.0.1.0
+
 ### MyHK
 
 - Version: 1.2.0.3 -> 1.2.0.4
@@ -162,10 +152,7 @@
 
 ### SpicyRando
 
-- Version: 1.2.3.0 -> 2.0.1.0
-- Dependencies
-  + Added
-    - SFCore
+- Version: 2.0.0.0 -> 2.0.1.0
 
 ### TheHuntIsOn
 
