@@ -12,23 +12,6 @@
 - Tags
   + Gameplay
 
-### CharmReValance
-
-- Description: Charm and ability overhaul and customization
-- Dependencies
-  + HKMirror
-  + SFCore
-  + Satchel
-- Tags
-  + Charm
-  + Gameplay
-
-### DamageValuesRewritten
-
-- Description: Display damage values when enemies suffer damage
-- Tags
-  + Utility
-
 ### Fast World
 
 - Description: Making your Hallownest more challenging by changing speed of the entire world, except you!
@@ -71,40 +54,9 @@
 
 - Version: 1.4.4.0 -> 1.4.5.0
 
-### Charm ReValance
-
-- Version: 1.25.9.24 -> 9.9.9.9
-- Description
-  + Old: Charm and ability overhaul and customization
-  + New: Dummy mod. Install the dependency &quot;CharmReValance&quot; directly.
-- Dependencies
-  + Removed
-    - HKMirror
-    - SFCore
-    - Satchel
-  + Added
-    - CharmReValance
-- Tags
-  + Added
-    - Charm
-    - Gameplay
-
 ### CharmPatch
 
 - Version: 1.6.0.0 -> 1.7.0.1
-
-### Damage Values Rewritten
-
-- Version: 1.25.10.7 -> 9.9.9.9
-- Description
-  + Old: Display damage values when enemies suffer damage
-  + New: Dummy mod. Install the dependency &quot;DamageValuesRewritten&quot; directly.
-- Dependencies
-  + Added
-    - DamageValuesRewritten
-- Tags
-  + Added
-    - Utility
 
 ### DanielSteginkUtils
 
@@ -134,21 +86,9 @@
 
 - Version: 0.0.10.0 -> 0.0.12.0
 
-### LaughMod
-
-- Version: 1.0.0.0 -> 1.0.1.0
-
 ### MyHK
 
 - Version: 1.2.0.3 -> 1.2.0.4
-
-### MylaFlower
-
-- Version: 2.0.0.0 -> 2.0.0.1
-
-### Randomizable Levers
-
-- Version: 1.2.6.1 -> 1.2.6.2
 
 ### SpicyRando
 
@@ -161,8 +101,4 @@
 ### VendorRando
 
 - Version: 1.0.2.0 -> 1.0.2.2
-
-### WanderersWisdom
-
-- Version: 1.1.1.0 -> 1.1.2.0
 

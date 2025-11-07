@@ -1,5 +1,3 @@
-CharmReValance
-DamageValuesRewritten
 Fast World
 GeoPots
 GeoBundles
