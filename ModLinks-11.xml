@@ -9215,9 +9215,9 @@ Enjoy!</Description>
     <Manifest>
         <Name>Godhome Elo Counter</Name>
         <Description>A mod that introduces an ELO rating system to Godhome</Description>
-        <Version>1.2.0.0</Version>
-        <Link SHA256="5F1FDA16E11DF9032DFF5A394F3B36414C990FB56C6860B20BD4C05FD36360E4">
-            <![CDATA[https://github.com/Oery/Godhome-Elo-Counter/releases/download/v1.2/GodhomeEloCounter-v1.2.zip]]>
+        <Version>1.4.1.0</Version>
+        <Link SHA256="86078E2C5A1513DB44CA00261DDBAFA155CC498240C5D2ED8E7D67D69D3CECB0">
+            <![CDATA[https://github.com/Oery/Godhome-Elo-Counter/releases/download/v1.4.1/GodhomeEloCounter-v1.4.1.zip]]>
         </Link>
         <Dependencies>
             <Dependency>Satchel</Dependency>
