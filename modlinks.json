@@ -8042,6 +8042,25 @@
       "SFGrenade"
     ]
   },
+  "Restore NKG Title Card": {
+    "description": "Restore Godhome NKG Title Card",
+    "version": "1.0.0.0",
+    "links": {
+      "type": "universal",
+      "sha256": "0980A46529098168B4FD927441E7BCD3287E0FA01DFCF84ECFCA8DE899800721",
+      "url": "https://github.com/hien-ngo29/HKSimpleModCollection/releases/download/main/GodHomeNKGTitleCard.zip"
+    },
+    "dependencies": [
+      "Satchel"
+    ],
+    "repository": "https://github.com/hien-ngo29/HKSimpleModCollection/tree/master/GodhomeNKGTitleCard",
+    "tags": [
+      "Cosmetic"
+    ],
+    "authors": [
+      "Hien Ngo"
+    ]
+  },
   "ReverseKnight": {
     "description": "The knight... look a little strange...",
     "version": "1.0.0.0",

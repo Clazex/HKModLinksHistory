@@ -43,6 +43,14 @@
 - Tags
   + Gameplay
 
+### Restore NKG Title Card
+
+- Description: Restore Godhome NKG Title Card
+- Dependencies
+  + Satchel
+- Tags
+  + Cosmetic
+
 
 ## Updated mods
 
@@ -73,10 +81,6 @@
 ### Golden Godhome
 
 - Version: 0.1.1.0 -> 1.1.0.0
-
-### HKMP
-
-- Version: 2.4.2.0 -> 2.4.3.0
 
 ### INFINITY
 

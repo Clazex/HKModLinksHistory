@@ -1,4 +1,3 @@
-HKMP
 Golden Godhome
 MyHK
 CharmPatch

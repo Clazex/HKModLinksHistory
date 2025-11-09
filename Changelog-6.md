@@ -3,12 +3,20 @@
 
 ## New mods
 
-### BetterCrystalHeart
+### InfectedHallownest
 
-- Description: Adds synergies and bonuses to Crystal Heart&#x27;s damage and charge time.
-- Dependencies
-  + DanielSteginkUtils
-  + Satchel
+- Description: Adds a new stage to the game: after beating the Hollow Knight, the Infection expands throughout the game, strengthening enemies at random.
 - Tags
   + Gameplay
+
+
+## Updated mods
+
+### Architect
+
+- Version: 1.16.15.1 -> 1.17.0.0
+
+### VendorRando
+
+- Version: 1.0.2.0 -> 1.0.2.1
 

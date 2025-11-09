@@ -3,20 +3,19 @@
 
 ## New mods
 
-### BetterCrystalHeart
-
-- Description: Adds synergies and bonuses to Crystal Heart&#x27;s damage and charge time.
-- Dependencies
-  + DanielSteginkUtils
-  + Satchel
-- Tags
-  + Gameplay
-
 ### InfectedHallownest
 
 - Description: Adds a new stage to the game: after beating the Hollow Knight, the Infection expands throughout the game, strengthening enemies at random.
 - Tags
   + Gameplay
+
+### Restore NKG Title Card
+
+- Description: Restore Godhome NKG Title Card
+- Dependencies
+  + Satchel
+- Tags
+  + Cosmetic
 
 
 ## Updated mods
