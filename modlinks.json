@@ -7694,6 +7694,22 @@
       "Randomizer 4"
     ]
   },
+  "RandoSBRCO": {
+    "description": "Adds logic to the randomizer to ensure that a given charm order can be followed",
+    "version": "1.1.3.0",
+    "links": {
+      "type": "universal",
+      "sha256": "F75D331816216863A7B8F476CFB26ADEE06A513BCAACE2391BAEB4CB02D05788",
+      "url": "https://github.com/dpinela/RandoSBRCO/releases/download/v1.1.3/RandoSBRCO.zip"
+    },
+    "dependencies": [
+      "Randomizer 4"
+    ],
+    "repository": "https://github.com/dpinela/RandoSBRCO",
+    "integrations": [
+      "RandoSettingsManager"
+    ]
+  },
   "RandoSettingsManager": {
     "description": "A Hollow Knight mod that reimplements and extends Randomizer's settings sharing and preset management with rich support for connection mods.",
     "version": "1.2.8489.20",

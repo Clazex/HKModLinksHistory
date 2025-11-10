@@ -3,11 +3,13 @@
 
 ## New mods
 
-### InfectedHallownest
+### RandoSBRCO
 
-- Description: Adds a new stage to the game: after beating the Hollow Knight, the Infection expands throughout the game, strengthening enemies at random.
-- Tags
-  + Gameplay
+- Description: Adds logic to the randomizer to ensure that a given charm order can be followed
+- Dependencies
+  + Randomizer 4
+- Integrations
+  + RandoSettingsManager
 
 ### Restore NKG Title Card
 
@@ -20,11 +22,7 @@
 
 ## Updated mods
 
-### Architect
-
-- Version: 1.16.15.1 -> 1.17.0.0
-
 ### VendorRando
 
-- Version: 1.0.2.0 -> 1.0.2.2
+- Version: 1.0.2.1 -> 1.0.2.2
 
