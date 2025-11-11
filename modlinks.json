@@ -3765,11 +3765,11 @@
   },
   "GeoPots": {
     "description": "Adds a chance for carts and barrels to drop geo when broken.",
-    "version": "1.0.0.0",
+    "version": "1.1.0.0",
     "links": {
       "type": "universal",
-      "sha256": "194CC71F267E4BB7211513405E7ED40A163E90D6B8EA8F01287783AC7749DFD4",
-      "url": "https://github.com/danielstegink/HollowKnight.GeoPots/releases/download/1.0.0.0/GeoPots.zip"
+      "sha256": "75311034D5C13D3540B6ABD534BC232ECD25B88596994E623F8BA36BBCBDDCB9",
+      "url": "https://github.com/danielstegink/HollowKnight.GeoPots/releases/download/1.1.0.0/GeoPots.zip"
     },
     "dependencies": [],
     "repository": "https://github.com/danielstegink/HollowKnight.GeoPots",
