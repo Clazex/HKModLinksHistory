@@ -12,3 +12,4 @@ Architect
 VendorRando
 VendorRando
 GeoPots
+ExaltationExpanded

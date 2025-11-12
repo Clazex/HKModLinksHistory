@@ -19,3 +19,5 @@ VendorRando
 Restore NKG Title Card
 RandoSBRCO
 GeoPots
+ExaltationExpanded
+GodhomeGeo

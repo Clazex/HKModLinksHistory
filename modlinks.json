@@ -2968,11 +2968,11 @@
   },
   "ExaltationExpanded": {
     "description": "A fan-made supplement to the Exaltation mod created by Xhuis (and ported/updated by Théodore).",
-    "version": "1.5.4.0",
+    "version": "1.5.5.0",
     "links": {
       "type": "universal",
-      "sha256": "DF7280D760E92159E4DD373355D500D6434844312C53F72D1498436D6FD25741",
-      "url": "https://github.com/danielstegink/HollowKnight.ExaltationExpanded/releases/download/1.5.4.0/ExaltationExpanded.zip"
+      "sha256": "F465291B7615FD385554389058430579CB4048D444B9A308425D3F07D99FDD06",
+      "url": "https://github.com/danielstegink/HollowKnight.ExaltationExpanded/releases/download/1.5.5.0/ExaltationExpanded.zip"
     },
     "dependencies": [
       "DanielSteginkUtils",
@@ -3920,6 +3920,23 @@
     ],
     "authors": [
       "Roy"
+    ]
+  },
+  "GodhomeGeo": {
+    "description": "Removes the limitation that prevents geo from spawning in Godhome.",
+    "version": "1.0.0.0",
+    "links": {
+      "type": "universal",
+      "sha256": "F57F30536A683060D9A802E99E2066C697BB2C530AC96A0A3272B451363F6B74",
+      "url": "https://github.com/cometcake575/GodhomeGeo/releases/download/1.0.0.0/GodhomeGeo.zip"
+    },
+    "dependencies": [],
+    "repository": "https://github.com/cometcake575/GodhomeGeo",
+    "tags": [
+      "Gameplay"
+    ],
+    "authors": [
+      "cometcake575"
     ]
   },
   "GodhomeRandomizer": {

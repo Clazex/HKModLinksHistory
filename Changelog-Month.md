@@ -37,6 +37,12 @@
 - Tags
   + Gameplay
 
+### GodhomeGeo
+
+- Description: Removes the limitation that prevents geo from spawning in Godhome.
+- Tags
+  + Gameplay
+
 ### InfectedHallownest
 
 - Description: Adds a new stage to the game: after beating the Hollow Knight, the Infection expands throughout the game, strengthening enemies at random.
@@ -80,7 +86,7 @@
 
 ### ExaltationExpanded
 
-- Version: 1.5.3.0 -> 1.5.4.0
+- Version: 1.5.3.0 -> 1.5.5.0
 
 ### Godhome Elo Counter
 

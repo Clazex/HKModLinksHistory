@@ -3,6 +3,12 @@
 
 ## New mods
 
+### GodhomeGeo
+
+- Description: Removes the limitation that prevents geo from spawning in Godhome.
+- Tags
+  + Gameplay
+
 ### RandoSBRCO
 
 - Description: Adds logic to the randomizer to ensure that a given charm order can be followed
@@ -21,6 +27,10 @@
 
 
 ## Updated mods
+
+### ExaltationExpanded
+
+- Version: 1.5.4.0 -> 1.5.5.0
 
 ### GeoPots
 
