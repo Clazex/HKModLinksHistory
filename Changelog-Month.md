@@ -43,6 +43,14 @@
 - Tags
   + Gameplay
 
+### GripWall
+
+- Description: Reduces or eliminates gravity effect while clinging to a wall.
+- Dependencies
+  + HKMirror
+- Tags
+  + Gameplay
+
 ### InfectedHallownest
 
 - Description: Adds a new stage to the game: after beating the Hollow Knight, the Infection expands throughout the game, strengthening enemies at random.
@@ -65,12 +73,18 @@
 - Tags
   + Cosmetic
 
+### ShadeSnail
+
+- Description: Spawns an immortal Shade that follows you constantly.
+- Tags
+  + Gameplay
+
 
 ## Updated mods
 
 ### Architect
 
-- Version: 1.16.15.0 -> 1.17.0.0
+- Version: 1.16.15.0 -> 1.18.0.2
 
 ### CharmPatch
 
@@ -91,10 +105,6 @@
 ### Godhome Elo Counter
 
 - Version: 1.2.0.0 -> 1.4.1.0
-
-### Golden Godhome
-
-- Version: 0.1.1.0 -> 1.1.0.0
 
 ### INFINITY
 

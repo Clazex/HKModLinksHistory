@@ -426,11 +426,11 @@
   },
   "Architect": {
     "description": "A level editor mod, allowing you to customise Hollow Knight by adding or removing platforms, enemies and more with an in-game level editor and level sharer.",
-    "version": "1.17.0.0",
+    "version": "1.18.0.2",
     "links": {
       "type": "universal",
-      "sha256": "E3F26241276269D4430A489786338AAE5B213C80E4360605DB85263954B49678",
-      "url": "https://github.com/cometcake575/Architect/releases/download/1.17.0.0/Architect.zip"
+      "sha256": "22C8E81E5453C6BD1F2CB46DD525C8F7C27C1D7EF0CBC232B8A733BD4F7B190D",
+      "url": "https://github.com/cometcake575/Architect/releases/download/1.18.0.2/Architect.zip"
     },
     "dependencies": [
       "MagicUI",
@@ -685,11 +685,11 @@
   },
   "BetterCrystalHeart": {
     "description": "Adds synergies and bonuses to Crystal Heart's damage and charge time.",
-    "version": "1.0.0.0",
+    "version": "1.1.0.0",
     "links": {
       "type": "universal",
-      "sha256": "09B9AD04E7CE232B91C2E2992953950A7A89863158856BBE8FC5C775AB9A5055",
-      "url": "https://github.com/danielstegink/HollowKnight.BetterCrystalHeart/releases/download/1.0.0.0/BetterCrystalHeart.zip"
+      "sha256": "739F1F1D1A9A2FA5EDAAFE3A318D14485CBAB6FF84CA1853A033C322F0D53D96",
+      "url": "https://github.com/danielstegink/HollowKnight.BetterCrystalHeart/releases/download/1.1.0.0/BetterCrystalHeart.zip"
     },
     "dependencies": [
       "DanielSteginkUtils",
@@ -4142,6 +4142,25 @@
     ],
     "authors": [
       "Exempt-Medic"
+    ]
+  },
+  "GripWall": {
+    "description": "Reduces or eliminates gravity effect while clinging to a wall.",
+    "version": "1.0.0.0",
+    "links": {
+      "type": "universal",
+      "sha256": "06BF981A224AA83CEDEF19BC06EEEEFAC4107BF3CCE1744A087EA07EC8CE3041",
+      "url": "https://github.com/danielstegink/HollowKnight.GripWall/releases/download/1.0.0.0/GripWall.zip"
+    },
+    "dependencies": [
+      "HKMirror"
+    ],
+    "repository": "https://github.com/danielstegink/HollowKnight.GripWall",
+    "tags": [
+      "Gameplay"
+    ],
+    "authors": [
+      "DanielStegink"
     ]
   },
   "Grub Names": {
@@ -8492,6 +8511,23 @@
     "repository": "https://github.com/ygsbzr/HollowKnight.ShadeControl/",
     "tags": [
       "Utility"
+    ]
+  },
+  "ShadeSnail": {
+    "description": "Spawns an immortal Shade that follows you constantly.",
+    "version": "1.0.0.0",
+    "links": {
+      "type": "universal",
+      "sha256": "DB3D6934A0AA0C34127B39FED1482F28BA3E0D7E62397AA86A28D00FDCCBECAF",
+      "url": "https://github.com/danielstegink/HollowKnight.ShadeSnail/releases/download/1.0.0.0/ShadeSnail.zip"
+    },
+    "dependencies": [],
+    "repository": "https://github.com/danielstegink/HollowKnight.ShadeSnail",
+    "tags": [
+      "Gameplay"
+    ],
+    "authors": [
+      "DanielStegink"
     ]
   },
   "ShadesAnywhere": {

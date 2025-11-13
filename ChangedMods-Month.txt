@@ -1,4 +1,3 @@
-Golden Godhome
 MyHK
 CharmPatch
 DanielSteginkUtils
@@ -21,3 +20,7 @@ RandoSBRCO
 GeoPots
 ExaltationExpanded
 GodhomeGeo
+Architect
+BetterCrystalHeart
+GripWall
+ShadeSnail

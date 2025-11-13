@@ -1,4 +1,3 @@
-Golden Godhome
 MyHK
 CharmPatch
 DanielSteginkUtils
@@ -13,3 +12,5 @@ VendorRando
 VendorRando
 GeoPots
 ExaltationExpanded
+Architect
+BetterCrystalHeart
