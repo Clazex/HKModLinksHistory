@@ -84,7 +84,7 @@
 
 ### Architect
 
-- Version: 1.16.15.0 -> 1.18.0.2
+- Version: 1.16.15.0 -> 1.18.0.3
 
 ### CharmPatch
 
@@ -109,10 +109,6 @@
 ### INFINITY
 
 - Version: 0.0.10.0 -> 0.0.12.0
-
-### MyHK
-
-- Version: 1.2.0.3 -> 1.2.0.4
 
 ### TheHuntIsOn
 

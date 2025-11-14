@@ -1,13 +1,9 @@
 # Changelog
 
 
-## New mods
+## Updated mods
 
-### RandoSBRCO
+### GeoPots
 
-- Description: Adds logic to the randomizer to ensure that a given charm order can be followed
-- Dependencies
-  + Randomizer 4
-- Integrations
-  + RandoSettingsManager
+- Version: 1.0.0.0 -> 1.1.0.0
 
