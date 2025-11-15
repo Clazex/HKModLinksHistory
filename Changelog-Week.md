@@ -25,14 +25,6 @@
 - Integrations
   + RandoSettingsManager
 
-### Restore NKG Title Card
-
-- Description: Restore Godhome NKG Title Card
-- Dependencies
-  + Satchel
-- Tags
-  + Cosmetic
-
 ### ShadeSnail
 
 - Description: Spawns an immortal Shade that follows you constantly.
