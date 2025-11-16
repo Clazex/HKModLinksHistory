@@ -1,6 +1,3 @@
-CharmPatch
-DanielSteginkUtils
-ExaltationExpanded
 INFINITY
 EnchantedMask
 TheHuntIsOn
@@ -14,3 +11,5 @@ ExaltationExpanded
 Architect
 BetterCrystalHeart
 Architect
+BetterCrystalHeart
+GripWall

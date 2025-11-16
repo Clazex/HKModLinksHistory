@@ -17,14 +17,6 @@
 - Tags
   + Gameplay
 
-### RandoSBRCO
-
-- Description: Adds logic to the randomizer to ensure that a given charm order can be followed
-- Dependencies
-  + Randomizer 4
-- Integrations
-  + RandoSettingsManager
-
 ### ShadeSnail
 
 - Description: Spawns an immortal Shade that follows you constantly.
@@ -40,7 +32,7 @@
 
 ### BetterCrystalHeart
 
-- Version: 1.0.0.0 -> 1.1.0.0
+- Version: 1.0.0.0 -> 1.1.1.0
 
 ### ExaltationExpanded
 

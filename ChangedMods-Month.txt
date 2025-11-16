@@ -1,6 +1,3 @@
-CharmPatch
-DanielSteginkUtils
-ExaltationExpanded
 INFINITY
 EnchantedMask
 Fast World
@@ -24,3 +21,5 @@ BetterCrystalHeart
 GripWall
 ShadeSnail
 Architect
+BetterCrystalHeart
+GripWall
