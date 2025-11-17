@@ -1,4 +1,3 @@
-INFINITY
 EnchantedMask
 Fast World
 TheHuntIsOn

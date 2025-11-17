@@ -98,10 +98,6 @@
 
 - Version: 1.2.0.0 -> 1.4.1.0
 
-### INFINITY
-
-- Version: 0.0.10.0 -> 0.0.12.0
-
 ### TheHuntIsOn
 
 - Version: 1.0.0.0 -> 1.1.0.0

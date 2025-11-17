@@ -1,14 +1,9 @@
 # Changelog
 
 
-## New mods
+## Updated mods
 
-### GeoBundles
+### Architect
 
-- Description: Store Geo in &quot;bundles&quot; to protect it from loss upon death, similar to rosary strings in silksong.
-- Dependencies
-  + SFCore
-- Tags
-  + Gameplay
-  + Utility
+- Version: 1.16.15.0 -> 1.16.15.1
 

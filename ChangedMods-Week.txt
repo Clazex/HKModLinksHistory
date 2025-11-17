@@ -1,4 +1,3 @@
-GeoPots
 ExaltationExpanded
 GodhomeGeo
 Architect
