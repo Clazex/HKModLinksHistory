@@ -86,10 +86,6 @@
 
 - Version: 1.16.15.0 -> 1.18.0.3
 
-### EnchantedMask
-
-- Version: 1.3.0.0 -> 1.4.0.0
-
 ### ExaltationExpanded
 
 - Version: 1.5.4.0 -> 1.5.5.0
