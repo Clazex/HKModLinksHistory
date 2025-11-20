@@ -12,6 +12,13 @@
 - Tags
   + Gameplay
 
+### DoodleBosses
+
+- Description: The culmination of the Doodle Boss project of the HKM community. All the bosses are now adorable doodles!
+- Tags
+  + Boss
+  + Cosmetic
+
 ### Fast World
 
 - Description: Making your Hallownest more challenging by changing speed of the entire world, except you!

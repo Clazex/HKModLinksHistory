@@ -2618,6 +2618,41 @@
       "DanielStegink"
     ]
   },
+  "DoodleBosses": {
+    "description": "The culmination of the Doodle Boss project of the HKM community. All the bosses are now adorable doodles!",
+    "version": "0.9.0.0",
+    "links": {
+      "type": "universal",
+      "sha256": "19A76F4BD224E06ABF661F1C8A391C6467C14DEAC1A40B34BEB91DCC39EFCF3C",
+      "url": "https://github.com/thegodfriend/DoodleBosses/releases/download/v0.9.0/DoodleBosses.zip"
+    },
+    "dependencies": [],
+    "repository": "https://github.com/thegodfriend/DoodleBosses",
+    "tags": [
+      "Boss",
+      "Cosmetic"
+    ],
+    "authors": [
+      "AceiestArtist",
+      "Akivaq",
+      "Chaktis",
+      "Dandy",
+      "DaveyTheDuck",
+      "FailedVessel",
+      "Godfriend",
+      "HooKnows",
+      "Hotspring",
+      "Jex111",
+      "KaziVuri",
+      "MTmerm",
+      "MinishLink",
+      "RocketFire20",
+      "Torny",
+      "flame-shadow",
+      "ikea-ballpit",
+      "lime"
+    ]
+  },
   "DoubleJumpFix": {
     "description": "A mod to fix the notorious bug that the double jump is sometimes not properly canceled",
     "version": "1.0.0.0",

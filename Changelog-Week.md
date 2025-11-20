@@ -1,11 +1,17 @@
 # Changelog
 
 
+## New mods
+
+### DoodleBosses
+
+- Description: The culmination of the Doodle Boss project of the HKM community. All the bosses are now adorable doodles!
+- Tags
+  + Boss
+  + Cosmetic
+
+
 ## Updated mods
-
-### Architect
-
-- Version: 1.18.0.2 -> 1.18.0.3
 
 ### BetterCrystalHeart
 
