@@ -3,6 +3,14 @@
 
 ## New mods
 
+### AllGrubRewardsAtOnce
+
+- Description: Grubfather gives all available rewards in one go.
+- Dependencies
+  + Satchel
+- Tags
+  + Gameplay
+
 ### DoodleBosses
 
 - Description: The culmination of the Doodle Boss project of the HKM community. All the bosses are now adorable doodles!
@@ -13,11 +21,14 @@
 
 ## Updated mods
 
-### BetterCrystalHeart
+### MapChanger
 
-- Version: 1.1.0.0 -> 1.1.1.0
+- Version: 1.3.10.0 -> 1.3.11.0
 
-### GripWall
+### ShadeSnail
 
-- Version: 1.0.0.0 -> 1.0.1.1
+- Version: 1.0.0.0 -> 1.1.0.0
+- Dependencies
+  + Added
+    - Satchel
 

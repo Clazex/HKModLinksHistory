@@ -9,3 +9,4 @@ GodhomeGeo
 GripWall
 ShadeSnail
 DoodleBosses
+AllGrubRewardsAtOnce

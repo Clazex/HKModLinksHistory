@@ -3,6 +3,14 @@
 
 ## New mods
 
+### AllGrubRewardsAtOnce
+
+- Description: Grubfather gives all available rewards in one go.
+- Dependencies
+  + Satchel
+- Tags
+  + Gameplay
+
 ### BetterCrystalHeart
 
 - Description: Adds synergies and bonuses to Crystal Heart&#x27;s damage and charge time.
@@ -83,6 +91,8 @@
 ### ShadeSnail
 
 - Description: Spawns an immortal Shade that follows you constantly.
+- Dependencies
+  + Satchel
 - Tags
   + Gameplay
 
@@ -100,6 +110,10 @@
 ### Godhome Elo Counter
 
 - Version: 1.2.0.0 -> 1.4.1.0
+
+### MapChanger
+
+- Version: 1.3.10.0 -> 1.3.11.0
 
 ### TheHuntIsOn
 

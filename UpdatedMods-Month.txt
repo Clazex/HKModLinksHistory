@@ -11,3 +11,5 @@ BetterCrystalHeart
 Architect
 BetterCrystalHeart
 GripWall
+MapChanger
+ShadeSnail

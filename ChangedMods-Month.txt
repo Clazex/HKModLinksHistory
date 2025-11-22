@@ -22,3 +22,6 @@ Architect
 BetterCrystalHeart
 GripWall
 DoodleBosses
+AllGrubRewardsAtOnce
+MapChanger
+ShadeSnail

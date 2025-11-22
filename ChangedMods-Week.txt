@@ -1,3 +1,4 @@
-BetterCrystalHeart
-GripWall
 DoodleBosses
+AllGrubRewardsAtOnce
+MapChanger
+ShadeSnail
