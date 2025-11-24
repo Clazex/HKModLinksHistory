@@ -27,16 +27,6 @@
   + Boss
   + Cosmetic
 
-### Fast World
-
-- Description: Making your Hallownest more challenging by changing speed of the entire world, except you!
-- Dependencies
-  + HKMirror
-  + Sanic
-  + Satchel
-- Tags
-  + Gameplay
-
 ### GeoBundles
 
 - Description: Store Geo in &quot;bundles&quot; to protect it from loss upon death, similar to rosary strings in silksong.
@@ -71,6 +61,14 @@
 - Description: Adds a new stage to the game: after beating the Hollow Knight, the Infection expands throughout the game, strengthening enemies at random.
 - Tags
   + Gameplay
+
+### Nosk Transformation
+
+- Description: Become Nosk at will—roar, spit, leap, and prank your friends in Hollow Knight, with stealth naming and HKMP support.
+- Dependencies
+  + Satchel
+- Tags
+  + Joke
 
 ### RandoSBRCO
 
@@ -115,9 +113,13 @@
 
 - Version: 1.3.10.0 -> 1.3.11.0
 
-### TheHuntIsOn
+### MylaFlower
 
-- Version: 1.0.0.0 -> 1.1.0.0
+- Version: 2.0.0.1 -> 2.0.1.0
+
+### RandoMapCore
+
+- Version: 1.0.16.0 -> 1.0.17.0
 
 ### VendorRando
 

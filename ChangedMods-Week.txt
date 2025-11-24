@@ -2,3 +2,7 @@ DoodleBosses
 AllGrubRewardsAtOnce
 MapChanger
 ShadeSnail
+DoodleBosses
+MylaFlower
+Nosk Transformation
+RandoMapCore

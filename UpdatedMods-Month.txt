@@ -1,4 +1,3 @@
-TheHuntIsOn
 Godhome Elo Counter
 Architect
 Architect
@@ -13,3 +12,6 @@ BetterCrystalHeart
 GripWall
 MapChanger
 ShadeSnail
+DoodleBosses
+MylaFlower
+RandoMapCore

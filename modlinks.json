@@ -2639,11 +2639,11 @@
   },
   "DoodleBosses": {
     "description": "The culmination of the Doodle Boss project of the HKM community. All the bosses are now adorable doodles!",
-    "version": "0.9.0.0",
+    "version": "0.9.1.0",
     "links": {
       "type": "universal",
-      "sha256": "19A76F4BD224E06ABF661F1C8A391C6467C14DEAC1A40B34BEB91DCC39EFCF3C",
-      "url": "https://github.com/thegodfriend/DoodleBosses/releases/download/v0.9.0/DoodleBosses.zip"
+      "sha256": "5F6059CA26712FA6F139CA05BEA0956BCF87049C36B5F0E9E47E7A0F285C15E4",
+      "url": "https://github.com/thegodfriend/DoodleBosses/releases/download/v0.9.1/DoodleBosses.zip"
     },
     "dependencies": [],
     "repository": "https://github.com/thegodfriend/DoodleBosses",
@@ -6416,11 +6416,11 @@
   },
   "MylaFlower": {
     "description": "Protect Myla from the infection by bringing her a flower.",
-    "version": "2.0.0.1",
+    "version": "2.0.1.0",
     "links": {
       "type": "universal",
-      "sha256": "406829F219E0F7CED28D3CB1120396897FA285D55BC427F031E8801D42F2843A",
-      "url": "https://github.com/flibber-hk/HollowKnight.MylaFlower/releases/download/v2.0.0.1/MylaFlower.zip"
+      "sha256": "0C7023523D7DAC9AB9C6FC345F4410892C0EF87EA298C17B03EB0C9ED4330854",
+      "url": "https://github.com/flibber-hk/HollowKnight.MylaFlower/releases/download/v2.0.1.0/MylaFlower.zip"
     },
     "dependencies": [
       "Vasi"
@@ -6679,6 +6679,25 @@
     "repository": "https://github.com/HK-Modding-Preservation/Box074/",
     "tags": [
       "Boss"
+    ]
+  },
+  "Nosk Transformation": {
+    "description": "Become Nosk at will—roar, spit, leap, and prank your friends in Hollow Knight, with stealth naming and HKMP support.",
+    "version": "1.0.0.0",
+    "links": {
+      "type": "universal",
+      "sha256": "27774EDD53772107101264009255F0C6D440F0356E3EDFFC28471CA58DA0ED78",
+      "url": "https://github.com/TwangyMoney/Nosk-Transformation/releases/download/1.0.0/Nosk_Transformation.zip"
+    },
+    "dependencies": [
+      "Satchel"
+    ],
+    "repository": "https://github.com/TwangyMoney/Nosk-Transformation",
+    "tags": [
+      "Joke"
+    ],
+    "authors": [
+      "Twangy Money"
     ]
   },
   "NotSpikesmas": {
@@ -7708,11 +7727,11 @@
   },
   "RandoMapCore": {
     "description": "A library for RandoMapMod and ArchipelagoMapMod.",
-    "version": "1.0.16.0",
+    "version": "1.0.17.0",
     "links": {
       "type": "universal",
-      "sha256": "BEFF106C3766D9C455EB702D4BB7215B8809C2C250A0ABC147127D5C610C7B7A",
-      "url": "https://github.com/syyePhenomenol/RandoMapCore/releases/download/v1.0.16/RandoMapCore.zip"
+      "sha256": "CB7A8A8F93AD78FB12FC19FC5E71667BAAD877AC79920D95C8800741E5911403",
+      "url": "https://github.com/syyePhenomenol/RandoMapCore/releases/download/v1.0.17/RandoMapCore.zip"
     },
     "dependencies": [
       "ConnectionMetadataInjector",
