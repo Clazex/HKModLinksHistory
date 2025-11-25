@@ -6616,6 +6616,23 @@
       "Mulhima"
     ]
   },
+  "NoMaps": {
+    "description": "Removes the map from the screen",
+    "version": "1.0.0.0",
+    "links": {
+      "type": "universal",
+      "sha256": "0DD656EA38A7959C2C86F191278D3B81067E2C7865A9123622E36A0E2899079F",
+      "url": "https://github.com/Nutellka1/NoMaps/releases/download/NoMaps-v1.1/NoMapUI.zip"
+    },
+    "dependencies": [],
+    "repository": "https://github.com/Nutellka1/NoMaps",
+    "tags": [
+      "Gameplay"
+    ],
+    "authors": [
+      "Nutellka1"
+    ]
+  },
   "NoSpiders": {
     "description": "A mod to remove the spiders in the foreground of deepnest",
     "version": "1.2.0.0",

@@ -62,6 +62,12 @@
 - Tags
   + Gameplay
 
+### NoMaps
+
+- Description: Removes the map from the screen
+- Tags
+  + Gameplay
+
 ### Nosk Transformation
 
 - Description: Become Nosk at will—roar, spit, leap, and prank your friends in Hollow Knight, with stealth naming and HKMP support.

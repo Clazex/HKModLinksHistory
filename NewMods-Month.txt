@@ -10,3 +10,4 @@ ShadeSnail
 DoodleBosses
 AllGrubRewardsAtOnce
 Nosk Transformation
+NoMaps
