@@ -11,13 +11,6 @@
 - Tags
   + Gameplay
 
-### DoodleBosses
-
-- Description: The culmination of the Doodle Boss project of the HKM community. All the bosses are now adorable doodles!
-- Tags
-  + Boss
-  + Cosmetic
-
 ### NoMaps
 
 - Description: Removes the map from the screen
@@ -34,6 +27,10 @@
 
 
 ## Updated mods
+
+### DoodleBosses
+
+- Version: 0.9.0.0 -> 0.9.1.0
 
 ### MapChanger
 

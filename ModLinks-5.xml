@@ -7446,9 +7446,9 @@ Enjoy!</Description>
     <Manifest>
         <Name>MapChanger</Name>
         <Description>A library for map mods.</Description>
-        <Version>1.3.10.0</Version>
-        <Link SHA256="FB49D6FD21E6B1B0440CDC8BFA977F71504F8B75B5F78E22E2E4F49F3F9EFE64">
-            <![CDATA[https://github.com/syyePhenomenol/MapChanger/releases/download/v1.3.10/MapChanger.zip]]>
+        <Version>1.3.11.0</Version>
+        <Link SHA256="0EC9097AE010CCBC68304BD337F133099DB79DA4BE58737B863E488726C0911D">
+            <![CDATA[https://github.com/syyePhenomenol/MapChanger/releases/download/v1.3.11/MapChanger.zip]]>
         </Link>
         <Dependencies>
             <Dependency>MagicUI</Dependency>
@@ -10714,12 +10714,13 @@ Enjoy!</Description>
 	<Manifest>
         <Name>ShadeSnail</Name>
         <Description>Spawns an immortal Shade that follows you constantly.</Description>
-        <Version>1.0.0.0</Version>
-        <Link SHA256="DB3D6934A0AA0C34127B39FED1482F28BA3E0D7E62397AA86A28D00FDCCBECAF">
-            <![CDATA[https://github.com/danielstegink/HollowKnight.ShadeSnail/releases/download/1.0.0.0/ShadeSnail.zip]]>
+        <Version>1.1.0.0</Version>
+        <Link SHA256="90e6539b2974f53967c2d70ac36bf9e5a1a26edafb76c58f24101c9c4d94f87f">
+            <![CDATA[https://github.com/danielstegink/HollowKnight.ShadeSnail/releases/download/1.1.0.0/ShadeSnail.zip]]>
         </Link>
         <Dependencies>
-        </Dependencies>
+			<Dependency>Satchel</Dependency>
+		</Dependencies>
         <Repository>
             <![CDATA[https://github.com/danielstegink/HollowKnight.ShadeSnail]]>
         </Repository>
@@ -10742,6 +10743,26 @@ Enjoy!</Description>
         </Dependencies>
         <Repository>
             <![CDATA[https://github.com/danielstegink/HollowKnight.GripWall]]>
+        </Repository>
+        <Tags>
+            <Tag>Gameplay</Tag>
+        </Tags>
+        <Authors>
+            <Author>DanielStegink</Author>
+        </Authors>
+    </Manifest>
+	<Manifest>
+        <Name>AllGrubRewardsAtOnce</Name>
+        <Description>Grubfather gives all available rewards in one go.</Description>
+        <Version>1.0.0.0</Version>
+        <Link SHA256="D54B915878B397AA1594894C0CD28FBFDB1E9C0F47DBDFC8BEB104575748544F">
+            <![CDATA[https://github.com/danielstegink/HollowKnight.AllGrubRewardsAtOnce/releases/download/1.0.0.0/AllGrubRewardsAtOnce.zip]]>
+        </Link>
+        <Dependencies>
+			<Dependency>Satchel</Dependency>
+        </Dependencies>
+        <Repository>
+            <![CDATA[https://github.com/danielstegink/HollowKnight.AllGrubRewardsAtOnce]]>
         </Repository>
         <Tags>
             <Tag>Gameplay</Tag>

@@ -1,4 +1,3 @@
-DoodleBosses
 AllGrubRewardsAtOnce
 Nosk Transformation
 NoMaps
