@@ -111,10 +111,6 @@
 
 - Version: 1.5.4.0 -> 1.5.5.0
 
-### Godhome Elo Counter
-
-- Version: 1.2.0.0 -> 1.4.1.0
-
 ### MapChanger
 
 - Version: 1.3.10.0 -> 1.3.11.0

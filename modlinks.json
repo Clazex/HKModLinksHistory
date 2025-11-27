@@ -6703,8 +6703,8 @@
     "version": "1.0.0.0",
     "links": {
       "type": "universal",
-      "sha256": "27774EDD53772107101264009255F0C6D440F0356E3EDFFC28471CA58DA0ED78",
-      "url": "https://github.com/TwangyMoney/Nosk-Transformation/releases/download/1.0.0/Nosk_Transformation.zip"
+      "sha256": "F3538FEA43664A0C272B1DB9F34396CE10CBD777306BA428824102C3EC1C8D2E",
+      "url": "https://github.com/TwangyMoney/Nosk-Transformation/releases/download/1.0.0.0/Nosk_Transformation.zip"
     },
     "dependencies": [
       "Satchel"

@@ -1,4 +1,3 @@
-Godhome Elo Counter
 GeoPots
 GeoBundles
 Architect
