@@ -1,5 +1,3 @@
-MapChanger
-ShadeSnail
 DoodleBosses
 MylaFlower
 RandoMapCore

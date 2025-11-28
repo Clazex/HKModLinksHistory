@@ -36,12 +36,6 @@
   + Gameplay
   + Utility
 
-### GeoPots
-
-- Description: Adds a chance for carts and barrels to drop geo when broken.
-- Tags
-  + Gameplay
-
 ### GodhomeGeo
 
 - Description: Removes the limitation that prevents geo from spawning in Godhome.
@@ -110,6 +104,10 @@
 ### ExaltationExpanded
 
 - Version: 1.5.4.0 -> 1.5.5.0
+
+### GeoPots
+
+- Version: 1.0.0.0 -> 1.1.0.0
 
 ### MapChanger
 

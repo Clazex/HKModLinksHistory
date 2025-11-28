@@ -1,4 +1,3 @@
-GeoPots
 GeoBundles
 BetterCrystalHeart
 InfectedHallownest

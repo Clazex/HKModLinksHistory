@@ -2642,8 +2642,8 @@
     "version": "0.9.1.0",
     "links": {
       "type": "universal",
-      "sha256": "5F6059CA26712FA6F139CA05BEA0956BCF87049C36B5F0E9E47E7A0F285C15E4",
-      "url": "https://github.com/thegodfriend/DoodleBosses/releases/download/v0.9.1/DoodleBosses.zip"
+      "sha256": "364CC4238964FA3D48282D96CF5C1907A6B53D0D891006C9038989B7502374F1",
+      "url": "https://github.com/thegodfriend/DoodleBosses/releases/download/v0.9.2/DoodleBosses.zip"
     },
     "dependencies": [],
     "repository": "https://github.com/thegodfriend/DoodleBosses",
@@ -2660,11 +2660,11 @@
       "FailedVessel",
       "Godfriend",
       "HooKnows",
-      "Hotspring",
       "Jex111",
       "KaziVuri",
       "MTmerm",
       "MinishLink",
+      "RiverRobot",
       "RocketFire20",
       "Torny",
       "flame-shadow",
