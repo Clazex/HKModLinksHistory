@@ -32,3 +32,7 @@
 
 - Version: 1.0.16.0 -> 1.0.17.0
 
+### ReplayLogger
+
+- Version: 1.0.0.5 -> 1.0.0.6
+

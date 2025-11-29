@@ -27,15 +27,6 @@
   + Boss
   + Cosmetic
 
-### GeoBundles
-
-- Description: Store Geo in &quot;bundles&quot; to protect it from loss upon death, similar to rosary strings in silksong.
-- Dependencies
-  + SFCore
-- Tags
-  + Gameplay
-  + Utility
-
 ### GodhomeGeo
 
 - Description: Removes the limitation that prevents geo from spawning in Godhome.
@@ -120,6 +111,10 @@
 ### RandoMapCore
 
 - Version: 1.0.16.0 -> 1.0.17.0
+
+### ReplayLogger
+
+- Version: 1.0.0.5 -> 1.0.0.6
 
 ### VendorRando
 

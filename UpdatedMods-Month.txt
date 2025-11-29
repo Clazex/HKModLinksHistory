@@ -14,3 +14,4 @@ ShadeSnail
 DoodleBosses
 MylaFlower
 RandoMapCore
+ReplayLogger

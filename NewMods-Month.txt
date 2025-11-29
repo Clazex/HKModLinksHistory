@@ -1,4 +1,3 @@
-GeoBundles
 BetterCrystalHeart
 InfectedHallownest
 Restore NKG Title Card

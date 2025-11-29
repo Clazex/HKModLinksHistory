@@ -3,3 +3,4 @@ MylaFlower
 Nosk Transformation
 RandoMapCore
 NoMaps
+ReplayLogger
