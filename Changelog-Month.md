@@ -90,7 +90,7 @@
 
 ### Architect
 
-- Version: 1.16.15.0 -> 1.18.0.3
+- Version: 1.16.15.1 -> 1.18.0.3
 
 ### ExaltationExpanded
 
