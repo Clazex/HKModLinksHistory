@@ -25,3 +25,4 @@ Nosk Transformation
 RandoMapCore
 NoMaps
 ReplayLogger
+ReplayLogger

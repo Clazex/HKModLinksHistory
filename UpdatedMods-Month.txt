@@ -14,3 +14,4 @@ DoodleBosses
 MylaFlower
 RandoMapCore
 ReplayLogger
+ReplayLogger

@@ -3,11 +3,11 @@
 
 ## New mods
 
-### Restore NKG Title Card
+### RandoSBRCO
 
-- Description: Restore Godhome NKG Title Card
+- Description: Adds logic to the randomizer to ensure that a given charm order can be followed
 - Dependencies
-  + Satchel
-- Tags
-  + Cosmetic
+  + Randomizer 4
+- Integrations
+  + RandoSettingsManager
 
