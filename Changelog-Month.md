@@ -11,15 +11,6 @@
 - Tags
   + Gameplay
 
-### BetterCrystalHeart
-
-- Description: Adds synergies and bonuses to Crystal Heart&#x27;s damage and charge time.
-- Dependencies
-  + DanielSteginkUtils
-  + Satchel
-- Tags
-  + Gameplay
-
 ### DoodleBosses
 
 - Description: The culmination of the Doodle Boss project of the HKM community. All the bosses are now adorable doodles!
@@ -91,6 +82,10 @@
 ### Architect
 
 - Version: 1.16.15.1 -> 1.18.0.3
+
+### BetterCrystalHeart
+
+- Version: 1.0.0.0 -> 1.1.1.0
 
 ### ExaltationExpanded
 

@@ -9777,9 +9777,9 @@ Enjoy!</Description>
     <Manifest>
         <Name>Architect</Name>
         <Description>A level editor mod, allowing you to customise Hollow Knight by adding or removing platforms, enemies and more with an in-game level editor and level sharer.</Description>
-        <Version>1.17.0.0</Version>
-        <Link SHA256="e3f26241276269d4430a489786338aae5b213c80e4360605db85263954b49678">
-            <![CDATA[https://github.com/cometcake575/Architect/releases/download/1.17.0.0/Architect.zip]]>
+        <Version>1.18.0.2</Version>
+        <Link SHA256="22c8e81e5453c6bd1f2cb46dd525c8f7c27c1d7ef0cbc232b8a733bd4f7b190d">
+            <![CDATA[https://github.com/cometcake575/Architect/releases/download/1.18.0.2/Architect.zip]]>
         </Link>
         <Dependencies>
             <Dependency>Satchel</Dependency>
@@ -10588,9 +10588,9 @@ Enjoy!</Description>
 	<Manifest>
         <Name>BetterCrystalHeart</Name>
         <Description>Adds synergies and bonuses to Crystal Heart's damage and charge time.</Description>
-        <Version>1.0.0.0</Version>
-        <Link SHA256="09b9ad04e7ce232b91c2e2992953950a7a89863158856bbe8fc5c775ab9a5055">
-            <![CDATA[https://github.com/danielstegink/HollowKnight.BetterCrystalHeart/releases/download/1.0.0.0/BetterCrystalHeart.zip]]>
+        <Version>1.1.0.0</Version>
+        <Link SHA256="739f1f1d1a9a2fa5edaafe3a318d14485cbab6ff84ca1853a033c322f0d53d96">
+            <![CDATA[https://github.com/danielstegink/HollowKnight.BetterCrystalHeart/releases/download/1.1.0.0/BetterCrystalHeart.zip]]>
         </Link>
         <Dependencies>
 			<Dependency>DanielSteginkUtils</Dependency>
@@ -10675,6 +10675,45 @@ Enjoy!</Description>
         </Tags>
         <Authors>
             <Author>cometcake575</Author>
+        </Authors>
+    </Manifest>
+	<Manifest>
+        <Name>ShadeSnail</Name>
+        <Description>Spawns an immortal Shade that follows you constantly.</Description>
+        <Version>1.0.0.0</Version>
+        <Link SHA256="DB3D6934A0AA0C34127B39FED1482F28BA3E0D7E62397AA86A28D00FDCCBECAF">
+            <![CDATA[https://github.com/danielstegink/HollowKnight.ShadeSnail/releases/download/1.0.0.0/ShadeSnail.zip]]>
+        </Link>
+        <Dependencies>
+        </Dependencies>
+        <Repository>
+            <![CDATA[https://github.com/danielstegink/HollowKnight.ShadeSnail]]>
+        </Repository>
+        <Tags>
+            <Tag>Gameplay</Tag>
+        </Tags>
+        <Authors>
+            <Author>DanielStegink</Author>
+        </Authors>
+    </Manifest>
+	<Manifest>
+        <Name>GripWall</Name>
+        <Description>Reduces or eliminates gravity effect while clinging to a wall.</Description>
+        <Version>1.0.0.0</Version>
+        <Link SHA256="06bf981a224aa83cedef19bc06eeeefac4107bf3cce1744a087ea07ec8ce3041">
+            <![CDATA[https://github.com/danielstegink/HollowKnight.GripWall/releases/download/1.0.0.0/GripWall.zip]]>
+        </Link>
+        <Dependencies>
+			<Dependency>HKMirror</Dependency>
+        </Dependencies>
+        <Repository>
+            <![CDATA[https://github.com/danielstegink/HollowKnight.GripWall]]>
+        </Repository>
+        <Tags>
+            <Tag>Gameplay</Tag>
+        </Tags>
+        <Authors>
+            <Author>DanielStegink</Author>
         </Authors>
     </Manifest>
 </ModLinks>
