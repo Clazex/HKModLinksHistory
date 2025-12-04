@@ -1,4 +1,3 @@
-VendorRando
 GeoPots
 ExaltationExpanded
 Architect
@@ -13,3 +12,4 @@ MylaFlower
 RandoMapCore
 ReplayLogger
 ReplayLogger
+SpeedChanger

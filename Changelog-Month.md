@@ -70,6 +70,12 @@
 - Tags
   + Gameplay
 
+### Wingy
+
+- Description: Supplemental mod for the clawless bingy community
+- Dependencies
+  + Satchel
+
 
 ## Updated mods
 
@@ -105,7 +111,7 @@
 
 - Version: 1.0.0.5 -> 1.0.0.7
 
-### VendorRando
+### SpeedChanger
 
-- Version: 1.0.2.1 -> 1.0.2.2
+- Version: 1.1.3.1 -> 1.1.3.2
 
