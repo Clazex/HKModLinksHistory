@@ -13,3 +13,5 @@ RandoMapCore
 ReplayLogger
 ReplayLogger
 SpeedChanger
+SafeGodseekerQoL
+ShadeSnail

@@ -1,4 +1,5 @@
 ReplayLogger
-ReplayLogger
 SpeedChanger
 Wingy
+SafeGodseekerQoL
+ShadeSnail

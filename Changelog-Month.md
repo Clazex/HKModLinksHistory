@@ -111,6 +111,10 @@
 
 - Version: 1.0.0.5 -> 1.0.0.7
 
+### SafeGodseekerQoL
+
+- Version: 1.0.0.1 -> 1.0.0.2
+
 ### SpeedChanger
 
 - Version: 1.1.3.1 -> 1.1.3.2

@@ -14,7 +14,15 @@
 
 ### ReplayLogger
 
-- Version: 1.0.0.5 -> 1.0.0.7
+- Version: 1.0.0.6 -> 1.0.0.7
+
+### SafeGodseekerQoL
+
+- Version: 1.0.0.1 -> 1.0.0.2
+
+### ShadeSnail
+
+- Version: 1.1.0.0 -> 1.2.0.0
 
 ### SpeedChanger
 
