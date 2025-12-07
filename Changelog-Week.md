@@ -12,10 +12,6 @@
 
 ## Updated mods
 
-### ReplayLogger
-
-- Version: 1.0.0.6 -> 1.0.0.7
-
 ### SafeGodseekerQoL
 
 - Version: 1.0.0.1 -> 1.0.0.2
