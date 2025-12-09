@@ -2,3 +2,4 @@ SpeedChanger
 Wingy
 SafeGodseekerQoL
 ShadeSnail
+DoodleBosses

@@ -15,3 +15,4 @@ ReplayLogger
 SpeedChanger
 SafeGodseekerQoL
 ShadeSnail
+DoodleBosses

@@ -13,7 +13,7 @@
 
 ### DoodleBosses
 
-- Description: The culmination of the Doodle Boss project of the HKM community. All the bosses are now adorable doodles!
+- Description: The culmination of the Doodle Boss project of the HKM community. All the bosses are now adorable doodles! Artist credits can be found in the Readme and in-game.
 - Tags
   + Boss
   + Cosmetic
@@ -45,14 +45,6 @@
   + Satchel
 - Tags
   + Joke
-
-### RandoSBRCO
-
-- Description: Adds logic to the randomizer to ensure that a given charm order can be followed
-- Dependencies
-  + Randomizer 4
-- Integrations
-  + RandoSettingsManager
 
 ### ShadeSnail
 

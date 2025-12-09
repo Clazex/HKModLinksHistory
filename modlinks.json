@@ -2638,12 +2638,12 @@
     ]
   },
   "DoodleBosses": {
-    "description": "The culmination of the Doodle Boss project of the HKM community. All the bosses are now adorable doodles!",
-    "version": "0.9.1.0",
+    "description": "The culmination of the Doodle Boss project of the HKM community. All the bosses are now adorable doodles! Artist credits can be found in the Readme and in-game.",
+    "version": "0.9.4.0",
     "links": {
       "type": "universal",
-      "sha256": "364CC4238964FA3D48282D96CF5C1907A6B53D0D891006C9038989B7502374F1",
-      "url": "https://github.com/thegodfriend/DoodleBosses/releases/download/v0.9.2/DoodleBosses.zip"
+      "sha256": "CEB7A506DF5C0F888885B4BC9A024A71D5DF64D97278047A45E79B4E9F99AF02",
+      "url": "https://github.com/thegodfriend/DoodleBosses/releases/download/v0.9.4/DoodleBosses.zip"
     },
     "dependencies": [],
     "repository": "https://github.com/thegodfriend/DoodleBosses",
@@ -2652,24 +2652,7 @@
       "Cosmetic"
     ],
     "authors": [
-      "AceiestArtist",
-      "Akivaq",
-      "Chaktis",
-      "Dandy",
-      "DaveyTheDuck",
-      "FailedVessel",
-      "Godfriend",
-      "HooKnows",
-      "Jex111",
-      "KaziVuri",
-      "MTmerm",
-      "MinishLink",
-      "RiverRobot",
-      "RocketFire20",
-      "Torny",
-      "flame-shadow",
-      "ikea-ballpit",
-      "lime"
+      "Godfriend"
     ]
   },
   "DoubleJumpFix": {
