@@ -8235,11 +8235,11 @@
   },
   "Rope Rando": {
     "description": "Adds the rope / chandelier in the Watcher Knights boss room to Randomizer 4.",
-    "version": "1.1.0.0",
+    "version": "1.1.2.0",
     "links": {
       "type": "universal",
-      "sha256": "6EB5239EBC99D71BA9648BB0228F30C20D10ED6FDC0CCF8431E828491B3C07BC",
-      "url": "https://github.com/ManicJamie/HollowKnight.RopeRando/releases/download/v1.1/RopeRando.zip"
+      "sha256": "0FC5FC2B3FB9BB93E406BD18300942425A3D883AFB1609DFE5BE3E0CC98B6A5C",
+      "url": "https://github.com/ManicJamie/HollowKnight.RopeRando/releases/download/v1.1.2/RopeRando.zip"
     },
     "dependencies": [
       "Randomizer 4",
@@ -8292,14 +8292,15 @@
   },
   "SafeGodseekerQoL": {
     "description": "This mod is useful for challenge runners who don't want their runs to be accidentally affected by QoL mods.",
-    "version": "1.0.0.2",
+    "version": "1.0.0.3",
     "links": {
       "type": "universal",
-      "sha256": "DF6FBE3BED27237C88CB71650C7107137627209D671CC1B225A852F496F40343",
-      "url": "https://github.com/NightFuryoOo/SafeGodSeekerQoL/releases/download/v1.0.0.2/SafeGodseekerQoL.zip"
+      "sha256": "908C3EEF9FBB3CDAD61EAE2B068E8F36055CD8416D355FD94EF4DED246947EFF",
+      "url": "https://github.com/NightFuryoOo/SafeGodSeekerQoL/releases/download/v1.0.0.3/SafeGodseekerQoL.zip"
     },
     "dependencies": [
       "Osmi",
+      "SFCore",
       "Satchel",
       "Vasi"
     ],

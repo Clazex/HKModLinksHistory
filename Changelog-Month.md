@@ -75,10 +75,6 @@
 
 - Version: 1.5.4.0 -> 1.5.5.0
 
-### GeoPots
-
-- Version: 1.0.0.0 -> 1.1.0.0
-
 ### MapChanger
 
 - Version: 1.3.10.0 -> 1.3.11.0
@@ -95,9 +91,16 @@
 
 - Version: 1.0.0.5 -> 1.0.0.7
 
+### Rope Rando
+
+- Version: 1.1.0.0 -> 1.1.2.0
+
 ### SafeGodseekerQoL
 
-- Version: 1.0.0.1 -> 1.0.0.2
+- Version: 1.0.0.1 -> 1.0.0.3
+- Dependencies
+  + Added
+    - SFCore
 
 ### SpeedChanger
 
