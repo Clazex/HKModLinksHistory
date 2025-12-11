@@ -9826,9 +9826,9 @@ Enjoy!</Description>
     <Manifest>
         <Name>ExaltationExpanded</Name>
         <Description>A fan-made supplement to the Exaltation mod created by Xhuis (and ported/updated by Théodore).</Description>
-        <Version>1.5.4.0</Version>
-        <Link SHA256="df7280d760e92159e4dd373355d500d6434844312c53f72d1498436d6fd25741">
-            <![CDATA[https://github.com/danielstegink/HollowKnight.ExaltationExpanded/releases/download/1.5.4.0/ExaltationExpanded.zip]]>
+        <Version>1.5.5.0</Version>
+        <Link SHA256="f465291b7615fd385554389058430579cb4048d444b9a308425d3f07d99fdd06">
+            <![CDATA[https://github.com/danielstegink/HollowKnight.ExaltationExpanded/releases/download/1.5.5.0/ExaltationExpanded.zip]]>
         </Link>
         <Dependencies>
             <Dependency>Exaltation</Dependency>
@@ -10657,5 +10657,24 @@ Enjoy!</Description>
         <Integrations>
             <Integration>RandoSettingsManager</Integration>
         </Integrations>
+    </Manifest>
+    <Manifest>
+        <Name>GodhomeGeo</Name>
+        <Description>Removes the limitation that prevents geo from spawning in Godhome.</Description>
+        <Version>1.0.0.0</Version>
+		<Link SHA256="f57f30536a683060d9a802e99e2066c697bb2c530ac96a0a3272b451363f6b74">
+            <![CDATA[https://github.com/cometcake575/GodhomeGeo/releases/download/1.0.0.0/GodhomeGeo.zip]]>
+        </Link>
+        <Dependencies>
+        </Dependencies>
+        <Repository>
+            <![CDATA[https://github.com/cometcake575/GodhomeGeo]]>
+        </Repository>
+        <Tags>
+            <Tag>Gameplay</Tag>
+        </Tags>
+        <Authors>
+            <Author>cometcake575</Author>
+        </Authors>
     </Manifest>
 </ModLinks>
