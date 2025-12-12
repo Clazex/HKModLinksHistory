@@ -1,7 +1,5 @@
 Architect
 BetterCrystalHeart
-Architect
-BetterCrystalHeart
 GripWall
 MapChanger
 ShadeSnail
@@ -15,4 +13,5 @@ SafeGodseekerQoL
 ShadeSnail
 DoodleBosses
 Rope Rando
+SafeGodseekerQoL
 SafeGodseekerQoL

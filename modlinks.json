@@ -8292,11 +8292,11 @@
   },
   "SafeGodseekerQoL": {
     "description": "This mod is useful for challenge runners who don't want their runs to be accidentally affected by QoL mods.",
-    "version": "1.0.0.3",
+    "version": "1.0.0.4",
     "links": {
       "type": "universal",
-      "sha256": "908C3EEF9FBB3CDAD61EAE2B068E8F36055CD8416D355FD94EF4DED246947EFF",
-      "url": "https://github.com/NightFuryoOo/SafeGodSeekerQoL/releases/download/v1.0.0.3/SafeGodseekerQoL.zip"
+      "sha256": "D509861E5803B81359E85FC381E326DD4455F699B6177DFC75BA1CC8F6792433",
+      "url": "https://github.com/NightFuryoOo/SafeGodSeekerQoL/releases/download/v1.0.0.4/SafeGodseekerQoL.zip"
     },
     "dependencies": [
       "Osmi",

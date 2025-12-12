@@ -1,5 +1,3 @@
-GripWall
-ShadeSnail
 DoodleBosses
 AllGrubRewardsAtOnce
 Nosk Transformation
