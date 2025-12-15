@@ -11,6 +11,12 @@
 - Tags
   + Gameplay
 
+### CabbyCodes
+
+- Description: A comprehensive cheat menu mod that provides control over player stats, inventory, and game state through an in-game interface
+- Tags
+  + Utility
+
 ### DoodleBosses
 
 - Description: The culmination of the Doodle Boss project of the HKM community. All the bosses are now adorable doodles! Artist credits can be found in the Readme and in-game.
@@ -40,14 +46,6 @@
 
 
 ## Updated mods
-
-### BetterCrystalHeart
-
-- Version: 1.1.0.0 -> 1.1.1.0
-
-### GripWall
-
-- Version: 1.0.0.0 -> 1.0.1.1
 
 ### MapChanger
 

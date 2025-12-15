@@ -1,5 +1,3 @@
-BetterCrystalHeart
-GripWall
 DoodleBosses
 AllGrubRewardsAtOnce
 MapChanger
@@ -19,3 +17,4 @@ DoodleBosses
 Rope Rando
 SafeGodseekerQoL
 SafeGodseekerQoL
+CabbyCodes

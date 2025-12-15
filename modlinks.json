@@ -1063,6 +1063,24 @@
       "Purenail"
     ]
   },
+  "CabbyCodes": {
+    "description": "A comprehensive cheat menu mod that provides control over player stats, inventory, and game state through an in-game interface",
+    "version": "1.4.1.0",
+    "links": {
+      "type": "universal",
+      "sha256": "49B187B6F68509279AB19323B1EB5BB3AFD1D7F74C0595EFE5DEA8B77348EAEC",
+      "url": "https://github.com/SirCabby/HKCabbyCodes/releases/download/lumafly_v1.4.1/CabbyCodes_Lumafly_v1.4.1.zip"
+    },
+    "dependencies": [],
+    "repository": "https://github.com/SirCabby/HKCabbyCodes",
+    "issues": "https://github.com/SirCabby/HKCabbyCodes/issues",
+    "tags": [
+      "Utility"
+    ],
+    "authors": [
+      "SirCabby"
+    ]
+  },
   "Cagney Carnation": {
     "description": "Hollow Knight mod that adds Cagney Carnation boss from Cuphead.",
     "version": "1.0.3.0",
