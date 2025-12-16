@@ -9,17 +9,18 @@
 - Tags
   + Utility
 
+### NoGlow
+
+- Description: Toggles the faint glow that follows the Knight around.
+- Dependencies
+  + Satchel
+- Tags
+  + Gameplay
+
 
 ## Updated mods
 
-### Rope Rando
-
-- Version: 1.1.0.0 -> 1.1.2.0
-
 ### SafeGodseekerQoL
 
-- Version: 1.0.0.2 -> 1.0.0.4
-- Dependencies
-  + Added
-    - SFCore
+- Version: 1.0.0.3 -> 1.0.0.4
 

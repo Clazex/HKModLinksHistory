@@ -18,3 +18,4 @@ Rope Rando
 SafeGodseekerQoL
 SafeGodseekerQoL
 CabbyCodes
+NoGlow

@@ -6617,6 +6617,25 @@
       "Mulhima"
     ]
   },
+  "NoGlow": {
+    "description": "Toggles the faint glow that follows the Knight around.",
+    "version": "1.0.0.0",
+    "links": {
+      "type": "universal",
+      "sha256": "2B009CA9C7211A1F2586E894DB6FC4247966067F30B7781D43DDAD822CF163CB",
+      "url": "https://github.com/danielstegink/HollowKnight.NoGlow/releases/download/1.0.0.0/NoGlow.zip"
+    },
+    "dependencies": [
+      "Satchel"
+    ],
+    "repository": "https://github.com/danielstegink/HollowKnight.NoGlow",
+    "tags": [
+      "Gameplay"
+    ],
+    "authors": [
+      "DanielStegink"
+    ]
+  },
   "NoMaps": {
     "description": "Removes the map from the screen",
     "version": "1.0.0.0",

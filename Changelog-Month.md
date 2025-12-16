@@ -24,6 +24,14 @@
   + Boss
   + Cosmetic
 
+### NoGlow
+
+- Description: Toggles the faint glow that follows the Knight around.
+- Dependencies
+  + Satchel
+- Tags
+  + Gameplay
+
 ### NoMaps
 
 - Description: Removes the map from the screen
