@@ -19,3 +19,5 @@ SafeGodseekerQoL
 SafeGodseekerQoL
 CabbyCodes
 NoGlow
+Silksong Healing
+VendorRando

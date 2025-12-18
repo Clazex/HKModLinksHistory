@@ -8772,12 +8772,12 @@
     ]
   },
   "Silksong Healing": {
-    "description": "Adds a charm called Soulburst, which allows players to instantly heal 3 masks when they have 99 soul, similar to Silksong",
-    "version": "1.1.0.2",
+    "description": "Adds a charm called Soulburst, which allows players to heal 3 masks at once when they have 99 soul, similar to Silksong",
+    "version": "2.0.0.0",
     "links": {
       "type": "universal",
-      "sha256": "F66BBA7A181E0EB9FD330CC30F8F703B6A1F4DB4F282BBC05B6D0F2CAABC0899",
-      "url": "https://github.com/hien-ngo29/SilksongHealing/releases/download/v1.1.0.2/SilksongHealing.zip"
+      "sha256": "F4E9EE2BBF437779D1C9F452B1953B6967E662CE18BABAF6C1BF0CF97519B5FA",
+      "url": "https://github.com/hien-ngo29/SilksongHealing/releases/download/v2.0.0.0/SilksongHealing.zip"
     },
     "dependencies": [
       "SFCore",
@@ -9976,11 +9976,11 @@
   },
   "VendorRando": {
     "description": "A Randomizer add-on that randomizes the physical locations of vendors",
-    "version": "1.0.2.2",
+    "version": "1.1.0.0",
     "links": {
       "type": "universal",
-      "sha256": "28783DF0AF34F2E6D5314CB864F60A2F05408A4F669E22695DF9987EB607D387",
-      "url": "https://github.com/TheMathGeek314/VendorRando/releases/download/v1.0.2.2/VendorRando.zip"
+      "sha256": "FC63FAF4E811D69A55AF721C1D6594AE5829AB77CE0E493AEB517DB424110033",
+      "url": "https://github.com/TheMathGeek314/VendorRando/releases/download/v1.1.0.0/VendorRando.zip"
     },
     "dependencies": [
       "ConnectionMetadataInjector",

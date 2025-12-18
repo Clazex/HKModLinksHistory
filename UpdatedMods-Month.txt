@@ -12,3 +12,5 @@ DoodleBosses
 Rope Rando
 SafeGodseekerQoL
 SafeGodseekerQoL
+Silksong Healing
+VendorRando
