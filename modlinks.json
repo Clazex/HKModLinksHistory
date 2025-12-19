@@ -7268,11 +7268,11 @@
   },
   "PlatformingQoL": {
     "description": "Quality of life improvements for Hollow Knight platforming, including hitbox visualization and respawn animation skipping.",
-    "version": "1.0.0.0",
+    "version": "1.1.0.0",
     "links": {
       "type": "universal",
-      "sha256": "E4137618BBD64D89606BDCEE1C1A36885C42D5ADA711635782E283B24256FD0B",
-      "url": "https://github.com/Ishmael-GameDev/Platforming-QoL-mod/releases/download/PlatformingQoL-v1.0.0/Platforming.QoL.zip"
+      "sha256": "90DA8C54DCB4537523C8C759D208D1683DAAE7076155298510781BDF06D57BD7",
+      "url": "https://github.com/Ishmael-GameDev/Platforming-QoL-mod/releases/download/PlatformingQoL-v1.1.0/Platforming.QoL.zip"
     },
     "dependencies": [],
     "repository": "https://github.com/Ishmael-GameDev/Platforming-QoL-mod",
@@ -8773,11 +8773,11 @@
   },
   "Silksong Healing": {
     "description": "Adds a charm called Soulburst, which allows players to heal 3 masks at once when they have 99 soul, similar to Silksong",
-    "version": "2.0.0.0",
+    "version": "2.0.0.1",
     "links": {
       "type": "universal",
-      "sha256": "F4E9EE2BBF437779D1C9F452B1953B6967E662CE18BABAF6C1BF0CF97519B5FA",
-      "url": "https://github.com/hien-ngo29/SilksongHealing/releases/download/v2.0.0.0/SilksongHealing.zip"
+      "sha256": "8577E1F9EDA5B8DD46DC33360E3387FFA7D5F1C44C345DBAD4B59FC3A8EF8D4F",
+      "url": "https://github.com/hien-ngo29/SilksongHealing/releases/download/v2.0.0.1/SilksongHealing.zip"
     },
     "dependencies": [
       "SFCore",

@@ -17,13 +17,6 @@
 - Tags
   + Utility
 
-### DoodleBosses
-
-- Description: The culmination of the Doodle Boss project of the HKM community. All the bosses are now adorable doodles! Artist credits can be found in the Readme and in-game.
-- Tags
-  + Boss
-  + Cosmetic
-
 ### NoGlow
 
 - Description: Toggles the faint glow that follows the Knight around.
@@ -55,6 +48,13 @@
 
 ## Updated mods
 
+### DoodleBosses
+
+- Version: 0.9.0.0 -> 0.9.4.0
+- Description
+  + Old: The culmination of the Doodle Boss project of the HKM community. All the bosses are now adorable doodles!
+  + New: The culmination of the Doodle Boss project of the HKM community. All the bosses are now adorable doodles! Artist credits can be found in the Readme and in-game.
+
 ### MapChanger
 
 - Version: 1.3.10.0 -> 1.3.11.0
@@ -62,6 +62,10 @@
 ### MylaFlower
 
 - Version: 2.0.0.1 -> 2.0.1.0
+
+### PlatformingQoL
+
+- Version: 1.0.0.0 -> 1.1.0.0
 
 ### RandoMapCore
 
@@ -91,7 +95,7 @@
 
 ### Silksong Healing
 
-- Version: 1.1.0.2 -> 2.0.0.0
+- Version: 1.1.0.2 -> 2.0.0.1
 - Description
   + Old: Adds a charm called Soulburst, which allows players to instantly heal 3 masks when they have 99 soul, similar to Silksong
   + New: Adds a charm called Soulburst, which allows players to heal 3 masks at once when they have 99 soul, similar to Silksong

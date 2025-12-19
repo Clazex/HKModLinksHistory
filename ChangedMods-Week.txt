@@ -2,3 +2,5 @@ CabbyCodes
 NoGlow
 Silksong Healing
 VendorRando
+PlatformingQoL
+Silksong Healing

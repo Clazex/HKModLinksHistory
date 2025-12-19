@@ -14,3 +14,5 @@ SafeGodseekerQoL
 SafeGodseekerQoL
 Silksong Healing
 VendorRando
+PlatformingQoL
+Silksong Healing
