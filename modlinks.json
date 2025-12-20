@@ -1356,19 +1356,6 @@
       "Exempt-Medic"
     ]
   },
-  "Charm ReValance": {
-    "description": "Dummy mod. Install the dependency \"CharmReValance\" directly.",
-    "version": "9.9.9.9",
-    "links": {
-      "type": "universal",
-      "sha256": "00280F51FB9F3030B4F1BBBAD3AB29082A706994E4FAF783AA955054673BC74B",
-      "url": "https://github.com/SFGrenade/EmptyMod/releases/download/v9.9.9.9/EmptyMod.zip"
-    },
-    "dependencies": [
-      "CharmReValance"
-    ],
-    "repository": "https://github.com/SFGrenade/EmptyMod/"
-  },
   "CharmPatch": {
     "description": "This is a collection of small changes that I think improve the balance of certain charms in the game. Please view Readme for Charm Changer mod recommendations.",
     "version": "1.7.0.1",
@@ -2137,19 +2124,6 @@
       "kon4ino"
     ]
   },
-  "CustomizableNailDamage": {
-    "description": "Dummy mod. Install the dependency \"CustomizableAbilities\" directly.",
-    "version": "9.9.9.9",
-    "links": {
-      "type": "universal",
-      "sha256": "00280F51FB9F3030B4F1BBBAD3AB29082A706994E4FAF783AA955054673BC74B",
-      "url": "https://github.com/SFGrenade/EmptyMod/releases/download/v9.9.9.9/EmptyMod.zip"
-    },
-    "dependencies": [
-      "CustomizableAbilities"
-    ],
-    "repository": "https://github.com/SFGrenade/EmptyMod/"
-  },
   "Cyclone Real Combat": {
     "description": "Removed the learn Cyclone cutscene in and replaced it with real combat",
     "version": "0.0.0.0",
@@ -2217,32 +2191,6 @@
     "authors": [
       "kon4ino"
     ]
-  },
-  "Damage Values Rewritten": {
-    "description": "Dummy mod. Install the dependency \"DamageValuesRewritten\" directly.",
-    "version": "9.9.9.9",
-    "links": {
-      "type": "universal",
-      "sha256": "00280F51FB9F3030B4F1BBBAD3AB29082A706994E4FAF783AA955054673BC74B",
-      "url": "https://github.com/SFGrenade/EmptyMod/releases/download/v9.9.9.9/EmptyMod.zip"
-    },
-    "dependencies": [
-      "DamageValuesRewritten"
-    ],
-    "repository": "https://github.com/SFGrenade/EmptyMod/"
-  },
-  "DamageValues": {
-    "description": "Dummy mod. Install the dependency \"DamageValuesRewritten\" directly.",
-    "version": "9.9.9.9",
-    "links": {
-      "type": "universal",
-      "sha256": "00280F51FB9F3030B4F1BBBAD3AB29082A706994E4FAF783AA955054673BC74B",
-      "url": "https://github.com/SFGrenade/EmptyMod/releases/download/v9.9.9.9/EmptyMod.zip"
-    },
-    "dependencies": [
-      "DamageValuesRewritten"
-    ],
-    "repository": "https://github.com/SFGrenade/EmptyMod/"
   },
   "DamageValuesRewritten": {
     "description": "Display damage values when enemies suffer damage",
@@ -3994,6 +3942,26 @@
       "cometcake575"
     ]
   },
+  "GodhomeQoL": {
+    "description": "This mod is useful for challenge runners who don't want their runs to be accidentally affected by QoL mods.",
+    "version": "1.0.0.5",
+    "links": {
+      "type": "universal",
+      "sha256": "6C79C0BEE2E90D9FC6D5E4197B62D934B6DEF13AF5AAC126ED7FB6BDEC85DC0E",
+      "url": "https://github.com/NightFuryoOo/GodhomeQoL/releases/download/v1.0.0.5/GodhomeQoL.zip"
+    },
+    "dependencies": [
+      "Osmi",
+      "SFCore",
+      "Satchel",
+      "Vasi"
+    ],
+    "repository": "https://github.com/NightFuryoOo/GodhomeQoL",
+    "authors": [
+      "Egir",
+      "NightFuryo3o"
+    ]
+  },
   "GodhomeRandomizer": {
     "description": "A Randomizer add-on for Godhome elements.",
     "version": "2.2.4.10",
@@ -4517,19 +4485,6 @@
       "OliverGrack"
     ]
   },
-  "HK_QoLTeleportKit": {
-    "description": "Dummy mod. Install the dependency \"QoLTeleportKit\" directly.",
-    "version": "9.9.9.9",
-    "links": {
-      "type": "universal",
-      "sha256": "00280F51FB9F3030B4F1BBBAD3AB29082A706994E4FAF783AA955054673BC74B",
-      "url": "https://github.com/SFGrenade/EmptyMod/releases/download/v9.9.9.9/EmptyMod.zip"
-    },
-    "dependencies": [
-      "QoLTeleportKit"
-    ],
-    "repository": "https://github.com/SFGrenade/EmptyMod/"
-  },
   "HKmote": {
     "description": "Use emotes during multiplayer",
     "version": "1.4.0.0",
@@ -4803,19 +4758,6 @@
     "authors": [
       "TheMathGeek_314"
     ]
-  },
-  "Hollow Knight Achievement Manager": {
-    "description": "Dummy mod. Install the dependency \"HollowKnightAchievementManager\" directly.",
-    "version": "9.9.9.9",
-    "links": {
-      "type": "universal",
-      "sha256": "00280F51FB9F3030B4F1BBBAD3AB29082A706994E4FAF783AA955054673BC74B",
-      "url": "https://github.com/SFGrenade/EmptyMod/releases/download/v9.9.9.9/EmptyMod.zip"
-    },
-    "dependencies": [
-      "HollowKnightAchievementManager"
-    ],
-    "repository": "https://github.com/SFGrenade/EmptyMod/"
   },
   "HollowKnightAchievementManager": {
     "description": "Allows to manage Hollow Knight achievements, both vanilla and modded. Also syncs them with the online store of choice (GOG, Steam, XBox). Also allows to un-/lock menu themes and game modes.",
@@ -7181,19 +7123,6 @@
       "Gameplay"
     ]
   },
-  "Peaking Peeking Peaks": {
-    "description": "Dummy mod. Install the dependency \"PeakingPeekingPeaks\" directly.",
-    "version": "9.9.9.9",
-    "links": {
-      "type": "universal",
-      "sha256": "00280F51FB9F3030B4F1BBBAD3AB29082A706994E4FAF783AA955054673BC74B",
-      "url": "https://github.com/SFGrenade/EmptyMod/releases/download/v9.9.9.9/EmptyMod.zip"
-    },
-    "dependencies": [
-      "PeakingPeekingPeaks"
-    ],
-    "repository": "https://github.com/SFGrenade/EmptyMod/"
-  },
   "PeakingPeekingPeaks": {
     "description": "This mods aims to make the Crystal Peak name more memorable.",
     "version": "1.5.0.0",
@@ -7373,19 +7302,6 @@
       "Null_993"
     ]
   },
-  "PowerfulShadowDash": {
-    "description": "Dummy mod. Install the dependency \"Powerful Shadow Dash\" directly.",
-    "version": "9.9.9.9",
-    "links": {
-      "type": "universal",
-      "sha256": "00280F51FB9F3030B4F1BBBAD3AB29082A706994E4FAF783AA955054673BC74B",
-      "url": "https://github.com/SFGrenade/EmptyMod/releases/download/v9.9.9.9/EmptyMod.zip"
-    },
-    "dependencies": [
-      "Powerful Shadow Dash"
-    ],
-    "repository": "https://github.com/SFGrenade/EmptyMod/"
-  },
   "Propeller Knight": {
     "description": "Adds Propeller Knight from Shovel Knight to Hollow Knight.",
     "version": "1.0.0.0",
@@ -7471,19 +7387,6 @@
       "RandomizerCore.Json"
     ],
     "repository": "https://github.com/dplochcoder/HollowKnight.PurenailCore"
-  },
-  "PvP Arena": {
-    "description": "Dummy mod. Install the dependency \"PvpArena\" directly.",
-    "version": "9.9.9.9",
-    "links": {
-      "type": "universal",
-      "sha256": "00280F51FB9F3030B4F1BBBAD3AB29082A706994E4FAF783AA955054673BC74B",
-      "url": "https://github.com/SFGrenade/EmptyMod/releases/download/v9.9.9.9/EmptyMod.zip"
-    },
-    "dependencies": [
-      "PvpArena"
-    ],
-    "repository": "https://github.com/SFGrenade/EmptyMod/"
   },
   "PvpArena": {
     "description": "This mod adds a PvP arena with an invisible entrance right of the bench in Dirtmouth.",
@@ -8328,24 +8231,17 @@
     ]
   },
   "SafeGodseekerQoL": {
-    "description": "This mod is useful for challenge runners who don't want their runs to be accidentally affected by QoL mods.",
-    "version": "1.0.0.4",
+    "description": "Dummy mod. Install the dependency \"GodhomeQoL\" directly.",
+    "version": "9.9.9.9",
     "links": {
       "type": "universal",
-      "sha256": "D509861E5803B81359E85FC381E326DD4455F699B6177DFC75BA1CC8F6792433",
-      "url": "https://github.com/NightFuryoOo/SafeGodSeekerQoL/releases/download/v1.0.0.4/SafeGodseekerQoL.zip"
+      "sha256": "00280F51FB9F3030B4F1BBBAD3AB29082A706994E4FAF783AA955054673BC74B",
+      "url": "https://github.com/SFGrenade/EmptyMod/releases/download/v9.9.9.9/EmptyMod.zip"
     },
     "dependencies": [
-      "Osmi",
-      "SFCore",
-      "Satchel",
-      "Vasi"
+      "GodhomeQoL"
     ],
-    "repository": "https://github.com/NightFuryoOo/SafeGodSeekerQoL",
-    "authors": [
-      "Egir",
-      "NightFuryo3o"
-    ]
+    "repository": "https://github.com/SFGrenade/EmptyMod/"
   },
   "SaferWhitePalace": {
     "description": "Allows you to remove the dangers of White Palace",
@@ -9226,32 +9122,6 @@
       "ChouchIsCool"
     ]
   },
-  "Stories of a HK player - Chapter 1": {
-    "description": "Dummy mod. Install the dependency \"StoriesOfaHkPlayer-Ch1\" directly.",
-    "version": "9.9.9.9",
-    "links": {
-      "type": "universal",
-      "sha256": "00280F51FB9F3030B4F1BBBAD3AB29082A706994E4FAF783AA955054673BC74B",
-      "url": "https://github.com/SFGrenade/EmptyMod/releases/download/v9.9.9.9/EmptyMod.zip"
-    },
-    "dependencies": [
-      "StoriesOfaHkPlayer-Ch1"
-    ],
-    "repository": "https://github.com/SFGrenade/EmptyMod/"
-  },
-  "Stories of a HK player - Chapter 2": {
-    "description": "Dummy mod. Install the dependency \"StoriesOfaHkPlayer-Ch2\" directly.",
-    "version": "9.9.9.9",
-    "links": {
-      "type": "universal",
-      "sha256": "00280F51FB9F3030B4F1BBBAD3AB29082A706994E4FAF783AA955054673BC74B",
-      "url": "https://github.com/SFGrenade/EmptyMod/releases/download/v9.9.9.9/EmptyMod.zip"
-    },
-    "dependencies": [
-      "StoriesOfaHkPlayer-Ch2"
-    ],
-    "repository": "https://github.com/SFGrenade/EmptyMod/"
-  },
   "StoriesOfaHkPlayer-Ch1": {
     "description": "The start of a story of a Hollow Knight player and his personalized copy of the game.",
     "version": "1.5.1.0",
@@ -9321,19 +9191,6 @@
       "ROTTEN108"
     ]
   },
-  "Sunset Samsara II": {
-    "description": "Dummy mod. Install the dependency \"PURITY\" directly.",
-    "version": "9.9.9.9",
-    "links": {
-      "type": "universal",
-      "sha256": "00280F51FB9F3030B4F1BBBAD3AB29082A706994E4FAF783AA955054673BC74B",
-      "url": "https://github.com/SFGrenade/EmptyMod/releases/download/v9.9.9.9/EmptyMod.zip"
-    },
-    "dependencies": [
-      "PURITY"
-    ],
-    "repository": "https://github.com/SFGrenade/EmptyMod/"
-  },
   "SvgLib": {
     "description": "SVG parser and composer library for .NET Framework and .NET Core.",
     "version": "1.0.0.4",
@@ -9368,19 +9225,6 @@
     "authors": [
       "TheMathGeek_314"
     ]
-  },
-  "Test of Teamwork": {
-    "description": "Dummy mod. Install the dependency \"TestOfTeamwork\" directly.",
-    "version": "9.9.9.9",
-    "links": {
-      "type": "universal",
-      "sha256": "00280F51FB9F3030B4F1BBBAD3AB29082A706994E4FAF783AA955054673BC74B",
-      "url": "https://github.com/SFGrenade/EmptyMod/releases/download/v9.9.9.9/EmptyMod.zip"
-    },
-    "dependencies": [
-      "TestOfTeamwork"
-    ],
-    "repository": "https://github.com/SFGrenade/EmptyMod/"
   },
   "TestOfTeamwork": {
     "description": "Adds a Path of Pain style section to the White Palace.\nStart by talking to people in and around dirtmouth.\nThis is a singleplayer mod. The \"teamwork\" refers to in-game events.",
@@ -10236,19 +10080,6 @@
       "TheMathGeek_314",
       "nerthul11"
     ]
-  },
-  "Zaliants Surprise": {
-    "description": "Dummy mod. Install the dependency \"ZaliantsSurprise\" directly.",
-    "version": "9.9.9.9",
-    "links": {
-      "type": "universal",
-      "sha256": "00280F51FB9F3030B4F1BBBAD3AB29082A706994E4FAF783AA955054673BC74B",
-      "url": "https://github.com/SFGrenade/EmptyMod/releases/download/v9.9.9.9/EmptyMod.zip"
-    },
-    "dependencies": [
-      "ZaliantsSurprise"
-    ],
-    "repository": "https://github.com/SFGrenade/EmptyMod/"
   },
   "ZaliantsSurprise": {
     "description": "This is a mod idea by Zaliant.\nFormer Description:\nThis is the Pale Court mod.\nEnjoy!",
