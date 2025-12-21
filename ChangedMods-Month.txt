@@ -1,6 +1,3 @@
-AllGrubRewardsAtOnce
-MapChanger
-ShadeSnail
 DoodleBosses
 MylaFlower
 Nosk Transformation
@@ -24,3 +21,4 @@ PlatformingQoL
 Silksong Healing
 GodhomeQoL
 SafeGodseekerQoL
+GodhomeQoL

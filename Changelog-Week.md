@@ -3,12 +3,6 @@
 
 ## New mods
 
-### CabbyCodes
-
-- Description: A comprehensive cheat menu mod that provides control over player stats, inventory, and game state through an in-game interface
-- Tags
-  + Utility
-
 ### GodhomeQoL
 
 - Description: This mod is useful for challenge runners who don&#x27;t want their runs to be accidentally affected by QoL mods.

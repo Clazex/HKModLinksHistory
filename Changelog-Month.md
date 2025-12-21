@@ -3,14 +3,6 @@
 
 ## New mods
 
-### AllGrubRewardsAtOnce
-
-- Description: Grubfather gives all available rewards in one go.
-- Dependencies
-  + Satchel
-- Tags
-  + Gameplay
-
 ### CabbyCodes
 
 - Description: A comprehensive cheat menu mod that provides control over player stats, inventory, and game state through an in-game interface
@@ -82,10 +74,6 @@
   + Old: The culmination of the Doodle Boss project of the HKM community. All the bosses are now adorable doodles!
   + New: The culmination of the Doodle Boss project of the HKM community. All the bosses are now adorable doodles! Artist credits can be found in the Readme and in-game.
 
-### MapChanger
-
-- Version: 1.3.10.0 -> 1.3.11.0
-
 ### MylaFlower
 
 - Version: 2.0.0.1 -> 2.0.1.0
@@ -122,10 +110,7 @@
 
 ### ShadeSnail
 
-- Version: 1.0.0.0 -> 1.2.0.0
-- Dependencies
-  + Added
-    - Satchel
+- Version: 1.1.0.0 -> 1.2.0.0
 
 ### Silksong Healing
 

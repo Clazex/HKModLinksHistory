@@ -1,3 +1,2 @@
-CabbyCodes
 NoGlow
 GodhomeQoL

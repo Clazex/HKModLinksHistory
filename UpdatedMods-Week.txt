@@ -3,3 +3,4 @@ VendorRando
 PlatformingQoL
 Silksong Healing
 SafeGodseekerQoL
+GodhomeQoL
