@@ -3,6 +3,14 @@
 
 ## New mods
 
+### Drunk Knight
+
+- Description: Add a sin and chromatic aberration effect to the camera
+- Dependencies
+  + Vasi
+- Tags
+  + Joke
+
 ### GodhomeQoL
 
 - Description: This mod is useful for challenge runners who don&#x27;t want their runs to be accidentally affected by QoL mods.
@@ -11,14 +19,6 @@
   + SFCore
   + Satchel
   + Vasi
-
-### NoGlow
-
-- Description: Toggles the faint glow that follows the Knight around.
-- Dependencies
-  + Satchel
-- Tags
-  + Gameplay
 
 
 ## Removed mods

@@ -2697,6 +2697,25 @@
       "RedFrog"
     ]
   },
+  "Drunk Knight": {
+    "description": "Add a sin and chromatic aberration effect to the camera",
+    "version": "1.0.0.0",
+    "links": {
+      "type": "universal",
+      "sha256": "E282C1B9CA3CF09CD8D5840C2AA7F0C8E244F9B6EBFAEF9BCA111649D1F6142D",
+      "url": "https://github.com/hien-ngo29/DrunkKnight/releases/download/v1.0.0.0/DrunkKnight.zip"
+    },
+    "dependencies": [
+      "Vasi"
+    ],
+    "repository": "https://github.com/hien-ngo29/DrunkKnight",
+    "tags": [
+      "Joke"
+    ],
+    "authors": [
+      "Hien Ngo"
+    ]
+  },
   "DumbEnemy": {
     "description": "Make Enemy and their attack invisible",
     "version": "1.5.0.0",

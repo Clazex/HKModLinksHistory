@@ -9,6 +9,14 @@
 - Tags
   + Utility
 
+### Drunk Knight
+
+- Description: Add a sin and chromatic aberration effect to the camera
+- Dependencies
+  + Vasi
+- Tags
+  + Joke
+
 ### GodhomeQoL
 
 - Description: This mod is useful for challenge runners who don&#x27;t want their runs to be accidentally affected by QoL mods.
