@@ -13,7 +13,7 @@
 
 - Description: Add a sin and chromatic aberration effect to the camera
 - Dependencies
-  + Vasi
+  + Satchel
 - Tags
   + Joke
 
@@ -39,14 +39,6 @@
 - Description: Removes the map from the screen
 - Tags
   + Gameplay
-
-### Nosk Transformation
-
-- Description: Become Nosk at will—roar, spit, leap, and prank your friends in Hollow Knight, with stealth naming and HKMP support.
-- Dependencies
-  + Satchel
-- Tags
-  + Joke
 
 ### Wingy
 
@@ -75,28 +67,27 @@
 
 ## Updated mods
 
+### AccessRandomizer
+
+- Version: 1.3.0.5 -> 1.4.0.0
+
 ### DoodleBosses
 
-- Version: 0.9.0.0 -> 0.9.4.0
+- Version: 0.9.1.0 -> 0.9.4.0
 - Description
   + Old: The culmination of the Doodle Boss project of the HKM community. All the bosses are now adorable doodles!
   + New: The culmination of the Doodle Boss project of the HKM community. All the bosses are now adorable doodles! Artist credits can be found in the Readme and in-game.
-
-### MylaFlower
-
-- Version: 2.0.0.1 -> 2.0.1.0
 
 ### PlatformingQoL
 
 - Version: 1.0.0.0 -> 1.1.0.0
 
-### RandoMapCore
-
-- Version: 1.0.16.0 -> 1.0.17.0
-
 ### ReplayLogger
 
-- Version: 1.0.0.5 -> 1.0.0.7
+- Version: 1.0.0.5 -> 1.0.0.9
+- Dependencies
+  + Added
+    - Satchel
 
 ### Rope Rando
 

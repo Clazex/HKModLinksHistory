@@ -73,11 +73,11 @@
   },
   "AccessRandomizer": {
     "description": "A randomizer add-on for miscellaneous access checks.",
-    "version": "1.3.0.5",
+    "version": "1.4.0.0",
     "links": {
       "type": "universal",
-      "sha256": "87571A3A61E198DA409CFD682184F7605CF01C40715595F6171258C071CBBA3C",
-      "url": "https://github.com/nerthul11/AccessRandomizer/releases/download/1.3.0.5/AccessRandomizer.zip"
+      "sha256": "BFB05845D394146F7004154221FB3F583D8EB89F9135C9F9AAF4C0590D81F5EF",
+      "url": "https://github.com/nerthul11/AccessRandomizer/releases/download/1.4.0.0/AccessRandomizer.zip"
     },
     "dependencies": [
       "ItemChanger",
@@ -2699,14 +2699,14 @@
   },
   "Drunk Knight": {
     "description": "Add a sin and chromatic aberration effect to the camera",
-    "version": "1.0.0.0",
+    "version": "1.1.0.0",
     "links": {
       "type": "universal",
-      "sha256": "E282C1B9CA3CF09CD8D5840C2AA7F0C8E244F9B6EBFAEF9BCA111649D1F6142D",
-      "url": "https://github.com/hien-ngo29/DrunkKnight/releases/download/v1.0.0.0/DrunkKnight.zip"
+      "sha256": "E680B61ABF27D708AC3CAC665C77C9EB8A1556FAB5837776E1073D0E58648141",
+      "url": "https://github.com/hien-ngo29/DrunkKnight/releases/download/v1.1.0.0/DrunkKnight.zip"
     },
     "dependencies": [
-      "Vasi"
+      "Satchel"
     ],
     "repository": "https://github.com/hien-ngo29/DrunkKnight",
     "tags": [
@@ -8094,17 +8094,20 @@
   },
   "ReplayLogger": {
     "description": "ReplayLoger is a mod that was created to verify the legitimacy of player challenge runs.",
-    "version": "1.0.0.7",
+    "version": "1.0.0.9",
     "links": {
       "type": "universal",
-      "sha256": "06A364EF9D75D2628AA3F681F81B9C31BA6E5E67CB550CE76E456830EB8BC066",
-      "url": "https://github.com/NightFuryoOo/ReplayLogger/releases/download/v1.0.0.7/ReplayLogger.zip"
+      "sha256": "7934D353D53BDB150718E34584A98D71A341BA4DD9D8AF1CED80D571D6269504",
+      "url": "https://github.com/NightFuryoOo/ReplayLogger/releases/download/v1.0.0.9/ReplayLogger.zip"
     },
-    "dependencies": [],
+    "dependencies": [
+      "Satchel"
+    ],
     "repository": "https://github.com/NightFuryoOo/ReplayLogger",
     "authors": [
       "Egir",
       "NightFuryo3o",
+      "Prtsscout",
       "mint"
     ]
   },

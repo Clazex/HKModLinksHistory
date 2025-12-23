@@ -7,7 +7,7 @@
 
 - Description: Add a sin and chromatic aberration effect to the camera
 - Dependencies
-  + Vasi
+  + Satchel
 - Tags
   + Joke
 
@@ -41,9 +41,20 @@
 
 ## Updated mods
 
+### AccessRandomizer
+
+- Version: 1.3.0.5 -> 1.4.0.0
+
 ### PlatformingQoL
 
 - Version: 1.0.0.0 -> 1.1.0.0
+
+### ReplayLogger
+
+- Version: 1.0.0.7 -> 1.0.0.9
+- Dependencies
+  + Added
+    - Satchel
 
 ### SafeGodseekerQoL
 

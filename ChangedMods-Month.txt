@@ -1,7 +1,3 @@
-DoodleBosses
-MylaFlower
-Nosk Transformation
-RandoMapCore
 NoMaps
 ReplayLogger
 ReplayLogger
@@ -23,3 +19,6 @@ GodhomeQoL
 SafeGodseekerQoL
 GodhomeQoL
 Drunk Knight
+AccessRandomizer
+Drunk Knight
+ReplayLogger
