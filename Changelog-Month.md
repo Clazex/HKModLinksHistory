@@ -34,12 +34,6 @@
 - Tags
   + Gameplay
 
-### NoMaps
-
-- Description: Removes the map from the screen
-- Tags
-  + Gameplay
-
 ### Wingy
 
 - Description: Supplemental mod for the clawless bingy community

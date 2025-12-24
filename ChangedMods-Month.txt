@@ -1,4 +1,3 @@
-NoMaps
 ReplayLogger
 ReplayLogger
 SpeedChanger

@@ -1,5 +1,3 @@
-Silksong Healing
-VendorRando
 PlatformingQoL
 Silksong Healing
 SafeGodseekerQoL
