@@ -21,3 +21,4 @@ Drunk Knight
 AccessRandomizer
 Drunk Knight
 ReplayLogger
+VendorRando

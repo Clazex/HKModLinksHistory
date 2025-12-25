@@ -1,13 +1,25 @@
 # Changelog
 
 
-## New mods
+## Updated mods
+
+### AccessRandomizer
+
+- Version: 1.3.0.5 -> 1.4.0.0
 
 ### Drunk Knight
 
-- Description: Add a sin and chromatic aberration effect to the camera
+- Version: 1.0.0.0 -> 1.1.0.0
 - Dependencies
-  + Vasi
-- Tags
-  + Joke
+  + Removed
+    - Vasi
+  + Added
+    - Satchel
+
+### ReplayLogger
+
+- Version: 1.0.0.7 -> 1.0.0.9
+- Dependencies
+  + Added
+    - Satchel
 

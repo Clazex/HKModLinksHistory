@@ -9842,11 +9842,11 @@
   },
   "VendorRando": {
     "description": "A Randomizer add-on that randomizes the physical locations of vendors",
-    "version": "1.1.0.0",
+    "version": "1.1.0.1",
     "links": {
       "type": "universal",
-      "sha256": "FC63FAF4E811D69A55AF721C1D6594AE5829AB77CE0E493AEB517DB424110033",
-      "url": "https://github.com/TheMathGeek314/VendorRando/releases/download/v1.1.0.0/VendorRando.zip"
+      "sha256": "61F81C9B75F41741EA1810FC2A4BD9BFC2F1C6D620FC370C8443DF5F1E952F88",
+      "url": "https://github.com/TheMathGeek314/VendorRando/releases/download/v1.1.0.1/VendorRando.zip"
     },
     "dependencies": [
       "ConnectionMetadataInjector",

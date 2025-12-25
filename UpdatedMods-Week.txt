@@ -1,7 +1,6 @@
-PlatformingQoL
-Silksong Healing
 SafeGodseekerQoL
 GodhomeQoL
 AccessRandomizer
 Drunk Knight
 ReplayLogger
+VendorRando

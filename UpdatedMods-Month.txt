@@ -16,3 +16,4 @@ GodhomeQoL
 AccessRandomizer
 Drunk Knight
 ReplayLogger
+VendorRando
