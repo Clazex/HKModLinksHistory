@@ -1,9 +1,13 @@
 # Changelog
 
 
-## Updated mods
+## New mods
 
-### GodhomeQoL
+### Drunk Knight
 
-- Version: 1.0.0.5 -> 1.0.0.6
+- Description: Add a sin and chromatic aberration effect to the camera
+- Dependencies
+  + Vasi
+- Tags
+  + Joke
 

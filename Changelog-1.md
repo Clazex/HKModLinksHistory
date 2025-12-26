@@ -1,9 +1,14 @@
 # Changelog
 
 
-## Updated mods
+## New mods
 
-### VendorRando
+### Mythril Soul
 
-- Version: 1.1.0.0 -> 1.1.0.1
+- Description: Adds a new gamemode to Hollow Knight with permadeath expanded to dreams and pausing disabled at or below two masks (harder steel soul).
+- Dependencies
+  + Satchel
+- Tags
+  + Expansion
+  + Gameplay
 

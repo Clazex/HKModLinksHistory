@@ -26,6 +26,15 @@
   + Satchel
   + Vasi
 
+### Mythril Soul
+
+- Description: Adds a new gamemode to Hollow Knight with permadeath expanded to dreams and pausing disabled at or below two masks (harder steel soul).
+- Dependencies
+  + Satchel
+- Tags
+  + Expansion
+  + Gameplay
+
 ### NoGlow
 
 - Description: Toggles the faint glow that follows the Knight around.

@@ -6392,6 +6392,27 @@
       "Randomizer 4"
     ]
   },
+  "Mythril Soul": {
+    "description": "Adds a new gamemode to Hollow Knight with permadeath expanded to dreams and pausing disabled at or below two masks (harder steel soul).",
+    "version": "1.0.0.1",
+    "links": {
+      "type": "universal",
+      "sha256": "E54E07BD5F7F54238DEA3E41DECDC8CAB263ECAC2317A562E1610065F4B5E1A4",
+      "url": "https://github.com/gabeStuk/MythrilSoul/releases/download/1.0.0.1/MythrilSoul.zip"
+    },
+    "dependencies": [
+      "Satchel"
+    ],
+    "repository": "https://github.com/gabeStuk/MythrilSoul",
+    "issues": "https://github.com/gabeStuk/MythrilSoul/issues",
+    "tags": [
+      "Expansion",
+      "Gameplay"
+    ],
+    "authors": [
+      "Sponge2"
+    ]
+  },
   "Nail Destroy Bullet": {
     "description": "Swinging the nail will destroy enemies' bullet.",
     "version": "1.2.3.0",

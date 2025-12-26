@@ -1,8 +1,7 @@
 GodhomeQoL
-SafeGodseekerQoL
-GodhomeQoL
 Drunk Knight
 AccessRandomizer
 Drunk Knight
 ReplayLogger
 VendorRando
+Mythril Soul

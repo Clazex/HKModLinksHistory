@@ -3,3 +3,4 @@ CabbyCodes
 NoGlow
 GodhomeQoL
 Drunk Knight
+Mythril Soul
