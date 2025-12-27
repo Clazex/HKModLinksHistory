@@ -27,10 +27,6 @@
 
 - Version: 1.3.0.5 -> 1.4.0.0
 
-### GodhomeQoL
-
-- Version: 1.0.0.5 -> 1.0.0.6
-
 ### ReplayLogger
 
 - Version: 1.0.0.7 -> 1.0.0.9

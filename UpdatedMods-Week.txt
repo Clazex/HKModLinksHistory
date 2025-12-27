@@ -1,4 +1,3 @@
-GodhomeQoL
 AccessRandomizer
 Drunk Knight
 ReplayLogger
