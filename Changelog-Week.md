@@ -3,14 +3,6 @@
 
 ## New mods
 
-### Drunk Knight
-
-- Description: Add a sin and chromatic aberration effect to the camera
-- Dependencies
-  + Satchel
-- Tags
-  + Joke
-
 ### Mythril Soul
 
 - Description: Adds a new gamemode to Hollow Knight with permadeath expanded to dreams and pausing disabled at or below two masks (harder steel soul).
@@ -26,6 +18,19 @@
 ### AccessRandomizer
 
 - Version: 1.3.0.5 -> 1.4.0.0
+
+### Drunk Knight
+
+- Version: 1.0.0.0 -> 1.1.0.0
+- Dependencies
+  + Removed
+    - Vasi
+  + Added
+    - Satchel
+
+### PlatformingQoL
+
+- Version: 1.1.0.0 -> 1.2.0.0
 
 ### ReplayLogger
 

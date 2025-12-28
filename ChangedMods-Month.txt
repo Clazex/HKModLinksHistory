@@ -1,5 +1,4 @@
 ReplayLogger
-ReplayLogger
 SpeedChanger
 Wingy
 SafeGodseekerQoL
@@ -23,3 +22,4 @@ Drunk Knight
 ReplayLogger
 VendorRando
 Mythril Soul
+PlatformingQoL

@@ -1,5 +1,4 @@
 ReplayLogger
-ReplayLogger
 SpeedChanger
 SafeGodseekerQoL
 ShadeSnail
@@ -17,3 +16,4 @@ AccessRandomizer
 Drunk Knight
 ReplayLogger
 VendorRando
+PlatformingQoL

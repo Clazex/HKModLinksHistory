@@ -83,11 +83,11 @@
 
 ### PlatformingQoL
 
-- Version: 1.0.0.0 -> 1.1.0.0
+- Version: 1.0.0.0 -> 1.2.0.0
 
 ### ReplayLogger
 
-- Version: 1.0.0.5 -> 1.0.0.9
+- Version: 1.0.0.6 -> 1.0.0.9
 - Dependencies
   + Added
     - Satchel

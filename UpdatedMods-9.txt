@@ -1,2 +1,1 @@
-PlatformingQoL
-Silksong Healing
+SafeGodseekerQoL
