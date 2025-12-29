@@ -1,5 +1,2 @@
-AccessRandomizer
-Drunk Knight
-ReplayLogger
 VendorRando
 PlatformingQoL
