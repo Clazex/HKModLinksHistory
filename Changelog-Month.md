@@ -87,7 +87,7 @@
 
 ### ReplayLogger
 
-- Version: 1.0.0.6 -> 1.0.0.9
+- Version: 1.0.0.7 -> 1.0.0.9
 - Dependencies
   + Added
     - Satchel
