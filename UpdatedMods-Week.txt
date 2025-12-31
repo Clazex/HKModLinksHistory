@@ -1,2 +1,5 @@
-VendorRando
 PlatformingQoL
+AccessRandomizer
+FlappyKnight
+MilliGolf
+VendorRando

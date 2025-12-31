@@ -73,11 +73,11 @@
   },
   "AccessRandomizer": {
     "description": "A randomizer add-on for miscellaneous access checks.",
-    "version": "1.4.0.0",
+    "version": "1.4.0.1",
     "links": {
       "type": "universal",
-      "sha256": "BFB05845D394146F7004154221FB3F583D8EB89F9135C9F9AAF4C0590D81F5EF",
-      "url": "https://github.com/nerthul11/AccessRandomizer/releases/download/1.4.0.0/AccessRandomizer.zip"
+      "sha256": "EDF1C12BF87246E977B9B87D5C7413A313D004D38A7DBE5943F8FA6CB5F4AECB",
+      "url": "https://github.com/nerthul11/AccessRandomizer/releases/download/1.4.0.1/AccessRandomizer.zip"
     },
     "dependencies": [
       "ItemChanger",
@@ -2576,6 +2576,31 @@
     "dependencies": [],
     "repository": "https://github.com/KaanGaming/HollowKnightDRPC/"
   },
+  "DistantGreens Charms": {
+    "description": "Adds some custom Charms into the Hollow Knight.",
+    "version": "1.0.0.1",
+    "links": {
+      "type": "universal",
+      "sha256": "81EEBFD787470F81F726BF3576E88FF86D09685BA465BB23AA62E76972C0B56E",
+      "url": "https://github.com/Simsblock/HollowKnight.DistantGreens.Charms/releases/download/Hot_fix/DistantGreensCharms.zip"
+    },
+    "dependencies": [
+      "ItemChanger",
+      "SFCore"
+    ],
+    "repository": "https://github.com/Simsblock/HollowKnight.DistantGreens.Charms",
+    "issues": "https://github.com/Simsblock/HollowKnight.DistantGreens.Charms/issues",
+    "integrations": [
+      "DebugMod",
+      "Randomizer 4"
+    ],
+    "tags": [
+      "Charm"
+    ],
+    "authors": [
+      "Simsblock"
+    ]
+  },
   "DivineFury": {
     "description": "This mod adds a new charm: Divine Fury. This charm sets the player's health to 1, allowing Fury of the Fallen to be viable in Radiant Godhome battles.",
     "version": "1.2.1.2",
@@ -3326,11 +3351,11 @@
   },
   "FlappyKnight": {
     "description": "It's Flappy Bird but in Hollow Knight",
-    "version": "1.0.0.0",
+    "version": "1.0.0.1",
     "links": {
       "type": "universal",
-      "sha256": "F66D720F40E125E05812AFC2D0743F1858CC776D4DE2A0FC8A4EA5C0E1F92F2A",
-      "url": "https://github.com/TheMathGeek314/FlappyKnight/releases/download/v1.0.0.0/FlappyKnight.zip"
+      "sha256": "8FFC0C3ED0BF7E94568AB30AD6D4965E6BA3C85A31E942301B8AC7516D7BC97D",
+      "url": "https://github.com/TheMathGeek314/FlappyKnight/releases/download/v1.0.0.1/FlappyKnight.zip"
     },
     "dependencies": [
       "MenuChanger",
@@ -5975,11 +6000,11 @@
   },
   "MilliGolf": {
     "description": "An 18-hole course featuring Millibelle the Golf Ball",
-    "version": "1.3.0.1",
+    "version": "1.3.0.2",
     "links": {
       "type": "universal",
-      "sha256": "32591985F6E0E3688D6BA3DB47C4CC55BFD9429B15F37099EAF73BA9E196187C",
-      "url": "https://github.com/TheMathGeek314/MilliGolf/releases/download/v1.3.0.1/MilliGolf.zip"
+      "sha256": "1640243297315B09EDD7F0BEF5613E5743FA4865D6B040E1686D884B4D1CDEFB",
+      "url": "https://github.com/TheMathGeek314/MilliGolf/releases/download/v1.3.0.2/MilliGolf.zip"
     },
     "dependencies": [
       "Satchel"
@@ -9863,11 +9888,11 @@
   },
   "VendorRando": {
     "description": "A Randomizer add-on that randomizes the physical locations of vendors",
-    "version": "1.1.0.1",
+    "version": "1.1.0.2",
     "links": {
       "type": "universal",
-      "sha256": "61F81C9B75F41741EA1810FC2A4BD9BFC2F1C6D620FC370C8443DF5F1E952F88",
-      "url": "https://github.com/TheMathGeek314/VendorRando/releases/download/v1.1.0.1/VendorRando.zip"
+      "sha256": "68D60AFC29A5CED84469E883642A61E506A1E588E19B3D36F6167C285C8C3541",
+      "url": "https://github.com/TheMathGeek314/VendorRando/releases/download/v1.1.0.2/VendorRando.zip"
     },
     "dependencies": [
       "ConnectionMetadataInjector",

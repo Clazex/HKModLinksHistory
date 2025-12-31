@@ -9,6 +9,18 @@
 - Tags
   + Utility
 
+### DistantGreens Charms
+
+- Description: Adds some custom Charms into the Hollow Knight.
+- Dependencies
+  + ItemChanger
+  + SFCore
+- Integrations
+  + DebugMod
+  + Randomizer 4
+- Tags
+  + Charm
+
 ### Drunk Knight
 
 - Description: Add a sin and chromatic aberration effect to the camera
@@ -72,7 +84,7 @@
 
 ### AccessRandomizer
 
-- Version: 1.3.0.5 -> 1.4.0.0
+- Version: 1.3.0.5 -> 1.4.0.1
 
 ### DoodleBosses
 
@@ -80,6 +92,14 @@
 - Description
   + Old: The culmination of the Doodle Boss project of the HKM community. All the bosses are now adorable doodles!
   + New: The culmination of the Doodle Boss project of the HKM community. All the bosses are now adorable doodles! Artist credits can be found in the Readme and in-game.
+
+### FlappyKnight
+
+- Version: 1.0.0.0 -> 1.0.0.1
+
+### MilliGolf
+
+- Version: 1.3.0.1 -> 1.3.0.2
 
 ### PlatformingQoL
 
@@ -127,5 +147,5 @@
 
 ### VendorRando
 
-- Version: 1.0.2.2 -> 1.1.0.1
+- Version: 1.0.2.2 -> 1.1.0.2
 

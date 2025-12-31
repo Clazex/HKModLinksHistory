@@ -16,3 +16,7 @@ Drunk Knight
 ReplayLogger
 VendorRando
 PlatformingQoL
+AccessRandomizer
+FlappyKnight
+MilliGolf
+VendorRando
