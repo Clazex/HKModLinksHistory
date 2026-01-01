@@ -20,3 +20,4 @@ AccessRandomizer
 FlappyKnight
 MilliGolf
 VendorRando
+ReplayLogger

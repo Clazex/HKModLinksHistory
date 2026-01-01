@@ -27,3 +27,4 @@ DistantGreens Charms
 FlappyKnight
 MilliGolf
 VendorRando
+ReplayLogger
