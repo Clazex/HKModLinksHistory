@@ -1,5 +1,3 @@
-SpeedChanger
-Wingy
 SafeGodseekerQoL
 ShadeSnail
 DoodleBosses
@@ -28,3 +26,6 @@ FlappyKnight
 MilliGolf
 VendorRando
 ReplayLogger
+HuKing
+ReplayLogger
+VendorRando

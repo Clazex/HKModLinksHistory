@@ -5,3 +5,6 @@ FlappyKnight
 MilliGolf
 VendorRando
 ReplayLogger
+HuKing
+ReplayLogger
+VendorRando

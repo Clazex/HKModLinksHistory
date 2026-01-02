@@ -38,6 +38,14 @@
   + Satchel
   + Vasi
 
+### HuKing
+
+- Description: A modboss of Elder Ghost Hu
+- Dependencies
+  + Satchel
+- Tags
+  + Boss
+
 ### Mythril Soul
 
 - Description: Adds a new gamemode to Hollow Knight with permadeath expanded to dreams and pausing disabled at or below two masks (harder steel soul).
@@ -54,12 +62,6 @@
   + Satchel
 - Tags
   + Gameplay
-
-### Wingy
-
-- Description: Supplemental mod for the clawless bingy community
-- Dependencies
-  + Satchel
 
 
 ## Removed mods
@@ -107,7 +109,7 @@
 
 ### ReplayLogger
 
-- Version: 1.0.0.7 -> 1.0.1.0
+- Version: 1.0.0.7 -> 1.0.1.2
 - Dependencies
   + Added
     - Satchel
@@ -141,11 +143,7 @@
   + Old: Adds a charm called Soulburst, which allows players to instantly heal 3 masks when they have 99 soul, similar to Silksong
   + New: Adds a charm called Soulburst, which allows players to heal 3 masks at once when they have 99 soul, similar to Silksong
 
-### SpeedChanger
-
-- Version: 1.1.3.1 -> 1.1.3.2
-
 ### VendorRando
 
-- Version: 1.0.2.2 -> 1.1.0.2
+- Version: 1.0.2.2 -> 1.1.1.0
 

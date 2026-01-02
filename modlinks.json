@@ -4869,6 +4869,26 @@
       "Ruttie"
     ]
   },
+  "HuKing": {
+    "description": "A modboss of Elder Ghost Hu",
+    "version": "2.0.0.0",
+    "links": {
+      "type": "universal",
+      "sha256": "C313CBA81EFD0BFEE1B79376DA7DA76798C6859380CB202D760AB395DAC7E4E5",
+      "url": "https://github.com/windplusflower/HuKing/releases/download/2.0/HuKing.zip"
+    },
+    "dependencies": [
+      "Satchel"
+    ],
+    "repository": "https://github.com/windplusflower/HuKing",
+    "issues": "https://github.com/windplusflower/HuKing/issues",
+    "tags": [
+      "Boss"
+    ],
+    "authors": [
+      "Windflower"
+    ]
+  },
   "HueShifter": {
     "description": "Uses shaders to change Hallownest's colours. Can also make everything rainbows.",
     "version": "0.2.2.1",
@@ -8140,11 +8160,11 @@
   },
   "ReplayLogger": {
     "description": "ReplayLoger is a mod that was created to verify the legitimacy of player challenge runs.",
-    "version": "1.0.1.0",
+    "version": "1.0.1.2",
     "links": {
       "type": "universal",
-      "sha256": "7C27D186906A63B38BE54F1AA789B76C96CAE6FA00CE2BC9F73113AD2C77C9CD",
-      "url": "https://github.com/NightFuryoOo/ReplayLogger/releases/download/v1.0.1.0/ReplayLogger.zip"
+      "sha256": "F9783E860C96AB364D96D68BEF12730C004826273729399D49C38E2AE701D9BF",
+      "url": "https://github.com/NightFuryoOo/ReplayLogger/releases/download/v1.0.1.2/ReplayLogger.zip"
     },
     "dependencies": [
       "Satchel"
@@ -9888,11 +9908,11 @@
   },
   "VendorRando": {
     "description": "A Randomizer add-on that randomizes the physical locations of vendors",
-    "version": "1.1.0.2",
+    "version": "1.1.1.0",
     "links": {
       "type": "universal",
-      "sha256": "68D60AFC29A5CED84469E883642A61E506A1E588E19B3D36F6167C285C8C3541",
-      "url": "https://github.com/TheMathGeek314/VendorRando/releases/download/v1.1.0.2/VendorRando.zip"
+      "sha256": "18C724BFD4751EB2E111E6FAE0C0C284D8BCCEB33416E48C4823C9CCF2B52893",
+      "url": "https://github.com/TheMathGeek314/VendorRando/releases/download/v1.1.1.0/VendorRando.zip"
     },
     "dependencies": [
       "ConnectionMetadataInjector",
