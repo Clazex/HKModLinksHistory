@@ -1,5 +1,3 @@
-SafeGodseekerQoL
-ShadeSnail
 DoodleBosses
 Rope Rando
 SafeGodseekerQoL
@@ -29,3 +27,4 @@ ReplayLogger
 HuKing
 ReplayLogger
 VendorRando
+HuKing

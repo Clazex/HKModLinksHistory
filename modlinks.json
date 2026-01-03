@@ -4871,11 +4871,11 @@
   },
   "HuKing": {
     "description": "A modboss of Elder Ghost Hu",
-    "version": "2.0.0.0",
+    "version": "2.1.0.0",
     "links": {
       "type": "universal",
-      "sha256": "C313CBA81EFD0BFEE1B79376DA7DA76798C6859380CB202D760AB395DAC7E4E5",
-      "url": "https://github.com/windplusflower/HuKing/releases/download/2.0/HuKing.zip"
+      "sha256": "FB0F2C01EFE0C3F84CBDB41082CA4CF770C99FF9A94E1137EBCA5953B16313D6",
+      "url": "https://github.com/windplusflower/HuKing/releases/download/2.1/HuKing.zip"
     },
     "dependencies": [
       "Satchel"

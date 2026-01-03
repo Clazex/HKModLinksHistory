@@ -120,7 +120,7 @@
 
 ### SafeGodseekerQoL
 
-- Version: 1.0.0.1 -> 9.9.9.9
+- Version: 1.0.0.2 -> 9.9.9.9
 - Description
   + Old: This mod is useful for challenge runners who don&#x27;t want their runs to be accidentally affected by QoL mods.
   + New: Dummy mod. Install the dependency &quot;GodhomeQoL&quot; directly.
@@ -131,10 +131,6 @@
     - Vasi
   + Added
     - GodhomeQoL
-
-### ShadeSnail
-
-- Version: 1.1.0.0 -> 1.2.0.0
 
 ### Silksong Healing
 
