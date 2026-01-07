@@ -1,4 +1,3 @@
-DoodleBosses
 Rope Rando
 SafeGodseekerQoL
 SafeGodseekerQoL
@@ -28,3 +27,4 @@ HuKing
 ReplayLogger
 VendorRando
 HuKing
+ReplayLogger

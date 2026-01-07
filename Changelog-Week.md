@@ -16,7 +16,7 @@
 
 ### ReplayLogger
 
-- Version: 1.0.0.9 -> 1.0.1.2
+- Version: 1.0.1.0 -> 1.0.1.3
 
 ### VendorRando
 

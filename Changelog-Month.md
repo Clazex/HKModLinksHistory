@@ -88,13 +88,6 @@
 
 - Version: 1.3.0.5 -> 1.4.0.1
 
-### DoodleBosses
-
-- Version: 0.9.1.0 -> 0.9.4.0
-- Description
-  + Old: The culmination of the Doodle Boss project of the HKM community. All the bosses are now adorable doodles!
-  + New: The culmination of the Doodle Boss project of the HKM community. All the bosses are now adorable doodles! Artist credits can be found in the Readme and in-game.
-
 ### FlappyKnight
 
 - Version: 1.0.0.0 -> 1.0.0.1
@@ -109,7 +102,7 @@
 
 ### ReplayLogger
 
-- Version: 1.0.0.7 -> 1.0.1.2
+- Version: 1.0.0.7 -> 1.0.1.3
 - Dependencies
   + Added
     - Satchel
