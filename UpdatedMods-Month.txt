@@ -1,5 +1,3 @@
-Rope Rando
-SafeGodseekerQoL
 SafeGodseekerQoL
 Silksong Healing
 VendorRando
@@ -21,3 +19,5 @@ ReplayLogger
 VendorRando
 HuKing
 ReplayLogger
+GodhomeQoL
+Randomizable Levers

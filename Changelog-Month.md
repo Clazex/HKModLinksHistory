@@ -75,6 +75,7 @@
 - Peaking Peeking Peaks
 - PowerfulShadowDash
 - PvP Arena
+- SafeGodseekerQoL
 - Stories of a HK player - Chapter 1
 - Stories of a HK player - Chapter 2
 - Sunset Samsara II
@@ -100,30 +101,16 @@
 
 - Version: 1.0.0.0 -> 1.2.0.0
 
+### Randomizable Levers
+
+- Version: 1.2.6.2 -> 1.2.6.3
+
 ### ReplayLogger
 
 - Version: 1.0.0.7 -> 1.0.1.3
 - Dependencies
   + Added
     - Satchel
-
-### Rope Rando
-
-- Version: 1.1.0.0 -> 1.1.2.0
-
-### SafeGodseekerQoL
-
-- Version: 1.0.0.2 -> 9.9.9.9
-- Description
-  + Old: This mod is useful for challenge runners who don&#x27;t want their runs to be accidentally affected by QoL mods.
-  + New: Dummy mod. Install the dependency &quot;GodhomeQoL&quot; directly.
-- Dependencies
-  + Removed
-    - Osmi
-    - Satchel
-    - Vasi
-  + Added
-    - GodhomeQoL
 
 ### Silksong Healing
 

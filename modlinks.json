@@ -3988,11 +3988,11 @@
   },
   "GodhomeQoL": {
     "description": "This mod is useful for challenge runners who don't want their runs to be accidentally affected by QoL mods.",
-    "version": "1.0.0.6",
+    "version": "1.0.0.7",
     "links": {
       "type": "universal",
-      "sha256": "85AE5097FB30118787940474035883DA4F0B92DFECD786B4C280153B3F547C37",
-      "url": "https://github.com/NightFuryoOo/GodhomeQoL/releases/download/v1.0.0.6/GodhomeQoL.zip"
+      "sha256": "DF5CB78D4DEBD2910A6BAB1C59E28F0D3FBF5FC6FA079F3F64DE1E27683C92F4",
+      "url": "https://github.com/NightFuryoOo/GodhomeQoL/releases/download/v1.0.0.7/GodhomeQoL.zip"
     },
     "dependencies": [
       "Osmi",
@@ -7987,11 +7987,11 @@
   },
   "Randomizable Levers": {
     "description": "Randomizer 4 addon that adds the option to randomize levers. Activate lever rando in the Connections menu of Randomizer 4.",
-    "version": "1.2.6.2",
+    "version": "1.2.6.3",
     "links": {
       "type": "universal",
-      "sha256": "58128CAA70E7CDB10F7ED7B8B3BE49E17BC1DE415C52BD1E59E244CD156FAC91",
-      "url": "https://github.com/flibber-hk/HollowKnight.RandomizableLevers/releases/download/v1.2.6.2/RandomizableLevers.zip"
+      "sha256": "06FB142589E000866A4822604F7846D18EEEDCF272B96D95136767AE489E0C2B",
+      "url": "https://github.com/flibber-hk/HollowKnight.RandomizableLevers/releases/download/v1.2.6.3/RandomizableLevers.zip"
     },
     "dependencies": [
       "ItemChanger"
@@ -8317,19 +8317,6 @@
     "authors": [
       "Zickles"
     ]
-  },
-  "SafeGodseekerQoL": {
-    "description": "Dummy mod. Install the dependency \"GodhomeQoL\" directly.",
-    "version": "9.9.9.9",
-    "links": {
-      "type": "universal",
-      "sha256": "00280F51FB9F3030B4F1BBBAD3AB29082A706994E4FAF783AA955054673BC74B",
-      "url": "https://github.com/SFGrenade/EmptyMod/releases/download/v9.9.9.9/EmptyMod.zip"
-    },
-    "dependencies": [
-      "GodhomeQoL"
-    ],
-    "repository": "https://github.com/SFGrenade/EmptyMod/"
   },
   "SaferWhitePalace": {
     "description": "Allows you to remove the dangers of White Palace",
