@@ -12,10 +12,6 @@
 
 - Version: 1.0.0.6 -> 1.0.0.7
 
-### HuKing
-
-- Version: 2.0.0.0 -> 2.1.0.0
-
 ### Randomizable Levers
 
 - Version: 1.2.6.2 -> 1.2.6.3

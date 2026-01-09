@@ -3,9 +3,11 @@
 
 ## New mods
 
-### CabbyCodes
+### NoGlow
 
-- Description: A comprehensive cheat menu mod that provides control over player stats, inventory, and game state through an in-game interface
+- Description: Toggles the faint glow that follows the Knight around.
+- Dependencies
+  + Satchel
 - Tags
-  + Utility
+  + Gameplay
 
