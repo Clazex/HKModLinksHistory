@@ -4959,14 +4959,16 @@
   },
   "INFINITY": {
     "description": "A pure vessel boss mod.",
-    "version": "0.0.12.0",
+    "version": "0.2.0.0",
     "links": {
       "type": "universal",
-      "sha256": "11F826CDAF79A33C445B3E22E6FB830355A8F07A004FA17BFD99AD3D9BBBD610",
-      "url": "https://github.com/ROTTEN108/INFINITY/releases/download/v0.0.12.0/INFINITY.zip"
+      "sha256": "EAA73BD0136E1EFB2DCD8ADF32D98A4EA65621690F28A418C1443D313F7B0B76",
+      "url": "https://github.com/ROTTEN108/INFINITY/releases/download/v0.2.0.0/INFINITY.zip"
     },
     "dependencies": [
       "HKMirror",
+      "HKTool",
+      "Nosk God",
       "Vasi"
     ],
     "repository": "https://github.com/ROTTEN108/INFINITY",

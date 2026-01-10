@@ -1,3 +1,4 @@
 ReplayLogger
 GodhomeQoL
 Randomizable Levers
+INFINITY

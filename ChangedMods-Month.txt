@@ -1,4 +1,3 @@
-SafeGodseekerQoL
 CabbyCodes
 NoGlow
 Silksong Healing
@@ -28,3 +27,4 @@ HuKing
 ReplayLogger
 GodhomeQoL
 Randomizable Levers
+INFINITY
