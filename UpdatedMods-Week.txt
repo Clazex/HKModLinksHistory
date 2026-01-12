@@ -2,3 +2,18 @@ ReplayLogger
 GodhomeQoL
 Randomizable Levers
 INFINITY
+BenchRando
+Benchwarp
+BugPrince
+DarknessRandomizer
+ItemChanger
+ItemSync
+MoreDoors
+PurenailCore
+Randomizer 4
+RandomizerCore
+RandomizerCore.Json
+Scattered and Lost
+SpicyRando
+Transcendence
+UnRando

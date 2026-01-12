@@ -610,11 +610,11 @@
   },
   "BenchRando": {
     "description": "A Randomizer 4 add-on for randomizing benches to new locations and randomizing the ability to warp to benches as items.",
-    "version": "1.0.5.0",
+    "version": "1.0.6.0",
     "links": {
       "type": "universal",
-      "sha256": "084D4815FBA3262B99E8472C7011FE9F548A5A8E4352F207B15BCF2B12B626D4",
-      "url": "https://github.com/homothetyhk/BenchRando/releases/download/v1.0.5/BenchRando.zip"
+      "sha256": "C2DB557040DAF02B915C097EFC35D26E6328F37069525608BAC79F2F8E6AAB40",
+      "url": "https://github.com/homothetyhk/BenchRando/releases/download/v1.0.6/BenchRando.zip"
     },
     "dependencies": [
       "Benchwarp",
@@ -647,11 +647,11 @@
   },
   "Benchwarp": {
     "description": "Mod for selecting and warping to benches. Also allows placing benches and warping to room transitions.",
-    "version": "3.2.6.0",
+    "version": "3.2.6.1",
     "links": {
       "type": "universal",
-      "sha256": "135E041938CFB386D874B7E6DDDD0BEE7560942F05BEFCA0CC8F4897AC8C90CA",
-      "url": "https://github.com/homothetyhk/HollowKnight.BenchwarpMod/releases/download/v3.2.6.0/Benchwarp.zip"
+      "sha256": "1610837E5CC077AEC82B29A9E48E34125FB35B04CD9E4F03BC7BDF15208BB4ED",
+      "url": "https://github.com/homothetyhk/HollowKnight.BenchwarpMod/releases/download/v3.2.6.1/Benchwarp.zip"
     },
     "dependencies": [],
     "repository": "https://github.com/homothetyhk/HollowKnight.BenchwarpMod/"
@@ -1037,11 +1037,11 @@
   },
   "BugPrince": {
     "description": "A Randomizer 4 connection which combines Blue Prince mechanics with Hollow Knight transition randomizer.",
-    "version": "1.4.5.0",
+    "version": "1.5.0.0",
     "links": {
       "type": "universal",
-      "sha256": "94D1112F5D35BA08602744C6D84FF2D697AB3C83CEFE64D5D04CF36F3182528C",
-      "url": "https://github.com/dplochcoder/HollowKnight.BugPrince/releases/download/v1.4.5/BugPrince.zip"
+      "sha256": "8739C76E681F900923B900C9DF0EF75CF421D39CABB54650C4B9AD19B6A76D85",
+      "url": "https://github.com/dplochcoder/HollowKnight.BugPrince/releases/download/v1.5.0.0/BugPrince.zip"
     },
     "dependencies": [
       "Benchwarp",
@@ -2280,11 +2280,11 @@
   },
   "DarknessRandomizer": {
     "description": "A Rando 4 connection to randomize the dark corners of Hallownest.",
-    "version": "1.4.8.2",
+    "version": "1.5.0.0",
     "links": {
       "type": "universal",
-      "sha256": "6D89FA24A243F1AAE9637FC909F02CC2856EC8CF4CE27AF34827B32B9FF7D99E",
-      "url": "https://github.com/dplochcoder/HollowKnight.DarknessRandomizer/releases/download/v1.4.8.2/DarknessRandomizer.zip"
+      "sha256": "051F8C55DA2E417B9E6AB305187126A800C1CA183CE1FE0625021450C12F99C2",
+      "url": "https://github.com/dplochcoder/HollowKnight.DarknessRandomizer/releases/download/v1.5.0.0/DarknessRandomizer.zip"
     },
     "dependencies": [
       "ItemChanger",
@@ -5177,11 +5177,11 @@
   },
   "ItemChanger": {
     "description": "Mod which handles editing items and locations for other mods.",
-    "version": "2.1.5.0",
+    "version": "2.1.6.0",
     "links": {
       "type": "universal",
-      "sha256": "A7290D949E33FD5D36DFD0AE281620257F759F0F68091386D82EC9C72D19EF4D",
-      "url": "https://github.com/homothetyhk/HollowKnight.ItemChanger/releases/download/v2.1.5%2B512/ItemChanger.zip"
+      "sha256": "7D1C01EB5F5D5BA05713EC35EBF31D23096F8979578435B06F034ABB3B337D82",
+      "url": "https://github.com/homothetyhk/HollowKnight.ItemChanger/releases/download/v2.1.6%2B927/ItemChanger.zip"
     },
     "dependencies": [],
     "repository": "https://github.com/homothetyhk/HollowKnight.ItemChanger/"
@@ -5203,17 +5203,17 @@
   },
   "ItemSync": {
     "description": "A RandomizerMod 4 add-on for sharing item pickups between players. The default IP no longer works. Please use `mw.hkmp.org` if you want to connect to the public server.",
-    "version": "2.7.2.0",
+    "version": "2.7.3.0",
     "links": {
       "type": "universal",
-      "sha256": "02D7E50982C2F824C5542F31649B1F6454EE7DF3FABFE6978A926BA6DEB97760",
-      "url": "https://github.com/Shadudev/HollowKnight.MultiWorld/releases/download/itemsync-v2.7.2/ItemSync.zip"
+      "sha256": "254E59B7D37B462893C340E55647A94F5D9B3154DA390E94D2E563A1BE8F72FB",
+      "url": "https://github.com/dpinela/HollowKnight.MultiWorld/releases/download/itemsync-v2.7.3/ItemSyncMod.zip"
     },
     "dependencies": [
       "MultiWorldLib",
       "Randomizer 4"
     ],
-    "repository": "https://github.com/Shadudev/HollowKnight.MultiWorld/"
+    "repository": "https://github.com/dpinela/HollowKnight.MultiWorld/"
   },
   "Keep Me Geo": {
     "description": "Don't want the anxiety of losing everything when you die? Then Keep Me Geo will take your worries away! You won't lose any more geo than you want to when you die!",
@@ -6194,11 +6194,11 @@
   },
   "MoreDoors": {
     "description": "A Rando 4 connection which adds more locked doors to Hallownest.",
-    "version": "3.2.1.0",
+    "version": "3.3.0.0",
     "links": {
       "type": "universal",
-      "sha256": "E97810A0B82D4346E56DE65D5BA61052940038E4FE1946EDA8FCD6ED7140B63C",
-      "url": "https://github.com/dplochcoder/HollowKnight.MoreDoors/releases/download/v3.2.1.0/MoreDoors.zip"
+      "sha256": "1E47A40C80D842FBC6B0B461869D167E15D7E037922828066667F169D7F5C0BE",
+      "url": "https://github.com/dplochcoder/HollowKnight.MoreDoors/releases/download/v3.3.0.0/MoreDoors.zip"
     },
     "dependencies": [
       "ItemChanger",
@@ -7463,11 +7463,11 @@
   },
   "PurenailCore": {
     "description": "Common utilities and interop for Purenail mods",
-    "version": "1.5.0.0",
+    "version": "2.0.0.0",
     "links": {
       "type": "universal",
-      "sha256": "6FF21B059DFEC194157C27EE4274B457775B03F5B1BBB852807D1DEC97E6B70A",
-      "url": "https://github.com/dplochcoder/HollowKnight.PurenailCore/releases/download/v1.5.0.0/PurenailCore.zip"
+      "sha256": "B2CDCEB66A526E3E10FA290F4A235E0432BBB79533BDBDA65AF485F093F41EEC",
+      "url": "https://github.com/dplochcoder/HollowKnight.PurenailCore/releases/download/v2.0.0.0/PurenailCore.zip"
     },
     "dependencies": [
       "Randomizer 4",
@@ -8007,11 +8007,11 @@
   },
   "Randomizer 4": {
     "description": "Mod for randomizing items and/or transitions, with numerous customization options.",
-    "version": "4.1.5.0",
+    "version": "4.1.6.0",
     "links": {
       "type": "universal",
-      "sha256": "D2DE7D2D66B519413D70B4FFE68957A0AD7B587ACBC329991283C4B4BD9204AD",
-      "url": "https://github.com/homothetyhk/RandomizerMod/releases/download/v4.1.5%2B879/RandomizerMod.zip"
+      "sha256": "3E57698B63A4379FF8068A7467D401C9365071A94121DC7D06EDE8B472261059",
+      "url": "https://github.com/homothetyhk/RandomizerMod/releases/download/v4.1.6%2B987/RandomizerMod.zip"
     },
     "dependencies": [
       "Benchwarp",
@@ -8025,22 +8025,22 @@
   },
   "RandomizerCore": {
     "description": "A library for randomizer logic and algorithms.",
-    "version": "2.0.3.0",
+    "version": "2.1.1.0",
     "links": {
       "type": "universal",
-      "sha256": "55703E19BBD4FAA758D469621F5A7D9F35AD9CB1728E30E2978C325444CA1C96",
-      "url": "https://github.com/homothetyhk/RandomizerCore/releases/download/v2.0.3/RandomizerCore.zip"
+      "sha256": "D7C775EB784F46B75BBA9B68CFCF2DB23AD1DC75EE93A51E353A1DAAB3145ABA",
+      "url": "https://github.com/homothetyhk/RandomizerCore/releases/download/v2.1.1/RandomizerCore.zip"
     },
     "dependencies": [],
     "repository": "https://github.com/homothetyhk/RandomizerCore/"
   },
   "RandomizerCore.Json": {
     "description": "A library which adds support for json-encoded logic data to RandomizerCore.",
-    "version": "1.0.1.0",
+    "version": "1.1.1.0",
     "links": {
       "type": "universal",
-      "sha256": "3821DC60FA1C8D53E4AF3D2CB86B1615F169E5112B8656E7A1F9FCC5A0C7A1E5",
-      "url": "https://github.com/homothetyhk/RandomizerCore.Json/releases/download/v1.0.1/RandomizerCore.Json.zip"
+      "sha256": "D830D06CE4BEDBFBD66894E25D89F56F17ACA5AEBCDFD1CC02F58827820B0704",
+      "url": "https://github.com/homothetyhk/RandomizerCore.Json/releases/download/v1.1.1/RandomizerCore.Json.zip"
     },
     "dependencies": [],
     "repository": "https://github.com/homothetyhk/RandomizerCore.Json/"
@@ -8370,11 +8370,11 @@
   },
   "Scattered and Lost": {
     "description": "Celeste-themed content mod, expanding Bretta's hut",
-    "version": "1.5.2.1",
+    "version": "1.6.0.0",
     "links": {
       "type": "universal",
-      "sha256": "30B5328F003302F681AF1BB30E3507D3E686B817E0316D6B198E3586E3E76BF2",
-      "url": "https://github.com/dplochcoder/HollowKnight.ScatteredAndLost/releases/download/v1.5.2.1/Scattered.and.Lost.zip"
+      "sha256": "88062A3CBCCBA267266BF7436D6188928A41426EF45084D7D20A99E8CED5A8E8",
+      "url": "https://github.com/dplochcoder/HollowKnight.ScatteredAndLost/releases/download/v1.6.0.0/Scattered.and.Lost.zip"
     },
     "dependencies": [
       "ItemChanger",
@@ -9063,11 +9063,11 @@
   },
   "SpicyRando": {
     "description": "Various difficulty increases in specific parts of rando",
-    "version": "2.0.1.0",
+    "version": "2.1.0.0",
     "links": {
       "type": "universal",
-      "sha256": "FA04521D7E5DCAEAD71456F00854C6C5E5ABA71C01582B310F402036CAC6362C",
-      "url": "https://github.com/dplochcoder/HollowKnight.SpicyRando/releases/download/v2.0.1.0/SpicyRando.zip"
+      "sha256": "B1735BCC438EDE566B17EA0607862433B9E2BA34F4964FBB0F958169DDBA731E",
+      "url": "https://github.com/dplochcoder/HollowKnight.SpicyRando/releases/download/v2.1.0.0/SpicyRando.zip"
     },
     "dependencies": [
       "ItemChanger",
@@ -9548,11 +9548,11 @@
   },
   "Transcendence": {
     "description": "Adds 15 new charms with various abilities. Can be used with the randomizer.",
-    "version": "1.5.5.0",
+    "version": "1.5.6.0",
     "links": {
       "type": "universal",
-      "sha256": "6DF32D6F8DEEB42311D085CAC47848663C4870FECA8044A612092F2D08553333",
-      "url": "https://github.com/dpinela/Transcendence/releases/download/v1.5.5/Transcendence.zip"
+      "sha256": "FBCAC8D20DB22E851BF6497BD6293A7CB2C50B6A278DBDE553524A4CA881ED8B",
+      "url": "https://github.com/dpinela/Transcendence/releases/download/v1.5.6/Transcendence.zip"
     },
     "dependencies": [
       "ItemChanger",
@@ -9688,11 +9688,11 @@
   },
   "UnRando": {
     "description": "A Rando 4 connection which fixes the order in which rando items are obtained.",
-    "version": "1.1.0.0",
+    "version": "1.2.0.0",
     "links": {
       "type": "universal",
-      "sha256": "1CBE076892AE547EA1C1935B656C2B5E0E1E3A22948DAE5A01E4DBD724538F2B",
-      "url": "https://github.com/dplochcoder/HollowKnight.UnRando/releases/download/v1.1.0.0/UnRando.zip"
+      "sha256": "996E6031B7AF2FAC5CC3CBFA7925C3E820BD32A23E08CF219BB5AA5A2C957FEC",
+      "url": "https://github.com/dplochcoder/HollowKnight.UnRando/releases/download/v1.2.0.0/UnRando.zip"
     },
     "dependencies": [
       "ItemChanger",
