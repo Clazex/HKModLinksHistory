@@ -36,3 +36,8 @@ Scattered and Lost
 SpicyRando
 Transcendence
 UnRando
+Breakable Wall Randomizer
+BugPrince
+PurenailCore
+ReplayLogger
+SpoilerViewerMod

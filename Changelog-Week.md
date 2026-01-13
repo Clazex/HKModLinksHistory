@@ -1,6 +1,27 @@
 # Changelog
 
 
+## New mods
+
+### Knight of Nights
+
+- Description: A mod for the Holloween 2025 plando, with some rando integration.
+- Dependencies
+  + Benchwarp
+  + ItemChanger
+  + MenuChanger
+  + PurenailCore
+  + RandoPlus
+  + Randomizer 4
+  + SFCore
+  + Satchel
+- Integrations
+  + RandoSettingsManager
+  + Randomizer 4
+- Tags
+  + Gameplay
+
+
 ## Removed mods
 
 - SafeGodseekerQoL
@@ -16,9 +37,13 @@
 
 - Version: 3.2.6.0 -> 3.2.6.1
 
+### Breakable Wall Randomizer
+
+- Version: 4.1.1.5 -> 4.1.1.6
+
 ### BugPrince
 
-- Version: 1.4.5.0 -> 1.5.0.0
+- Version: 1.4.5.0 -> 1.5.0.1
 
 ### DarknessRandomizer
 
@@ -50,7 +75,7 @@
 
 ### PurenailCore
 
-- Version: 1.5.0.0 -> 2.0.0.0
+- Version: 1.5.0.0 -> 2.0.0.1
 
 ### Randomizable Levers
 
@@ -70,7 +95,7 @@
 
 ### ReplayLogger
 
-- Version: 1.0.1.2 -> 1.0.1.3
+- Version: 1.0.1.3 -> 1.0.1.4
 
 ### Scattered and Lost
 
@@ -79,6 +104,10 @@
 ### SpicyRando
 
 - Version: 2.0.1.0 -> 2.1.0.0
+
+### SpoilerViewerMod
+
+- Version: 2.11.0.0 -> 2.12.0.0
 
 ### Transcendence
 
