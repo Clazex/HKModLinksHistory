@@ -22,12 +22,11 @@
   + Gameplay
 
 
-## Removed mods
-
-- SafeGodseekerQoL
-
-
 ## Updated mods
+
+### Archipelago Map Mod
+
+- Version: 3.2.0.0 -> 3.3.0.0
 
 ### BenchRando
 
@@ -49,10 +48,6 @@
 
 - Version: 1.4.8.2 -> 1.5.0.0
 
-### GodhomeQoL
-
-- Version: 1.0.0.6 -> 1.0.0.7
-
 ### INFINITY
 
 - Version: 0.0.12.0 -> 0.2.0.0
@@ -73,13 +68,17 @@
 
 - Version: 3.2.1.0 -> 3.3.0.0
 
+### MyHK
+
+- Version: 1.2.0.4 -> 1.2.0.5
+
 ### PurenailCore
 
 - Version: 1.5.0.0 -> 2.0.0.1
 
-### Randomizable Levers
+### RandoPlus
 
-- Version: 1.2.6.2 -> 1.2.6.3
+- Version: 1.7.0.2 -> 1.7.0.3
 
 ### Randomizer 4
 

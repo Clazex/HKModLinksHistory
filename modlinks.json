@@ -419,11 +419,11 @@
   },
   "Archipelago Map Mod": {
     "description": "A conversion of RandoMapMod that works with the Archipelago multiworld randomizer",
-    "version": "3.2.0.0",
+    "version": "3.3.0.0",
     "links": {
       "type": "universal",
-      "sha256": "F872436A356883483B3597FBB79153FBA5B1C0504C29DFC4361FDEBAC56D6219",
-      "url": "https://github.com/ArchipelagoMW-HollowKnight/Archipelago.APMapMod/releases/download/v3.2.0/Archipelago.Map.Mod.zip"
+      "sha256": "ADCEA455795DEDBE883BDF092C87BD17DA3E147C6D0D818A4F042D608B148A0F",
+      "url": "https://github.com/ArchipelagoMW-HollowKnight/Archipelago.APMapMod/releases/download/v3.3.0/Archipelago.Map.Mod.zip"
     },
     "dependencies": [
       "Archipelago",
@@ -6434,11 +6434,11 @@
   },
   "MyHK": {
     "description": "An assisting mod for HK that can improve the gaming experience significantly",
-    "version": "1.2.0.4",
+    "version": "1.2.0.5",
     "links": {
       "type": "universal",
-      "sha256": "B07421ED5A920CDCF7AB5ED1D6E74DA49814C4AFBA416869A3C40BCC3643EB8B",
-      "url": "https://github.com/QiQi7-7/MyHK/releases/download/v1.2.0.4/MyHK-v1.2.0.4.zip"
+      "sha256": "DA1385B43CCF91D50B39DE34150DB00418CDC4235C8C87377A72FA3BCC543580",
+      "url": "https://github.com/QiQi7-7/MyHK/releases/download/v1.2.0.5/MyHK-v1.2.0.5.zip"
     },
     "dependencies": [
       "HKTool",
@@ -7844,11 +7844,11 @@
   },
   "RandoPlus": {
     "description": "Add-on for Randomizer 4 that adds more Randomization options; for example, randomize Mr Mushroom locations.",
-    "version": "1.7.0.2",
+    "version": "1.7.0.3",
     "links": {
       "type": "universal",
-      "sha256": "9FB5654070F34D43A52ECED356EFDE60A2A09B180771D45EC6F6375AC8842FD8",
-      "url": "https://github.com/flibber-hk/HollowKnight.RandoPlus/releases/download/v1.7.0.2/RandoPlus.zip"
+      "sha256": "59E36838DA93DBD5927306166D70F81AAE60FB43AB460C1750783146E8A3ABBE",
+      "url": "https://github.com/flibber-hk/HollowKnight.RandoPlus/releases/download/v1.7.0.3/RandoPlus.zip"
     },
     "dependencies": [
       "ConnectionMetadataInjector",

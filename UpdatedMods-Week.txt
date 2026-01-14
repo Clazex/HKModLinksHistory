@@ -1,5 +1,3 @@
-GodhomeQoL
-Randomizable Levers
 INFINITY
 BenchRando
 Benchwarp
@@ -21,3 +19,6 @@ BugPrince
 PurenailCore
 ReplayLogger
 SpoilerViewerMod
+Archipelago Map Mod
+MyHK
+RandoPlus

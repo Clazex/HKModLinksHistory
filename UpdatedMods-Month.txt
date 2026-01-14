@@ -41,3 +41,6 @@ BugPrince
 PurenailCore
 ReplayLogger
 SpoilerViewerMod
+Archipelago Map Mod
+MyHK
+RandoPlus

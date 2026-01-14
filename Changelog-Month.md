@@ -67,14 +67,6 @@
   + Expansion
   + Gameplay
 
-### NoGlow
-
-- Description: Toggles the faint glow that follows the Knight around.
-- Dependencies
-  + Satchel
-- Tags
-  + Gameplay
-
 
 ## Removed mods
 
@@ -100,6 +92,10 @@
 ### AccessRandomizer
 
 - Version: 1.3.0.5 -> 1.4.0.1
+
+### Archipelago Map Mod
+
+- Version: 3.2.0.0 -> 3.3.0.0
 
 ### BenchRando
 
@@ -149,6 +145,10 @@
 
 - Version: 3.2.1.0 -> 3.3.0.0
 
+### MyHK
+
+- Version: 1.2.0.4 -> 1.2.0.5
+
 ### PlatformingQoL
 
 - Version: 1.0.0.0 -> 1.2.0.0
@@ -156,6 +156,10 @@
 ### PurenailCore
 
 - Version: 1.5.0.0 -> 2.0.0.1
+
+### RandoPlus
+
+- Version: 1.7.0.2 -> 1.7.0.3
 
 ### Randomizable Levers
 
