@@ -22,3 +22,6 @@ SpoilerViewerMod
 Archipelago Map Mod
 MyHK
 RandoPlus
+Knight of Nights
+SpoilerViewerMod
+TreasureHunt

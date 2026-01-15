@@ -5325,11 +5325,11 @@
   },
   "Knight of Nights": {
     "description": "A mod for the Holloween 2025 plando, with some rando integration.",
-    "version": "2.0.0.2",
+    "version": "2.0.1.0",
     "links": {
       "type": "universal",
-      "sha256": "F466AD3514B26EC9B438841510914620161F76B4D097C96850CB19C9B52394A6",
-      "url": "https://github.com/dplochcoder/HollowKnight.KnightOfNights/releases/download/v2.0.0.2/KnightOfNights.zip"
+      "sha256": "3113E665F7C9436D22A2899636250CE4D72B3D24BBEE2BC42990A7C4365FCAF7",
+      "url": "https://github.com/dplochcoder/HollowKnight.KnightOfNights/releases/download/v2.0.1.0/KnightOfNights.zip"
     },
     "dependencies": [
       "Benchwarp",
@@ -9117,11 +9117,11 @@
   },
   "SpoilerViewerMod": {
     "description": "Provides a Java GUI for navigating the spoiler log of randos or plandos. Requires Java to be installed.",
-    "version": "2.12.0.0",
+    "version": "2.12.1.0",
     "links": {
       "type": "universal",
-      "sha256": "2497DD129506AED240260F8D36BA72D0758AD28C729597E7BFE3EC0B300B3AAC",
-      "url": "https://github.com/dplochcoder/hkspoilerviewer/releases/download/v2.12/SpoilerViewerMod.zip"
+      "sha256": "6FAA29FDC57D15982D21778BF8B2173B989574F10BAB64C9F92CDED6B61168A8",
+      "url": "https://github.com/dplochcoder/hkspoilerviewer/releases/download/v2.12.1/SpoilerViewerMod.zip"
     },
     "dependencies": [
       "ItemChanger",
@@ -9607,11 +9607,11 @@
   },
   "TreasureHunt": {
     "description": "A Randomizer 4 connection fro a semi-spoiler format.",
-    "version": "1.6.3.0",
+    "version": "1.7.1.0",
     "links": {
       "type": "universal",
-      "sha256": "9ADCF8B02CEED73DE2965C8F6328B4AB4FAB04D84180C7129EC6998847A95ADE",
-      "url": "https://github.com/dplochcoder/HollowKnight.TreasureHunt/releases/download/v1.6.3.0/TreasureHunt.zip"
+      "sha256": "02583C30368E01FB2922F320F8FB76580F635AB54044B459A3CB3ED58D7E3AD6",
+      "url": "https://github.com/dplochcoder/HollowKnight.TreasureHunt/releases/download/v1.7.1.0/TreasureHunt.zip"
     },
     "dependencies": [
       "ConnectionMetadataInjector",

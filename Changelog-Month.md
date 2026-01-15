@@ -201,11 +201,15 @@
 
 ### SpoilerViewerMod
 
-- Version: 2.11.0.0 -> 2.12.0.0
+- Version: 2.11.0.0 -> 2.12.1.0
 
 ### Transcendence
 
 - Version: 1.5.5.0 -> 1.5.6.0
+
+### TreasureHunt
+
+- Version: 1.6.3.0 -> 1.7.1.0
 
 ### UnRando
 
