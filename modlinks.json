@@ -2280,11 +2280,11 @@
   },
   "DarknessRandomizer": {
     "description": "A Rando 4 connection to randomize the dark corners of Hallownest.",
-    "version": "1.5.0.0",
+    "version": "1.5.1.0",
     "links": {
       "type": "universal",
-      "sha256": "051F8C55DA2E417B9E6AB305187126A800C1CA183CE1FE0625021450C12F99C2",
-      "url": "https://github.com/dplochcoder/HollowKnight.DarknessRandomizer/releases/download/v1.5.0.0/DarknessRandomizer.zip"
+      "sha256": "23FD3709688EB88803D0E98761EAFE0551F69FF9C7445A177FAEC8792D2BFBAE",
+      "url": "https://github.com/dplochcoder/HollowKnight.DarknessRandomizer/releases/download/v1.5.1.0/DarknessRandomizer.zip"
     },
     "dependencies": [
       "ItemChanger",
@@ -5325,11 +5325,11 @@
   },
   "Knight of Nights": {
     "description": "A mod for the Holloween 2025 plando, with some rando integration.",
-    "version": "2.0.1.0",
+    "version": "2.0.2.0",
     "links": {
       "type": "universal",
-      "sha256": "3113E665F7C9436D22A2899636250CE4D72B3D24BBEE2BC42990A7C4365FCAF7",
-      "url": "https://github.com/dplochcoder/HollowKnight.KnightOfNights/releases/download/v2.0.1.0/KnightOfNights.zip"
+      "sha256": "25B990438ACFFAC5D118CC87F0E90EDEFB763F7E902850AECA2E759F9CCB7874",
+      "url": "https://github.com/dplochcoder/HollowKnight.KnightOfNights/releases/download/v2.0.2.0/KnightOfNights.zip"
     },
     "dependencies": [
       "Benchwarp",

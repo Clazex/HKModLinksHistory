@@ -46,15 +46,7 @@
 
 ### DarknessRandomizer
 
-- Version: 1.4.8.2 -> 1.5.0.0
-
-### INFINITY
-
-- Version: 0.0.12.0 -> 0.2.0.0
-- Dependencies
-  + Added
-    - HKTool
-    - Nosk God
+- Version: 1.4.8.2 -> 1.5.1.0
 
 ### ItemChanger
 

@@ -1,4 +1,3 @@
-INFINITY
 BenchRando
 Benchwarp
 BugPrince
@@ -26,3 +25,5 @@ RandoPlus
 Knight of Nights
 SpoilerViewerMod
 TreasureHunt
+DarknessRandomizer
+Knight of Nights
