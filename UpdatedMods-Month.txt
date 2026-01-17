@@ -1,5 +1,3 @@
-PlatformingQoL
-Silksong Healing
 SafeGodseekerQoL
 GodhomeQoL
 AccessRandomizer
@@ -47,3 +45,5 @@ SpoilerViewerMod
 TreasureHunt
 DarknessRandomizer
 Knight of Nights
+Knight of Nights
+Random Pantheons

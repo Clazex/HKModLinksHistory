@@ -27,3 +27,6 @@ SpoilerViewerMod
 TreasureHunt
 DarknessRandomizer
 Knight of Nights
+GrubFriendlyRando
+Knight of Nights
+Random Pantheons

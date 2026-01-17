@@ -32,6 +32,14 @@
   + Satchel
   + Vasi
 
+### GrubFriendlyRando
+
+- Description: Changes the grub shop description to &quot;a cute little wiggly friend!&quot;
+- Dependencies
+  + ItemChanger
+- Tags
+  + Cosmetic
+
 ### HuKing
 
 - Description: A modboss of Elder Ghost Hu
@@ -151,7 +159,7 @@
 
 ### PlatformingQoL
 
-- Version: 1.0.0.0 -> 1.2.0.0
+- Version: 1.1.0.0 -> 1.2.0.0
 
 ### PurenailCore
 
@@ -160,6 +168,10 @@
 ### RandoPlus
 
 - Version: 1.7.0.2 -> 1.7.0.3
+
+### Random Pantheons
+
+- Version: 1.1.0.0 -> 1.4.0.0
 
 ### Randomizable Levers
 
@@ -187,10 +199,6 @@
 ### Scattered and Lost
 
 - Version: 1.5.2.1 -> 1.6.0.0
-
-### Silksong Healing
-
-- Version: 2.0.0.0 -> 2.0.0.1
 
 ### SpicyRando
 

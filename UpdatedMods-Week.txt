@@ -26,3 +26,5 @@ SpoilerViewerMod
 TreasureHunt
 DarknessRandomizer
 Knight of Nights
+Knight of Nights
+Random Pantheons

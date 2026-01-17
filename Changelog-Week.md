@@ -3,6 +3,14 @@
 
 ## New mods
 
+### GrubFriendlyRando
+
+- Description: Changes the grub shop description to &quot;a cute little wiggly friend!&quot;
+- Dependencies
+  + ItemChanger
+- Tags
+  + Cosmetic
+
 ### Knight of Nights
 
 - Description: A mod for the Holloween 2025 plando, with some rando integration.
@@ -71,6 +79,10 @@
 ### RandoPlus
 
 - Version: 1.7.0.2 -> 1.7.0.3
+
+### Random Pantheons
+
+- Version: 1.1.0.0 -> 1.4.0.0
 
 ### Randomizer 4
 
