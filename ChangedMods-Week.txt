@@ -1,18 +1,3 @@
-BenchRando
-Benchwarp
-BugPrince
-DarknessRandomizer
-ItemChanger
-ItemSync
-MoreDoors
-PurenailCore
-Randomizer 4
-RandomizerCore
-RandomizerCore.Json
-Scattered and Lost
-SpicyRando
-Transcendence
-UnRando
 Breakable Wall Randomizer
 BugPrince
 Knight of Nights
@@ -30,3 +15,6 @@ Knight of Nights
 GrubFriendlyRando
 Knight of Nights
 Random Pantheons
+Less Flashing Lights
+RandomizerCore
+YetAnotherRandoConnection

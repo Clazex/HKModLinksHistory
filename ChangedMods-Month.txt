@@ -1,6 +1,4 @@
 GodhomeQoL
-SafeGodseekerQoL
-GodhomeQoL
 Drunk Knight
 AccessRandomizer
 Drunk Knight
@@ -54,3 +52,6 @@ Knight of Nights
 GrubFriendlyRando
 Knight of Nights
 Random Pantheons
+Less Flashing Lights
+RandomizerCore
+YetAnotherRandoConnection

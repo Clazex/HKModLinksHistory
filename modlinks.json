@@ -5484,11 +5484,11 @@
   },
   "Less Flashing Lights": {
     "description": "Reduces the amount of flashing lights. Check the readme for more info",
-    "version": "1.0.0.0",
+    "version": "1.0.1.0",
     "links": {
       "type": "universal",
-      "sha256": "E022876E944AB6ACF4560167B4A65058DE5BAB46D2C0250E5486224CEE618D76",
-      "url": "https://github.com/Arwangha/LessFlashingLights/releases/download/v1.0.0/LessFlashingLights.zip"
+      "sha256": "05F556C63F8CA32558492A415316A5DF823E83AF7FC011FDE56389432D843F7D",
+      "url": "https://github.com/Arwangha/LessFlashingLights/releases/download/v1.0.1/LessFlashingLights.zip"
     },
     "dependencies": [
       "Satchel"
@@ -8074,11 +8074,11 @@
   },
   "RandomizerCore": {
     "description": "A library for randomizer logic and algorithms.",
-    "version": "2.1.1.0",
+    "version": "2.1.2.0",
     "links": {
       "type": "universal",
-      "sha256": "D7C775EB784F46B75BBA9B68CFCF2DB23AD1DC75EE93A51E353A1DAAB3145ABA",
-      "url": "https://github.com/homothetyhk/RandomizerCore/releases/download/v2.1.1/RandomizerCore.zip"
+      "sha256": "F3E910628F7508C084A44422494EF94C929DE349D3BFE8FAD0B352D748ACC82B",
+      "url": "https://github.com/homothetyhk/RandomizerCore/releases/download/v2.1.2/RandomizerCore.zip"
     },
     "dependencies": [],
     "repository": "https://github.com/homothetyhk/RandomizerCore/"
@@ -10181,11 +10181,11 @@
   },
   "YetAnotherRandoConnection": {
     "description": "A Randomizer add-on with an assortment of additions",
-    "version": "1.1.0.3",
+    "version": "1.1.0.4",
     "links": {
       "type": "universal",
-      "sha256": "A43FFA050A6F01F480601A3D85EE023C3708F040201F0717656F4F0901CBDB0F",
-      "url": "https://github.com/TheMathGeek314/YetAnotherRandoConnection/releases/download/v1.1.0.3/YetAnotherRandoConnection.zip"
+      "sha256": "2F41A294085FF06654B9B67C76336C24A2D22E11A31D2F658E9781605F086E60",
+      "url": "https://github.com/TheMathGeek314/YetAnotherRandoConnection/releases/download/v1.1.0.4/YetAnotherRandoConnection.zip"
     },
     "dependencies": [
       "ConnectionMetadataInjector",

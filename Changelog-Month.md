@@ -23,15 +23,6 @@
 - Tags
   + Joke
 
-### GodhomeQoL
-
-- Description: This mod is useful for challenge runners who don&#x27;t want their runs to be accidentally affected by QoL mods.
-- Dependencies
-  + Osmi
-  + SFCore
-  + Satchel
-  + Vasi
-
 ### GrubFriendlyRando
 
 - Description: Changes the grub shop description to &quot;a cute little wiggly friend!&quot;
@@ -78,21 +69,7 @@
 
 ## Removed mods
 
-- Charm ReValance
-- CustomizableNailDamage
-- Damage Values Rewritten
-- DamageValues
-- HK_QoLTeleportKit
-- Hollow Knight Achievement Manager
-- Peaking Peeking Peaks
-- PowerfulShadowDash
-- PvP Arena
 - SafeGodseekerQoL
-- Stories of a HK player - Chapter 1
-- Stories of a HK player - Chapter 2
-- Sunset Samsara II
-- Test of Teamwork
-- Zaliants Surprise
 
 
 ## Updated mods
@@ -129,6 +106,10 @@
 
 - Version: 1.0.0.0 -> 1.0.0.1
 
+### GodhomeQoL
+
+- Version: 1.0.0.5 -> 1.0.0.7
+
 ### INFINITY
 
 - Version: 0.0.12.0 -> 0.2.0.0
@@ -144,6 +125,10 @@
 ### ItemSync
 
 - Version: 2.7.2.0 -> 2.7.3.0
+
+### Less Flashing Lights
+
+- Version: 1.0.0.0 -> 1.0.1.0
 
 ### MilliGolf
 
@@ -183,7 +168,7 @@
 
 ### RandomizerCore
 
-- Version: 2.0.3.0 -> 2.1.1.0
+- Version: 2.0.3.0 -> 2.1.2.0
 
 ### RandomizerCore.Json
 
@@ -223,4 +208,8 @@
 ### VendorRando
 
 - Version: 1.1.0.0 -> 1.1.1.0
+
+### YetAnotherRandoConnection
+
+- Version: 1.1.0.3 -> 1.1.0.4
 
