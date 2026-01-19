@@ -7045,11 +7045,11 @@
   },
   "Pale Court Charms": {
     "description": "Adds charms from Pale Court. Made to allow compatibility with mods that don't work with the main Pale Court. Works with Randomizer and Transcendence.\n        Do not use with Pale Court,as both mods add the same charms.",
-    "version": "1.3.2.0",
+    "version": "1.3.3.0",
     "links": {
       "type": "universal",
-      "sha256": "93B62E74B8DDDFAAA64954D2A6595B4EEF728CFE921CD986ABB87621022CC607",
-      "url": "https://github.com/Roma-337/PaleCourtCharms/releases/download/v1.3.2/PaleCourtCharms.zip"
+      "sha256": "FCD55153D6F86B06519DA9A9C98DFB4F34C60A625D8763A133769E098AC99008",
+      "url": "https://github.com/Roma-337/PaleCourtCharms/releases/download/v1.3.3/PaleCourtCharms.zip"
     },
     "dependencies": [
       "ItemChanger",
@@ -7436,6 +7436,25 @@
     "repository": "https://github.com/Null993/Powerful-Shadow-Dash/",
     "authors": [
       "Null_993"
+    ]
+  },
+  "ProfanityFilterAddon": {
+    "description": "Server-side profanity filter addon for HKMP and SSMP. currently uses a high-performance rule-based filtering engine.",
+    "version": "1.1.0.0",
+    "links": {
+      "type": "universal",
+      "sha256": "DF5730C63A45A1266F984ACE2C3EE3903A05B29D8FA934756E1EA18A4F9AD9E2",
+      "url": "https://github.com/diamondpixel/ProfanityFilterAddon/releases/download/v1.1.0/ProfanityFilterAddon-Client.zip"
+    },
+    "dependencies": [
+      "HKMP"
+    ],
+    "repository": "https://github.com/diamondpixel/ProfanityFilterAddon",
+    "tags": [
+      "Utility"
+    ],
+    "authors": [
+      "Liparakis"
     ]
   },
   "Propeller Knight": {

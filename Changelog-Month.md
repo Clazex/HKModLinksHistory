@@ -66,6 +66,14 @@
   + Expansion
   + Gameplay
 
+### ProfanityFilterAddon
+
+- Description: Server-side profanity filter addon for HKMP and SSMP. currently uses a high-performance rule-based filtering engine.
+- Dependencies
+  + HKMP
+- Tags
+  + Utility
+
 
 ## Removed mods
 
@@ -108,7 +116,7 @@
 
 ### GodhomeQoL
 
-- Version: 1.0.0.5 -> 1.0.0.7
+- Version: 1.0.0.6 -> 1.0.0.7
 
 ### INFINITY
 
@@ -141,6 +149,10 @@
 ### MyHK
 
 - Version: 1.2.0.4 -> 1.2.0.5
+
+### Pale Court Charms
+
+- Version: 1.3.2.0 -> 1.3.3.0
 
 ### PlatformingQoL
 
