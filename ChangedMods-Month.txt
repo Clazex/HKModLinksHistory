@@ -1,4 +1,3 @@
-Drunk Knight
 AccessRandomizer
 Drunk Knight
 ReplayLogger
@@ -56,3 +55,6 @@ RandomizerCore
 YetAnotherRandoConnection
 Pale Court Charms
 ProfanityFilterAddon
+Archipelago Map Mod
+ExtraNotchesForExtraCharms
+RandoMapCore

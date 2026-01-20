@@ -419,11 +419,11 @@
   },
   "Archipelago Map Mod": {
     "description": "A conversion of RandoMapMod that works with the Archipelago multiworld randomizer",
-    "version": "3.3.0.0",
+    "version": "3.3.1.0",
     "links": {
       "type": "universal",
-      "sha256": "ADCEA455795DEDBE883BDF092C87BD17DA3E147C6D0D818A4F042D608B148A0F",
-      "url": "https://github.com/ArchipelagoMW-HollowKnight/Archipelago.APMapMod/releases/download/v3.3.0/Archipelago.Map.Mod.zip"
+      "sha256": "F62464C16AC86B23BEDAD693514229EE4A8CF419C770445B13A85136FA6B8164",
+      "url": "https://github.com/ArchipelagoMW-HollowKnight/Archipelago.APMapMod/releases/download/v3.3.1/Archipelago.Map.Mod.zip"
     },
     "dependencies": [
       "Archipelago",
@@ -3078,6 +3078,28 @@
     "repository": "https://github.com/beesnation/ExtraMenuBackgrounds",
     "tags": [
       "Cosmetic"
+    ]
+  },
+  "ExtraNotchesForExtraCharms": {
+    "description": "This mod adds extra charm notches based on how many mod charms you have installed.",
+    "version": "1.0.0.0",
+    "links": {
+      "type": "universal",
+      "sha256": "815EE61E327F97364FE4E9574119990BD5DF6A06D1B7CE10FAE0F450E0F87274",
+      "url": "https://github.com/danielstegink/HollowKnight.ExtraNotchesForExtraCharms/releases/download/1.0.0.0/ExtraNotchesForExtraCharms.zip"
+    },
+    "dependencies": [
+      "DanielSteginkUtils",
+      "SFCore",
+      "Satchel"
+    ],
+    "repository": "https://github.com/danielstegink/HollowKnight.ExtraNotchesForExtraCharms",
+    "issues": "https://github.com/danielstegink/HollowKnight.ExtraNotchesForExtraCharms/issues",
+    "tags": [
+      "Gameplay"
+    ],
+    "authors": [
+      "DanielStegink"
     ]
   },
   "ExtraSpells": {
@@ -7822,11 +7844,11 @@
   },
   "RandoMapCore": {
     "description": "A library for RandoMapMod and ArchipelagoMapMod.",
-    "version": "1.0.17.0",
+    "version": "1.0.18.0",
     "links": {
       "type": "universal",
-      "sha256": "CB7A8A8F93AD78FB12FC19FC5E71667BAAD877AC79920D95C8800741E5911403",
-      "url": "https://github.com/syyePhenomenol/RandoMapCore/releases/download/v1.0.17/RandoMapCore.zip"
+      "sha256": "4F14094DF2542522BED6824D4932A47ACBB765CF6CFAF8EE7A16EA61AE3400EA",
+      "url": "https://github.com/syyePhenomenol/RandoMapCore/releases/download/v1.0.18/RandoMapCore.zip"
     },
     "dependencies": [
       "ConnectionMetadataInjector",

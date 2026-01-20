@@ -1,2 +1,3 @@
-DarknessRandomizer
+GrubFriendlyRando
 Knight of Nights
+Random Pantheons

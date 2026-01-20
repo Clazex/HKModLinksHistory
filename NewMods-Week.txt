@@ -1,2 +1,3 @@
 GrubFriendlyRando
 ProfanityFilterAddon
+ExtraNotchesForExtraCharms

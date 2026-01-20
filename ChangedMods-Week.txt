@@ -1,6 +1,3 @@
-Archipelago Map Mod
-MyHK
-RandoPlus
 Knight of Nights
 SpoilerViewerMod
 TreasureHunt
@@ -14,3 +11,6 @@ RandomizerCore
 YetAnotherRandoConnection
 Pale Court Charms
 ProfanityFilterAddon
+Archipelago Map Mod
+ExtraNotchesForExtraCharms
+RandoMapCore

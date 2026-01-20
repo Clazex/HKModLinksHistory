@@ -15,13 +15,15 @@
 - Tags
   + Charm
 
-### Drunk Knight
+### ExtraNotchesForExtraCharms
 
-- Description: Add a sin and chromatic aberration effect to the camera
+- Description: This mod adds extra charm notches based on how many mod charms you have installed.
 - Dependencies
+  + DanielSteginkUtils
+  + SFCore
   + Satchel
 - Tags
-  + Joke
+  + Gameplay
 
 ### GrubFriendlyRando
 
@@ -88,7 +90,7 @@
 
 ### Archipelago Map Mod
 
-- Version: 3.2.0.0 -> 3.3.0.0
+- Version: 3.2.0.0 -> 3.3.1.0
 
 ### BenchRando
 
@@ -109,6 +111,15 @@
 ### DarknessRandomizer
 
 - Version: 1.4.8.2 -> 1.5.1.0
+
+### Drunk Knight
+
+- Version: 1.0.0.0 -> 1.1.0.0
+- Dependencies
+  + Removed
+    - Vasi
+  + Added
+    - Satchel
 
 ### FlappyKnight
 
@@ -161,6 +172,10 @@
 ### PurenailCore
 
 - Version: 1.5.0.0 -> 2.0.0.1
+
+### RandoMapCore
+
+- Version: 1.0.17.0 -> 1.0.18.0
 
 ### RandoPlus
 

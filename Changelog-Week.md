@@ -3,6 +3,16 @@
 
 ## New mods
 
+### ExtraNotchesForExtraCharms
+
+- Description: This mod adds extra charm notches based on how many mod charms you have installed.
+- Dependencies
+  + DanielSteginkUtils
+  + SFCore
+  + Satchel
+- Tags
+  + Gameplay
+
 ### GrubFriendlyRando
 
 - Description: Changes the grub shop description to &quot;a cute little wiggly friend!&quot;
@@ -24,7 +34,7 @@
 
 ### Archipelago Map Mod
 
-- Version: 3.2.0.0 -> 3.3.0.0
+- Version: 3.3.0.0 -> 3.3.1.0
 
 ### DarknessRandomizer
 
@@ -38,17 +48,13 @@
 
 - Version: 1.0.0.0 -> 1.0.1.0
 
-### MyHK
-
-- Version: 1.2.0.4 -> 1.2.0.5
-
 ### Pale Court Charms
 
 - Version: 1.3.2.0 -> 1.3.3.0
 
-### RandoPlus
+### RandoMapCore
 
-- Version: 1.7.0.2 -> 1.7.0.3
+- Version: 1.0.17.0 -> 1.0.18.0
 
 ### Random Pantheons
 
