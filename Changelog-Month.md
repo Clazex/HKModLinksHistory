@@ -86,7 +86,7 @@
 
 ### AccessRandomizer
 
-- Version: 1.3.0.5 -> 1.4.0.1
+- Version: 1.4.0.0 -> 1.4.0.1
 
 ### Archipelago Map Mod
 
@@ -111,15 +111,6 @@
 ### DarknessRandomizer
 
 - Version: 1.4.8.2 -> 1.5.1.0
-
-### Drunk Knight
-
-- Version: 1.0.0.0 -> 1.1.0.0
-- Dependencies
-  + Removed
-    - Vasi
-  + Added
-    - Satchel
 
 ### FlappyKnight
 
@@ -203,10 +194,7 @@
 
 ### ReplayLogger
 
-- Version: 1.0.0.7 -> 1.0.1.4
-- Dependencies
-  + Added
-    - Satchel
+- Version: 1.0.0.9 -> 1.0.1.4
 
 ### Scattered and Lost
 
