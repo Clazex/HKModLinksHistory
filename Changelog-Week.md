@@ -36,13 +36,9 @@
 
 - Version: 3.3.0.0 -> 3.3.1.0
 
-### DarknessRandomizer
-
-- Version: 1.5.0.0 -> 1.5.1.0
-
 ### Knight of Nights
 
-- Version: 2.0.1.0 -> 2.0.3.0
+- Version: 2.0.2.0 -> 2.0.3.0
 
 ### Less Flashing Lights
 
