@@ -1,4 +1,3 @@
-VendorRando
 PlatformingQoL
 AccessRandomizer
 FlappyKnight

@@ -1,6 +1,3 @@
-GrubFriendlyRando
-Knight of Nights
-Random Pantheons
 Less Flashing Lights
 RandomizerCore
 YetAnotherRandoConnection
