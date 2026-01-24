@@ -28,23 +28,18 @@
 
 - Version: 3.3.0.0 -> 3.3.1.0
 
-### Less Flashing Lights
-
-- Version: 1.0.0.0 -> 1.0.1.0
-
 ### Pale Court Charms
 
 - Version: 1.3.2.0 -> 1.3.3.0
 
+### Pure Vessel Skills
+
+- Version: 1.0.0.0 -> 1.0.1.0
+- Dependencies
+  + Added
+    - Satchel
+
 ### RandoMapCore
 
 - Version: 1.0.17.0 -> 1.0.18.0
-
-### RandomizerCore
-
-- Version: 2.1.1.0 -> 2.1.2.0
-
-### YetAnotherRandoConnection
-
-- Version: 1.1.0.3 -> 1.1.0.4
 

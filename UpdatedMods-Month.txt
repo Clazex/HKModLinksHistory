@@ -47,3 +47,4 @@ YetAnotherRandoConnection
 Pale Court Charms
 Archipelago Map Mod
 RandoMapCore
+Pure Vessel Skills
