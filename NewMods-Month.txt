@@ -4,3 +4,5 @@ Knight of Nights
 GrubFriendlyRando
 ProfanityFilterAddon
 ExtraNotchesForExtraCharms
+GeoRando
+RecentItemsDisplayNoGeo

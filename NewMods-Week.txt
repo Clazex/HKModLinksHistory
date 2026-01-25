@@ -1,2 +1,3 @@
-ProfanityFilterAddon
 ExtraNotchesForExtraCharms
+GeoRando
+RecentItemsDisplayNoGeo

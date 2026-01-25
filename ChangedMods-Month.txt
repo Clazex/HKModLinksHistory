@@ -54,3 +54,9 @@ Archipelago Map Mod
 ExtraNotchesForExtraCharms
 RandoMapCore
 Pure Vessel Skills
+Breakable Wall Randomizer
+GeoRando
+GodhomeRandomizer
+Pale Court Charms
+RecentItemsDisplayNoGeo
+SpicyRando

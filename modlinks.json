@@ -995,11 +995,11 @@
   },
   "Breakable Wall Randomizer": {
     "description": "A Hollow Knight Randomizer add-on for breakable walls.",
-    "version": "4.1.1.6",
+    "version": "4.1.1.7",
     "links": {
       "type": "universal",
-      "sha256": "546435FE15E44162A0F247E9B8902614633B26130AD479851FD1AD26549DC514",
-      "url": "https://github.com/nerthul11/BreakableWallRandomizer/releases/download/4.1.1.6/BreakableWallRandomizer.zip"
+      "sha256": "384E0D9F647E3DCFF09CDB7381BB4E7FBF4F5CA8B90B694DC45FC823508869DA",
+      "url": "https://github.com/nerthul11/BreakableWallRandomizer/releases/download/4.1.1.7/BreakableWallRandomizer.zip"
     },
     "dependencies": [
       "Randomizer 4",
@@ -3849,6 +3849,29 @@
       "DanielStegink"
     ]
   },
+  "GeoRando": {
+    "description": "A Randomizer connection for every individual piece of geo",
+    "version": "1.0.0.0",
+    "links": {
+      "type": "universal",
+      "sha256": "F454167314DB00C84829EAC1B295F1BDBB0864C54343702667537B279B40BBA0",
+      "url": "https://github.com/TheMathGeek314/GeoRando/releases/download/v1.0.0.0/GeoRando.zip"
+    },
+    "dependencies": [
+      "ItemChanger",
+      "MenuChanger",
+      "Randomizer 4",
+      "RandomizerCore",
+      "RandomizerCore.Json"
+    ],
+    "repository": "https://github.com/TheMathGeek314/GeoRando/",
+    "integrations": [
+      "RandoSettingsManager"
+    ],
+    "authors": [
+      "TheMathGeek_314"
+    ]
+  },
   "GhostHunter": {
     "description": "A mod that shows the positions of other player's enemies during multiplay.",
     "version": "2.1.0.0",
@@ -4030,11 +4053,11 @@
   },
   "GodhomeRandomizer": {
     "description": "A Randomizer add-on for Godhome elements.",
-    "version": "2.2.4.10",
+    "version": "2.2.4.11",
     "links": {
       "type": "universal",
-      "sha256": "AB1C5BA49CE13D30B03D25A20891D751FD28C026052893E3CCDB722D332CDBBB",
-      "url": "https://github.com/nerthul11/GodhomeRandomizer/releases/download/2.2.4.10/GodhomeRandomizer.zip"
+      "sha256": "B8F61FA20E77342F3C99BA082C61504AC0D281C9C3C2D10F46E7716D771D32E2",
+      "url": "https://github.com/nerthul11/GodhomeRandomizer/releases/download/2.2.4.11/GodhomeRandomizer.zip"
     },
     "dependencies": [
       "ItemChanger",
@@ -4593,29 +4616,6 @@
       "Vasi"
     ],
     "repository": "https://github.com/jngo102/HoGExtras/"
-  },
-  "HallOfGodsRandomizer": {
-    "description": "DEPRECATED. USE GODHOME RANDOMIZER INSTEAD - A randomizer add-on for Hall of Gods bosses.",
-    "version": "1.1.2.1",
-    "links": {
-      "type": "universal",
-      "sha256": "2CF93185A74A911102618D3DBDC071BCFFF1BC9773166F1564A28EC1CF8D3AF1",
-      "url": "https://github.com/nerthul11/HallOfGodsRandomizer/releases/download/1.1.2.1/HallOfGodsRandomizer.zip"
-    },
-    "dependencies": [
-      "ItemChanger",
-      "KorzUtils",
-      "MenuChanger",
-      "Randomizer 4"
-    ],
-    "repository": "https://github.com/nerthul11/HallOfGodsRandomizer",
-    "issues": "https://github.com/nerthul11/HallOfGodsRandomizer/issues",
-    "tags": [
-      "Gameplay"
-    ],
-    "authors": [
-      "nerthul11"
-    ]
   },
   "Hallownest-Vocalized": {
     "description": "Adds English voice acting to all Hollow Knight's in-game dialogue.",
@@ -7067,11 +7067,11 @@
   },
   "Pale Court Charms": {
     "description": "Adds charms from Pale Court. Made to allow compatibility with mods that don't work with the main Pale Court. Works with Randomizer and Transcendence.\n        Do not use with Pale Court,as both mods add the same charms.",
-    "version": "1.3.3.0",
+    "version": "1.3.4.0",
     "links": {
       "type": "universal",
-      "sha256": "FCD55153D6F86B06519DA9A9C98DFB4F34C60A625D8763A133769E098AC99008",
-      "url": "https://github.com/Roma-337/PaleCourtCharms/releases/download/v1.3.3/PaleCourtCharms.zip"
+      "sha256": "F052CCD431221AE8B290771F44871D7669FAE2AAB3D8DDCBAFCD9A9A6AB3AD2E",
+      "url": "https://github.com/Roma-337/PaleCourtCharms/releases/download/v1.3.4/PaleCourtCharms.zip"
     },
     "dependencies": [
       "ItemChanger",
@@ -8165,6 +8165,22 @@
     ],
     "repository": "https://github.com/flibber-hk/HollowKnight.RecentItemsDisplay/"
   },
+  "RecentItemsDisplayNoGeo": {
+    "description": "Adds a togglable filter to remove GeoRando checks from RecentItemsDisplay",
+    "version": "1.0.0.0",
+    "links": {
+      "type": "universal",
+      "sha256": "18117978BEFE775538D137CAA17F6E9285C0011D718D5004AA3717D3BBD94DBF",
+      "url": "https://github.com/TheMathGeek314/RecentItemsDisplayNoGeo/releases/download/v1.0.0.0/RecentItemsDisplayNoGeo.zip"
+    },
+    "dependencies": [
+      "RecentItemsDisplay"
+    ],
+    "repository": "https://github.com/TheMathGeek314/RecentItemsDisplayNoGeo/",
+    "authors": [
+      "TheMathGeek_314"
+    ]
+  },
   "RecentItemsDisplayNoGrass": {
     "description": "RecentItemsDisplay GrassRando notDisplay Grass",
     "version": "1.0.0.0",
@@ -9154,11 +9170,11 @@
   },
   "SpicyRando": {
     "description": "Various difficulty increases in specific parts of rando",
-    "version": "2.1.0.0",
+    "version": "2.1.1.0",
     "links": {
       "type": "universal",
-      "sha256": "B1735BCC438EDE566B17EA0607862433B9E2BA34F4964FBB0F958169DDBA731E",
-      "url": "https://github.com/dplochcoder/HollowKnight.SpicyRando/releases/download/v2.1.0.0/SpicyRando.zip"
+      "sha256": "379B9FDC1C78E16AF5FF37B0D2D43A61E60482D9640C4312C7795BDE9C8DEAC4",
+      "url": "https://github.com/dplochcoder/HollowKnight.SpicyRando/releases/download/v2.1.1.0/SpicyRando.zip"
     },
     "dependencies": [
       "ItemChanger",

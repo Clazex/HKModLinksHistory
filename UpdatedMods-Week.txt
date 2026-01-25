@@ -1,4 +1,7 @@
-Pale Court Charms
 Archipelago Map Mod
 RandoMapCore
 Pure Vessel Skills
+Breakable Wall Randomizer
+GodhomeRandomizer
+Pale Court Charms
+SpicyRando
