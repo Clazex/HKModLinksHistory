@@ -5366,11 +5366,11 @@
   },
   "Knight of Nights": {
     "description": "A mod for the Holloween 2025 plando, with some rando integration.",
-    "version": "2.0.3.0",
+    "version": "2.0.4.0",
     "links": {
       "type": "universal",
       "sha256": "251DC74403B07711F0CBCA86731EB9E67B37566C1298C7CCB64C01A7EDB6B6B8",
-      "url": "https://github.com/dplochcoder/HollowKnight.KnightOfNights/releases/download/v2.0.3.0/KnightOfNights.zip"
+      "url": "https://github.com/dplochcoder/HollowKnight.KnightOfNights/releases/download/v2.0.4.0/KnightOfNights.zip"
     },
     "dependencies": [
       "Benchwarp",

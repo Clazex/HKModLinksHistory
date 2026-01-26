@@ -1,3 +1,2 @@
-ExtraNotchesForExtraCharms
 GeoRando
 RecentItemsDisplayNoGeo

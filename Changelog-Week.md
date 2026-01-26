@@ -3,16 +3,6 @@
 
 ## New mods
 
-### ExtraNotchesForExtraCharms
-
-- Description: This mod adds extra charm notches based on how many mod charms you have installed.
-- Dependencies
-  + DanielSteginkUtils
-  + SFCore
-  + Satchel
-- Tags
-  + Gameplay
-
 ### GeoRando
 
 - Description: A Randomizer connection for every individual piece of geo
@@ -39,10 +29,6 @@
 
 ## Updated mods
 
-### Archipelago Map Mod
-
-- Version: 3.3.0.0 -> 3.3.1.0
-
 ### Breakable Wall Randomizer
 
 - Version: 4.1.1.6 -> 4.1.1.7
@@ -50,6 +36,10 @@
 ### GodhomeRandomizer
 
 - Version: 2.2.4.10 -> 2.2.4.11
+
+### Knight of Nights
+
+- Version: 2.0.3.0 -> 2.0.4.0
 
 ### Pale Court Charms
 
@@ -61,10 +51,6 @@
 - Dependencies
   + Added
     - Satchel
-
-### RandoMapCore
-
-- Version: 1.0.17.0 -> 1.0.18.0
 
 ### SpicyRando
 

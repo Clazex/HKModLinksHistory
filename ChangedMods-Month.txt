@@ -1,4 +1,3 @@
-PlatformingQoL
 AccessRandomizer
 DistantGreens Charms
 FlappyKnight
@@ -60,3 +59,4 @@ GodhomeRandomizer
 Pale Court Charms
 RecentItemsDisplayNoGeo
 SpicyRando
+Knight of Nights
