@@ -3851,11 +3851,11 @@
   },
   "GeoRando": {
     "description": "A Randomizer connection for every individual piece of geo",
-    "version": "1.0.0.0",
+    "version": "1.0.1.0",
     "links": {
       "type": "universal",
-      "sha256": "F454167314DB00C84829EAC1B295F1BDBB0864C54343702667537B279B40BBA0",
-      "url": "https://github.com/TheMathGeek314/GeoRando/releases/download/v1.0.0.0/GeoRando.zip"
+      "sha256": "A200BE90E9A2B41947DB4BE60A957CA2356746AA831BDEABAB6AF598035DA1D7",
+      "url": "https://github.com/TheMathGeek314/GeoRando/releases/download/v1.0.1.0/GeoRando.zip"
     },
     "dependencies": [
       "ItemChanger",

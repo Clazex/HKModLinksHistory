@@ -6,3 +6,4 @@ Pale Court Charms
 RecentItemsDisplayNoGeo
 SpicyRando
 Knight of Nights
+GeoRando

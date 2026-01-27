@@ -52,3 +52,4 @@ GodhomeRandomizer
 Pale Court Charms
 SpicyRando
 Knight of Nights
+GeoRando
