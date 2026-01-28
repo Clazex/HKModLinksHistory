@@ -21,6 +21,12 @@
 - Dependencies
   + RecentItemsDisplay
 
+### RecentItemsDisplayNoOneEssence
+
+- Description: Adds a togglable filter to remove 1 Essence checks from RecentItemsDisplay
+- Dependencies
+  + RecentItemsDisplay
+
 
 ## Removed mods
 
@@ -52,7 +58,15 @@
   + Added
     - Satchel
 
+### RandoPlus
+
+- Version: 1.7.0.3 -> 1.7.0.4
+
 ### SpicyRando
 
 - Version: 2.1.0.0 -> 2.1.1.0
+
+### VendorRando
+
+- Version: 1.1.1.0 -> 1.1.1.2
 

@@ -5,3 +5,6 @@ Pale Court Charms
 SpicyRando
 Knight of Nights
 GeoRando
+GeoRando
+RandoPlus
+VendorRando

@@ -3851,11 +3851,11 @@
   },
   "GeoRando": {
     "description": "A Randomizer connection for every individual piece of geo",
-    "version": "1.0.1.0",
+    "version": "1.0.1.1",
     "links": {
       "type": "universal",
-      "sha256": "A200BE90E9A2B41947DB4BE60A957CA2356746AA831BDEABAB6AF598035DA1D7",
-      "url": "https://github.com/TheMathGeek314/GeoRando/releases/download/v1.0.1.0/GeoRando.zip"
+      "sha256": "B5B1B71762F7F01940327286A8FDF8915C39783026985AFC06F3C76C6AA918EB",
+      "url": "https://github.com/TheMathGeek314/GeoRando/releases/download/v1.0.1.1/GeoRando.zip"
     },
     "dependencies": [
       "ItemChanger",
@@ -7905,11 +7905,11 @@
   },
   "RandoPlus": {
     "description": "Add-on for Randomizer 4 that adds more Randomization options; for example, randomize Mr Mushroom locations.",
-    "version": "1.7.0.3",
+    "version": "1.7.0.4",
     "links": {
       "type": "universal",
-      "sha256": "59E36838DA93DBD5927306166D70F81AAE60FB43AB460C1750783146E8A3ABBE",
-      "url": "https://github.com/flibber-hk/HollowKnight.RandoPlus/releases/download/v1.7.0.3/RandoPlus.zip"
+      "sha256": "81E7A50078E16DF864EA1A74B322B2696FB765BF821B2BC25D97BAEEA858816D",
+      "url": "https://github.com/flibber-hk/HollowKnight.RandoPlus/releases/download/v1.7.0.4/RandoPlus.zip"
     },
     "dependencies": [
       "ConnectionMetadataInjector",
@@ -8195,6 +8195,22 @@
     "repository": "https://github.com/wdghzym/RecentItemsDisplayNoGrass",
     "authors": [
       "wdghzym"
+    ]
+  },
+  "RecentItemsDisplayNoOneEssence": {
+    "description": "Adds a togglable filter to remove 1 Essence checks from RecentItemsDisplay",
+    "version": "1.0.0.0",
+    "links": {
+      "type": "universal",
+      "sha256": "46C8E67EB8EFDB78BD0E9F760D1374065FA6CC5D2B8D93CEF7E1E2BFB74539D3",
+      "url": "https://github.com/TheMathGeek314/RecentItemsDisplayNoOneEssence/releases/download/v1.0.0.0/RecentItemsDisplayNoOneEssence.zip"
+    },
+    "dependencies": [
+      "RecentItemsDisplay"
+    ],
+    "repository": "https://github.com/TheMathGeek314/RecentItemsDisplayNoOneEssence/",
+    "authors": [
+      "TheMathGeek_314"
     ]
   },
   "RedoBirthplace": {
@@ -10004,11 +10020,11 @@
   },
   "VendorRando": {
     "description": "A Randomizer add-on that randomizes the physical locations of vendors",
-    "version": "1.1.1.0",
+    "version": "1.1.1.2",
     "links": {
       "type": "universal",
-      "sha256": "18C724BFD4751EB2E111E6FAE0C0C284D8BCCEB33416E48C4823C9CCF2B52893",
-      "url": "https://github.com/TheMathGeek314/VendorRando/releases/download/v1.1.1.0/VendorRando.zip"
+      "sha256": "5414087A87D8D5A214FEBC96AC24279F3426D41896C8921EF006C923A932DD4B",
+      "url": "https://github.com/TheMathGeek314/VendorRando/releases/download/v1.1.1.2/VendorRando.zip"
     },
     "dependencies": [
       "ConnectionMetadataInjector",

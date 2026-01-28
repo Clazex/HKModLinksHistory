@@ -61,3 +61,7 @@ RecentItemsDisplayNoGeo
 SpicyRando
 Knight of Nights
 GeoRando
+GeoRando
+RandoPlus
+RecentItemsDisplayNoOneEssence
+VendorRando

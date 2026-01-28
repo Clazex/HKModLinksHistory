@@ -6,3 +6,4 @@ ProfanityFilterAddon
 ExtraNotchesForExtraCharms
 GeoRando
 RecentItemsDisplayNoGeo
+RecentItemsDisplayNoOneEssence
