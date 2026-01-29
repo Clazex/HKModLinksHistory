@@ -3,18 +3,6 @@
 
 ## New mods
 
-### DistantGreens Charms
-
-- Description: Adds some custom Charms into the Hollow Knight.
-- Dependencies
-  + ItemChanger
-  + SFCore
-- Integrations
-  + DebugMod
-  + Randomizer 4
-- Tags
-  + Charm
-
 ### ExtraNotchesForExtraCharms
 
 - Description: This mod adds extra charm notches based on how many mod charms you have installed.
@@ -100,10 +88,6 @@
 
 ## Updated mods
 
-### AccessRandomizer
-
-- Version: 1.4.0.0 -> 1.4.0.1
-
 ### Archipelago Map Mod
 
 - Version: 3.2.0.0 -> 3.3.1.0
@@ -127,10 +111,6 @@
 ### DarknessRandomizer
 
 - Version: 1.4.8.2 -> 1.5.1.0
-
-### FlappyKnight
-
-- Version: 1.0.0.0 -> 1.0.0.1
 
 ### GodhomeQoL
 
@@ -159,10 +139,6 @@
 ### Less Flashing Lights
 
 - Version: 1.0.0.0 -> 1.0.1.0
-
-### MilliGolf
-
-- Version: 1.3.0.1 -> 1.3.0.2
 
 ### MoreDoors
 
@@ -245,7 +221,7 @@
 
 ### VendorRando
 
-- Version: 1.1.0.1 -> 1.1.1.2
+- Version: 1.1.0.2 -> 1.1.1.2
 
 ### YetAnotherRandoConnection
 
