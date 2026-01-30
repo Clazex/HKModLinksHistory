@@ -1,3 +1,2 @@
+DarknessRandomizer
 Knight of Nights
-SpoilerViewerMod
-TreasureHunt

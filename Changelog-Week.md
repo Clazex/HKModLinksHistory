@@ -51,13 +51,6 @@
 
 - Version: 1.3.3.0 -> 1.3.4.0
 
-### Pure Vessel Skills
-
-- Version: 1.0.0.0 -> 1.0.1.0
-- Dependencies
-  + Added
-    - Satchel
-
 ### RandoPlus
 
 - Version: 1.7.0.3 -> 1.7.0.4

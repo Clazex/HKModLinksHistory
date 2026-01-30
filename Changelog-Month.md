@@ -193,7 +193,7 @@
 
 ### ReplayLogger
 
-- Version: 1.0.0.9 -> 1.0.1.4
+- Version: 1.0.1.0 -> 1.0.1.4
 
 ### Scattered and Lost
 

@@ -1,4 +1,3 @@
-ReplayLogger
 HuKing
 ReplayLogger
 VendorRando
@@ -60,3 +59,4 @@ GeoRando
 RandoPlus
 RecentItemsDisplayNoOneEssence
 VendorRando
+GeoRando

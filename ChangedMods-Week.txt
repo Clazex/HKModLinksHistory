@@ -1,4 +1,3 @@
-Pure Vessel Skills
 Breakable Wall Randomizer
 GeoRando
 GodhomeRandomizer
@@ -11,3 +10,4 @@ GeoRando
 RandoPlus
 RecentItemsDisplayNoOneEssence
 VendorRando
+GeoRando
