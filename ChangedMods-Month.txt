@@ -1,8 +1,5 @@
 HuKing
 ReplayLogger
-VendorRando
-HuKing
-ReplayLogger
 GodhomeQoL
 Randomizable Levers
 INFINITY

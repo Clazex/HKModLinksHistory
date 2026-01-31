@@ -1,24 +1,17 @@
 # Changelog
 
 
-## New mods
-
-### GrubFriendlyRando
-
-- Description: Changes the grub shop description to &quot;a cute little wiggly friend!&quot;
-- Dependencies
-  + ItemChanger
-- Tags
-  + Cosmetic
-
-
 ## Updated mods
 
-### Knight of Nights
+### Less Flashing Lights
 
-- Version: 2.0.2.0 -> 2.0.3.0
+- Version: 1.0.0.0 -> 1.0.1.0
 
-### Random Pantheons
+### RandomizerCore
 
-- Version: 1.1.0.0 -> 1.4.0.0
+- Version: 2.1.1.0 -> 2.1.2.0
+
+### YetAnotherRandoConnection
+
+- Version: 1.1.0.3 -> 1.1.0.4
 

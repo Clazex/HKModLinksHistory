@@ -33,14 +33,6 @@
 - Tags
   + Cosmetic
 
-### HuKing
-
-- Description: A modboss of Elder Ghost Hu
-- Dependencies
-  + Satchel
-- Tags
-  + Boss
-
 ### Knight of Nights
 
 - Description: A mod for the Holloween 2025 plando, with some rando integration.
@@ -120,6 +112,10 @@
 
 - Version: 2.2.4.10 -> 2.2.4.11
 
+### HuKing
+
+- Version: 2.0.0.0 -> 2.1.0.0
+
 ### INFINITY
 
 - Version: 0.0.12.0 -> 0.2.0.0
@@ -193,7 +189,7 @@
 
 ### ReplayLogger
 
-- Version: 1.0.1.0 -> 1.0.1.4
+- Version: 1.0.1.2 -> 1.0.1.4
 
 ### Scattered and Lost
 
@@ -221,7 +217,7 @@
 
 ### VendorRando
 
-- Version: 1.1.0.2 -> 1.1.1.2
+- Version: 1.1.1.0 -> 1.1.1.2
 
 ### YetAnotherRandoConnection
 
