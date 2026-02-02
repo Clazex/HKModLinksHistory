@@ -7194,6 +7194,24 @@
     "dependencies": [],
     "repository": "https://github.com/homothetyhk/HollowKnight.PaletteSwapper/"
   },
+  "PantheonArchitect": {
+    "description": "Design and play custom Pantheon 5 lineups in Hollow Knight! Create your perfect boss gauntlet with any bosses in any order, then share your creations with friends using simple codes.",
+    "version": "1.0.0.2",
+    "links": {
+      "type": "universal",
+      "sha256": "08EF8AD42D888C3CE8F0B115989F4E478A08F582B0546511E146A47A1187D8ED",
+      "url": "https://github.com/ultranumbzz/pantheon-architect/releases/download/1.0.0.2/PantheonArchitect.zip"
+    },
+    "dependencies": [],
+    "repository": "https://github.com/ultranumbzz/pantheon-architect",
+    "issues": "https://github.com/ultranumbzz/pantheon-architect/issues",
+    "tags": [
+      "Gameplay"
+    ],
+    "authors": [
+      "ULTRAnumbz"
+    ]
+  },
   "PantheonOfRegions": {
     "description": "Adds new Pantheon to fight bosses together",
     "version": "1.0.0.3",

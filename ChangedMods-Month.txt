@@ -56,3 +56,4 @@ RandoPlus
 RecentItemsDisplayNoOneEssence
 VendorRando
 GeoRando
+PantheonArchitect
