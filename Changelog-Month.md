@@ -106,6 +106,13 @@
 
 - Version: 1.4.5.0 -> 1.5.0.1
 
+### Custom Title
+
+- Version: 1.1.0.0 -> 1.1.0.1
+- Dependencies
+  + Added
+    - HKMirror
+
 ### DarknessRandomizer
 
 - Version: 1.4.8.2 -> 1.5.1.0

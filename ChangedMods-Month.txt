@@ -57,3 +57,4 @@ RecentItemsDisplayNoOneEssence
 VendorRando
 GeoRando
 PantheonArchitect
+Custom Title

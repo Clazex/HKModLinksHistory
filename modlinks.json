@@ -1868,13 +1868,15 @@
   },
   "Custom Title": {
     "description": "A Hollow Knight mod that allows players to use their custom title",
-    "version": "1.1.0.0",
+    "version": "1.1.0.1",
     "links": {
       "type": "universal",
-      "sha256": "BE17348B2E5A3408CDB2B96DE19F58AC69156E7626FCF2AE52BE97CC66FD159A",
-      "url": "https://github.com/hien-ngo29/CustomTitle/releases/download/v1.1.0.0/CustomTitle.zip"
+      "sha256": "A598BB4BFDA22709ADA3930E3B9A1B7B7D1C0BF17F6DB6DFFCFFF117BA785448",
+      "url": "https://github.com/hien-ngo29/CustomTitle/releases/download/v1.1.0.1/CustomTitle.zip"
     },
-    "dependencies": [],
+    "dependencies": [
+      "HKMirror"
+    ],
     "repository": "https://github.com/hien-ngo29/CustomTitle",
     "authors": [
       "Hien Ngo"

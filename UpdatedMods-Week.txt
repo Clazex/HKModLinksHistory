@@ -1,4 +1,2 @@
 GeoRando
-RandoPlus
-VendorRando
-GeoRando
+Custom Title
