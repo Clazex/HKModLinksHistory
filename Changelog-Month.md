@@ -77,6 +77,16 @@
 - Dependencies
   + RecentItemsDisplay
 
+### VoidAndSoul
+
+- Description: This mod adds an RPG mechanic through the 0-notch charm Void &amp; Soul.
+- Dependencies
+  + DanielSteginkUtils
+  + SFCore
+  + Satchel
+- Tags
+  + Gameplay
+
 
 ## Removed mods
 
@@ -112,6 +122,10 @@
 - Dependencies
   + Added
     - HKMirror
+
+### DanielSteginkUtils
+
+- Version: 1.4.2.1 -> 1.5.0.0
 
 ### DarknessRandomizer
 
@@ -226,9 +240,9 @@
 
 ### VendorRando
 
-- Version: 1.1.1.0 -> 1.1.1.2
+- Version: 1.1.1.0 -> 1.1.1.3
 
 ### YetAnotherRandoConnection
 
-- Version: 1.1.0.3 -> 1.1.0.4
+- Version: 1.1.0.3 -> 1.2.0.0
 

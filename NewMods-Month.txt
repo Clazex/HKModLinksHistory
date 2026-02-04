@@ -6,3 +6,4 @@ GeoRando
 RecentItemsDisplayNoGeo
 RecentItemsDisplayNoOneEssence
 PantheonArchitect
+VoidAndSoul

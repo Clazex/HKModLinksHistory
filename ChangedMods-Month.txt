@@ -58,3 +58,8 @@ VendorRando
 GeoRando
 PantheonArchitect
 Custom Title
+DanielSteginkUtils
+Knight of Nights
+VendorRando
+VoidAndSoul
+YetAnotherRandoConnection

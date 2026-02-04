@@ -2215,11 +2215,11 @@
   },
   "DanielSteginkUtils": {
     "description": "Custom library with calculations, logic and cross-mod helpers.",
-    "version": "1.4.2.1",
+    "version": "1.5.0.0",
     "links": {
       "type": "universal",
-      "sha256": "46C122F60B698145B73F3AE2A1CACAD96A386ED8DDD443C1D16DC6CE31FC6EEB",
-      "url": "https://github.com/danielstegink/HollowKnight.DanielSteginkUtils/releases/download/1.4.2.1/DanielSteginkUtils.zip"
+      "sha256": "580C241D86096230A02698E18EACC22D855E25E4EA34801A174FD1176E73A626",
+      "url": "https://github.com/danielstegink/HollowKnight.DanielSteginkUtils/releases/download/1.5.0.0/DanielSteginkUtils.zip"
     },
     "dependencies": [
       "ItemChanger",
@@ -5368,11 +5368,11 @@
   },
   "Knight of Nights": {
     "description": "A mod for the Holloween 2025 plando, with some rando integration.",
-    "version": "2.0.4.0",
+    "version": "2.0.5.0",
     "links": {
       "type": "universal",
-      "sha256": "251DC74403B07711F0CBCA86731EB9E67B37566C1298C7CCB64C01A7EDB6B6B8",
-      "url": "https://github.com/dplochcoder/HollowKnight.KnightOfNights/releases/download/v2.0.4.0/KnightOfNights.zip"
+      "sha256": "E8B1D8A3046EB282E48C28CC1EAF8634B3B41A2A3613FCC030BBC8DF60B05DBB",
+      "url": "https://github.com/dplochcoder/HollowKnight.KnightOfNights/releases/download/v2.0.5.0/KnightOfNights.zip"
     },
     "dependencies": [
       "Benchwarp",
@@ -10040,11 +10040,11 @@
   },
   "VendorRando": {
     "description": "A Randomizer add-on that randomizes the physical locations of vendors",
-    "version": "1.1.1.2",
+    "version": "1.1.1.3",
     "links": {
       "type": "universal",
-      "sha256": "5414087A87D8D5A214FEBC96AC24279F3426D41896C8921EF006C923A932DD4B",
-      "url": "https://github.com/TheMathGeek314/VendorRando/releases/download/v1.1.1.2/VendorRando.zip"
+      "sha256": "AD08A7425310ED7A23302BDAD4544CCDA4325B95ADC6A3D9B580203F713DB414",
+      "url": "https://github.com/TheMathGeek314/VendorRando/releases/download/v1.1.1.3/VendorRando.zip"
     },
     "dependencies": [
       "ConnectionMetadataInjector",
@@ -10101,6 +10101,28 @@
     "repository": "https://github.com/TheMathGeek314/VoiceToCrySuffering/",
     "authors": [
       "TheMathGeek_314"
+    ]
+  },
+  "VoidAndSoul": {
+    "description": "This mod adds an RPG mechanic through the 0-notch charm Void & Soul.",
+    "version": "1.0.0.0",
+    "links": {
+      "type": "universal",
+      "sha256": "67825176105CA7546E6CEEF80B519848A4CA2FF7658AE0C435F184C0D6B0B9F1",
+      "url": "https://github.com/danielstegink/HollowKnight.VoidAndSoul/releases/download/1.0.0.0/VoidAndSoul.zip"
+    },
+    "dependencies": [
+      "DanielSteginkUtils",
+      "SFCore",
+      "Satchel"
+    ],
+    "repository": "https://github.com/danielstegink/HollowKnight.VoidAndSoul",
+    "issues": "https://github.com/danielstegink/HollowKnight.VoidAndSoul/issues",
+    "tags": [
+      "Gameplay"
+    ],
+    "authors": [
+      "DanielStegink"
     ]
   },
   "VoidHeartMenu": {
@@ -10275,11 +10297,11 @@
   },
   "YetAnotherRandoConnection": {
     "description": "A Randomizer add-on with an assortment of additions",
-    "version": "1.1.0.4",
+    "version": "1.2.0.0",
     "links": {
       "type": "universal",
-      "sha256": "2F41A294085FF06654B9B67C76336C24A2D22E11A31D2F658E9781605F086E60",
-      "url": "https://github.com/TheMathGeek314/YetAnotherRandoConnection/releases/download/v1.1.0.4/YetAnotherRandoConnection.zip"
+      "sha256": "686CD067879E768F0CBBC7388708373B3E08BC7A37952DB048B3C0AE4CB47DDD",
+      "url": "https://github.com/TheMathGeek314/YetAnotherRandoConnection/releases/download/v1.2.0.0/YetAnotherRandoConnection.zip"
     },
     "dependencies": [
       "ConnectionMetadataInjector",
