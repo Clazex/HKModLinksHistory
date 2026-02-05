@@ -33,17 +33,13 @@
 
 - Version: 1.4.2.1 -> 1.5.0.0
 
-### GeoRando
-
-- Version: 1.0.1.1 -> 1.0.1.2
-
 ### Knight of Nights
 
 - Version: 2.0.4.0 -> 2.0.5.0
 
 ### VendorRando
 
-- Version: 1.1.1.2 -> 1.1.1.3
+- Version: 1.1.1.2 -> 1.1.1.4
 
 ### YetAnotherRandoConnection
 

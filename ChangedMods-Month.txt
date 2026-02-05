@@ -1,4 +1,3 @@
-ReplayLogger
 GodhomeQoL
 Randomizable Levers
 INFINITY
@@ -63,3 +62,4 @@ Knight of Nights
 VendorRando
 VoidAndSoul
 YetAnotherRandoConnection
+VendorRando

@@ -212,7 +212,7 @@
 
 ### ReplayLogger
 
-- Version: 1.0.1.2 -> 1.0.1.4
+- Version: 1.0.1.3 -> 1.0.1.4
 
 ### Scattered and Lost
 
@@ -240,7 +240,7 @@
 
 ### VendorRando
 
-- Version: 1.1.1.0 -> 1.1.1.3
+- Version: 1.1.1.0 -> 1.1.1.4
 
 ### YetAnotherRandoConnection
 
