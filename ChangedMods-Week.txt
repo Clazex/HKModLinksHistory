@@ -6,3 +6,4 @@ VendorRando
 VoidAndSoul
 YetAnotherRandoConnection
 VendorRando
+SpoilerViewerMod

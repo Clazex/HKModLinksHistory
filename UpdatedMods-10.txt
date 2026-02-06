@@ -1,1 +1,3 @@
 GeoRando
+RandoPlus
+VendorRando

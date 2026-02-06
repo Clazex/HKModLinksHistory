@@ -1,5 +1,3 @@
-GodhomeQoL
-Randomizable Levers
 INFINITY
 BenchRando
 Benchwarp
@@ -54,3 +52,4 @@ Knight of Nights
 VendorRando
 YetAnotherRandoConnection
 VendorRando
+SpoilerViewerMod

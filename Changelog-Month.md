@@ -91,7 +91,6 @@
 ## Removed mods
 
 - HallOfGodsRandomizer
-- SafeGodseekerQoL
 
 
 ## Updated mods
@@ -130,10 +129,6 @@
 ### DarknessRandomizer
 
 - Version: 1.4.8.2 -> 1.5.1.0
-
-### GodhomeQoL
-
-- Version: 1.0.0.6 -> 1.0.0.7
 
 ### GodhomeRandomizer
 
@@ -194,10 +189,6 @@
 
 - Version: 1.1.0.0 -> 1.4.0.0
 
-### Randomizable Levers
-
-- Version: 1.2.6.2 -> 1.2.6.3
-
 ### Randomizer 4
 
 - Version: 4.1.5.0 -> 4.1.6.0
@@ -224,7 +215,7 @@
 
 ### SpoilerViewerMod
 
-- Version: 2.11.0.0 -> 2.12.1.0
+- Version: 2.11.0.0 -> 2.13.0.0
 
 ### Transcendence
 

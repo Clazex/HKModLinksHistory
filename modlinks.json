@@ -9230,11 +9230,11 @@
   },
   "SpoilerViewerMod": {
     "description": "Provides a Java GUI for navigating the spoiler log of randos or plandos. Requires Java to be installed.",
-    "version": "2.12.1.0",
+    "version": "2.13.0.0",
     "links": {
       "type": "universal",
-      "sha256": "6FAA29FDC57D15982D21778BF8B2173B989574F10BAB64C9F92CDED6B61168A8",
-      "url": "https://github.com/dplochcoder/hkspoilerviewer/releases/download/v2.12.1/SpoilerViewerMod.zip"
+      "sha256": "5B1E276ED3AFFD88126F4847A96EA81359179252F586A1174CFD5DEE949C2E8C",
+      "url": "https://github.com/dplochcoder/hkspoilerviewer/releases/download/v2.13.0/SpoilerViewerMod.zip"
     },
     "dependencies": [
       "ItemChanger",

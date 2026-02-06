@@ -4,3 +4,4 @@ Knight of Nights
 VendorRando
 YetAnotherRandoConnection
 VendorRando
+SpoilerViewerMod

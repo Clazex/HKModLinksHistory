@@ -2246,9 +2246,9 @@ All with an incredible new soundtrack!</Description>
     <Manifest>
         <Name>Random Pantheons</Name>
         <Description>Randomizes Godhome’s Pantheons so bosses appear in random order.</Description>
-        <Version>1.1.0.0</Version>
-        <Link SHA256="513A945A5C077715EFF1F757C1D892FCC21B926CBEBF8B23FA0B731D6D33D329">
-            <![CDATA[https://github.com/fifty-six/HollowKnight.RandomizedPantheons/releases/download/v1.3.0.0/RandomPantheons.zip]]>
+        <Version>1.4.0.0</Version>
+        <Link SHA256="efd077dd40992b3532ac35d4a77a1385b2d910bb5bff9a053941a08edf5d17c8">
+            <![CDATA[https://github.com/fifty-six/HollowKnight.RandomizedPantheons/releases/download/v1.4.0.0/RandomPantheons.zip]]>
         </Link>
         <Dependencies>
             <Dependency>Vasi</Dependency>
@@ -7208,9 +7208,9 @@ Enjoy!</Description>
     <Manifest>
         <Name>Knight of Nights</Name>
         <Description>A mod for the Holloween 2025 plando, with some rando integration.</Description>
-        <Version>2.0.2.0</Version>
-        <Link SHA256="25b990438acffac5d118cc87f0e90edefb763f7e902850aeca2e759f9ccb7874">
-            <![CDATA[https://github.com/dplochcoder/HollowKnight.KnightOfNights/releases/download/v2.0.2.0/KnightOfNights.zip]]>
+        <Version>2.0.3.0</Version>
+        <Link SHA256="251dc74403b07711f0cbca86731eb9e67b37566c1298c7ccb64c01a7edb6b6b8">
+            <![CDATA[https://github.com/dplochcoder/HollowKnight.KnightOfNights/releases/download/v2.0.3.0/KnightOfNights.zip]]>
         </Link>
         <Dependencies>
             <Dependency>Benchwarp</Dependency>
@@ -9416,6 +9416,24 @@ Enjoy!</Description>
         </Dependencies>
         <Repository>
             <![CDATA[https://github.com/peekagrub/Screensaver]]>
+        </Repository>
+        <Tags>
+            <Tag>Cosmetic</Tag>
+        </Tags>
+        <Authors>
+            <Author>peekagrub</Author>
+        </Authors>
+    </Manifest>
+    <Manifest>
+        <Name>GrubFriendlyRando</Name>
+        <Description>Changes the grub shop description to "a cute little wiggly friend!"</Description>
+        <Version>1.0.0.0</Version>
+        <Link SHA256="04BBEDA2057DC886B04A712DDA50953C79122DFBEE89DAB3FDDA244A61FFC286"><![CDATA[https://github.com/peekagrub/GrubFriendlyRando/releases/download/1.0.0.0/GrubFriendlyRando.zip]]></Link>
+        <Dependencies>
+            <Dependency>ItemChanger</Dependency>
+        </Dependencies>
+        <Repository>
+            <![CDATA[https://github.com/peekagrub/GrubFriendlyRando]]>
         </Repository>
         <Tags>
             <Tag>Cosmetic</Tag>

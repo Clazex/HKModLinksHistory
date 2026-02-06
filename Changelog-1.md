@@ -3,7 +3,7 @@
 
 ## Updated mods
 
-### VendorRando
+### SpoilerViewerMod
 
-- Version: 1.1.1.3 -> 1.1.1.4
+- Version: 2.12.1.0 -> 2.13.0.0
 

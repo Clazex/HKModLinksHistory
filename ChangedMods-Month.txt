@@ -1,5 +1,3 @@
-GodhomeQoL
-Randomizable Levers
 INFINITY
 BenchRando
 Benchwarp
@@ -63,3 +61,4 @@ VendorRando
 VoidAndSoul
 YetAnotherRandoConnection
 VendorRando
+SpoilerViewerMod

@@ -6481,9 +6481,9 @@ Enjoy!</Description>
     <Manifest>
         <Name>Archipelago Map Mod</Name>
         <Description>A conversion of RandoMapMod that works with the Archipelago multiworld randomizer</Description>
-        <Version>3.3.0.0</Version>
-        <Link SHA256="ADCEA455795DEDBE883BDF092C87BD17DA3E147C6D0D818A4F042D608B148A0F">
-            <![CDATA[https://github.com/ArchipelagoMW-HollowKnight/Archipelago.APMapMod/releases/download/v3.3.0/Archipelago.Map.Mod.zip]]>
+        <Version>3.3.1.0</Version>
+        <Link SHA256="F62464C16AC86B23BEDAD693514229EE4A8CF419C770445B13A85136FA6B8164">
+            <![CDATA[https://github.com/ArchipelagoMW-HollowKnight/Archipelago.APMapMod/releases/download/v3.3.1/Archipelago.Map.Mod.zip]]>
         </Link>
         <Dependencies>
             <Dependency>Archipelago</Dependency>
@@ -9611,9 +9611,9 @@ Enjoy!</Description>
     <Manifest>
         <Name>RandoMapCore</Name>
         <Description>A library for RandoMapMod and ArchipelagoMapMod.</Description>
-        <Version>1.0.17.0</Version>
-        <Link SHA256="CB7A8A8F93AD78FB12FC19FC5E71667BAAD877AC79920D95C8800741E5911403">
-            <![CDATA[https://github.com/syyePhenomenol/RandoMapCore/releases/download/v1.0.17/RandoMapCore.zip]]>
+        <Version>1.0.18.0</Version>
+        <Link SHA256="4F14094DF2542522BED6824D4932A47ACBB765CF6CFAF8EE7A16EA61AE3400EA">
+            <![CDATA[https://github.com/syyePhenomenol/RandoMapCore/releases/download/v1.0.18/RandoMapCore.zip]]>
         </Link>
         <Dependencies>
             <Dependency>ConnectionMetadataInjector</Dependency>
@@ -10890,6 +10890,31 @@ Enjoy!</Description>
         </Tags>
         <Authors>
             <Author>Liparakis</Author>
+        </Authors>
+    </Manifest>
+    <Manifest>
+        <Name>ExtraNotchesForExtraCharms</Name>
+        <Description>This mod adds extra charm notches based on how many mod charms you have installed.</Description>
+        <Version>1.0.0.0</Version>
+        <Link SHA256="815ee61e327f97364fe4e9574119990bd5df6a06d1b7ce10fae0f450e0f87274">
+            <![CDATA[https://github.com/danielstegink/HollowKnight.ExtraNotchesForExtraCharms/releases/download/1.0.0.0/ExtraNotchesForExtraCharms.zip]]>
+        </Link>
+        <Dependencies>
+            <Dependency>Satchel</Dependency>
+            <Dependency>SFCore</Dependency>
+            <Dependency>DanielSteginkUtils</Dependency>
+        </Dependencies>
+        <Repository>
+            <![CDATA[https://github.com/danielstegink/HollowKnight.ExtraNotchesForExtraCharms]]>
+        </Repository>
+        <Issues>
+            <![CDATA[https://github.com/danielstegink/HollowKnight.ExtraNotchesForExtraCharms/issues]]>
+        </Issues>
+        <Tags>
+            <Tag>Gameplay</Tag>
+        </Tags>
+        <Authors>
+            <Author>DanielStegink</Author>
         </Authors>
     </Manifest>
 </ModLinks>
