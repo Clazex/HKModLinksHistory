@@ -3,15 +3,15 @@
 
 ## Updated mods
 
-### Archipelago Map Mod
+### Knight of Nights
 
-- Version: 3.2.0.0 -> 3.3.0.0
+- Version: 2.0.0.2 -> 2.0.1.0
 
-### MyHK
+### SpoilerViewerMod
 
-- Version: 1.2.0.4 -> 1.2.0.5
+- Version: 2.12.0.0 -> 2.12.1.0
 
-### RandoPlus
+### TreasureHunt
 
-- Version: 1.7.0.2 -> 1.7.0.3
+- Version: 1.6.3.0 -> 1.7.1.0
 
