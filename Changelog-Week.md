@@ -3,12 +3,6 @@
 
 ## New mods
 
-### PantheonArchitect
-
-- Description: Design and play custom Pantheon 5 lineups in Hollow Knight! Create your perfect boss gauntlet with any bosses in any order, then share your creations with friends using simple codes.
-- Tags
-  + Gameplay
-
 ### VoidAndSoul
 
 - Description: This mod adds an RPG mechanic through the 0-notch charm Void &amp; Soul.
@@ -36,6 +30,10 @@
 ### Knight of Nights
 
 - Version: 2.0.4.0 -> 2.0.5.0
+
+### Scattered and Lost
+
+- Version: 1.6.0.0 -> 1.6.2.0
 
 ### SpoilerViewerMod
 

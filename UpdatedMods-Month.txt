@@ -1,4 +1,3 @@
-INFINITY
 BenchRando
 Benchwarp
 BugPrince
@@ -53,3 +52,4 @@ VendorRando
 YetAnotherRandoConnection
 VendorRando
 SpoilerViewerMod
+Scattered and Lost

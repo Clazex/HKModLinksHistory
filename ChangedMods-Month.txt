@@ -1,4 +1,3 @@
-INFINITY
 BenchRando
 Benchwarp
 BugPrince
@@ -62,3 +61,4 @@ VoidAndSoul
 YetAnotherRandoConnection
 VendorRando
 SpoilerViewerMod
+Scattered and Lost

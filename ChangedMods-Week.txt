@@ -1,4 +1,3 @@
-PantheonArchitect
 Custom Title
 DanielSteginkUtils
 Knight of Nights
@@ -7,3 +6,4 @@ VoidAndSoul
 YetAnotherRandoConnection
 VendorRando
 SpoilerViewerMod
+Scattered and Lost

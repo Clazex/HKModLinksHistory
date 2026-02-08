@@ -134,14 +134,6 @@
 
 - Version: 2.2.4.10 -> 2.2.4.11
 
-### INFINITY
-
-- Version: 0.0.12.0 -> 0.2.0.0
-- Dependencies
-  + Added
-    - HKTool
-    - Nosk God
-
 ### ItemChanger
 
 - Version: 2.1.5.0 -> 2.1.6.0
@@ -207,7 +199,7 @@
 
 ### Scattered and Lost
 
-- Version: 1.5.2.1 -> 1.6.0.0
+- Version: 1.5.2.1 -> 1.6.2.0
 
 ### SpicyRando
 
