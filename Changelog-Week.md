@@ -16,13 +16,6 @@
 
 ## Updated mods
 
-### Custom Title
-
-- Version: 1.1.0.0 -> 1.1.0.1
-- Dependencies
-  + Added
-    - HKMirror
-
 ### DanielSteginkUtils
 
 - Version: 1.4.2.1 -> 1.5.0.0
@@ -30,6 +23,10 @@
 ### Knight of Nights
 
 - Version: 2.0.4.0 -> 2.0.5.0
+
+### PantheonArchitect
+
+- Version: 1.0.0.2 -> 1.0.0.4
 
 ### Scattered and Lost
 
