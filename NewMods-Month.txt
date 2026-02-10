@@ -7,3 +7,5 @@ RecentItemsDisplayNoGeo
 RecentItemsDisplayNoOneEssence
 PantheonArchitect
 VoidAndSoul
+Double Bosses
+EasierGeoEconomy

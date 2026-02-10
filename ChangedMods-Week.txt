@@ -1,9 +1,9 @@
-DanielSteginkUtils
-Knight of Nights
-VendorRando
-VoidAndSoul
-YetAnotherRandoConnection
 VendorRando
 SpoilerViewerMod
 Scattered and Lost
 PantheonArchitect
+CabbyCodes
+Double Bosses
+EasierGeoEconomy
+ExtraSpells
+Scattered and Lost

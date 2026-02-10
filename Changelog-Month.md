@@ -3,6 +3,23 @@
 
 ## New mods
 
+### Double Bosses
+
+- Description: A mod that (as the name suggests) doubles each bosses (actually, only bottom row in hall of gods + PV, NG, AR, WKs). &quot;Enjoy&quot; the mayhem and chaos this mod provides
+- Dependencies
+  + Osmi
+  + Satchel
+- Tags
+  + Gameplay
+
+### EasierGeoEconomy
+
+- Description: Allows you to multiply the amount gotten per geo piece. Also includes an option to not lose geo upon death.
+- Dependencies
+  + Satchel
+- Tags
+  + Gameplay
+
 ### ExtraNotchesForExtraCharms
 
 - Description: This mod adds extra charm notches based on how many mod charms you have installed.
@@ -99,21 +116,17 @@
 
 - Version: 3.2.0.0 -> 3.3.1.0
 
-### BenchRando
-
-- Version: 1.0.5.0 -> 1.0.6.0
-
-### Benchwarp
-
-- Version: 3.2.6.0 -> 3.2.6.1
-
 ### Breakable Wall Randomizer
 
 - Version: 4.1.1.5 -> 4.1.1.7
 
 ### BugPrince
 
-- Version: 1.4.5.0 -> 1.5.0.1
+- Version: 1.5.0.0 -> 1.5.0.1
+
+### CabbyCodes
+
+- Version: 1.4.1.0 -> 1.4.2.0
 
 ### Custom Title
 
@@ -128,27 +141,22 @@
 
 ### DarknessRandomizer
 
-- Version: 1.4.8.2 -> 1.5.1.0
+- Version: 1.5.0.0 -> 1.5.1.0
+
+### ExtraSpells
+
+- Version: 1.0.0.2 -> 1.1.0.0
+- Description
+  + Old: A mod that adds a handful of new spells (and 1-ish nail art). Cycle by selecting the spell in the inventory.
+  + New: A mod that adds a handful of new spells and nail arts. Cycle by selecting the spell in the inventory.
 
 ### GodhomeRandomizer
 
 - Version: 2.2.4.10 -> 2.2.4.11
 
-### ItemChanger
-
-- Version: 2.1.5.0 -> 2.1.6.0
-
-### ItemSync
-
-- Version: 2.7.2.0 -> 2.7.3.0
-
 ### Less Flashing Lights
 
 - Version: 1.0.0.0 -> 1.0.1.0
-
-### MoreDoors
-
-- Version: 3.2.1.0 -> 3.3.0.0
 
 ### MyHK
 
@@ -167,7 +175,7 @@
 
 ### PurenailCore
 
-- Version: 1.5.0.0 -> 2.0.0.1
+- Version: 2.0.0.0 -> 2.0.0.1
 
 ### RandoMapCore
 
@@ -181,17 +189,9 @@
 
 - Version: 1.1.0.0 -> 1.4.0.0
 
-### Randomizer 4
-
-- Version: 4.1.5.0 -> 4.1.6.0
-
 ### RandomizerCore
 
-- Version: 2.0.3.0 -> 2.1.2.0
-
-### RandomizerCore.Json
-
-- Version: 1.0.1.0 -> 1.1.1.0
+- Version: 2.1.1.0 -> 2.1.2.0
 
 ### ReplayLogger
 
@@ -199,27 +199,19 @@
 
 ### Scattered and Lost
 
-- Version: 1.5.2.1 -> 1.6.2.0
+- Version: 1.6.0.0 -> 1.6.3.0
 
 ### SpicyRando
 
-- Version: 2.0.1.0 -> 2.1.1.0
+- Version: 2.1.0.0 -> 2.1.1.0
 
 ### SpoilerViewerMod
 
 - Version: 2.11.0.0 -> 2.13.0.0
 
-### Transcendence
-
-- Version: 1.5.5.0 -> 1.5.6.0
-
 ### TreasureHunt
 
 - Version: 1.6.3.0 -> 1.7.1.0
-
-### UnRando
-
-- Version: 1.1.0.0 -> 1.2.0.0
 
 ### VendorRando
 

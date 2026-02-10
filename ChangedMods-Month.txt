@@ -1,18 +1,3 @@
-BenchRando
-Benchwarp
-BugPrince
-DarknessRandomizer
-ItemChanger
-ItemSync
-MoreDoors
-PurenailCore
-Randomizer 4
-RandomizerCore
-RandomizerCore.Json
-Scattered and Lost
-SpicyRando
-Transcendence
-UnRando
 Breakable Wall Randomizer
 BugPrince
 Knight of Nights
@@ -63,3 +48,8 @@ VendorRando
 SpoilerViewerMod
 Scattered and Lost
 PantheonArchitect
+CabbyCodes
+Double Bosses
+EasierGeoEconomy
+ExtraSpells
+Scattered and Lost
