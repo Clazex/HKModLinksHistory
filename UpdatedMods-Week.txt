@@ -1,7 +1,10 @@
-VendorRando
 SpoilerViewerMod
 Scattered and Lost
 PantheonArchitect
 CabbyCodes
 ExtraSpells
 Scattered and Lost
+AccessRandomizer
+Breakable Wall Randomizer
+GodhomeQoL
+ReplayLogger

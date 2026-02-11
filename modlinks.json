@@ -73,11 +73,11 @@
   },
   "AccessRandomizer": {
     "description": "A randomizer add-on for miscellaneous access checks.",
-    "version": "1.4.0.1",
+    "version": "1.4.0.2",
     "links": {
       "type": "universal",
-      "sha256": "EDF1C12BF87246E977B9B87D5C7413A313D004D38A7DBE5943F8FA6CB5F4AECB",
-      "url": "https://github.com/nerthul11/AccessRandomizer/releases/download/1.4.0.1/AccessRandomizer.zip"
+      "sha256": "2B1B202821A944126924730E28F490C32A237A16BBD0A62C821E0A46B6799A2E",
+      "url": "https://github.com/nerthul11/AccessRandomizer/releases/download/1.4.0.2/AccessRandomizer.zip"
     },
     "dependencies": [
       "ItemChanger",
@@ -995,11 +995,11 @@
   },
   "Breakable Wall Randomizer": {
     "description": "A Hollow Knight Randomizer add-on for breakable walls.",
-    "version": "4.1.1.7",
+    "version": "4.1.1.8",
     "links": {
       "type": "universal",
-      "sha256": "384E0D9F647E3DCFF09CDB7381BB4E7FBF4F5CA8B90B694DC45FC823508869DA",
-      "url": "https://github.com/nerthul11/BreakableWallRandomizer/releases/download/4.1.1.7/BreakableWallRandomizer.zip"
+      "sha256": "1002AF412636EFF5828EE83B03063D2686E72C7D9BBCDE812691129612E80794",
+      "url": "https://github.com/nerthul11/BreakableWallRandomizer/releases/download/4.1.1.8/BreakableWallRandomizer.zip"
     },
     "dependencies": [
       "Randomizer 4",
@@ -4076,11 +4076,11 @@
   },
   "GodhomeQoL": {
     "description": "This mod is useful for challenge runners who don't want their runs to be accidentally affected by QoL mods.",
-    "version": "1.0.0.7",
+    "version": "1.0.0.8",
     "links": {
       "type": "universal",
-      "sha256": "DF5CB78D4DEBD2910A6BAB1C59E28F0D3FBF5FC6FA079F3F64DE1E27683C92F4",
-      "url": "https://github.com/NightFuryoOo/GodhomeQoL/releases/download/v1.0.0.7/GodhomeQoL.zip"
+      "sha256": "49A61B53E41F0A45308079B8320C2DBC3027238B96F31D4860A2FB6C8848566B",
+      "url": "https://github.com/NightFuryoOo/GodhomeQoL/releases/download/v.1.0.0.8/GodhomeQoL.zip"
     },
     "dependencies": [
       "Osmi",
@@ -8346,11 +8346,11 @@
   },
   "ReplayLogger": {
     "description": "ReplayLoger is a mod that was created to verify the legitimacy of player challenge runs.",
-    "version": "1.0.1.4",
+    "version": "1.1.0.0",
     "links": {
       "type": "universal",
-      "sha256": "C05DDBCDEE2DF9E988BB708D5D519CF591C445FFFF5B19D8B6DD7B1D042D9BDD",
-      "url": "https://github.com/NightFuryoOo/ReplayLogger/releases/download/v1.0.1.4/ReplayLogger.zip"
+      "sha256": "5B9EFFBC3461C6720F7E4A588D5103BF9AB8440EA54CE8163D7223FD45B4A97B",
+      "url": "https://github.com/NightFuryoOo/ReplayLogger/releases/download/v1.1.0.0/ReplayLogger.zip"
     },
     "dependencies": [
       "Satchel"

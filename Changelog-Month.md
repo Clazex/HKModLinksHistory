@@ -50,24 +50,6 @@
 - Tags
   + Cosmetic
 
-### Knight of Nights
-
-- Description: A mod for the Holloween 2025 plando, with some rando integration.
-- Dependencies
-  + Benchwarp
-  + ItemChanger
-  + MenuChanger
-  + PurenailCore
-  + RandoPlus
-  + Randomizer 4
-  + SFCore
-  + Satchel
-- Integrations
-  + RandoSettingsManager
-  + Randomizer 4
-- Tags
-  + Gameplay
-
 ### PantheonArchitect
 
 - Description: Design and play custom Pantheon 5 lineups in Hollow Knight! Create your perfect boss gauntlet with any bosses in any order, then share your creations with friends using simple codes.
@@ -112,17 +94,17 @@
 
 ## Updated mods
 
+### AccessRandomizer
+
+- Version: 1.4.0.1 -> 1.4.0.2
+
 ### Archipelago Map Mod
 
 - Version: 3.2.0.0 -> 3.3.1.0
 
 ### Breakable Wall Randomizer
 
-- Version: 4.1.1.5 -> 4.1.1.7
-
-### BugPrince
-
-- Version: 1.5.0.0 -> 1.5.0.1
+- Version: 4.1.1.6 -> 4.1.1.8
 
 ### CabbyCodes
 
@@ -150,9 +132,17 @@
   + Old: A mod that adds a handful of new spells (and 1-ish nail art). Cycle by selecting the spell in the inventory.
   + New: A mod that adds a handful of new spells and nail arts. Cycle by selecting the spell in the inventory.
 
+### GodhomeQoL
+
+- Version: 1.0.0.7 -> 1.0.0.8
+
 ### GodhomeRandomizer
 
 - Version: 2.2.4.10 -> 2.2.4.11
+
+### Knight of Nights
+
+- Version: 2.0.0.2 -> 2.0.5.0
 
 ### Less Flashing Lights
 
@@ -173,10 +163,6 @@
   + Added
     - Satchel
 
-### PurenailCore
-
-- Version: 2.0.0.0 -> 2.0.0.1
-
 ### RandoMapCore
 
 - Version: 1.0.17.0 -> 1.0.18.0
@@ -195,7 +181,7 @@
 
 ### ReplayLogger
 
-- Version: 1.0.1.3 -> 1.0.1.4
+- Version: 1.0.1.4 -> 1.1.0.0
 
 ### Scattered and Lost
 
@@ -207,7 +193,7 @@
 
 ### SpoilerViewerMod
 
-- Version: 2.11.0.0 -> 2.13.0.0
+- Version: 2.12.0.0 -> 2.13.0.0
 
 ### TreasureHunt
 

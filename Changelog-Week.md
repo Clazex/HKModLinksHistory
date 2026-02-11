@@ -23,6 +23,14 @@
 
 ## Updated mods
 
+### AccessRandomizer
+
+- Version: 1.4.0.1 -> 1.4.0.2
+
+### Breakable Wall Randomizer
+
+- Version: 4.1.1.7 -> 4.1.1.8
+
 ### CabbyCodes
 
 - Version: 1.4.1.0 -> 1.4.2.0
@@ -34,9 +42,17 @@
   + Old: A mod that adds a handful of new spells (and 1-ish nail art). Cycle by selecting the spell in the inventory.
   + New: A mod that adds a handful of new spells and nail arts. Cycle by selecting the spell in the inventory.
 
+### GodhomeQoL
+
+- Version: 1.0.0.7 -> 1.0.0.8
+
 ### PantheonArchitect
 
 - Version: 1.0.0.2 -> 1.0.0.4
+
+### ReplayLogger
+
+- Version: 1.0.1.4 -> 1.1.0.0
 
 ### Scattered and Lost
 
@@ -45,8 +61,4 @@
 ### SpoilerViewerMod
 
 - Version: 2.12.1.0 -> 2.13.0.0
-
-### VendorRando
-
-- Version: 1.1.1.3 -> 1.1.1.4
 
