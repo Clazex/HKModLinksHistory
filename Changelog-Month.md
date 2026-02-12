@@ -50,6 +50,12 @@
 - Tags
   + Cosmetic
 
+### MuteBosses
+
+- Description: Silences bosses via toggles in the menu
+- Tags
+  + Gameplay
+
 ### PantheonArchitect
 
 - Description: Design and play custom Pantheon 5 lineups in Hollow Knight! Create your perfect boss gauntlet with any bosses in any order, then share your creations with friends using simple codes.
@@ -100,7 +106,7 @@
 
 ### Archipelago Map Mod
 
-- Version: 3.2.0.0 -> 3.3.1.0
+- Version: 3.3.0.0 -> 3.3.1.0
 
 ### Breakable Wall Randomizer
 
@@ -148,13 +154,9 @@
 
 - Version: 1.0.0.0 -> 1.0.1.0
 
-### MyHK
-
-- Version: 1.2.0.4 -> 1.2.0.5
-
 ### Pale Court Charms
 
-- Version: 1.3.2.0 -> 1.3.4.0
+- Version: 1.3.2.0 -> 1.3.5.0
 
 ### Pure Vessel Skills
 
@@ -169,7 +171,7 @@
 
 ### RandoPlus
 
-- Version: 1.7.0.2 -> 1.7.0.4
+- Version: 1.7.0.3 -> 1.7.0.4
 
 ### Random Pantheons
 
@@ -202,6 +204,10 @@
 ### VendorRando
 
 - Version: 1.1.1.0 -> 1.1.1.4
+
+### WanderersWisdom
+
+- Version: 1.1.2.0 -> 1.1.3.0
 
 ### YetAnotherRandoConnection
 

@@ -20,6 +20,12 @@
 - Tags
   + Gameplay
 
+### MuteBosses
+
+- Description: Silences bosses via toggles in the menu
+- Tags
+  + Gameplay
+
 
 ## Updated mods
 
@@ -46,6 +52,10 @@
 
 - Version: 1.0.0.7 -> 1.0.0.8
 
+### Pale Court Charms
+
+- Version: 1.3.4.0 -> 1.3.5.0
+
 ### PantheonArchitect
 
 - Version: 1.0.0.2 -> 1.0.0.4
@@ -58,7 +68,7 @@
 
 - Version: 1.6.0.0 -> 1.6.3.0
 
-### SpoilerViewerMod
+### WanderersWisdom
 
-- Version: 2.12.1.0 -> 2.13.0.0
+- Version: 1.1.2.0 -> 1.1.3.0
 

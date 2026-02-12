@@ -1,6 +1,3 @@
-Archipelago Map Mod
-MyHK
-RandoPlus
 Knight of Nights
 SpoilerViewerMod
 TreasureHunt
@@ -51,3 +48,6 @@ AccessRandomizer
 Breakable Wall Randomizer
 GodhomeQoL
 ReplayLogger
+MuteBosses
+Pale Court Charms
+WanderersWisdom
