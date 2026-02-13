@@ -1,6 +1,3 @@
-Knight of Nights
-SpoilerViewerMod
-TreasureHunt
 DarknessRandomizer
 Knight of Nights
 GrubFriendlyRando
@@ -51,3 +48,9 @@ ReplayLogger
 MuteBosses
 Pale Court Charms
 WanderersWisdom
+CompassAlwaysOn
+DreamNailRadiance
+EnchantedMask
+InfectedHallownest
+Randomizable Levers
+SpamDescendingDark

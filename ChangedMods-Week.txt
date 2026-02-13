@@ -12,3 +12,9 @@ ReplayLogger
 MuteBosses
 Pale Court Charms
 WanderersWisdom
+CompassAlwaysOn
+DreamNailRadiance
+EnchantedMask
+InfectedHallownest
+Randomizable Levers
+SpamDescendingDark

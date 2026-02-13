@@ -9,3 +9,7 @@ GodhomeQoL
 ReplayLogger
 Pale Court Charms
 WanderersWisdom
+CompassAlwaysOn
+EnchantedMask
+InfectedHallownest
+Randomizable Levers

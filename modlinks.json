@@ -1547,11 +1547,11 @@
   },
   "CompassAlwaysOn": {
     "description": "Makes it so the Knight's icon always appears on the map, even if Wayward Compass isn't in your inventory.",
-    "version": "1.2.1.0",
+    "version": "1.2.1.1",
     "links": {
       "type": "universal",
-      "sha256": "1C61505306092D651C360A60AF1175A7FF8CD6F273AD7B3A0F9C1145E9001A2E",
-      "url": "https://github.com/flibber-hk/HollowKnight.CompassAlwaysOn/releases/download/v1.2.1.0/CompassAlwaysOn.zip"
+      "sha256": "2600E46D3F6602666D1D6931C44CF7893ABD0F48C81C016FF60E91BC774DCC7C",
+      "url": "https://github.com/flibber-hk/HollowKnight.CompassAlwaysOn/releases/download/v1.2.1.1/CompassAlwaysOn.zip"
     },
     "dependencies": [],
     "repository": "https://github.com/flibber-hk/HollowKnight.CompassAlwaysOn/",
@@ -2722,6 +2722,26 @@
       "Exempt-Medic"
     ]
   },
+  "DreamNailRadiance": {
+    "description": "Enables you to use the Dream Nail against the Radiance (her legs, specifically)",
+    "version": "1.0.0.0",
+    "links": {
+      "type": "universal",
+      "sha256": "A9AA56779039C029EA6D698C0E977DB6032A3D7971F655F0BE5A71378F0F69D4",
+      "url": "https://github.com/danielstegink/HollowKnight.DreamNailRadiance/releases/download/1.0.0.0/DreamNailRadiance.zip"
+    },
+    "dependencies": [
+      "DanielSteginkUtils"
+    ],
+    "repository": "https://github.com/danielstegink/HollowKnight.DreamNailRadiance",
+    "issues": "https://github.com/danielstegink/HollowKnight.DreamNailRadiance/issues",
+    "tags": [
+      "Gameplay"
+    ],
+    "authors": [
+      "DanielStegink"
+    ]
+  },
   "DreamShield Coop": {
     "description": "Mod that allows coop with a 2nd or 3rd player as a dreamshield or grimmchild clone. Support for other mods to easily add more.",
     "version": "1.0.0.0",
@@ -2911,11 +2931,11 @@
   },
   "EnchantedMask": {
     "description": "Adds new powerups called Glyphs, which can be purchased from the Mask maker.",
-    "version": "1.4.0.0",
+    "version": "1.4.1.0",
     "links": {
       "type": "universal",
-      "sha256": "DA50F6ED06661AC7ED601776CA3908F6A0F3EB745DF53B401357762CB0237F3A",
-      "url": "https://github.com/danielstegink/HollowKnight.EnchantedMask/releases/download/1.4.0.0/EnchantedMask.zip"
+      "sha256": "6BC147ED5994631C898241354AF952847E7EA8389CAF3E5F3A5743229EB6BEFF",
+      "url": "https://github.com/danielstegink/HollowKnight.EnchantedMask/releases/download/1.4.1.0/EnchantedMask.zip"
     },
     "dependencies": [
       "DanielSteginkUtils",
@@ -5086,11 +5106,11 @@
   },
   "InfectedHallownest": {
     "description": "Adds a new stage to the game: after beating the Hollow Knight, the Infection expands throughout the game, strengthening enemies at random.",
-    "version": "1.0.0.0",
+    "version": "1.0.1.0",
     "links": {
       "type": "universal",
-      "sha256": "6A5A5A6F958D896E8ACA85A18AEE18911CE0982ED81D6242D3D73B4A367C53E0",
-      "url": "https://github.com/danielstegink/HollowKnight.InfectedHallownest/releases/download/1.0.0.0/InfectedHallownest.zip"
+      "sha256": "D52F679C19129CCF5B68C6A3F9B9FF00E2ABBDCADE51761CA88E9FF3E426D162",
+      "url": "https://github.com/danielstegink/HollowKnight.InfectedHallownest/releases/download/1.0.1.0/InfectedHallownest.zip"
     },
     "dependencies": [],
     "repository": "https://github.com/danielstegink/HollowKnight.InfectedHallownest",
@@ -8159,11 +8179,11 @@
   },
   "Randomizable Levers": {
     "description": "Randomizer 4 addon that adds the option to randomize levers. Activate lever rando in the Connections menu of Randomizer 4.",
-    "version": "1.2.6.3",
+    "version": "1.2.6.4",
     "links": {
       "type": "universal",
-      "sha256": "06FB142589E000866A4822604F7846D18EEEDCF272B96D95136767AE489E0C2B",
-      "url": "https://github.com/flibber-hk/HollowKnight.RandomizableLevers/releases/download/v1.2.6.3/RandomizableLevers.zip"
+      "sha256": "2EE0FD6FDD9DAFDE405F768DCB8803C8563C86DEA39BA725C9A72C25BA13B83D",
+      "url": "https://github.com/flibber-hk/HollowKnight.RandomizableLevers/releases/download/v1.2.6.4/RandomizableLevers.zip"
     },
     "dependencies": [
       "ItemChanger"
@@ -9204,6 +9224,26 @@
       "Samihamer1"
     ]
   },
+  "SpamDescendingDark": {
+    "description": "Increases DDark invincibility so it can be used non-stop",
+    "version": "1.0.0.0",
+    "links": {
+      "type": "universal",
+      "sha256": "A8ED972EF20DD41260DBF951DF66AE7E07E24B507E725DB2CA5CC32286ED879D",
+      "url": "https://github.com/danielstegink/HollowKnight.SpamDescendingDark/releases/download/1.0.0.0/SpamDescendingDark.zip"
+    },
+    "dependencies": [
+      "DanielSteginkUtils"
+    ],
+    "repository": "https://github.com/danielstegink/HollowKnight.SpamDescendingDark",
+    "issues": "https://github.com/danielstegink/HollowKnight.SpamDescendingDark/issues",
+    "tags": [
+      "Gameplay"
+    ],
+    "authors": [
+      "DanielStegink"
+    ]
+  },
   "SpeedChanger": {
     "description": "Speed up or slow down your game. A more customisable and user-friendly version of the Sanic mod.",
     "version": "1.1.3.2",
@@ -10095,7 +10135,10 @@
       "url": "https://github.com/fifty-six/HollowKnight.Vasi/releases/download/v2/Vasi.zip"
     },
     "dependencies": [],
-    "repository": "https://github.com/fifty-six/HollowKnight.Vasi/"
+    "repository": "https://github.com/fifty-six/HollowKnight.Vasi/",
+    "tags": [
+      "Library"
+    ]
   },
   "VendorRando": {
     "description": "A Randomizer add-on that randomizes the physical locations of vendors",

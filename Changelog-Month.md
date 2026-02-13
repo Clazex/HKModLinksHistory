@@ -12,6 +12,14 @@
 - Tags
   + Gameplay
 
+### DreamNailRadiance
+
+- Description: Enables you to use the Dream Nail against the Radiance (her legs, specifically)
+- Dependencies
+  + DanielSteginkUtils
+- Tags
+  + Gameplay
+
 ### EasierGeoEconomy
 
 - Description: Allows you to multiply the amount gotten per geo piece. Also includes an option to not lose geo upon death.
@@ -82,6 +90,14 @@
 - Dependencies
   + RecentItemsDisplay
 
+### SpamDescendingDark
+
+- Description: Increases DDark invincibility so it can be used non-stop
+- Dependencies
+  + DanielSteginkUtils
+- Tags
+  + Gameplay
+
 ### VoidAndSoul
 
 - Description: This mod adds an RPG mechanic through the 0-notch charm Void &amp; Soul.
@@ -116,6 +132,10 @@
 
 - Version: 1.4.1.0 -> 1.4.2.0
 
+### CompassAlwaysOn
+
+- Version: 1.2.1.0 -> 1.2.1.1
+
 ### Custom Title
 
 - Version: 1.1.0.0 -> 1.1.0.1
@@ -130,6 +150,10 @@
 ### DarknessRandomizer
 
 - Version: 1.5.0.0 -> 1.5.1.0
+
+### EnchantedMask
+
+- Version: 1.4.0.0 -> 1.4.1.0
 
 ### ExtraSpells
 
@@ -146,9 +170,13 @@
 
 - Version: 2.2.4.10 -> 2.2.4.11
 
+### InfectedHallownest
+
+- Version: 1.0.0.0 -> 1.0.1.0
+
 ### Knight of Nights
 
-- Version: 2.0.0.2 -> 2.0.5.0
+- Version: 2.0.1.0 -> 2.0.5.0
 
 ### Less Flashing Lights
 
@@ -177,6 +205,10 @@
 
 - Version: 1.1.0.0 -> 1.4.0.0
 
+### Randomizable Levers
+
+- Version: 1.2.6.3 -> 1.2.6.4
+
 ### RandomizerCore
 
 - Version: 2.1.1.0 -> 2.1.2.0
@@ -195,11 +227,7 @@
 
 ### SpoilerViewerMod
 
-- Version: 2.12.0.0 -> 2.13.0.0
-
-### TreasureHunt
-
-- Version: 1.6.3.0 -> 1.7.1.0
+- Version: 2.12.1.0 -> 2.13.0.0
 
 ### VendorRando
 

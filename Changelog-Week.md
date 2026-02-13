@@ -12,6 +12,14 @@
 - Tags
   + Gameplay
 
+### DreamNailRadiance
+
+- Description: Enables you to use the Dream Nail against the Radiance (her legs, specifically)
+- Dependencies
+  + DanielSteginkUtils
+- Tags
+  + Gameplay
+
 ### EasierGeoEconomy
 
 - Description: Allows you to multiply the amount gotten per geo piece. Also includes an option to not lose geo upon death.
@@ -23,6 +31,14 @@
 ### MuteBosses
 
 - Description: Silences bosses via toggles in the menu
+- Tags
+  + Gameplay
+
+### SpamDescendingDark
+
+- Description: Increases DDark invincibility so it can be used non-stop
+- Dependencies
+  + DanielSteginkUtils
 - Tags
   + Gameplay
 
@@ -41,6 +57,14 @@
 
 - Version: 1.4.1.0 -> 1.4.2.0
 
+### CompassAlwaysOn
+
+- Version: 1.2.1.0 -> 1.2.1.1
+
+### EnchantedMask
+
+- Version: 1.4.0.0 -> 1.4.1.0
+
 ### ExtraSpells
 
 - Version: 1.0.0.2 -> 1.1.0.0
@@ -52,6 +76,10 @@
 
 - Version: 1.0.0.7 -> 1.0.0.8
 
+### InfectedHallownest
+
+- Version: 1.0.0.0 -> 1.0.1.0
+
 ### Pale Court Charms
 
 - Version: 1.3.4.0 -> 1.3.5.0
@@ -59,6 +87,10 @@
 ### PantheonArchitect
 
 - Version: 1.0.0.2 -> 1.0.0.4
+
+### Randomizable Levers
+
+- Version: 1.2.6.3 -> 1.2.6.4
 
 ### ReplayLogger
 
