@@ -3,6 +3,18 @@
 
 ## New mods
 
+### AlphabetRando
+
+- Description: A Randomizer connection for the letters in the UI of the game itself
+- Dependencies
+  + ItemChanger
+  + MenuChanger
+  + Randomizer 4
+  + RandomizerCore
+- Integrations
+  + CondensedSpoilerLogger
+  + RandoSettingsManager
+
 ### Double Bosses
 
 - Description: A mod that (as the name suggests) doubles each bosses (actually, only bottom row in hall of gods + PV, NG, AR, WKs). &quot;Enjoy&quot; the mayhem and chaos this mod provides
@@ -34,6 +46,15 @@
 - Dependencies
   + DanielSteginkUtils
   + SFCore
+  + Satchel
+- Tags
+  + Gameplay
+
+### FuryOfTheBallin
+
+- Description: Charm spawns Marmu ally when you are at 1 Mask; must beat Marmu to unlock
+- Dependencies
+  + DanielSteginkUtils
   + Satchel
 - Tags
   + Gameplay
@@ -147,10 +168,6 @@
 
 - Version: 1.4.2.1 -> 1.5.0.0
 
-### DarknessRandomizer
-
-- Version: 1.5.0.0 -> 1.5.1.0
-
 ### EnchantedMask
 
 - Version: 1.4.0.0 -> 1.4.1.0
@@ -176,7 +193,7 @@
 
 ### Knight of Nights
 
-- Version: 2.0.1.0 -> 2.0.5.0
+- Version: 2.0.2.0 -> 2.0.5.0
 
 ### Less Flashing Lights
 

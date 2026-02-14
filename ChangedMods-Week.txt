@@ -1,4 +1,3 @@
-Scattered and Lost
 PantheonArchitect
 CabbyCodes
 Double Bosses
@@ -18,3 +17,5 @@ EnchantedMask
 InfectedHallownest
 Randomizable Levers
 SpamDescendingDark
+AlphabetRando
+FuryOfTheBallin

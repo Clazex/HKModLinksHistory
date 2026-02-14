@@ -3,6 +3,18 @@
 
 ## New mods
 
+### AlphabetRando
+
+- Description: A Randomizer connection for the letters in the UI of the game itself
+- Dependencies
+  + ItemChanger
+  + MenuChanger
+  + Randomizer 4
+  + RandomizerCore
+- Integrations
+  + CondensedSpoilerLogger
+  + RandoSettingsManager
+
 ### Double Bosses
 
 - Description: A mod that (as the name suggests) doubles each bosses (actually, only bottom row in hall of gods + PV, NG, AR, WKs). &quot;Enjoy&quot; the mayhem and chaos this mod provides
@@ -24,6 +36,15 @@
 
 - Description: Allows you to multiply the amount gotten per geo piece. Also includes an option to not lose geo upon death.
 - Dependencies
+  + Satchel
+- Tags
+  + Gameplay
+
+### FuryOfTheBallin
+
+- Description: Charm spawns Marmu ally when you are at 1 Mask; must beat Marmu to unlock
+- Dependencies
+  + DanielSteginkUtils
   + Satchel
 - Tags
   + Gameplay
@@ -98,7 +119,7 @@
 
 ### Scattered and Lost
 
-- Version: 1.6.0.0 -> 1.6.3.0
+- Version: 1.6.2.0 -> 1.6.3.0
 
 ### WanderersWisdom
 

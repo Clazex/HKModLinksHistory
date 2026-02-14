@@ -248,6 +248,29 @@
       "Rourou"
     ]
   },
+  "AlphabetRando": {
+    "description": "A Randomizer connection for the letters in the UI of the game itself",
+    "version": "1.0.0.0",
+    "links": {
+      "type": "universal",
+      "sha256": "A4841CFEED7A510EF9F96393A1100A7E4EA1BFCC24ED1230B2CD8D4253C0A623",
+      "url": "https://github.com/TheMathGeek314/AlphabetRando/releases/download/v1.0.0.0/AlphabetRando.zip"
+    },
+    "dependencies": [
+      "ItemChanger",
+      "MenuChanger",
+      "Randomizer 4",
+      "RandomizerCore"
+    ],
+    "repository": "https://github.com/TheMathGeek314/AlphabetRando/",
+    "integrations": [
+      "CondensedSpoilerLogger",
+      "RandoSettingsManager"
+    ],
+    "authors": [
+      "TheMathGeek_314"
+    ]
+  },
   "AlreadyEnoughPlayMaker": {
     "description": "A optimization mod for PlayMaker FSMs.",
     "version": "0.1.0.0",
@@ -3676,6 +3699,27 @@
     "repository": "https://github.com/ygsbzr/HollowKnight.FuryMod/",
     "tags": [
       "Gameplay"
+    ]
+  },
+  "FuryOfTheBallin": {
+    "description": "Charm spawns Marmu ally when you are at 1 Mask; must beat Marmu to unlock",
+    "version": "1.0.1.0",
+    "links": {
+      "type": "universal",
+      "sha256": "08F081C86A12879FD5D5DB37FC70716E20E13414D2626F06567EBB5F7A3ABA67",
+      "url": "https://github.com/danielstegink/HollowKnight.FuryOfTheBallin/releases/download/1.0.1.0/FuryOfTheBallin.zip"
+    },
+    "dependencies": [
+      "DanielSteginkUtils",
+      "Satchel"
+    ],
+    "repository": "https://github.com/danielstegink/HollowKnight.FuryOfTheBallin",
+    "issues": "https://github.com/danielstegink/HollowKnight.FuryOfTheBallin/issues",
+    "tags": [
+      "Gameplay"
+    ],
+    "authors": [
+      "DanielStegink"
     ]
   },
   "Fyrenest": {
