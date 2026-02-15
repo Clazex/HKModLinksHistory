@@ -71,14 +71,6 @@
 - Integrations
   + RandoSettingsManager
 
-### GrubFriendlyRando
-
-- Description: Changes the grub shop description to &quot;a cute little wiggly friend!&quot;
-- Dependencies
-  + ItemChanger
-- Tags
-  + Cosmetic
-
 ### MuteBosses
 
 - Description: Silences bosses via toggles in the menu
@@ -193,7 +185,7 @@
 
 ### Knight of Nights
 
-- Version: 2.0.2.0 -> 2.0.5.0
+- Version: 2.0.3.0 -> 2.0.5.0
 
 ### Less Flashing Lights
 
@@ -217,10 +209,6 @@
 ### RandoPlus
 
 - Version: 1.7.0.3 -> 1.7.0.4
-
-### Random Pantheons
-
-- Version: 1.1.0.0 -> 1.4.0.0
 
 ### Randomizable Levers
 

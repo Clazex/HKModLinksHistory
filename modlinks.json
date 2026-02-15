@@ -250,11 +250,11 @@
   },
   "AlphabetRando": {
     "description": "A Randomizer connection for the letters in the UI of the game itself",
-    "version": "1.0.0.0",
+    "version": "1.0.1.0",
     "links": {
       "type": "universal",
-      "sha256": "A4841CFEED7A510EF9F96393A1100A7E4EA1BFCC24ED1230B2CD8D4253C0A623",
-      "url": "https://github.com/TheMathGeek314/AlphabetRando/releases/download/v1.0.0.0/AlphabetRando.zip"
+      "sha256": "C9F8C133C6F382A0FD37B5B63A286923E8CCE043CEB474C3895A3A39A0B50671",
+      "url": "https://github.com/TheMathGeek314/AlphabetRando/releases/download/v1.0.1.0/AlphabetRando.zip"
     },
     "dependencies": [
       "ItemChanger",
