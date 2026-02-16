@@ -187,10 +187,6 @@
 
 - Version: 2.0.3.0 -> 2.0.5.0
 
-### Less Flashing Lights
-
-- Version: 1.0.0.0 -> 1.0.1.0
-
 ### Pale Court Charms
 
 - Version: 1.3.2.0 -> 1.3.5.0
@@ -213,10 +209,6 @@
 ### Randomizable Levers
 
 - Version: 1.2.6.3 -> 1.2.6.4
-
-### RandomizerCore
-
-- Version: 2.1.1.0 -> 2.1.2.0
 
 ### ReplayLogger
 
@@ -244,5 +236,5 @@
 
 ### YetAnotherRandoConnection
 
-- Version: 1.1.0.3 -> 1.2.0.0
+- Version: 1.1.0.4 -> 1.2.0.0
 

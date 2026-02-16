@@ -1,6 +1,3 @@
-Less Flashing Lights
-RandomizerCore
-YetAnotherRandoConnection
 Pale Court Charms
 Archipelago Map Mod
 RandoMapCore
