@@ -250,11 +250,11 @@
   },
   "AlphabetRando": {
     "description": "A Randomizer connection for the letters in the UI of the game itself",
-    "version": "1.0.1.0",
+    "version": "1.0.1.1",
     "links": {
       "type": "universal",
-      "sha256": "C9F8C133C6F382A0FD37B5B63A286923E8CCE043CEB474C3895A3A39A0B50671",
-      "url": "https://github.com/TheMathGeek314/AlphabetRando/releases/download/v1.0.1.0/AlphabetRando.zip"
+      "sha256": "8A2B56A6D6C67CDD8F015380930FE139A570C427918DDF85F22458EF3C501ACC",
+      "url": "https://github.com/TheMathGeek314/AlphabetRando/releases/download/v1.0.1.1/AlphabetRando.zip"
     },
     "dependencies": [
       "ItemChanger",
@@ -4143,8 +4143,8 @@
     "version": "1.0.0.8",
     "links": {
       "type": "universal",
-      "sha256": "49A61B53E41F0A45308079B8320C2DBC3027238B96F31D4860A2FB6C8848566B",
-      "url": "https://github.com/NightFuryoOo/GodhomeQoL/releases/download/v.1.0.0.8/GodhomeQoL.zip"
+      "sha256": "025B319C15551CD3A3E1359A9B235C00A89E6354CE3F61899A9EF25D46D70539",
+      "url": "https://github.com/NightFuryoOo/GodhomeQoL/releases/download/v1.0.0.9/GodhomeQoL.zip"
     },
     "dependencies": [
       "Osmi",
@@ -6519,6 +6519,26 @@
       "KayDeeTee",
       "Mulhima",
       "Phenomenol"
+    ]
+  },
+  "MossBeast": {
+    "description": "MossBeast is a complete port of The Beast boss fight from The Binding of Isaac to Hollow Knight.",
+    "version": "1.0.0.0",
+    "links": {
+      "type": "universal",
+      "sha256": "1DC785070163D3B9F073F9FEAE7D6CD7B0EA7BE23BF1CAA3A4080CAF49E5B297",
+      "url": "https://github.com/windplusflower/MossBeast/releases/download/v1.0/MossBeast.zip"
+    },
+    "dependencies": [
+      "Satchel"
+    ],
+    "repository": "https://github.com/windplusflower/MossBeast",
+    "issues": "https://github.com/windplusflower/MossBeast/issues",
+    "tags": [
+      "Boss"
+    ],
+    "authors": [
+      "Windflower"
     ]
   },
   "MotionBlur": {

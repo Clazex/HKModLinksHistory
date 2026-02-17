@@ -1,7 +1,3 @@
-AccessRandomizer
-Breakable Wall Randomizer
-GodhomeQoL
-ReplayLogger
 MuteBosses
 Pale Court Charms
 WanderersWisdom
@@ -14,3 +10,5 @@ SpamDescendingDark
 AlphabetRando
 FuryOfTheBallin
 AlphabetRando
+AlphabetRando
+MossBeast

@@ -32,6 +32,14 @@
 - Tags
   + Gameplay
 
+### MossBeast
+
+- Description: MossBeast is a complete port of The Beast boss fight from The Binding of Isaac to Hollow Knight.
+- Dependencies
+  + Satchel
+- Tags
+  + Boss
+
 ### MuteBosses
 
 - Description: Silences bosses via toggles in the menu
@@ -49,14 +57,6 @@
 
 ## Updated mods
 
-### AccessRandomizer
-
-- Version: 1.4.0.1 -> 1.4.0.2
-
-### Breakable Wall Randomizer
-
-- Version: 4.1.1.7 -> 4.1.1.8
-
 ### CompassAlwaysOn
 
 - Version: 1.2.1.0 -> 1.2.1.1
@@ -64,10 +64,6 @@
 ### EnchantedMask
 
 - Version: 1.4.0.0 -> 1.4.1.0
-
-### GodhomeQoL
-
-- Version: 1.0.0.7 -> 1.0.0.8
 
 ### InfectedHallownest
 
@@ -80,10 +76,6 @@
 ### Randomizable Levers
 
 - Version: 1.2.6.3 -> 1.2.6.4
-
-### ReplayLogger
-
-- Version: 1.0.1.4 -> 1.1.0.0
 
 ### WanderersWisdom
 

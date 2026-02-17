@@ -1,4 +1,3 @@
-Pale Court Charms
 Archipelago Map Mod
 RandoMapCore
 Pure Vessel Skills
@@ -34,4 +33,5 @@ CompassAlwaysOn
 EnchantedMask
 InfectedHallownest
 Randomizable Levers
+AlphabetRando
 AlphabetRando

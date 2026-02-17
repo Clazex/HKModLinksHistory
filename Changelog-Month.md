@@ -71,6 +71,14 @@
 - Integrations
   + RandoSettingsManager
 
+### MossBeast
+
+- Description: MossBeast is a complete port of The Beast boss fight from The Binding of Isaac to Hollow Knight.
+- Dependencies
+  + Satchel
+- Tags
+  + Boss
+
 ### MuteBosses
 
 - Description: Silences bosses via toggles in the menu
@@ -82,14 +90,6 @@
 - Description: Design and play custom Pantheon 5 lineups in Hollow Knight! Create your perfect boss gauntlet with any bosses in any order, then share your creations with friends using simple codes.
 - Tags
   + Gameplay
-
-### ProfanityFilterAddon
-
-- Description: Server-side profanity filter addon for HKMP and SSMP. currently uses a high-performance rule-based filtering engine.
-- Dependencies
-  + HKMP
-- Tags
-  + Utility
 
 ### RecentItemsDisplayNoGeo
 
@@ -189,7 +189,7 @@
 
 ### Pale Court Charms
 
-- Version: 1.3.2.0 -> 1.3.5.0
+- Version: 1.3.3.0 -> 1.3.5.0
 
 ### Pure Vessel Skills
 

@@ -3,20 +3,38 @@
 
 ## New mods
 
-### MuteBosses
+### DreamNailRadiance
 
-- Description: Silences bosses via toggles in the menu
+- Description: Enables you to use the Dream Nail against the Radiance (her legs, specifically)
+- Dependencies
+  + DanielSteginkUtils
+- Tags
+  + Gameplay
+
+### SpamDescendingDark
+
+- Description: Increases DDark invincibility so it can be used non-stop
+- Dependencies
+  + DanielSteginkUtils
 - Tags
   + Gameplay
 
 
 ## Updated mods
 
-### Pale Court Charms
+### CompassAlwaysOn
 
-- Version: 1.3.4.0 -> 1.3.5.0
+- Version: 1.2.1.0 -> 1.2.1.1
 
-### WanderersWisdom
+### EnchantedMask
 
-- Version: 1.1.2.0 -> 1.1.3.0
+- Version: 1.4.0.0 -> 1.4.1.0
+
+### InfectedHallownest
+
+- Version: 1.0.0.0 -> 1.0.1.0
+
+### Randomizable Levers
+
+- Version: 1.2.6.3 -> 1.2.6.4
 
