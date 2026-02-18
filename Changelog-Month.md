@@ -40,16 +40,6 @@
 - Tags
   + Gameplay
 
-### ExtraNotchesForExtraCharms
-
-- Description: This mod adds extra charm notches based on how many mod charms you have installed.
-- Dependencies
-  + DanielSteginkUtils
-  + SFCore
-  + Satchel
-- Tags
-  + Gameplay
-
 ### FuryOfTheBallin
 
 - Description: Charm spawns Marmu ally when you are at 1 Mask; must beat Marmu to unlock
@@ -133,10 +123,6 @@
 
 - Version: 1.4.0.1 -> 1.4.0.2
 
-### Archipelago Map Mod
-
-- Version: 3.3.0.0 -> 3.3.1.0
-
 ### Breakable Wall Randomizer
 
 - Version: 4.1.1.6 -> 4.1.1.8
@@ -197,10 +183,6 @@
 - Dependencies
   + Added
     - Satchel
-
-### RandoMapCore
-
-- Version: 1.0.17.0 -> 1.0.18.0
 
 ### RandoPlus
 

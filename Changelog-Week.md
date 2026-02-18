@@ -40,12 +40,6 @@
 - Tags
   + Boss
 
-### MuteBosses
-
-- Description: Silences bosses via toggles in the menu
-- Tags
-  + Gameplay
-
 ### SpamDescendingDark
 
 - Description: Increases DDark invincibility so it can be used non-stop
@@ -69,15 +63,7 @@
 
 - Version: 1.0.0.0 -> 1.0.1.0
 
-### Pale Court Charms
-
-- Version: 1.3.4.0 -> 1.3.5.0
-
 ### Randomizable Levers
 
 - Version: 1.2.6.3 -> 1.2.6.4
-
-### WanderersWisdom
-
-- Version: 1.1.2.0 -> 1.1.3.0
 
