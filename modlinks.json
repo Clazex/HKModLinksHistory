@@ -6372,11 +6372,11 @@
   },
   "MoreDoors": {
     "description": "A Rando 4 connection which adds more locked doors to Hallownest.",
-    "version": "3.3.0.0",
+    "version": "3.3.0.1",
     "links": {
       "type": "universal",
-      "sha256": "1E47A40C80D842FBC6B0B461869D167E15D7E037922828066667F169D7F5C0BE",
-      "url": "https://github.com/dplochcoder/HollowKnight.MoreDoors/releases/download/v3.3.0.0/MoreDoors.zip"
+      "sha256": "3EF9B3E18AC2A981699EF84151E50C75502DA9DB7802C1B1E6728D8F9C3A0C92",
+      "url": "https://github.com/dplochcoder/HollowKnight.MoreDoors/releases/download/v3.3.0.1/MoreDoors.zip"
     },
     "dependencies": [
       "ItemChanger",

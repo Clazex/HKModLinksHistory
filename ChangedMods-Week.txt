@@ -1,11 +1,6 @@
-CompassAlwaysOn
-DreamNailRadiance
-EnchantedMask
-InfectedHallownest
-Randomizable Levers
-SpamDescendingDark
 AlphabetRando
 FuryOfTheBallin
 AlphabetRando
 AlphabetRando
 MossBeast
+MoreDoors

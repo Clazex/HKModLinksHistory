@@ -33,3 +33,4 @@ InfectedHallownest
 Randomizable Levers
 AlphabetRando
 AlphabetRando
+MoreDoors
