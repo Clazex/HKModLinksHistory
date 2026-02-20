@@ -34,3 +34,7 @@ Randomizable Levers
 AlphabetRando
 AlphabetRando
 MoreDoors
+CustomPoolInjector
+GodhomeQoL
+Pale Court Charms
+VoidAndSoul

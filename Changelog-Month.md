@@ -142,6 +142,10 @@
   + Added
     - HKMirror
 
+### CustomPoolInjector
+
+- Version: 1.1.3.0 -> 1.1.4.0
+
 ### DanielSteginkUtils
 
 - Version: 1.4.2.1 -> 1.5.0.0
@@ -159,7 +163,7 @@
 
 ### GodhomeQoL
 
-- Version: 1.0.0.7 -> 1.0.0.8
+- Version: 1.0.0.7 -> 1.0.0.9
 
 ### GodhomeRandomizer
 
@@ -179,7 +183,7 @@
 
 ### Pale Court Charms
 
-- Version: 1.3.3.0 -> 1.3.5.0
+- Version: 1.3.3.0 -> 1.3.6.0
 
 ### Pure Vessel Skills
 

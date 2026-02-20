@@ -2097,11 +2097,11 @@
   },
   "CustomPoolInjector": {
     "description": "A Randomizer 4 add-on for providing user-defined item pools for randomizing different item combinations.",
-    "version": "1.1.3.0",
+    "version": "1.1.4.0",
     "links": {
       "type": "universal",
-      "sha256": "6742EBD9664897D4404E06610B69DA177243B031006FC489229F01C9CF8557D5",
-      "url": "https://github.com/homothetyhk/CustomPoolInjector/releases/download/v1.1.3/CustomPoolInjector.zip"
+      "sha256": "19C8A0FCC6AAA42A65F20D87D46F4A4225CA27CC1C1491999872AFDD01AA4CBA",
+      "url": "https://github.com/homothetyhk/CustomPoolInjector/releases/download/v1.1.4/CustomPoolInjector.zip"
     },
     "dependencies": [
       "Randomizer 4"
@@ -4140,7 +4140,7 @@
   },
   "GodhomeQoL": {
     "description": "This mod is useful for challenge runners who don't want their runs to be accidentally affected by QoL mods.",
-    "version": "1.0.0.8",
+    "version": "1.0.0.9",
     "links": {
       "type": "universal",
       "sha256": "025B319C15551CD3A3E1359A9B235C00A89E6354CE3F61899A9EF25D46D70539",
@@ -4155,7 +4155,9 @@
     "repository": "https://github.com/NightFuryoOo/GodhomeQoL",
     "authors": [
       "Egir",
-      "NightFuryo3o"
+      "NightFuryo3o",
+      "Prtsscout",
+      "mint"
     ]
   },
   "GodhomeRandomizer": {
@@ -7212,11 +7214,11 @@
   },
   "Pale Court Charms": {
     "description": "Adds charms from Pale Court. Made to allow compatibility with mods that don't work with the main Pale Court. Works with Randomizer and Transcendence.\n        Do not use with Pale Court,as both mods add the same charms.",
-    "version": "1.3.5.0",
+    "version": "1.3.6.0",
     "links": {
       "type": "universal",
-      "sha256": "4730CBC09B9D7D4FF43A868957A82A6BE091A0137AC5E75E4D9F20A5D20F9567",
-      "url": "https://github.com/Roma-337/PaleCourtCharms/releases/download/v1.3.5/PaleCourtCharms.zip"
+      "sha256": "F2FF35068BD7B9311082BBDA42D65B80D8E82C67AC0C28C78A4BDF2DA9F93623",
+      "url": "https://github.com/Roma-337/PaleCourtCharms/releases/download/v1.3.6/PaleCourtCharms.zip"
     },
     "dependencies": [
       "ItemChanger",
@@ -10271,11 +10273,11 @@
   },
   "VoidAndSoul": {
     "description": "This mod adds an RPG mechanic through the 0-notch charm Void & Soul.",
-    "version": "1.0.0.0",
+    "version": "1.0.1.0",
     "links": {
       "type": "universal",
-      "sha256": "67825176105CA7546E6CEEF80B519848A4CA2FF7658AE0C435F184C0D6B0B9F1",
-      "url": "https://github.com/danielstegink/HollowKnight.VoidAndSoul/releases/download/1.0.0.0/VoidAndSoul.zip"
+      "sha256": "7E6F86F4A878F1BB20D14A378F4F90AE7B73DE26ACB70A8F3E5BB2A288B50C5A",
+      "url": "https://github.com/danielstegink/HollowKnight.VoidAndSoul/releases/download/1.0.1.0/VoidAndSoul.zip"
     },
     "dependencies": [
       "DanielSteginkUtils",

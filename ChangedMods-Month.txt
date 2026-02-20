@@ -47,3 +47,7 @@ AlphabetRando
 AlphabetRando
 MossBeast
 MoreDoors
+CustomPoolInjector
+GodhomeQoL
+Pale Court Charms
+VoidAndSoul
