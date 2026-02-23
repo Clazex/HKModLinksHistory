@@ -49,18 +49,6 @@
 - Tags
   + Gameplay
 
-### GeoRando
-
-- Description: A Randomizer connection for every individual piece of geo
-- Dependencies
-  + ItemChanger
-  + MenuChanger
-  + Randomizer 4
-  + RandomizerCore
-  + RandomizerCore.Json
-- Integrations
-  + RandoSettingsManager
-
 ### Inputs Recheck
 
 - Description: Rechecks for the held buttons on any Knight state change, so the action is triggered even if the button was pushed down before it was available, if the button is still held down. Based on Input Buffers mod by Phenomenol, but with completely different logic.
@@ -131,12 +119,6 @@
 - Tags
   + Gameplay
 
-### RecentItemsDisplayNoGeo
-
-- Description: Adds a togglable filter to remove GeoRando checks from RecentItemsDisplay
-- Dependencies
-  + RecentItemsDisplay
-
 ### RecentItemsDisplayNoOneEssence
 
 - Description: Adds a togglable filter to remove 1 Essence checks from RecentItemsDisplay
@@ -162,11 +144,6 @@
   + Gameplay
 
 
-## Removed mods
-
-- HallOfGodsRandomizer
-
-
 ## Updated mods
 
 ### AccessRandomizer
@@ -175,7 +152,7 @@
 
 ### Breakable Wall Randomizer
 
-- Version: 4.1.1.6 -> 4.1.1.8
+- Version: 4.1.1.7 -> 4.1.1.8
 
 ### CabbyCodes
 
@@ -211,13 +188,13 @@
   + Old: A mod that adds a handful of new spells (and 1-ish nail art). Cycle by selecting the spell in the inventory.
   + New: A mod that adds a handful of new spells and nail arts. Cycle by selecting the spell in the inventory.
 
+### GeoRando
+
+- Version: 1.0.0.0 -> 1.0.1.2
+
 ### GodhomeQoL
 
 - Version: 1.0.0.7 -> 1.0.0.9
-
-### GodhomeRandomizer
-
-- Version: 2.2.4.10 -> 2.2.4.11
 
 ### InfectedHallownest
 
@@ -233,7 +210,7 @@
 
 ### Pale Court Charms
 
-- Version: 1.3.3.0 -> 1.3.6.0
+- Version: 1.3.4.0 -> 1.3.6.0
 
 ### RandoPlus
 
@@ -250,10 +227,6 @@
 ### Scattered and Lost
 
 - Version: 1.6.0.0 -> 1.6.3.0
-
-### SpicyRando
-
-- Version: 2.1.0.0 -> 2.1.1.0
 
 ### SpoilerViewerMod
 
