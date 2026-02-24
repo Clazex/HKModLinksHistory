@@ -250,11 +250,11 @@
   },
   "AlphabetRando": {
     "description": "A Randomizer connection for the letters in the UI of the game itself",
-    "version": "1.0.1.1",
+    "version": "1.0.1.2",
     "links": {
       "type": "universal",
-      "sha256": "8A2B56A6D6C67CDD8F015380930FE139A570C427918DDF85F22458EF3C501ACC",
-      "url": "https://github.com/TheMathGeek314/AlphabetRando/releases/download/v1.0.1.1/AlphabetRando.zip"
+      "sha256": "3823014D8D2A5EDA12240221CB8D5E01555E74A27A9DE629E3AE3BAFCF620DFA",
+      "url": "https://github.com/TheMathGeek314/AlphabetRando/releases/download/v1.0.1.2/AlphabetRando.zip"
     },
     "dependencies": [
       "ItemChanger",
@@ -727,17 +727,21 @@
   },
   "BetterCrystalHeart": {
     "description": "Adds synergies and bonuses to Crystal Heart's damage and charge time.",
-    "version": "1.1.1.0",
+    "version": "1.2.0.0",
     "links": {
       "type": "universal",
-      "sha256": "F89F62156D4FF558D32FE7DA8412FFD3767632C0EEBBE92505ABC2F40348913A",
-      "url": "https://github.com/danielstegink/HollowKnight.BetterCrystalHeart/releases/download/1.1.1.0/BetterCrystalHeart.zip"
+      "sha256": "01EFD14FA36121E0DDAF1AAFDCB5B5A4DCC638EC78649EC790F30F61DC367F5C",
+      "url": "https://github.com/danielstegink/HollowKnight.BetterCrystalHeart/releases/download/1.2.0.0/BetterCrystalHeart.zip"
     },
     "dependencies": [
       "DanielSteginkUtils",
+      "HKMirror",
       "Satchel"
     ],
     "repository": "https://github.com/danielstegink/HollowKnight.BetterCrystalHeart",
+    "integrations": [
+      "DynamicCrystalDash"
+    ],
     "tags": [
       "Gameplay"
     ],
@@ -1489,12 +1493,12 @@
     ]
   },
   "Collision Glitch Remover": {
-    "description": "Removes collision-based glitches such as the Gruz mother wall bounce and Collector \"sticky feet\" glitch. Works the same way as CollectorGlitchRemover except it fixes every scene. Can be enabled along with CollectorGlitchRemover or instead of CollectorGlitchRemover.",
-    "version": "1.0.0.0",
+    "description": "Removes collision-based glitches such as the Gruz mother wall bounce and Collector \"sticky feet\" glitch. Works the same way as CollectorGlitchRemover except it fixes every scene. Can be added along with CollectorGlitchRemover or instead of CollectorGlitchRemover.",
+    "version": "1.0.2.0",
     "links": {
       "type": "universal",
-      "sha256": "B14AAC4CBC3F51A747A10CD5E53880DBF49B959789FC3FE56ECA47BF5C9024AF",
-      "url": "https://github.com/EarlyHemisphere/HK.CollisionGlitchRemover/releases/download/v1.0.0/CollisionGlitchRemover.dll"
+      "sha256": "B9A473432FE432990BA58CBD52E7012EB7EF65146EA4B1A1D1A5E9080C3EA0A5",
+      "url": "https://github.com/EarlyHemisphere/HK.CollisionGlitchRemover/releases/download/v1.0.2/CollisionGlitchRemover.dll"
     },
     "dependencies": [
       "SFCore"
@@ -3867,11 +3871,11 @@
   },
   "Geo Remover": {
     "description": "Removes geo icons from the HUD.",
-    "version": "1.0.3.0",
+    "version": "1.0.4.0",
     "links": {
       "type": "universal",
-      "sha256": "E90909768FBE2AA5D241FCF96F9F7E52B7CE5D2DC5CAF829E523D16E79268224",
-      "url": "https://github.com/EarlyHemisphere/HollowKnight.GeoRemover/releases/download/v1.0.3/GeoRemover.dll"
+      "sha256": "71308609C8548CADE7884C08BAA123DB90C0742D1036E937A0F12DAABED61079",
+      "url": "https://github.com/EarlyHemisphere/HollowKnight.GeoRemover/releases/download/v1.0.4/GeoRemover.dll"
     },
     "dependencies": [],
     "repository": "https://github.com/EarlyHemisphere/HollowKnight.GeoRemover",
@@ -5329,11 +5333,11 @@
   },
   "Invulnerability Indicator": {
     "description": "Adds a visual indicator when the player character is invulnerable outside of screen transitions, invincibility, and invulnerability that is already visually indicated.",
-    "version": "1.0.1.0",
+    "version": "1.0.2.0",
     "links": {
       "type": "universal",
-      "sha256": "12C80DBB252C8D39E1FCD5EA39D20576F691008E454B4C2BD6EBB0E097F46B28",
-      "url": "https://github.com/EarlyHemisphere/HK-Invulnerability-Indicator/releases/download/v1.0.1/InvulnerabilityIndicator.dll"
+      "sha256": "E4587C1F7AE3C95C343964B7C7BE42699F0940DDD8EA704D67268927E01C1F1B",
+      "url": "https://github.com/EarlyHemisphere/HK-Invulnerability-Indicator/releases/download/v1.0.2/InvulnerabilityIndicator.dll"
     },
     "dependencies": [],
     "repository": "https://github.com/EarlyHemisphere/HK-Invulnerability-Indicator",
@@ -6073,11 +6077,11 @@
   },
   "Mask Remover": {
     "description": "Removes masks from the HUD. Useful for radiant fights.",
-    "version": "1.0.3.0",
+    "version": "1.0.4.0",
     "links": {
       "type": "universal",
-      "sha256": "8D62311DDFA627332A388B85E2CED04DB0F798E7DE6F949B0EC53540D2627976",
-      "url": "https://github.com/EarlyHemisphere/HollowKnight.MaskRemover/releases/download/v1.0.3/MaskRemover.dll"
+      "sha256": "1E2A2817407D39B2BDDF0F1A2004EF6B25CD1B2AB7FA1DA4A809421F502495C8",
+      "url": "https://github.com/EarlyHemisphere/HollowKnight.MaskRemover/releases/download/v1.0.4/MaskRemover.dll"
     },
     "dependencies": [],
     "repository": "https://github.com/EarlyHemisphere/HollowKnight.MaskRemover",
@@ -7804,11 +7808,11 @@
   },
   "PurenailCore": {
     "description": "Common utilities and interop for Purenail mods",
-    "version": "2.0.0.1",
+    "version": "2.0.0.2",
     "links": {
       "type": "universal",
-      "sha256": "8775F5F059271C99B7628CA1AECA2ECE8223B3CD14616815C82DC84FB70B64CF",
-      "url": "https://github.com/dplochcoder/HollowKnight.PurenailCore/releases/download/v2.0.0.1/PurenailCore.zip"
+      "sha256": "475DB51958869F4A8C84DB0C5C7102D4E41FA041ACD417293A32EB0C4EC32B3A",
+      "url": "https://github.com/dplochcoder/HollowKnight.PurenailCore/releases/download/v2.0.0.2/PurenailCore.zip"
     },
     "dependencies": [
       "Randomizer 4",
@@ -9000,6 +9004,26 @@
     "repository": "https://github.com/TheMathGeek314/ShadesAnywhere/",
     "authors": [
       "TheMathGeek_314"
+    ]
+  },
+  "Shared Health": {
+    "description": "A HKMP addon to synchronize damage and healing across teams.",
+    "version": "1.0.0.0",
+    "links": {
+      "type": "universal",
+      "sha256": "455186880E2D2BBE12A818A5BBA8C18DA74081F7E667763C37AEEB958A74A559",
+      "url": "https://github.com/Charcoal2000/SharedHealth/releases/download/1.0.0.0/SharedHealth.zip"
+    },
+    "dependencies": [
+      "HKMP",
+      "HkmpPouch"
+    ],
+    "repository": "https://github.com/Charcoal2000/SharedHealth",
+    "tags": [
+      "Gameplay"
+    ],
+    "authors": [
+      "Charcoal2000"
     ]
   },
   "ShieldParry": {

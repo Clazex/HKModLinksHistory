@@ -125,6 +125,15 @@
 - Dependencies
   + RecentItemsDisplay
 
+### Shared Health
+
+- Description: A HKMP addon to synchronize damage and healing across teams.
+- Dependencies
+  + HKMP
+  + HkmpPouch
+- Tags
+  + Gameplay
+
 ### SpamDescendingDark
 
 - Description: Increases DDark invincibility so it can be used non-stop
@@ -150,6 +159,16 @@
 
 - Version: 1.4.0.1 -> 1.4.0.2
 
+### BetterCrystalHeart
+
+- Version: 1.1.1.0 -> 1.2.0.0
+- Dependencies
+  + Added
+    - HKMirror
+- Integrations
+  + Added
+    - DynamicCrystalDash
+
 ### Breakable Wall Randomizer
 
 - Version: 4.1.1.7 -> 4.1.1.8
@@ -157,6 +176,13 @@
 ### CabbyCodes
 
 - Version: 1.4.1.0 -> 1.4.2.0
+
+### Collision Glitch Remover
+
+- Version: 1.0.0.0 -> 1.0.2.0
+- Description
+  + Old: Removes collision-based glitches such as the Gruz mother wall bounce and Collector &quot;sticky feet&quot; glitch. Works the same way as CollectorGlitchRemover except it fixes every scene. Can be enabled along with CollectorGlitchRemover or instead of CollectorGlitchRemover.
+  + New: Removes collision-based glitches such as the Gruz mother wall bounce and Collector &quot;sticky feet&quot; glitch. Works the same way as CollectorGlitchRemover except it fixes every scene. Can be added along with CollectorGlitchRemover or instead of CollectorGlitchRemover.
 
 ### CompassAlwaysOn
 
@@ -188,6 +214,10 @@
   + Old: A mod that adds a handful of new spells (and 1-ish nail art). Cycle by selecting the spell in the inventory.
   + New: A mod that adds a handful of new spells and nail arts. Cycle by selecting the spell in the inventory.
 
+### Geo Remover
+
+- Version: 1.0.3.0 -> 1.0.4.0
+
 ### GeoRando
 
 - Version: 1.0.0.0 -> 1.0.1.2
@@ -200,9 +230,17 @@
 
 - Version: 1.0.0.0 -> 1.0.1.0
 
+### Invulnerability Indicator
+
+- Version: 1.0.1.0 -> 1.0.2.0
+
 ### Knight of Nights
 
-- Version: 2.0.3.0 -> 2.0.5.0
+- Version: 2.0.4.0 -> 2.0.5.0
+
+### Mask Remover
+
+- Version: 1.0.3.0 -> 1.0.4.0
 
 ### MoreDoors
 
@@ -211,6 +249,10 @@
 ### Pale Court Charms
 
 - Version: 1.3.4.0 -> 1.3.6.0
+
+### PurenailCore
+
+- Version: 2.0.0.1 -> 2.0.0.2
 
 ### RandoPlus
 
