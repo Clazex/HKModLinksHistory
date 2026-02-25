@@ -99,7 +99,6 @@
   + ItemChanger
   + ItemChangerDataLoader
   + ItemSync
-  + MenuChanger
   + MoreDoors
   + MoreStags
   + RandoMapMod
@@ -139,6 +138,14 @@
 - Description: Increases DDark invincibility so it can be used non-stop
 - Dependencies
   + DanielSteginkUtils
+- Tags
+  + Gameplay
+
+### StartingNotches
+
+- Description: Lets you play with an adjustable amount of extra Charm Notches (0-20), default starts at 2.
+- Dependencies
+  + Satchel
 - Tags
   + Gameplay
 
@@ -220,7 +227,7 @@
 
 ### GeoRando
 
-- Version: 1.0.0.0 -> 1.0.1.2
+- Version: 1.0.1.0 -> 1.0.1.2
 
 ### GodhomeQoL
 
@@ -253,6 +260,10 @@
 ### PurenailCore
 
 - Version: 2.0.0.1 -> 2.0.0.2
+
+### RandoMapCore
+
+- Version: 1.0.18.0 -> 1.0.19.0
 
 ### RandoPlus
 

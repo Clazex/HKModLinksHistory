@@ -39,7 +39,6 @@
   + ItemChanger
   + ItemChangerDataLoader
   + ItemSync
-  + MenuChanger
   + MoreDoors
   + MoreStags
   + RandoMapMod
@@ -62,12 +61,20 @@
 - Tags
   + Gameplay
 
+### StartingNotches
+
+- Description: Lets you play with an adjustable amount of extra Charm Notches (0-20), default starts at 2.
+- Dependencies
+  + Satchel
+- Tags
+  + Gameplay
+
 
 ## Updated mods
 
 ### AlphabetRando
 
-- Version: 1.0.1.1 -> 1.0.1.2
+- Version: 1.0.1.1 -> 1.0.1.3
 
 ### BetterCrystalHeart
 
@@ -106,10 +113,6 @@
 
 - Version: 1.0.3.0 -> 1.0.4.0
 
-### MoreDoors
-
-- Version: 3.3.0.0 -> 3.3.0.1
-
 ### Pale Court Charms
 
 - Version: 1.3.5.0 -> 1.3.6.0
@@ -117,6 +120,10 @@
 ### PurenailCore
 
 - Version: 2.0.0.1 -> 2.0.0.2
+
+### RandoMapCore
+
+- Version: 1.0.18.0 -> 1.0.19.0
 
 ### VoidAndSoul
 

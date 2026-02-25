@@ -1,4 +1,3 @@
-MoreDoors
 CustomPoolInjector
 GodhomeQoL
 Pale Court Charms
@@ -14,3 +13,8 @@ Invulnerability Indicator
 Mask Remover
 PurenailCore
 Shared Health
+AlphabetRando
+MoreStags
+NetworkingPlando
+RandoMapCore
+StartingNotches
