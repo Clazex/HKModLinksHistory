@@ -1,7 +1,4 @@
 GeoRando
-RandoPlus
-VendorRando
-GeoRando
 Custom Title
 DanielSteginkUtils
 Knight of Nights
@@ -42,3 +39,5 @@ AlphabetRando
 MoreStags
 NetworkingPlando
 RandoMapCore
+Shared Health
+StartingNotches

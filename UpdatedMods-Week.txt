@@ -1,7 +1,3 @@
-CustomPoolInjector
-GodhomeQoL
-Pale Court Charms
-VoidAndSoul
 AlphabetRando
 BetterCrystalHeart
 Collision Glitch Remover
@@ -13,3 +9,5 @@ AlphabetRando
 MoreStags
 NetworkingPlando
 RandoMapCore
+Shared Health
+StartingNotches

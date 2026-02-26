@@ -1,7 +1,3 @@
-CustomPoolInjector
-GodhomeQoL
-Pale Court Charms
-VoidAndSoul
 Inputs Recheck
 MoreStags
 NetworkingPlando
@@ -17,4 +13,6 @@ AlphabetRando
 MoreStags
 NetworkingPlando
 RandoMapCore
+StartingNotches
+Shared Health
 StartingNotches

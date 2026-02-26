@@ -57,13 +57,14 @@
 - Description: A HKMP addon to synchronize damage and healing across teams.
 - Dependencies
   + HKMP
+  + HKMirror
   + HkmpPouch
 - Tags
   + Gameplay
 
 ### StartingNotches
 
-- Description: Lets you play with an adjustable amount of extra Charm Notches (0-20), default starts at 2.
+- Description: Lets you play with an adjustable amount of extra Charm Notches, default starts at 2.
 - Dependencies
   + Satchel
 - Tags
@@ -93,17 +94,9 @@
   + Old: Removes collision-based glitches such as the Gruz mother wall bounce and Collector &quot;sticky feet&quot; glitch. Works the same way as CollectorGlitchRemover except it fixes every scene. Can be enabled along with CollectorGlitchRemover or instead of CollectorGlitchRemover.
   + New: Removes collision-based glitches such as the Gruz mother wall bounce and Collector &quot;sticky feet&quot; glitch. Works the same way as CollectorGlitchRemover except it fixes every scene. Can be added along with CollectorGlitchRemover or instead of CollectorGlitchRemover.
 
-### CustomPoolInjector
-
-- Version: 1.1.3.0 -> 1.1.4.0
-
 ### Geo Remover
 
 - Version: 1.0.3.0 -> 1.0.4.0
-
-### GodhomeQoL
-
-- Version: 1.0.0.8 -> 1.0.0.9
 
 ### Invulnerability Indicator
 
@@ -113,10 +106,6 @@
 
 - Version: 1.0.3.0 -> 1.0.4.0
 
-### Pale Court Charms
-
-- Version: 1.3.5.0 -> 1.3.6.0
-
 ### PurenailCore
 
 - Version: 2.0.0.1 -> 2.0.0.2
@@ -124,8 +113,4 @@
 ### RandoMapCore
 
 - Version: 1.0.18.0 -> 1.0.19.0
-
-### VoidAndSoul
-
-- Version: 1.0.0.0 -> 1.0.1.0
 

@@ -9007,14 +9007,15 @@
   },
   "Shared Health": {
     "description": "A HKMP addon to synchronize damage and healing across teams.",
-    "version": "1.0.0.0",
+    "version": "1.0.1.0",
     "links": {
       "type": "universal",
-      "sha256": "455186880E2D2BBE12A818A5BBA8C18DA74081F7E667763C37AEEB958A74A559",
-      "url": "https://github.com/Charcoal2000/SharedHealth/releases/download/1.0.0.0/SharedHealth.zip"
+      "sha256": "064264ED357AD1E885AFC27ADA2D8A3575285E318FF06290B702CFF06948BE6D",
+      "url": "https://github.com/Charcoal2000/SharedHealth/releases/download/1.0.1.0/SharedHealth.zip"
     },
     "dependencies": [
       "HKMP",
+      "HKMirror",
       "HkmpPouch"
     ],
     "repository": "https://github.com/Charcoal2000/SharedHealth",
@@ -9544,12 +9545,12 @@
     ]
   },
   "StartingNotches": {
-    "description": "Lets you play with an adjustable amount of extra Charm Notches (0-20), default starts at 2.",
-    "version": "1.0.0.0",
+    "description": "Lets you play with an adjustable amount of extra Charm Notches, default starts at 2.",
+    "version": "1.0.1.0",
     "links": {
       "type": "universal",
-      "sha256": "F42DEBE58944113534A7582D410B0254C2D809ABC1E63C7AEBD1ED893E3AE6E5",
-      "url": "https://github.com/PointZero86/StartingNotches/releases/download/v1.0.0/StartingNotches.zip"
+      "sha256": "A0C45BF48E668146821D4E79777CF8A10BF0C99B8EBE810ED77DFDD1BCB5985C",
+      "url": "https://github.com/PointZero86/StartingNotches/releases/download/v1.0.1.0/StartingNotches.zip"
     },
     "dependencies": [
       "Satchel"

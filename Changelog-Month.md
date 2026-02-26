@@ -118,17 +118,12 @@
 - Tags
   + Gameplay
 
-### RecentItemsDisplayNoOneEssence
-
-- Description: Adds a togglable filter to remove 1 Essence checks from RecentItemsDisplay
-- Dependencies
-  + RecentItemsDisplay
-
 ### Shared Health
 
 - Description: A HKMP addon to synchronize damage and healing across teams.
 - Dependencies
   + HKMP
+  + HKMirror
   + HkmpPouch
 - Tags
   + Gameplay
@@ -143,7 +138,7 @@
 
 ### StartingNotches
 
-- Description: Lets you play with an adjustable amount of extra Charm Notches (0-20), default starts at 2.
+- Description: Lets you play with an adjustable amount of extra Charm Notches, default starts at 2.
 - Dependencies
   + Satchel
 - Tags
@@ -227,7 +222,7 @@
 
 ### GeoRando
 
-- Version: 1.0.1.0 -> 1.0.1.2
+- Version: 1.0.1.1 -> 1.0.1.2
 
 ### GodhomeQoL
 
@@ -265,10 +260,6 @@
 
 - Version: 1.0.18.0 -> 1.0.19.0
 
-### RandoPlus
-
-- Version: 1.7.0.3 -> 1.7.0.4
-
 ### Randomizable Levers
 
 - Version: 1.2.6.3 -> 1.2.6.4
@@ -287,7 +278,7 @@
 
 ### VendorRando
 
-- Version: 1.1.1.0 -> 1.1.1.4
+- Version: 1.1.1.2 -> 1.1.1.4
 
 ### WanderersWisdom
 

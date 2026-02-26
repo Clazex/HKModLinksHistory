@@ -1,8 +1,4 @@
 GeoRando
-RandoPlus
-RecentItemsDisplayNoOneEssence
-VendorRando
-GeoRando
 PantheonArchitect
 Custom Title
 DanielSteginkUtils
@@ -57,4 +53,6 @@ AlphabetRando
 MoreStags
 NetworkingPlando
 RandoMapCore
+StartingNotches
+Shared Health
 StartingNotches
