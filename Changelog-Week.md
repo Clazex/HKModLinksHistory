@@ -3,6 +3,19 @@
 
 ## New mods
 
+### CorpseDreamRando
+
+- Description: A Randomizer connection that adds dream nail dialogue for background corpses
+- Dependencies
+  + ItemChanger
+  + MenuChanger
+  + Randomizer 4
+  + RandomizerCore
+  + RandomizerCore.Json
+- Integrations
+  + Lore Randomizer
+  + RandoSettingsManager
+
 ### Inputs Recheck
 
 - Description: Rechecks for the held buttons on any Knight state change, so the action is triggered even if the button was pushed down before it was available, if the button is still held down. Based on Input Buffers mod by Phenomenol, but with completely different logic.
@@ -26,6 +39,14 @@
   + CondensedSpoilerLogger
   + DebugMod
   + RandoSettingsManager
+
+### MurderRando
+
+- Description: Another rando connection for those who despise the innocent.
+- Integrations
+  + CondensedSpoilerLogger
+- Tags
+  + Gameplay
 
 ### NetworkingPlando
 
@@ -97,6 +118,10 @@
 ### Geo Remover
 
 - Version: 1.0.3.0 -> 1.0.4.0
+
+### InfectedHallownest
+
+- Version: 1.0.1.0 -> 1.0.2.0
 
 ### Invulnerability Indicator
 

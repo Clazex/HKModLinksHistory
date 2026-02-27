@@ -3,3 +3,5 @@ MoreStags
 NetworkingPlando
 Shared Health
 StartingNotches
+CorpseDreamRando
+MurderRando

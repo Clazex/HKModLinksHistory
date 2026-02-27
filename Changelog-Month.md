@@ -15,6 +15,19 @@
   + CondensedSpoilerLogger
   + RandoSettingsManager
 
+### CorpseDreamRando
+
+- Description: A Randomizer connection that adds dream nail dialogue for background corpses
+- Dependencies
+  + ItemChanger
+  + MenuChanger
+  + Randomizer 4
+  + RandomizerCore
+  + RandomizerCore.Json
+- Integrations
+  + Lore Randomizer
+  + RandoSettingsManager
+
 ### Double Bosses
 
 - Description: A mod that (as the name suggests) doubles each bosses (actually, only bottom row in hall of gods + PV, NG, AR, WKs). &quot;Enjoy&quot; the mayhem and chaos this mod provides
@@ -80,6 +93,14 @@
   + Satchel
 - Tags
   + Boss
+
+### MurderRando
+
+- Description: Another rando connection for those who despise the innocent.
+- Integrations
+  + CondensedSpoilerLogger
+- Tags
+  + Gameplay
 
 ### MuteBosses
 
@@ -230,7 +251,7 @@
 
 ### InfectedHallownest
 
-- Version: 1.0.0.0 -> 1.0.1.0
+- Version: 1.0.0.0 -> 1.0.2.0
 
 ### Invulnerability Indicator
 

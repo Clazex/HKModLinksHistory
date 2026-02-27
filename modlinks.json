@@ -1724,6 +1724,30 @@
       "SFGrenade"
     ]
   },
+  "CorpseDreamRando": {
+    "description": "A Randomizer connection that adds dream nail dialogue for background corpses",
+    "version": "1.0.0.1",
+    "links": {
+      "type": "universal",
+      "sha256": "5394762F4E4A25521D1589BDD862FE61C4DDD28DF5F602FA7640F3419116EB4A",
+      "url": "https://github.com/TheMathGeek314/CorpseDreamRando/releases/download/v1.0.0.1/CorpseDreamRando.zip"
+    },
+    "dependencies": [
+      "ItemChanger",
+      "MenuChanger",
+      "Randomizer 4",
+      "RandomizerCore",
+      "RandomizerCore.Json"
+    ],
+    "repository": "https://github.com/TheMathGeek314/CorpseDreamRando/",
+    "integrations": [
+      "Lore Randomizer",
+      "RandoSettingsManager"
+    ],
+    "authors": [
+      "TheMathGeek_314"
+    ]
+  },
   "Corrupted Kin": {
     "description": "A mod that significantly changes up the Lost Kin bossfight",
     "version": "1.4.0.0",
@@ -5156,11 +5180,11 @@
   },
   "InfectedHallownest": {
     "description": "Adds a new stage to the game: after beating the Hollow Knight, the Infection expands throughout the game, strengthening enemies at random.",
-    "version": "1.0.1.0",
+    "version": "1.0.2.0",
     "links": {
       "type": "universal",
-      "sha256": "D52F679C19129CCF5B68C6A3F9B9FF00E2ABBDCADE51761CA88E9FF3E426D162",
-      "url": "https://github.com/danielstegink/HollowKnight.InfectedHallownest/releases/download/1.0.1.0/InfectedHallownest.zip"
+      "sha256": "2C3E77B07122D99E4C8D19139598CC3207615ED61454D39219FAAA86215308EB",
+      "url": "https://github.com/danielstegink/HollowKnight.InfectedHallownest/releases/download/1.0.2.0/InfectedHallownest.zip"
     },
     "dependencies": [],
     "repository": "https://github.com/danielstegink/HollowKnight.InfectedHallownest",
@@ -6652,6 +6676,26 @@
       "Satchel"
     ],
     "repository": "https://github.com/PrashantMohta/MultiplayerEvents/"
+  },
+  "MurderRando": {
+    "description": "Another rando connection for those who despise the innocent.",
+    "version": "1.0.0.0",
+    "links": {
+      "type": "universal",
+      "sha256": "F5EC211A3C61AA12F2AB58CD03EAAAEB2852C65E37BE0A54DE99B2EE87DD0CC7",
+      "url": "https://github.com/nerthul11/MurderRando/releases/download/1.0.0.0/MurderRando.zip"
+    },
+    "dependencies": [],
+    "repository": "https://github.com/nerthul11/MurderRando",
+    "integrations": [
+      "CondensedSpoilerLogger"
+    ],
+    "tags": [
+      "Gameplay"
+    ],
+    "authors": [
+      "nerthul11"
+    ]
   },
   "MuteBosses": {
     "description": "Silences bosses via toggles in the menu",

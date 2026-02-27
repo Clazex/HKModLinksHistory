@@ -41,3 +41,4 @@ NetworkingPlando
 RandoMapCore
 Shared Health
 StartingNotches
+InfectedHallownest

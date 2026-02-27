@@ -56,3 +56,6 @@ RandoMapCore
 StartingNotches
 Shared Health
 StartingNotches
+CorpseDreamRando
+InfectedHallownest
+MurderRando
