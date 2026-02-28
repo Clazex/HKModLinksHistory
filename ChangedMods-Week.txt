@@ -1,6 +1,3 @@
-Inputs Recheck
-MoreStags
-NetworkingPlando
 AlphabetRando
 BetterCrystalHeart
 Collision Glitch Remover

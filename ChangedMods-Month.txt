@@ -1,4 +1,3 @@
-GeoRando
 PantheonArchitect
 Custom Title
 DanielSteginkUtils
