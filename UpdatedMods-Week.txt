@@ -12,3 +12,4 @@ RandoMapCore
 Shared Health
 StartingNotches
 InfectedHallownest
+AlphabetRando

@@ -58,3 +58,4 @@ StartingNotches
 CorpseDreamRando
 InfectedHallownest
 MurderRando
+AlphabetRando
