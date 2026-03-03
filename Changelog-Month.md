@@ -97,8 +97,11 @@
 ### MurderRando
 
 - Description: Another rando connection for those who despise the innocent.
-- Integrations
-  + CondensedSpoilerLogger
+- Dependencies
+  + ItemChanger
+  + MenuChanger
+  + Randomizer 4
+  + Satchel
 - Tags
   + Gameplay
 
@@ -132,12 +135,6 @@
   + TheRealJournalRando
   + VendorRando
   + YetAnotherRandoConnection
-
-### PantheonArchitect
-
-- Description: Design and play custom Pantheon 5 lineups in Hollow Knight! Create your perfect boss gauntlet with any bosses in any order, then share your creations with friends using simple codes.
-- Tags
-  + Gameplay
 
 ### Shared Health
 
@@ -237,6 +234,10 @@
   + Old: A mod that adds a handful of new spells (and 1-ish nail art). Cycle by selecting the spell in the inventory.
   + New: A mod that adds a handful of new spells and nail arts. Cycle by selecting the spell in the inventory.
 
+### FlowerRandomizer
+
+- Version: 1.0.0.3 -> 1.0.1.0
+
 ### Geo Remover
 
 - Version: 1.0.3.0 -> 1.0.4.0
@@ -268,6 +269,10 @@
 ### Pale Court Charms
 
 - Version: 1.3.4.0 -> 1.3.6.0
+
+### PantheonArchitect
+
+- Version: 1.0.0.2 -> 1.0.0.4
 
 ### PurenailCore
 

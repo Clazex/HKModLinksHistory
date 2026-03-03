@@ -1,4 +1,3 @@
-PantheonArchitect
 Custom Title
 DanielSteginkUtils
 Knight of Nights
@@ -59,3 +58,4 @@ CorpseDreamRando
 InfectedHallownest
 MurderRando
 AlphabetRando
+FlowerRandomizer

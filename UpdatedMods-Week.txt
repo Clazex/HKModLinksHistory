@@ -1,8 +1,5 @@
-AlphabetRando
-MoreStags
-NetworkingPlando
-RandoMapCore
 Shared Health
 StartingNotches
 InfectedHallownest
 AlphabetRando
+FlowerRandomizer

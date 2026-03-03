@@ -19,15 +19,10 @@
 ### MurderRando
 
 - Description: Another rando connection for those who despise the innocent.
-- Integrations
-  + CondensedSpoilerLogger
-- Tags
-  + Gameplay
-
-### StartingNotches
-
-- Description: Lets you play with an adjustable amount of extra Charm Notches, default starts at 2.
 - Dependencies
+  + ItemChanger
+  + MenuChanger
+  + Randomizer 4
   + Satchel
 - Tags
   + Gameplay
@@ -37,26 +32,15 @@
 
 ### AlphabetRando
 
-- Version: 1.0.1.2 -> 1.0.2.0
+- Version: 1.0.1.3 -> 1.0.2.0
+
+### FlowerRandomizer
+
+- Version: 1.0.0.3 -> 1.0.1.0
 
 ### InfectedHallownest
 
 - Version: 1.0.1.0 -> 1.0.2.0
-
-### MoreStags
-
-- Version: 1.0.0.0 -> 1.0.1.0
-
-### NetworkingPlando
-
-- Version: 1.0.0.0 -> 1.0.0.1
-- Dependencies
-  + Removed
-    - MenuChanger
-
-### RandoMapCore
-
-- Version: 1.0.18.0 -> 1.0.19.0
 
 ### Shared Health
 
@@ -64,4 +48,11 @@
 - Dependencies
   + Added
     - HKMirror
+
+### StartingNotches
+
+- Version: 1.0.0.0 -> 1.0.1.0
+- Description
+  + Old: Lets you play with an adjustable amount of extra Charm Notches (0-20), default starts at 2.
+  + New: Lets you play with an adjustable amount of extra Charm Notches, default starts at 2.
 

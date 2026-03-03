@@ -1,11 +1,7 @@
-AlphabetRando
-MoreStags
-NetworkingPlando
-RandoMapCore
-StartingNotches
 Shared Health
 StartingNotches
 CorpseDreamRando
 InfectedHallownest
 MurderRando
 AlphabetRando
+FlowerRandomizer

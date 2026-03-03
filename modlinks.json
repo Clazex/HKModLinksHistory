@@ -3543,11 +3543,11 @@
   },
   "FlowerRandomizer": {
     "description": "A Hollow Knight Randomizer add-on for flower quest lovers.",
-    "version": "1.0.0.3",
+    "version": "1.0.1.0",
     "links": {
       "type": "universal",
-      "sha256": "98DD7D2F5EE8608F0EF4F6B07D407936446217FE984A7EC4328A3D032F261403",
-      "url": "https://github.com/nerthul11/FlowerRandomizer/releases/download/1.0.0.3/FlowerRandomizer.zip"
+      "sha256": "CDF4617BC601B5B9E56246EFF250AC693BCFB961A3855E98B910D2E19BC4BBBE",
+      "url": "https://github.com/nerthul11/FlowerRandomizer/releases/download/1.0.1.0/FlowerRandomizer.zip"
     },
     "dependencies": [
       "ItemChanger",
@@ -6685,11 +6685,13 @@
       "sha256": "F5EC211A3C61AA12F2AB58CD03EAAAEB2852C65E37BE0A54DE99B2EE87DD0CC7",
       "url": "https://github.com/nerthul11/MurderRando/releases/download/1.0.0.0/MurderRando.zip"
     },
-    "dependencies": [],
-    "repository": "https://github.com/nerthul11/MurderRando",
-    "integrations": [
-      "CondensedSpoilerLogger"
+    "dependencies": [
+      "ItemChanger",
+      "MenuChanger",
+      "Randomizer 4",
+      "Satchel"
     ],
+    "repository": "https://github.com/nerthul11/MurderRando",
     "tags": [
       "Gameplay"
     ],
