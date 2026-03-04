@@ -1,7 +1,8 @@
-Shared Health
-StartingNotches
 CorpseDreamRando
 InfectedHallownest
 MurderRando
 AlphabetRando
 FlowerRandomizer
+EnchantedMask
+RgbRando
+TheRealTransitionRando

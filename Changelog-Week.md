@@ -27,12 +27,48 @@
 - Tags
   + Gameplay
 
+### RgbRando
+
+- Description: A Randomizer connection that allows randomization of RGB values for the shader.
+- Dependencies
+  + ItemChanger
+  + MenuChanger
+  + Randomizer 4
+  + RandomizerCore
+  + RandomizerCore.Json
+- Integrations
+  + RandoSettingsManager
+
+### TheRealTransitionRando
+
+- Description: A Randomizer connection that puts transitions into the same pool as the other items
+- Dependencies
+  + ItemChanger
+  + MenuChanger
+  + Randomizer 4
+  + RandomizerCore
+  + RandomizerCore.Json
+- Integrations
+  + BugPrince
+  + ItemSync
+  + RandoMapCore
+  + RandoSettingsManager
+  + RecentItemsDisplay
+  + Scattered and Lost
+
 
 ## Updated mods
 
 ### AlphabetRando
 
 - Version: 1.0.1.3 -> 1.0.2.0
+
+### EnchantedMask
+
+- Version: 1.4.1.0 -> 1.5.0.0
+- Integrations
+  + Added
+    - Pale Court
 
 ### FlowerRandomizer
 
@@ -41,18 +77,4 @@
 ### InfectedHallownest
 
 - Version: 1.0.1.0 -> 1.0.2.0
-
-### Shared Health
-
-- Version: 1.0.0.0 -> 1.0.1.0
-- Dependencies
-  + Added
-    - HKMirror
-
-### StartingNotches
-
-- Version: 1.0.0.0 -> 1.0.1.0
-- Description
-  + Old: Lets you play with an adjustable amount of extra Charm Notches (0-20), default starts at 2.
-  + New: Lets you play with an adjustable amount of extra Charm Notches, default starts at 2.
 

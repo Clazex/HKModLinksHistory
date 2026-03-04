@@ -1,4 +1,3 @@
-Custom Title
 DanielSteginkUtils
 Knight of Nights
 VendorRando
@@ -59,3 +58,6 @@ InfectedHallownest
 MurderRando
 AlphabetRando
 FlowerRandomizer
+EnchantedMask
+RgbRando
+TheRealTransitionRando

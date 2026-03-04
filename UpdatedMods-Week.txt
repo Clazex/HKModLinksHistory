@@ -1,5 +1,4 @@
-Shared Health
-StartingNotches
 InfectedHallownest
 AlphabetRando
 FlowerRandomizer
+EnchantedMask

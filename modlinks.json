@@ -2982,11 +2982,11 @@
   },
   "EnchantedMask": {
     "description": "Adds new powerups called Glyphs, which can be purchased from the Mask maker.",
-    "version": "1.4.1.0",
+    "version": "1.5.0.0",
     "links": {
       "type": "universal",
-      "sha256": "6BC147ED5994631C898241354AF952847E7EA8389CAF3E5F3A5743229EB6BEFF",
-      "url": "https://github.com/danielstegink/HollowKnight.EnchantedMask/releases/download/1.4.1.0/EnchantedMask.zip"
+      "sha256": "FBC724DCE15384FF20871C38C6E7E9E443DD09A9532075B1DE2E3300EC466A19",
+      "url": "https://github.com/danielstegink/HollowKnight.EnchantedMask/releases/download/1.5.0.0/EnchantedMask.zip"
     },
     "dependencies": [
       "DanielSteginkUtils",
@@ -2997,6 +2997,9 @@
     ],
     "repository": "https://github.com/danielstegink/HollowKnight.EnchantedMask",
     "issues": "https://github.com/danielstegink/HollowKnight.EnchantedMask/issues",
+    "integrations": [
+      "Pale Court"
+    ],
     "tags": [
       "Gameplay"
     ],
@@ -8652,6 +8655,30 @@
       "Gameplay"
     ]
   },
+  "RgbRando": {
+    "description": "A Randomizer connection that allows randomization of RGB values for the shader.",
+    "version": "1.0.0.0",
+    "links": {
+      "type": "universal",
+      "sha256": "4844F1821F552BB74AA049CE2D4AD29FCB64CCE8A1BBD826FCC9C168D209B96F",
+      "url": "https://github.com/Pengwizard/RgbRando/releases/download/v1.0/RgbRando.zip"
+    },
+    "dependencies": [
+      "ItemChanger",
+      "MenuChanger",
+      "Randomizer 4",
+      "RandomizerCore",
+      "RandomizerCore.Json"
+    ],
+    "repository": "https://github.com/Pengwizard/RgbRando/",
+    "integrations": [
+      "RandoSettingsManager"
+    ],
+    "authors": [
+      "Nopre",
+      "TheMathGeek_314"
+    ]
+  },
   "Rogue": {
     "description": "A rogue-like Pantheon of Hallownest mod",
     "version": "2.0.0.0",
@@ -9965,6 +9992,34 @@
     ],
     "authors": [
       "BadMagic"
+    ]
+  },
+  "TheRealTransitionRando": {
+    "description": "A Randomizer connection that puts transitions into the same pool as the other items",
+    "version": "1.0.0.0",
+    "links": {
+      "type": "universal",
+      "sha256": "4CD3401382CBFFEA8E09993391D54CFC0035E515317634AEF18055948B76BFFB",
+      "url": "https://github.com/TheMathGeek314/TheRealTransitionRando/releases/download/v1.0.0.0/TheRealTransitionRando.zip"
+    },
+    "dependencies": [
+      "ItemChanger",
+      "MenuChanger",
+      "Randomizer 4",
+      "RandomizerCore",
+      "RandomizerCore.Json"
+    ],
+    "repository": "https://github.com/TheMathGeek314/TheRealTransitionRando/",
+    "integrations": [
+      "BugPrince",
+      "ItemSync",
+      "RandoMapCore",
+      "RandoSettingsManager",
+      "RecentItemsDisplay",
+      "Scattered and Lost"
+    ],
+    "authors": [
+      "TheMathGeek_314"
     ]
   },
   "ThecurseofSly": {
