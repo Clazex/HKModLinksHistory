@@ -1,7 +1,3 @@
-DanielSteginkUtils
-Knight of Nights
-VendorRando
-YetAnotherRandoConnection
 VendorRando
 SpoilerViewerMod
 Scattered and Lost
@@ -43,3 +39,4 @@ InfectedHallownest
 AlphabetRando
 FlowerRandomizer
 EnchantedMask
+MoreStags

@@ -3,30 +3,6 @@
 
 ## New mods
 
-### CorpseDreamRando
-
-- Description: A Randomizer connection that adds dream nail dialogue for background corpses
-- Dependencies
-  + ItemChanger
-  + MenuChanger
-  + Randomizer 4
-  + RandomizerCore
-  + RandomizerCore.Json
-- Integrations
-  + Lore Randomizer
-  + RandoSettingsManager
-
-### MurderRando
-
-- Description: Another rando connection for those who despise the innocent.
-- Dependencies
-  + ItemChanger
-  + MenuChanger
-  + Randomizer 4
-  + Satchel
-- Tags
-  + Gameplay
-
 ### RgbRando
 
 - Description: A Randomizer connection that allows randomization of RGB values for the shader.
@@ -74,7 +50,7 @@
 
 - Version: 1.0.0.3 -> 1.0.1.0
 
-### InfectedHallownest
+### MoreStags
 
-- Version: 1.0.1.0 -> 1.0.2.0
+- Version: 1.0.1.0 -> 1.0.1.1
 

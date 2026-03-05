@@ -1,8 +1,6 @@
-CorpseDreamRando
-InfectedHallownest
-MurderRando
 AlphabetRando
 FlowerRandomizer
 EnchantedMask
 RgbRando
 TheRealTransitionRando
+MoreStags

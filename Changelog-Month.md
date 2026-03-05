@@ -191,16 +191,6 @@
   + RecentItemsDisplay
   + Scattered and Lost
 
-### VoidAndSoul
-
-- Description: This mod adds an RPG mechanic through the 0-notch charm Void &amp; Soul.
-- Dependencies
-  + DanielSteginkUtils
-  + SFCore
-  + Satchel
-- Tags
-  + Gameplay
-
 
 ## Updated mods
 
@@ -241,10 +231,6 @@
 
 - Version: 1.1.3.0 -> 1.1.4.0
 
-### DanielSteginkUtils
-
-- Version: 1.4.2.1 -> 1.5.0.0
-
 ### EnchantedMask
 
 - Version: 1.4.0.0 -> 1.5.0.0
@@ -278,10 +264,6 @@
 ### Invulnerability Indicator
 
 - Version: 1.0.1.0 -> 1.0.2.0
-
-### Knight of Nights
-
-- Version: 2.0.4.0 -> 2.0.5.0
 
 ### Mask Remover
 
@@ -325,13 +307,13 @@
 
 ### VendorRando
 
-- Version: 1.1.1.2 -> 1.1.1.4
+- Version: 1.1.1.3 -> 1.1.1.4
+
+### VoidAndSoul
+
+- Version: 1.0.0.0 -> 1.0.1.0
 
 ### WanderersWisdom
 
 - Version: 1.1.2.0 -> 1.1.3.0
-
-### YetAnotherRandoConnection
-
-- Version: 1.1.0.4 -> 1.2.0.0
 

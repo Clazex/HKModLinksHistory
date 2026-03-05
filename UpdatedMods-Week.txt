@@ -1,4 +1,4 @@
-InfectedHallownest
 AlphabetRando
 FlowerRandomizer
 EnchantedMask
+MoreStags
