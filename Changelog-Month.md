@@ -305,10 +305,6 @@
 
 - Version: 2.12.1.0 -> 2.13.0.0
 
-### VendorRando
-
-- Version: 1.1.1.3 -> 1.1.1.4
-
 ### VoidAndSoul
 
 - Version: 1.0.0.0 -> 1.0.1.0

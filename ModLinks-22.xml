@@ -2433,6 +2433,9 @@ All with an incredible new soundtrack!</Description>
         <Repository>
             <![CDATA[https://github.com/fifty-six/HollowKnight.Vasi/]]>
         </Repository>
+        <Tags>
+            <Tag>Library</Tag>
+        </Tags>
     </Manifest>
     <Manifest>
         <Name>Hell Mod</Name>
@@ -2516,9 +2519,9 @@ All with an incredible new soundtrack!</Description>
     <Manifest>
         <Name>CompassAlwaysOn</Name>
         <Description>Makes it so the Knight's icon always appears on the map, even if Wayward Compass isn't in your inventory.</Description>
-        <Version>1.2.1.0</Version>
-        <Link SHA256="1c61505306092d651c360a60af1175a7ff8cd6f273ad7b3a0f9c1145e9001a2e">
-            <![CDATA[https://github.com/flibber-hk/HollowKnight.CompassAlwaysOn/releases/download/v1.2.1.0/CompassAlwaysOn.zip]]>
+        <Version>1.2.1.1</Version>
+        <Link SHA256="2600e46d3f6602666d1d6931c44cf7893abd0f48c81c016ff60e91bc774dcc7c">
+            <![CDATA[https://github.com/flibber-hk/HollowKnight.CompassAlwaysOn/releases/download/v1.2.1.1/CompassAlwaysOn.zip]]>
         </Link>
         <Dependencies />
         <Repository>
@@ -2798,9 +2801,9 @@ All with an incredible new soundtrack!</Description>
     <Manifest>
         <Name>Randomizable Levers</Name>
         <Description>Randomizer 4 addon that adds the option to randomize levers. Activate lever rando in the Connections menu of Randomizer 4.</Description>
-        <Version>1.2.6.3</Version>
-        <Link SHA256="06fb142589e000866a4822604f7846d18eeedcf272b96d95136767ae489e0c2b">
-            <![CDATA[https://github.com/flibber-hk/HollowKnight.RandomizableLevers/releases/download/v1.2.6.3/RandomizableLevers.zip]]>
+        <Version>1.2.6.4</Version>
+        <Link SHA256="2ee0fd6fdd9dafde405f768dcb8803c8563c86dea39ba725c9a72c25ba13b83d">
+            <![CDATA[https://github.com/flibber-hk/HollowKnight.RandomizableLevers/releases/download/v1.2.6.4/RandomizableLevers.zip]]>
         </Link>
         <Dependencies>
             <Dependency>ItemChanger</Dependency>
@@ -10113,9 +10116,9 @@ Enjoy!</Description>
     <Manifest>
         <Name>EnchantedMask</Name>
         <Description>Adds new powerups called Glyphs, which can be purchased from the Mask maker.</Description>
-        <Version>1.4.0.0</Version>
-        <Link SHA256="da50f6ed06661ac7ed601776ca3908f6a0f3eb745df53b401357762cb0237f3a">
-            <![CDATA[https://github.com/danielstegink/HollowKnight.EnchantedMask/releases/download/1.4.0.0/EnchantedMask.zip]]>
+        <Version>1.4.1.0</Version>
+        <Link SHA256="6bc147ed5994631c898241354af952847e7ea8389caf3e5f3a5743229eb6beff">
+            <![CDATA[https://github.com/danielstegink/HollowKnight.EnchantedMask/releases/download/1.4.1.0/EnchantedMask.zip]]>
         </Link>
         <Dependencies>
             <Dependency>Satchel</Dependency>
@@ -10690,9 +10693,9 @@ Enjoy!</Description>
     <Manifest>
         <Name>InfectedHallownest</Name>
         <Description>Adds a new stage to the game: after beating the Hollow Knight, the Infection expands throughout the game, strengthening enemies at random.</Description>
-        <Version>1.0.0.0</Version>
-        <Link SHA256="6a5a5a6f958d896e8aca85a18aee18911ce0982ed81d6242d3d73b4a367c53e0">
-            <![CDATA[https://github.com/danielstegink/HollowKnight.InfectedHallownest/releases/download/1.0.0.0/InfectedHallownest.zip]]>
+        <Version>1.0.1.0</Version>
+        <Link SHA256="D52F679C19129CCF5B68C6A3F9B9FF00E2ABBDCADE51761CA88E9FF3E426D162">
+            <![CDATA[https://github.com/danielstegink/HollowKnight.InfectedHallownest/releases/download/1.0.1.0/InfectedHallownest.zip]]>
         </Link>
         <Dependencies>
         </Dependencies>
@@ -11051,6 +11054,52 @@ Enjoy!</Description>
         </Repository>
         <Issues>
             <![CDATA[https://github.com/danielstegink/HollowKnight.MuteBosses/issues]]>
+        </Issues>
+        <Tags>
+            <Tag>Gameplay</Tag>
+        </Tags>
+        <Authors>
+            <Author>DanielStegink</Author>
+        </Authors>
+    </Manifest>
+    <Manifest>
+        <Name>DreamNailRadiance</Name>
+        <Description>Enables you to use the Dream Nail against the Radiance (her legs, specifically)</Description>
+        <Version>1.0.0.0</Version>
+        <Link SHA256="A9AA56779039C029EA6D698C0E977DB6032A3D7971F655F0BE5A71378F0F69D4">
+            <![CDATA[https://github.com/danielstegink/HollowKnight.DreamNailRadiance/releases/download/1.0.0.0/DreamNailRadiance.zip]]>
+        </Link>
+        <Dependencies>
+            <Dependency>DanielSteginkUtils</Dependency>
+        </Dependencies>
+        <Repository>
+            <![CDATA[https://github.com/danielstegink/HollowKnight.DreamNailRadiance]]>
+        </Repository>
+        <Issues>
+            <![CDATA[https://github.com/danielstegink/HollowKnight.DreamNailRadiance/issues]]>
+        </Issues>
+        <Tags>
+            <Tag>Gameplay</Tag>
+        </Tags>
+        <Authors>
+            <Author>DanielStegink</Author>
+        </Authors>
+    </Manifest>
+    <Manifest>
+        <Name>SpamDescendingDark</Name>
+        <Description>Increases DDark invincibility so it can be used non-stop</Description>
+        <Version>1.0.0.0</Version>
+        <Link SHA256="a8ed972ef20dd41260dbf951df66ae7e07e24b507e725db2ca5cc32286ed879d">
+            <![CDATA[https://github.com/danielstegink/HollowKnight.SpamDescendingDark/releases/download/1.0.0.0/SpamDescendingDark.zip]]>
+        </Link>
+        <Dependencies>
+            <Dependency>DanielSteginkUtils</Dependency>
+        </Dependencies>
+        <Repository>
+            <![CDATA[https://github.com/danielstegink/HollowKnight.SpamDescendingDark]]>
+        </Repository>
+        <Issues>
+            <![CDATA[https://github.com/danielstegink/HollowKnight.SpamDescendingDark/issues]]>
         </Issues>
         <Tags>
             <Tag>Gameplay</Tag>

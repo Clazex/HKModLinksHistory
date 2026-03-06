@@ -1,4 +1,3 @@
-VendorRando
 SpoilerViewerMod
 Scattered and Lost
 PantheonArchitect
@@ -39,4 +38,5 @@ InfectedHallownest
 AlphabetRando
 FlowerRandomizer
 EnchantedMask
+MoreStags
 MoreStags
