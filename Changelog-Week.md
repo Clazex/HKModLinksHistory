@@ -35,10 +35,6 @@
 
 ## Updated mods
 
-### AlphabetRando
-
-- Version: 1.0.1.3 -> 1.0.2.0
-
 ### EnchantedMask
 
 - Version: 1.4.1.0 -> 1.5.0.0

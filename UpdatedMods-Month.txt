@@ -1,4 +1,3 @@
-SpoilerViewerMod
 Scattered and Lost
 PantheonArchitect
 CabbyCodes

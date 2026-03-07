@@ -1,21 +1,22 @@
 # Changelog
 
 
+## New mods
+
+### MuteBosses
+
+- Description: Silences bosses via toggles in the menu
+- Tags
+  + Gameplay
+
+
 ## Updated mods
 
-### AccessRandomizer
+### Pale Court Charms
 
-- Version: 1.4.0.1 -> 1.4.0.2
+- Version: 1.3.4.0 -> 1.3.5.0
 
-### Breakable Wall Randomizer
+### WanderersWisdom
 
-- Version: 4.1.1.7 -> 4.1.1.8
-
-### GodhomeQoL
-
-- Version: 1.0.0.7 -> 1.0.0.8
-
-### ReplayLogger
-
-- Version: 1.0.1.4 -> 1.1.0.0
+- Version: 1.1.2.0 -> 1.1.3.0
 

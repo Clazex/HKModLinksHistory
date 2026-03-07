@@ -301,10 +301,6 @@
 
 - Version: 1.6.0.0 -> 1.6.3.0
 
-### SpoilerViewerMod
-
-- Version: 2.12.1.0 -> 2.13.0.0
-
 ### VoidAndSoul
 
 - Version: 1.0.0.0 -> 1.0.1.0
