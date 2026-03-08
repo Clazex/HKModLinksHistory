@@ -56,3 +56,5 @@ RgbRando
 TheRealTransitionRando
 MoreStags
 MoreStags
+Archipelago
+StubbornKnight

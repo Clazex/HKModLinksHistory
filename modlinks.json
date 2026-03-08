@@ -426,11 +426,11 @@
   },
   "Archipelago": {
     "description": "Enables play with the Archipelago multiworld system.",
-    "version": "0.11.0.0",
+    "version": "0.11.1.0",
     "links": {
       "type": "universal",
-      "sha256": "19E4026A08F9984CB89DFEE39B76542331B5DFF12FBE93C2CE1696B313DCB8AB",
-      "url": "https://github.com/ArchipelagoMW-HollowKnight/Archipelago.HollowKnight/releases/download/v0.11.0/Archipelago.zip"
+      "sha256": "60369235EC84249668CCFCD1B5B680EAD588E1AAA7F049F3DB259B017B574C29",
+      "url": "https://github.com/ArchipelagoMW-HollowKnight/Archipelago.HollowKnight/releases/download/v0.11.1/Archipelago.zip"
     },
     "dependencies": [
       "Benchwarp",
@@ -9756,6 +9756,26 @@
     "authors": [
       "HelenSB",
       "SFGrenade"
+    ]
+  },
+  "StubbornKnight": {
+    "description": "StubbornKnight is a stubborn knight mod. The Knight's mind is always fixated on one direction; you can only attack in the direction it desires.",
+    "version": "1.0.0.0",
+    "links": {
+      "type": "universal",
+      "sha256": "D3C10A60A264F34CE70B244D711947B672B682D7F376F605F398CFF87963CCBE",
+      "url": "https://github.com/windplusflower/StubbornKnight/releases/download/v1.0/StubbornKnight.zip"
+    },
+    "dependencies": [
+      "Satchel"
+    ],
+    "repository": "https://github.com/windplusflower/StubbornKnight",
+    "issues": "https://github.com/windplusflower/StubbornKnight/issues",
+    "tags": [
+      "Gameplay"
+    ],
+    "authors": [
+      "Windflower"
     ]
   },
   "Sunset Rad": {

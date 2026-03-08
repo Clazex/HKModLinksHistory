@@ -39,3 +39,4 @@ FlowerRandomizer
 EnchantedMask
 MoreStags
 MoreStags
+Archipelago
