@@ -1,1 +1,3 @@
-FlowerRandomizer
+EnchantedMask
+RgbRando
+TheRealTransitionRando

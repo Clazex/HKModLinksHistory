@@ -4,6 +4,28 @@
     xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
     xsi:schemaLocation="https://github.com/HollowKnight-Modding/HollowKnight.ModLinks/HollowKnight.ModManager https://raw.githubusercontent.com/HollowKnight-Modding/HollowKnight.ModLinks/main/Schemas/ModLinks.xml">
     <Manifest>
+        <Name>EasierGeoEconomy</Name>
+        <DisplayName>Easier Geo Economy</DisplayName>
+        <Description>Allows you to multiply the amount gotten per geo piece. Also includes an option to not lose geo upon death.</Description>
+        <Version>0.1.0.0</Version>
+        <Link SHA256="B7A4BAD6485EDCDDF24B22F0F4FA2CB8B653691AE3E562F1737C54B216357367"><![CDATA[https://github.com/Thommie0208/EasierGeoEconomy/releases/download/v0.1/EasierGeoEconomy.zip]]></Link>
+        <Dependencies>
+            <Dependency>Satchel</Dependency>
+        </Dependencies>
+        <Repository>
+            <![CDATA[https://github.com/Thommie0208/EasierGeoEconomy]]>
+        </Repository>
+        <Issues>
+            <![CDATA[https://github.com/Thommie0208/EasierGeoEconomy/issues]]>
+        </Issues>
+        <Tags>
+            <Tag>Gameplay</Tag>
+        </Tags>
+        <Authors>
+            <Author>Thommie</Author>
+        </Authors>
+    </Manifest>
+    <Manifest>
         <Name>PantheonArchitect</Name>
         <DisplayName>Pantheon Architect</DisplayName>
         <Description>Design and play custom Pantheon 5 lineups in Hollow Knight! Create your perfect boss gauntlet with any bosses in any order, then share your creations with friends using simple codes.</Description>
@@ -7356,9 +7378,9 @@ Enjoy!</Description>
     <Manifest>
         <Name>Scattered and Lost</Name>
         <Description>Celeste-themed content mod, expanding Bretta's hut</Description>
-        <Version>1.6.2.0</Version>
-        <Link SHA256="eaf98a0c9853fd6c48bc748e70a1dcfaab724fcc63976442bbf8a1381a581790">
-            <![CDATA[https://github.com/dplochcoder/HollowKnight.ScatteredAndLost/releases/download/v1.6.2.0/Scattered.and.Lost.zip]]>
+        <Version>1.6.3.0</Version>
+        <Link SHA256="5f63fa44046cde0085063caaced4ac5182264fb56dd1784122b4d8c561c2701d">
+            <![CDATA[https://github.com/dplochcoder/HollowKnight.ScatteredAndLost/releases/download/v1.6.3.0/Scattered.and.Lost.zip]]>
         </Link>
         <Dependencies>
             <Dependency>ItemChanger</Dependency>
@@ -9204,10 +9226,10 @@ Enjoy!</Description>
     </Manifest>
     <Manifest>
         <Name>ExtraSpells</Name>
-        <Description>A mod that adds a handful of new spells (and 1-ish nail art). Cycle by selecting the spell in the inventory.</Description>
-        <Version>1.0.0.2</Version>
-        <Link SHA256="BBF4137E973114FCE477C8F13649D0851885990CAB4393D8CA6EC0070C5B5BEF">
-            <![CDATA[https://github.com/Samihamer1/Hollow-Knight-ExtraSpells/releases/download/v1.0.0.2/ExtraSpells1002.zip]]>
+        <Description>A mod that adds a handful of new spells and nail arts. Cycle by selecting the spell in the inventory.</Description>
+        <Version>1.1.0.0</Version>
+        <Link SHA256="57E5850F6406EB7988A11FB36E1A648D5AC28302E767F3064ED383479A850E6D">
+            <![CDATA[https://github.com/Samihamer1/Hollow-Knight-ExtraSpells/releases/download/v1.1.0.0/ExtraSpells1100.zip]]>
         </Link>
         <Dependencies>
             <Dependency>Vasi</Dependency>
@@ -10837,8 +10859,8 @@ Enjoy!</Description>
     <Manifest>
         <Name>CabbyCodes</Name>
         <Description>A comprehensive cheat menu mod that provides control over player stats, inventory, and game state through an in-game interface</Description>
-        <Version>1.4.1.0</Version>
-        <Link SHA256="49B187B6F68509279AB19323B1EB5BB3AFD1D7F74C0595EFE5DEA8B77348EAEC"><![CDATA[https://github.com/SirCabby/HKCabbyCodes/releases/download/lumafly_v1.4.1/CabbyCodes_Lumafly_v1.4.1.zip]]></Link>
+        <Version>1.4.2.0</Version>
+        <Link SHA256="9e83ef0a52fab8fc295582fcd0bd54f4682e72f33a292c93d2ef01c9ba7f5b10"><![CDATA[https://github.com/SirCabby/HKCabbyCodes/releases/download/lumafly_v1.4.2/CabbyCodes_Lumafly_v1.4.2.zip]]></Link>
         <Dependencies>
         </Dependencies>
         <Repository>
@@ -10990,6 +11012,29 @@ Enjoy!</Description>
         </Tags>
         <Authors>
             <Author>DanielStegink</Author>
+        </Authors>
+    </Manifest>
+    <Manifest>
+        <Name>Double Bosses</Name>
+        <Description>A mod that (as the name suggests) doubles each bosses (actually, only bottom row in hall of gods + PV, NG, AR, WKs). "Enjoy" the mayhem and chaos this mod provides</Description>
+        <Version>0.34.0.0</Version>
+        <Link SHA256="a9c648fee6fd6ea698c7d1e192df6ae83e52d34492a541d914e42b9b0f7084e4">
+            <![CDATA[https://github.com/BaikalGit/DoubleBosses/releases/download/v0.34/DoubleBosses.zip]]></Link>
+        <Dependencies>
+            <Dependency>Satchel</Dependency>
+            <Dependency>Osmi</Dependency>
+        </Dependencies>
+        <Repository>
+            <![CDATA[https://github.com/BaikalGit/DoubleBosses]]>
+        </Repository>
+        <Issues>
+            <![CDATA[https://github.com/BaikalGit/DoubleBosses/issues]]>
+        </Issues>
+        <Tags>
+            <Tag>Gameplay</Tag>
+        </Tags>
+        <Authors>
+            <Author>Baikal</Author>
         </Authors>
     </Manifest>
 </ModLinks>

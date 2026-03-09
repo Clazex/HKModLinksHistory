@@ -47,6 +47,10 @@
 
 - Version: 0.11.0.0 -> 0.11.1.0
 
+### CorpseDreamRando
+
+- Version: 1.0.0.1 -> 1.0.0.2
+
 ### EnchantedMask
 
 - Version: 1.4.1.0 -> 1.5.0.0
@@ -54,11 +58,11 @@
   + Added
     - Pale Court
 
-### FlowerRandomizer
-
-- Version: 1.0.0.3 -> 1.0.1.0
-
 ### MoreStags
 
 - Version: 1.0.1.0 -> 1.0.1.2
+
+### Pale Court Charms
+
+- Version: 1.3.6.0 -> 1.3.7.0
 

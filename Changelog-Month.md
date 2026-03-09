@@ -287,7 +287,7 @@
 
 ### Pale Court Charms
 
-- Version: 1.3.4.0 -> 1.3.6.0
+- Version: 1.3.4.0 -> 1.3.7.0
 
 ### PantheonArchitect
 
@@ -311,7 +311,7 @@
 
 ### Scattered and Lost
 
-- Version: 1.6.0.0 -> 1.6.3.0
+- Version: 1.6.2.0 -> 1.6.3.0
 
 ### VoidAndSoul
 

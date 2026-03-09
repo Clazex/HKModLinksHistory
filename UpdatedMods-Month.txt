@@ -1,4 +1,3 @@
-Scattered and Lost
 PantheonArchitect
 CabbyCodes
 ExtraSpells
@@ -40,3 +39,5 @@ EnchantedMask
 MoreStags
 MoreStags
 Archipelago
+CorpseDreamRando
+Pale Court Charms

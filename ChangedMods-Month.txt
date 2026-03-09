@@ -1,4 +1,3 @@
-Scattered and Lost
 PantheonArchitect
 CabbyCodes
 Double Bosses
@@ -58,3 +57,5 @@ MoreStags
 MoreStags
 Archipelago
 StubbornKnight
+CorpseDreamRando
+Pale Court Charms
