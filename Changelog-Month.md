@@ -136,6 +136,17 @@
   + VendorRando
   + YetAnotherRandoConnection
 
+### RegretRecoveryRestoration
+
+- Description: A Randomizer connection which restores the ability to recover your shade when egg shop removes it
+- Dependencies
+  + ItemChanger
+  + MenuChanger
+  + Randomizer 4
+  + RandomizerCore
+- Integrations
+  + RandoSettingsManager
+
 ### RgbRando
 
 - Description: A Randomizer connection that allows randomization of RGB values for the shader.
@@ -245,7 +256,7 @@
 
 ### EnchantedMask
 
-- Version: 1.4.0.0 -> 1.5.0.0
+- Version: 1.4.0.0 -> 1.5.1.0
 - Integrations
   + Added
     - Pale Court
@@ -288,10 +299,6 @@
 ### Pale Court Charms
 
 - Version: 1.3.4.0 -> 1.3.7.0
-
-### PantheonArchitect
-
-- Version: 1.0.0.2 -> 1.0.0.4
 
 ### PurenailCore
 

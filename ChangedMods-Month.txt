@@ -1,4 +1,3 @@
-PantheonArchitect
 CabbyCodes
 Double Bosses
 EasierGeoEconomy
@@ -59,3 +58,5 @@ Archipelago
 StubbornKnight
 CorpseDreamRando
 Pale Court Charms
+EnchantedMask
+RegretRecoveryRestoration

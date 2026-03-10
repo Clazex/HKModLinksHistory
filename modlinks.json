@@ -2982,11 +2982,11 @@
   },
   "EnchantedMask": {
     "description": "Adds new powerups called Glyphs, which can be purchased from the Mask maker.",
-    "version": "1.5.0.0",
+    "version": "1.5.1.0",
     "links": {
       "type": "universal",
-      "sha256": "FBC724DCE15384FF20871C38C6E7E9E443DD09A9532075B1DE2E3300EC466A19",
-      "url": "https://github.com/danielstegink/HollowKnight.EnchantedMask/releases/download/1.5.0.0/EnchantedMask.zip"
+      "sha256": "D2C9CADC674BDD169688F920ABC2CBCE70F3C799EE1996324F18BCF83B146581",
+      "url": "https://github.com/danielstegink/HollowKnight.EnchantedMask/releases/download/1.5.1.0/EnchantedMask.zip"
     },
     "dependencies": [
       "DanielSteginkUtils",
@@ -8533,6 +8533,28 @@
     ],
     "authors": [
       "SFGrenade"
+    ]
+  },
+  "RegretRecoveryRestoration": {
+    "description": "A Randomizer connection which restores the ability to recover your shade when egg shop removes it",
+    "version": "1.0.0.0",
+    "links": {
+      "type": "universal",
+      "sha256": "B10C9628FCCFE469BB887183C6EC64A27CBC65E2A01105E7F12FC34DF3F6E8F4",
+      "url": "https://github.com/TheMathGeek314/RegretRecoveryRestoration/releases/download/v1.0.0.0/RegretRecoveryRestoration.zip"
+    },
+    "dependencies": [
+      "ItemChanger",
+      "MenuChanger",
+      "Randomizer 4",
+      "RandomizerCore"
+    ],
+    "repository": "https://github.com/TheMathGeek314/RegretRecoveryRestoration/",
+    "integrations": [
+      "RandoSettingsManager"
+    ],
+    "authors": [
+      "TheMathGeek_314"
     ]
   },
   "Remove Haunted Foes": {

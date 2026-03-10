@@ -16,3 +16,4 @@ MurderRando
 RgbRando
 TheRealTransitionRando
 StubbornKnight
+RegretRecoveryRestoration
