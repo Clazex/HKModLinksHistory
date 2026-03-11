@@ -1,8 +1,3 @@
-CabbyCodes
-Double Bosses
-EasierGeoEconomy
-ExtraSpells
-Scattered and Lost
 AccessRandomizer
 Breakable Wall Randomizer
 GodhomeQoL
