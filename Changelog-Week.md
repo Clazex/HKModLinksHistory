@@ -25,6 +25,13 @@
 
 ## Updated mods
 
+### AlphabetRando
+
+- Version: 1.0.2.0 -> 1.1.0.0
+- Integrations
+  + Added
+    - FStats
+
 ### Archipelago
 
 - Version: 0.11.0.0 -> 0.11.1.0
@@ -37,11 +44,15 @@
 
 - Version: 1.5.0.0 -> 1.5.1.0
 
-### MoreStags
-
-- Version: 1.0.1.1 -> 1.0.1.2
-
 ### Pale Court Charms
 
 - Version: 1.3.6.0 -> 1.3.7.0
+
+### TheRealTransitionRando
+
+- Version: 1.0.0.0 -> 1.0.0.1
+
+### VoidAndSoul
+
+- Version: 1.0.1.0 -> 1.0.1.1
 

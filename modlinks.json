@@ -250,11 +250,11 @@
   },
   "AlphabetRando": {
     "description": "A Randomizer connection for the letters in the UI of the game itself",
-    "version": "1.0.2.0",
+    "version": "1.1.0.0",
     "links": {
       "type": "universal",
-      "sha256": "A0CEF40146E42476C7A2937D0909BE4AEABA332770487983AE8DA40246BEC479",
-      "url": "https://github.com/TheMathGeek314/AlphabetRando/releases/download/v1.0.2.0/AlphabetRando.zip"
+      "sha256": "693891505B7DD831BFDB4D3B43BBF39C80EC81CC40FC0A7C1B91B8F99BA487C0",
+      "url": "https://github.com/TheMathGeek314/AlphabetRando/releases/download/v1.1.0.0/AlphabetRando.zip"
     },
     "dependencies": [
       "ItemChanger",
@@ -265,6 +265,7 @@
     "repository": "https://github.com/TheMathGeek314/AlphabetRando/",
     "integrations": [
       "CondensedSpoilerLogger",
+      "FStats",
       "RandoSettingsManager"
     ],
     "authors": [
@@ -10038,11 +10039,11 @@
   },
   "TheRealTransitionRando": {
     "description": "A Randomizer connection that puts transitions into the same pool as the other items",
-    "version": "1.0.0.0",
+    "version": "1.0.0.1",
     "links": {
       "type": "universal",
-      "sha256": "4CD3401382CBFFEA8E09993391D54CFC0035E515317634AEF18055948B76BFFB",
-      "url": "https://github.com/TheMathGeek314/TheRealTransitionRando/releases/download/v1.0.0.0/TheRealTransitionRando.zip"
+      "sha256": "531BC44A22330FBEF5EB405E622C924F035E4380F4C282000F40B2715609A896",
+      "url": "https://github.com/TheMathGeek314/TheRealTransitionRando/releases/download/v1.0.0.1/TheRealTransitionRando.zip"
     },
     "dependencies": [
       "ItemChanger",
@@ -10545,11 +10546,11 @@
   },
   "VoidAndSoul": {
     "description": "This mod adds an RPG mechanic through the 0-notch charm Void & Soul.",
-    "version": "1.0.1.0",
+    "version": "1.0.1.1",
     "links": {
       "type": "universal",
-      "sha256": "7E6F86F4A878F1BB20D14A378F4F90AE7B73DE26ACB70A8F3E5BB2A288B50C5A",
-      "url": "https://github.com/danielstegink/HollowKnight.VoidAndSoul/releases/download/1.0.1.0/VoidAndSoul.zip"
+      "sha256": "37D54A73B11A3F96EBA9BCE211006C9430F17B7250DFDAC4DD128AC811A5ADE7",
+      "url": "https://github.com/danielstegink/HollowKnight.VoidAndSoul/releases/download/1.0.1.1/VoidAndSoul.zip"
     },
     "dependencies": [
       "DanielSteginkUtils",

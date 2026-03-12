@@ -1,4 +1,0 @@
-CompassAlwaysOn
-EnchantedMask
-InfectedHallownest
-Randomizable Levers

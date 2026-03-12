@@ -13,6 +13,7 @@
   + RandomizerCore
 - Integrations
   + CondensedSpoilerLogger
+  + FStats
   + RandoSettingsManager
 
 ### CorpseDreamRando
@@ -196,10 +197,6 @@
 
 ## Updated mods
 
-### AccessRandomizer
-
-- Version: 1.4.0.1 -> 1.4.0.2
-
 ### Archipelago
 
 - Version: 0.11.0.0 -> 0.11.1.0
@@ -213,10 +210,6 @@
 - Integrations
   + Added
     - DynamicCrystalDash
-
-### Breakable Wall Randomizer
-
-- Version: 4.1.1.7 -> 4.1.1.8
 
 ### Collision Glitch Remover
 
@@ -250,7 +243,7 @@
 
 ### GodhomeQoL
 
-- Version: 1.0.0.7 -> 1.0.0.9
+- Version: 1.0.0.8 -> 1.0.0.9
 
 ### InfectedHallownest
 
@@ -284,13 +277,9 @@
 
 - Version: 1.2.6.3 -> 1.2.6.4
 
-### ReplayLogger
-
-- Version: 1.0.1.4 -> 1.1.0.0
-
 ### VoidAndSoul
 
-- Version: 1.0.0.0 -> 1.0.1.0
+- Version: 1.0.0.0 -> 1.0.1.1
 
 ### WanderersWisdom
 
