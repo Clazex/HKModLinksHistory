@@ -1,9 +1,3 @@
-CompassAlwaysOn
-DreamNailRadiance
-EnchantedMask
-InfectedHallownest
-Randomizable Levers
-SpamDescendingDark
 AlphabetRando
 FuryOfTheBallin
 AlphabetRando
@@ -51,3 +45,12 @@ RegretRecoveryRestoration
 AlphabetRando
 TheRealTransitionRando
 VoidAndSoul
+AlphabetRando
+CorpseDreamRando
+EverySceneUtil
+GeoRando
+MoreStags
+RegretRecoveryRestoration
+TheRealTransitionRando
+VendorRando
+YetAnotherRandoConnection

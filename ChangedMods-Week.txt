@@ -1,5 +1,3 @@
-Archipelago
-StubbornKnight
 CorpseDreamRando
 Pale Court Charms
 EnchantedMask
@@ -7,3 +5,12 @@ RegretRecoveryRestoration
 AlphabetRando
 TheRealTransitionRando
 VoidAndSoul
+AlphabetRando
+CorpseDreamRando
+EverySceneUtil
+GeoRando
+MoreStags
+RegretRecoveryRestoration
+TheRealTransitionRando
+VendorRando
+YetAnotherRandoConnection

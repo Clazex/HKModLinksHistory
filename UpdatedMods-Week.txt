@@ -1,7 +1,14 @@
-Archipelago
 CorpseDreamRando
 Pale Court Charms
 EnchantedMask
 AlphabetRando
 TheRealTransitionRando
 VoidAndSoul
+AlphabetRando
+CorpseDreamRando
+GeoRando
+MoreStags
+RegretRecoveryRestoration
+TheRealTransitionRando
+VendorRando
+YetAnotherRandoConnection

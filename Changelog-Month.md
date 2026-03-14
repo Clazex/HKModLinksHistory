@@ -29,13 +29,11 @@
   + Lore Randomizer
   + RandoSettingsManager
 
-### DreamNailRadiance
+### EverySceneUtil
 
-- Description: Enables you to use the Dream Nail against the Radiance (her legs, specifically)
-- Dependencies
-  + DanielSteginkUtils
+- Description: A developer tool for running code on every scene in the game
 - Tags
-  + Gameplay
+  + Utility
 
 ### FuryOfTheBallin
 
@@ -147,14 +145,6 @@
 - Tags
   + Gameplay
 
-### SpamDescendingDark
-
-- Description: Increases DDark invincibility so it can be used non-stop
-- Dependencies
-  + DanielSteginkUtils
-- Tags
-  + Gameplay
-
 ### StartingNotches
 
 - Description: Lets you play with an adjustable amount of extra Charm Notches, default starts at 2.
@@ -212,17 +202,13 @@
   + Old: Removes collision-based glitches such as the Gruz mother wall bounce and Collector &quot;sticky feet&quot; glitch. Works the same way as CollectorGlitchRemover except it fixes every scene. Can be enabled along with CollectorGlitchRemover or instead of CollectorGlitchRemover.
   + New: Removes collision-based glitches such as the Gruz mother wall bounce and Collector &quot;sticky feet&quot; glitch. Works the same way as CollectorGlitchRemover except it fixes every scene. Can be added along with CollectorGlitchRemover or instead of CollectorGlitchRemover.
 
-### CompassAlwaysOn
-
-- Version: 1.2.1.0 -> 1.2.1.1
-
 ### CustomPoolInjector
 
 - Version: 1.1.3.0 -> 1.1.4.0
 
 ### EnchantedMask
 
-- Version: 1.4.0.0 -> 1.5.1.0
+- Version: 1.4.1.0 -> 1.5.1.0
 - Integrations
   + Added
     - Pale Court
@@ -235,13 +221,17 @@
 
 - Version: 1.0.3.0 -> 1.0.4.0
 
+### GeoRando
+
+- Version: 1.0.1.2 -> 1.0.2.0
+
 ### GodhomeQoL
 
 - Version: 1.0.0.8 -> 1.0.0.9
 
 ### InfectedHallownest
 
-- Version: 1.0.0.0 -> 1.0.2.0
+- Version: 1.0.1.0 -> 1.0.2.0
 
 ### Invulnerability Indicator
 
@@ -267,11 +257,21 @@
 
 - Version: 1.0.18.0 -> 1.0.19.0
 
-### Randomizable Levers
+### VendorRando
 
-- Version: 1.2.6.3 -> 1.2.6.4
+- Version: 1.1.1.4 -> 1.1.2.0
+- Dependencies
+  + Removed
+    - ConnectionMetadataInjector
 
 ### VoidAndSoul
 
 - Version: 1.0.0.0 -> 1.0.1.1
+
+### YetAnotherRandoConnection
+
+- Version: 1.2.0.0 -> 1.2.1.0
+- Dependencies
+  + Removed
+    - ConnectionMetadataInjector
 

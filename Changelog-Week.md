@@ -3,6 +3,12 @@
 
 ## New mods
 
+### EverySceneUtil
+
+- Description: A developer tool for running code on every scene in the game
+- Tags
+  + Utility
+
 ### RegretRecoveryRestoration
 
 - Description: A Randomizer connection which restores the ability to recover your shade when egg shop removes it
@@ -14,35 +20,31 @@
 - Integrations
   + RandoSettingsManager
 
-### StubbornKnight
-
-- Description: StubbornKnight is a stubborn knight mod. The Knight&#x27;s mind is always fixated on one direction; you can only attack in the direction it desires.
-- Dependencies
-  + Satchel
-- Tags
-  + Gameplay
-
 
 ## Updated mods
 
 ### AlphabetRando
 
-- Version: 1.0.2.0 -> 1.1.0.0
+- Version: 1.0.2.0 -> 1.1.1.0
 - Integrations
   + Added
     - FStats
 
-### Archipelago
-
-- Version: 0.11.0.0 -> 0.11.1.0
-
 ### CorpseDreamRando
 
-- Version: 1.0.0.1 -> 1.0.0.2
+- Version: 1.0.0.1 -> 1.0.1.0
 
 ### EnchantedMask
 
 - Version: 1.5.0.0 -> 1.5.1.0
+
+### GeoRando
+
+- Version: 1.0.1.2 -> 1.0.2.0
+
+### MoreStags
+
+- Version: 1.0.1.2 -> 1.0.2.0
 
 ### Pale Court Charms
 
@@ -50,9 +52,23 @@
 
 ### TheRealTransitionRando
 
-- Version: 1.0.0.0 -> 1.0.0.1
+- Version: 1.0.0.0 -> 1.0.1.0
+
+### VendorRando
+
+- Version: 1.1.1.4 -> 1.1.2.0
+- Dependencies
+  + Removed
+    - ConnectionMetadataInjector
 
 ### VoidAndSoul
 
 - Version: 1.0.1.0 -> 1.0.1.1
+
+### YetAnotherRandoConnection
+
+- Version: 1.2.0.0 -> 1.2.1.0
+- Dependencies
+  + Removed
+    - ConnectionMetadataInjector
 

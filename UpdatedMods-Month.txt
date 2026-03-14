@@ -1,7 +1,3 @@
-CompassAlwaysOn
-EnchantedMask
-InfectedHallownest
-Randomizable Levers
 AlphabetRando
 AlphabetRando
 MoreDoors
@@ -35,3 +31,11 @@ EnchantedMask
 AlphabetRando
 TheRealTransitionRando
 VoidAndSoul
+AlphabetRando
+CorpseDreamRando
+GeoRando
+MoreStags
+RegretRecoveryRestoration
+TheRealTransitionRando
+VendorRando
+YetAnotherRandoConnection

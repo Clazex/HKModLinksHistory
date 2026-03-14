@@ -250,11 +250,11 @@
   },
   "AlphabetRando": {
     "description": "A Randomizer connection for the letters in the UI of the game itself",
-    "version": "1.1.0.0",
+    "version": "1.1.1.0",
     "links": {
       "type": "universal",
-      "sha256": "693891505B7DD831BFDB4D3B43BBF39C80EC81CC40FC0A7C1B91B8F99BA487C0",
-      "url": "https://github.com/TheMathGeek314/AlphabetRando/releases/download/v1.1.0.0/AlphabetRando.zip"
+      "sha256": "F6DDF13CCF0C58AB3FAB2016AAA6E68ABE80968B05BCE6B7253191C50A765A9D",
+      "url": "https://github.com/TheMathGeek314/AlphabetRando/releases/download/v1.1.1.0/AlphabetRando.zip"
     },
     "dependencies": [
       "ItemChanger",
@@ -1727,11 +1727,11 @@
   },
   "CorpseDreamRando": {
     "description": "A Randomizer connection that adds dream nail dialogue for background corpses",
-    "version": "1.0.0.2",
+    "version": "1.0.1.0",
     "links": {
       "type": "universal",
-      "sha256": "90E8D4897C33D26BFEDDD3FD6E4D825126BDB44C2E1296504B2F96E5B00DE0DC",
-      "url": "https://github.com/TheMathGeek314/CorpseDreamRando/releases/download/v1.0.0.2/CorpseDreamRando.zip"
+      "sha256": "625D9CD723CB51D87F9661530AA855463B14A19228B0AC5A813D18C49EC7E9A9",
+      "url": "https://github.com/TheMathGeek314/CorpseDreamRando/releases/download/v1.0.1.0/CorpseDreamRando.zip"
     },
     "dependencies": [
       "ItemChanger",
@@ -3113,6 +3113,23 @@
       "Clazex"
     ]
   },
+  "EverySceneUtil": {
+    "description": "A developer tool for running code on every scene in the game",
+    "version": "1.0.0.0",
+    "links": {
+      "type": "universal",
+      "sha256": "B20961645A06CB8A571BD221CA6CB0DF626E3F5E1162DED8F54B1FA91A50B4E8",
+      "url": "https://github.com/TheMathGeek314/EverySceneUtil/releases/download/v1.0.0.0/EverySceneUtil.zip"
+    },
+    "dependencies": [],
+    "repository": "https://github.com/TheMathGeek314/EverySceneUtil/",
+    "tags": [
+      "Utility"
+    ],
+    "authors": [
+      "TheMathGeek_314"
+    ]
+  },
   "Exaltation": {
     "description": "Implements the scrapped mechanic of \"charm glorification\": empower your charms by progressing through Godhome.",
     "version": "2.1.5.0",
@@ -3990,11 +4007,11 @@
   },
   "GeoRando": {
     "description": "A Randomizer connection for every individual piece of geo",
-    "version": "1.0.1.2",
+    "version": "1.0.2.0",
     "links": {
       "type": "universal",
-      "sha256": "AAFEE02968475C281B7EE94DED8E5D057FAB013CC5774B003E62DE433C79E5D1",
-      "url": "https://github.com/TheMathGeek314/GeoRando/releases/download/v1.0.1.2/GeoRando.zip"
+      "sha256": "6E05241709A513AEC7531647563CD9CAC2914628A2712303956582BFB01B4CA1",
+      "url": "https://github.com/TheMathGeek314/GeoRando/releases/download/v1.0.2.0/GeoRando.zip"
     },
     "dependencies": [
       "ItemChanger",
@@ -6576,11 +6593,11 @@
   },
   "MoreStags": {
     "description": "A Randomizer connection which adds new stag stations",
-    "version": "1.0.1.2",
+    "version": "1.0.2.0",
     "links": {
       "type": "universal",
-      "sha256": "87D693528D479C470F65F52F0D27B106258A47583723F34C2DE57CE87A94C2D1",
-      "url": "https://github.com/TheMathGeek314/MoreStags/releases/download/v1.0.1.2/MoreStags.zip"
+      "sha256": "F5D817B5ACFE68FDCA951A4D7B28D7F9CB3656C0900F3D95703D51A5AFF2DC36",
+      "url": "https://github.com/TheMathGeek314/MoreStags/releases/download/v1.0.2.0/MoreStags.zip"
     },
     "dependencies": [
       "AlreadyEnoughPlayMaker",
@@ -8538,11 +8555,11 @@
   },
   "RegretRecoveryRestoration": {
     "description": "A Randomizer connection which restores the ability to recover your shade when egg shop removes it",
-    "version": "1.0.0.0",
+    "version": "1.0.1.0",
     "links": {
       "type": "universal",
-      "sha256": "B10C9628FCCFE469BB887183C6EC64A27CBC65E2A01105E7F12FC34DF3F6E8F4",
-      "url": "https://github.com/TheMathGeek314/RegretRecoveryRestoration/releases/download/v1.0.0.0/RegretRecoveryRestoration.zip"
+      "sha256": "8F15B957E5FCF1038146F939C6ADFC617152843D18B0159A049383964A7A2696",
+      "url": "https://github.com/TheMathGeek314/RegretRecoveryRestoration/releases/download/v1.0.1.0/RegretRecoveryRestoration.zip"
     },
     "dependencies": [
       "ItemChanger",
@@ -10039,11 +10056,11 @@
   },
   "TheRealTransitionRando": {
     "description": "A Randomizer connection that puts transitions into the same pool as the other items",
-    "version": "1.0.0.1",
+    "version": "1.0.1.0",
     "links": {
       "type": "universal",
-      "sha256": "531BC44A22330FBEF5EB405E622C924F035E4380F4C282000F40B2715609A896",
-      "url": "https://github.com/TheMathGeek314/TheRealTransitionRando/releases/download/v1.0.0.1/TheRealTransitionRando.zip"
+      "sha256": "C4626DC52DCF64E0B3DE35E1533A44B913E83001307D6CE27139DD030D045285",
+      "url": "https://github.com/TheMathGeek314/TheRealTransitionRando/releases/download/v1.0.1.0/TheRealTransitionRando.zip"
     },
     "dependencies": [
       "ItemChanger",
@@ -10481,14 +10498,13 @@
   },
   "VendorRando": {
     "description": "A Randomizer add-on that randomizes the physical locations of vendors",
-    "version": "1.1.1.4",
+    "version": "1.1.2.0",
     "links": {
       "type": "universal",
-      "sha256": "5284E9227AB15586AC37F5BB75FC399919B235455E9E46ED2FD50995B8E20DB9",
-      "url": "https://github.com/TheMathGeek314/VendorRando/releases/download/v1.1.1.4/VendorRando.zip"
+      "sha256": "54BACEA1A7A9D4687C81B7FF5FC58E1E1F121CEA342F6124E77EDA3BF093115D",
+      "url": "https://github.com/TheMathGeek314/VendorRando/releases/download/v1.1.2.0/VendorRando.zip"
     },
     "dependencies": [
-      "ConnectionMetadataInjector",
       "ItemChanger",
       "MenuChanger",
       "Randomizer 4",
@@ -10738,14 +10754,13 @@
   },
   "YetAnotherRandoConnection": {
     "description": "A Randomizer add-on with an assortment of additions",
-    "version": "1.2.0.0",
+    "version": "1.2.1.0",
     "links": {
       "type": "universal",
-      "sha256": "686CD067879E768F0CBBC7388708373B3E08BC7A37952DB048B3C0AE4CB47DDD",
-      "url": "https://github.com/TheMathGeek314/YetAnotherRandoConnection/releases/download/v1.2.0.0/YetAnotherRandoConnection.zip"
+      "sha256": "5C199995AA6D0F5406D2FD79BF97CD21CCA541FA0E94795F9B025853F30F8708",
+      "url": "https://github.com/TheMathGeek314/YetAnotherRandoConnection/releases/download/v1.2.1.0/YetAnotherRandoConnection.zip"
     },
     "dependencies": [
-      "ConnectionMetadataInjector",
       "ItemChanger",
       "MenuChanger",
       "Randomizer 4",
