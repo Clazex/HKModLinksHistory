@@ -3,19 +3,6 @@
 
 ## New mods
 
-### AlphabetRando
-
-- Description: A Randomizer connection for the letters in the UI of the game itself
-- Dependencies
-  + ItemChanger
-  + MenuChanger
-  + Randomizer 4
-  + RandomizerCore
-- Integrations
-  + CondensedSpoilerLogger
-  + FStats
-  + RandoSettingsManager
-
 ### CorpseDreamRando
 
 - Description: A Randomizer connection that adds dream nail dialogue for background corpses
@@ -34,15 +21,6 @@
 - Description: A developer tool for running code on every scene in the game
 - Tags
   + Utility
-
-### FuryOfTheBallin
-
-- Description: Charm spawns Marmu ally when you are at 1 Mask; must beat Marmu to unlock
-- Dependencies
-  + DanielSteginkUtils
-  + Satchel
-- Tags
-  + Gameplay
 
 ### Inputs Recheck
 
@@ -161,6 +139,14 @@
 - Tags
   + Gameplay
 
+### SyncDreamShield
+
+- Description: Syncs your Dream Shield with other players in HKMP
+- Dependencies
+  + HKMP
+- Tags
+  + Gameplay
+
 ### TheRealTransitionRando
 
 - Description: A Randomizer connection that puts transitions into the same pool as the other items
@@ -180,6 +166,13 @@
 
 
 ## Updated mods
+
+### AlphabetRando
+
+- Version: 1.0.0.0 -> 1.1.1.0
+- Integrations
+  + Added
+    - FStats
 
 ### Archipelago
 
@@ -225,6 +218,10 @@
 
 - Version: 1.0.1.2 -> 1.0.2.0
 
+### GodhomeGeo
+
+- Version: 1.0.0.0 -> 1.1.0.0
+
 ### GodhomeQoL
 
 - Version: 1.0.0.8 -> 1.0.0.9
@@ -252,6 +249,10 @@
 ### PurenailCore
 
 - Version: 2.0.0.1 -> 2.0.0.2
+
+### QoL
+
+- Version: 4.8.0.0 -> 4.9.0.0
 
 ### RandoMapCore
 

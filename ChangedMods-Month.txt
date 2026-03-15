@@ -1,6 +1,4 @@
 AlphabetRando
-FuryOfTheBallin
-AlphabetRando
 AlphabetRando
 MossBeast
 MoreDoors
@@ -54,3 +52,6 @@ RegretRecoveryRestoration
 TheRealTransitionRando
 VendorRando
 YetAnotherRandoConnection
+GodhomeGeo
+QoL
+SyncDreamShield

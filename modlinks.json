@@ -4172,11 +4172,11 @@
   },
   "GodhomeGeo": {
     "description": "Removes the limitation that prevents geo from spawning in Godhome.",
-    "version": "1.0.0.0",
+    "version": "1.1.0.0",
     "links": {
       "type": "universal",
-      "sha256": "F57F30536A683060D9A802E99E2066C697BB2C530AC96A0A3272B451363F6B74",
-      "url": "https://github.com/cometcake575/GodhomeGeo/releases/download/1.0.0.0/GodhomeGeo.zip"
+      "sha256": "28CDB130BAB606EC4EB7BE4DBFDC5BBEC7EEB7D6ED85D17E4891E63C25D3A7FA",
+      "url": "https://github.com/cometcake575/GodhomeGeo/releases/download/1.1.0.0/GodhomeGeo.zip"
     },
     "dependencies": [],
     "repository": "https://github.com/cometcake575/GodhomeGeo",
@@ -7908,11 +7908,11 @@
   },
   "QoL": {
     "description": "A collection of various quality of life improvements.",
-    "version": "4.8.0.0",
+    "version": "4.9.0.0",
     "links": {
       "type": "universal",
-      "sha256": "4250DA9F11135878E3292D0C7E7B2528900D9EF2AD02C96CDFB151B9F5C2967D",
-      "url": "https://github.com/fifty-six/HollowKnight.QoL/releases/download/v4.8/QoL.zip"
+      "sha256": "AE6DDF273249ED7EF75E26A5257CC2D7DE3F790230B1EAA8A57677161A65F0AC",
+      "url": "https://github.com/fifty-six/HollowKnight.QoL/releases/download/v4.9/QoL.zip"
     },
     "dependencies": [
       "Vasi"
@@ -9855,6 +9855,26 @@
     "authors": [
       "SFGrenade",
       "Wouter Huysentruit"
+    ]
+  },
+  "SyncDreamShield": {
+    "description": "Syncs your Dream Shield with other players in HKMP",
+    "version": "1.0.1.0",
+    "links": {
+      "type": "universal",
+      "sha256": "B58857802574414137AF9D29FCDE3692F7DC6D30EF55063BAFF00DE853B22D15",
+      "url": "https://github.com/BobbyTheCatfish/HKMP.SyncDreamShield/releases/download/0.1.0/SyncDreamShield.zip"
+    },
+    "dependencies": [
+      "HKMP"
+    ],
+    "repository": "https://github.com/BobbyTheCatfish/HKMP.SyncDreamShield",
+    "issues": "https://github.com/BobbyTheCatfish/HKMP.SyncDreamShield/issues",
+    "tags": [
+      "Gameplay"
+    ],
+    "authors": [
+      "BobbyTheCatfish"
     ]
   },
   "Taxes": {

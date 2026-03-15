@@ -1,5 +1,3 @@
-CorpseDreamRando
-Pale Court Charms
 EnchantedMask
 RegretRecoveryRestoration
 AlphabetRando
@@ -14,3 +12,6 @@ RegretRecoveryRestoration
 TheRealTransitionRando
 VendorRando
 YetAnotherRandoConnection
+GodhomeGeo
+QoL
+SyncDreamShield

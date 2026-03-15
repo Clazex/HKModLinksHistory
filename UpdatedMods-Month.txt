@@ -39,3 +39,5 @@ RegretRecoveryRestoration
 TheRealTransitionRando
 VendorRando
 YetAnotherRandoConnection
+GodhomeGeo
+QoL

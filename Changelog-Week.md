@@ -20,6 +20,14 @@
 - Integrations
   + RandoSettingsManager
 
+### SyncDreamShield
+
+- Description: Syncs your Dream Shield with other players in HKMP
+- Dependencies
+  + HKMP
+- Tags
+  + Gameplay
+
 
 ## Updated mods
 
@@ -32,7 +40,7 @@
 
 ### CorpseDreamRando
 
-- Version: 1.0.0.1 -> 1.0.1.0
+- Version: 1.0.0.2 -> 1.0.1.0
 
 ### EnchantedMask
 
@@ -42,13 +50,17 @@
 
 - Version: 1.0.1.2 -> 1.0.2.0
 
+### GodhomeGeo
+
+- Version: 1.0.0.0 -> 1.1.0.0
+
 ### MoreStags
 
 - Version: 1.0.1.2 -> 1.0.2.0
 
-### Pale Court Charms
+### QoL
 
-- Version: 1.3.6.0 -> 1.3.7.0
+- Version: 4.8.0.0 -> 4.9.0.0
 
 ### TheRealTransitionRando
 

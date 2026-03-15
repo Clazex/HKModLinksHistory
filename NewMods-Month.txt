@@ -1,5 +1,3 @@
-AlphabetRando
-FuryOfTheBallin
 MossBeast
 Inputs Recheck
 MoreStags
@@ -13,3 +11,4 @@ TheRealTransitionRando
 StubbornKnight
 RegretRecoveryRestoration
 EverySceneUtil
+SyncDreamShield
