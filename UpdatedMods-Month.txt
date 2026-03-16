@@ -1,5 +1,4 @@
 AlphabetRando
-AlphabetRando
 MoreDoors
 CustomPoolInjector
 GodhomeQoL
@@ -41,3 +40,9 @@ VendorRando
 YetAnotherRandoConnection
 GodhomeGeo
 QoL
+BingoBoardReplay
+BingoGoalPack1
+BingoGoalPack2
+BingoSync
+CharmPatch
+TheRealJournalRando

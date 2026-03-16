@@ -3,22 +3,33 @@
 
 ## New mods
 
+### BingoAdvancedCustomGeneration
+
+- Description: A mod allowing for more complex board generation using BingoSync
+- Dependencies
+  + BingoSync
+
+### DeVect
+
+- Description: DeVect, titled 骨杖寂骑人 in Chinese, is a Hollow Knight mod that brings Defect-style orb gameplay from Slay the Spire into the Knight&#x27;s moveset.
+- Dependencies
+  + Satchel
+- Tags
+  + Gameplay
+
 ### EverySceneUtil
 
 - Description: A developer tool for running code on every scene in the game
 - Tags
   + Utility
 
-### RegretRecoveryRestoration
+### MendBreakables
 
-- Description: A Randomizer connection which restores the ability to recover your shade when egg shop removes it
+- Description: Repairs certain breakable objects
 - Dependencies
-  + ItemChanger
-  + MenuChanger
-  + Randomizer 4
-  + RandomizerCore
-- Integrations
-  + RandoSettingsManager
+  + Satchel
+- Tags
+  + Gameplay
 
 ### SyncDreamShield
 
@@ -38,13 +49,29 @@
   + Added
     - FStats
 
+### BingoBoardReplay
+
+- Version: 1.0.0.0 -> 1.3.1.0
+
+### BingoGoalPack1
+
+- Version: 1.5.1.2 -> 1.6.0.0
+
+### BingoGoalPack2
+
+- Version: 1.0.1.0 -> 1.1.0.0
+
+### BingoSync
+
+- Version: 1.3.6.0 -> 1.4.4.5
+
+### CharmPatch
+
+- Version: 1.7.0.1 -> 1.8.0.0
+
 ### CorpseDreamRando
 
 - Version: 1.0.0.2 -> 1.0.1.0
-
-### EnchantedMask
-
-- Version: 1.5.0.0 -> 1.5.1.0
 
 ### GeoRando
 
@@ -61,6 +88,14 @@
 ### QoL
 
 - Version: 4.8.0.0 -> 4.9.0.0
+
+### RegretRecoveryRestoration
+
+- Version: 1.0.0.0 -> 1.0.1.0
+
+### TheRealJournalRando
+
+- Version: 2.4.9164.32616 -> 2.5.9570.6197
 
 ### TheRealTransitionRando
 

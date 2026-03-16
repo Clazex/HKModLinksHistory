@@ -1,4 +1,2 @@
-AlphabetRando
-MoreStags
-NetworkingPlando
-RandoMapCore
+Shared Health
+StartingNotches

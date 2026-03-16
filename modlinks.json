@@ -783,6 +783,22 @@
       "Godfriend"
     ]
   },
+  "BingoAdvancedCustomGeneration": {
+    "description": "A mod allowing for more complex board generation using BingoSync",
+    "version": "1.1.0.0",
+    "links": {
+      "type": "universal",
+      "sha256": "F429C0E72CE33B265432661870573088536C1CC55C76751916522ADC803C0507",
+      "url": "https://github.com/TheRealAlph4/HollowKnight.BingoAdvancedCustomGeneration/releases/download/v1.1.0.0/BingoAdvancedCustomGeneration.zip"
+    },
+    "dependencies": [
+      "BingoSync"
+    ],
+    "repository": "https://github.com/TheRealAlph4/HollowKnight.BingoAdvancedCustomGeneration",
+    "authors": [
+      "Alph4"
+    ]
+  },
   "BingoBoard": {
     "description": "In-game bingo board display.",
     "version": "1.0.0.1",
@@ -799,11 +815,11 @@
   },
   "BingoBoardReplay": {
     "description": "A mod for bingo tournament organizers to help restream the board when the players have stream delay. See GitHub readme for usage.",
-    "version": "1.0.0.0",
+    "version": "1.3.1.0",
     "links": {
       "type": "universal",
-      "sha256": "01DE45E7F79F5D5E5BF0676825A878307B8B68921EC2D372CAABDFC3059CAA07",
-      "url": "https://github.com/TheRealAlph4/HollowKnight.BingoBoardReplay/releases/download/v1.0.0.0/BingoBoardReplay.zip"
+      "sha256": "AB07D2CE74E7F2112082B96199116A35B679D6EE3FEF703A17A92D02AF503AD3",
+      "url": "https://github.com/TheRealAlph4/HollowKnight.BingoBoardReplay/releases/download/v1.3.1.0/BingoBoardReplay.zip"
     },
     "dependencies": [
       "BingoSync"
@@ -815,11 +831,11 @@
   },
   "BingoGoalPack1": {
     "description": "Adds more goals to BingoSync and includes new board types",
-    "version": "1.5.1.2",
+    "version": "1.6.0.0",
     "links": {
       "type": "universal",
-      "sha256": "71D7A430D6BA455ADE48F02CBE6AC643B0B2AFA3DCF2EDAB9A8FFEA0D16DFD09",
-      "url": "https://github.com/TheMathGeek314/BingoGoalPack1/releases/download/v1.5.1.2/BingoGoalPack1.zip"
+      "sha256": "AD7131E1F7FBB8DFF4583ECD09AF880EF3B673B0E16EDA778015D66227A58AC3",
+      "url": "https://github.com/TheMathGeek314/BingoGoalPack1/releases/download/v1.6.0.0/BingoGoalPack1.zip"
     },
     "dependencies": [
       "BingoSync",
@@ -834,11 +850,11 @@
   },
   "BingoGoalPack2": {
     "description": "Adds more granular specifications for custom BingoSync challenges",
-    "version": "1.0.1.0",
+    "version": "1.1.0.0",
     "links": {
       "type": "universal",
-      "sha256": "C94F5A6A3E560D6288A7B79A42DDC6883C3D55C2B3A16E79ABE9878803530CAF",
-      "url": "https://github.com/TheMathGeek314/BingoGoalPack2/releases/download/v1.0.1.0/BingoGoalPack2.zip"
+      "sha256": "1761076D667D9A4128ABF9DDB5EAC8BA90D4F3B763D4748C828E2AA0A5D573B8",
+      "url": "https://github.com/TheMathGeek314/BingoGoalPack2/releases/download/v1.1.0.0/BingoGoalPack2.zip"
     },
     "dependencies": [
       "BingoSync"
@@ -850,11 +866,11 @@
   },
   "BingoSync": {
     "description": "A Hollow Knight mod that automatically marks squares on bingosync.com",
-    "version": "1.3.6.0",
+    "version": "1.4.4.5",
     "links": {
       "type": "universal",
-      "sha256": "EDF68494D97AD84043A2C98D3DFDFEC7EF70EC63F05AF751D4C93131B7A48D75",
-      "url": "https://github.com/pedroteosousa/HollowKnight.BingoSync/releases/download/1.3.6.0/BingoSync.zip"
+      "sha256": "C867E8058A4467695FA9DBA6766DF201E89D4C7CE161B1C275130E75510646DE",
+      "url": "https://github.com/pedroteosousa/HollowKnight.BingoSync/releases/download/1.4.4.5/BingoSync.zip"
     },
     "dependencies": [
       "ItemChanger",
@@ -1386,11 +1402,11 @@
   },
   "CharmPatch": {
     "description": "This is a collection of small changes that I think improve the balance of certain charms in the game. Please view Readme for Charm Changer mod recommendations.",
-    "version": "1.7.0.1",
+    "version": "1.8.0.0",
     "links": {
       "type": "universal",
-      "sha256": "8A0CD1A03FABF3619A9046F848FC761BBAA86C7B0AC4E406C9302A84D287A6A5",
-      "url": "https://github.com/danielstegink/HollowKnight.CharmPatch/releases/download/1.7.0.1/CharmPatch.zip"
+      "sha256": "FC72056D0505A30E4A2EA51C10E07681BABA8E99CDDF868146CBA3EA3A572DB0",
+      "url": "https://github.com/danielstegink/HollowKnight.CharmPatch/releases/download/1.8.0.0/CharmPatch.zip"
     },
     "dependencies": [
       "DanielSteginkUtils",
@@ -2393,6 +2409,26 @@
     ],
     "authors": [
       "Dbdbd"
+    ]
+  },
+  "DeVect": {
+    "description": "DeVect, titled 骨杖寂骑人 in Chinese, is a Hollow Knight mod that brings Defect-style orb gameplay from Slay the Spire into the Knight's moveset.",
+    "version": "1.0.0.0",
+    "links": {
+      "type": "universal",
+      "sha256": "062CD3D4AC19972DDCD68E12E206949A4EDB91B8AD33BD7DDAB041789832C73D",
+      "url": "https://github.com/windplusflower/DeVect/releases/download/v1.0/DeVect.zip"
+    },
+    "dependencies": [
+      "Satchel"
+    ],
+    "repository": "https://github.com/windplusflower/DeVect",
+    "issues": "https://github.com/windplusflower/DeVect/issues",
+    "tags": [
+      "Gameplay"
+    ],
+    "authors": [
+      "Windflower"
     ]
   },
   "Dead Cells Barrel Launcher": {
@@ -6150,6 +6186,26 @@
     "authors": [
       "Dandy",
       "Ruttie"
+    ]
+  },
+  "MendBreakables": {
+    "description": "Repairs certain breakable objects",
+    "version": "1.0.0.0",
+    "links": {
+      "type": "universal",
+      "sha256": "87D1ABED4C3D9F033DD71534182DBFF2BB828780F370A790E76DFE6F0C03FC90",
+      "url": "https://github.com/danielstegink/HollowKnight.MendBreakables/releases/download/1.0.0.0/MendBreakables.zip"
+    },
+    "dependencies": [
+      "Satchel"
+    ],
+    "repository": "https://github.com/danielstegink/HollowKnight.MendBreakables",
+    "issues": "https://github.com/danielstegink/HollowKnight.MendBreakables/issues",
+    "tags": [
+      "Gameplay"
+    ],
+    "authors": [
+      "DanielStegink"
     ]
   },
   "Menderbug Options": {
@@ -10054,11 +10110,11 @@
   },
   "TheRealJournalRando": {
     "description": "Randomizer 4 addon that adds the option to randomize all other Hunter's Journal entries. Activate in the Connections menu of Randomizer 4.",
-    "version": "2.4.9164.32616",
+    "version": "2.5.9570.6197",
     "links": {
       "type": "universal",
-      "sha256": "54C92DAF9520E51CB63050CD44CD5F8D7870A46D8E414BD902F09BC8CB992AD9",
-      "url": "https://github.com/BadMagic100/TheRealJournalRando/releases/download/v2.4.9164.32616/TheRealJournalRando.zip"
+      "sha256": "6F894256C3E85E5AD6026C01418E9AF83A78BA1B32237B62AE00292313F3FE8C",
+      "url": "https://github.com/BadMagic100/TheRealJournalRando/releases/download/v2.5.9570.6197/TheRealJournalRando.zip"
     },
     "dependencies": [
       "ItemChanger"
