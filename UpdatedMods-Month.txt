@@ -46,3 +46,5 @@ BingoGoalPack2
 BingoSync
 CharmPatch
 TheRealJournalRando
+Core.FsmUtil
+SFCore

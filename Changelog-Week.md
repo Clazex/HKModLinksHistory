@@ -31,6 +31,12 @@
 - Tags
   + Gameplay
 
+### ReplayTimerMod
+
+- Description: Records your best time through each room and plays it back as a ghost on your next attempt.
+- Tags
+  + Utility
+
 ### SyncDreamShield
 
 - Description: Syncs your Dream Shield with other players in HKMP
@@ -69,6 +75,10 @@
 
 - Version: 1.7.0.1 -> 1.8.0.0
 
+### Core.FsmUtil
+
+- Version: 1.1.2.0 -> 1.3.0.0
+
 ### CorpseDreamRando
 
 - Version: 1.0.0.2 -> 1.0.1.0
@@ -92,6 +102,10 @@
 ### RegretRecoveryRestoration
 
 - Version: 1.0.0.0 -> 1.0.1.0
+
+### SFCore
+
+- Version: 1.5.14.16 -> 1.5.16.0
 
 ### TheRealJournalRando
 

@@ -22,3 +22,6 @@ CharmPatch
 DeVect
 MendBreakables
 TheRealJournalRando
+Core.FsmUtil
+ReplayTimerMod
+SFCore

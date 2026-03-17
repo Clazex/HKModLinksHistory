@@ -123,6 +123,12 @@
 - Integrations
   + RandoSettingsManager
 
+### ReplayTimerMod
+
+- Description: Records your best time through each room and plays it back as a ghost on your next attempt.
+- Tags
+  + Utility
+
 ### RgbRando
 
 - Description: A Randomizer connection that allows randomization of RGB values for the shader.
@@ -237,6 +243,10 @@
   + Old: Removes collision-based glitches such as the Gruz mother wall bounce and Collector &quot;sticky feet&quot; glitch. Works the same way as CollectorGlitchRemover except it fixes every scene. Can be enabled along with CollectorGlitchRemover or instead of CollectorGlitchRemover.
   + New: Removes collision-based glitches such as the Gruz mother wall bounce and Collector &quot;sticky feet&quot; glitch. Works the same way as CollectorGlitchRemover except it fixes every scene. Can be added along with CollectorGlitchRemover or instead of CollectorGlitchRemover.
 
+### Core.FsmUtil
+
+- Version: 1.1.2.0 -> 1.3.0.0
+
 ### CustomPoolInjector
 
 - Version: 1.1.3.0 -> 1.1.4.0
@@ -299,6 +309,10 @@
 ### RandoMapCore
 
 - Version: 1.0.18.0 -> 1.0.19.0
+
+### SFCore
+
+- Version: 1.5.14.16 -> 1.5.16.0
 
 ### TheRealJournalRando
 

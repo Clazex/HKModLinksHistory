@@ -1723,11 +1723,11 @@
   },
   "Core.FsmUtil": {
     "description": "A library mod for fsm editing.",
-    "version": "1.1.2.0",
+    "version": "1.3.0.0",
     "links": {
       "type": "universal",
-      "sha256": "AC4B2CCF21E3CBDD998F8F069460F18CDF2DAF8D0F64177D50D9328A6FD04691",
-      "url": "https://github.com/hk-modding/HK.Core.FsmUtil/releases/download/v1.1.2/Core_FsmUtil.zip"
+      "sha256": "272EC79378D91431623FFFB3D0FA93E3CFC2C35A5C4454CE826856484950861E",
+      "url": "https://github.com/hk-modding/HK.Core.FsmUtil/releases/download/v1.3.0.0/Core_FsmUtil.zip"
     },
     "dependencies": [],
     "repository": "https://github.com/hk-modding/HK.Core.FsmUtil",
@@ -8700,6 +8700,25 @@
       "mint"
     ]
   },
+  "ReplayTimerMod": {
+    "description": "Records your best time through each room and plays it back as a ghost on your next attempt.",
+    "version": "0.2.0.0",
+    "links": {
+      "type": "universal",
+      "sha256": "D4600E98C499AD47104537B1D7BB89FBBB1376CD667F3D5307C1DE844728F55C",
+      "url": "https://github.com/AdiPrk/ReplayTimerMod/releases/download/v0.2.0/ReplayTimerModHK.zip"
+    },
+    "dependencies": [],
+    "repository": "https://github.com/AdiPrk/ReplayTimerMod",
+    "issues": "https://github.com/AdiPrk/ReplayTimerMod/issues",
+    "tags": [
+      "Utility"
+    ],
+    "authors": [
+      "AdiPrk",
+      "Shichien"
+    ]
+  },
   "ResetCharmNotches": {
     "description": "Reset charm notches and charm notch cost.",
     "version": "1.5.0.0",
@@ -8832,11 +8851,11 @@
   },
   "SFCore": {
     "description": "Library mod used by other mods.",
-    "version": "1.5.14.16",
+    "version": "1.5.16.0",
     "links": {
       "type": "universal",
-      "sha256": "E8882F764AF1E90A1574D0D87A8687995D786FC36965B7D0F053AE7F52755FA0",
-      "url": "https://github.com/SFGrenade/SFCore/releases/download/v1.5.14.16/SFCore.zip"
+      "sha256": "FFA6CD611963BFBD68338F6723747B964A0EB89DDC4C53E86E8693D9644B7077",
+      "url": "https://github.com/SFGrenade/SFCore/releases/download/v1.5.16.0/SFCore.zip"
     },
     "dependencies": [],
     "repository": "https://github.com/SFGrenade/SFCore/",
