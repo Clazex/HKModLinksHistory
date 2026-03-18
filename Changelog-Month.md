@@ -68,14 +68,6 @@
   + DebugMod
   + RandoSettingsManager
 
-### MossBeast
-
-- Description: MossBeast is a complete port of The Beast boss fight from The Binding of Isaac to Hollow Knight.
-- Dependencies
-  + Satchel
-- Tags
-  + Boss
-
 ### MurderRando
 
 - Description: Another rando connection for those who despise the innocent.
@@ -197,7 +189,7 @@
 
 ### AlphabetRando
 
-- Version: 1.0.1.0 -> 1.1.1.0
+- Version: 1.0.1.1 -> 1.1.1.0
 - Integrations
   + Added
     - FStats
@@ -312,7 +304,7 @@
 
 ### SFCore
 
-- Version: 1.5.14.16 -> 1.5.16.0
+- Version: 1.5.14.16 -> 1.5.16.1
 
 ### TheRealJournalRando
 

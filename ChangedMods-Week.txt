@@ -1,7 +1,4 @@
 AlphabetRando
-TheRealTransitionRando
-VoidAndSoul
-AlphabetRando
 CorpseDreamRando
 EverySceneUtil
 GeoRando
@@ -24,4 +21,5 @@ MendBreakables
 TheRealJournalRando
 Core.FsmUtil
 ReplayTimerMod
+SFCore
 SFCore

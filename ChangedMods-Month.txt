@@ -1,5 +1,3 @@
-AlphabetRando
-MossBeast
 MoreDoors
 CustomPoolInjector
 GodhomeQoL
@@ -65,4 +63,5 @@ MendBreakables
 TheRealJournalRando
 Core.FsmUtil
 ReplayTimerMod
+SFCore
 SFCore

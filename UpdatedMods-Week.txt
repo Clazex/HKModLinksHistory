@@ -1,7 +1,4 @@
 AlphabetRando
-TheRealTransitionRando
-VoidAndSoul
-AlphabetRando
 CorpseDreamRando
 GeoRando
 MoreStags
@@ -18,4 +15,5 @@ BingoSync
 CharmPatch
 TheRealJournalRando
 Core.FsmUtil
+SFCore
 SFCore

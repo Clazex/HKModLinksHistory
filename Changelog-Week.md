@@ -50,10 +50,7 @@
 
 ### AlphabetRando
 
-- Version: 1.0.2.0 -> 1.1.1.0
-- Integrations
-  + Added
-    - FStats
+- Version: 1.1.0.0 -> 1.1.1.0
 
 ### BingoBoardReplay
 
@@ -105,7 +102,7 @@
 
 ### SFCore
 
-- Version: 1.5.14.16 -> 1.5.16.0
+- Version: 1.5.14.16 -> 1.5.16.1
 
 ### TheRealJournalRando
 
@@ -113,7 +110,7 @@
 
 ### TheRealTransitionRando
 
-- Version: 1.0.0.0 -> 1.0.1.0
+- Version: 1.0.0.1 -> 1.0.1.0
 
 ### VendorRando
 
@@ -121,10 +118,6 @@
 - Dependencies
   + Removed
     - ConnectionMetadataInjector
-
-### VoidAndSoul
-
-- Version: 1.0.1.0 -> 1.0.1.1
 
 ### YetAnotherRandoConnection
 
