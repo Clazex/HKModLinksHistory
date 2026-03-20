@@ -1,4 +1,3 @@
-MoreDoors
 CustomPoolInjector
 GodhomeQoL
 Pale Court Charms
@@ -65,3 +64,6 @@ Core.FsmUtil
 ReplayTimerMod
 SFCore
 SFCore
+AuraRad
+EverySceneUtil
+TheRealTransitionRando

@@ -746,8 +746,8 @@ Not recommended for use in new mods.</Description>
     <Manifest>
         <Name>TheRealTransitionRando</Name>
         <Description>A Randomizer connection that puts transitions into the same pool as the other items</Description>
-        <Version>1.0.0.0</Version>
-        <Link SHA256="4CD3401382CBFFEA8E09993391D54CFC0035E515317634AEF18055948B76BFFB"><![CDATA[https://github.com/TheMathGeek314/TheRealTransitionRando/releases/download/v1.0.0.0/TheRealTransitionRando.zip]]></Link>
+        <Version>1.0.0.1</Version>
+        <Link SHA256="531BC44A22330FBEF5EB405E622C924F035E4380F4C282000F40B2715609A896"><![CDATA[https://github.com/TheMathGeek314/TheRealTransitionRando/releases/download/v1.0.0.1/TheRealTransitionRando.zip]]></Link>
         <Dependencies>
             <Dependency>ItemChanger</Dependency>
             <Dependency>MenuChanger</Dependency>
@@ -859,8 +859,8 @@ Not recommended for use in new mods.</Description>
     <Manifest>
         <Name>AlphabetRando</Name>
         <Description>A Randomizer connection for the letters in the UI of the game itself</Description>
-        <Version>1.0.2.0</Version>
-        <Link SHA256="A0CEF40146E42476C7A2937D0909BE4AEABA332770487983AE8DA40246BEC479"><![CDATA[https://github.com/TheMathGeek314/AlphabetRando/releases/download/v1.0.2.0/AlphabetRando.zip]]></Link>
+        <Version>1.1.0.0</Version>
+        <Link SHA256="693891505B7DD831BFDB4D3B43BBF39C80EC81CC40FC0A7C1B91B8F99BA487C0"><![CDATA[https://github.com/TheMathGeek314/AlphabetRando/releases/download/v1.1.0.0/AlphabetRando.zip]]></Link>
         <Dependencies>
             <Dependency>ItemChanger</Dependency>
             <Dependency>MenuChanger</Dependency>
@@ -872,6 +872,7 @@ Not recommended for use in new mods.</Description>
         </Repository>
         <Integrations>
             <Integration>CondensedSpoilerLogger</Integration>
+            <Integration>FStats</Integration>
             <Integration>RandoSettingsManager</Integration>
         </Integrations>
         <Authors>
@@ -11313,9 +11314,9 @@ Enjoy!</Description>
     <Manifest>
         <Name>VoidAndSoul</Name>
         <Description>This mod adds an RPG mechanic through the 0-notch charm Void &amp; Soul.</Description>
-        <Version>1.0.1.0</Version>
-        <Link SHA256="7e6f86f4a878f1bb20d14a378f4f90ae7b73de26acb70a8f3e5bb2a288b50c5a">
-            <![CDATA[https://github.com/danielstegink/HollowKnight.VoidAndSoul/releases/download/1.0.1.0/VoidAndSoul.zip]]>
+        <Version>1.0.1.1</Version>
+        <Link SHA256="37d54a73b11a3f96eba9bce211006c9430f17b7250dfdac4dd128ac811a5ade7">
+            <![CDATA[https://github.com/danielstegink/HollowKnight.VoidAndSoul/releases/download/1.0.1.1/VoidAndSoul.zip]]>
         </Link>
         <Dependencies>
             <Dependency>Satchel</Dependency>

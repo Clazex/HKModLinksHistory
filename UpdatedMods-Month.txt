@@ -1,4 +1,3 @@
-MoreDoors
 CustomPoolInjector
 GodhomeQoL
 Pale Court Charms
@@ -48,3 +47,5 @@ TheRealJournalRando
 Core.FsmUtil
 SFCore
 SFCore
+EverySceneUtil
+TheRealTransitionRando

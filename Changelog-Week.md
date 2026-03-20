@@ -3,6 +3,16 @@
 
 ## New mods
 
+### AuraRad
+
+- Description: Absolute Radiance Mod Boss
+- Dependencies
+  + ModCommon
+  + SFCore
+  + Satchel
+- Tags
+  + Boss
+
 ### BingoAdvancedCustomGeneration
 
 - Description: A mod allowing for more complex board generation using BingoSync
@@ -16,12 +26,6 @@
   + Satchel
 - Tags
   + Gameplay
-
-### EverySceneUtil
-
-- Description: A developer tool for running code on every scene in the game
-- Tags
-  + Utility
 
 ### MendBreakables
 
@@ -48,10 +52,6 @@
 
 ## Updated mods
 
-### AlphabetRando
-
-- Version: 1.1.0.0 -> 1.1.1.0
-
 ### BingoBoardReplay
 
 - Version: 1.0.0.0 -> 1.3.1.0
@@ -76,29 +76,17 @@
 
 - Version: 1.1.2.0 -> 1.3.0.0
 
-### CorpseDreamRando
+### EverySceneUtil
 
-- Version: 1.0.0.2 -> 1.0.1.0
-
-### GeoRando
-
-- Version: 1.0.1.2 -> 1.0.2.0
+- Version: 1.0.0.0 -> 1.1.0.0
 
 ### GodhomeGeo
 
 - Version: 1.0.0.0 -> 1.1.0.0
 
-### MoreStags
-
-- Version: 1.0.1.2 -> 1.0.2.0
-
 ### QoL
 
 - Version: 4.8.0.0 -> 4.9.0.0
-
-### RegretRecoveryRestoration
-
-- Version: 1.0.0.0 -> 1.0.1.0
 
 ### SFCore
 
@@ -110,19 +98,5 @@
 
 ### TheRealTransitionRando
 
-- Version: 1.0.0.1 -> 1.0.1.0
-
-### VendorRando
-
-- Version: 1.1.1.4 -> 1.1.2.0
-- Dependencies
-  + Removed
-    - ConnectionMetadataInjector
-
-### YetAnotherRandoConnection
-
-- Version: 1.2.0.0 -> 1.2.1.0
-- Dependencies
-  + Removed
-    - ConnectionMetadataInjector
+- Version: 1.0.1.0 -> 1.0.1.1
 

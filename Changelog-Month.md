@@ -3,6 +3,16 @@
 
 ## New mods
 
+### AuraRad
+
+- Description: Absolute Radiance Mod Boss
+- Dependencies
+  + ModCommon
+  + SFCore
+  + Satchel
+- Tags
+  + Boss
+
 ### BingoAdvancedCustomGeneration
 
 - Description: A mod allowing for more complex board generation using BingoSync
@@ -281,10 +291,6 @@
 ### Mask Remover
 
 - Version: 1.0.3.0 -> 1.0.4.0
-
-### MoreDoors
-
-- Version: 3.3.0.0 -> 3.3.0.1
 
 ### Pale Court Charms
 
