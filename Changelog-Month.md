@@ -249,9 +249,9 @@
 
 - Version: 1.1.2.0 -> 1.3.0.0
 
-### CustomPoolInjector
+### DanielSteginkUtils
 
-- Version: 1.1.3.0 -> 1.1.4.0
+- Version: 1.5.0.0 -> 1.5.1.0
 
 ### EnchantedMask
 
@@ -276,10 +276,6 @@
 
 - Version: 1.0.0.0 -> 1.1.0.0
 
-### GodhomeQoL
-
-- Version: 1.0.0.8 -> 1.0.0.9
-
 ### InfectedHallownest
 
 - Version: 1.0.1.0 -> 1.0.2.0
@@ -294,7 +290,7 @@
 
 ### Pale Court Charms
 
-- Version: 1.3.5.0 -> 1.3.7.0
+- Version: 1.3.6.0 -> 1.3.7.0
 
 ### PurenailCore
 
@@ -325,7 +321,7 @@
 
 ### VoidAndSoul
 
-- Version: 1.0.0.0 -> 1.0.1.1
+- Version: 1.0.1.0 -> 1.0.1.1
 
 ### YetAnotherRandoConnection
 

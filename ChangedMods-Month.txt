@@ -1,7 +1,3 @@
-CustomPoolInjector
-GodhomeQoL
-Pale Court Charms
-VoidAndSoul
 Inputs Recheck
 MoreStags
 NetworkingPlando
@@ -67,3 +63,4 @@ SFCore
 AuraRad
 EverySceneUtil
 TheRealTransitionRando
+DanielSteginkUtils

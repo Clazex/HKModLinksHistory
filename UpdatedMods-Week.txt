@@ -1,5 +1,3 @@
-GodhomeGeo
-QoL
 BingoBoardReplay
 BingoGoalPack1
 BingoGoalPack2
@@ -11,3 +9,4 @@ SFCore
 SFCore
 EverySceneUtil
 TheRealTransitionRando
+DanielSteginkUtils
