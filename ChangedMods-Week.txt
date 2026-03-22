@@ -1,12 +1,3 @@
-BingoAdvancedCustomGeneration
-BingoBoardReplay
-BingoGoalPack1
-BingoGoalPack2
-BingoSync
-CharmPatch
-DeVect
-MendBreakables
-TheRealJournalRando
 Core.FsmUtil
 ReplayTimerMod
 SFCore
@@ -15,3 +6,4 @@ AuraRad
 EverySceneUtil
 TheRealTransitionRando
 DanielSteginkUtils
+EverySceneUtil

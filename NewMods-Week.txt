@@ -1,5 +1,2 @@
-BingoAdvancedCustomGeneration
-DeVect
-MendBreakables
 ReplayTimerMod
 AuraRad
