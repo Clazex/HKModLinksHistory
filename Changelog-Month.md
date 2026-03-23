@@ -46,14 +46,6 @@
 - Tags
   + Utility
 
-### Inputs Recheck
-
-- Description: Rechecks for the held buttons on any Knight state change, so the action is triggered even if the button was pushed down before it was available, if the button is still held down. Based on Input Buffers mod by Phenomenol, but with completely different logic.
-- Dependencies
-  + Vasi
-- Tags
-  + Gameplay
-
 ### MendBreakables
 
 - Description: Repairs certain breakable objects
@@ -61,22 +53,6 @@
   + Satchel
 - Tags
   + Gameplay
-
-### MoreStags
-
-- Description: A Randomizer connection which adds new stag stations
-- Dependencies
-  + AlreadyEnoughPlayMaker
-  + ItemChanger
-  + MenuChanger
-  + Randomizer 4
-  + RandomizerCore
-  + RandomizerCore.Json
-  + Satchel
-- Integrations
-  + CondensedSpoilerLogger
-  + DebugMod
-  + RandoSettingsManager
 
 ### MurderRando
 
@@ -88,31 +64,6 @@
   + Satchel
 - Tags
   + Gameplay
-
-### NetworkingPlando
-
-- Description: A supplemental mod for the Networking plando
-- Dependencies
-  + AccessRandomizer
-  + AdditionalMaps
-  + Extra Rando
-  + Fishing
-  + HKTool
-  + ItemChanger
-  + ItemChangerDataLoader
-  + ItemSync
-  + MoreDoors
-  + MoreStags
-  + RandoMapMod
-  + RandoPlus
-  + Randomizable Levers
-  + Randomizer 4
-  + Rope Rando
-  + Scatternest
-  + TheGloryOfBeingAFoolRandomizer
-  + TheRealJournalRando
-  + VendorRando
-  + YetAnotherRandoConnection
 
 ### RegretRecoveryRestoration
 
@@ -287,6 +238,17 @@
 ### Mask Remover
 
 - Version: 1.0.3.0 -> 1.0.4.0
+
+### MoreStags
+
+- Version: 1.0.0.0 -> 1.0.2.0
+
+### NetworkingPlando
+
+- Version: 1.0.0.0 -> 1.0.0.1
+- Dependencies
+  + Removed
+    - MenuChanger
 
 ### Pale Court Charms
 

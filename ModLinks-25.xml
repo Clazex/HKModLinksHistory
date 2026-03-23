@@ -677,6 +677,29 @@ Not recommended for use in new mods.</Description>
         </Authors>
     </Manifest>
     <Manifest>
+        <Name>CorpseDreamRando</Name>
+        <Description>A Randomizer connection that adds dream nail dialogue for background corpses</Description>
+        <Version>1.0.0.1</Version>
+        <Link SHA256="5394762F4E4A25521D1589BDD862FE61C4DDD28DF5F602FA7640F3419116EB4A"><![CDATA[https://github.com/TheMathGeek314/CorpseDreamRando/releases/download/v1.0.0.1/CorpseDreamRando.zip]]></Link>
+        <Dependencies>
+            <Dependency>ItemChanger</Dependency>
+            <Dependency>MenuChanger</Dependency>
+            <Dependency>Randomizer 4</Dependency>
+            <Dependency>RandomizerCore</Dependency>
+            <Dependency>RandomizerCore.Json</Dependency>
+        </Dependencies>
+        <Repository>
+            <![CDATA[https://github.com/TheMathGeek314/CorpseDreamRando/]]>
+        </Repository>
+        <Integrations>
+            <Integration>Lore Randomizer</Integration>
+            <Integration>RandoSettingsManager</Integration>
+        </Integrations>
+        <Authors>
+            <Author>TheMathGeek_314</Author>
+        </Authors>
+    </Manifest>
+    <Manifest>
         <Name>NetworkingPlando</Name>
         <Description>A supplemental mod for the Networking plando</Description>
         <Version>1.0.0.1</Version>
@@ -8962,6 +8985,27 @@ Enjoy!</Description>
         </Authors>
     </Manifest>
     <Manifest>
+        <Name>MurderRando</Name>
+        <Description>Another rando connection for those who despise the innocent.</Description>
+        <Version>1.0.0.0</Version>
+        <Link SHA256="F5EC211A3C61AA12F2AB58CD03EAAAEB2852C65E37BE0A54DE99B2EE87DD0CC7">
+            <![CDATA[https://github.com/nerthul11/MurderRando/releases/download/1.0.0.0/MurderRando.zip]]>
+        </Link>
+        <Dependencies />
+        <Repository>
+            <![CDATA[https://github.com/nerthul11/MurderRando]]>
+        </Repository>
+        <Integrations>
+            <Integration>CondensedSpoilerLogger</Integration>
+        </Integrations>
+        <Tags>
+            <Tag>Gameplay</Tag>
+        </Tags>
+        <Authors>
+            <Author>nerthul11</Author>
+        </Authors>
+    </Manifest>
+    <Manifest>
         <Name>CelesteDash</Name>
         <Description>Bring a Celeste-like dash system into Hollow Knight</Description>
         <Version>1.2.3.0</Version>
@@ -10868,9 +10912,9 @@ Enjoy!</Description>
     <Manifest>
         <Name>InfectedHallownest</Name>
         <Description>Adds a new stage to the game: after beating the Hollow Knight, the Infection expands throughout the game, strengthening enemies at random.</Description>
-        <Version>1.0.1.0</Version>
-        <Link SHA256="D52F679C19129CCF5B68C6A3F9B9FF00E2ABBDCADE51761CA88E9FF3E426D162">
-            <![CDATA[https://github.com/danielstegink/HollowKnight.InfectedHallownest/releases/download/1.0.1.0/InfectedHallownest.zip]]>
+        <Version>1.0.2.0</Version>
+        <Link SHA256="2c3e77b07122d99e4c8d19139598cc3207615ed61454d39219faaa86215308eb">
+            <![CDATA[https://github.com/danielstegink/HollowKnight.InfectedHallownest/releases/download/1.0.2.0/InfectedHallownest.zip]]>
         </Link>
         <Dependencies>
         </Dependencies>
