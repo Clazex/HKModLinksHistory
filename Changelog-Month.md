@@ -94,16 +94,6 @@
 - Integrations
   + RandoSettingsManager
 
-### Shared Health
-
-- Description: A HKMP addon to synchronize damage and healing across teams.
-- Dependencies
-  + HKMP
-  + HKMirror
-  + HkmpPouch
-- Tags
-  + Gameplay
-
 ### StartingNotches
 
 - Description: Lets you play with an adjustable amount of extra Charm Notches, default starts at 2.
@@ -150,7 +140,7 @@
 
 ### AlphabetRando
 
-- Version: 1.0.1.1 -> 1.1.1.0
+- Version: 1.0.1.2 -> 1.1.1.0
 - Integrations
   + Added
     - FStats
@@ -158,16 +148,6 @@
 ### Archipelago
 
 - Version: 0.11.0.0 -> 0.11.1.0
-
-### BetterCrystalHeart
-
-- Version: 1.1.1.0 -> 1.2.0.0
-- Dependencies
-  + Added
-    - HKMirror
-- Integrations
-  + Added
-    - DynamicCrystalDash
 
 ### BingoBoardReplay
 
@@ -189,13 +169,6 @@
 
 - Version: 1.7.0.1 -> 1.8.0.0
 
-### Collision Glitch Remover
-
-- Version: 1.0.0.0 -> 1.0.2.0
-- Description
-  + Old: Removes collision-based glitches such as the Gruz mother wall bounce and Collector &quot;sticky feet&quot; glitch. Works the same way as CollectorGlitchRemover except it fixes every scene. Can be enabled along with CollectorGlitchRemover or instead of CollectorGlitchRemover.
-  + New: Removes collision-based glitches such as the Gruz mother wall bounce and Collector &quot;sticky feet&quot; glitch. Works the same way as CollectorGlitchRemover except it fixes every scene. Can be added along with CollectorGlitchRemover or instead of CollectorGlitchRemover.
-
 ### Core.FsmUtil
 
 - Version: 1.1.2.0 -> 1.3.0.0
@@ -215,10 +188,6 @@
 
 - Version: 1.0.0.3 -> 1.0.1.0
 
-### Geo Remover
-
-- Version: 1.0.3.0 -> 1.0.4.0
-
 ### GeoRando
 
 - Version: 1.0.1.2 -> 1.0.2.0
@@ -230,14 +199,6 @@
 ### InfectedHallownest
 
 - Version: 1.0.1.0 -> 1.0.2.0
-
-### Invulnerability Indicator
-
-- Version: 1.0.1.0 -> 1.0.2.0
-
-### Mask Remover
-
-- Version: 1.0.3.0 -> 1.0.4.0
 
 ### MoreStags
 
@@ -254,10 +215,6 @@
 
 - Version: 1.3.6.0 -> 1.3.7.0
 
-### PurenailCore
-
-- Version: 2.0.0.1 -> 2.0.0.2
-
 ### QoL
 
 - Version: 4.8.0.0 -> 4.9.0.0
@@ -269,6 +226,13 @@
 ### SFCore
 
 - Version: 1.5.14.16 -> 1.5.16.1
+
+### Shared Health
+
+- Version: 1.0.0.0 -> 1.0.1.0
+- Dependencies
+  + Added
+    - HKMirror
 
 ### TheRealJournalRando
 
