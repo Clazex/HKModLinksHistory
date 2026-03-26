@@ -94,14 +94,6 @@
 - Integrations
   + RandoSettingsManager
 
-### StartingNotches
-
-- Description: Lets you play with an adjustable amount of extra Charm Notches, default starts at 2.
-- Dependencies
-  + Satchel
-- Tags
-  + Gameplay
-
 ### StubbornKnight
 
 - Description: StubbornKnight is a stubborn knight mod. The Knight&#x27;s mind is always fixated on one direction; you can only attack in the direction it desires.
@@ -140,7 +132,7 @@
 
 ### AlphabetRando
 
-- Version: 1.0.1.2 -> 1.1.1.0
+- Version: 1.0.1.3 -> 1.1.1.0
 - Integrations
   + Added
     - FStats
@@ -202,14 +194,7 @@
 
 ### MoreStags
 
-- Version: 1.0.0.0 -> 1.0.2.0
-
-### NetworkingPlando
-
-- Version: 1.0.0.0 -> 1.0.0.1
-- Dependencies
-  + Removed
-    - MenuChanger
+- Version: 1.0.1.0 -> 1.0.2.0
 
 ### Pale Court Charms
 
@@ -218,10 +203,6 @@
 ### QoL
 
 - Version: 4.8.0.0 -> 4.9.0.0
-
-### RandoMapCore
-
-- Version: 1.0.18.0 -> 1.0.19.0
 
 ### SFCore
 
@@ -233,6 +214,13 @@
 - Dependencies
   + Added
     - HKMirror
+
+### StartingNotches
+
+- Version: 1.0.0.0 -> 1.0.1.0
+- Description
+  + Old: Lets you play with an adjustable amount of extra Charm Notches (0-20), default starts at 2.
+  + New: Lets you play with an adjustable amount of extra Charm Notches, default starts at 2.
 
 ### TheRealJournalRando
 
