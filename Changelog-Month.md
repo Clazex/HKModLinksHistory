@@ -19,19 +19,6 @@
 - Dependencies
   + BingoSync
 
-### CorpseDreamRando
-
-- Description: A Randomizer connection that adds dream nail dialogue for background corpses
-- Dependencies
-  + ItemChanger
-  + MenuChanger
-  + Randomizer 4
-  + RandomizerCore
-  + RandomizerCore.Json
-- Integrations
-  + Lore Randomizer
-  + RandoSettingsManager
-
 ### DeVect
 
 - Description: DeVect, titled 骨杖寂骑人 in Chinese, is a Hollow Knight mod that brings Defect-style orb gameplay from Slay the Spire into the Knight&#x27;s moveset.
@@ -50,17 +37,6 @@
 
 - Description: Repairs certain breakable objects
 - Dependencies
-  + Satchel
-- Tags
-  + Gameplay
-
-### MurderRando
-
-- Description: Another rando connection for those who despise the innocent.
-- Dependencies
-  + ItemChanger
-  + MenuChanger
-  + Randomizer 4
   + Satchel
 - Tags
   + Gameplay
@@ -165,6 +141,10 @@
 
 - Version: 1.1.2.0 -> 1.3.0.0
 
+### CorpseDreamRando
+
+- Version: 1.0.0.1 -> 1.0.1.0
+
 ### DanielSteginkUtils
 
 - Version: 1.5.0.0 -> 1.5.1.0
@@ -188,10 +168,6 @@
 
 - Version: 1.0.0.0 -> 1.1.0.0
 
-### InfectedHallownest
-
-- Version: 1.0.1.0 -> 1.0.2.0
-
 ### MoreStags
 
 - Version: 1.0.1.0 -> 1.0.2.0
@@ -206,7 +182,7 @@
 
 ### SFCore
 
-- Version: 1.5.14.16 -> 1.5.16.1
+- Version: 1.5.14.16 -> 1.5.16.2
 
 ### TheRealJournalRando
 

@@ -1,4 +1,3 @@
-InfectedHallownest
 AlphabetRando
 FlowerRandomizer
 EnchantedMask
@@ -34,3 +33,4 @@ EverySceneUtil
 TheRealTransitionRando
 DanielSteginkUtils
 EverySceneUtil
+SFCore
