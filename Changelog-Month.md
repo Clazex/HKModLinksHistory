@@ -108,7 +108,10 @@
 
 ### AlphabetRando
 
-- Version: 1.0.1.3 -> 1.1.1.0
+- Version: 1.0.1.3 -> 1.2.0.0
+- Dependencies
+  + Added
+    - Satchel
 - Integrations
   + Added
     - FStats

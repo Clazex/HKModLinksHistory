@@ -34,3 +34,4 @@ TheRealTransitionRando
 DanielSteginkUtils
 EverySceneUtil
 SFCore
+AlphabetRando
