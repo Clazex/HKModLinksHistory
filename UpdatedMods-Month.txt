@@ -1,4 +1,3 @@
-AlphabetRando
 FlowerRandomizer
 EnchantedMask
 MoreStags

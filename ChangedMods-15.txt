@@ -1,3 +1,9 @@
-GodhomeGeo
-QoL
-SyncDreamShield
+BingoAdvancedCustomGeneration
+BingoBoardReplay
+BingoGoalPack1
+BingoGoalPack2
+BingoSync
+CharmPatch
+DeVect
+MendBreakables
+TheRealJournalRando
