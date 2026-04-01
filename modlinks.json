@@ -5742,11 +5742,11 @@
   },
   "Less Flashing Lights": {
     "description": "Reduces the amount of flashing lights. Check the readme for more info",
-    "version": "1.0.1.0",
+    "version": "1.0.2.0",
     "links": {
       "type": "universal",
-      "sha256": "05F556C63F8CA32558492A415316A5DF823E83AF7FC011FDE56389432D843F7D",
-      "url": "https://github.com/Arwangha/LessFlashingLights/releases/download/v1.0.1/LessFlashingLights.zip"
+      "sha256": "DAF4E927ED4DFC004B5BCF5ED8BAA4554FFED7E8D8C7E7A1F80347651820B133",
+      "url": "https://github.com/Arwangha/LessFlashingLights/releases/download/v1.0.2/LessFlashingLights.zip"
     },
     "dependencies": [
       "Satchel"
@@ -6672,11 +6672,11 @@
   },
   "MoreStags": {
     "description": "A Randomizer connection which adds new stag stations",
-    "version": "1.0.2.0",
+    "version": "1.0.3.0",
     "links": {
       "type": "universal",
-      "sha256": "F5D817B5ACFE68FDCA951A4D7B28D7F9CB3656C0900F3D95703D51A5AFF2DC36",
-      "url": "https://github.com/TheMathGeek314/MoreStags/releases/download/v1.0.2.0/MoreStags.zip"
+      "sha256": "335D403F43F2796F89C4A94502BAAB7268C6258D3C64C2BAD5217900A5DC47F2",
+      "url": "https://github.com/TheMathGeek314/MoreStags/releases/download/v1.0.3.0/MoreStags.zip"
     },
     "dependencies": [
       "AlreadyEnoughPlayMaker",
@@ -8724,12 +8724,12 @@
     ]
   },
   "ReplayTimerMod": {
-    "description": "Records your best time through each room and plays it back as a ghost on your next attempt.",
-    "version": "0.2.0.0",
+    "description": "Records your best times through each room and plays it back as a ghost on your next attempt.",
+    "version": "0.3.0.0",
     "links": {
       "type": "universal",
-      "sha256": "D4600E98C499AD47104537B1D7BB89FBBB1376CD667F3D5307C1DE844728F55C",
-      "url": "https://github.com/AdiPrk/ReplayTimerMod/releases/download/v0.2.0/ReplayTimerModHK.zip"
+      "sha256": "B5BDF86243B9B8B5F324C8EFB07B078EE384994086886666DB2B8416A3A5E1E5",
+      "url": "https://github.com/AdiPrk/ReplayTimerMod/releases/download/v0.3.0/ReplayModHK1578.zip"
     },
     "dependencies": [],
     "repository": "https://github.com/AdiPrk/ReplayTimerMod",

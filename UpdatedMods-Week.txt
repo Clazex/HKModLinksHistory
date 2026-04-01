@@ -1,2 +1,5 @@
 SFCore
 AlphabetRando
+Less Flashing Lights
+MoreStags
+ReplayTimerMod

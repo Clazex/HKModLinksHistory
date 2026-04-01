@@ -54,7 +54,7 @@
 
 ### ReplayTimerMod
 
-- Description: Records your best time through each room and plays it back as a ghost on your next attempt.
+- Description: Records your best times through each room and plays it back as a ghost on your next attempt.
 - Tags
   + Utility
 
@@ -159,10 +159,6 @@
   + Added
     - Pale Court
 
-### FlowerRandomizer
-
-- Version: 1.0.0.3 -> 1.0.1.0
-
 ### GeoRando
 
 - Version: 1.0.1.2 -> 1.0.2.0
@@ -171,9 +167,13 @@
 
 - Version: 1.0.0.0 -> 1.1.0.0
 
-### MoreStags
+### Less Flashing Lights
 
 - Version: 1.0.1.0 -> 1.0.2.0
+
+### MoreStags
+
+- Version: 1.0.1.0 -> 1.0.3.0
 
 ### Pale Court Charms
 

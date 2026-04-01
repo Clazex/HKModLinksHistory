@@ -1,4 +1,3 @@
-FlowerRandomizer
 EnchantedMask
 MoreStags
 MoreStags
@@ -34,3 +33,6 @@ DanielSteginkUtils
 EverySceneUtil
 SFCore
 AlphabetRando
+Less Flashing Lights
+MoreStags
+ReplayTimerMod
