@@ -1,6 +1,18 @@
 # Changelog
 
 
+## New mods
+
+### Uumuu Hack
+
+- Description: This mod would make Uumuu only attack for once before Quirrel pops its shield from the second cycle on.
+- Dependencies
+  + Vasi
+- Tags
+  + Boss
+  + Gameplay
+
+
 ## Updated mods
 
 ### AlphabetRando
@@ -24,8 +36,4 @@
 - Description
   + Old: Records your best time through each room and plays it back as a ghost on your next attempt.
   + New: Records your best times through each room and plays it back as a ghost on your next attempt.
-
-### SFCore
-
-- Version: 1.5.16.1 -> 1.5.16.2
 

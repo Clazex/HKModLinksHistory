@@ -1,5 +1,4 @@
 MoreStags
-MoreStags
 Archipelago
 StubbornKnight
 CorpseDreamRando
@@ -44,3 +43,4 @@ AlphabetRando
 Less Flashing Lights
 MoreStags
 ReplayTimerMod
+Uumuu Hack

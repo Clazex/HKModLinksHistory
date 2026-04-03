@@ -10560,6 +10560,26 @@
       "PronoesPro"
     ]
   },
+  "Uumuu Hack": {
+    "description": "This mod would make Uumuu only attack for once before Quirrel pops its shield from the second cycle on.",
+    "version": "1.0.0.0",
+    "links": {
+      "type": "universal",
+      "sha256": "6D2B5AB8370B6A11BCEDB95A747CB10B061A87281B04C28AD01D09EA66933B59",
+      "url": "https://github.com/FrogBishop/HollowKnight.UumuuHack/releases/download/1.0.0.0/UumuuHack.zip"
+    },
+    "dependencies": [
+      "Vasi"
+    ],
+    "repository": "https://github.com/FrogBishop/HollowKnight.UumuuHack",
+    "tags": [
+      "Boss",
+      "Gameplay"
+    ],
+    "authors": [
+      "FrogBishop"
+    ]
+  },
   "Uumuu Plus": {
     "description": "Uumuu has been slightly enhanced",
     "version": "1.0.3.0",
