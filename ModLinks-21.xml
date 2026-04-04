@@ -2538,9 +2538,9 @@ All with an incredible new soundtrack!</Description>
     <Manifest>
         <Name>QoL</Name>
         <Description>A collection of various quality of life improvements.</Description>
-        <Version>4.8.0.0</Version>
-        <Link SHA256="4250DA9F11135878E3292D0C7E7B2528900D9EF2AD02C96CDFB151B9F5C2967D">
-            <![CDATA[https://github.com/fifty-six/HollowKnight.QoL/releases/download/v4.8/QoL.zip]]>
+        <Version>4.9.0.0</Version>
+        <Link SHA256="AE6DDF273249ED7EF75E26A5257CC2D7DE3F790230B1EAA8A57677161A65F0AC">
+            <![CDATA[https://github.com/fifty-six/HollowKnight.QoL/releases/download/v4.9/QoL.zip]]>
         </Link>
         <Dependencies>
             <Dependency>Vasi</Dependency>
@@ -11079,9 +11079,9 @@ Enjoy!</Description>
     <Manifest>
         <Name>GodhomeGeo</Name>
         <Description>Removes the limitation that prevents geo from spawning in Godhome.</Description>
-        <Version>1.0.0.0</Version>
-        <Link SHA256="f57f30536a683060d9a802e99e2066c697bb2c530ac96a0a3272b451363f6b74">
-            <![CDATA[https://github.com/cometcake575/GodhomeGeo/releases/download/1.0.0.0/GodhomeGeo.zip]]>
+        <Version>1.1.0.0</Version>
+        <Link SHA256="28cdb130bab606ec4eb7be4dbfdc5bbec7eeb7d6ed85d17e4891e63c25d3a7fa">
+            <![CDATA[https://github.com/cometcake575/GodhomeGeo/releases/download/1.1.0.0/GodhomeGeo.zip]]>
         </Link>
         <Dependencies>
         </Dependencies>
@@ -11464,6 +11464,29 @@ Enjoy!</Description>
         </Tags>
         <Authors>
             <Author>DanielStegink</Author>
+        </Authors>
+    </Manifest>
+        <Manifest>
+        <Name>SyncDreamShield</Name>
+        <Description>Syncs your Dream Shield with other players in HKMP</Description>
+        <Version>1.0.1.0</Version>
+        <Link SHA256="B58857802574414137AF9D29FCDE3692F7DC6D30EF55063BAFF00DE853B22D15">
+            <![CDATA[https://github.com/BobbyTheCatfish/HKMP.SyncDreamShield/releases/download/0.1.0/SyncDreamShield.zip]]>
+        </Link>
+        <Dependencies>
+            <Dependency>HKMP</Dependency>
+        </Dependencies>
+        <Repository>
+            <![CDATA[https://github.com/BobbyTheCatfish/HKMP.SyncDreamShield]]>
+        </Repository>
+        <Issues>
+            <![CDATA[https://github.com/BobbyTheCatfish/HKMP.SyncDreamShield/issues]]>
+        </Issues>
+        <Tags>
+            <Tag>Gameplay</Tag>
+        </Tags>
+        <Authors>
+            <Author>BobbyTheCatfish</Author>
         </Authors>
     </Manifest>
 </ModLinks>

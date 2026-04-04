@@ -9183,11 +9183,11 @@
   },
   "ShadeSnail": {
     "description": "Spawns an immortal Shade that follows you constantly.",
-    "version": "1.2.0.0",
+    "version": "1.3.0.0",
     "links": {
       "type": "universal",
-      "sha256": "CE164A726F60D9D018A7CA8D9C1C4051010C7786E1F2984E852A7ADBF61F3297",
-      "url": "https://github.com/danielstegink/HollowKnight.ShadeSnail/releases/download/1.2.0.0/ShadeSnail.zip"
+      "sha256": "606434CA4840FF8D16DA06E4D1EA7ED2D975AB85292B7CBB730CECF434A307CC",
+      "url": "https://github.com/danielstegink/HollowKnight.ShadeSnail/releases/download/1.3.0.0/ShadeSnail.zip"
     },
     "dependencies": [
       "Satchel"
@@ -10700,11 +10700,11 @@
   },
   "VoidAndSoul": {
     "description": "This mod adds an RPG mechanic through the 0-notch charm Void & Soul.",
-    "version": "1.0.1.1",
+    "version": "1.0.2.0",
     "links": {
       "type": "universal",
-      "sha256": "37D54A73B11A3F96EBA9BCE211006C9430F17B7250DFDAC4DD128AC811A5ADE7",
-      "url": "https://github.com/danielstegink/HollowKnight.VoidAndSoul/releases/download/1.0.1.1/VoidAndSoul.zip"
+      "sha256": "DC9DC0DAE5BF0FD445D1ADD9BBB22893FE183D020CE2C391F37C3A247FCDE7AE",
+      "url": "https://github.com/danielstegink/HollowKnight.VoidAndSoul/releases/download/1.0.2.0/VoidAndSoul.zip"
     },
     "dependencies": [
       "DanielSteginkUtils",

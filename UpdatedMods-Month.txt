@@ -1,4 +1,3 @@
-MoreStags
 Archipelago
 CorpseDreamRando
 Pale Court Charms
@@ -34,3 +33,5 @@ AlphabetRando
 Less Flashing Lights
 MoreStags
 ReplayTimerMod
+ShadeSnail
+VoidAndSoul
