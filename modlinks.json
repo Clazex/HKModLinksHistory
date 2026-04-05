@@ -1599,7 +1599,7 @@
     "links": {
       "type": "universal",
       "sha256": "9E501A37CE1CD44B9A8EDEB128E6695FBA698D57B2A2AB1E3450D7C51F49C90C",
-      "url": "https://jmp.clazex.net/hk-mod/companion-cloth/v0.1.0"
+      "url": "https://github.com/Clazex/HollowKnight.CompanionCloth/releases/download/v0.1.0/CompanionCloth.zip"
     },
     "dependencies": [
       "Vasi"
@@ -10700,11 +10700,11 @@
   },
   "VoidAndSoul": {
     "description": "This mod adds an RPG mechanic through the 0-notch charm Void & Soul.",
-    "version": "1.0.2.0",
+    "version": "1.0.2.1",
     "links": {
       "type": "universal",
-      "sha256": "DC9DC0DAE5BF0FD445D1ADD9BBB22893FE183D020CE2C391F37C3A247FCDE7AE",
-      "url": "https://github.com/danielstegink/HollowKnight.VoidAndSoul/releases/download/1.0.2.0/VoidAndSoul.zip"
+      "sha256": "791824B61FC1E9F27D777EC6A04973667D721D861B5EDC14123E9506A8F5A057",
+      "url": "https://github.com/danielstegink/HollowKnight.VoidAndSoul/releases/download/1.0.2.1/VoidAndSoul.zip"
     },
     "dependencies": [
       "DanielSteginkUtils",

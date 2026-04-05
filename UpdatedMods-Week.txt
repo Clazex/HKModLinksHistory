@@ -3,3 +3,4 @@ MoreStags
 ReplayTimerMod
 ShadeSnail
 VoidAndSoul
+VoidAndSoul
