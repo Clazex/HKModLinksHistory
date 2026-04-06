@@ -1,20 +1,13 @@
 # Changelog
 
 
-## New mods
-
-### StubbornKnight
-
-- Description: StubbornKnight is a stubborn knight mod. The Knight&#x27;s mind is always fixated on one direction; you can only attack in the direction it desires.
-- Dependencies
-  + Satchel
-- Tags
-  + Gameplay
-
-
 ## Updated mods
 
-### Archipelago
+### CorpseDreamRando
 
-- Version: 0.11.0.0 -> 0.11.1.0
+- Version: 1.0.0.1 -> 1.0.0.2
+
+### Pale Court Charms
+
+- Version: 1.3.6.0 -> 1.3.7.0
 

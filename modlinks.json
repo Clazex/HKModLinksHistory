@@ -9183,11 +9183,11 @@
   },
   "ShadeSnail": {
     "description": "Spawns an immortal Shade that follows you constantly.",
-    "version": "1.3.0.0",
+    "version": "1.3.0.1",
     "links": {
       "type": "universal",
-      "sha256": "606434CA4840FF8D16DA06E4D1EA7ED2D975AB85292B7CBB730CECF434A307CC",
-      "url": "https://github.com/danielstegink/HollowKnight.ShadeSnail/releases/download/1.3.0.0/ShadeSnail.zip"
+      "sha256": "B91E1268E33F4FF79775752268C3F2CE0FA3C30B37A0FC5BAD6B27ACA6831814",
+      "url": "https://github.com/danielstegink/HollowKnight.ShadeSnail/releases/download/1.3.0.1/ShadeSnail.zip"
     },
     "dependencies": [
       "Satchel"

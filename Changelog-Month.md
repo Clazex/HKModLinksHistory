@@ -58,14 +58,6 @@
 - Tags
   + Utility
 
-### StubbornKnight
-
-- Description: StubbornKnight is a stubborn knight mod. The Knight&#x27;s mind is always fixated on one direction; you can only attack in the direction it desires.
-- Dependencies
-  + Satchel
-- Tags
-  + Gameplay
-
 ### SyncDreamShield
 
 - Description: Syncs your Dream Shield with other players in HKMP
@@ -95,10 +87,6 @@
 - Integrations
   + Added
     - FStats
-
-### Archipelago
-
-- Version: 0.11.0.0 -> 0.11.1.0
 
 ### BingoBoardReplay
 
@@ -166,7 +154,7 @@
 
 ### ShadeSnail
 
-- Version: 1.2.0.0 -> 1.3.0.0
+- Version: 1.2.0.0 -> 1.3.0.1
 
 ### TheRealJournalRando
 

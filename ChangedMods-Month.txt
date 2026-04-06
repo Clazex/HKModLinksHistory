@@ -1,5 +1,3 @@
-Archipelago
-StubbornKnight
 CorpseDreamRando
 Pale Court Charms
 EnchantedMask
@@ -46,3 +44,4 @@ Uumuu Hack
 ShadeSnail
 VoidAndSoul
 VoidAndSoul
+ShadeSnail

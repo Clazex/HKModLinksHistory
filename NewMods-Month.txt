@@ -1,4 +1,3 @@
-StubbornKnight
 RegretRecoveryRestoration
 EverySceneUtil
 SyncDreamShield
