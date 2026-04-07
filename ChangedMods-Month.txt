@@ -1,5 +1,3 @@
-CorpseDreamRando
-Pale Court Charms
 EnchantedMask
 RegretRecoveryRestoration
 AlphabetRando
@@ -45,3 +43,4 @@ ShadeSnail
 VoidAndSoul
 VoidAndSoul
 ShadeSnail
+Ado Death Scream

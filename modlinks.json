@@ -175,6 +175,24 @@
       "kapkekes"
     ]
   },
+  "Ado Death Scream": {
+    "description": "Plays Ado's scream when the Knight dies.",
+    "version": "1.0.0.0",
+    "links": {
+      "type": "universal",
+      "sha256": "4DBDD7554BE042CC2D7074574EEA8CA37C0EFF96CB70A384E4FD49E21C9F9D52",
+      "url": "https://github.com/SaigoNoTanuki/Ado-Death-Scream/releases/download/1.0.0.0/Ado_Death_Scream.zip"
+    },
+    "dependencies": [],
+    "repository": "https://github.com/SaigoNoTanuki/Ado-Death-Scream",
+    "issues": "https://github.com/SaigoNoTanuki/Ado-Death-Scream/issues",
+    "tags": [
+      "Cosmetic"
+    ],
+    "authors": [
+      "SaigoNoTanuki"
+    ]
+  },
   "Afterimage Plus": {
     "description": "A mod that gives customizable afterimages to the Knight and enemies.",
     "version": "1.0.0.0",

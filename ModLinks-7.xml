@@ -27,9 +27,9 @@
     <Manifest>
         <Name>ReplayTimerMod</Name>
         <DisplayName>Replay Timer Mod</DisplayName>
-        <Description>Records your best time through each room and plays it back as a ghost on your next attempt.</Description>
-        <Version>0.2.0.0</Version>
-        <Link SHA256="D4600E98C499AD47104537B1D7BB89FBBB1376CD667F3D5307C1DE844728F55C"><![CDATA[https://github.com/AdiPrk/ReplayTimerMod/releases/download/v0.2.0/ReplayTimerModHK.zip]]></Link>
+        <Description>Records your best times through each room and plays it back as a ghost on your next attempt.</Description>
+        <Version>0.3.0.0</Version>
+        <Link SHA256="b5bdf86243b9b8b5f324c8efb07b078ee384994086886666db2b8416a3a5e1e5"><![CDATA[https://github.com/AdiPrk/ReplayTimerMod/releases/download/v0.3.0/ReplayModHK1578.zip]]></Link>
         <Dependencies>
         </Dependencies>
         <Repository>
@@ -892,8 +892,8 @@ Not recommended for use in new mods.</Description>
     <Manifest>
         <Name>MoreStags</Name>
         <Description>A Randomizer connection which adds new stag stations</Description>
-        <Version>1.0.2.0</Version>
-        <Link SHA256="F5D817B5ACFE68FDCA951A4D7B28D7F9CB3656C0900F3D95703D51A5AFF2DC36"><![CDATA[https://github.com/TheMathGeek314/MoreStags/releases/download/v1.0.2.0/MoreStags.zip]]></Link>
+        <Version>1.0.3.0</Version>
+        <Link SHA256="335D403F43F2796F89C4A94502BAAB7268C6258D3C64C2BAD5217900A5DC47F2"><![CDATA[https://github.com/TheMathGeek314/MoreStags/releases/download/v1.0.3.0/MoreStags.zip]]></Link>
         <Dependencies>
             <Dependency>AlreadyEnoughPlayMaker</Dependency>
             <Dependency>ItemChanger</Dependency>
@@ -10694,9 +10694,9 @@ Enjoy!</Description>
     <Manifest>
         <Name>Less Flashing Lights</Name>
         <Description>Reduces the amount of flashing lights. Check the readme for more info</Description>
-        <Version>1.0.1.0</Version>
-        <Link SHA256="05f556c63f8ca32558492a415316a5df823e83af7fc011fde56389432d843f7d">
-            <![CDATA[https://github.com/Arwangha/LessFlashingLights/releases/download/v1.0.1/LessFlashingLights.zip]]>
+        <Version>1.0.2.0</Version>
+        <Link SHA256="daf4e927ed4dfc004b5bcf5ed8baa4554ffed7e8d8c7e7a1f80347651820b133">
+            <![CDATA[https://github.com/Arwangha/LessFlashingLights/releases/download/v1.0.2/LessFlashingLights.zip]]>
         </Link>
         <Dependencies>
             <Dependency>Satchel</Dependency>

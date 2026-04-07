@@ -3,6 +3,12 @@
 
 ## New mods
 
+### Ado Death Scream
+
+- Description: Plays Ado&#x27;s scream when the Knight dies.
+- Tags
+  + Cosmetic
+
 ### AuraRad
 
 - Description: Absolute Radiance Mod Boss
@@ -114,7 +120,7 @@
 
 ### CorpseDreamRando
 
-- Version: 1.0.0.1 -> 1.0.1.0
+- Version: 1.0.0.2 -> 1.0.1.0
 
 ### DanielSteginkUtils
 
@@ -139,10 +145,6 @@
 ### MoreStags
 
 - Version: 1.0.1.2 -> 1.0.3.0
-
-### Pale Court Charms
-
-- Version: 1.3.6.0 -> 1.3.7.0
 
 ### QoL
 
