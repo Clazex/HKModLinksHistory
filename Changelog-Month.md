@@ -47,17 +47,6 @@
 - Tags
   + Gameplay
 
-### RegretRecoveryRestoration
-
-- Description: A Randomizer connection which restores the ability to recover your shade when egg shop removes it
-- Dependencies
-  + ItemChanger
-  + MenuChanger
-  + Randomizer 4
-  + RandomizerCore
-- Integrations
-  + RandoSettingsManager
-
 ### ReplayTimerMod
 
 - Description: Records your best times through each room and plays it back as a ghost on your next attempt.
@@ -126,10 +115,6 @@
 
 - Version: 1.5.0.0 -> 1.5.1.0
 
-### EnchantedMask
-
-- Version: 1.5.0.0 -> 1.5.1.0
-
 ### GeoRando
 
 - Version: 1.0.1.2 -> 1.0.2.0
@@ -149,6 +134,10 @@
 ### QoL
 
 - Version: 4.8.0.0 -> 4.9.0.0
+
+### RegretRecoveryRestoration
+
+- Version: 1.0.0.0 -> 1.0.1.0
 
 ### SFCore
 

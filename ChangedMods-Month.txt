@@ -1,5 +1,3 @@
-EnchantedMask
-RegretRecoveryRestoration
 AlphabetRando
 TheRealTransitionRando
 VoidAndSoul
