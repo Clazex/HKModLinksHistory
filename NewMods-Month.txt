@@ -7,3 +7,4 @@ ReplayTimerMod
 AuraRad
 Uumuu Hack
 Ado Death Scream
+BlueSR_OST

@@ -25,6 +25,12 @@
 - Dependencies
   + BingoSync
 
+### BlueSR_OST
+
+- Description: Replaces the OSTs in Greenpath, Fungal Wastes and Sealed Vessel fight with BlueSR&#x27;s version.
+- Tags
+  + Cosmetic
+
 ### DeVect
 
 - Description: DeVect, titled 骨杖寂骑人 in Chinese, is a Hollow Knight mod that brings Defect-style orb gameplay from Slay the Spire into the Knight&#x27;s moveset.
@@ -75,13 +81,10 @@
 
 ### AlphabetRando
 
-- Version: 1.0.2.0 -> 1.2.0.0
+- Version: 1.1.0.0 -> 1.2.0.0
 - Dependencies
   + Added
     - Satchel
-- Integrations
-  + Added
-    - FStats
 
 ### BingoBoardReplay
 
@@ -153,7 +156,7 @@
 
 ### TheRealTransitionRando
 
-- Version: 1.0.0.0 -> 1.0.1.1
+- Version: 1.0.0.1 -> 1.0.1.1
 
 ### VendorRando
 
@@ -164,7 +167,7 @@
 
 ### VoidAndSoul
 
-- Version: 1.0.1.0 -> 1.0.2.1
+- Version: 1.0.1.1 -> 1.0.2.1
 
 ### YetAnotherRandoConnection
 

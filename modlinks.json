@@ -982,6 +982,24 @@
       "SFGrenade"
     ]
   },
+  "BlueSR_OST": {
+    "description": "Replaces the OSTs in Greenpath, Fungal Wastes and Sealed Vessel fight with BlueSR's version.",
+    "version": "1.0.0.0",
+    "links": {
+      "type": "universal",
+      "sha256": "BF4FE7924B557D19639650ED69AF26F35B707BA7C7DA2118747D4082C4E2CACB",
+      "url": "https://github.com/SaigoNoTanuki/BlueSR-OST/releases/download/1.0.0/BlueSR_OST.zip"
+    },
+    "dependencies": [],
+    "repository": "https://github.com/SaigoNoTanuki/BlueSR-OST",
+    "issues": "https://github.com/SaigoNoTanuki/BlueSR-OST/issues",
+    "tags": [
+      "Cosmetic"
+    ],
+    "authors": [
+      "SaigoNoTanuki."
+    ]
+  },
   "Bomber Knight": {
     "description": "Adds a bomb ability, along a few new charms and custom \"bosses\".",
     "version": "1.2.3.0",
