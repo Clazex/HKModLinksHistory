@@ -15,14 +15,19 @@
 - Tags
   + Cosmetic
 
+### ResurrectionMod
+
+- Description: Adds a downed state instead of death, allowing teammates to revive you in HKMP. Features a configurable Force Respawn key.
+- Dependencies
+  + HKMP
+- Tags
+  + Gameplay
+  + Utility
+
 
 ## Updated mods
 
 ### ShadeSnail
 
 - Version: 1.3.0.0 -> 1.3.0.1
-
-### VoidAndSoul
-
-- Version: 1.0.2.0 -> 1.0.2.1
 

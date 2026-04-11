@@ -8815,6 +8815,26 @@
       "Hien Ngo"
     ]
   },
+  "ResurrectionMod": {
+    "description": "Adds a downed state instead of death, allowing teammates to revive you in HKMP. Features a configurable Force Respawn key.",
+    "version": "2.5.0.0",
+    "links": {
+      "type": "universal",
+      "sha256": "E87597FA43A8A596FC900F3AB1F987AFDE8E1B96AC9338BF763DA88B24DEA60A",
+      "url": "https://github.com/RaspyGray/HKMP-Resurrection-Mod/releases/download/2.5.0/ResurrectionMod.zip"
+    },
+    "dependencies": [
+      "HKMP"
+    ],
+    "repository": "https://github.com/RaspyGray/HKMP-Resurrection-Mod",
+    "tags": [
+      "Gameplay",
+      "Utility"
+    ],
+    "authors": [
+      "Raspy"
+    ]
+  },
   "ReverseKnight": {
     "description": "The knight... look a little strange...",
     "version": "1.0.0.0",
