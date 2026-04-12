@@ -488,11 +488,11 @@
   },
   "Architect": {
     "description": "A level editor mod, allowing you to customise Hollow Knight by adding or removing platforms, enemies and more with an in-game level editor and level sharer.",
-    "version": "1.18.0.3",
+    "version": "1.18.0.4",
     "links": {
       "type": "universal",
-      "sha256": "F1D7B51BCD88CC13A0143EABE7B69B99E1B06ABD66721A7B4F0B208C49BB735D",
-      "url": "https://github.com/cometcake575/Architect/releases/download/1.18.0.3/Architect.zip"
+      "sha256": "A355BCC142E7026672EB31F6BD96652A5D1469D10A9C80EA1B3A0326D0F98A50",
+      "url": "https://github.com/cometcake575/Architect/releases/download/1.18.0.4/Architect.zip"
     },
     "dependencies": [
       "MagicUI",
@@ -9954,11 +9954,11 @@
   },
   "StubbornKnight": {
     "description": "StubbornKnight is a stubborn knight mod. The Knight's mind is always fixated on one direction; you can only attack in the direction it desires.",
-    "version": "1.0.0.0",
+    "version": "1.1.0.0",
     "links": {
       "type": "universal",
-      "sha256": "D3C10A60A264F34CE70B244D711947B672B682D7F376F605F398CFF87963CCBE",
-      "url": "https://github.com/windplusflower/StubbornKnight/releases/download/v1.0/StubbornKnight.zip"
+      "sha256": "D972C7CEEA2B5BF10AF8B1A40A57FCDEABD5E6D88D7E956836CB9FE9CD59B62E",
+      "url": "https://github.com/windplusflower/StubbornKnight/releases/download/v1.1/StubbornKnight.zip"
     },
     "dependencies": [
       "Satchel"

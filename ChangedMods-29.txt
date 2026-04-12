@@ -1,9 +1,3 @@
-AlphabetRando
-CorpseDreamRando
-EverySceneUtil
-GeoRando
-MoreStags
-RegretRecoveryRestoration
-TheRealTransitionRando
-VendorRando
-YetAnotherRandoConnection
+GodhomeGeo
+QoL
+SyncDreamShield

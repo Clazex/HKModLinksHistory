@@ -39,12 +39,6 @@
 - Tags
   + Gameplay
 
-### EverySceneUtil
-
-- Description: A developer tool for running code on every scene in the game
-- Tags
-  + Utility
-
 ### MendBreakables
 
 - Description: Repairs certain breakable objects
@@ -90,10 +84,14 @@
 
 ### AlphabetRando
 
-- Version: 1.1.0.0 -> 1.2.0.0
+- Version: 1.1.1.0 -> 1.2.0.0
 - Dependencies
   + Added
     - Satchel
+
+### Architect
+
+- Version: 1.18.0.3 -> 1.18.0.4
 
 ### BingoBoardReplay
 
@@ -119,17 +117,13 @@
 
 - Version: 1.1.2.0 -> 1.3.0.0
 
-### CorpseDreamRando
-
-- Version: 1.0.0.2 -> 1.0.1.0
-
 ### DanielSteginkUtils
 
 - Version: 1.5.0.0 -> 1.5.1.0
 
-### GeoRando
+### EverySceneUtil
 
-- Version: 1.0.1.2 -> 1.0.2.0
+- Version: 1.0.0.0 -> 1.2.0.0
 
 ### GodhomeGeo
 
@@ -141,15 +135,11 @@
 
 ### MoreStags
 
-- Version: 1.0.1.2 -> 1.0.3.0
+- Version: 1.0.2.0 -> 1.0.3.0
 
 ### QoL
 
 - Version: 4.8.0.0 -> 4.9.0.0
-
-### RegretRecoveryRestoration
-
-- Version: 1.0.0.0 -> 1.0.1.0
 
 ### SFCore
 
@@ -159,29 +149,19 @@
 
 - Version: 1.2.0.0 -> 1.3.0.1
 
+### StubbornKnight
+
+- Version: 1.0.0.0 -> 1.1.0.0
+
 ### TheRealJournalRando
 
 - Version: 2.4.9164.32616 -> 2.5.9570.6197
 
 ### TheRealTransitionRando
 
-- Version: 1.0.0.1 -> 1.0.1.1
-
-### VendorRando
-
-- Version: 1.1.1.4 -> 1.1.2.0
-- Dependencies
-  + Removed
-    - ConnectionMetadataInjector
+- Version: 1.0.1.0 -> 1.0.1.1
 
 ### VoidAndSoul
 
 - Version: 1.0.1.1 -> 1.0.2.1
-
-### YetAnotherRandoConnection
-
-- Version: 1.2.0.0 -> 1.2.1.0
-- Dependencies
-  + Removed
-    - ConnectionMetadataInjector
 
