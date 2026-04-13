@@ -1,6 +1,3 @@
-GodhomeGeo
-QoL
-SyncDreamShield
 BingoAdvancedCustomGeneration
 BingoBoardReplay
 BingoGoalPack1
@@ -34,3 +31,6 @@ BlueSR_OST
 ResurrectionMod
 Architect
 StubbornKnight
+MoreStags
+Vampire Knight
+Vietnamese Lang

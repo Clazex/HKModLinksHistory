@@ -1,5 +1,3 @@
-GodhomeGeo
-QoL
 BingoBoardReplay
 BingoGoalPack1
 BingoGoalPack2
@@ -24,3 +22,4 @@ VoidAndSoul
 ShadeSnail
 Architect
 StubbornKnight
+MoreStags

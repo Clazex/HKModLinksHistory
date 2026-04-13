@@ -3,9 +3,12 @@
 
 ## New mods
 
-### BlueSR_OST
+### ResurrectionMod
 
-- Description: Replaces the OSTs in Greenpath, Fungal Wastes and Sealed Vessel fight with BlueSR&#x27;s version.
+- Description: Adds a downed state instead of death, allowing teammates to revive you in HKMP. Features a configurable Force Respawn key.
+- Dependencies
+  + HKMP
 - Tags
-  + Cosmetic
+  + Gameplay
+  + Utility
 

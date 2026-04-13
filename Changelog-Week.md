@@ -3,12 +3,6 @@
 
 ## New mods
 
-### Ado Death Scream
-
-- Description: Plays Ado&#x27;s scream when the Knight dies.
-- Tags
-  + Cosmetic
-
 ### BlueSR_OST
 
 - Description: Replaces the OSTs in Greenpath, Fungal Wastes and Sealed Vessel fight with BlueSR&#x27;s version.
@@ -24,12 +18,32 @@
   + Gameplay
   + Utility
 
+### Vampire Knight
+
+- Description: A.. BLOODSUCKING will!
+- Dependencies
+  + Satchel
+- Tags
+  + Gameplay
+
+### Vietnamese Lang
+
+- Description: Add Vietnamese Language. Hollow Knight Việt Hoá
+- Dependencies
+  + LanguageSupport
+- Tags
+  + Gameplay
+
 
 ## Updated mods
 
 ### Architect
 
 - Version: 1.18.0.3 -> 1.18.0.4
+
+### MoreStags
+
+- Version: 1.0.3.0 -> 1.0.3.1
 
 ### StubbornKnight
 

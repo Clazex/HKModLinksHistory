@@ -6708,11 +6708,11 @@
   },
   "MoreStags": {
     "description": "A Randomizer connection which adds new stag stations",
-    "version": "1.0.3.0",
+    "version": "1.0.3.1",
     "links": {
       "type": "universal",
-      "sha256": "335D403F43F2796F89C4A94502BAAB7268C6258D3C64C2BAD5217900A5DC47F2",
-      "url": "https://github.com/TheMathGeek314/MoreStags/releases/download/v1.0.3.0/MoreStags.zip"
+      "sha256": "63EB3B47CFCD9E049856F7B03053D877C6AC159A0DD3CC92AA9F50ACA2CA388D",
+      "url": "https://github.com/TheMathGeek314/MoreStags/releases/download/v1.0.3.1/MoreStags.zip"
     },
     "dependencies": [
       "AlreadyEnoughPlayMaker",
@@ -10652,6 +10652,26 @@
       "Boss"
     ]
   },
+  "Vampire Knight": {
+    "description": "A.. BLOODSUCKING will!",
+    "version": "26.4.0.0",
+    "links": {
+      "type": "universal",
+      "sha256": "9B5398225132BB1D1FD9D9509F26BB8B9F3BB104A67B0E1298C306BDC0718AAF",
+      "url": "https://github.com/golddemon1973/VampireKnight/releases/download/v26.4.0.0/VampireKnight.zip"
+    },
+    "dependencies": [
+      "Satchel"
+    ],
+    "repository": "https://github.com/golddemon1973/VampireKnight",
+    "issues": "https://github.com/golddemon1973/VampireKnight/issues",
+    "tags": [
+      "Gameplay"
+    ],
+    "authors": [
+      "ivory"
+    ]
+  },
   "Vanilla Map Mod": {
     "description": "Adds all items/locations to the existing map.",
     "version": "2.1.6.0",
@@ -10735,6 +10755,25 @@
     ],
     "authors": [
       "Samihamer1"
+    ]
+  },
+  "Vietnamese Lang": {
+    "description": "Add Vietnamese Language. Hollow Knight Việt Hoá",
+    "version": "1.0.0.0",
+    "links": {
+      "type": "universal",
+      "sha256": "C1BD3FDB06BA86977DC23174E4E4F32A37B9827BB9827B8A70679662354B4290",
+      "url": "https://codeberg.org/hien-ngo29/HollowKnightVietnameseLangMod/releases/download/v1.0.0.0/HKVietHoa.zip"
+    },
+    "dependencies": [
+      "LanguageSupport"
+    ],
+    "repository": "https://codeberg.org/hien-ngo29/HollowKnightVietnameseLangMod",
+    "tags": [
+      "Gameplay"
+    ],
+    "authors": [
+      "Hien Ngo"
     ]
   },
   "VoiceToCrySuffering": {

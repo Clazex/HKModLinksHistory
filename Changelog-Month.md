@@ -62,14 +62,6 @@
   + Gameplay
   + Utility
 
-### SyncDreamShield
-
-- Description: Syncs your Dream Shield with other players in HKMP
-- Dependencies
-  + HKMP
-- Tags
-  + Gameplay
-
 ### Uumuu Hack
 
 - Description: This mod would make Uumuu only attack for once before Quirrel pops its shield from the second cycle on.
@@ -77,6 +69,22 @@
   + Vasi
 - Tags
   + Boss
+  + Gameplay
+
+### Vampire Knight
+
+- Description: A.. BLOODSUCKING will!
+- Dependencies
+  + Satchel
+- Tags
+  + Gameplay
+
+### Vietnamese Lang
+
+- Description: Add Vietnamese Language. Hollow Knight Việt Hoá
+- Dependencies
+  + LanguageSupport
+- Tags
   + Gameplay
 
 
@@ -125,21 +133,13 @@
 
 - Version: 1.0.0.0 -> 1.2.0.0
 
-### GodhomeGeo
-
-- Version: 1.0.0.0 -> 1.1.0.0
-
 ### Less Flashing Lights
 
 - Version: 1.0.1.0 -> 1.0.2.0
 
 ### MoreStags
 
-- Version: 1.0.2.0 -> 1.0.3.0
-
-### QoL
-
-- Version: 4.8.0.0 -> 4.9.0.0
+- Version: 1.0.2.0 -> 1.0.3.1
 
 ### SFCore
 
