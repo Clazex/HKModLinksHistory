@@ -1,9 +1,11 @@
 # Changelog
 
 
-## Updated mods
+## New mods
 
-### ShadeSnail
+### Ado Death Scream
 
-- Version: 1.3.0.0 -> 1.3.0.1
+- Description: Plays Ado&#x27;s scream when the Knight dies.
+- Tags
+  + Cosmetic
 

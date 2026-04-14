@@ -1,6 +1,3 @@
-BingoAdvancedCustomGeneration
-DeVect
-MendBreakables
 ReplayTimerMod
 AuraRad
 Uumuu Hack

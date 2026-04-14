@@ -1,12 +1,3 @@
-BingoAdvancedCustomGeneration
-BingoBoardReplay
-BingoGoalPack1
-BingoGoalPack2
-BingoSync
-CharmPatch
-DeVect
-MendBreakables
-TheRealJournalRando
 Core.FsmUtil
 ReplayTimerMod
 SFCore
@@ -34,3 +25,4 @@ StubbornKnight
 MoreStags
 Vampire Knight
 Vietnamese Lang
+Vampire Knight
