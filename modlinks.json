@@ -5884,6 +5884,23 @@
     "dependencies": [],
     "repository": "https://github.com/homothetyhk/HollowKnight.LoadNormalizer/"
   },
+  "LoadRandomizer": {
+    "description": "Randomizes load times from 0 to 10, weighted towards lower values.",
+    "version": "1.0.0.0",
+    "links": {
+      "type": "universal",
+      "sha256": "11BA6DBADF929810BE2025E2C94D105310B242686CA15A2300980E2DEF448B1B",
+      "url": "https://github.com/notahumanhand/LoadRandomizer/releases/download/1.0/LoadRandomizer.zip"
+    },
+    "dependencies": [
+      "LoadNormalizer"
+    ],
+    "repository": "https://github.com/notahumanhand/LoadRandomizer",
+    "authors": [
+      "TheMathGeek_314",
+      "spleen"
+    ]
+  },
   "LockResolution": {
     "description": "Lock Resolution On GamePlay. VSync On LostFocus",
     "version": "1.2.0.0",
@@ -9809,6 +9826,24 @@
     ],
     "authors": [
       "SFGrenade"
+    ]
+  },
+  "SpriteToggler": {
+    "description": "Toggles sprites on objects defined in the settings (single \"OC Backboard\" by default) on F10 (configurable). You can find object names using Unity Explorer",
+    "version": "1.1.0.0",
+    "links": {
+      "type": "universal",
+      "sha256": "25AD1F34191FD37DE090B87B2C5C37BD3806F6492A8E761463E8959156F75A42",
+      "url": "https://github.com/RunninglVlan/SpriteToggler/releases/download/1.1.0.0/SpriteToggler.zip"
+    },
+    "dependencies": [],
+    "repository": "https://github.com/RunninglVlan/SpriteToggler",
+    "issues": "https://github.com/RunninglVlan/SpriteToggler/issues",
+    "tags": [
+      "Utility"
+    ],
+    "authors": [
+      "RunninglVlan"
     ]
   },
   "StartingNotches": {

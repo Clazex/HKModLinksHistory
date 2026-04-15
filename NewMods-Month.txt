@@ -1,4 +1,3 @@
-ReplayTimerMod
 AuraRad
 Uumuu Hack
 Ado Death Scream
@@ -6,3 +5,5 @@ BlueSR_OST
 ResurrectionMod
 Vampire Knight
 Vietnamese Lang
+LoadRandomizer
+SpriteToggler

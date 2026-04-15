@@ -25,11 +25,11 @@
 - Tags
   + Cosmetic
 
-### ReplayTimerMod
+### LoadRandomizer
 
-- Description: Records your best times through each room and plays it back as a ghost on your next attempt.
-- Tags
-  + Utility
+- Description: Randomizes load times from 0 to 10, weighted towards lower values.
+- Dependencies
+  + LoadNormalizer
 
 ### ResurrectionMod
 
@@ -38,6 +38,12 @@
   + HKMP
 - Tags
   + Gameplay
+  + Utility
+
+### SpriteToggler
+
+- Description: Toggles sprites on objects defined in the settings (single &quot;OC Backboard&quot; by default) on F10 (configurable). You can find object names using Unity Explorer
+- Tags
   + Utility
 
 ### Uumuu Hack
@@ -79,10 +85,6 @@
 
 - Version: 1.18.0.3 -> 1.18.0.4
 
-### Core.FsmUtil
-
-- Version: 1.1.2.0 -> 1.3.0.0
-
 ### DanielSteginkUtils
 
 - Version: 1.5.0.0 -> 1.5.1.0
@@ -99,9 +101,16 @@
 
 - Version: 1.0.2.0 -> 1.0.3.1
 
+### ReplayTimerMod
+
+- Version: 0.2.0.0 -> 0.3.0.0
+- Description
+  + Old: Records your best time through each room and plays it back as a ghost on your next attempt.
+  + New: Records your best times through each room and plays it back as a ghost on your next attempt.
+
 ### SFCore
 
-- Version: 1.5.14.16 -> 1.5.16.2
+- Version: 1.5.16.0 -> 1.5.16.2
 
 ### ShadeSnail
 

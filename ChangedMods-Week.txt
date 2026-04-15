@@ -6,3 +6,5 @@ MoreStags
 Vampire Knight
 Vietnamese Lang
 Vampire Knight
+LoadRandomizer
+SpriteToggler
