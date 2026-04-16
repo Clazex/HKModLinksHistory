@@ -1,4 +1,3 @@
-SFCore
 EverySceneUtil
 TheRealTransitionRando
 DanielSteginkUtils
@@ -15,4 +14,5 @@ ShadeSnail
 Architect
 StubbornKnight
 MoreStags
+Vampire Knight
 Vampire Knight
