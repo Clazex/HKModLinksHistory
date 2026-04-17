@@ -16,3 +16,5 @@ StubbornKnight
 MoreStags
 Vampire Knight
 Vampire Knight
+GodhomeQoL
+ReplayLogger

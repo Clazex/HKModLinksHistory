@@ -25,3 +25,5 @@ Vampire Knight
 LoadRandomizer
 SpriteToggler
 Vampire Knight
+GodhomeQoL
+ReplayLogger
