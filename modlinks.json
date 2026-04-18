@@ -983,12 +983,12 @@
     ]
   },
   "BlueSR_OST": {
-    "description": "Replaces the OSTs in Greenpath, Fungal Wastes and Sealed Vessel fight with BlueSR's version.",
-    "version": "1.0.0.0",
+    "description": "Replaces the Sound Tracks in Greenpath, Fungal Wastes and Sealed Vessel fight with BlueSR's version.",
+    "version": "1.2.0.0",
     "links": {
       "type": "universal",
-      "sha256": "BF4FE7924B557D19639650ED69AF26F35B707BA7C7DA2118747D4082C4E2CACB",
-      "url": "https://github.com/SaigoNoTanuki/BlueSR-OST/releases/download/1.0.0/BlueSR_OST.zip"
+      "sha256": "90EDCAAF6597ED6B79F4863DD28EFCD48E34FC3A4E43ED947845AB0CE39C30BD",
+      "url": "https://github.com/SaigoNoTanuki/BlueSR-OST/releases/download/1.2.0/BlueSR_OST.zip"
     },
     "dependencies": [],
     "repository": "https://github.com/SaigoNoTanuki/BlueSR-OST",
@@ -1802,11 +1802,11 @@
   },
   "CorpseDreamRando": {
     "description": "A Randomizer connection that adds dream nail dialogue for background corpses",
-    "version": "1.0.1.0",
+    "version": "1.0.2.0",
     "links": {
       "type": "universal",
-      "sha256": "625D9CD723CB51D87F9661530AA855463B14A19228B0AC5A813D18C49EC7E9A9",
-      "url": "https://github.com/TheMathGeek314/CorpseDreamRando/releases/download/v1.0.1.0/CorpseDreamRando.zip"
+      "sha256": "0F223707215F33614B1BD8E7BB5A41D242C12BE2A7D6678CC5418700BCDF0ED0",
+      "url": "https://github.com/TheMathGeek314/CorpseDreamRando/releases/download/v1.0.2.0/CorpseDreamRando.zip"
     },
     "dependencies": [
       "ItemChanger",
@@ -2779,11 +2779,11 @@
   },
   "DoodleBosses": {
     "description": "The culmination of the Doodle Boss project of the HKM community. All the bosses are now adorable doodles! Artist credits can be found in the Readme and in-game.",
-    "version": "0.9.4.0",
+    "version": "0.9.6.0",
     "links": {
       "type": "universal",
-      "sha256": "CEB7A506DF5C0F888885B4BC9A024A71D5DF64D97278047A45E79B4E9F99AF02",
-      "url": "https://github.com/thegodfriend/DoodleBosses/releases/download/v0.9.4/DoodleBosses.zip"
+      "sha256": "8B5F24B6812B93CD304EA3A069DA3BD66CD6A6065A6A653F82A4417BC0DD9F73",
+      "url": "https://github.com/thegodfriend/DoodleBosses/releases/download/v0.9.6/DoodleBosses.zip"
     },
     "dependencies": [],
     "repository": "https://github.com/thegodfriend/DoodleBosses",
@@ -6724,11 +6724,11 @@
   },
   "MoreStags": {
     "description": "A Randomizer connection which adds new stag stations",
-    "version": "1.0.3.1",
+    "version": "1.1.0.0",
     "links": {
       "type": "universal",
-      "sha256": "63EB3B47CFCD9E049856F7B03053D877C6AC159A0DD3CC92AA9F50ACA2CA388D",
-      "url": "https://github.com/TheMathGeek314/MoreStags/releases/download/v1.0.3.1/MoreStags.zip"
+      "sha256": "EC9E10CAD483E85B69CC43E05311C259DC9C54AD3FE96441F24007F7A58BD98E",
+      "url": "https://github.com/TheMathGeek314/MoreStags/releases/download/v1.1.0.0/MoreStags.zip"
     },
     "dependencies": [
       "AlreadyEnoughPlayMaker",

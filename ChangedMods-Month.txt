@@ -1,6 +1,3 @@
-AuraRad
-EverySceneUtil
-TheRealTransitionRando
 DanielSteginkUtils
 EverySceneUtil
 SFCore
@@ -27,3 +24,7 @@ SpriteToggler
 Vampire Knight
 GodhomeQoL
 ReplayLogger
+BlueSR_OST
+CorpseDreamRando
+DoodleBosses
+MoreStags

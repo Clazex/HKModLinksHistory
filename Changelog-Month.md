@@ -9,19 +9,9 @@
 - Tags
   + Cosmetic
 
-### AuraRad
-
-- Description: Absolute Radiance Mod Boss
-- Dependencies
-  + ModCommon
-  + SFCore
-  + Satchel
-- Tags
-  + Boss
-
 ### BlueSR_OST
 
-- Description: Replaces the OSTs in Greenpath, Fungal Wastes and Sealed Vessel fight with BlueSR&#x27;s version.
+- Description: Replaces the Sound Tracks in Greenpath, Fungal Wastes and Sealed Vessel fight with BlueSR&#x27;s version.
 - Tags
   + Cosmetic
 
@@ -85,13 +75,21 @@
 
 - Version: 1.18.0.3 -> 1.18.0.4
 
+### CorpseDreamRando
+
+- Version: 1.0.1.0 -> 1.0.2.0
+
 ### DanielSteginkUtils
 
 - Version: 1.5.0.0 -> 1.5.1.0
 
+### DoodleBosses
+
+- Version: 0.9.4.0 -> 0.9.6.0
+
 ### EverySceneUtil
 
-- Version: 1.0.0.0 -> 1.2.0.0
+- Version: 1.1.0.0 -> 1.2.0.0
 
 ### GodhomeQoL
 
@@ -109,7 +107,7 @@
 
 ### MoreStags
 
-- Version: 1.0.2.0 -> 1.0.3.1
+- Version: 1.0.2.0 -> 1.1.0.0
 
 ### ReplayLogger
 
@@ -133,10 +131,6 @@
 ### StubbornKnight
 
 - Version: 1.0.0.0 -> 1.1.0.0
-
-### TheRealTransitionRando
-
-- Version: 1.0.1.0 -> 1.0.1.1
 
 ### VoidAndSoul
 

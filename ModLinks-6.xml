@@ -4,6 +4,27 @@
     xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
     xsi:schemaLocation="https://github.com/HollowKnight-Modding/HollowKnight.ModLinks/HollowKnight.ModManager https://raw.githubusercontent.com/HollowKnight-Modding/HollowKnight.ModLinks/main/Schemas/ModLinks.xml">
     <Manifest>
+        <Name>Vampire Knight</Name>
+        <Description>A.. BLOODSUCKING will!</Description>
+        <Version>26.4.0.0</Version>
+        <Link SHA256="9B5398225132BB1D1FD9D9509F26BB8B9F3BB104A67B0E1298C306BDC0718AAF"><![CDATA[https://github.com/golddemon1973/VampireKnight/releases/download/v26.4.0.0/VampireKnight.zip]]></Link>
+        <Dependencies>
+            <Dependency>Satchel</Dependency>
+        </Dependencies>
+        <Repository>
+            <![CDATA[https://github.com/golddemon1973/VampireKnight]]>
+        </Repository>
+        <Issues>
+            <![CDATA[https://github.com/golddemon1973/VampireKnight/issues]]>
+        </Issues>
+        <Tags>
+            <Tag>Gameplay</Tag>
+        </Tags>
+        <Authors>
+            <Author>ivory</Author>
+        </Authors>
+    </Manifest>
+    <Manifest>
         <Name>BlueSR_OST</Name>
         <DisplayName>BlueSR_OST</DisplayName>
         <Description>Replaces the OSTs in Greenpath, Fungal Wastes and Sealed Vessel fight with BlueSR's version.</Description>
@@ -951,8 +972,8 @@ Not recommended for use in new mods.</Description>
     <Manifest>
         <Name>MoreStags</Name>
         <Description>A Randomizer connection which adds new stag stations</Description>
-        <Version>1.0.3.0</Version>
-        <Link SHA256="335D403F43F2796F89C4A94502BAAB7268C6258D3C64C2BAD5217900A5DC47F2"><![CDATA[https://github.com/TheMathGeek314/MoreStags/releases/download/v1.0.3.0/MoreStags.zip]]></Link>
+        <Version>1.0.3.1</Version>
+        <Link SHA256="63EB3B47CFCD9E049856F7B03053D877C6AC159A0DD3CC92AA9F50ACA2CA388D"><![CDATA[https://github.com/TheMathGeek314/MoreStags/releases/download/v1.0.3.1/MoreStags.zip]]></Link>
         <Dependencies>
             <Dependency>AlreadyEnoughPlayMaker</Dependency>
             <Dependency>ItemChanger</Dependency>
@@ -11671,6 +11692,22 @@ Enjoy!</Description>
         </Tags>
         <Authors>
             <Author>Raspy</Author>
+        </Authors>
+    </Manifest>
+    <Manifest>
+        <Name>Vietnamese Lang</Name>
+        <Description>Add Vietnamese Language. Hollow Knight Việt Hoá</Description>
+        <Version>1.0.0.0</Version>
+        <Link SHA256="c1bd3fdb06ba86977dc23174e4e4f32a37b9827bb9827b8a70679662354b4290"><![CDATA[https://codeberg.org/hien-ngo29/HollowKnightVietnameseLangMod/releases/download/v1.0.0.0/HKVietHoa.zip]]></Link>
+        <Dependencies>
+            <Dependency>LanguageSupport</Dependency>
+        </Dependencies>
+        <Repository><![CDATA[https://codeberg.org/hien-ngo29/HollowKnightVietnameseLangMod]]></Repository>
+        <Tags>
+            <Tag>Gameplay</Tag>
+        </Tags>
+        <Authors>
+            <Author>Hien Ngo</Author>
         </Authors>
     </Manifest>
 </ModLinks>
