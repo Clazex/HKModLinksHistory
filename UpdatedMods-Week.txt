@@ -1,4 +1,3 @@
-MoreStags
 Vampire Knight
 Vampire Knight
 GodhomeQoL
@@ -7,3 +6,4 @@ BlueSR_OST
 CorpseDreamRando
 DoodleBosses
 MoreStags
+LanguageSupport

@@ -3029,6 +3029,26 @@
       "Acu1000"
     ]
   },
+  "EdgeDetection": {
+    "description": "An accessibility mod that adds customizable edge detection to things that are important for gameplay.",
+    "version": "1.0.0.0",
+    "links": {
+      "type": "universal",
+      "sha256": "4B3804543ED4371ECCB815A1F3F20832B724EA38B12CD86916E23F7742547897",
+      "url": "https://github.com/kaycodes13/HollowKnight.EdgeDetection/releases/download/v1.0.0.0/EdgeDetection.zip"
+    },
+    "dependencies": [
+      "Satchel"
+    ],
+    "repository": "https://github.com/kaycodes13/HollowKnight.EdgeDetection",
+    "issues": "https://github.com/kaycodes13/HollowKnight.EdgeDetection/issues",
+    "tags": [
+      "Accessibility"
+    ],
+    "authors": [
+      "kaycodes13"
+    ]
+  },
   "Elderbugnest": {
     "description": "Replaces a bunch of NPCs with the sweet old friend",
     "version": "1.0.1.1",
@@ -5716,11 +5736,11 @@
   },
   "LanguageSupport": {
     "description": "Allows additional languages to be supported. Doesn't allow for some characters of other languages yet.",
-    "version": "1.5.1.0",
+    "version": "1.5.1.6",
     "links": {
       "type": "universal",
-      "sha256": "F1C9853EFF0361019DCAEE19CE652EB972127C08711701E71D5C79C679F99609",
-      "url": "https://github.com/SFGrenade/LanguageSupport/releases/download/v1.5.1/LanguageSupport.zip"
+      "sha256": "96130F5639ED953C495DFBA4D6D3FE56049427A973BE9B74988B119C802A5940",
+      "url": "https://github.com/SFGrenade/LanguageSupport/releases/download/v1.5.1.6/LanguageSupport.zip"
     },
     "dependencies": [
       "SFCore"

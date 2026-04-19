@@ -1,6 +1,3 @@
-MoreStags
-Vampire Knight
-Vietnamese Lang
 Vampire Knight
 LoadRandomizer
 SpriteToggler
@@ -11,3 +8,5 @@ BlueSR_OST
 CorpseDreamRando
 DoodleBosses
 MoreStags
+EdgeDetection
+LanguageSupport

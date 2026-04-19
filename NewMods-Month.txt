@@ -6,3 +6,4 @@ Vampire Knight
 Vietnamese Lang
 LoadRandomizer
 SpriteToggler
+EdgeDetection

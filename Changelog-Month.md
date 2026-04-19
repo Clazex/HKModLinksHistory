@@ -15,6 +15,14 @@
 - Tags
   + Cosmetic
 
+### EdgeDetection
+
+- Description: An accessibility mod that adds customizable edge detection to things that are important for gameplay.
+- Dependencies
+  + Satchel
+- Tags
+  + Accessibility
+
 ### LoadRandomizer
 
 - Description: Randomizes load times from 0 to 10, weighted towards lower values.
@@ -79,10 +87,6 @@
 
 - Version: 1.0.1.0 -> 1.0.2.0
 
-### DanielSteginkUtils
-
-- Version: 1.5.0.0 -> 1.5.1.0
-
 ### DoodleBosses
 
 - Version: 0.9.4.0 -> 0.9.6.0
@@ -100,6 +104,10 @@
 - Dependencies
   + Removed
     - SFCore
+
+### LanguageSupport
+
+- Version: 1.5.1.0 -> 1.5.1.6
 
 ### Less Flashing Lights
 
