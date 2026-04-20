@@ -1,4 +1,3 @@
-Vampire Knight
 LoadRandomizer
 SpriteToggler
 Vampire Knight
@@ -10,3 +9,4 @@ DoodleBosses
 MoreStags
 EdgeDetection
 LanguageSupport
+MoreStags

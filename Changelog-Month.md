@@ -91,10 +91,6 @@
 
 - Version: 0.9.4.0 -> 0.9.6.0
 
-### EverySceneUtil
-
-- Version: 1.1.0.0 -> 1.2.0.0
-
 ### GodhomeQoL
 
 - Version: 1.0.0.9 -> 1.0.1.1
@@ -115,7 +111,7 @@
 
 ### MoreStags
 
-- Version: 1.0.2.0 -> 1.1.0.0
+- Version: 1.0.2.0 -> 1.1.0.1
 
 ### ReplayLogger
 

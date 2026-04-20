@@ -57,7 +57,7 @@
 
 ### MoreStags
 
-- Version: 1.0.3.1 -> 1.1.0.0
+- Version: 1.0.3.1 -> 1.1.0.1
 
 ### ReplayLogger
 
@@ -65,5 +65,5 @@
 
 ### Vampire Knight
 
-- Version: 26.4.0.0 -> 26.4.4.0
+- Version: 26.4.3.0 -> 26.4.4.0
 

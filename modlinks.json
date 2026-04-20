@@ -6744,11 +6744,11 @@
   },
   "MoreStags": {
     "description": "A Randomizer connection which adds new stag stations",
-    "version": "1.1.0.0",
+    "version": "1.1.0.1",
     "links": {
       "type": "universal",
-      "sha256": "EC9E10CAD483E85B69CC43E05311C259DC9C54AD3FE96441F24007F7A58BD98E",
-      "url": "https://github.com/TheMathGeek314/MoreStags/releases/download/v1.1.0.0/MoreStags.zip"
+      "sha256": "C2A34D729B5DE96E966FDFCC244147A79607B49D4348D6B99F56375C0A1049B8",
+      "url": "https://github.com/TheMathGeek314/MoreStags/releases/download/v1.1.0.1/MoreStags.zip"
     },
     "dependencies": [
       "AlreadyEnoughPlayMaker",

@@ -1,14 +1,13 @@
 # Changelog
 
 
-## New mods
+## Updated mods
 
-### Uumuu Hack
+### ShadeSnail
 
-- Description: This mod would make Uumuu only attack for once before Quirrel pops its shield from the second cycle on.
-- Dependencies
-  + Vasi
-- Tags
-  + Boss
-  + Gameplay
+- Version: 1.2.0.0 -> 1.3.0.0
+
+### VoidAndSoul
+
+- Version: 1.0.1.1 -> 1.0.2.0
 
