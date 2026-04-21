@@ -1,5 +1,3 @@
-LoadRandomizer
-SpriteToggler
 Vampire Knight
 GodhomeQoL
 ReplayLogger
@@ -10,3 +8,6 @@ MoreStags
 EdgeDetection
 LanguageSupport
 MoreStags
+Archipelago
+Archipelago Map Mod
+EdgeDetection

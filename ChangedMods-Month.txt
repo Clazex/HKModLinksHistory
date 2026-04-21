@@ -29,3 +29,6 @@ MoreStags
 EdgeDetection
 LanguageSupport
 MoreStags
+Archipelago
+Archipelago Map Mod
+EdgeDetection

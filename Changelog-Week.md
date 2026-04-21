@@ -5,26 +5,22 @@
 
 ### EdgeDetection
 
-- Description: An accessibility mod that adds customizable edge detection to things that are important for gameplay.
+- Description: An accessibility mod that adds customizable edge detection outlines to things that are important for gameplay.
 - Dependencies
   + Satchel
 - Tags
   + Accessibility
 
-### LoadRandomizer
-
-- Description: Randomizes load times from 0 to 10, weighted towards lower values.
-- Dependencies
-  + LoadNormalizer
-
-### SpriteToggler
-
-- Description: Toggles sprites on objects defined in the settings (single &quot;OC Backboard&quot; by default) on F10 (configurable). You can find object names using Unity Explorer
-- Tags
-  + Utility
-
 
 ## Updated mods
+
+### Archipelago
+
+- Version: 0.11.1.0 -> 0.12.0.0
+
+### Archipelago Map Mod
+
+- Version: 3.3.1.0 -> 3.4.0.0
 
 ### BlueSR_OST
 

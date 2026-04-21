@@ -237,7 +237,7 @@
       "url": "https://github.com/danielstegink/HollowKnight.AllGrubRewardsAtOnce/releases/download/1.0.0.0/AllGrubRewardsAtOnce.zip"
     },
     "dependencies": [
-      "Satchel"
+      "SFCore"
     ],
     "repository": "https://github.com/danielstegink/HollowKnight.AllGrubRewardsAtOnce",
     "tags": [
@@ -446,11 +446,11 @@
   },
   "Archipelago": {
     "description": "Enables play with the Archipelago multiworld system.",
-    "version": "0.11.1.0",
+    "version": "0.12.0.0",
     "links": {
       "type": "universal",
-      "sha256": "60369235EC84249668CCFCD1B5B680EAD588E1AAA7F049F3DB259B017B574C29",
-      "url": "https://github.com/ArchipelagoMW-HollowKnight/Archipelago.HollowKnight/releases/download/v0.11.1/Archipelago.zip"
+      "sha256": "F54FB0972129028393A174DAEFA159D64A83C71789E2FD5F59583C856231D611",
+      "url": "https://github.com/ArchipelagoMW-HollowKnight/Archipelago.HollowKnight/releases/download/v0.12.0/Archipelago.zip"
     },
     "dependencies": [
       "Benchwarp",
@@ -462,11 +462,11 @@
   },
   "Archipelago Map Mod": {
     "description": "A conversion of RandoMapMod that works with the Archipelago multiworld randomizer",
-    "version": "3.3.1.0",
+    "version": "3.4.0.0",
     "links": {
       "type": "universal",
-      "sha256": "F62464C16AC86B23BEDAD693514229EE4A8CF419C770445B13A85136FA6B8164",
-      "url": "https://github.com/ArchipelagoMW-HollowKnight/Archipelago.APMapMod/releases/download/v3.3.1/Archipelago.Map.Mod.zip"
+      "sha256": "03849C8E34E61E49AF74D7CD763DA2E09D78DBF3571CBAE1178196813F630DF4",
+      "url": "https://github.com/ArchipelagoMW-HollowKnight/Archipelago.APMapMod/releases/download/v3.4.0/Archipelago.Map.Mod.zip"
     },
     "dependencies": [
       "Archipelago",
@@ -3030,12 +3030,12 @@
     ]
   },
   "EdgeDetection": {
-    "description": "An accessibility mod that adds customizable edge detection to things that are important for gameplay.",
-    "version": "1.0.0.0",
+    "description": "An accessibility mod that adds customizable edge detection outlines to things that are important for gameplay.",
+    "version": "1.0.1.0",
     "links": {
       "type": "universal",
-      "sha256": "4B3804543ED4371ECCB815A1F3F20832B724EA38B12CD86916E23F7742547897",
-      "url": "https://github.com/kaycodes13/HollowKnight.EdgeDetection/releases/download/v1.0.0.0/EdgeDetection.zip"
+      "sha256": "E41B615DEE57BE32F86EFCCC27A740E248A05E147CFB45A5552D842BBE374894",
+      "url": "https://github.com/kaycodes13/HollowKnight.EdgeDetection/releases/download/v1.0.1.0/EdgeDetection.zip"
     },
     "dependencies": [
       "Satchel"

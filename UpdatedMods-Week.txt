@@ -7,3 +7,6 @@ DoodleBosses
 MoreStags
 LanguageSupport
 MoreStags
+Archipelago
+Archipelago Map Mod
+EdgeDetection
