@@ -29,6 +29,17 @@
 - Dependencies
   + LoadNormalizer
 
+### NotBackgroundObjectRando
+
+- Description: What no Silksong does to a community
+- Dependencies
+  + ItemChanger
+  + MenuChanger
+  + Randomizer 4
+  + RandomizerCore
+- Integrations
+  + RandoSettingsManager
+
 ### ResurrectionMod
 
 - Description: Adds a downed state instead of death, allowing teammates to revive you in HKMP. Features a configurable Force Respawn key.

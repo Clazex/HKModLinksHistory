@@ -7,3 +7,4 @@ Vietnamese Lang
 LoadRandomizer
 SpriteToggler
 EdgeDetection
+NotBackgroundObjectRando

@@ -11,6 +11,17 @@
 - Tags
   + Accessibility
 
+### NotBackgroundObjectRando
+
+- Description: What no Silksong does to a community
+- Dependencies
+  + ItemChanger
+  + MenuChanger
+  + Randomizer 4
+  + RandomizerCore
+- Integrations
+  + RandoSettingsManager
+
 
 ## Updated mods
 
@@ -58,8 +69,4 @@
 ### ReplayLogger
 
 - Version: 1.1.0.0 -> 1.1.0.1
-
-### Vampire Knight
-
-- Version: 26.4.3.0 -> 26.4.4.0
 
