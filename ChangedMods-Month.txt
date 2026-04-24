@@ -33,3 +33,9 @@ Archipelago
 Archipelago Map Mod
 EdgeDetection
 NotBackgroundObjectRando
+BingoAdvancedCustomGeneration
+BingoBoardReplay
+BingoSync
+GodhomeQoL
+MoreStags
+ReplayLogger

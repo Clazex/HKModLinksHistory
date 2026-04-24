@@ -23,3 +23,9 @@ MoreStags
 Archipelago
 Archipelago Map Mod
 EdgeDetection
+BingoAdvancedCustomGeneration
+BingoBoardReplay
+BingoSync
+GodhomeQoL
+MoreStags
+ReplayLogger

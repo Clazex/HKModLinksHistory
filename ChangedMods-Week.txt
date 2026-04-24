@@ -1,7 +1,3 @@
-BlueSR_OST
-CorpseDreamRando
-DoodleBosses
-MoreStags
 EdgeDetection
 LanguageSupport
 MoreStags
@@ -9,3 +5,9 @@ Archipelago
 Archipelago Map Mod
 EdgeDetection
 NotBackgroundObjectRando
+BingoAdvancedCustomGeneration
+BingoBoardReplay
+BingoSync
+GodhomeQoL
+MoreStags
+ReplayLogger

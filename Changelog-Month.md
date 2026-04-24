@@ -102,6 +102,18 @@
 
 - Version: 1.18.0.3 -> 1.18.0.4
 
+### BingoAdvancedCustomGeneration
+
+- Version: 1.1.0.0 -> 1.1.1.0
+
+### BingoBoardReplay
+
+- Version: 1.3.1.0 -> 1.3.4.4
+
+### BingoSync
+
+- Version: 1.4.4.5 -> 1.4.5.5
+
 ### CorpseDreamRando
 
 - Version: 1.0.1.0 -> 1.0.2.0
@@ -112,7 +124,7 @@
 
 ### GodhomeQoL
 
-- Version: 1.0.0.9 -> 1.0.1.1
+- Version: 1.0.0.9 -> 1.0.1.2
 - Description
   + Old: This mod is useful for challenge runners who don&#x27;t want their runs to be accidentally affected by QoL mods.
   + New: This mod is a large collection of tools designed to help challenge runners with their tasks.
@@ -130,11 +142,11 @@
 
 ### MoreStags
 
-- Version: 1.0.2.0 -> 1.1.0.1
+- Version: 1.0.2.0 -> 1.1.0.2
 
 ### ReplayLogger
 
-- Version: 1.1.0.0 -> 1.1.0.1
+- Version: 1.1.0.0 -> 1.1.0.3
 
 ### ReplayTimerMod
 
