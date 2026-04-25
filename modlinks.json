@@ -905,6 +905,25 @@
       "TheMathGeek_314"
     ]
   },
+  "BingoGoalPackSpleengy": {
+    "description": "An alternate bingo goalpack designed for the lockout format",
+    "version": "1.0.0.0",
+    "links": {
+      "type": "universal",
+      "sha256": "1BA9F902CE26971BDD23B73EB4CC5397A2C6D02952D063BF3AC411FDFAF13589",
+      "url": "https://github.com/notahumanhand/BingoGoalPackSpleengy/releases/download/1.0/BingoGoalPackSpleengy.zip"
+    },
+    "dependencies": [
+      "BingoAdvancedCustomGeneration",
+      "BingoGoalPack1",
+      "BingoSync"
+    ],
+    "repository": "https://github.com/notahumanhand/BingoGoalPackSpleengy",
+    "authors": [
+      "TheMathGeek_314",
+      "spleen"
+    ]
+  },
   "BingoSync": {
     "description": "A Hollow Knight mod that automatically marks squares on bingosync.com",
     "version": "1.4.5.5",

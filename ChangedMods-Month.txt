@@ -39,3 +39,4 @@ BingoSync
 GodhomeQoL
 MoreStags
 ReplayLogger
+BingoGoalPackSpleengy

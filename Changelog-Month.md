@@ -9,6 +9,14 @@
 - Tags
   + Cosmetic
 
+### BingoGoalPackSpleengy
+
+- Description: An alternate bingo goalpack designed for the lockout format
+- Dependencies
+  + BingoAdvancedCustomGeneration
+  + BingoGoalPack1
+  + BingoSync
+
 ### BlueSR_OST
 
 - Description: Replaces the Sound Tracks in Greenpath, Fungal Wastes and Sealed Vessel fight with BlueSR&#x27;s version.

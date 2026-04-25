@@ -1,5 +1,3 @@
-EdgeDetection
-LanguageSupport
 MoreStags
 Archipelago
 Archipelago Map Mod
@@ -11,3 +9,4 @@ BingoSync
 GodhomeQoL
 MoreStags
 ReplayLogger
+BingoGoalPackSpleengy

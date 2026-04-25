@@ -8,3 +8,4 @@ LoadRandomizer
 SpriteToggler
 EdgeDetection
 NotBackgroundObjectRando
+BingoGoalPackSpleengy

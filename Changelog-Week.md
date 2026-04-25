@@ -3,13 +3,13 @@
 
 ## New mods
 
-### EdgeDetection
+### BingoGoalPackSpleengy
 
-- Description: An accessibility mod that adds customizable edge detection outlines to things that are important for gameplay.
+- Description: An alternate bingo goalpack designed for the lockout format
 - Dependencies
-  + Satchel
-- Tags
-  + Accessibility
+  + BingoAdvancedCustomGeneration
+  + BingoGoalPack1
+  + BingoSync
 
 ### NotBackgroundObjectRando
 
@@ -45,13 +45,16 @@
 
 - Version: 1.4.4.5 -> 1.4.5.5
 
+### EdgeDetection
+
+- Version: 1.0.0.0 -> 1.0.1.0
+- Description
+  + Old: An accessibility mod that adds customizable edge detection to things that are important for gameplay.
+  + New: An accessibility mod that adds customizable edge detection outlines to things that are important for gameplay.
+
 ### GodhomeQoL
 
 - Version: 1.0.1.1 -> 1.0.1.2
-
-### LanguageSupport
-
-- Version: 1.5.1.0 -> 1.5.1.6
 
 ### MoreStags
 

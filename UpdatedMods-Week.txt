@@ -1,4 +1,3 @@
-LanguageSupport
 MoreStags
 Archipelago
 Archipelago Map Mod
