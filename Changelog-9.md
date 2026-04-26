@@ -3,17 +3,22 @@
 
 ## Updated mods
 
-### GodhomeQoL
+### BlueSR_OST
 
-- Version: 1.0.0.9 -> 1.0.1.1
+- Version: 1.0.0.0 -> 1.2.0.0
 - Description
-  + Old: This mod is useful for challenge runners who don&#x27;t want their runs to be accidentally affected by QoL mods.
-  + New: This mod is a large collection of tools designed to help challenge runners with their tasks.
-- Dependencies
-  + Removed
-    - SFCore
+  + Old: Replaces the OSTs in Greenpath, Fungal Wastes and Sealed Vessel fight with BlueSR&#x27;s version.
+  + New: Replaces the Sound Tracks in Greenpath, Fungal Wastes and Sealed Vessel fight with BlueSR&#x27;s version.
 
-### ReplayLogger
+### CorpseDreamRando
 
-- Version: 1.1.0.0 -> 1.1.0.1
+- Version: 1.0.1.0 -> 1.0.2.0
+
+### DoodleBosses
+
+- Version: 0.9.4.0 -> 0.9.6.0
+
+### MoreStags
+
+- Version: 1.0.3.1 -> 1.1.0.0
 

@@ -9,3 +9,4 @@ SpriteToggler
 EdgeDetection
 NotBackgroundObjectRando
 BingoGoalPackSpleengy
+Charm Loadouts

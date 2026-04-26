@@ -1,4 +1,3 @@
-MoreStags
 Archipelago
 Archipelago Map Mod
 EdgeDetection

@@ -11,6 +11,14 @@
   + BingoGoalPack1
   + BingoSync
 
+### Charm Loadouts
+
+- Description: Allows you to save and load up to 3 charm builds while resting at a bench.
+- Dependencies
+  + Satchel
+- Tags
+  + Gameplay
+
 ### NotBackgroundObjectRando
 
 - Description: What no Silksong does to a community
@@ -58,7 +66,7 @@
 
 ### MoreStags
 
-- Version: 1.1.0.0 -> 1.1.0.2
+- Version: 1.1.0.1 -> 1.1.0.2
 
 ### ReplayLogger
 

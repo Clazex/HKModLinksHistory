@@ -23,6 +23,14 @@
 - Tags
   + Cosmetic
 
+### Charm Loadouts
+
+- Description: Allows you to save and load up to 3 charm builds while resting at a bench.
+- Dependencies
+  + Satchel
+- Tags
+  + Gameplay
+
 ### EdgeDetection
 
 - Description: An accessibility mod that adds customizable edge detection outlines to things that are important for gameplay.
@@ -162,10 +170,6 @@
 - Description
   + Old: Records your best time through each room and plays it back as a ghost on your next attempt.
   + New: Records your best times through each room and plays it back as a ghost on your next attempt.
-
-### SFCore
-
-- Version: 1.5.16.1 -> 1.5.16.2
 
 ### ShadeSnail
 
