@@ -1,4 +1,3 @@
-AlphabetRando
 Less Flashing Lights
 MoreStags
 ReplayTimerMod
@@ -28,3 +27,4 @@ BingoSync
 GodhomeQoL
 MoreStags
 ReplayLogger
+VendorRando

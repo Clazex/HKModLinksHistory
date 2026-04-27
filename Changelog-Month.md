@@ -99,13 +99,6 @@
 
 ## Updated mods
 
-### AlphabetRando
-
-- Version: 1.1.1.0 -> 1.2.0.0
-- Dependencies
-  + Added
-    - Satchel
-
 ### Archipelago
 
 - Version: 0.11.1.0 -> 0.12.0.0
@@ -178,6 +171,10 @@
 ### StubbornKnight
 
 - Version: 1.0.0.0 -> 1.1.0.0
+
+### VendorRando
+
+- Version: 1.1.2.0 -> 1.1.3.0
 
 ### VoidAndSoul
 

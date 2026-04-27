@@ -33,14 +33,6 @@
 
 ## Updated mods
 
-### Archipelago
-
-- Version: 0.11.1.0 -> 0.12.0.0
-
-### Archipelago Map Mod
-
-- Version: 3.3.1.0 -> 3.4.0.0
-
 ### BingoAdvancedCustomGeneration
 
 - Version: 1.1.0.0 -> 1.1.1.0
@@ -53,13 +45,6 @@
 
 - Version: 1.4.4.5 -> 1.4.5.5
 
-### EdgeDetection
-
-- Version: 1.0.0.0 -> 1.0.1.0
-- Description
-  + Old: An accessibility mod that adds customizable edge detection to things that are important for gameplay.
-  + New: An accessibility mod that adds customizable edge detection outlines to things that are important for gameplay.
-
 ### GodhomeQoL
 
 - Version: 1.0.1.1 -> 1.0.1.2
@@ -71,4 +56,8 @@
 ### ReplayLogger
 
 - Version: 1.1.0.1 -> 1.1.0.3
+
+### VendorRando
+
+- Version: 1.1.2.0 -> 1.1.3.0
 
