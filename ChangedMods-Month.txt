@@ -40,3 +40,4 @@ ReplayLogger
 BingoGoalPackSpleengy
 Charm Loadouts
 VendorRando
+Shared Health

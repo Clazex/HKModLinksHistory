@@ -9370,11 +9370,11 @@
   },
   "Shared Health": {
     "description": "A HKMP addon to synchronize damage and healing across teams.",
-    "version": "1.0.1.0",
+    "version": "1.0.2.0",
     "links": {
       "type": "universal",
-      "sha256": "064264ED357AD1E885AFC27ADA2D8A3575285E318FF06290B702CFF06948BE6D",
-      "url": "https://github.com/Charcoal2000/SharedHealth/releases/download/1.0.1.0/SharedHealth.zip"
+      "sha256": "DE4E3FD5942EE10010DC7258B1B898DF78AF00F4FAEC4E52F3C24B703CEFBE8A",
+      "url": "https://github.com/Charcoal2000/SharedHealth/releases/download/1.0.2.0/SharedHealth.zip"
     },
     "dependencies": [
       "HKMP",

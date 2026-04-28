@@ -5,3 +5,4 @@ GodhomeQoL
 MoreStags
 ReplayLogger
 VendorRando
+Shared Health

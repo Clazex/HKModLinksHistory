@@ -1,3 +1,1 @@
-Archipelago
-Archipelago Map Mod
-EdgeDetection
+NotBackgroundObjectRando
