@@ -1,6 +1,3 @@
-Less Flashing Lights
-MoreStags
-ReplayTimerMod
 Uumuu Hack
 ShadeSnail
 VoidAndSoul
@@ -41,3 +38,4 @@ BingoGoalPackSpleengy
 Charm Loadouts
 VendorRando
 Shared Health
+RgbRando

@@ -1,10 +1,5 @@
-BingoAdvancedCustomGeneration
-BingoBoardReplay
-BingoSync
-GodhomeQoL
-MoreStags
-ReplayLogger
 BingoGoalPackSpleengy
 Charm Loadouts
 VendorRando
 Shared Health
+RgbRando

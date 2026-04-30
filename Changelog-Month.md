@@ -145,24 +145,17 @@
 
 - Version: 1.5.1.0 -> 1.5.1.6
 
-### Less Flashing Lights
-
-- Version: 1.0.1.0 -> 1.0.2.0
-
 ### MoreStags
 
-- Version: 1.0.2.0 -> 1.1.0.2
+- Version: 1.0.3.0 -> 1.1.0.2
 
 ### ReplayLogger
 
 - Version: 1.1.0.0 -> 1.1.0.3
 
-### ReplayTimerMod
+### RgbRando
 
-- Version: 0.2.0.0 -> 0.3.0.0
-- Description
-  + Old: Records your best time through each room and plays it back as a ghost on your next attempt.
-  + New: Records your best times through each room and plays it back as a ghost on your next attempt.
+- Version: 1.0.0.0 -> 1.1.0.0
 
 ### ShadeSnail
 

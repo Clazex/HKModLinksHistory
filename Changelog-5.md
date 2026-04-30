@@ -3,11 +3,11 @@
 
 ## New mods
 
-### BingoGoalPackSpleengy
+### Charm Loadouts
 
-- Description: An alternate bingo goalpack designed for the lockout format
+- Description: Allows you to save and load up to 3 charm builds while resting at a bench.
 - Dependencies
-  + BingoAdvancedCustomGeneration
-  + BingoGoalPack1
-  + BingoSync
+  + Satchel
+- Tags
+  + Gameplay
 
