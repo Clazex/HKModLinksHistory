@@ -1,1 +1,2 @@
-Vampire Knight
+GodhomeQoL
+ReplayLogger

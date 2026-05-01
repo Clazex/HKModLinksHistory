@@ -7330,17 +7330,18 @@
   },
   "NotBackgroundObjectRando": {
     "description": "What no Silksong does to a community",
-    "version": "1.0.0.0",
+    "version": "1.0.1.0",
     "links": {
       "type": "universal",
-      "sha256": "39D36B4EC2781B070A9477E6D2C00CD39BF16540685FA217972D7C65B1612377",
-      "url": "https://github.com/TheMathGeek314/NotBackgroundObjectRando/releases/download/v1.0.0.0/NotBackgroundObjectRando.zip"
+      "sha256": "4EB3B48686AC0BF19F5BD48C5B9F563EA8CD3BAC09C7E9D0DF9DA045ACBB42B9",
+      "url": "https://github.com/TheMathGeek314/NotBackgroundObjectRando/releases/download/v1.0.1.0/NotBackgroundObjectRando.zip"
     },
     "dependencies": [
       "ItemChanger",
       "MenuChanger",
       "Randomizer 4",
-      "RandomizerCore"
+      "RandomizerCore",
+      "RandomizerCore.Json"
     ],
     "repository": "https://github.com/TheMathGeek314/NotBackgroundObjectRando/",
     "integrations": [
@@ -11101,11 +11102,11 @@
   },
   "YetAnotherRandoConnection": {
     "description": "A Randomizer add-on with an assortment of additions",
-    "version": "1.2.1.0",
+    "version": "1.2.2.0",
     "links": {
       "type": "universal",
-      "sha256": "5C199995AA6D0F5406D2FD79BF97CD21CCA541FA0E94795F9B025853F30F8708",
-      "url": "https://github.com/TheMathGeek314/YetAnotherRandoConnection/releases/download/v1.2.1.0/YetAnotherRandoConnection.zip"
+      "sha256": "73658D73CBC6E6DC1F9BECF94EE5DD52814A389FE22CF3C8001F0DCFC81E3BAB",
+      "url": "https://github.com/TheMathGeek314/YetAnotherRandoConnection/releases/download/v1.2.2.0/YetAnotherRandoConnection.zip"
     },
     "dependencies": [
       "ItemChanger",

@@ -27,3 +27,5 @@ ReplayLogger
 VendorRando
 Shared Health
 RgbRando
+NotBackgroundObjectRando
+YetAnotherRandoConnection

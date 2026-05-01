@@ -1,13 +1,9 @@
 # Changelog
 
 
-## New mods
+## Updated mods
 
-### Charm Loadouts
+### VendorRando
 
-- Description: Allows you to save and load up to 3 charm builds while resting at a bench.
-- Dependencies
-  + Satchel
-- Tags
-  + Gameplay
+- Version: 1.1.2.0 -> 1.1.3.0
 

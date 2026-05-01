@@ -3,14 +3,6 @@
 
 ## New mods
 
-### BingoGoalPackSpleengy
-
-- Description: An alternate bingo goalpack designed for the lockout format
-- Dependencies
-  + BingoAdvancedCustomGeneration
-  + BingoGoalPack1
-  + BingoSync
-
 ### Charm Loadouts
 
 - Description: Allows you to save and load up to 3 charm builds while resting at a bench.
@@ -21,6 +13,13 @@
 
 
 ## Updated mods
+
+### NotBackgroundObjectRando
+
+- Version: 1.0.0.0 -> 1.0.1.0
+- Dependencies
+  + Added
+    - RandomizerCore.Json
 
 ### RgbRando
 
@@ -33,4 +32,8 @@
 ### VendorRando
 
 - Version: 1.1.2.0 -> 1.1.3.0
+
+### YetAnotherRandoConnection
+
+- Version: 1.2.1.0 -> 1.2.2.0
 

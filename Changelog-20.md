@@ -1,14 +1,13 @@
 # Changelog
 
 
-## New mods
+## Updated mods
 
-### ResurrectionMod
+### Architect
 
-- Description: Adds a downed state instead of death, allowing teammates to revive you in HKMP. Features a configurable Force Respawn key.
-- Dependencies
-  + HKMP
-- Tags
-  + Gameplay
-  + Utility
+- Version: 1.18.0.3 -> 1.18.0.4
+
+### StubbornKnight
+
+- Version: 1.0.0.0 -> 1.1.0.0
 

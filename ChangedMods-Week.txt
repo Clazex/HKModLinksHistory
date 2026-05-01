@@ -1,5 +1,6 @@
-BingoGoalPackSpleengy
 Charm Loadouts
 VendorRando
 Shared Health
 RgbRando
+NotBackgroundObjectRando
+YetAnotherRandoConnection
