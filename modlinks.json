@@ -177,11 +177,11 @@
   },
   "Ado Death Scream": {
     "description": "Plays Ado's scream when the Knight dies.",
-    "version": "1.0.0.0",
+    "version": "1.2.0.0",
     "links": {
       "type": "universal",
-      "sha256": "4DBDD7554BE042CC2D7074574EEA8CA37C0EFF96CB70A384E4FD49E21C9F9D52",
-      "url": "https://github.com/SaigoNoTanuki/Ado-Death-Scream/releases/download/1.0.0.0/Ado_Death_Scream.zip"
+      "sha256": "494E3D137F4E9D61B927BBB68EF35DC706F86E5D4783C9375AAF859635956C36",
+      "url": "https://github.com/SaigoNoTanuki/Ado-Death-Scream/releases/download/1.2.0/Ado_Death_Scream.zip"
     },
     "dependencies": [],
     "repository": "https://github.com/SaigoNoTanuki/Ado-Death-Scream",
@@ -1135,6 +1135,27 @@
     "authors": [
       "Bentechy66",
       "nerthul11"
+    ]
+  },
+  "Broken Nail": {
+    "description": "Adds a new save mode to hk for the Broken Nail challenge",
+    "version": "1.0.0.0",
+    "links": {
+      "type": "universal",
+      "sha256": "4DC72DDB597D70F7158EE7DF3DE23E5DCFA77E87AC1F519C5F5F3E773AF4B8BC",
+      "url": "https://github.com/Bluescratch7545/Broken-Nail/releases/download/1.0.0.0/Broken_Nail.zip"
+    },
+    "dependencies": [
+      "ItemChanger",
+      "MenuChanger"
+    ],
+    "repository": "https://github.com/Bluescratch7545/Broken-Nail",
+    "issues": "https://github.com/Bluescratch7545/Broken-Nail/issues",
+    "tags": [
+      "Gameplay"
+    ],
+    "authors": [
+      "Bluescratch"
     ]
   },
   "Brothers of Battle": {
@@ -2625,6 +2646,30 @@
       "Utility"
     ]
   },
+  "DeathSync": {
+    "description": "An ItemSync/MultiWorld extension to link your deaths",
+    "version": "1.0.0.0",
+    "links": {
+      "type": "universal",
+      "sha256": "01F7294B226FCF35DBB90FECD9988C23CE05551D36FB1EEA1FA0CC8A965BE177",
+      "url": "https://github.com/TheMathGeek314/DeathSync/releases/download/v1.0.0.0/DeathSync.zip"
+    },
+    "dependencies": [
+      "ItemChanger",
+      "KorzUtils",
+      "MenuChanger",
+      "MultiWorldLib",
+      "Randomizer 4"
+    ],
+    "repository": "https://github.com/TheMathGeek314/DeathSync/",
+    "integrations": [
+      "ItemSync",
+      "MultiWorld"
+    ],
+    "authors": [
+      "TheMathGeek_314"
+    ]
+  },
   "DebugCharms": {
     "description": "A Debug extension specifically for charms",
     "version": "1.0.1.0",
@@ -3069,11 +3114,11 @@
   },
   "EdgeDetection": {
     "description": "An accessibility mod that adds customizable edge detection outlines to things that are important for gameplay.",
-    "version": "1.0.1.0",
+    "version": "1.0.2.0",
     "links": {
       "type": "universal",
-      "sha256": "E41B615DEE57BE32F86EFCCC27A740E248A05E147CFB45A5552D842BBE374894",
-      "url": "https://github.com/kaycodes13/HollowKnight.EdgeDetection/releases/download/v1.0.1.0/EdgeDetection.zip"
+      "sha256": "0E6FD51F2D106B59E2B75D97EFDE3B1A15BC69E1C33103653F5D451BAF504945",
+      "url": "https://github.com/kaycodes13/HollowKnight.EdgeDetection/releases/download/v1.0.2.0/EdgeDetection.zip"
     },
     "dependencies": [
       "Satchel"
@@ -6782,11 +6827,11 @@
   },
   "MoreStags": {
     "description": "A Randomizer connection which adds new stag stations",
-    "version": "1.1.0.2",
+    "version": "1.1.0.3",
     "links": {
       "type": "universal",
-      "sha256": "AB2204A4BF258AD5BB14EAD13A59375C498C16F82190AC44184700B40086C0ED",
-      "url": "https://github.com/TheMathGeek314/MoreStags/releases/download/v1.1.0.2/MoreStags.zip"
+      "sha256": "C614CD35804610320530F9E66E2E36EFD5157FAEE16B7A7DA738F24489A46BAC",
+      "url": "https://github.com/TheMathGeek314/MoreStags/releases/download/v1.1.0.3/MoreStags.zip"
     },
     "dependencies": [
       "AlreadyEnoughPlayMaker",
@@ -11102,11 +11147,11 @@
   },
   "YetAnotherRandoConnection": {
     "description": "A Randomizer add-on with an assortment of additions",
-    "version": "1.2.2.0",
+    "version": "1.2.2.1",
     "links": {
       "type": "universal",
-      "sha256": "73658D73CBC6E6DC1F9BECF94EE5DD52814A389FE22CF3C8001F0DCFC81E3BAB",
-      "url": "https://github.com/TheMathGeek314/YetAnotherRandoConnection/releases/download/v1.2.2.0/YetAnotherRandoConnection.zip"
+      "sha256": "8DB8209B883D027C1B0B414457A93C0A7A37E4EFA9CA8182A1CC24D34753F2B9",
+      "url": "https://github.com/TheMathGeek314/YetAnotherRandoConnection/releases/download/v1.2.2.1/YetAnotherRandoConnection.zip"
     },
     "dependencies": [
       "ItemChanger",

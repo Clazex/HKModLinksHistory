@@ -1,6 +1,11 @@
-Charm Loadouts
 VendorRando
 Shared Health
 RgbRando
 NotBackgroundObjectRando
+YetAnotherRandoConnection
+Ado Death Scream
+Broken Nail
+DeathSync
+EdgeDetection
+MoreStags
 YetAnotherRandoConnection

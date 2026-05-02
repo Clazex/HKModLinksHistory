@@ -1,4 +1,3 @@
-Uumuu Hack
 Ado Death Scream
 BlueSR_OST
 ResurrectionMod
@@ -10,3 +9,5 @@ EdgeDetection
 NotBackgroundObjectRando
 BingoGoalPackSpleengy
 Charm Loadouts
+Broken Nail
+DeathSync

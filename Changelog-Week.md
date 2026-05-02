@@ -3,16 +3,42 @@
 
 ## New mods
 
-### Charm Loadouts
+### Broken Nail
 
-- Description: Allows you to save and load up to 3 charm builds while resting at a bench.
+- Description: Adds a new save mode to hk for the Broken Nail challenge
 - Dependencies
-  + Satchel
+  + ItemChanger
+  + MenuChanger
 - Tags
   + Gameplay
 
+### DeathSync
+
+- Description: An ItemSync/MultiWorld extension to link your deaths
+- Dependencies
+  + ItemChanger
+  + KorzUtils
+  + MenuChanger
+  + MultiWorldLib
+  + Randomizer 4
+- Integrations
+  + ItemSync
+  + MultiWorld
+
 
 ## Updated mods
+
+### Ado Death Scream
+
+- Version: 1.0.0.0 -> 1.2.0.0
+
+### EdgeDetection
+
+- Version: 1.0.1.0 -> 1.0.2.0
+
+### MoreStags
+
+- Version: 1.1.0.2 -> 1.1.0.3
 
 ### NotBackgroundObjectRando
 
@@ -35,5 +61,5 @@
 
 ### YetAnotherRandoConnection
 
-- Version: 1.2.1.0 -> 1.2.2.0
+- Version: 1.2.1.0 -> 1.2.2.1
 

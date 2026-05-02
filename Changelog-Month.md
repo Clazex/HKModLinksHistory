@@ -23,6 +23,15 @@
 - Tags
   + Cosmetic
 
+### Broken Nail
+
+- Description: Adds a new save mode to hk for the Broken Nail challenge
+- Dependencies
+  + ItemChanger
+  + MenuChanger
+- Tags
+  + Gameplay
+
 ### Charm Loadouts
 
 - Description: Allows you to save and load up to 3 charm builds while resting at a bench.
@@ -30,6 +39,19 @@
   + Satchel
 - Tags
   + Gameplay
+
+### DeathSync
+
+- Description: An ItemSync/MultiWorld extension to link your deaths
+- Dependencies
+  + ItemChanger
+  + KorzUtils
+  + MenuChanger
+  + MultiWorldLib
+  + Randomizer 4
+- Integrations
+  + ItemSync
+  + MultiWorld
 
 ### EdgeDetection
 
@@ -71,15 +93,6 @@
 - Description: Toggles sprites on objects defined in the settings (single &quot;OC Backboard&quot; by default) on F10 (configurable). You can find object names using Unity Explorer
 - Tags
   + Utility
-
-### Uumuu Hack
-
-- Description: This mod would make Uumuu only attack for once before Quirrel pops its shield from the second cycle on.
-- Dependencies
-  + Vasi
-- Tags
-  + Boss
-  + Gameplay
 
 ### Vampire Knight
 
@@ -148,7 +161,7 @@
 
 ### MoreStags
 
-- Version: 1.0.3.0 -> 1.1.0.2
+- Version: 1.0.3.0 -> 1.1.0.3
 
 ### ReplayLogger
 
@@ -180,5 +193,5 @@
 
 ### YetAnotherRandoConnection
 
-- Version: 1.2.1.0 -> 1.2.2.0
+- Version: 1.2.1.0 -> 1.2.2.1
 
