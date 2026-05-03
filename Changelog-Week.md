@@ -32,6 +32,10 @@
 
 - Version: 1.0.0.0 -> 1.2.0.0
 
+### DeVect
+
+- Version: 1.0.0.0 -> 2.0.0.0
+
 ### EdgeDetection
 
 - Version: 1.0.1.0 -> 1.0.2.0
@@ -54,10 +58,6 @@
 ### Shared Health
 
 - Version: 1.0.1.0 -> 1.0.2.0
-
-### VendorRando
-
-- Version: 1.1.2.0 -> 1.1.3.0
 
 ### YetAnotherRandoConnection
 

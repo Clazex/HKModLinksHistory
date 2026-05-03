@@ -1,5 +1,3 @@
-ShadeSnail
-VoidAndSoul
 VoidAndSoul
 ShadeSnail
 Ado Death Scream
@@ -46,3 +44,4 @@ DeathSync
 EdgeDetection
 MoreStags
 YetAnotherRandoConnection
+DeVect

@@ -2531,16 +2531,16 @@
   },
   "DeVect": {
     "description": "DeVect, titled 骨杖寂骑人 in Chinese, is a Hollow Knight mod that brings Defect-style orb gameplay from Slay the Spire into the Knight's moveset.",
-    "version": "1.0.0.0",
+    "version": "2.0.0.0",
     "links": {
       "type": "universal",
-      "sha256": "062CD3D4AC19972DDCD68E12E206949A4EDB91B8AD33BD7DDAB041789832C73D",
-      "url": "https://github.com/windplusflower/DeVect/releases/download/v1.0/DeVect.zip"
+      "sha256": "63E83651CA6E8AA860EBDB83DAB5B7B18F9DD81B5B0BB00E4F88A7EAB7DC4D87",
+      "url": "https://github.com/windplusflower/DeVect/releases/download/v2.0/DeVect.zip"
     },
     "dependencies": [
       "Satchel"
     ],
-    "repository": "https://github.com/windplusflower/DeVect",
+    "repository": "https://github.com/windplusflower/DeVect/tree/devect2.0",
     "issues": "https://github.com/windplusflower/DeVect/issues",
     "tags": [
       "Gameplay"

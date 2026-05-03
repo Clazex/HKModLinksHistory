@@ -1,4 +1,3 @@
-VendorRando
 Shared Health
 RgbRando
 NotBackgroundObjectRando
@@ -9,3 +8,4 @@ DeathSync
 EdgeDetection
 MoreStags
 YetAnotherRandoConnection
+DeVect

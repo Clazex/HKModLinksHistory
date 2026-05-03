@@ -1,4 +1,3 @@
-VendorRando
 Shared Health
 RgbRando
 NotBackgroundObjectRando
@@ -7,3 +6,4 @@ Ado Death Scream
 EdgeDetection
 MoreStags
 YetAnotherRandoConnection
+DeVect

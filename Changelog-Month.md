@@ -141,6 +141,10 @@
 
 - Version: 1.0.1.0 -> 1.0.2.0
 
+### DeVect
+
+- Version: 1.0.0.0 -> 2.0.0.0
+
 ### DoodleBosses
 
 - Version: 0.9.4.0 -> 0.9.6.0
@@ -173,7 +177,7 @@
 
 ### ShadeSnail
 
-- Version: 1.2.0.0 -> 1.3.0.1
+- Version: 1.3.0.0 -> 1.3.0.1
 
 ### Shared Health
 
@@ -189,7 +193,7 @@
 
 ### VoidAndSoul
 
-- Version: 1.0.1.1 -> 1.0.2.1
+- Version: 1.0.2.0 -> 1.0.2.1
 
 ### YetAnotherRandoConnection
 

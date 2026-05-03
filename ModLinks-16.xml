@@ -27,9 +27,9 @@
     <Manifest>
         <Name>BlueSR_OST</Name>
         <DisplayName>BlueSR_OST</DisplayName>
-        <Description>Replaces the OSTs in Greenpath, Fungal Wastes and Sealed Vessel fight with BlueSR's version.</Description>
-        <Version>1.0.0.0</Version>
-        <Link SHA256="BF4FE7924B557D19639650ED69AF26F35B707BA7C7DA2118747D4082C4E2CACB"><![CDATA[https://github.com/SaigoNoTanuki/BlueSR-OST/releases/download/1.0.0/BlueSR_OST.zip]]></Link>
+        <Description>Replaces the Sound Tracks in Greenpath, Fungal Wastes and Sealed Vessel fight with BlueSR's version.</Description>
+        <Version>1.2.0.0</Version>
+        <Link SHA256="90EDCAAF6597ED6B79F4863DD28EFCD48E34FC3A4E43ED947845AB0CE39C30BD"><![CDATA[https://github.com/SaigoNoTanuki/BlueSR-OST/releases/download/1.2.0/BlueSR_OST.zip]]></Link>
         <Dependencies />
         <Repository>
             <![CDATA[https://github.com/SaigoNoTanuki/BlueSR-OST]]>
@@ -931,8 +931,8 @@ Not recommended for use in new mods.</Description>
     <Manifest>
         <Name>CorpseDreamRando</Name>
         <Description>A Randomizer connection that adds dream nail dialogue for background corpses</Description>
-        <Version>1.0.1.0</Version>
-        <Link SHA256="625D9CD723CB51D87F9661530AA855463B14A19228B0AC5A813D18C49EC7E9A9"><![CDATA[https://github.com/TheMathGeek314/CorpseDreamRando/releases/download/v1.0.1.0/CorpseDreamRando.zip]]></Link>
+        <Version>1.0.2.0</Version>
+        <Link SHA256="0F223707215F33614B1BD8E7BB5A41D242C12BE2A7D6678CC5418700BCDF0ED0"><![CDATA[https://github.com/TheMathGeek314/CorpseDreamRando/releases/download/v1.0.2.0/CorpseDreamRando.zip]]></Link>
         <Dependencies>
             <Dependency>ItemChanger</Dependency>
             <Dependency>MenuChanger</Dependency>
@@ -990,8 +990,8 @@ Not recommended for use in new mods.</Description>
     <Manifest>
         <Name>MoreStags</Name>
         <Description>A Randomizer connection which adds new stag stations</Description>
-        <Version>1.0.3.1</Version>
-        <Link SHA256="63EB3B47CFCD9E049856F7B03053D877C6AC159A0DD3CC92AA9F50ACA2CA388D"><![CDATA[https://github.com/TheMathGeek314/MoreStags/releases/download/v1.0.3.1/MoreStags.zip]]></Link>
+        <Version>1.1.0.0</Version>
+        <Link SHA256="EC9E10CAD483E85B69CC43E05311C259DC9C54AD3FE96441F24007F7A58BD98E"><![CDATA[https://github.com/TheMathGeek314/MoreStags/releases/download/v1.1.0.0/MoreStags.zip]]></Link>
         <Dependencies>
             <Dependency>AlreadyEnoughPlayMaker</Dependency>
             <Dependency>ItemChanger</Dependency>
@@ -9613,8 +9613,8 @@ Enjoy!</Description>
     <Manifest>
         <Name>DoodleBosses</Name>
         <Description>The culmination of the Doodle Boss project of the HKM community. All the bosses are now adorable doodles! Artist credits can be found in the Readme and in-game.</Description>
-        <Version>0.9.4.0</Version>
-        <Link SHA256="ceb7a506df5c0f888885b4bc9a024a71d5df64d97278047a45e79b4e9f99af02"><![CDATA[https://github.com/thegodfriend/DoodleBosses/releases/download/v0.9.4/DoodleBosses.zip]]></Link>
+        <Version>0.9.6.0</Version>
+        <Link SHA256="8b5f24b6812b93cd304ea3a069da3bd66cd6a6065a6a653f82a4417bc0dd9f73"><![CDATA[https://github.com/thegodfriend/DoodleBosses/releases/download/v0.9.6/DoodleBosses.zip]]></Link>
         <Dependencies></Dependencies>
         <Repository>
             <![CDATA[https://github.com/thegodfriend/DoodleBosses]]>
