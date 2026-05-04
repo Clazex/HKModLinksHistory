@@ -191,10 +191,6 @@
 
 - Version: 1.1.2.0 -> 1.1.3.0
 
-### VoidAndSoul
-
-- Version: 1.0.2.0 -> 1.0.2.1
-
 ### YetAnotherRandoConnection
 
 - Version: 1.2.1.0 -> 1.2.2.1
