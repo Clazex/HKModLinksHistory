@@ -8,3 +8,5 @@ EdgeDetection
 MoreStags
 YetAnotherRandoConnection
 DeVect
+Randomizable Levers
+ReplayTimerMod

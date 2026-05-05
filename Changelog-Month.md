@@ -167,17 +167,21 @@
 
 - Version: 1.0.3.0 -> 1.1.0.3
 
+### Randomizable Levers
+
+- Version: 1.2.6.4 -> 1.2.6.5
+
 ### ReplayLogger
 
 - Version: 1.1.0.0 -> 1.1.0.3
 
+### ReplayTimerMod
+
+- Version: 0.3.0.0 -> 0.4.0.0
+
 ### RgbRando
 
 - Version: 1.0.0.0 -> 1.1.0.0
-
-### ShadeSnail
-
-- Version: 1.3.0.0 -> 1.3.0.1
 
 ### Shared Health
 

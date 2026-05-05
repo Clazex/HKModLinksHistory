@@ -8657,11 +8657,11 @@
   },
   "Randomizable Levers": {
     "description": "Randomizer 4 addon that adds the option to randomize levers. Activate lever rando in the Connections menu of Randomizer 4.",
-    "version": "1.2.6.4",
+    "version": "1.2.6.5",
     "links": {
       "type": "universal",
-      "sha256": "2EE0FD6FDD9DAFDE405F768DCB8803C8563C86DEA39BA725C9A72C25BA13B83D",
-      "url": "https://github.com/flibber-hk/HollowKnight.RandomizableLevers/releases/download/v1.2.6.4/RandomizableLevers.zip"
+      "sha256": "B45CAE7B939141A26177D1FE8DEB3B97304F5B629BBE3C1A641B08CE2D735A20",
+      "url": "https://github.com/flibber-hk/HollowKnight.RandomizableLevers/releases/download/v1.2.6.5/RandomizableLevers.zip"
     },
     "dependencies": [
       "ItemChanger"
@@ -8903,11 +8903,11 @@
   },
   "ReplayTimerMod": {
     "description": "Records your best times through each room and plays it back as a ghost on your next attempt.",
-    "version": "0.3.0.0",
+    "version": "0.4.0.0",
     "links": {
       "type": "universal",
-      "sha256": "B5BDF86243B9B8B5F324C8EFB07B078EE384994086886666DB2B8416A3A5E1E5",
-      "url": "https://github.com/AdiPrk/ReplayTimerMod/releases/download/v0.3.0/ReplayModHK1578.zip"
+      "sha256": "7B7087843D9CD2ECADF9AA07BBFDEB66531A6DD471EC8693A9228DC5CDA30F0F",
+      "url": "https://github.com/AdiPrk/ReplayTimerMod/releases/download/v0.4.0/ReplayModHK1578.zip"
     },
     "dependencies": [],
     "repository": "https://github.com/AdiPrk/ReplayTimerMod",
@@ -8917,7 +8917,9 @@
     ],
     "authors": [
       "AdiPrk",
-      "Shichien"
+      "Shichien",
+      "cxyfer",
+      "olvior"
     ]
   },
   "ResetCharmNotches": {
