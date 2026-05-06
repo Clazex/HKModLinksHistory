@@ -32,3 +32,4 @@ YetAnotherRandoConnection
 DeVect
 Randomizable Levers
 ReplayTimerMod
+HKMP.VoiceChat

@@ -3,12 +3,6 @@
 
 ## New mods
 
-### Ado Death Scream
-
-- Description: Plays Ado&#x27;s scream when the Knight dies.
-- Tags
-  + Cosmetic
-
 ### BingoGoalPackSpleengy
 
 - Description: An alternate bingo goalpack designed for the lockout format
@@ -113,6 +107,10 @@
 
 ## Updated mods
 
+### Ado Death Scream
+
+- Version: 1.0.0.0 -> 1.2.0.0
+
 ### Archipelago
 
 - Version: 0.11.1.0 -> 0.12.0.0
@@ -158,6 +156,10 @@
 - Dependencies
   + Removed
     - SFCore
+
+### HKMP.VoiceChat
+
+- Version: 0.1.0.0 -> 0.2.0.0
 
 ### LanguageSupport
 

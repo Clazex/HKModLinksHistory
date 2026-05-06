@@ -40,6 +40,10 @@
 
 - Version: 1.0.1.0 -> 1.0.2.0
 
+### HKMP.VoiceChat
+
+- Version: 0.1.0.0 -> 0.2.0.0
+
 ### MoreStags
 
 - Version: 1.1.0.2 -> 1.1.0.3
@@ -58,10 +62,6 @@
 ### ReplayTimerMod
 
 - Version: 0.3.0.0 -> 0.4.0.0
-
-### RgbRando
-
-- Version: 1.0.0.0 -> 1.1.0.0
 
 ### YetAnotherRandoConnection
 

@@ -1,4 +1,3 @@
-Ado Death Scream
 BlueSR_OST
 ResurrectionMod
 Architect
@@ -45,3 +44,4 @@ YetAnotherRandoConnection
 DeVect
 Randomizable Levers
 ReplayTimerMod
+HKMP.VoiceChat

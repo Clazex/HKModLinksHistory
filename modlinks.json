@@ -4817,11 +4817,11 @@
   },
   "HKMP.VoiceChat": {
     "description": "An HKMP addon that adds (proximity) voice chat. Requires OpenAL (https://www.openal.org/) to be installed.",
-    "version": "0.1.0.0",
+    "version": "0.2.0.0",
     "links": {
       "type": "universal",
-      "sha256": "CFBC1E3D2BD1D1D9EBC3856E4EBABF6E9C7E896CEC6A26982C710ABF1E4424E5",
-      "url": "https://github.com/Extremelyd1/HKMP.VoiceChat/releases/download/v0.1.0/HKMPVoiceChat.zip"
+      "sha256": "6171D4BD47D7C329192DE61DAA7EB4F303E77CB19B0BA5782A5FE71D5078AFD4",
+      "url": "https://github.com/Extremelyd1/HKMP.VoiceChat/releases/download/v0.2.0/HKMPVoiceChat.zip"
     },
     "dependencies": [
       "HKMP"
