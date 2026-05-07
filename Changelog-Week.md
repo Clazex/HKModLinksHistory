@@ -25,6 +25,14 @@
   + ItemSync
   + MultiWorld
 
+### RngCounters
+
+- Description: A Hollow Knight mod that counts RNG in annoying spots.
+- Dependencies
+  + MagicUI
+  + MenuChanger
+  + Satchel
+
 
 ## Updated mods
 
@@ -48,13 +56,6 @@
 
 - Version: 1.1.0.2 -> 1.1.0.3
 
-### NotBackgroundObjectRando
-
-- Version: 1.0.0.0 -> 1.0.1.0
-- Dependencies
-  + Added
-    - RandomizerCore.Json
-
 ### Randomizable Levers
 
 - Version: 1.2.6.4 -> 1.2.6.5
@@ -65,5 +66,5 @@
 
 ### YetAnotherRandoConnection
 
-- Version: 1.2.1.0 -> 1.2.2.1
+- Version: 1.2.2.0 -> 1.2.2.1
 

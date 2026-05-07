@@ -1,5 +1,3 @@
-NotBackgroundObjectRando
-YetAnotherRandoConnection
 Ado Death Scream
 Broken Nail
 DeathSync
@@ -10,3 +8,4 @@ DeVect
 Randomizable Levers
 ReplayTimerMod
 HKMP.VoiceChat
+RngCounters

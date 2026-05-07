@@ -82,6 +82,14 @@
   + Gameplay
   + Utility
 
+### RngCounters
+
+- Description: A Hollow Knight mod that counts RNG in annoying spots.
+- Dependencies
+  + MagicUI
+  + MenuChanger
+  + Satchel
+
 ### SpriteToggler
 
 - Description: Toggles sprites on objects defined in the settings (single &quot;OC Backboard&quot; by default) on F10 (configurable). You can find object names using Unity Explorer

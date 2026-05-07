@@ -9017,6 +9017,24 @@
       "TheMathGeek_314"
     ]
   },
+  "RngCounters": {
+    "description": "A Hollow Knight mod that counts RNG in annoying spots.",
+    "version": "1.1.0.0",
+    "links": {
+      "type": "universal",
+      "sha256": "16044F9B5F13D307960A1301C9039EF6F5EE5A44B5AB32ED6DC39C4FF34D2BA6",
+      "url": "https://github.com/Pengwizard/RngCounters/releases/download/v1.1.0/RngCounters.zip"
+    },
+    "dependencies": [
+      "MagicUI",
+      "MenuChanger",
+      "Satchel"
+    ],
+    "repository": "https://github.com/Pengwizard/RngCounters/",
+    "authors": [
+      "Nopre"
+    ]
+  },
   "Rogue": {
     "description": "A rogue-like Pantheon of Hallownest mod",
     "version": "2.0.0.0",

@@ -10,3 +10,4 @@ BingoGoalPackSpleengy
 Charm Loadouts
 Broken Nail
 DeathSync
+RngCounters
