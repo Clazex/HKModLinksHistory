@@ -46,3 +46,5 @@ Randomizable Levers
 ReplayTimerMod
 HKMP.VoiceChat
 RngCounters
+Lifeblood
+Master

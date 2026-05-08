@@ -3,27 +3,24 @@
 
 ## New mods
 
-### Broken Nail
+### Lifeblood
 
-- Description: Adds a new save mode to hk for the Broken Nail challenge
+- Description: Simple lightweight library mod
+- Dependencies
+  + HKMirror
+- Integrations
+  + MoreMasks
+- Tags
+  + Utility
+
+### Master
+
+- Description: Challenge mod based of a terraria mod of the same name
 - Dependencies
   + ItemChanger
   + MenuChanger
 - Tags
   + Gameplay
-
-### DeathSync
-
-- Description: An ItemSync/MultiWorld extension to link your deaths
-- Dependencies
-  + ItemChanger
-  + KorzUtils
-  + MenuChanger
-  + MultiWorldLib
-  + Randomizer 4
-- Integrations
-  + ItemSync
-  + MultiWorld
 
 ### RngCounters
 
@@ -36,25 +33,13 @@
 
 ## Updated mods
 
-### Ado Death Scream
-
-- Version: 1.0.0.0 -> 1.2.0.0
-
 ### DeVect
 
 - Version: 1.0.0.0 -> 2.0.0.0
 
-### EdgeDetection
-
-- Version: 1.0.1.0 -> 1.0.2.0
-
 ### HKMP.VoiceChat
 
 - Version: 0.1.0.0 -> 0.2.0.0
-
-### MoreStags
-
-- Version: 1.1.0.2 -> 1.1.0.3
 
 ### Randomizable Levers
 
@@ -63,8 +48,4 @@
 ### ReplayTimerMod
 
 - Version: 0.3.0.0 -> 0.4.0.0
-
-### YetAnotherRandoConnection
-
-- Version: 1.2.2.0 -> 1.2.2.1
 

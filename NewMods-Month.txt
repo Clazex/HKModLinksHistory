@@ -11,3 +11,5 @@ Charm Loadouts
 Broken Nail
 DeathSync
 RngCounters
+Lifeblood
+Master

@@ -55,11 +55,30 @@
 - Tags
   + Accessibility
 
+### Lifeblood
+
+- Description: Simple lightweight library mod
+- Dependencies
+  + HKMirror
+- Integrations
+  + MoreMasks
+- Tags
+  + Utility
+
 ### LoadRandomizer
 
 - Description: Randomizes load times from 0 to 10, weighted towards lower values.
 - Dependencies
   + LoadNormalizer
+
+### Master
+
+- Description: Challenge mod based of a terraria mod of the same name
+- Dependencies
+  + ItemChanger
+  + MenuChanger
+- Tags
+  + Gameplay
 
 ### NotBackgroundObjectRando
 

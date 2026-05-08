@@ -5935,6 +5935,29 @@
       "Acu1000"
     ]
   },
+  "Lifeblood": {
+    "description": "Simple lightweight library mod",
+    "version": "0.0.0.2",
+    "links": {
+      "type": "universal",
+      "sha256": "589F1E6D7F7A6ACF34CFED11B3913D4483BD66B113BAE6FD3AC35E0D2B816C89",
+      "url": "https://github.com/golddemon1973/Lifeblood/releases/download/v0.0.0.2/Lifeblood.zip"
+    },
+    "dependencies": [
+      "HKMirror"
+    ],
+    "repository": "https://github.com/golddemon1973/Lifeblood",
+    "issues": "https://github.com/golddemon1973/Lifeblood/issues",
+    "integrations": [
+      "MoreMasks"
+    ],
+    "tags": [
+      "Utility"
+    ],
+    "authors": [
+      "ivory"
+    ]
+  },
   "Lightbringer": {
     "description": "Major gameplay overhaul: fight your way through Hallownest with a lance of light, brand new charms and radiant spells to seek the binding light that plagues our dreams.",
     "version": "3.0.1.0",
@@ -6349,6 +6372,27 @@
     ],
     "authors": [
       "EarlyHemisphere"
+    ]
+  },
+  "Master": {
+    "description": "Challenge mod based of a terraria mod of the same name",
+    "version": "1.0.0.0",
+    "links": {
+      "type": "universal",
+      "sha256": "220A3A09B3C2583935AF0A3F5F9E4485D845A71EE9D306F4CB662D01C19693C1",
+      "url": "https://github.com/Bluescratch7545/Master/releases/download/1.0.0.0/Master.zip"
+    },
+    "dependencies": [
+      "ItemChanger",
+      "MenuChanger"
+    ],
+    "repository": "https://github.com/Bluescratch7545/Master",
+    "issues": "https://github.com/Bluescratch7545/Master/issues",
+    "tags": [
+      "Gameplay"
+    ],
+    "authors": [
+      "Bluescratch"
     ]
   },
   "Memesong": {

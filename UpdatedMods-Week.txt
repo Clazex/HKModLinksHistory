@@ -1,7 +1,3 @@
-Ado Death Scream
-EdgeDetection
-MoreStags
-YetAnotherRandoConnection
 DeVect
 Randomizable Levers
 ReplayTimerMod
