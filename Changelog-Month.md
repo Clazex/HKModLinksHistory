@@ -11,12 +11,6 @@
   + BingoGoalPack1
   + BingoSync
 
-### BlueSR_OST
-
-- Description: Replaces the Sound Tracks in Greenpath, Fungal Wastes and Sealed Vessel fight with BlueSR&#x27;s version.
-- Tags
-  + Cosmetic
-
 ### Broken Nail
 
 - Description: Adds a new save mode to hk for the Broken Nail challenge
@@ -119,6 +113,7 @@
 
 - Description: A.. BLOODSUCKING will!
 - Dependencies
+  + Lifeblood
   + Satchel
 - Tags
   + Gameplay
@@ -161,6 +156,13 @@
 ### BingoSync
 
 - Version: 1.4.4.5 -> 1.4.5.5
+
+### BlueSR_OST
+
+- Version: 1.0.0.0 -> 1.2.0.0
+- Description
+  + Old: Replaces the OSTs in Greenpath, Fungal Wastes and Sealed Vessel fight with BlueSR&#x27;s version.
+  + New: Replaces the Sound Tracks in Greenpath, Fungal Wastes and Sealed Vessel fight with BlueSR&#x27;s version.
 
 ### CorpseDreamRando
 

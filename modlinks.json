@@ -9063,11 +9063,11 @@
   },
   "RngCounters": {
     "description": "A Hollow Knight mod that counts RNG in annoying spots.",
-    "version": "1.1.0.0",
+    "version": "1.2.0.0",
     "links": {
       "type": "universal",
-      "sha256": "16044F9B5F13D307960A1301C9039EF6F5EE5A44B5AB32ED6DC39C4FF34D2BA6",
-      "url": "https://github.com/Pengwizard/RngCounters/releases/download/v1.1.0/RngCounters.zip"
+      "sha256": "22EAB7852D24445692CD3330A8B273C1E67E97507A3996EBD5ABC4FD047E362B",
+      "url": "https://github.com/Pengwizard/RngCounters/releases/download/v1.2.0/RngCounters.zip"
     },
     "dependencies": [
       "MagicUI",
@@ -10878,13 +10878,14 @@
   },
   "Vampire Knight": {
     "description": "A.. BLOODSUCKING will!",
-    "version": "26.4.4.0",
+    "version": "26.5.0.0",
     "links": {
       "type": "universal",
-      "sha256": "A84E23811E536AFCDE99DE39C48A8F66EC80AB58953BA5EF577378E7BC681AA7",
-      "url": "https://github.com/golddemon1973/VampireKnight/releases/download/v26.4.4.0/VampireKnight.zip"
+      "sha256": "B4207E7C70AE235EE6DA359FC8E35B828C45CCE84730BDF776841B3DCFE49F16",
+      "url": "https://github.com/golddemon1973/VampireKnight/releases/download/v26.5.0.0/VampireKnight.zip"
     },
     "dependencies": [
+      "Lifeblood",
       "Satchel"
     ],
     "repository": "https://github.com/golddemon1973/VampireKnight",

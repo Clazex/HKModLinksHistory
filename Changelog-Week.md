@@ -33,10 +33,6 @@
 
 ## Updated mods
 
-### DeVect
-
-- Version: 1.0.0.0 -> 2.0.0.0
-
 ### HKMP.VoiceChat
 
 - Version: 0.1.0.0 -> 0.2.0.0
@@ -48,4 +44,11 @@
 ### ReplayTimerMod
 
 - Version: 0.3.0.0 -> 0.4.0.0
+
+### Vampire Knight
+
+- Version: 26.4.4.0 -> 26.5.0.0
+- Dependencies
+  + Added
+    - Lifeblood
 

@@ -1,13 +1,28 @@
 # Changelog
 
 
+## New mods
+
+### Vampire Knight
+
+- Description: A.. BLOODSUCKING will!
+- Dependencies
+  + Satchel
+- Tags
+  + Gameplay
+
+### Vietnamese Lang
+
+- Description: Add Vietnamese Language. Hollow Knight Việt Hoá
+- Dependencies
+  + LanguageSupport
+- Tags
+  + Gameplay
+
+
 ## Updated mods
 
-### Architect
+### MoreStags
 
-- Version: 1.18.0.3 -> 1.18.0.4
-
-### StubbornKnight
-
-- Version: 1.0.0.0 -> 1.1.0.0
+- Version: 1.0.3.0 -> 1.0.3.1
 

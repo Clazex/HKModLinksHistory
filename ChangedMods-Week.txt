@@ -1,7 +1,8 @@
-DeVect
 Randomizable Levers
 ReplayTimerMod
 HKMP.VoiceChat
 RngCounters
 Lifeblood
 Master
+RngCounters
+Vampire Knight
