@@ -49,6 +49,12 @@
 - Tags
   + Accessibility
 
+### HKTags
+
+- Description: A library mod that allows you to set n&#x27; get tags and attributes
+- Tags
+  + Utility
+
 ### Lifeblood
 
 - Description: Simple lightweight library mod
@@ -85,15 +91,6 @@
   + RandomizerCore.Json
 - Integrations
   + RandoSettingsManager
-
-### ResurrectionMod
-
-- Description: Adds a downed state instead of death, allowing teammates to revive you in HKMP. Features a configurable Force Respawn key.
-- Dependencies
-  + HKMP
-- Tags
-  + Gameplay
-  + Utility
 
 ### RngCounters
 

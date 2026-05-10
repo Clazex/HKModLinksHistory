@@ -3,6 +3,12 @@
 
 ## New mods
 
+### HKTags
+
+- Description: A library mod that allows you to set n&#x27; get tags and attributes
+- Tags
+  + Utility
+
 ### Lifeblood
 
 - Description: Simple lightweight library mod
@@ -47,7 +53,7 @@
 
 ### Vampire Knight
 
-- Version: 26.4.4.0 -> 26.5.0.0
+- Version: 26.4.4.0 -> 26.5.0.1
 - Dependencies
   + Added
     - Lifeblood

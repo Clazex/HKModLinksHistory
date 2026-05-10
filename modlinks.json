@@ -4862,6 +4862,24 @@
       "RanDumSocks"
     ]
   },
+  "HKTags": {
+    "description": "A library mod that allows you to set n' get tags and attributes",
+    "version": "26.5.0.0",
+    "links": {
+      "type": "universal",
+      "sha256": "C0D985593D7F12E7AAEB87063EB52385016AF590DFEF003755A21E3097632E32",
+      "url": "https://github.com/golddemon1973/HKTags/releases/download/v26.5.0.0/HKTags.zip"
+    },
+    "dependencies": [],
+    "repository": "https://github.com/golddemon1973/HKTags",
+    "issues": "https://github.com/golddemon1973/HKTags/issues",
+    "tags": [
+      "Utility"
+    ],
+    "authors": [
+      "ivory"
+    ]
+  },
   "HKTimer": {
     "description": "An in game timer mod for 1.5",
     "version": "0.1.1.0",
@@ -5937,11 +5955,11 @@
   },
   "Lifeblood": {
     "description": "Simple lightweight library mod",
-    "version": "0.0.0.2",
+    "version": "0.0.1.3",
     "links": {
       "type": "universal",
-      "sha256": "589F1E6D7F7A6ACF34CFED11B3913D4483BD66B113BAE6FD3AC35E0D2B816C89",
-      "url": "https://github.com/golddemon1973/Lifeblood/releases/download/v0.0.0.2/Lifeblood.zip"
+      "sha256": "3A291B7804F36DA65234335DDD70A28AA6D4CC2BE052E79D946E729FF80F6A49",
+      "url": "https://github.com/golddemon1973/Lifeblood/releases/download/v0.0.1.3/Lifeblood.zip"
     },
     "dependencies": [
       "HKMirror"
@@ -10878,11 +10896,11 @@
   },
   "Vampire Knight": {
     "description": "A.. BLOODSUCKING will!",
-    "version": "26.5.0.0",
+    "version": "26.5.0.1",
     "links": {
       "type": "universal",
-      "sha256": "B4207E7C70AE235EE6DA359FC8E35B828C45CCE84730BDF776841B3DCFE49F16",
-      "url": "https://github.com/golddemon1973/VampireKnight/releases/download/v26.5.0.0/VampireKnight.zip"
+      "sha256": "AA4B98EE40096D5DC9BF21FED3BF00431AD48E0A431F712DA71D29652AC8F72B",
+      "url": "https://github.com/golddemon1973/VampireKnight/releases/download/v26.5.0.1/VampireKnight.zip"
     },
     "dependencies": [
       "Lifeblood",

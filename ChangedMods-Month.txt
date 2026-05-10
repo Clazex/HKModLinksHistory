@@ -1,4 +1,3 @@
-ResurrectionMod
 Architect
 StubbornKnight
 MoreStags
@@ -48,4 +47,7 @@ RngCounters
 Lifeblood
 Master
 RngCounters
+Vampire Knight
+HKTags
+Lifeblood
 Vampire Knight
