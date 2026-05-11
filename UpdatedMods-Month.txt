@@ -1,5 +1,3 @@
-Architect
-StubbornKnight
 MoreStags
 Vampire Knight
 Vampire Knight
@@ -37,3 +35,4 @@ RngCounters
 Vampire Knight
 Lifeblood
 Vampire Knight
+TheRealTransitionRando

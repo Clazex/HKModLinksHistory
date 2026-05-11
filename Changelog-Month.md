@@ -55,6 +55,15 @@
 - Tags
   + Utility
 
+### Hollow Knight ACTS
+
+- Description: A mod which adds Skongs ACT system to hk. Act positions based of Singbuzzordenethcut video on yt.
+- Dependencies
+  + SFCore
+  + WavLib
+- Tags
+  + Gameplay
+
 ### Lifeblood
 
 - Description: Simple lightweight library mod
@@ -100,6 +109,10 @@
   + MenuChanger
   + Satchel
 
+### RngSync
+
+- Description: A Hollow Knight mod that makes a lot of RNG deterministic
+
 ### SpriteToggler
 
 - Description: Toggles sprites on objects defined in the settings (single &quot;OC Backboard&quot; by default) on F10 (configurable). You can find object names using Unity Explorer
@@ -123,6 +136,12 @@
 - Tags
   + Gameplay
 
+### WavLib
+
+- Description: A library to read and write WAV files.
+- Tags
+  + Library
+
 
 ## Updated mods
 
@@ -137,10 +156,6 @@
 ### Archipelago Map Mod
 
 - Version: 3.3.1.0 -> 3.4.0.0
-
-### Architect
-
-- Version: 1.18.0.3 -> 1.18.0.4
 
 ### BingoAdvancedCustomGeneration
 
@@ -215,9 +230,9 @@
 
 - Version: 1.0.1.0 -> 1.0.2.0
 
-### StubbornKnight
+### TheRealTransitionRando
 
-- Version: 1.0.0.0 -> 1.1.0.0
+- Version: 1.0.1.1 -> 1.1.0.0
 
 ### VendorRando
 

@@ -2089,7 +2089,9 @@
       "sha256": "F54FF6C6A92F9CB89F6D61D93C158E2FD9ADA6EA571607D7AD50344A5F4616A1",
       "url": "https://github.com/ygsbzr/HKCustomAudio/releases/download/v1.4.1/CustomAudio.zip"
     },
-    "dependencies": [],
+    "dependencies": [
+      "WavLib"
+    ],
     "repository": "https://github.com/ygsbzr/HKCustomAudio/",
     "integrations": [
       "Custom Knight"
@@ -2106,7 +2108,9 @@
       "sha256": "99E357CC7049FA686990A455764EB7BABE582BCA7F19010415B6C3C70B2FD26B",
       "url": "https://github.com/SFGrenade/CustomBgm/releases/download/v1.5.5.1/CustomBgm.zip"
     },
-    "dependencies": [],
+    "dependencies": [
+      "WavLib"
+    ],
     "repository": "https://github.com/SFGrenade/CustomBgm/",
     "issues": "https://github.com/SFGrenade/CustomBgm/issues/",
     "integrations": [
@@ -5217,6 +5221,27 @@
       "TheMathGeek_314"
     ]
   },
+  "Hollow Knight ACTS": {
+    "description": "A mod which adds Skongs ACT system to hk. Act positions based of Singbuzzordenethcut video on yt.",
+    "version": "1.0.0.0",
+    "links": {
+      "type": "universal",
+      "sha256": "7FDE323BFBA8CB6430F4F5D7882D443C92ACD17F4980193653D6AD567CE0A335",
+      "url": "https://github.com/Bluescratch7545/Hollow-knight-ACTS/releases/download/1.0.0.0-yup-i-forgor-to-chage-dis/Hollow.knight.ACTS.zip"
+    },
+    "dependencies": [
+      "SFCore",
+      "WavLib"
+    ],
+    "repository": "https://github.com/Bluescratch7545/Hollow-knight-ACTS",
+    "issues": "https://github.com/Bluescratch7545/Hollow-knight-ACTS/issues",
+    "tags": [
+      "Gameplay"
+    ],
+    "authors": [
+      "Bluescratch"
+    ]
+  },
   "HollowKnightAchievementManager": {
     "description": "Allows to manage Hollow Knight achievements, both vanilla and modded. Also syncs them with the online store of choice (GOG, Steam, XBox). Also allows to un-/lock menu themes and game modes.",
     "version": "1.5.2.0",
@@ -5383,7 +5408,8 @@
       "HKMirror",
       "HKTool",
       "Nosk God",
-      "Vasi"
+      "Vasi",
+      "WavLib"
     ],
     "repository": "https://github.com/ROTTEN108/INFINITY",
     "tags": [
@@ -5403,7 +5429,8 @@
     },
     "dependencies": [
       "SFCore",
-      "Satchel"
+      "Satchel",
+      "WavLib"
     ],
     "repository": "https://github.com/MCXGK3/ImmortalLight",
     "issues": "https://github.com/MCXGK3/ImmortalLight/issues",
@@ -7117,7 +7144,8 @@
       "url": "https://github.com/nQvTgLrp/HollowKnight.Nailgod/releases/download/1.0.0.2.fix/Nailgod.zip"
     },
     "dependencies": [
-      "Satchel"
+      "Satchel",
+      "WavLib"
     ],
     "repository": "https://github.com/nQvTgLrp/HollowKnight.Nailgod/"
   },
@@ -9097,6 +9125,20 @@
       "Nopre"
     ]
   },
+  "RngSync": {
+    "description": "A Hollow Knight mod that makes a lot of RNG deterministic",
+    "version": "0.3.0.0",
+    "links": {
+      "type": "universal",
+      "sha256": "D5CDFDC0E5D96700001D309AE8D39C96B351E2F31A25F27F0EFEF86E23E36A8D",
+      "url": "https://github.com/olvior/RngSync/releases/download/v0.3.0/RngSync.zip"
+    },
+    "dependencies": [],
+    "repository": "https://github.com/olvior/RngSync/",
+    "authors": [
+      "Olvior"
+    ]
+  },
   "Rogue": {
     "description": "A rogue-like Pantheon of Hallownest mod",
     "version": "2.0.0.0",
@@ -9160,7 +9202,9 @@
       "sha256": "F2B90438437AC3EE17DEC4C4359ABAF662C25B34DB1439F92826DD11575586B2",
       "url": "https://github.com/SFGrenade/SFCore/releases/download/v1.5.16.2/SFCore.zip"
     },
-    "dependencies": [],
+    "dependencies": [
+      "WavLib"
+    ],
     "repository": "https://github.com/SFGrenade/SFCore/",
     "issues": "https://github.com/SFGrenade/SFCore/issues/",
     "tags": [
@@ -10472,11 +10516,11 @@
   },
   "TheRealTransitionRando": {
     "description": "A Randomizer connection that puts transitions into the same pool as the other items",
-    "version": "1.0.1.1",
+    "version": "1.1.0.0",
     "links": {
       "type": "universal",
-      "sha256": "75E56DEFCA2D38503006FB37E08EDB2D8BDE25AA5208B7F77D6CEC5020CC3C1F",
-      "url": "https://github.com/TheMathGeek314/TheRealTransitionRando/releases/download/v1.0.1.1/TheRealTransitionRando.zip"
+      "sha256": "712318B3D4D23139F4689909F18366CA75B1EBE9916617C310826D65A965960E",
+      "url": "https://github.com/TheMathGeek314/TheRealTransitionRando/releases/download/v1.1.0.0/TheRealTransitionRando.zip"
     },
     "dependencies": [
       "ItemChanger",
@@ -11099,6 +11143,24 @@
     ],
     "authors": [
       "DanielStegink"
+    ]
+  },
+  "WavLib": {
+    "description": "A library to read and write WAV files.",
+    "version": "1.1.9.0",
+    "links": {
+      "type": "universal",
+      "sha256": "A06B433F7B8D8DAE61F4B4205F1A414A5A12BA35866174B27885E7D0AE27F31F",
+      "url": "https://github.com/SFGrenade/WavLib/releases/download/v1.1.9/WavLib.zip"
+    },
+    "dependencies": [],
+    "repository": "https://github.com/SFGrenade/WavLib/",
+    "issues": "https://github.com/SFGrenade/WavLib/issues",
+    "tags": [
+      "Library"
+    ],
+    "authors": [
+      "SFGrenade"
     ]
   },
   "WeaverCore": {

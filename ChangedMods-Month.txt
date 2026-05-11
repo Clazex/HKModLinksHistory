@@ -1,5 +1,3 @@
-Architect
-StubbornKnight
 MoreStags
 Vampire Knight
 Vietnamese Lang
@@ -51,3 +49,7 @@ Vampire Knight
 HKTags
 Lifeblood
 Vampire Knight
+Hollow Knight ACTS
+RngSync
+TheRealTransitionRando
+WavLib
