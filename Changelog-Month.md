@@ -119,23 +119,6 @@
 - Tags
   + Utility
 
-### Vampire Knight
-
-- Description: A.. BLOODSUCKING will!
-- Dependencies
-  + Lifeblood
-  + Satchel
-- Tags
-  + Gameplay
-
-### Vietnamese Lang
-
-- Description: Add Vietnamese Language. Hollow Knight Việt Hoá
-- Dependencies
-  + LanguageSupport
-- Tags
-  + Gameplay
-
 ### WavLib
 
 - Description: A library to read and write WAV files.
@@ -208,7 +191,7 @@
 
 ### MoreStags
 
-- Version: 1.0.3.0 -> 1.1.0.3
+- Version: 1.0.3.1 -> 1.1.0.3
 
 ### Randomizable Levers
 
@@ -233,6 +216,13 @@
 ### TheRealTransitionRando
 
 - Version: 1.0.1.1 -> 1.1.0.0
+
+### Vampire Knight
+
+- Version: 26.4.0.0 -> 26.5.0.1
+- Dependencies
+  + Added
+    - Lifeblood
 
 ### VendorRando
 

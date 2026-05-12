@@ -1,4 +1,3 @@
-HKMP.VoiceChat
 RngCounters
 Vampire Knight
 Lifeblood

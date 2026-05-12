@@ -1,4 +1,3 @@
-HKMP.VoiceChat
 RngCounters
 Lifeblood
 Master
