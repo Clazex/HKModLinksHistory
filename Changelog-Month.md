@@ -64,6 +64,14 @@
 - Tags
   + Gameplay
 
+### LieButton
+
+- Description: A simple mod for Hollow Knight. Press a certain customizable key to lie down or get up, like a switch.
+- Dependencies
+  + Satchel
+- Tags
+  + Cosmetic
+
 ### Lifeblood
 
 - Description: Simple lightweight library mod
@@ -219,7 +227,7 @@
 
 ### Vampire Knight
 
-- Version: 26.4.0.0 -> 26.5.0.1
+- Version: 26.4.3.0 -> 26.5.0.1
 - Dependencies
   + Added
     - Lifeblood

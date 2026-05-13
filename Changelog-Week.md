@@ -18,6 +18,14 @@
 - Tags
   + Gameplay
 
+### LieButton
+
+- Description: A simple mod for Hollow Knight. Press a certain customizable key to lie down or get up, like a switch.
+- Dependencies
+  + Satchel
+- Tags
+  + Cosmetic
+
 ### Lifeblood
 
 - Description: Simple lightweight library mod
@@ -37,14 +45,6 @@
 - Tags
   + Gameplay
 
-### RngCounters
-
-- Description: A Hollow Knight mod that counts RNG in annoying spots.
-- Dependencies
-  + MagicUI
-  + MenuChanger
-  + Satchel
-
 ### RngSync
 
 - Description: A Hollow Knight mod that makes a lot of RNG deterministic
@@ -57,6 +57,10 @@
 
 
 ## Updated mods
+
+### RngCounters
+
+- Version: 1.1.0.0 -> 1.2.0.0
 
 ### TheRealTransitionRando
 

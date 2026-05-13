@@ -5980,6 +5980,26 @@
       "Acu1000"
     ]
   },
+  "LieButton": {
+    "description": "A simple mod for Hollow Knight. Press a certain customizable key to lie down or get up, like a switch.",
+    "version": "1.0.0.0",
+    "links": {
+      "type": "universal",
+      "sha256": "0FE37EE678A0C25CD93AC0307A326FF1CD9349A91675DA979F403E6C152EBFCF",
+      "url": "https://github.com/AntSkarr/Hollow-Knight-Lie-Button-Mod/releases/download/Release/LieButton.zip"
+    },
+    "dependencies": [
+      "Satchel"
+    ],
+    "repository": "https://github.com/AntSkarr/Hollow-Knight-Lie-Button-Mod",
+    "issues": "https://github.com/AntSkarr/Hollow-Knight-Lie-Button-Mod/issues",
+    "tags": [
+      "Cosmetic"
+    ],
+    "authors": [
+      "AntSkarr"
+    ]
+  },
   "Lifeblood": {
     "description": "Simple lightweight library mod",
     "version": "0.0.1.3",
