@@ -26,25 +26,6 @@
 - Tags
   + Cosmetic
 
-### Lifeblood
-
-- Description: Simple lightweight library mod
-- Dependencies
-  + HKMirror
-- Integrations
-  + MoreMasks
-- Tags
-  + Utility
-
-### Master
-
-- Description: Challenge mod based of a terraria mod of the same name
-- Dependencies
-  + ItemChanger
-  + MenuChanger
-- Tags
-  + Gameplay
-
 ### RngSync
 
 - Description: A Hollow Knight mod that makes a lot of RNG deterministic
@@ -57,6 +38,10 @@
 
 
 ## Updated mods
+
+### Lifeblood
+
+- Version: 0.0.0.2 -> 0.0.1.3
 
 ### RngCounters
 

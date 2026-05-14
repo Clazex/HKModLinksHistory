@@ -9147,11 +9147,11 @@
   },
   "RngSync": {
     "description": "A Hollow Knight mod that makes a lot of RNG deterministic",
-    "version": "0.3.0.0",
+    "version": "0.3.1.0",
     "links": {
       "type": "universal",
-      "sha256": "D5CDFDC0E5D96700001D309AE8D39C96B351E2F31A25F27F0EFEF86E23E36A8D",
-      "url": "https://github.com/olvior/RngSync/releases/download/v0.3.0/RngSync.zip"
+      "sha256": "E3CB1BB062650C1A2B1B25141B4CFCCD360499B76B1E174E1BA929EEC55E3644",
+      "url": "https://github.com/olvior/RngSync/releases/download/v0.3.1/RngSync.zip"
     },
     "dependencies": [],
     "repository": "https://github.com/olvior/RngSync/",

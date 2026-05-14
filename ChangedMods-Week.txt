@@ -1,5 +1,3 @@
-Lifeblood
-Master
 RngCounters
 Vampire Knight
 HKTags
@@ -10,3 +8,4 @@ RngSync
 TheRealTransitionRando
 WavLib
 LieButton
+RngSync
