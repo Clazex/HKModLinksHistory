@@ -1,4 +1,3 @@
-Vampire Knight
 GodhomeQoL
 ReplayLogger
 BlueSR_OST
@@ -35,3 +34,4 @@ Lifeblood
 Vampire Knight
 TheRealTransitionRando
 RngSync
+NotBackgroundObjectRando

@@ -1,4 +1,3 @@
-Vampire Knight
 GodhomeQoL
 ReplayLogger
 BlueSR_OST
@@ -49,3 +48,4 @@ TheRealTransitionRando
 WavLib
 LieButton
 RngSync
+NotBackgroundObjectRando

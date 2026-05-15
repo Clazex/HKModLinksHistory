@@ -215,7 +215,7 @@
 
 ### Vampire Knight
 
-- Version: 26.4.3.0 -> 26.5.0.1
+- Version: 26.4.4.0 -> 26.5.0.1
 - Dependencies
   + Added
     - Lifeblood
