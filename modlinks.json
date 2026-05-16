@@ -488,11 +488,11 @@
   },
   "Architect": {
     "description": "A level editor mod, allowing you to customise Hollow Knight by adding or removing platforms, enemies and more with an in-game level editor and level sharer.",
-    "version": "1.18.0.4",
+    "version": "1.18.0.6",
     "links": {
       "type": "universal",
-      "sha256": "A355BCC142E7026672EB31F6BD96652A5D1469D10A9C80EA1B3A0326D0F98A50",
-      "url": "https://github.com/cometcake575/Architect/releases/download/1.18.0.4/Architect.zip"
+      "sha256": "46D33BA0A4D2E180022838650C64F99DC2AAD93EEC2FF917C6A3415EC50B11B7",
+      "url": "https://github.com/cometcake575/Architect/releases/download/1.18.0.6/Architect.zip"
     },
     "dependencies": [
       "MagicUI",
@@ -1518,6 +1518,24 @@
       "Exempt-Medic"
     ]
   },
+  "Charm Rebalanced": {
+    "description": "A mod that balances and reworks almost all charms! Click [View Readme] to see all the changes.",
+    "version": "1.0.7.0",
+    "links": {
+      "type": "universal",
+      "sha256": "2785944A687DB67DD37383DF1B814CF48A5FD3292D8D31FD617F7BFD59C6BC3C",
+      "url": "https://github.com/GyVn87/Charm-Rebalanced-Mod/releases/download/v1.0.7.0/CharmRebalanced.zip"
+    },
+    "dependencies": [],
+    "repository": "https://github.com/GyVn87/Charm-Rebalanced-Mod/",
+    "issues": "https://github.com/GyVn87/Charm-Rebalanced-Mod/issues",
+    "tags": [
+      "Charm"
+    ],
+    "authors": [
+      "TuyenTuyenTuyen(GyVn87)"
+    ]
+  },
   "CharmPatch": {
     "description": "This is a collection of small changes that I think improve the balance of certain charms in the game. Please view Readme for Charm Changer mod recommendations.",
     "version": "1.8.0.0",
@@ -1589,6 +1607,19 @@
     "authors": [
       "ValancedBreakfast"
     ]
+  },
+  "CharmRebalanced": {
+    "description": "Dummy mod. Install the dependency \"Charm Rebalanced\" directly.",
+    "version": "9.9.9.9",
+    "links": {
+      "type": "universal",
+      "sha256": "00280F51FB9F3030B4F1BBBAD3AB29082A706994E4FAF783AA955054673BC74B",
+      "url": "https://github.com/SFGrenade/EmptyMod/releases/download/v9.9.9.9/EmptyMod.zip"
+    },
+    "dependencies": [
+      "Charm Rebalanced"
+    ],
+    "repository": "https://github.com/GyVn87/Charm-Rebalanced-Mod/"
   },
   "Christmas In Dirtmouth": {
     "description": "Things are getting festive in Dirtmouth! This mod adds a new Christmas decoration shop in Dirtmouth owned by a new NPC, Merrywisp. Happy holidays!",
@@ -5921,6 +5952,28 @@
     ],
     "authors": [
       "Wangha"
+    ]
+  },
+  "Lego Power Bricks": {
+    "description": "Adds various of the iconic Red Lego Power Bricks to Hollow Knight, in the form of free charms. Currently requires Debug to give yourself the charms.",
+    "version": "1.0.0.0",
+    "links": {
+      "type": "universal",
+      "sha256": "28063C11D769260B6BA134CDED83D384F2545C084529042704B4171FB3F0E867",
+      "url": "https://github.com/Thommie0208/LegoBricks/releases/download/v1.0.0/Lego_Power_Bricks.zip"
+    },
+    "dependencies": [
+      "MagicUI",
+      "SFCore",
+      "Satchel"
+    ],
+    "repository": "https://github.com/Thommie0208/LegoBricks",
+    "issues": "https://github.com/Thommie0208/LegoBricks/issues",
+    "tags": [
+      "Charm"
+    ],
+    "authors": [
+      "Thommie"
     ]
   },
   "Less Flashing Lights": {

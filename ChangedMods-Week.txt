@@ -1,6 +1,3 @@
-HKTags
-Lifeblood
-Vampire Knight
 Hollow Knight ACTS
 RngSync
 TheRealTransitionRando
@@ -8,3 +5,7 @@ WavLib
 LieButton
 RngSync
 NotBackgroundObjectRando
+Architect
+Charm Rebalanced
+CharmRebalanced
+Lego Power Bricks

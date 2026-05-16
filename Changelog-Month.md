@@ -28,6 +28,18 @@
 - Tags
   + Gameplay
 
+### Charm Rebalanced
+
+- Description: A mod that balances and reworks almost all charms! Click [View Readme] to see all the changes.
+- Tags
+  + Charm
+
+### CharmRebalanced
+
+- Description: Dummy mod. Install the dependency &quot;Charm Rebalanced&quot; directly.
+- Dependencies
+  + Charm Rebalanced
+
 ### DeathSync
 
 - Description: An ItemSync/MultiWorld extension to link your deaths
@@ -63,6 +75,16 @@
   + WavLib
 - Tags
   + Gameplay
+
+### Lego Power Bricks
+
+- Description: Adds various of the iconic Red Lego Power Bricks to Hollow Knight, in the form of free charms. Currently requires Debug to give yourself the charms.
+- Dependencies
+  + MagicUI
+  + SFCore
+  + Satchel
+- Tags
+  + Charm
 
 ### LieButton
 
@@ -136,6 +158,10 @@
 
 - Version: 3.3.1.0 -> 3.4.0.0
 
+### Architect
+
+- Version: 1.18.0.4 -> 1.18.0.6
+
 ### BingoAdvancedCustomGeneration
 
 - Version: 1.1.0.0 -> 1.1.1.0
@@ -169,13 +195,7 @@
 
 ### GodhomeQoL
 
-- Version: 1.0.0.9 -> 1.0.1.2
-- Description
-  + Old: This mod is useful for challenge runners who don&#x27;t want their runs to be accidentally affected by QoL mods.
-  + New: This mod is a large collection of tools designed to help challenge runners with their tasks.
-- Dependencies
-  + Removed
-    - SFCore
+- Version: 1.0.1.1 -> 1.0.1.2
 
 ### HKMP.VoiceChat
 
@@ -195,7 +215,7 @@
 
 ### ReplayLogger
 
-- Version: 1.1.0.0 -> 1.1.0.3
+- Version: 1.1.0.1 -> 1.1.0.3
 
 ### ReplayTimerMod
 

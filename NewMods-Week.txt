@@ -1,5 +1,7 @@
-HKTags
 Hollow Knight ACTS
 RngSync
 WavLib
 LieButton
+Charm Rebalanced
+CharmRebalanced
+Lego Power Bricks

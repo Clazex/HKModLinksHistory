@@ -3,11 +3,17 @@
 
 ## New mods
 
-### HKTags
+### Charm Rebalanced
 
-- Description: A library mod that allows you to set n&#x27; get tags and attributes
+- Description: A mod that balances and reworks almost all charms! Click [View Readme] to see all the changes.
 - Tags
-  + Utility
+  + Charm
+
+### CharmRebalanced
+
+- Description: Dummy mod. Install the dependency &quot;Charm Rebalanced&quot; directly.
+- Dependencies
+  + Charm Rebalanced
 
 ### Hollow Knight ACTS
 
@@ -17,6 +23,16 @@
   + WavLib
 - Tags
   + Gameplay
+
+### Lego Power Bricks
+
+- Description: Adds various of the iconic Red Lego Power Bricks to Hollow Knight, in the form of free charms. Currently requires Debug to give yourself the charms.
+- Dependencies
+  + MagicUI
+  + SFCore
+  + Satchel
+- Tags
+  + Charm
 
 ### LieButton
 
@@ -39,9 +55,9 @@
 
 ## Updated mods
 
-### Lifeblood
+### Architect
 
-- Version: 0.0.0.2 -> 0.0.1.3
+- Version: 1.18.0.4 -> 1.18.0.6
 
 ### NotBackgroundObjectRando
 
@@ -50,8 +66,4 @@
 ### TheRealTransitionRando
 
 - Version: 1.0.1.1 -> 1.1.0.0
-
-### Vampire Knight
-
-- Version: 26.5.0.0 -> 26.5.0.1
 
