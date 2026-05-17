@@ -1,7 +1,3 @@
-BlueSR_OST
-CorpseDreamRando
-DoodleBosses
-MoreStags
 LanguageSupport
 MoreStags
 Archipelago
