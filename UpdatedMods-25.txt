@@ -1,0 +1,6 @@
+BingoAdvancedCustomGeneration
+BingoBoardReplay
+BingoSync
+GodhomeQoL
+MoreStags
+ReplayLogger

@@ -1519,12 +1519,12 @@
     ]
   },
   "Charm Rebalanced": {
-    "description": "A mod that balances and reworks almost all charms! Click [View Readme] to see all the changes.",
-    "version": "1.0.7.0",
+    "description": "A mod that balances and reworks almost all charms! Click [View Readme] to see all the changes. If you enjoy the mod, please consider giving the repository a star, this will help more people discover the mod!",
+    "version": "1.0.8.0",
     "links": {
       "type": "universal",
-      "sha256": "2785944A687DB67DD37383DF1B814CF48A5FD3292D8D31FD617F7BFD59C6BC3C",
-      "url": "https://github.com/GyVn87/Charm-Rebalanced-Mod/releases/download/v1.0.7.0/CharmRebalanced.zip"
+      "sha256": "89CFF2B4147330AF23AA79178DBD75A3107DE225D075CB225CC0EF35B31F7902",
+      "url": "https://github.com/GyVn87/Charm-Rebalanced-Mod/releases/download/v1.0.8.0/CharmRebalanced.zip"
     },
     "dependencies": [],
     "repository": "https://github.com/GyVn87/Charm-Rebalanced-Mod/",
@@ -1607,19 +1607,6 @@
     "authors": [
       "ValancedBreakfast"
     ]
-  },
-  "CharmRebalanced": {
-    "description": "Dummy mod. Install the dependency \"Charm Rebalanced\" directly.",
-    "version": "9.9.9.9",
-    "links": {
-      "type": "universal",
-      "sha256": "00280F51FB9F3030B4F1BBBAD3AB29082A706994E4FAF783AA955054673BC74B",
-      "url": "https://github.com/SFGrenade/EmptyMod/releases/download/v9.9.9.9/EmptyMod.zip"
-    },
-    "dependencies": [
-      "Charm Rebalanced"
-    ],
-    "repository": "https://github.com/GyVn87/Charm-Rebalanced-Mod/"
   },
   "Christmas In Dirtmouth": {
     "description": "Things are getting festive in Dirtmouth! This mod adds a new Christmas decoration shop in Dirtmouth owned by a new NPC, Merrywisp. Happy holidays!",
@@ -9615,11 +9602,11 @@
   },
   "Shared Health": {
     "description": "A HKMP addon to synchronize damage and healing across teams.",
-    "version": "1.0.2.0",
+    "version": "1.0.3.0",
     "links": {
       "type": "universal",
-      "sha256": "DE4E3FD5942EE10010DC7258B1B898DF78AF00F4FAEC4E52F3C24B703CEFBE8A",
-      "url": "https://github.com/Charcoal2000/SharedHealth/releases/download/1.0.2.0/SharedHealth.zip"
+      "sha256": "B70CECD1179E9C249905D276BB6CF80CB651A300E5C5067EA202AADF7E827747",
+      "url": "https://github.com/Charcoal2000/SharedHealth/releases/download/1.0.3.0/SharedHealth.zip"
     },
     "dependencies": [
       "HKMP",

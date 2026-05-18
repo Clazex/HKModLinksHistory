@@ -5,15 +5,9 @@
 
 ### Charm Rebalanced
 
-- Description: A mod that balances and reworks almost all charms! Click [View Readme] to see all the changes.
+- Description: A mod that balances and reworks almost all charms! Click [View Readme] to see all the changes. If you enjoy the mod, please consider giving the repository a star, this will help more people discover the mod!
 - Tags
   + Charm
-
-### CharmRebalanced
-
-- Description: Dummy mod. Install the dependency &quot;Charm Rebalanced&quot; directly.
-- Dependencies
-  + Charm Rebalanced
 
 ### Lego Power Bricks
 
@@ -47,4 +41,8 @@
 ### RngSync
 
 - Version: 0.3.0.0 -> 0.3.1.0
+
+### Shared Health
+
+- Version: 1.0.2.0 -> 1.0.3.0
 

@@ -1,3 +1,5 @@
 RngSync
 NotBackgroundObjectRando
 Architect
+Charm Rebalanced
+Shared Health

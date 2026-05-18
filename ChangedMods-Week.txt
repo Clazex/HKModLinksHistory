@@ -5,3 +5,5 @@ Architect
 Charm Rebalanced
 CharmRebalanced
 Lego Power Bricks
+Charm Rebalanced
+Shared Health

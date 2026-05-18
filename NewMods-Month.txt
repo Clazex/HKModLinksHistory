@@ -1,4 +1,3 @@
-EdgeDetection
 NotBackgroundObjectRando
 BingoGoalPackSpleengy
 Charm Loadouts

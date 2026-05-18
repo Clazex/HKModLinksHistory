@@ -30,15 +30,9 @@
 
 ### Charm Rebalanced
 
-- Description: A mod that balances and reworks almost all charms! Click [View Readme] to see all the changes.
+- Description: A mod that balances and reworks almost all charms! Click [View Readme] to see all the changes. If you enjoy the mod, please consider giving the repository a star, this will help more people discover the mod!
 - Tags
   + Charm
-
-### CharmRebalanced
-
-- Description: Dummy mod. Install the dependency &quot;Charm Rebalanced&quot; directly.
-- Dependencies
-  + Charm Rebalanced
 
 ### DeathSync
 
@@ -52,14 +46,6 @@
 - Integrations
   + ItemSync
   + MultiWorld
-
-### EdgeDetection
-
-- Description: An accessibility mod that adds customizable edge detection outlines to things that are important for gameplay.
-- Dependencies
-  + Satchel
-- Tags
-  + Accessibility
 
 ### HKTags
 
@@ -178,6 +164,13 @@
 
 - Version: 1.0.0.0 -> 2.0.0.0
 
+### EdgeDetection
+
+- Version: 1.0.0.0 -> 1.0.2.0
+- Description
+  + Old: An accessibility mod that adds customizable edge detection to things that are important for gameplay.
+  + New: An accessibility mod that adds customizable edge detection outlines to things that are important for gameplay.
+
 ### GodhomeQoL
 
 - Version: 1.0.1.1 -> 1.0.1.2
@@ -185,10 +178,6 @@
 ### HKMP.VoiceChat
 
 - Version: 0.1.0.0 -> 0.2.0.0
-
-### LanguageSupport
-
-- Version: 1.5.1.0 -> 1.5.1.6
 
 ### MoreStags
 
@@ -212,7 +201,7 @@
 
 ### Shared Health
 
-- Version: 1.0.1.0 -> 1.0.2.0
+- Version: 1.0.1.0 -> 1.0.3.0
 
 ### TheRealTransitionRando
 
