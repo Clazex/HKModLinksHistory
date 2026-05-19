@@ -1,24 +1,16 @@
 # Changelog
 
 
-## New mods
+## Updated mods
 
-### Lifeblood
+### RngCounters
 
-- Description: Simple lightweight library mod
+- Version: 1.1.0.0 -> 1.2.0.0
+
+### Vampire Knight
+
+- Version: 26.4.4.0 -> 26.5.0.0
 - Dependencies
-  + HKMirror
-- Integrations
-  + MoreMasks
-- Tags
-  + Utility
-
-### Master
-
-- Description: Challenge mod based of a terraria mod of the same name
-- Dependencies
-  + ItemChanger
-  + MenuChanger
-- Tags
-  + Gameplay
+  + Added
+    - Lifeblood
 
