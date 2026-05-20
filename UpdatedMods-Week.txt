@@ -1,4 +1,3 @@
-RngSync
 NotBackgroundObjectRando
 Architect
 Charm Rebalanced
