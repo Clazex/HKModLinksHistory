@@ -3,6 +3,19 @@
 
 ## New mods
 
+### ArchitectLegacy
+
+- Description: The old version of Architect, a Hollow Knight level editor.
+- Dependencies
+  + MagicUI
+  + SFCore
+  + Satchel
+- Integrations
+  + HKMP
+  + Scattered and Lost
+- Tags
+  + Gameplay
+
 ### BingoGoalPackSpleengy
 
 - Description: An alternate bingo goalpack designed for the lockout format
@@ -30,7 +43,7 @@
 
 ### Charm Rebalanced
 
-- Description: A mod that balances and reworks almost all charms! Click [View Readme] to see all the changes. If you enjoy the mod, please consider giving the repository a star, this will help more people discover the mod!
+- Description: Click [View Readme] to see all the changes. If you enjoy the mod, please consider giving the repository a star, this will help spread the mod to more people!
 - Tags
   + Charm
 
@@ -99,18 +112,6 @@
 - Tags
   + Gameplay
 
-### NotBackgroundObjectRando
-
-- Description: What no Silksong does to a community
-- Dependencies
-  + ItemChanger
-  + MenuChanger
-  + Randomizer 4
-  + RandomizerCore
-  + RandomizerCore.Json
-- Integrations
-  + RandoSettingsManager
-
 ### RngCounters
 
 - Description: A Hollow Knight mod that counts RNG in annoying spots.
@@ -122,6 +123,12 @@
 ### RngSync
 
 - Description: A Hollow Knight mod that makes a lot of RNG deterministic
+
+### TextMasher
+
+- Description: Auto mashes through textboxes if you are holding Nail, Jump or Focus.
+- Tags
+  + Gameplay
 
 ### WavLib
 
@@ -138,7 +145,18 @@
 
 ### Architect
 
-- Version: 1.18.0.4 -> 1.18.0.6
+- Version: 1.18.0.4 -> 3.28.0.4
+- Description
+  + Old: A level editor mod, allowing you to customise Hollow Knight by adding or removing platforms, enemies and more with an in-game level editor and level sharer.
+  + New: A Hollow Knight level editor mod, easily make and share custom levels with an in-game level editor and level sharer.
+- Dependencies
+  + Removed
+    - MagicUI
+  + Added
+    - ItemChanger
+- Integrations
+  + Removed
+    - Scattered and Lost
 
 ### BingoAdvancedCustomGeneration
 
@@ -171,6 +189,13 @@
 ### MoreStags
 
 - Version: 1.1.0.1 -> 1.1.0.3
+
+### NotBackgroundObjectRando
+
+- Version: 1.0.0.0 -> 1.0.1.1
+- Dependencies
+  + Added
+    - RandomizerCore.Json
 
 ### Randomizable Levers
 

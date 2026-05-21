@@ -27,3 +27,5 @@ NotBackgroundObjectRando
 Architect
 Charm Rebalanced
 Shared Health
+Architect
+Charm Rebalanced

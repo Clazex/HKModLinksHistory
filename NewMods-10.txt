@@ -1,3 +1,0 @@
-Hollow Knight ACTS
-RngSync
-WavLib

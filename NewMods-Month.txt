@@ -1,4 +1,3 @@
-NotBackgroundObjectRando
 BingoGoalPackSpleengy
 Charm Loadouts
 Broken Nail
@@ -14,3 +13,5 @@ LieButton
 Charm Rebalanced
 CharmRebalanced
 Lego Power Bricks
+ArchitectLegacy
+TextMasher

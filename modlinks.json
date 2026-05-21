@@ -487,7 +487,32 @@
     ]
   },
   "Architect": {
-    "description": "A level editor mod, allowing you to customise Hollow Knight by adding or removing platforms, enemies and more with an in-game level editor and level sharer.",
+    "description": "A Hollow Knight level editor mod, easily make and share custom levels with an in-game level editor and level sharer.",
+    "version": "3.28.0.4",
+    "links": {
+      "type": "universal",
+      "sha256": "CF6BA6390885EE424D0655396F62281479990C7ADE29F55B7935607ADA2D1DF3",
+      "url": "https://github.com/cometcake575/Architect-HK/releases/download/3.28.0.4/Architect.zip"
+    },
+    "dependencies": [
+      "ItemChanger",
+      "SFCore",
+      "Satchel"
+    ],
+    "repository": "https://github.com/cometcake575/Architect-HK",
+    "issues": "https://github.com/cometcake575/Architect-HK/issues",
+    "integrations": [
+      "HKMP"
+    ],
+    "tags": [
+      "Gameplay"
+    ],
+    "authors": [
+      "cometcake575"
+    ]
+  },
+  "ArchitectLegacy": {
+    "description": "The old version of Architect, a Hollow Knight level editor.",
     "version": "1.18.0.6",
     "links": {
       "type": "universal",
@@ -1519,12 +1544,12 @@
     ]
   },
   "Charm Rebalanced": {
-    "description": "A mod that balances and reworks almost all charms! Click [View Readme] to see all the changes. If you enjoy the mod, please consider giving the repository a star, this will help more people discover the mod!",
-    "version": "1.0.8.0",
+    "description": "Click [View Readme] to see all the changes. If you enjoy the mod, please consider giving the repository a star, this will help spread the mod to more people!",
+    "version": "1.0.9.0",
     "links": {
       "type": "universal",
-      "sha256": "89CFF2B4147330AF23AA79178DBD75A3107DE225D075CB225CC0EF35B31F7902",
-      "url": "https://github.com/GyVn87/Charm-Rebalanced-Mod/releases/download/v1.0.8.0/CharmRebalanced.zip"
+      "sha256": "F2388C44D3C42BA14227854E4B441B642007E501E321DDAE930E83BEA4D5F119",
+      "url": "https://github.com/GyVn87/Charm-Rebalanced-Mod/releases/download/v1.0.9.0/CharmRebalanced.zip"
     },
     "dependencies": [],
     "repository": "https://github.com/GyVn87/Charm-Rebalanced-Mod/",
@@ -9357,7 +9382,7 @@
     ],
     "repository": "https://github.com/dplochcoder/HollowKnight.ScatteredAndLost",
     "integrations": [
-      "Architect",
+      "ArchitectLegacy",
       "BugPrince",
       "CondensedSpoilerLogger",
       "DebugMod",
@@ -10452,6 +10477,23 @@
     ],
     "authors": [
       "Toboter"
+    ]
+  },
+  "TextMasher": {
+    "description": "Auto mashes through textboxes if you are holding Nail, Jump or Focus.",
+    "version": "1.0.0.0",
+    "links": {
+      "type": "universal",
+      "sha256": "F2E62C8AA67542D86CD1630CDEF83B12FCCC18ACAF9CDD9B9228DF251A08C677",
+      "url": "https://github.com/peekagrub/TextMasher/releases/download/1.0.0.0/TextMasher.zip"
+    },
+    "dependencies": [],
+    "repository": "https://github.com/peekagrub/TextMasher",
+    "tags": [
+      "Gameplay"
+    ],
+    "authors": [
+      "peekagrub"
     ]
   },
   "The Glimmering Realm": {
