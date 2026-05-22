@@ -1,9 +1,13 @@
 # Changelog
 
 
-## Updated mods
+## New mods
 
-### HKMP.VoiceChat
+### RngCounters
 
-- Version: 0.1.0.0 -> 0.2.0.0
+- Description: A Hollow Knight mod that counts RNG in annoying spots.
+- Dependencies
+  + MagicUI
+  + MenuChanger
+  + Satchel
 

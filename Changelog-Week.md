@@ -16,21 +16,11 @@
 - Tags
   + Gameplay
 
-### Charm Rebalanced
+### FsmSeer
 
-- Description: Click [View Readme] to see all the changes. If you enjoy the mod, please consider giving the repository a star, this will help spread the mod to more people!
+- Description: Shows active FSM names and states above objects when F3 is pressed.
 - Tags
-  + Charm
-
-### Lego Power Bricks
-
-- Description: Adds various of the iconic Red Lego Power Bricks to Hollow Knight, in the form of free charms. Currently requires Debug to give yourself the charms.
-- Dependencies
-  + MagicUI
-  + SFCore
-  + Satchel
-- Tags
-  + Charm
+  + Utility
 
 ### TextMasher
 
@@ -38,12 +28,26 @@
 - Tags
   + Gameplay
 
+### UltimateChickenKnight
+
+- Description: Ultimate Chicken Horse in Hollow Knight, using HKMP and the Architect mod.
+- Dependencies
+  + Architect
+  + HKMP
+- Tags
+  + Gameplay
+
+
+## Removed mods
+
+- CharmRebalanced
+
 
 ## Updated mods
 
 ### Architect
 
-- Version: 1.18.0.4 -> 3.28.0.4
+- Version: 1.18.0.6 -> 3.28.0.6
 - Description
   + Old: A level editor mod, allowing you to customise Hollow Knight by adding or removing platforms, enemies and more with an in-game level editor and level sharer.
   + New: A Hollow Knight level editor mod, easily make and share custom levels with an in-game level editor and level sharer.
@@ -55,6 +59,17 @@
 - Integrations
   + Removed
     - Scattered and Lost
+
+### Charm Rebalanced
+
+- Version: 1.0.7.0 -> 1.0.9.0
+- Description
+  + Old: A mod that balances and reworks almost all charms! Click [View Readme] to see all the changes.
+  + New: Click [View Readme] to see all the changes. If you enjoy the mod, please consider giving the repository a star, this will help spread the mod to more people!
+
+### RngSync
+
+- Version: 0.3.1.0 -> 0.3.2.0
 
 ### Shared Health
 

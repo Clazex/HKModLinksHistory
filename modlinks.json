@@ -488,11 +488,11 @@
   },
   "Architect": {
     "description": "A Hollow Knight level editor mod, easily make and share custom levels with an in-game level editor and level sharer.",
-    "version": "3.28.0.4",
+    "version": "3.28.0.6",
     "links": {
       "type": "universal",
-      "sha256": "CF6BA6390885EE424D0655396F62281479990C7ADE29F55B7935607ADA2D1DF3",
-      "url": "https://github.com/cometcake575/Architect-HK/releases/download/3.28.0.4/Architect.zip"
+      "sha256": "7F8E92A98B8FA2D99A88C712397D633F0A2B470D86D659CB6F4468536BE4FBFD",
+      "url": "https://github.com/cometcake575/Architect-HK/releases/download/3.28.0.6/Architect.zip"
     },
     "dependencies": [
       "ItemChanger",
@@ -3937,6 +3937,24 @@
     "repository": "https://github.com/RedFrog6002/FrogCore/",
     "tags": [
       "Library"
+    ]
+  },
+  "FsmSeer": {
+    "description": "Shows active FSM names and states above objects when F3 is pressed.",
+    "version": "1.0.0.0",
+    "links": {
+      "type": "universal",
+      "sha256": "FCDA0931C03573F2438DCF75C672B6561D4BE820AB2DBB7397114B74396F362E",
+      "url": "https://github.com/cometcake575/FSMSeer-HK/releases/download/1.0.0.0/FSMSeer.zip"
+    },
+    "dependencies": [],
+    "repository": "https://github.com/cometcake575/FSMSeer-HK",
+    "issues": "https://github.com/cometcake575/FSMSeer-HK/issues",
+    "tags": [
+      "Utility"
+    ],
+    "authors": [
+      "cometcake575"
     ]
   },
   "FullSpeedAhead": {
@@ -9212,11 +9230,11 @@
   },
   "RngSync": {
     "description": "A Hollow Knight mod that makes a lot of RNG deterministic",
-    "version": "0.3.1.0",
+    "version": "0.3.2.0",
     "links": {
       "type": "universal",
-      "sha256": "E3CB1BB062650C1A2B1B25141B4CFCCD360499B76B1E174E1BA929EEC55E3644",
-      "url": "https://github.com/olvior/RngSync/releases/download/v0.3.1/RngSync.zip"
+      "sha256": "520B3764272ABDF030B92495A7A66E7E3F7A6737C918739F0A9C6BF08F91491D",
+      "url": "https://github.com/olvior/RngSync/releases/download/v0.3.2/RngSync.zip"
     },
     "dependencies": [],
     "repository": "https://github.com/olvior/RngSync/",
@@ -10844,6 +10862,27 @@
     ],
     "authors": [
       "U-tale"
+    ]
+  },
+  "UltimateChickenKnight": {
+    "description": "Ultimate Chicken Horse in Hollow Knight, using HKMP and the Architect mod.",
+    "version": "3.28.0.5",
+    "links": {
+      "type": "universal",
+      "sha256": "096C337EE5442F2BB29CD6A5E5F9DB3FD296E93F60623B4D9C2BBB15D10FAB39",
+      "url": "https://github.com/cometcake575/UltimateChickenKnight/releases/download/1.0.10.0/UltimateChickenKnight.zip"
+    },
+    "dependencies": [
+      "Architect",
+      "HKMP"
+    ],
+    "repository": "https://github.com/cometcake575/UltimateChickenKnight",
+    "issues": "https://github.com/cometcake575/UltimateChickenKnight/issues",
+    "tags": [
+      "Gameplay"
+    ],
+    "authors": [
+      "cometcake575"
     ]
   },
   "UnRando": {

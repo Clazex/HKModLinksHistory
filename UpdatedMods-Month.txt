@@ -29,3 +29,5 @@ Charm Rebalanced
 Shared Health
 Architect
 Charm Rebalanced
+Architect
+RngSync

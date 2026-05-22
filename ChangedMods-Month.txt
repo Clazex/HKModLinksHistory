@@ -46,3 +46,7 @@ Architect
 ArchitectLegacy
 Charm Rebalanced
 TextMasher
+Architect
+FsmSeer
+RngSync
+UltimateChickenKnight

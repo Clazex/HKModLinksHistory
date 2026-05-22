@@ -60,6 +60,12 @@
   + ItemSync
   + MultiWorld
 
+### FsmSeer
+
+- Description: Shows active FSM names and states above objects when F3 is pressed.
+- Tags
+  + Utility
+
 ### HKTags
 
 - Description: A library mod that allows you to set n&#x27; get tags and attributes
@@ -130,6 +136,15 @@
 - Tags
   + Gameplay
 
+### UltimateChickenKnight
+
+- Description: Ultimate Chicken Horse in Hollow Knight, using HKMP and the Architect mod.
+- Dependencies
+  + Architect
+  + HKMP
+- Tags
+  + Gameplay
+
 ### WavLib
 
 - Description: A library to read and write WAV files.
@@ -145,7 +160,7 @@
 
 ### Architect
 
-- Version: 1.18.0.4 -> 3.28.0.4
+- Version: 1.18.0.4 -> 3.28.0.6
 - Description
   + Old: A level editor mod, allowing you to customise Hollow Knight by adding or removing platforms, enemies and more with an in-game level editor and level sharer.
   + New: A Hollow Knight level editor mod, easily make and share custom levels with an in-game level editor and level sharer.
