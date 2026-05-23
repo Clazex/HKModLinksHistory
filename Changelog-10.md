@@ -1,13 +1,9 @@
 # Changelog
 
 
-## New mods
+## Updated mods
 
-### LieButton
+### RngSync
 
-- Description: A simple mod for Hollow Knight. Press a certain customizable key to lie down or get up, like a switch.
-- Dependencies
-  + Satchel
-- Tags
-  + Cosmetic
+- Version: 0.3.0.0 -> 0.3.1.0
 

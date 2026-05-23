@@ -160,7 +160,7 @@
 
 ### Architect
 
-- Version: 1.18.0.4 -> 3.28.0.6
+- Version: 1.18.0.4 -> 3.28.0.7
 - Description
   + Old: A level editor mod, allowing you to customise Hollow Knight by adding or removing platforms, enemies and more with an in-game level editor and level sharer.
   + New: A Hollow Knight level editor mod, easily make and share custom levels with an in-game level editor and level sharer.
@@ -173,18 +173,6 @@
   + Removed
     - Scattered and Lost
 
-### BingoAdvancedCustomGeneration
-
-- Version: 1.1.0.0 -> 1.1.1.0
-
-### BingoBoardReplay
-
-- Version: 1.3.1.0 -> 1.3.4.4
-
-### BingoSync
-
-- Version: 1.4.4.5 -> 1.4.5.5
-
 ### DeVect
 
 - Version: 1.0.0.0 -> 2.0.0.0
@@ -193,17 +181,13 @@
 
 - Version: 1.0.1.0 -> 1.0.2.0
 
-### GodhomeQoL
-
-- Version: 1.0.1.1 -> 1.0.1.2
-
 ### HKMP.VoiceChat
 
 - Version: 0.1.0.0 -> 0.2.0.0
 
 ### MoreStags
 
-- Version: 1.1.0.1 -> 1.1.0.3
+- Version: 1.1.0.2 -> 1.1.0.3
 
 ### NotBackgroundObjectRando
 
@@ -215,10 +199,6 @@
 ### Randomizable Levers
 
 - Version: 1.2.6.4 -> 1.2.6.5
-
-### ReplayLogger
-
-- Version: 1.1.0.1 -> 1.1.0.3
 
 ### ReplayTimerMod
 
