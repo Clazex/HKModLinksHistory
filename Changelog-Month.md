@@ -16,13 +16,12 @@
 - Tags
   + Gameplay
 
-### BingoGoalPackSpleengy
+### BrokeLocUtil
 
-- Description: An alternate bingo goalpack designed for the lockout format
+- Description: A debug extension to grant unreachable rando locations
 - Dependencies
-  + BingoAdvancedCustomGeneration
-  + BingoGoalPack1
-  + BingoSync
+  + DebugMod
+  + ItemChanger
 
 ### Broken Nail
 
@@ -43,7 +42,7 @@
 
 ### Charm Rebalanced
 
-- Description: Click [View Readme] to see all the changes. If you enjoy the mod, please consider giving the repository a star, this will help spread the mod to more people!
+- Description: Click [View Readme] to see all the changes. If you enjoy the mod, please consider giving the GitHub repository a star, this will help spread the mod to more people!
 - Tags
   + Charm
 

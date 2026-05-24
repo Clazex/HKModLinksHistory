@@ -1162,6 +1162,23 @@
       "nerthul11"
     ]
   },
+  "BrokeLocUtil": {
+    "description": "A debug extension to grant unreachable rando locations",
+    "version": "1.0.0.0",
+    "links": {
+      "type": "universal",
+      "sha256": "471840D77DB8E49388E803E4BC754360D6865214AF2EB035CCA03F4E61EB2D04",
+      "url": "https://github.com/TheMathGeek314/BrokeLocUtil/releases/download/v1.0.0.0/BrokeLocUtil.zip"
+    },
+    "dependencies": [
+      "DebugMod",
+      "ItemChanger"
+    ],
+    "repository": "https://github.com/TheMathGeek314/BrokeLocUtil/",
+    "authors": [
+      "TheMathGeek_314"
+    ]
+  },
   "Broken Nail": {
     "description": "Adds a new save mode to hk for the Broken Nail challenge",
     "version": "1.0.0.0",
@@ -1544,12 +1561,12 @@
     ]
   },
   "Charm Rebalanced": {
-    "description": "Click [View Readme] to see all the changes. If you enjoy the mod, please consider giving the repository a star, this will help spread the mod to more people!",
-    "version": "1.0.9.0",
+    "description": "Click [View Readme] to see all the changes. If you enjoy the mod, please consider giving the GitHub repository a star, this will help spread the mod to more people!",
+    "version": "1.1.1.0",
     "links": {
       "type": "universal",
-      "sha256": "F2388C44D3C42BA14227854E4B441B642007E501E321DDAE930E83BEA4D5F119",
-      "url": "https://github.com/GyVn87/Charm-Rebalanced-Mod/releases/download/v1.0.9.0/CharmRebalanced.zip"
+      "sha256": "D40B5C8E089596754A3F393F9B48C326F8DE0E35643D0DF5FDD94E4156C87A41",
+      "url": "https://github.com/GyVn87/Charm-Rebalanced-Mod/releases/download/v1.1.1.0/CharmRebalanced.zip"
     },
     "dependencies": [],
     "repository": "https://github.com/GyVn87/Charm-Rebalanced-Mod/",

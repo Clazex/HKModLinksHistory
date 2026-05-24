@@ -1,4 +1,2 @@
 Architect
-FsmSeer
-RngSync
 UltimateChickenKnight

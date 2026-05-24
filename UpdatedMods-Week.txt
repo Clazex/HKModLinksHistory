@@ -1,8 +1,7 @@
-Charm Rebalanced
-Shared Health
 Architect
 Charm Rebalanced
 Architect
 RngSync
 Architect
 UltimateChickenKnight
+Charm Rebalanced

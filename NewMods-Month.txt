@@ -1,4 +1,3 @@
-BingoGoalPackSpleengy
 Charm Loadouts
 Broken Nail
 DeathSync
@@ -17,3 +16,4 @@ ArchitectLegacy
 TextMasher
 FsmSeer
 UltimateChickenKnight
+BrokeLocUtil

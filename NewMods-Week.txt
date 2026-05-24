@@ -2,3 +2,4 @@ ArchitectLegacy
 TextMasher
 FsmSeer
 UltimateChickenKnight
+BrokeLocUtil

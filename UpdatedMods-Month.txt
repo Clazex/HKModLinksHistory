@@ -27,3 +27,4 @@ Architect
 RngSync
 Architect
 UltimateChickenKnight
+Charm Rebalanced
