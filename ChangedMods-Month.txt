@@ -1,4 +1,3 @@
-Charm Loadouts
 VendorRando
 Shared Health
 RgbRando

@@ -32,14 +32,6 @@
 - Tags
   + Gameplay
 
-### Charm Loadouts
-
-- Description: Allows you to save and load up to 3 charm builds while resting at a bench.
-- Dependencies
-  + Satchel
-- Tags
-  + Gameplay
-
 ### Charm Rebalanced
 
 - Description: Click [View Readme] to see all the changes. If you enjoy the mod, please consider giving the GitHub repository a star, this will help spread the mod to more people!
