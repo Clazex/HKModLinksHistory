@@ -10,3 +10,4 @@ Architect
 UltimateChickenKnight
 BrokeLocUtil
 Charm Rebalanced
+Architect

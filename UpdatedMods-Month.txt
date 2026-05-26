@@ -1,4 +1,3 @@
-VendorRando
 Shared Health
 RgbRando
 NotBackgroundObjectRando
@@ -28,3 +27,4 @@ RngSync
 Architect
 UltimateChickenKnight
 Charm Rebalanced
+Architect

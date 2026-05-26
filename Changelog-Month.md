@@ -151,7 +151,7 @@
 
 ### Architect
 
-- Version: 1.18.0.4 -> 3.28.0.7
+- Version: 1.18.0.4 -> 3.28.0.9
 - Description
   + Old: A level editor mod, allowing you to customise Hollow Knight by adding or removing platforms, enemies and more with an in-game level editor and level sharer.
   + New: A Hollow Knight level editor mod, easily make and share custom levels with an in-game level editor and level sharer.
@@ -213,10 +213,6 @@
 - Dependencies
   + Added
     - Lifeblood
-
-### VendorRando
-
-- Version: 1.1.2.0 -> 1.1.3.0
 
 ### YetAnotherRandoConnection
 
