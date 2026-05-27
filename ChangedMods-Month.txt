@@ -1,4 +1,3 @@
-Shared Health
 RgbRando
 NotBackgroundObjectRando
 YetAnotherRandoConnection
@@ -46,3 +45,8 @@ UltimateChickenKnight
 BrokeLocUtil
 Charm Rebalanced
 Architect
+Architect
+Charm Rebalanced
+ItemCreator
+SkinBenchRoulette
+TheRealTransitionRando

@@ -488,14 +488,15 @@
   },
   "Architect": {
     "description": "A Hollow Knight level editor mod, easily make and share custom levels with an in-game level editor and level sharer.",
-    "version": "3.28.0.9",
+    "version": "3.28.0.10",
     "links": {
       "type": "universal",
-      "sha256": "F1AEFD781F0D1857B8C403447B43A294E0979AEB7CAAE487A589FD4EC7366C18",
-      "url": "https://github.com/cometcake575/Architect-HK/releases/download/3.28.0.9/Architect.zip"
+      "sha256": "34A3B52F67D7EC8D5DCE8FD6E9CCBD5338F4DF7F88E9A3E7A4E0E324622CE4F9",
+      "url": "https://github.com/cometcake575/Architect-HK/releases/download/3.28.0.10/Architect.zip"
     },
     "dependencies": [
       "ItemChanger",
+      "ItemCreator",
       "SFCore",
       "Satchel"
     ],
@@ -1562,13 +1563,15 @@
   },
   "Charm Rebalanced": {
     "description": "Click [View Readme] to see all the changes. If you enjoy the mod, please consider giving the GitHub repository a star, this will help spread the mod to more people!",
-    "version": "1.1.1.0",
+    "version": "1.1.2.0",
     "links": {
       "type": "universal",
-      "sha256": "D40B5C8E089596754A3F393F9B48C326F8DE0E35643D0DF5FDD94E4156C87A41",
-      "url": "https://github.com/GyVn87/Charm-Rebalanced-Mod/releases/download/v1.1.1.0/CharmRebalanced.zip"
+      "sha256": "B0E6A20722B26FA23DA6C336889BBDE6D41C2AC4536A4224900B9813D39AD0AC",
+      "url": "https://github.com/GyVn87/Charm-Rebalanced-Mod/releases/download/v1.1.2.0/CharmRebalanced.zip"
     },
-    "dependencies": [],
+    "dependencies": [
+      "SFCore"
+    ],
     "repository": "https://github.com/GyVn87/Charm-Rebalanced-Mod/",
     "issues": "https://github.com/GyVn87/Charm-Rebalanced-Mod/issues",
     "tags": [
@@ -5739,6 +5742,26 @@
     ],
     "repository": "https://github.com/homothetyhk/ItemChangerDataLoader/"
   },
+  "ItemCreator": {
+    "description": "Library used to create custom items that show up in the inventory.",
+    "version": "1.0.0.1",
+    "links": {
+      "type": "universal",
+      "sha256": "2059C905A2DE76C8DB1EEBE90F60ADFB3690F96DED57AF40FB7CD3385FE1DC53",
+      "url": "https://github.com/cometcake575/ItemCreator-HK/releases/download/1.0.0.1/ItemCreator.zip"
+    },
+    "dependencies": [
+      "Satchel"
+    ],
+    "repository": "https://github.com/cometcake575/ItemCreator-HK",
+    "issues": "https://github.com/cometcake575/ItemCreator-HK/issues",
+    "tags": [
+      "Library"
+    ],
+    "authors": [
+      "cometcake575"
+    ]
+  },
   "ItemSync": {
     "description": "A RandomizerMod 4 add-on for sharing item pickups between players. The default IP no longer works. Please use `mw.hkmp.org` if you want to connect to the public server.",
     "version": "2.7.3.0",
@@ -9892,6 +9915,26 @@
       "Randomizer 4"
     ]
   },
+  "SkinBenchRoulette": {
+    "description": "Randomizes your Custom Knight skin every time you sit on a bench! Automatically detects your downloaded skins.",
+    "version": "1.1.0.0",
+    "links": {
+      "type": "universal",
+      "sha256": "7B28C4CF709BFC51FE066E4DDC9E1983AE7C70F4D2ACB5F16299E4B62FD215E1",
+      "url": "https://github.com/gabgio5311-jpg/SkinBenchRoulette/releases/download/v1.1.0/SkinBenchRoulette.dll"
+    },
+    "dependencies": [
+      "Custom Knight"
+    ],
+    "repository": "https://github.com/gabgio5311-jpg/SkinBenchRoulette",
+    "issues": "https://github.com/gabgio5311-jpg/SkinBenchRoulette/issues",
+    "tags": [
+      "Cosmetic"
+    ],
+    "authors": [
+      "gabgio5311-jpg"
+    ]
+  },
   "SkipToRadiance": {
     "description": "Makes HK instantly go to phase 4 after dying to The Radiance. Useful for practicing modded Radiance or just if you're too slack to fight HK over and over.",
     "version": "1.0.0.0",
@@ -10653,11 +10696,11 @@
   },
   "TheRealTransitionRando": {
     "description": "A Randomizer connection that puts transitions into the same pool as the other items",
-    "version": "1.1.0.0",
+    "version": "1.1.0.1",
     "links": {
       "type": "universal",
-      "sha256": "712318B3D4D23139F4689909F18366CA75B1EBE9916617C310826D65A965960E",
-      "url": "https://github.com/TheMathGeek314/TheRealTransitionRando/releases/download/v1.1.0.0/TheRealTransitionRando.zip"
+      "sha256": "14AFEEBA32A19AFC172B8CCEC1E46E9104DCE3B1AC0777FB35C1302307672162",
+      "url": "https://github.com/TheMathGeek314/TheRealTransitionRando/releases/download/v1.1.0.1/TheRealTransitionRando.zip"
     },
     "dependencies": [
       "ItemChanger",

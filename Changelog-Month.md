@@ -35,6 +35,8 @@
 ### Charm Rebalanced
 
 - Description: Click [View Readme] to see all the changes. If you enjoy the mod, please consider giving the GitHub repository a star, this will help spread the mod to more people!
+- Dependencies
+  + SFCore
 - Tags
   + Charm
 
@@ -71,6 +73,14 @@
   + WavLib
 - Tags
   + Gameplay
+
+### ItemCreator
+
+- Description: Library used to create custom items that show up in the inventory.
+- Dependencies
+  + Satchel
+- Tags
+  + Library
 
 ### Lego Power Bricks
 
@@ -121,6 +131,14 @@
 
 - Description: A Hollow Knight mod that makes a lot of RNG deterministic
 
+### SkinBenchRoulette
+
+- Description: Randomizes your Custom Knight skin every time you sit on a bench! Automatically detects your downloaded skins.
+- Dependencies
+  + Custom Knight
+- Tags
+  + Cosmetic
+
 ### TextMasher
 
 - Description: Auto mashes through textboxes if you are holding Nail, Jump or Focus.
@@ -151,7 +169,7 @@
 
 ### Architect
 
-- Version: 1.18.0.4 -> 3.28.0.9
+- Version: 1.18.0.4 -> 3.28.0.10
 - Description
   + Old: A level editor mod, allowing you to customise Hollow Knight by adding or removing platforms, enemies and more with an in-game level editor and level sharer.
   + New: A Hollow Knight level editor mod, easily make and share custom levels with an in-game level editor and level sharer.
@@ -160,6 +178,7 @@
     - MagicUI
   + Added
     - ItemChanger
+    - ItemCreator
 - Integrations
   + Removed
     - Scattered and Lost
@@ -201,11 +220,11 @@
 
 ### Shared Health
 
-- Version: 1.0.1.0 -> 1.0.3.0
+- Version: 1.0.2.0 -> 1.0.3.0
 
 ### TheRealTransitionRando
 
-- Version: 1.0.1.1 -> 1.1.0.0
+- Version: 1.0.1.1 -> 1.1.0.1
 
 ### Vampire Knight
 

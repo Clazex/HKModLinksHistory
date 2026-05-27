@@ -1,8 +1,4 @@
 Architect
-ArchitectLegacy
-Charm Rebalanced
-TextMasher
-Architect
 FsmSeer
 RngSync
 UltimateChickenKnight
@@ -11,3 +7,8 @@ UltimateChickenKnight
 BrokeLocUtil
 Charm Rebalanced
 Architect
+Architect
+Charm Rebalanced
+ItemCreator
+SkinBenchRoulette
+TheRealTransitionRando
