@@ -10,12 +10,6 @@
   + DebugMod
   + ItemChanger
 
-### FsmSeer
-
-- Description: Shows active FSM names and states above objects when F3 is pressed.
-- Tags
-  + Utility
-
 ### ItemCreator
 
 - Description: Library used to create custom items that show up in the inventory.
@@ -32,21 +26,12 @@
 - Tags
   + Cosmetic
 
-### UltimateChickenKnight
-
-- Description: Ultimate Chicken Horse in Hollow Knight, using HKMP and the Architect mod.
-- Dependencies
-  + Architect
-  + HKMP
-- Tags
-  + Gameplay
-
 
 ## Updated mods
 
 ### Architect
 
-- Version: 3.28.0.4 -> 3.28.0.10
+- Version: 3.28.0.6 -> 3.28.0.10
 - Dependencies
   + Added
     - ItemCreator
@@ -61,11 +46,15 @@
   + Added
     - SFCore
 
-### RngSync
-
-- Version: 0.3.1.0 -> 0.3.2.0
-
 ### TheRealTransitionRando
 
 - Version: 1.1.0.0 -> 1.1.0.1
+
+### UltimateChickenKnight
+
+- Version: 3.28.0.5 -> 4.0.10.0
+
+### YetAnotherRandoConnection
+
+- Version: 1.2.2.1 -> 1.2.2.2
 

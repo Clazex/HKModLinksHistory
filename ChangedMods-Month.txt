@@ -50,3 +50,4 @@ Charm Rebalanced
 ItemCreator
 SkinBenchRoulette
 TheRealTransitionRando
+YetAnotherRandoConnection

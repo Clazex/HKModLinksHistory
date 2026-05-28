@@ -1,8 +1,4 @@
 Architect
-FsmSeer
-RngSync
-UltimateChickenKnight
-Architect
 UltimateChickenKnight
 BrokeLocUtil
 Charm Rebalanced
@@ -12,3 +8,4 @@ Charm Rebalanced
 ItemCreator
 SkinBenchRoulette
 TheRealTransitionRando
+YetAnotherRandoConnection

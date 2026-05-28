@@ -11493,11 +11493,11 @@
   },
   "YetAnotherRandoConnection": {
     "description": "A Randomizer add-on with an assortment of additions",
-    "version": "1.2.2.1",
+    "version": "1.2.2.2",
     "links": {
       "type": "universal",
-      "sha256": "8DB8209B883D027C1B0B414457A93C0A7A37E4EFA9CA8182A1CC24D34753F2B9",
-      "url": "https://github.com/TheMathGeek314/YetAnotherRandoConnection/releases/download/v1.2.2.1/YetAnotherRandoConnection.zip"
+      "sha256": "51C5237C8D519E35DF3CD0498118F1032D7141126FF20707C3FF7684AB146CA7",
+      "url": "https://github.com/TheMathGeek314/YetAnotherRandoConnection/releases/download/v1.2.2.2/YetAnotherRandoConnection.zip"
     },
     "dependencies": [
       "ItemChanger",
