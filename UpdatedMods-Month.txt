@@ -1,4 +1,3 @@
-RgbRando
 NotBackgroundObjectRando
 YetAnotherRandoConnection
 Ado Death Scream
@@ -31,3 +30,6 @@ Architect
 Charm Rebalanced
 TheRealTransitionRando
 YetAnotherRandoConnection
+Architect
+Charm Rebalanced
+ItemCreator

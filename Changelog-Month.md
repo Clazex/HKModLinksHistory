@@ -16,6 +16,13 @@
 - Tags
   + Gameplay
 
+### BossLib
+
+- Description: Makes creating bosses easier. Does nothing on its own.
+- Tags
+  + Library
+  + Utility
+
 ### BrokeLocUtil
 
 - Description: A debug extension to grant unreachable rando locations
@@ -69,7 +76,7 @@
 
 - Description: A mod which adds Skongs ACT system to hk. Act positions based of Singbuzzordenethcut video on yt.
 - Dependencies
-  + SFCore
+  + MagicUI
   + WavLib
 - Tags
   + Gameplay
@@ -169,7 +176,7 @@
 
 ### Architect
 
-- Version: 1.18.0.4 -> 3.28.0.10
+- Version: 1.18.0.4 -> 3.28.0.12
 - Description
   + Old: A level editor mod, allowing you to customise Hollow Knight by adding or removing platforms, enemies and more with an in-game level editor and level sharer.
   + New: A Hollow Knight level editor mod, easily make and share custom levels with an in-game level editor and level sharer.
@@ -213,10 +220,6 @@
 ### ReplayTimerMod
 
 - Version: 0.3.0.0 -> 0.4.0.0
-
-### RgbRando
-
-- Version: 1.0.0.0 -> 1.1.0.0
 
 ### Shared Health
 

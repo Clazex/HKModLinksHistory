@@ -1,5 +1,3 @@
-Architect
-UltimateChickenKnight
 BrokeLocUtil
 Charm Rebalanced
 Architect
@@ -9,3 +7,7 @@ ItemCreator
 SkinBenchRoulette
 TheRealTransitionRando
 YetAnotherRandoConnection
+Architect
+BossLib
+Charm Rebalanced
+ItemCreator
