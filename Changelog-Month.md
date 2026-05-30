@@ -208,10 +208,7 @@
 
 ### NotBackgroundObjectRando
 
-- Version: 1.0.0.0 -> 1.0.1.1
-- Dependencies
-  + Added
-    - RandomizerCore.Json
+- Version: 1.0.1.0 -> 1.0.1.1
 
 ### Randomizable Levers
 
@@ -238,5 +235,5 @@
 
 ### YetAnotherRandoConnection
 
-- Version: 1.2.1.0 -> 1.2.2.2
+- Version: 1.2.2.0 -> 1.2.2.2
 

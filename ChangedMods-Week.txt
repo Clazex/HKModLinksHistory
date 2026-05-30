@@ -1,5 +1,3 @@
-BrokeLocUtil
-Charm Rebalanced
 Architect
 Architect
 Charm Rebalanced
@@ -11,3 +9,4 @@ Architect
 BossLib
 Charm Rebalanced
 ItemCreator
+Charm Rebalanced

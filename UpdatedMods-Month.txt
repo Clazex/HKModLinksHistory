@@ -1,5 +1,3 @@
-NotBackgroundObjectRando
-YetAnotherRandoConnection
 Ado Death Scream
 EdgeDetection
 MoreStags
@@ -33,3 +31,4 @@ YetAnotherRandoConnection
 Architect
 Charm Rebalanced
 ItemCreator
+Charm Rebalanced
