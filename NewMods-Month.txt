@@ -1,5 +1,3 @@
-Broken Nail
-DeathSync
 RngCounters
 Lifeblood
 Master
@@ -19,3 +17,5 @@ BrokeLocUtil
 ItemCreator
 SkinBenchRoulette
 BossLib
+EnemiesFightingEachOther
+VengeflyBombardier

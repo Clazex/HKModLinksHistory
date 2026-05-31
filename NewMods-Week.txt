@@ -1,3 +1,5 @@
 ItemCreator
 SkinBenchRoulette
 BossLib
+EnemiesFightingEachOther
+VengeflyBombardier

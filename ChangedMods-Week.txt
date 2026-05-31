@@ -10,3 +10,6 @@ BossLib
 Charm Rebalanced
 ItemCreator
 Charm Rebalanced
+Charm Rebalanced
+EnemiesFightingEachOther
+VengeflyBombardier

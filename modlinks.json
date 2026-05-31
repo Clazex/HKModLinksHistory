@@ -1582,11 +1582,11 @@
   },
   "Charm Rebalanced": {
     "description": "Click [View Readme] to see all the changes. If you enjoy the mod, please consider giving the GitHub repository a star, this will help spread the mod to more people!",
-    "version": "1.1.4.0",
+    "version": "1.1.6.0",
     "links": {
       "type": "universal",
-      "sha256": "4307C439A149381066401AEE1AB95EABD6541F775A672A3E418FBA96C29B8C52",
-      "url": "https://github.com/GyVn87/Charm-Rebalanced-Mod/releases/download/v1.1.4.0/CharmRebalanced.zip"
+      "sha256": "91288A31ECAB44BD7DC87EEF568A08F01EE26EB46DB755589F461C2AD9596E3D",
+      "url": "https://github.com/GyVn87/Charm-Rebalanced-Mod/releases/download/v1.1.6.0/CharmRebalanced.zip"
     },
     "dependencies": [
       "SFCore"
@@ -3306,6 +3306,27 @@
     "repository": "https://github.com/TheMathGeek314/EndlessIBaldur/",
     "authors": [
       "TheMathGeek_314"
+    ]
+  },
+  "EnemiesFightingEachOther": {
+    "description": "Allows the player to spawn in Gruz Mother and Hive Knight and have them fight each other",
+    "version": "0.1.1.5",
+    "links": {
+      "type": "universal",
+      "sha256": "E80DA57E1DDA26BF214E2963951D757DB1EF67A692849626BA70B9A45F534B29",
+      "url": "https://github.com/jnmcallister/EnemiesFightingEachOther/releases/download/0.1.1.5/EnemiesFightingEachOther.zip"
+    },
+    "dependencies": [
+      "Core.FsmUtil",
+      "Satchel"
+    ],
+    "repository": "https://github.com/jnmcallister/EnemiesFightingEachOther",
+    "issues": "https://github.com/jnmcallister/EnemiesFightingEachOther/issues",
+    "tags": [
+      "Gameplay"
+    ],
+    "authors": [
+      "Foxyrobo"
     ]
   },
   "Enemy HP Bar": {
@@ -11241,6 +11262,26 @@
     ],
     "authors": [
       "TheMathGeek_314"
+    ]
+  },
+  "VengeflyBombardier": {
+    "description": "VengeflyBombardier is a Hollow Knight mod that turns the Vengefly King into a much more aggressive boss encounter.",
+    "version": "1.0.0.0",
+    "links": {
+      "type": "universal",
+      "sha256": "89CF33A0F94DF2F38021D06B3BA2DDDEEF9ACF7C1EBC88FE4B05FC305074DB8E",
+      "url": "https://github.com/windplusflower/VengeflyBombardier/releases/download/v1.0/VengeflyBombardier.zip"
+    },
+    "dependencies": [
+      "Satchel"
+    ],
+    "repository": "https://github.com/windplusflower/VengeflyBombardier",
+    "issues": "https://github.com/windplusflower/VengeflyBombardier/issues",
+    "tags": [
+      "Boss"
+    ],
+    "authors": [
+      "Windflower"
     ]
   },
   "Vessel May Cry": {

@@ -30,15 +30,6 @@
   + DebugMod
   + ItemChanger
 
-### Broken Nail
-
-- Description: Adds a new save mode to hk for the Broken Nail challenge
-- Dependencies
-  + ItemChanger
-  + MenuChanger
-- Tags
-  + Gameplay
-
 ### Charm Rebalanced
 
 - Description: Click [View Readme] to see all the changes. If you enjoy the mod, please consider giving the GitHub repository a star, this will help spread the mod to more people!
@@ -47,18 +38,14 @@
 - Tags
   + Charm
 
-### DeathSync
+### EnemiesFightingEachOther
 
-- Description: An ItemSync/MultiWorld extension to link your deaths
+- Description: Allows the player to spawn in Gruz Mother and Hive Knight and have them fight each other
 - Dependencies
-  + ItemChanger
-  + KorzUtils
-  + MenuChanger
-  + MultiWorldLib
-  + Randomizer 4
-- Integrations
-  + ItemSync
-  + MultiWorld
+  + Core.FsmUtil
+  + Satchel
+- Tags
+  + Gameplay
 
 ### FsmSeer
 
@@ -161,6 +148,14 @@
 - Tags
   + Gameplay
 
+### VengeflyBombardier
+
+- Description: VengeflyBombardier is a Hollow Knight mod that turns the Vengefly King into a much more aggressive boss encounter.
+- Dependencies
+  + Satchel
+- Tags
+  + Boss
+
 ### WavLib
 
 - Description: A library to read and write WAV files.
@@ -169,10 +164,6 @@
 
 
 ## Updated mods
-
-### Ado Death Scream
-
-- Version: 1.0.0.0 -> 1.2.0.0
 
 ### Architect
 
@@ -194,17 +185,9 @@
 
 - Version: 1.0.0.0 -> 2.0.0.0
 
-### EdgeDetection
-
-- Version: 1.0.1.0 -> 1.0.2.0
-
 ### HKMP.VoiceChat
 
 - Version: 0.1.0.0 -> 0.2.0.0
-
-### MoreStags
-
-- Version: 1.1.0.2 -> 1.1.0.3
 
 ### NotBackgroundObjectRando
 
@@ -235,5 +218,5 @@
 
 ### YetAnotherRandoConnection
 
-- Version: 1.2.2.0 -> 1.2.2.2
+- Version: 1.2.2.1 -> 1.2.2.2
 

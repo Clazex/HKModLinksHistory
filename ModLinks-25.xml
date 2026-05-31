@@ -845,6 +845,25 @@ Not recommended for use in new mods.</Description>
         </Authors>
     </Manifest>
     <Manifest>
+        <Name>RngCounters</Name>
+        <Description>A Hollow Knight mod that counts RNG in annoying spots.</Description>
+        <Version>1.1.0.0</Version>
+        <Link SHA256="16044f9b5f13d307960a1301c9039ef6f5ee5a44b5ab32ed6dc39c4ff34d2ba6">
+            <![CDATA[https://github.com/Pengwizard/RngCounters/releases/download/v1.1.0/RngCounters.zip]]>
+        </Link>
+        <Dependencies>
+            <Dependency>MagicUI</Dependency>
+            <Dependency>Satchel</Dependency>
+			<Dependency>MenuChanger</Dependency>
+        </Dependencies>
+        <Repository>
+            <![CDATA[https://github.com/Pengwizard/RngCounters/]]>
+        </Repository>
+        <Authors>
+            <Author>Nopre</Author>
+        </Authors>
+    </Manifest>
+    <Manifest>
         <Name>RgbRando</Name>
         <Description>A Randomizer connection that allows randomization of RGB values for the shader.</Description>
         <Version>1.1.0.0</Version>
