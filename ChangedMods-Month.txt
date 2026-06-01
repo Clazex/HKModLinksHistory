@@ -1,4 +1,3 @@
-DeVect
 Randomizable Levers
 ReplayTimerMod
 HKMP.VoiceChat
@@ -50,3 +49,4 @@ Charm Rebalanced
 Charm Rebalanced
 EnemiesFightingEachOther
 VengeflyBombardier
+Charm Rebalanced

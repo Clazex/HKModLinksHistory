@@ -1,5 +1,4 @@
 Architect
-Architect
 Charm Rebalanced
 ItemCreator
 SkinBenchRoulette
@@ -13,3 +12,4 @@ Charm Rebalanced
 Charm Rebalanced
 EnemiesFightingEachOther
 VengeflyBombardier
+Charm Rebalanced

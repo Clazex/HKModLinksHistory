@@ -48,14 +48,14 @@
 
 ### Architect
 
-- Version: 3.28.0.7 -> 3.28.0.12
+- Version: 3.28.0.9 -> 3.28.0.12
 - Dependencies
   + Added
     - ItemCreator
 
 ### Charm Rebalanced
 
-- Version: 1.1.1.0 -> 1.1.6.0
+- Version: 1.1.1.0 -> 1.1.7.0
 - Dependencies
   + Added
     - SFCore
