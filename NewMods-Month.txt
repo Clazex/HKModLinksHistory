@@ -19,3 +19,7 @@ SkinBenchRoulette
 BossLib
 EnemiesFightingEachOther
 VengeflyBombardier
+Ghost Macro
+Noclip Accuracy
+RespawnPoint Manager
+Spell Counter

@@ -50,3 +50,9 @@ Charm Rebalanced
 EnemiesFightingEachOther
 VengeflyBombardier
 Charm Rebalanced
+Charm Rebalanced
+Ghost Macro
+Noclip Accuracy
+RespawnPoint Manager
+Spell Counter
+YetAnotherRandoConnection

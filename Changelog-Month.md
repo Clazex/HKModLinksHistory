@@ -53,6 +53,16 @@
 - Tags
   + Utility
 
+### Ghost Macro
+
+- Description: Scene-based hitbox recording and replay system with timeline playback, multi-visit support, and macro-like ghost replays
+- Dependencies
+  + DebugMod
+  + MagicUI
+  + Satchel
+- Tags
+  + Gameplay
+
 ### HKTags
 
 - Description: A library mod that allows you to set n&#x27; get tags and attributes
@@ -113,6 +123,24 @@
 - Tags
   + Gameplay
 
+### Noclip Accuracy
+
+- Description: A lightweight mod that tracks how many spike damage hits you take during noclip / practice runs
+- Dependencies
+  + MagicUI
+  + Satchel
+- Tags
+  + Gameplay
+
+### RespawnPoint Manager
+
+- Description: Spawnpoint manager that tracks, saves, and switches player checkpoints across scene with quick reset and custom spawn control
+- Dependencies
+  + MagicUI
+  + Satchel
+- Tags
+  + Gameplay
+
 ### RngCounters
 
 - Description: A Hollow Knight mod that counts RNG in annoying spots.
@@ -132,6 +160,16 @@
   + Custom Knight
 - Tags
   + Cosmetic
+
+### Spell Counter
+
+- Description: Spell counter mod with many modes: Spells, Casual and Chain Shorogos
+- Dependencies
+  + MagicUI
+  + ModCommon
+  + Satchel
+- Tags
+  + Gameplay
 
 ### TextMasher
 
@@ -214,5 +252,5 @@
 
 ### YetAnotherRandoConnection
 
-- Version: 1.2.2.1 -> 1.2.2.2
+- Version: 1.2.2.1 -> 1.2.2.3
 

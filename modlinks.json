@@ -1582,11 +1582,11 @@
   },
   "Charm Rebalanced": {
     "description": "Click [View Readme] to see all the changes. If you enjoy the mod, please consider giving the GitHub repository a star, this will help spread the mod to more people!",
-    "version": "1.1.7.0",
+    "version": "1.1.8.0",
     "links": {
       "type": "universal",
-      "sha256": "47B79ED1C9011F719325BB7EAEC204B77E4DCE7832DF9BF8A240C8DDB62F673C",
-      "url": "https://github.com/GyVn87/Charm-Rebalanced-Mod/releases/download/v1.1.7.0/CharmRebalanced.zip"
+      "sha256": "7C7C73AF6820AB73BBCEAC12062AC82EA3A878BB5F19CC1DCB66F156C8F775C2",
+      "url": "https://github.com/GyVn87/Charm-Rebalanced-Mod/releases/download/v1.1.8.0/CharmRebalanced.zip"
     },
     "dependencies": [
       "SFCore"
@@ -4349,6 +4349,27 @@
     ],
     "authors": [
       "TheMathGeek_314"
+    ]
+  },
+  "Ghost Macro": {
+    "description": "Scene-based hitbox recording and replay system with timeline playback, multi-visit support, and macro-like ghost replays",
+    "version": "1.0.0.0",
+    "links": {
+      "type": "universal",
+      "sha256": "7AB6653DE492767C8B9807607CE0AFA93FDE3F83FD21DF31FB8DBF8F5CCD71FD",
+      "url": "https://github.com/Ishmael-GameDev/Ghost-Macro/releases/download/v1/Ghost.Macro.dll"
+    },
+    "dependencies": [
+      "DebugMod",
+      "MagicUI",
+      "Satchel"
+    ],
+    "repository": "https://github.com/Ishmael-GameDev/Ghost-Macro",
+    "tags": [
+      "Gameplay"
+    ],
+    "authors": [
+      "Ishmael"
     ]
   },
   "GhostHunter": {
@@ -7601,6 +7622,26 @@
     "dependencies": [],
     "repository": "https://github.com/lukeadickinson/HollowKnight.NoWalkOfShame"
   },
+  "Noclip Accuracy": {
+    "description": "A lightweight mod that tracks how many spike damage hits you take during noclip / practice runs",
+    "version": "1.0.0.0",
+    "links": {
+      "type": "universal",
+      "sha256": "D0A7D7996880251AF339437D863A46582214C4159C9D9ED044E155B52FA47ED4",
+      "url": "https://github.com/Ishmael-GameDev/Noclip-Accuracy/releases/download/v1/Noclip.Accuracy.dll"
+    },
+    "dependencies": [
+      "MagicUI",
+      "Satchel"
+    ],
+    "repository": "https://github.com/Ishmael-GameDev/Noclip-Accuracy",
+    "tags": [
+      "Gameplay"
+    ],
+    "authors": [
+      "Ishmael"
+    ]
+  },
   "Nosk God": {
     "description": "",
     "version": "1.1.0.0",
@@ -9213,6 +9254,26 @@
       "SFGrenade"
     ]
   },
+  "RespawnPoint Manager": {
+    "description": "Spawnpoint manager that tracks, saves, and switches player checkpoints across scene with quick reset and custom spawn control",
+    "version": "1.0.0.0",
+    "links": {
+      "type": "universal",
+      "sha256": "9A01FADFA00A291784D426831ECB546F80AF9C51E1A466E2E33A9D9027EC2BD1",
+      "url": "https://github.com/Ishmael-GameDev/Respawn-Point-Manager/releases/download/v1/RespawnPointManager.dll"
+    },
+    "dependencies": [
+      "MagicUI",
+      "Satchel"
+    ],
+    "repository": "https://github.com/Ishmael-GameDev/Respawn-Point-Manager",
+    "tags": [
+      "Gameplay"
+    ],
+    "authors": [
+      "Ishmael"
+    ]
+  },
   "Restore NKG Title Card": {
     "description": "Restore Godhome NKG Title Card",
     "version": "1.0.0.0",
@@ -10197,6 +10258,27 @@
       "Constructive Cynicism",
       "Mulhima",
       "pseudorandom"
+    ]
+  },
+  "Spell Counter": {
+    "description": "Spell counter mod with many modes: Spells, Casual and Chain Shorogos",
+    "version": "1.0.0.0",
+    "links": {
+      "type": "universal",
+      "sha256": "6E6494DB03B174F403D5F57FF7A01BE42D81501378641FD999E5545B46AD909B",
+      "url": "https://github.com/Ishmael-GameDev/Spell-ounter/releases/download/v1/Spell.ounter.dll"
+    },
+    "dependencies": [
+      "MagicUI",
+      "ModCommon",
+      "Satchel"
+    ],
+    "repository": "https://github.com/Ishmael-GameDev/Spell-ounter",
+    "tags": [
+      "Gameplay"
+    ],
+    "authors": [
+      "Ishmael"
     ]
   },
   "SpellChanger": {
@@ -11553,11 +11635,11 @@
   },
   "YetAnotherRandoConnection": {
     "description": "A Randomizer add-on with an assortment of additions",
-    "version": "1.2.2.2",
+    "version": "1.2.2.3",
     "links": {
       "type": "universal",
-      "sha256": "51C5237C8D519E35DF3CD0498118F1032D7141126FF20707C3FF7684AB146CA7",
-      "url": "https://github.com/TheMathGeek314/YetAnotherRandoConnection/releases/download/v1.2.2.2/YetAnotherRandoConnection.zip"
+      "sha256": "76B959C6C5FD72C2314E1BCAB3FBBC24CC239014EE0D2D462546A73098F71005",
+      "url": "https://github.com/TheMathGeek314/YetAnotherRandoConnection/releases/download/v1.2.2.3/YetAnotherRandoConnection.zip"
     },
     "dependencies": [
       "ItemChanger",

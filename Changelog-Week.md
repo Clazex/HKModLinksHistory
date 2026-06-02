@@ -19,21 +19,43 @@
 - Tags
   + Gameplay
 
-### ItemCreator
+### Ghost Macro
 
-- Description: Library used to create custom items that show up in the inventory.
+- Description: Scene-based hitbox recording and replay system with timeline playback, multi-visit support, and macro-like ghost replays
 - Dependencies
+  + DebugMod
+  + MagicUI
   + Satchel
 - Tags
-  + Library
+  + Gameplay
 
-### SkinBenchRoulette
+### Noclip Accuracy
 
-- Description: Randomizes your Custom Knight skin every time you sit on a bench! Automatically detects your downloaded skins.
+- Description: A lightweight mod that tracks how many spike damage hits you take during noclip / practice runs
 - Dependencies
-  + Custom Knight
+  + MagicUI
+  + Satchel
 - Tags
-  + Cosmetic
+  + Gameplay
+
+### RespawnPoint Manager
+
+- Description: Spawnpoint manager that tracks, saves, and switches player checkpoints across scene with quick reset and custom spawn control
+- Dependencies
+  + MagicUI
+  + Satchel
+- Tags
+  + Gameplay
+
+### Spell Counter
+
+- Description: Spell counter mod with many modes: Spells, Casual and Chain Shorogos
+- Dependencies
+  + MagicUI
+  + ModCommon
+  + Satchel
+- Tags
+  + Gameplay
 
 ### VengeflyBombardier
 
@@ -48,23 +70,17 @@
 
 ### Architect
 
-- Version: 3.28.0.9 -> 3.28.0.12
-- Dependencies
-  + Added
-    - ItemCreator
+- Version: 3.28.0.10 -> 3.28.0.12
 
 ### Charm Rebalanced
 
-- Version: 1.1.1.0 -> 1.1.7.0
-- Dependencies
-  + Added
-    - SFCore
+- Version: 1.1.2.0 -> 1.1.8.0
 
-### TheRealTransitionRando
+### ItemCreator
 
-- Version: 1.1.0.0 -> 1.1.0.1
+- Version: 1.0.0.1 -> 1.0.0.2
 
 ### YetAnotherRandoConnection
 
-- Version: 1.2.2.1 -> 1.2.2.2
+- Version: 1.2.2.1 -> 1.2.2.3
 
