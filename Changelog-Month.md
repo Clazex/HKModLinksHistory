@@ -227,14 +227,6 @@
 
 - Version: 1.0.1.0 -> 1.0.1.1
 
-### Randomizable Levers
-
-- Version: 1.2.6.4 -> 1.2.6.5
-
-### ReplayTimerMod
-
-- Version: 0.3.0.0 -> 0.4.0.0
-
 ### Shared Health
 
 - Version: 1.0.2.0 -> 1.0.3.0

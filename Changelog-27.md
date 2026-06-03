@@ -3,11 +3,22 @@
 
 ## New mods
 
-### RngCounters
+### Lifeblood
 
-- Description: A Hollow Knight mod that counts RNG in annoying spots.
+- Description: Simple lightweight library mod
 - Dependencies
-  + MagicUI
+  + HKMirror
+- Integrations
+  + MoreMasks
+- Tags
+  + Utility
+
+### Master
+
+- Description: Challenge mod based of a terraria mod of the same name
+- Dependencies
+  + ItemChanger
   + MenuChanger
-  + Satchel
+- Tags
+  + Gameplay
 
