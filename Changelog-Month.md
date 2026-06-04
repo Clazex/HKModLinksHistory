@@ -69,6 +69,15 @@
 - Tags
   + Utility
 
+### Hallowest
+
+- Description: Hardcore gameplay overhaul mod for Hollow Knight. Increases difficulty and rebalances combat.
+- Dependencies
+  + Satchel
+- Tags
+  + Expansion
+  + Gameplay
+
 ### Hollow Knight ACTS
 
 - Description: A mod which adds Skongs ACT system to hk. Act positions based of Singbuzzordenethcut video on yt.
@@ -218,10 +227,6 @@
 - Integrations
   + Removed
     - Scattered and Lost
-
-### HKMP.VoiceChat
-
-- Version: 0.1.0.0 -> 0.2.0.0
 
 ### NotBackgroundObjectRando
 

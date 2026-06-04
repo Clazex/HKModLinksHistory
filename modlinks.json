@@ -5136,6 +5136,27 @@
     ],
     "repository": "https://github.com/jngo102/HoGExtras/"
   },
+  "Hallowest": {
+    "description": "Hardcore gameplay overhaul mod for Hollow Knight. Increases difficulty and rebalances combat.",
+    "version": "1.0.1.0",
+    "links": {
+      "type": "universal",
+      "sha256": "4446445019A922EBB13766EF7816F9036A15021E5E7BAFD33C445F4D7B623C0D",
+      "url": "https://github.com/Phant0m21/Hallowest/releases/download/v1.0.1/Hallowest.dll"
+    },
+    "dependencies": [
+      "Satchel"
+    ],
+    "repository": "https://github.com/Phant0m21/Hallowest",
+    "issues": "https://github.com/Phant0m21/Hallowest/issues",
+    "tags": [
+      "Expansion",
+      "Gameplay"
+    ],
+    "authors": [
+      "Phant0m21"
+    ]
+  },
   "Hallownest-Vocalized": {
     "description": "Adds English voice acting to all Hollow Knight's in-game dialogue.",
     "version": "1.0.1.3",

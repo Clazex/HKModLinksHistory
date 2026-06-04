@@ -1,7 +1,3 @@
-Architect
-BossLib
-Charm Rebalanced
-ItemCreator
 Charm Rebalanced
 Charm Rebalanced
 EnemiesFightingEachOther
@@ -13,3 +9,4 @@ Noclip Accuracy
 RespawnPoint Manager
 Spell Counter
 YetAnotherRandoConnection
+Hallowest

@@ -3,13 +3,6 @@
 
 ## New mods
 
-### BossLib
-
-- Description: Makes creating bosses easier. Does nothing on its own.
-- Tags
-  + Library
-  + Utility
-
 ### EnemiesFightingEachOther
 
 - Description: Allows the player to spawn in Gruz Mother and Hive Knight and have them fight each other
@@ -27,6 +20,15 @@
   + MagicUI
   + Satchel
 - Tags
+  + Gameplay
+
+### Hallowest
+
+- Description: Hardcore gameplay overhaul mod for Hollow Knight. Increases difficulty and rebalances combat.
+- Dependencies
+  + Satchel
+- Tags
+  + Expansion
   + Gameplay
 
 ### Noclip Accuracy
@@ -68,17 +70,9 @@
 
 ## Updated mods
 
-### Architect
-
-- Version: 3.28.0.10 -> 3.28.0.12
-
 ### Charm Rebalanced
 
-- Version: 1.1.2.0 -> 1.1.8.0
-
-### ItemCreator
-
-- Version: 1.0.0.1 -> 1.0.0.2
+- Version: 1.1.3.0 -> 1.1.8.0
 
 ### YetAnotherRandoConnection
 
