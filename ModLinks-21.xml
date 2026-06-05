@@ -4,6 +4,30 @@
     xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
     xsi:schemaLocation="https://github.com/HollowKnight-Modding/HollowKnight.ModLinks/HollowKnight.ModManager https://raw.githubusercontent.com/HollowKnight-Modding/HollowKnight.ModLinks/main/Schemas/ModLinks.xml">
 	<Manifest>
+		<Name>Lego Power Bricks</Name>
+		<DisplayName>Lego Power Bricks</DisplayName>
+		<Description>Adds various of the iconic Red Lego Power Bricks to Hollow Knight, in the form of free charms. Currently requires Debug to give yourself the charms.</Description>
+		<Version>1.0.0.0</Version>
+		<Link SHA256="28063c11d769260b6ba134cded83d384f2545c084529042704b4171fb3f0e867"><![CDATA[https://github.com/Thommie0208/LegoBricks/releases/download/v1.0.0/Lego_Power_Bricks.zip]]></Link>
+		<Dependencies>
+			<Dependency>Satchel</Dependency>
+			<Dependency>MagicUI</Dependency>
+			<Dependency>SFCore</Dependency>
+		</Dependencies>
+		<Repository>
+			<![CDATA[https://github.com/Thommie0208/LegoBricks]]>
+		</Repository>
+		<Issues>
+			<![CDATA[https://github.com/Thommie0208/LegoBricks/issues]]>
+		</Issues>
+		<Tags>
+			<Tag>Charm</Tag>
+		</Tags>
+		<Authors>
+			<Author>Thommie</Author>
+		</Authors>
+	</Manifest>
+	<Manifest>
 		<Name>LieButton</Name>
 		<DisplayName>LieButton</DisplayName>
 		<Description>A simple mod for Hollow Knight. Press a certain customizable key to lie down or get up, like a switch.</Description>
@@ -10620,9 +10644,9 @@ Enjoy!</Description>
     <Manifest>
         <Name>Architect</Name>
         <Description>A level editor mod, allowing you to customise Hollow Knight by adding or removing platforms, enemies and more with an in-game level editor and level sharer.</Description>
-        <Version>1.18.0.4</Version>
-        <Link SHA256="a355bcc142e7026672eb31f6bd96652a5d1469d10a9c80ea1b3a0326d0f98a50">
-            <![CDATA[https://github.com/cometcake575/Architect/releases/download/1.18.0.4/Architect.zip]]>
+        <Version>1.18.0.6</Version>
+        <Link SHA256="46d33ba0a4d2e180022838650c64f99dc2aad93eec2ff917c6a3415ec50b11b7">
+            <![CDATA[https://github.com/cometcake575/Architect/releases/download/1.18.0.6/Architect.zip]]>
         </Link>
         <Dependencies>
             <Dependency>Satchel</Dependency>
@@ -12054,4 +12078,32 @@ Enjoy!</Description>
             <Author>Olvior</Author>
         </Authors>
     </Manifest>
+    <Manifest>
+        <Name>CharmRebalanced</Name>
+        <Description>Dummy mod. Install the dependency "Charm Rebalanced" directly.</Description>
+        <Version>9.9.9.9</Version>
+        <Link SHA256="00280F51FB9F3030B4F1BBBAD3AB29082A706994E4FAF783AA955054673BC74B"><![CDATA[https://github.com/SFGrenade/EmptyMod/releases/download/v9.9.9.9/EmptyMod.zip]]></Link>
+        <Dependencies><Dependency>Charm Rebalanced</Dependency></Dependencies>
+        <Repository><![CDATA[https://github.com/GyVn87/Charm-Rebalanced-Mod/]]></Repository>
+    </Manifest>
+	<Manifest>
+	    <Name>Charm Rebalanced</Name>
+	    <DisplayName>Charm Rebalanced Mod</DisplayName>
+	    <Description>A mod that balances and reworks almost all charms! Click [View Readme] to see all the changes.</Description>
+	    <Version>1.0.7.0</Version>
+	    <Link SHA256="2785944a687db67dd37383df1b814cf48a5fd3292d8d31fd617f7bfd59c6bc3c"><![CDATA[https://github.com/GyVn87/Charm-Rebalanced-Mod/releases/download/v1.0.7.0/CharmRebalanced.zip]]></Link>
+		<Dependencies />
+	    <Repository>
+	        <![CDATA[https://github.com/GyVn87/Charm-Rebalanced-Mod/]]>
+	    </Repository>
+	    <Issues>
+	        <![CDATA[https://github.com/GyVn87/Charm-Rebalanced-Mod/issues]]>
+	    </Issues>
+	    <Tags>
+	        <Tag>Charm</Tag>
+	    </Tags>
+	    <Authors>
+	        <Author>TuyenTuyenTuyen(GyVn87)</Author>
+	    </Authors>
+	</Manifest>
 </ModLinks>

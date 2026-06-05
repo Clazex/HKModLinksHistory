@@ -150,14 +150,6 @@
 - Tags
   + Gameplay
 
-### RngCounters
-
-- Description: A Hollow Knight mod that counts RNG in annoying spots.
-- Dependencies
-  + MagicUI
-  + MenuChanger
-  + Satchel
-
 ### RngSync
 
 - Description: A Hollow Knight mod that makes a lot of RNG deterministic
@@ -214,7 +206,7 @@
 
 ### Architect
 
-- Version: 1.18.0.4 -> 3.28.0.12
+- Version: 1.18.0.4 -> 3.28.1.0
 - Description
   + Old: A level editor mod, allowing you to customise Hollow Knight by adding or removing platforms, enemies and more with an in-game level editor and level sharer.
   + New: A Hollow Knight level editor mod, easily make and share custom levels with an in-game level editor and level sharer.
@@ -228,9 +220,17 @@
   + Removed
     - Scattered and Lost
 
+### MoreStags
+
+- Version: 1.1.0.3 -> 1.1.1.0
+
 ### NotBackgroundObjectRando
 
 - Version: 1.0.1.0 -> 1.0.1.1
+
+### RngCounters
+
+- Version: 1.1.0.0 -> 1.2.0.0
 
 ### Shared Health
 

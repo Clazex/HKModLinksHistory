@@ -1,5 +1,4 @@
 Charm Rebalanced
-Charm Rebalanced
 EnemiesFightingEachOther
 VengeflyBombardier
 Charm Rebalanced
@@ -10,3 +9,7 @@ RespawnPoint Manager
 Spell Counter
 YetAnotherRandoConnection
 Hallowest
+Architect
+Charm Rebalanced
+Hallowest
+MoreStags

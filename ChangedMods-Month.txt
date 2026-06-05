@@ -1,4 +1,3 @@
-RngCounters
 Lifeblood
 Master
 RngCounters
@@ -54,3 +53,7 @@ RespawnPoint Manager
 Spell Counter
 YetAnotherRandoConnection
 Hallowest
+Architect
+Charm Rebalanced
+Hallowest
+MoreStags
