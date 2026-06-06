@@ -1,5 +1,3 @@
-EnemiesFightingEachOther
-VengeflyBombardier
 Ghost Macro
 Noclip Accuracy
 RespawnPoint Manager

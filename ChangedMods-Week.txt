@@ -1,7 +1,4 @@
 Charm Rebalanced
-EnemiesFightingEachOther
-VengeflyBombardier
-Charm Rebalanced
 Charm Rebalanced
 Ghost Macro
 Noclip Accuracy
@@ -13,3 +10,5 @@ Architect
 Charm Rebalanced
 Hallowest
 MoreStags
+Charm Rebalanced
+Hallowest

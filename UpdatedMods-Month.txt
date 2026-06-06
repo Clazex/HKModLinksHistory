@@ -32,3 +32,5 @@ Architect
 Charm Rebalanced
 Hallowest
 MoreStags
+Charm Rebalanced
+Hallowest

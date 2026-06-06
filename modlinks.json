@@ -1582,11 +1582,11 @@
   },
   "Charm Rebalanced": {
     "description": "Click [View Readme] to see all the changes. If you enjoy the mod, please consider giving the GitHub repository a star, this will help spread the mod to more people!",
-    "version": "1.1.9.0",
+    "version": "2.0.0.0",
     "links": {
       "type": "universal",
-      "sha256": "28768E938C31CBAFB90C1F8E6E2AEE1E153BA288540062326DAC87B8B2EC34B0",
-      "url": "https://github.com/GyVn87/Charm-Rebalanced-Mod/releases/download/v1.1.9.0/CharmRebalanced.zip"
+      "sha256": "9AFDE4E45D3799B7A7567C7FC8504ED1A0E2156751143013C6A8FFCB78511D21",
+      "url": "https://github.com/GyVn87/Charm-Rebalanced-Mod/releases/download/v2.0.0.0/CharmRebalanced.zip"
     },
     "dependencies": [
       "SFCore"
@@ -5138,14 +5138,15 @@
   },
   "Hallowest": {
     "description": "Hardcore gameplay overhaul mod for Hollow Knight. Increases difficulty and rebalances combat.",
-    "version": "1.0.3.0",
+    "version": "1.0.4.0",
     "links": {
       "type": "universal",
-      "sha256": "6FC4B5CFA83D8950D6F3580C04274E40347EBA3CE5DD25B2B5E4F03453A9D8F2",
-      "url": "https://github.com/Phant0m21/Hallowest/releases/download/v1.0.3/Hallowest.dll"
+      "sha256": "0008BAD3521DE0248CCF09191EDF3585909B82CB3817D503CD803793A3B735DA",
+      "url": "https://github.com/Phant0m21/Hallowest/releases/download/v1.0.4/Hallowest.dll"
     },
     "dependencies": [
-      "Satchel"
+      "Satchel",
+      "Vasi"
     ],
     "repository": "https://github.com/Phant0m21/Hallowest",
     "issues": "https://github.com/Phant0m21/Hallowest/issues",

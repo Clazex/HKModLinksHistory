@@ -74,6 +74,7 @@
 - Description: Hardcore gameplay overhaul mod for Hollow Knight. Increases difficulty and rebalances combat.
 - Dependencies
   + Satchel
+  + Vasi
 - Tags
   + Expansion
   + Gameplay
@@ -112,25 +113,6 @@
   + Satchel
 - Tags
   + Cosmetic
-
-### Lifeblood
-
-- Description: Simple lightweight library mod
-- Dependencies
-  + HKMirror
-- Integrations
-  + MoreMasks
-- Tags
-  + Utility
-
-### Master
-
-- Description: Challenge mod based of a terraria mod of the same name
-- Dependencies
-  + ItemChanger
-  + MenuChanger
-- Tags
-  + Gameplay
 
 ### Noclip Accuracy
 
@@ -219,6 +201,10 @@
 - Integrations
   + Removed
     - Scattered and Lost
+
+### Lifeblood
+
+- Version: 0.0.0.2 -> 0.0.1.3
 
 ### MoreStags
 
