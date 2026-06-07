@@ -202,6 +202,10 @@
   + Removed
     - Scattered and Lost
 
+### BugPrince
+
+- Version: 1.5.0.1 -> 1.5.1.0
+
 ### Lifeblood
 
 - Version: 0.0.0.2 -> 0.0.1.3
@@ -214,10 +218,6 @@
 
 - Version: 1.0.1.0 -> 1.0.1.1
 
-### RngCounters
-
-- Version: 1.1.0.0 -> 1.2.0.0
-
 ### Shared Health
 
 - Version: 1.0.2.0 -> 1.0.3.0
@@ -228,10 +228,7 @@
 
 ### Vampire Knight
 
-- Version: 26.4.4.0 -> 26.5.0.1
-- Dependencies
-  + Added
-    - Lifeblood
+- Version: 26.5.0.0 -> 26.5.0.1
 
 ### YetAnotherRandoConnection
 

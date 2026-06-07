@@ -58,9 +58,13 @@
 
 - Version: 3.28.0.12 -> 3.28.1.0
 
+### BugPrince
+
+- Version: 1.5.0.1 -> 1.5.1.0
+
 ### Charm Rebalanced
 
-- Version: 1.1.6.0 -> 2.0.0.0
+- Version: 1.1.7.0 -> 2.0.0.0
 
 ### MoreStags
 

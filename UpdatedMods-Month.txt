@@ -1,5 +1,3 @@
-RngCounters
-Vampire Knight
 Lifeblood
 Vampire Knight
 TheRealTransitionRando
@@ -33,4 +31,6 @@ Charm Rebalanced
 Hallowest
 MoreStags
 Charm Rebalanced
+Hallowest
+BugPrince
 Hallowest

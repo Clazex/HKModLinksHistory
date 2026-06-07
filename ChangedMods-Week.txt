@@ -1,5 +1,4 @@
 Charm Rebalanced
-Charm Rebalanced
 Ghost Macro
 Noclip Accuracy
 RespawnPoint Manager
@@ -11,4 +10,6 @@ Charm Rebalanced
 Hallowest
 MoreStags
 Charm Rebalanced
+Hallowest
+BugPrince
 Hallowest

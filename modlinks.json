@@ -1242,11 +1242,11 @@
   },
   "BugPrince": {
     "description": "A Randomizer 4 connection which combines Blue Prince mechanics with Hollow Knight transition randomizer.",
-    "version": "1.5.0.1",
+    "version": "1.5.1.0",
     "links": {
       "type": "universal",
-      "sha256": "CA7DB41A385B5101BBB310053D64737BFDB24FEE83D9D0397C28299AE7E87E9B",
-      "url": "https://github.com/dplochcoder/HollowKnight.BugPrince/releases/download/v1.5.0.1/BugPrince.zip"
+      "sha256": "C99424BB696BDC7E2573451E2B5CEABD00A6C69A7EBE33A3363871D60EDFD675",
+      "url": "https://github.com/dplochcoder/HollowKnight.BugPrince/releases/download/v1.5.1/BugPrince.zip"
     },
     "dependencies": [
       "Benchwarp",
@@ -5138,11 +5138,11 @@
   },
   "Hallowest": {
     "description": "Hardcore gameplay overhaul mod for Hollow Knight. Increases difficulty and rebalances combat.",
-    "version": "1.0.4.0",
+    "version": "1.0.5.0",
     "links": {
       "type": "universal",
-      "sha256": "0008BAD3521DE0248CCF09191EDF3585909B82CB3817D503CD803793A3B735DA",
-      "url": "https://github.com/Phant0m21/Hallowest/releases/download/v1.0.4/Hallowest.dll"
+      "sha256": "F8B326594D5C1BD27109529A13F10FF9AC6CFD5AEB365E102FFAE66B52514E3F",
+      "url": "https://github.com/Phant0m21/Hallowest/releases/download/v1.0.5/Hallowest.dll"
     },
     "dependencies": [
       "Satchel",
