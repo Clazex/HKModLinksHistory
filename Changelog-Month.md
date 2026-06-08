@@ -63,12 +63,6 @@
 - Tags
   + Gameplay
 
-### HKTags
-
-- Description: A library mod that allows you to set n&#x27; get tags and attributes
-- Tags
-  + Utility
-
 ### Hallowest
 
 - Description: Hardcore gameplay overhaul mod for Hollow Knight. Increases difficulty and rebalances combat.
@@ -204,11 +198,7 @@
 
 ### BugPrince
 
-- Version: 1.5.0.1 -> 1.5.1.0
-
-### Lifeblood
-
-- Version: 0.0.0.2 -> 0.0.1.3
+- Version: 1.5.0.1 -> 1.5.1.1
 
 ### MoreStags
 
@@ -225,10 +215,6 @@
 ### TheRealTransitionRando
 
 - Version: 1.0.1.1 -> 1.1.0.1
-
-### Vampire Knight
-
-- Version: 26.5.0.0 -> 26.5.0.1
 
 ### YetAnotherRandoConnection
 

@@ -3,16 +3,6 @@
 
 ## New mods
 
-### Ghost Macro
-
-- Description: Scene-based hitbox recording and replay system with timeline playback, multi-visit support, and macro-like ghost replays
-- Dependencies
-  + DebugMod
-  + MagicUI
-  + Satchel
-- Tags
-  + Gameplay
-
 ### Hallowest
 
 - Description: Hardcore gameplay overhaul mod for Hollow Knight. Increases difficulty and rebalances combat.
@@ -21,34 +11,6 @@
   + Vasi
 - Tags
   + Expansion
-  + Gameplay
-
-### Noclip Accuracy
-
-- Description: A lightweight mod that tracks how many spike damage hits you take during noclip / practice runs
-- Dependencies
-  + MagicUI
-  + Satchel
-- Tags
-  + Gameplay
-
-### RespawnPoint Manager
-
-- Description: Spawnpoint manager that tracks, saves, and switches player checkpoints across scene with quick reset and custom spawn control
-- Dependencies
-  + MagicUI
-  + Satchel
-- Tags
-  + Gameplay
-
-### Spell Counter
-
-- Description: Spell counter mod with many modes: Spells, Casual and Chain Shorogos
-- Dependencies
-  + MagicUI
-  + ModCommon
-  + Satchel
-- Tags
   + Gameplay
 
 
@@ -60,17 +22,13 @@
 
 ### BugPrince
 
-- Version: 1.5.0.1 -> 1.5.1.0
+- Version: 1.5.0.1 -> 1.5.1.1
 
 ### Charm Rebalanced
 
-- Version: 1.1.7.0 -> 2.0.0.0
+- Version: 1.1.8.0 -> 2.0.0.0
 
 ### MoreStags
 
 - Version: 1.1.0.3 -> 1.1.1.0
-
-### YetAnotherRandoConnection
-
-- Version: 1.2.2.2 -> 1.2.2.3
 

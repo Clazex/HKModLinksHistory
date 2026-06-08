@@ -1,5 +1,3 @@
-Lifeblood
-Vampire Knight
 TheRealTransitionRando
 RngSync
 NotBackgroundObjectRando
@@ -34,3 +32,4 @@ Charm Rebalanced
 Hallowest
 BugPrince
 Hallowest
+BugPrince
