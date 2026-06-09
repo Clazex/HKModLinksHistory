@@ -32,3 +32,11 @@
 
 - Version: 1.1.0.3 -> 1.1.1.0
 
+### TextMasher
+
+- Version: 1.0.0.0 -> 1.0.0.1
+
+### Vietnamese Lang
+
+- Version: 1.0.0.0 -> 1.0.1.0
+

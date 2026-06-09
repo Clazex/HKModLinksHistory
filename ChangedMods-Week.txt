@@ -8,3 +8,5 @@ Hallowest
 BugPrince
 Hallowest
 BugPrince
+TextMasher
+Vietnamese Lang

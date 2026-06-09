@@ -73,15 +73,6 @@
   + Expansion
   + Gameplay
 
-### Hollow Knight ACTS
-
-- Description: A mod which adds Skongs ACT system to hk. Act positions based of Singbuzzordenethcut video on yt.
-- Dependencies
-  + MagicUI
-  + WavLib
-- Tags
-  + Gameplay
-
 ### ItemCreator
 
 - Description: Library used to create custom items that show up in the inventory.
@@ -126,10 +117,6 @@
 - Tags
   + Gameplay
 
-### RngSync
-
-- Description: A Hollow Knight mod that makes a lot of RNG deterministic
-
 ### SkinBenchRoulette
 
 - Description: Randomizes your Custom Knight skin every time you sit on a bench! Automatically detects your downloaded skins.
@@ -171,12 +158,6 @@
 - Tags
   + Boss
 
-### WavLib
-
-- Description: A library to read and write WAV files.
-- Tags
-  + Library
-
 
 ## Updated mods
 
@@ -208,13 +189,21 @@
 
 - Version: 1.0.1.0 -> 1.0.1.1
 
+### RngSync
+
+- Version: 0.3.0.0 -> 0.3.2.0
+
 ### Shared Health
 
 - Version: 1.0.2.0 -> 1.0.3.0
 
 ### TheRealTransitionRando
 
-- Version: 1.0.1.1 -> 1.1.0.1
+- Version: 1.1.0.0 -> 1.1.0.1
+
+### Vietnamese Lang
+
+- Version: 1.0.0.0 -> 1.0.1.0
 
 ### YetAnotherRandoConnection
 
