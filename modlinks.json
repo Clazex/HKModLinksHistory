@@ -488,11 +488,11 @@
   },
   "Architect": {
     "description": "A Hollow Knight level editor mod, easily make and share custom levels with an in-game level editor and level sharer.",
-    "version": "3.28.1.0",
+    "version": "3.29.0.0",
     "links": {
       "type": "universal",
-      "sha256": "BCB87F6E7EAA64D8CA8300F5951ECF1E16FAB7F35B66F8A9A9603A2B94C9DBBC",
-      "url": "https://github.com/cometcake575/Architect-HK/releases/download/3.28.1.0/Architect.zip"
+      "sha256": "5F1E5B2B5C703E7BC115D789C0F7B08B0D9E889CCF056AA975E371FB7088B417",
+      "url": "https://github.com/cometcake575/Architect-HK/releases/download/3.29.0.0/Architect.zip"
     },
     "dependencies": [
       "ItemChanger",
@@ -4206,18 +4206,23 @@
   },
   "Gatling Aspid": {
     "description": "Makes primal aspids wield gatling miniguns; configuration options available.",
-    "version": "1.0.0.2",
+    "version": "1.1.1.0",
     "links": {
       "type": "universal",
-      "sha256": "C9686E82BCA1EF891CE6C0C1E88C06F46F289807FFE955A5E604DC93FD4147E8",
-      "url": "https://github.com/jngo102/GatlingAspid/releases/download/e64c80a09b934a081534/GatlingAspid.zip"
+      "sha256": "F9DF9EFB8899749ABD25347D068E4E8BF4840DA706452F2BDE49B346D7CC70EE",
+      "url": "https://github.com/Ballaii/GatlingAspidExtended/releases/download/v1.1.1.0/GatlingAspid-v1.1.1.0.zip"
     },
     "dependencies": [
       "Vasi"
     ],
-    "repository": "https://github.com/jngo102/GatlingAspid/",
+    "repository": "https://github.com/Ballaii/GatlingAspidExtended",
+    "issues": "https://github.com/Ballaii/GatlingAspidExtended/issues",
     "tags": [
       "Gameplay"
+    ],
+    "authors": [
+      "Ballaii",
+      "jngo102"
     ]
   },
   "GearSwitcher": {
@@ -5138,11 +5143,11 @@
   },
   "Hallowest": {
     "description": "Hardcore gameplay overhaul mod for Hollow Knight. Increases difficulty and rebalances combat.",
-    "version": "1.0.5.0",
+    "version": "1.0.6.0",
     "links": {
       "type": "universal",
-      "sha256": "F8B326594D5C1BD27109529A13F10FF9AC6CFD5AEB365E102FFAE66B52514E3F",
-      "url": "https://github.com/Phant0m21/Hallowest/releases/download/v1.0.5/Hallowest.dll"
+      "sha256": "7F3B289FF8FAC4FF8336E38244E785F5FB5410CA4644C70E2DC4BEBEBCDC0E31",
+      "url": "https://github.com/Phant0m21/Hallowest/releases/download/v1.0.6/Hallowest.dll"
     },
     "dependencies": [
       "Satchel",
@@ -11070,11 +11075,11 @@
   },
   "UltimateChickenKnight": {
     "description": "Ultimate Chicken Horse in Hollow Knight, using HKMP and the Architect mod.",
-    "version": "4.0.10.0",
+    "version": "4.0.12.0",
     "links": {
       "type": "universal",
-      "sha256": "096C337EE5442F2BB29CD6A5E5F9DB3FD296E93F60623B4D9C2BBB15D10FAB39",
-      "url": "https://github.com/cometcake575/UltimateChickenKnight/releases/download/1.0.10.0/UltimateChickenKnight.zip"
+      "sha256": "AEA1283E48D030D541786E0DBAC0D7799C80B457D66BFDF72850E738C5DA0441",
+      "url": "https://github.com/cometcake575/UltimateChickenKnight/releases/download/1.0.12.0/UltimateChickenKnight.zip"
     },
     "dependencies": [
       "Architect",

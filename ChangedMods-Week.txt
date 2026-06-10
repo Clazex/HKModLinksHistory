@@ -1,4 +1,3 @@
-Hallowest
 Architect
 Charm Rebalanced
 Hallowest
@@ -10,3 +9,7 @@ Hallowest
 BugPrince
 TextMasher
 Vietnamese Lang
+Architect
+Gatling Aspid
+Hallowest
+UltimateChickenKnight
