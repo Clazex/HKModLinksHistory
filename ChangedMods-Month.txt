@@ -1,4 +1,3 @@
-LieButton
 RngSync
 NotBackgroundObjectRando
 Architect
@@ -57,3 +56,4 @@ Architect
 Gatling Aspid
 Hallowest
 UltimateChickenKnight
+Architect

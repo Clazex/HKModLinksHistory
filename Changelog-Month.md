@@ -91,14 +91,6 @@
 - Tags
   + Charm
 
-### LieButton
-
-- Description: A simple mod for Hollow Knight. Press a certain customizable key to lie down or get up, like a switch.
-- Dependencies
-  + Satchel
-- Tags
-  + Cosmetic
-
 ### Noclip Accuracy
 
 - Description: A lightweight mod that tracks how many spike damage hits you take during noclip / practice runs
@@ -163,7 +155,7 @@
 
 ### Architect
 
-- Version: 1.18.0.4 -> 3.29.0.0
+- Version: 1.18.0.4 -> 3.29.1.0
 - Description
   + Old: A level editor mod, allowing you to customise Hollow Knight by adding or removing platforms, enemies and more with an in-game level editor and level sharer.
   + New: A Hollow Knight level editor mod, easily make and share custom levels with an in-game level editor and level sharer.
