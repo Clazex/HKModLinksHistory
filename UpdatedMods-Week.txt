@@ -1,5 +1,3 @@
-Charm Rebalanced
-Hallowest
 BugPrince
 Hallowest
 BugPrince
@@ -9,4 +7,5 @@ Architect
 Gatling Aspid
 Hallowest
 UltimateChickenKnight
+Architect
 Architect

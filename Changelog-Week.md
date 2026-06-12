@@ -5,15 +5,11 @@
 
 ### Architect
 
-- Version: 3.28.1.0 -> 3.29.1.0
+- Version: 3.28.1.0 -> 3.29.2.0
 
 ### BugPrince
 
 - Version: 1.5.0.1 -> 1.5.1.1
-
-### Charm Rebalanced
-
-- Version: 1.1.9.0 -> 2.0.0.0
 
 ### Gatling Aspid
 
@@ -21,10 +17,7 @@
 
 ### Hallowest
 
-- Version: 1.0.3.0 -> 1.0.6.0
-- Dependencies
-  + Added
-    - Vasi
+- Version: 1.0.4.0 -> 1.0.6.0
 
 ### TextMasher
 

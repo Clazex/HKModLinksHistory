@@ -155,7 +155,7 @@
 
 ### Architect
 
-- Version: 1.18.0.4 -> 3.29.1.0
+- Version: 1.18.0.4 -> 3.29.2.0
 - Description
   + Old: A level editor mod, allowing you to customise Hollow Knight by adding or removing platforms, enemies and more with an in-game level editor and level sharer.
   + New: A Hollow Knight level editor mod, easily make and share custom levels with an in-game level editor and level sharer.
@@ -187,7 +187,7 @@
 
 ### RngSync
 
-- Version: 0.3.0.0 -> 0.3.2.0
+- Version: 0.3.1.0 -> 0.3.2.0
 
 ### Shared Health
 

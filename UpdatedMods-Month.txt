@@ -1,4 +1,3 @@
-RngSync
 NotBackgroundObjectRando
 Architect
 Charm Rebalanced
@@ -38,4 +37,5 @@ Architect
 Gatling Aspid
 Hallowest
 UltimateChickenKnight
+Architect
 Architect
