@@ -1,15 +1,25 @@
 # Changelog
 
 
+## New mods
+
+### BingoGoalPackGrubDay
+
+- Description: A goal pack that adds automarking for 6 new goals for the 2026 Grub Day bingy events
+- Dependencies
+  + BingoGoalPack1
+  + BingoSync
+
+
 ## Updated mods
 
 ### Architect
 
-- Version: 3.28.1.0 -> 3.29.2.0
+- Version: 3.28.1.0 -> 3.29.3.1
 
 ### BugPrince
 
-- Version: 1.5.0.1 -> 1.5.1.1
+- Version: 1.5.1.0 -> 1.5.1.1
 
 ### Gatling Aspid
 
@@ -17,7 +27,7 @@
 
 ### Hallowest
 
-- Version: 1.0.4.0 -> 1.0.6.0
+- Version: 1.0.5.0 -> 1.0.6.0
 
 ### TextMasher
 

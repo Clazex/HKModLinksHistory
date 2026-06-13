@@ -488,11 +488,11 @@
   },
   "Architect": {
     "description": "A Hollow Knight level editor mod, easily make and share custom levels with an in-game level editor and level sharer.",
-    "version": "3.29.2.0",
+    "version": "3.29.3.1",
     "links": {
       "type": "universal",
-      "sha256": "334971484876140EE762E32E3307BE08918F759193434487AC6A0086CC27D65B",
-      "url": "https://github.com/cometcake575/Architect-HK/releases/download/3.29.2.0/Architect.zip"
+      "sha256": "3E6ACB930BE7EEABE98E8BD976E123A11C724DF6AE8A816075412BCBCEA78786",
+      "url": "https://github.com/cometcake575/Architect-HK/releases/download/3.29.3.1/Architect.zip"
     },
     "dependencies": [
       "ItemChanger",
@@ -929,6 +929,24 @@
     "repository": "https://github.com/TheMathGeek314/BingoGoalPack2/",
     "authors": [
       "TheMathGeek_314"
+    ]
+  },
+  "BingoGoalPackGrubDay": {
+    "description": "A goal pack that adds automarking for 6 new goals for the 2026 Grub Day bingy events",
+    "version": "1.0.0.0",
+    "links": {
+      "type": "universal",
+      "sha256": "AC654D9A52FF366842103B2687936672A7615C8203A6F32EFC4351BFFCDBADE2",
+      "url": "https://github.com/TheRealAlph4/HollowKnight.BingoGoalPackGrubDay/releases/download/v1.0.0.0/BingoGoalPackGrubDay.zip"
+    },
+    "dependencies": [
+      "BingoGoalPack1",
+      "BingoSync"
+    ],
+    "repository": "https://github.com/TheRealAlph4/HollowKnight.BingoGoalPackGrubDay",
+    "authors": [
+      "Alph4",
+      "Wand"
     ]
   },
   "BingoGoalPackSpleengy": {

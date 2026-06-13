@@ -1,4 +1,3 @@
-NotBackgroundObjectRando
 Architect
 Charm Rebalanced
 Shared Health
@@ -37,5 +36,6 @@ Architect
 Gatling Aspid
 Hallowest
 UltimateChickenKnight
+Architect
 Architect
 Architect

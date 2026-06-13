@@ -16,6 +16,13 @@
 - Tags
   + Gameplay
 
+### BingoGoalPackGrubDay
+
+- Description: A goal pack that adds automarking for 6 new goals for the 2026 Grub Day bingy events
+- Dependencies
+  + BingoGoalPack1
+  + BingoSync
+
 ### BossLib
 
 - Description: Makes creating bosses easier. Does nothing on its own.
@@ -155,7 +162,7 @@
 
 ### Architect
 
-- Version: 1.18.0.4 -> 3.29.2.0
+- Version: 1.18.0.4 -> 3.29.3.1
 - Description
   + Old: A level editor mod, allowing you to customise Hollow Knight by adding or removing platforms, enemies and more with an in-game level editor and level sharer.
   + New: A Hollow Knight level editor mod, easily make and share custom levels with an in-game level editor and level sharer.
@@ -180,10 +187,6 @@
 ### MoreStags
 
 - Version: 1.1.0.3 -> 1.1.1.0
-
-### NotBackgroundObjectRando
-
-- Version: 1.0.1.0 -> 1.0.1.1
 
 ### RngSync
 

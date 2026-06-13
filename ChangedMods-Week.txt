@@ -1,6 +1,4 @@
 BugPrince
-Hallowest
-BugPrince
 TextMasher
 Vietnamese Lang
 Architect
@@ -9,3 +7,5 @@ Hallowest
 UltimateChickenKnight
 Architect
 Architect
+Architect
+BingoGoalPackGrubDay

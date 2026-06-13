@@ -1,4 +1,3 @@
-NotBackgroundObjectRando
 Architect
 Charm Rebalanced
 CharmRebalanced
@@ -57,3 +56,5 @@ Hallowest
 UltimateChickenKnight
 Architect
 Architect
+Architect
+BingoGoalPackGrubDay
