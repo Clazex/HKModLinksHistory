@@ -1,4 +1,3 @@
-BugPrince
 TextMasher
 Vietnamese Lang
 Architect
@@ -9,3 +8,5 @@ Architect
 Architect
 Architect
 BingoGoalPackGrubDay
+Charm Rebalanced
+No More Shards

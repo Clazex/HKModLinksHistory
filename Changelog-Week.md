@@ -10,6 +10,10 @@
   + BingoGoalPack1
   + BingoSync
 
+### No More Shards
+
+- Description: A simple mod that makes every mask shard and vessel fragment grant you a full mask or vessel respectively.
+
 
 ## Updated mods
 
@@ -17,9 +21,9 @@
 
 - Version: 3.28.1.0 -> 3.29.3.1
 
-### BugPrince
+### Charm Rebalanced
 
-- Version: 1.5.1.0 -> 1.5.1.1
+- Version: 2.0.0.0 -> 2.0.1.0
 
 ### Gatling Aspid
 

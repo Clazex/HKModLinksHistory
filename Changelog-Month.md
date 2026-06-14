@@ -37,14 +37,6 @@
   + DebugMod
   + ItemChanger
 
-### Charm Rebalanced
-
-- Description: Click [View Readme] to see all the changes. If you enjoy the mod, please consider giving the GitHub repository a star, this will help spread the mod to more people!
-- Dependencies
-  + SFCore
-- Tags
-  + Charm
-
 ### EnemiesFightingEachOther
 
 - Description: Allows the player to spawn in Gruz Mother and Hive Knight and have them fight each other
@@ -88,15 +80,9 @@
 - Tags
   + Library
 
-### Lego Power Bricks
+### No More Shards
 
-- Description: Adds various of the iconic Red Lego Power Bricks to Hollow Knight, in the form of free charms. Currently requires Debug to give yourself the charms.
-- Dependencies
-  + MagicUI
-  + SFCore
-  + Satchel
-- Tags
-  + Charm
+- Description: A simple mod that makes every mask shard and vessel fragment grant you a full mask or vessel respectively.
 
 ### Noclip Accuracy
 
@@ -158,11 +144,16 @@
   + Boss
 
 
+## Removed mods
+
+- CharmRebalanced
+
+
 ## Updated mods
 
 ### Architect
 
-- Version: 1.18.0.4 -> 3.29.3.1
+- Version: 1.18.0.6 -> 3.29.3.1
 - Description
   + Old: A level editor mod, allowing you to customise Hollow Knight by adding or removing platforms, enemies and more with an in-game level editor and level sharer.
   + New: A Hollow Knight level editor mod, easily make and share custom levels with an in-game level editor and level sharer.
@@ -179,6 +170,16 @@
 ### BugPrince
 
 - Version: 1.5.0.1 -> 1.5.1.1
+
+### Charm Rebalanced
+
+- Version: 1.0.7.0 -> 2.0.1.0
+- Description
+  + Old: A mod that balances and reworks almost all charms! Click [View Readme] to see all the changes.
+  + New: Click [View Readme] to see all the changes. If you enjoy the mod, please consider giving the GitHub repository a star, this will help spread the mod to more people!
+- Dependencies
+  + Added
+    - SFCore
 
 ### Gatling Aspid
 

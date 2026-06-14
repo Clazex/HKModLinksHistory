@@ -1,7 +1,3 @@
-Architect
-Charm Rebalanced
-CharmRebalanced
-Lego Power Bricks
 Charm Rebalanced
 Shared Health
 Architect
@@ -58,3 +54,5 @@ Architect
 Architect
 Architect
 BingoGoalPackGrubDay
+Charm Rebalanced
+No More Shards

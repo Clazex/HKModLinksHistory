@@ -1600,11 +1600,11 @@
   },
   "Charm Rebalanced": {
     "description": "Click [View Readme] to see all the changes. If you enjoy the mod, please consider giving the GitHub repository a star, this will help spread the mod to more people!",
-    "version": "2.0.0.0",
+    "version": "2.0.1.0",
     "links": {
       "type": "universal",
-      "sha256": "9AFDE4E45D3799B7A7567C7FC8504ED1A0E2156751143013C6A8FFCB78511D21",
-      "url": "https://github.com/GyVn87/Charm-Rebalanced-Mod/releases/download/v2.0.0.0/CharmRebalanced.zip"
+      "sha256": "8F8A5B4B0129907034589EF1A2B37CEF446D6CE293BE80CA55A6AFA54160E609",
+      "url": "https://github.com/GyVn87/Charm-Rebalanced-Mod/releases/download/v2.0.1.0/CharmRebalanced.zip"
     },
     "dependencies": [
       "SFCore"
@@ -7537,6 +7537,21 @@
     ],
     "authors": [
       "Samihamer1"
+    ]
+  },
+  "No More Shards": {
+    "description": "A simple mod that makes every mask shard and vessel fragment grant you a full mask or vessel respectively.",
+    "version": "1.0.0.0",
+    "links": {
+      "type": "universal",
+      "sha256": "CD814E323970CB44BDADCC1663D22A35D0E44499DFF627506150386CB2F1745F",
+      "url": "https://github.com/Genio250/No-more-shards/releases/download/1.0/Nomoreshards.zip"
+    },
+    "dependencies": [],
+    "repository": "https://github.com/Genio250/No-more-shards",
+    "issues": "https://github.com/Genio250/No-more-shards/issues",
+    "authors": [
+      "Genio250"
     ]
   },
   "No Particles": {
