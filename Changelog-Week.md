@@ -19,7 +19,7 @@
 
 ### Architect
 
-- Version: 3.28.1.0 -> 3.29.3.1
+- Version: 3.28.1.0 -> 3.29.3.2
 
 ### Charm Rebalanced
 
@@ -33,15 +33,7 @@
 
 - Version: 1.0.5.0 -> 1.0.6.0
 
-### TextMasher
-
-- Version: 1.0.0.0 -> 1.0.0.1
-
 ### UltimateChickenKnight
 
 - Version: 4.0.10.0 -> 4.0.12.0
-
-### Vietnamese Lang
-
-- Version: 1.0.0.0 -> 1.0.1.0
 

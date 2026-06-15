@@ -1,5 +1,3 @@
-TextMasher
-Vietnamese Lang
 Architect
 Gatling Aspid
 Hallowest
@@ -10,3 +8,4 @@ Architect
 BingoGoalPackGrubDay
 Charm Rebalanced
 No More Shards
+Architect
