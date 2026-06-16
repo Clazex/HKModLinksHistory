@@ -93,6 +93,14 @@
 - Tags
   + Gameplay
 
+### PedroSoulOrb
+
+- Description: A Hollow Knight mod that renders a friend when you have full soul
+- Dependencies
+  + MagicUI
+  + MenuChanger
+  + Satchel
+
 ### RespawnPoint Manager
 
 - Description: Spawnpoint manager that tracks, saves, and switches player checkpoints across scene with quick reset and custom spawn control
@@ -144,16 +152,11 @@
   + Boss
 
 
-## Removed mods
-
-- CharmRebalanced
-
-
 ## Updated mods
 
 ### Architect
 
-- Version: 1.18.0.6 -> 3.29.3.2
+- Version: 1.18.0.6 -> 3.29.3.3
 - Description
   + Old: A level editor mod, allowing you to customise Hollow Knight by adding or removing platforms, enemies and more with an in-game level editor and level sharer.
   + New: A Hollow Knight level editor mod, easily make and share custom levels with an in-game level editor and level sharer.
@@ -173,9 +176,9 @@
 
 ### Charm Rebalanced
 
-- Version: 1.0.7.0 -> 2.0.1.0
+- Version: 1.0.8.0 -> 2.0.1.0
 - Description
-  + Old: A mod that balances and reworks almost all charms! Click [View Readme] to see all the changes.
+  + Old: A mod that balances and reworks almost all charms! Click [View Readme] to see all the changes. If you enjoy the mod, please consider giving the repository a star, this will help more people discover the mod!
   + New: Click [View Readme] to see all the changes. If you enjoy the mod, please consider giving the GitHub repository a star, this will help spread the mod to more people!
 - Dependencies
   + Added
@@ -192,10 +195,6 @@
 ### RngSync
 
 - Version: 0.3.1.0 -> 0.3.2.0
-
-### Shared Health
-
-- Version: 1.0.2.0 -> 1.0.3.0
 
 ### TheRealTransitionRando
 

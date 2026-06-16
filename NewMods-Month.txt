@@ -15,3 +15,4 @@ Spell Counter
 Hallowest
 BingoGoalPackGrubDay
 No More Shards
+PedroSoulOrb

@@ -1,4 +1,1 @@
-Architect
-BossLib
 Charm Rebalanced
-ItemCreator
