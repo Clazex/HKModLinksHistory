@@ -37,6 +37,10 @@
   + DebugMod
   + ItemChanger
 
+### DynamicRenderScale
+
+- Description: Dynamically adjusts render scale based on performance.
+
 ### EnemiesFightingEachOther
 
 - Description: Allows the player to spawn in Gruz Mother and Hive Knight and have them fight each other
@@ -61,6 +65,29 @@
   + Satchel
 - Tags
   + Gameplay
+
+### GrubDay2026Plando
+
+- Description: Companion Mod for the 2026 grubday plando
+- Dependencies
+  + ArchitectLegacy
+  + BenchWarpFix
+  + Benchwarp
+  + BingoUI
+  + DeathCounter
+  + HKTool
+  + ItemChanger
+  + ItemChangerDataLoader
+  + ItemSync
+  + PurenailCore
+  + QoL
+  + RandoMapMod
+  + RandoSettingsManager
+  + RandoStats
+  + Randomizer 4
+  + RecentItemsDisplay
+  + Satchel
+  + Scatternest
 
 ### Hallowest
 
@@ -183,6 +210,10 @@
 - Dependencies
   + Added
     - SFCore
+
+### DeathSync
+
+- Version: 1.0.0.0 -> 1.0.0.1
 
 ### Gatling Aspid
 

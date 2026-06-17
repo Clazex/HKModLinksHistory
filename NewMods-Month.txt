@@ -16,3 +16,5 @@ Hallowest
 BingoGoalPackGrubDay
 No More Shards
 PedroSoulOrb
+DynamicRenderScale
+GrubDay2026Plando

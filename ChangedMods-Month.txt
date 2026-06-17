@@ -58,3 +58,6 @@ Architect
 Architect
 Hallowest
 PedroSoulOrb
+DeathSync
+DynamicRenderScale
+GrubDay2026Plando

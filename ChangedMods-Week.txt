@@ -1,6 +1,5 @@
 Architect
 Architect
-Architect
 BingoGoalPackGrubDay
 Charm Rebalanced
 No More Shards
@@ -8,3 +7,6 @@ Architect
 Architect
 Hallowest
 PedroSoulOrb
+DeathSync
+DynamicRenderScale
+GrubDay2026Plando

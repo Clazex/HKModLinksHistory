@@ -10,6 +10,33 @@
   + BingoGoalPack1
   + BingoSync
 
+### DynamicRenderScale
+
+- Description: Dynamically adjusts render scale based on performance.
+
+### GrubDay2026Plando
+
+- Description: Companion Mod for the 2026 grubday plando
+- Dependencies
+  + ArchitectLegacy
+  + BenchWarpFix
+  + Benchwarp
+  + BingoUI
+  + DeathCounter
+  + HKTool
+  + ItemChanger
+  + ItemChangerDataLoader
+  + ItemSync
+  + PurenailCore
+  + QoL
+  + RandoMapMod
+  + RandoSettingsManager
+  + RandoStats
+  + Randomizer 4
+  + RecentItemsDisplay
+  + Satchel
+  + Scatternest
+
 ### No More Shards
 
 - Description: A simple mod that makes every mask shard and vessel fragment grant you a full mask or vessel respectively.
@@ -27,11 +54,15 @@
 
 ### Architect
 
-- Version: 3.29.0.0 -> 3.29.3.3
+- Version: 3.29.1.0 -> 3.29.3.3
 
 ### Charm Rebalanced
 
 - Version: 2.0.0.0 -> 2.0.1.0
+
+### DeathSync
+
+- Version: 1.0.0.0 -> 1.0.0.1
 
 ### Hallowest
 

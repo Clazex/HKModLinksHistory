@@ -1085,6 +1085,25 @@ Not recommended for use in new mods.</Description>
         </Authors>
     </Manifest>
     <Manifest>
+        <Name>PedroSoulOrb</Name>
+        <Description>A Hollow Knight mod that renders a friend when you have full soul</Description>
+        <Version>1.1.0.0</Version>
+        <Link SHA256="33c77d2d7b75d87c0e2039972bf3dcaca2a469d7a90b356f275314623ccfc807">
+            <![CDATA[https://github.com/Pengwizard/PedroSoulOrb/releases/download/v1.1.0/PedroSoulOrb.zip]]>
+        </Link>
+        <Dependencies>
+            <Dependency>MagicUI</Dependency>
+            <Dependency>Satchel</Dependency>
+            <Dependency>MenuChanger</Dependency>
+        </Dependencies>
+        <Repository>
+            <![CDATA[https://github.com/Pengwizard/PedroSoulOrb/]]>
+        </Repository>
+        <Authors>
+            <Author>Nopre</Author>
+        </Authors>
+    </Manifest>
+    <Manifest>
         <Name>RngCounters</Name>
         <Description>A Hollow Knight mod that counts RNG in annoying spots.</Description>
         <Version>1.2.0.0</Version>
@@ -10835,9 +10854,9 @@ Enjoy!</Description>
     <Manifest>
         <Name>Architect</Name>
         <Description>A Hollow Knight level editor mod, easily make and share custom levels with an in-game level editor and level sharer.</Description>
-        <Version>3.29.3.2</Version>
-        <Link SHA256="71a1f217fbc95a59e66f6ae821dc23056e9bcb2e18cb9884cc408062a219f04e">
-            <![CDATA[https://github.com/cometcake575/Architect-HK/releases/download/3.29.3.2/Architect.zip]]>
+        <Version>3.29.3.3</Version>
+        <Link SHA256="f38e936a83b55313e3fa6fb0e9e0497cf92cd35d871e93099190992d6b47e636">
+            <![CDATA[https://github.com/cometcake575/Architect-HK/releases/download/3.29.3.3/Architect.zip]]>
         </Link>
         <Dependencies>
             <Dependency>Satchel</Dependency>
@@ -12449,8 +12468,8 @@ Enjoy!</Description>
         <Name>Hallowest</Name>
         <DisplayName>Hallowest</DisplayName>
         <Description>Hardcore gameplay overhaul mod for Hollow Knight. Increases difficulty and rebalances combat.</Description>
-        <Version>1.0.6.0</Version>
-        <Link SHA256="7f3b289ff8fac4ff8336e38244e785f5fb5410ca4644c70e2dc4bebebcdc0e31"><![CDATA[https://github.com/Phant0m21/Hallowest/releases/download/v1.0.6/Hallowest.dll]]></Link>
+        <Version>1.1.0.1</Version>
+        <Link SHA256="5e8c976edcb275e93c51d9225159200df346637c52a91e4a3836c15482f76617"><![CDATA[https://github.com/Phant0m21/Hallowest/releases/download/v1.1.0.1/Hallowest.dll]]></Link>
         <Dependencies>
             <Dependency>Satchel</Dependency>
             <Dependency>Vasi</Dependency>

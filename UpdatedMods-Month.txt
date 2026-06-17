@@ -40,3 +40,4 @@ Charm Rebalanced
 Architect
 Architect
 Hallowest
+DeathSync

@@ -2752,11 +2752,11 @@
   },
   "DeathSync": {
     "description": "An ItemSync/MultiWorld extension to link your deaths",
-    "version": "1.0.0.0",
+    "version": "1.0.0.1",
     "links": {
       "type": "universal",
-      "sha256": "01F7294B226FCF35DBB90FECD9988C23CE05551D36FB1EEA1FA0CC8A965BE177",
-      "url": "https://github.com/TheMathGeek314/DeathSync/releases/download/v1.0.0.0/DeathSync.zip"
+      "sha256": "99CA72BF84ECBF8B9E741FEFCCA1057A9C109386718A46D2810D788143B44DA9",
+      "url": "https://github.com/TheMathGeek314/DeathSync/releases/download/v1.0.0.1/DeathSync.zip"
     },
     "dependencies": [
       "ItemChanger",
@@ -3146,6 +3146,21 @@
     "repository": "https://github.com/TheMathGeek314/DynamicCrystalDash/",
     "authors": [
       "TheMathGeek_314"
+    ]
+  },
+  "DynamicRenderScale": {
+    "description": "Dynamically adjusts render scale based on performance.",
+    "version": "1.0.0.0",
+    "links": {
+      "type": "universal",
+      "sha256": "AAD903C7DDF84B5ACC3F4FDE9F5C2F5235089CA364736150A381C2ABE045AE04",
+      "url": "https://github.com/Bready29/DynamicRenderScale/releases/download/1.0.0/DynamicRenderScale.dll"
+    },
+    "dependencies": [],
+    "repository": "https://github.com/Bready29/DynamicRenderScale",
+    "issues": "https://github.com/Bready29/DynamicRenderScale/issues",
+    "authors": [
+      "Bready29"
     ]
   },
   "ESoulLink": {
@@ -4819,6 +4834,40 @@
       "limchi"
     ]
   },
+  "GrubDay2026Plando": {
+    "description": "Companion Mod for the 2026 grubday plando",
+    "version": "1.0.0.0",
+    "links": {
+      "type": "universal",
+      "sha256": "7590CAB869A1A9298731E09D9D1BC2C48392D64F71CC641876881C86BB350486",
+      "url": "https://github.com/Pengwizard/GrubDay2026Plando/releases/download/v1.0.0/GrubDay2026Plando.zip"
+    },
+    "dependencies": [
+      "ArchitectLegacy",
+      "BenchWarpFix",
+      "Benchwarp",
+      "BingoUI",
+      "DeathCounter",
+      "HKTool",
+      "ItemChanger",
+      "ItemChangerDataLoader",
+      "ItemSync",
+      "PurenailCore",
+      "QoL",
+      "RandoMapMod",
+      "RandoSettingsManager",
+      "RandoStats",
+      "Randomizer 4",
+      "RecentItemsDisplay",
+      "Satchel",
+      "Scatternest"
+    ],
+    "repository": "https://github.com/Pengwizard/GrubDay2026Plando/",
+    "authors": [
+      "Kamakiller",
+      "Nopre"
+    ]
+  },
   "GrubFriendlyRando": {
     "description": "Changes the grub shop description to \"a cute little wiggly friend!\"",
     "version": "1.0.0.0",
@@ -5589,7 +5638,7 @@
     "links": {
       "type": "universal",
       "sha256": "EAA73BD0136E1EFB2DCD8ADF32D98A4EA65621690F28A418C1443D313F7B0B76",
-      "url": "https://github.com/ROTTEN108/INFINITY/releases/download/v0.2.0.0/INFINITY.zip"
+      "url": "https://github.com/Rotaelis/INFINITY/releases/download/v0.2.0.0/INFINITY.zip"
     },
     "dependencies": [
       "HKMirror",
@@ -5598,12 +5647,12 @@
       "Vasi",
       "WavLib"
     ],
-    "repository": "https://github.com/ROTTEN108/INFINITY",
+    "repository": "https://github.com/Rotaelis/INFINITY",
     "tags": [
       "Boss"
     ],
     "authors": [
-      "ROTTEN108"
+      "Rotaelis"
     ]
   },
   "ImmortalLight": {
@@ -7889,18 +7938,18 @@
     "links": {
       "type": "universal",
       "sha256": "C1BD3C4C2E2AFDEA7A7FFA65127509A239737C1B43588121FB2208027CA9A3C9",
-      "url": "https://github.com/ROTTEN108/PURITY/releases/download/v1.0.3.0/PURITY.zip"
+      "url": "https://github.com/Rotaelis/PURITY/releases/download/v1.0.3.0/PURITY.zip"
     },
     "dependencies": [
       "HKMirror",
       "Vasi"
     ],
-    "repository": "https://github.com/ROTTEN108/PURITY",
+    "repository": "https://github.com/Rotaelis/PURITY",
     "tags": [
       "Boss"
     ],
     "authors": [
-      "ROTTEN108"
+      "Rotaelis"
     ]
   },
   "Pale Court": {
@@ -8113,7 +8162,7 @@
       "Boss"
     ],
     "authors": [
-      "腐草ROT"
+      "Rotaelis"
     ]
   },
   "PaletteSwapper": {
@@ -8470,18 +8519,18 @@
     "links": {
       "type": "universal",
       "sha256": "FF396B617D64033F1926822EC49426638DF1E91993C6AEB7B046F4B862DA4ABE",
-      "url": "https://github.com/ROTTEN108/Pure-Shape/releases/download/0.0.1.0/Pure.Shape.dll"
+      "url": "https://github.com/Rotaelis/Pure-Shape/releases/download/0.0.1.0/Pure.Shape.dll"
     },
     "dependencies": [
       "HKMirror",
       "Vasi"
     ],
-    "repository": "https://github.com/ROTTEN108/Pure-Shape",
+    "repository": "https://github.com/Rotaelis/Pure-Shape",
     "tags": [
       "Gameplay"
     ],
     "authors": [
-      "ROTTEN108"
+      "Rotaelis"
     ]
   },
   "Pure Vessel Skills": {
@@ -10627,18 +10676,18 @@
     "links": {
       "type": "universal",
       "sha256": "E723866E1F2EE2E023A7901F423CDDA437A537ACC8FAF9E84EF7C0FC150B1BB9",
-      "url": "https://github.com/ROTTEN108/Sunset-Rad/releases/download/1.0.0.1/SUNSET.Rad.dll"
+      "url": "https://github.com/Rotaelis/Sunset-Rad/releases/download/1.0.0.1/SUNSET.Rad.dll"
     },
     "dependencies": [
       "HKMirror",
       "Vasi"
     ],
-    "repository": "https://github.com/ROTTEN108/SunSet-Rad",
+    "repository": "https://github.com/Rotaelis/SunSet-Rad",
     "tags": [
       "Boss"
     ],
     "authors": [
-      "ROTTEN108"
+      "Rotaelis"
     ]
   },
   "SvgLib": {
