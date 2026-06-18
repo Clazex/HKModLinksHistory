@@ -3,7 +3,11 @@
 
 ## Updated mods
 
-### BugPrince
+### TextMasher
 
-- Version: 1.5.1.0 -> 1.5.1.1
+- Version: 1.0.0.0 -> 1.0.0.1
+
+### Vietnamese Lang
+
+- Version: 1.0.0.0 -> 1.0.1.0
 

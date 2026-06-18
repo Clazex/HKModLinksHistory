@@ -4,6 +4,24 @@
     xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
     xsi:schemaLocation="https://github.com/HollowKnight-Modding/HollowKnight.ModLinks/HollowKnight.ModManager https://raw.githubusercontent.com/HollowKnight-Modding/HollowKnight.ModLinks/main/Schemas/ModLinks.xml">
     <Manifest>
+        <Name>Keep lifeblood on bench</Name>
+        <Description>Keeps your lifeblood when sitting on a bench, useful to not accidentally kill your lifeblood stack on P5.</Description>
+        <Version>1.0.0.0</Version>
+        <Link SHA256="FB2DF91D8351C4FB00D79F132C676166A0FA83E77C2F87118B07714BF823D098">
+            <![CDATA[https://github.com/Genio250/Keep-Lifeblood-On-Bench/releases/download/qol/Keep.Lifeblood.zip]]>
+        </Link>
+        <Dependencies />
+        <Repository>
+            <![CDATA[https://github.com/Genio250/Keep-Lifeblood-On-Bench]]>
+        </Repository>
+        <Issues>
+            <![CDATA[https://github.com/Genio250/Keep-Lifeblood-On-Bench/issues]]>
+        </Issues>
+        <Authors>
+            <Author>Genio250</Author>
+        </Authors>
+    </Manifest>
+    <Manifest>
         <Name>No More Shards</Name>
         <Description>A simple mod that makes every mask shard and vessel fragment grant you a full mask or vessel respectively.</Description>
         <Version>1.0.0.0</Version>
@@ -1239,8 +1257,8 @@ Not recommended for use in new mods.</Description>
     <Manifest>
         <Name>DeathSync</Name>
         <Description>An ItemSync/MultiWorld extension to link your deaths</Description>
-        <Version>1.0.0.1</Version>
-        <Link SHA256="99CA72BF84ECBF8B9E741FEFCCA1057A9C109386718A46D2810D788143B44DA9"><![CDATA[https://github.com/TheMathGeek314/DeathSync/releases/download/v1.0.0.1/DeathSync.zip]]></Link>
+        <Version>1.0.1.0</Version>
+        <Link SHA256="3D0CF0774739340D1F65A243FD123A09DAEBFDEAE662FA16B0F57CFB011962F4"><![CDATA[https://github.com/TheMathGeek314/DeathSync/releases/download/v1.0.1.0/DeathSync.zip]]></Link>
         <Dependencies>
             <Dependency>ItemChanger</Dependency>
             <Dependency>KorzUtils</Dependency>
@@ -12395,8 +12413,8 @@ Enjoy!</Description>
         <Name>Charm Rebalanced</Name>
         <DisplayName>Charm Rebalanced Mod</DisplayName>
         <Description>Click [View Readme] to see all the changes. If you enjoy the mod, please consider giving the GitHub repository a star, this will help spread the mod to more people!</Description>
-        <Version>2.0.1.0</Version>
-        <Link SHA256="8f8a5b4b0129907034589ef1a2b37cef446d6ce293be80ca55a6afa54160e609"><![CDATA[https://github.com/GyVn87/Charm-Rebalanced-Mod/releases/download/v2.0.1.0/CharmRebalanced.zip]]></Link>
+        <Version>2.0.2.0</Version>
+        <Link SHA256="4781bf005af7a92362aed6f48cdf85c0606e98b4bf08f41efb5bfd5ac40ce0a7"><![CDATA[https://github.com/GyVn87/Charm-Rebalanced-Mod/releases/download/v2.0.2.0/CharmRebalanced.zip]]></Link>
         <Dependencies>
             <Dependency>SFCore</Dependency>
         </Dependencies>

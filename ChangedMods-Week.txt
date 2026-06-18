@@ -1,5 +1,4 @@
 Architect
-Architect
 BingoGoalPackGrubDay
 Charm Rebalanced
 No More Shards
@@ -10,3 +9,6 @@ PedroSoulOrb
 DeathSync
 DynamicRenderScale
 GrubDay2026Plando
+Charm Rebalanced
+DeathSync
+Keep lifeblood on bench

@@ -41,3 +41,5 @@ Architect
 Architect
 Hallowest
 DeathSync
+Charm Rebalanced
+DeathSync

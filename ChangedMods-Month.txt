@@ -61,3 +61,6 @@ PedroSoulOrb
 DeathSync
 DynamicRenderScale
 GrubDay2026Plando
+Charm Rebalanced
+DeathSync
+Keep lifeblood on bench

@@ -37,6 +37,10 @@
   + Satchel
   + Scatternest
 
+### Keep lifeblood on bench
+
+- Description: Keeps your lifeblood when sitting on a bench, useful to not accidentally kill your lifeblood stack on P5.
+
 ### No More Shards
 
 - Description: A simple mod that makes every mask shard and vessel fragment grant you a full mask or vessel respectively.
@@ -54,15 +58,15 @@
 
 ### Architect
 
-- Version: 3.29.1.0 -> 3.29.3.3
+- Version: 3.29.2.0 -> 3.29.3.3
 
 ### Charm Rebalanced
 
-- Version: 2.0.0.0 -> 2.0.1.0
+- Version: 2.0.0.0 -> 2.0.2.0
 
 ### DeathSync
 
-- Version: 1.0.0.0 -> 1.0.0.1
+- Version: 1.0.0.0 -> 1.0.1.0
 
 ### Hallowest
 
