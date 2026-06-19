@@ -1,6 +1,4 @@
 Architect
-Charm Rebalanced
-Architect
 RngSync
 Architect
 UltimateChickenKnight
@@ -43,3 +41,4 @@ Hallowest
 DeathSync
 Charm Rebalanced
 DeathSync
+Charm Rebalanced

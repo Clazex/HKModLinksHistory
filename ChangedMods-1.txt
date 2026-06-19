@@ -1,3 +1,1 @@
 Charm Rebalanced
-DeathSync
-Keep lifeblood on bench

@@ -3,19 +3,6 @@
 
 ## New mods
 
-### ArchitectLegacy
-
-- Description: The old version of Architect, a Hollow Knight level editor.
-- Dependencies
-  + MagicUI
-  + SFCore
-  + Satchel
-- Integrations
-  + HKMP
-  + Scattered and Lost
-- Tags
-  + Gameplay
-
 ### BingoGoalPackGrubDay
 
 - Description: A goal pack that adds automarking for 6 new goals for the 2026 Grub Day bingy events
@@ -159,12 +146,6 @@
 - Tags
   + Gameplay
 
-### TextMasher
-
-- Description: Auto mashes through textboxes if you are holding Nail, Jump or Focus.
-- Tags
-  + Gameplay
-
 ### UltimateChickenKnight
 
 - Description: Ultimate Chicken Horse in Hollow Knight, using HKMP and the Architect mod.
@@ -187,19 +168,10 @@
 
 ### Architect
 
-- Version: 1.18.0.6 -> 3.29.3.3
-- Description
-  + Old: A level editor mod, allowing you to customise Hollow Knight by adding or removing platforms, enemies and more with an in-game level editor and level sharer.
-  + New: A Hollow Knight level editor mod, easily make and share custom levels with an in-game level editor and level sharer.
+- Version: 3.28.0.4 -> 3.29.3.3
 - Dependencies
-  + Removed
-    - MagicUI
   + Added
-    - ItemChanger
     - ItemCreator
-- Integrations
-  + Removed
-    - Scattered and Lost
 
 ### BugPrince
 
@@ -207,9 +179,9 @@
 
 ### Charm Rebalanced
 
-- Version: 1.0.8.0 -> 2.0.2.0
+- Version: 1.0.9.0 -> 2.0.3.0
 - Description
-  + Old: A mod that balances and reworks almost all charms! Click [View Readme] to see all the changes. If you enjoy the mod, please consider giving the repository a star, this will help more people discover the mod!
+  + Old: Click [View Readme] to see all the changes. If you enjoy the mod, please consider giving the repository a star, this will help spread the mod to more people!
   + New: Click [View Readme] to see all the changes. If you enjoy the mod, please consider giving the GitHub repository a star, this will help spread the mod to more people!
 - Dependencies
   + Added
@@ -230,6 +202,10 @@
 ### RngSync
 
 - Version: 0.3.1.0 -> 0.3.2.0
+
+### TextMasher
+
+- Version: 1.0.0.0 -> 1.0.0.1
 
 ### TheRealTransitionRando
 

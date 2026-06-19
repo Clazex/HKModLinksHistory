@@ -1,8 +1,4 @@
 Architect
-ArchitectLegacy
-Charm Rebalanced
-TextMasher
-Architect
 FsmSeer
 RngSync
 UltimateChickenKnight
@@ -64,3 +60,4 @@ GrubDay2026Plando
 Charm Rebalanced
 DeathSync
 Keep lifeblood on bench
+Charm Rebalanced

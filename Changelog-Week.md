@@ -3,13 +3,6 @@
 
 ## New mods
 
-### BingoGoalPackGrubDay
-
-- Description: A goal pack that adds automarking for 6 new goals for the 2026 Grub Day bingy events
-- Dependencies
-  + BingoGoalPack1
-  + BingoSync
-
 ### DynamicRenderScale
 
 - Description: Dynamically adjusts render scale based on performance.
@@ -58,11 +51,11 @@
 
 ### Architect
 
-- Version: 3.29.2.0 -> 3.29.3.3
+- Version: 3.29.3.1 -> 3.29.3.3
 
 ### Charm Rebalanced
 
-- Version: 2.0.0.0 -> 2.0.2.0
+- Version: 2.0.0.0 -> 2.0.3.0
 
 ### DeathSync
 
