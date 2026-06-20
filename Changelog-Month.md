@@ -37,12 +37,6 @@
 - Tags
   + Gameplay
 
-### FsmSeer
-
-- Description: Shows active FSM names and states above objects when F3 is pressed.
-- Tags
-  + Utility
-
 ### Ghost Macro
 
 - Description: Scene-based hitbox recording and replay system with timeline playback, multi-visit support, and macro-like ghost replays
@@ -146,15 +140,6 @@
 - Tags
   + Gameplay
 
-### UltimateChickenKnight
-
-- Description: Ultimate Chicken Horse in Hollow Knight, using HKMP and the Architect mod.
-- Dependencies
-  + Architect
-  + HKMP
-- Tags
-  + Gameplay
-
 ### VengeflyBombardier
 
 - Description: VengeflyBombardier is a Hollow Knight mod that turns the Vengefly King into a much more aggressive boss encounter.
@@ -168,7 +153,7 @@
 
 ### Architect
 
-- Version: 3.28.0.4 -> 3.29.3.3
+- Version: 3.28.0.6 -> 3.30.0.0
 - Dependencies
   + Added
     - ItemCreator
@@ -195,13 +180,20 @@
 
 - Version: 1.0.0.2 -> 1.1.1.0
 
+### Hollow Knight ACTS
+
+- Version: 1.0.0.0 -> 1.0.0.1
+- Description
+  + Old: A mod which adds Skongs ACT system to hk. Act positions based of Singbuzzordenethcut video on yt.
+  + New: A mod which adds SilkSongs ACT system to hk. Act positions based of Singbuzzordenethcut video on yt.
+
 ### MoreStags
 
 - Version: 1.1.0.3 -> 1.1.1.0
 
-### RngSync
+### PurenailCore
 
-- Version: 0.3.1.0 -> 0.3.2.0
+- Version: 2.0.0.2 -> 2.0.2.0
 
 ### TextMasher
 
@@ -210,6 +202,10 @@
 ### TheRealTransitionRando
 
 - Version: 1.1.0.0 -> 1.1.0.1
+
+### UltimateChickenKnight
+
+- Version: 3.28.0.5 -> 4.0.12.0
 
 ### Vietnamese Lang
 

@@ -1,6 +1,4 @@
 Architect
-RngSync
-Architect
 UltimateChickenKnight
 Charm Rebalanced
 Architect
@@ -42,3 +40,6 @@ DeathSync
 Charm Rebalanced
 DeathSync
 Charm Rebalanced
+Architect
+Hollow Knight ACTS
+PurenailCore

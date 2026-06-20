@@ -488,11 +488,11 @@
   },
   "Architect": {
     "description": "A Hollow Knight level editor mod, easily make and share custom levels with an in-game level editor and level sharer.",
-    "version": "3.29.3.3",
+    "version": "3.30.0.0",
     "links": {
       "type": "universal",
-      "sha256": "F38E936A83B55313E3FA6FB0E9E0497CF92CD35D871E93099190992D6B47E636",
-      "url": "https://github.com/cometcake575/Architect-HK/releases/download/3.29.3.3/Architect.zip"
+      "sha256": "F0BF11D4B46F448AD3A61399DCE64A31506B7DB2F87CE14BE178832BD2A6BBDE",
+      "url": "https://github.com/cometcake575/Architect-HK/releases/download/3.30.0.0/Architect.zip"
     },
     "dependencies": [
       "ItemChanger",
@@ -5458,15 +5458,15 @@
     ]
   },
   "Hollow Knight ACTS": {
-    "description": "A mod which adds Skongs ACT system to hk. Act positions based of Singbuzzordenethcut video on yt.",
-    "version": "1.0.0.0",
+    "description": "A mod which adds SilkSongs ACT system to hk. Act positions based of Singbuzzordenethcut video on yt.",
+    "version": "1.0.0.1",
     "links": {
       "type": "universal",
-      "sha256": "7FDE323BFBA8CB6430F4F5D7882D443C92ACD17F4980193653D6AD567CE0A335",
-      "url": "https://github.com/Bluescratch7545/Hollow-knight-ACTS/releases/download/1.0.0.0-yup-i-forgor-to-chage-dis/Hollow.knight.ACTS.zip"
+      "sha256": "4273E11AE046B989DF0431B691B2E83BAA51831078BBBDC70AB4512C7B720ECE",
+      "url": "https://github.com/Bluescratch7545/Hollow-knight-ACTS/releases/download/1.0.0.1/Hollow.knight.ACTS.zip"
     },
     "dependencies": [
-      "MagicUI",
+      "SFCore",
       "WavLib"
     ],
     "repository": "https://github.com/Bluescratch7545/Hollow-knight-ACTS",
@@ -8587,11 +8587,11 @@
   },
   "PurenailCore": {
     "description": "Common utilities and interop for Purenail mods",
-    "version": "2.0.0.2",
+    "version": "2.0.2.0",
     "links": {
       "type": "universal",
-      "sha256": "475DB51958869F4A8C84DB0C5C7102D4E41FA041ACD417293A32EB0C4EC32B3A",
-      "url": "https://github.com/dplochcoder/HollowKnight.PurenailCore/releases/download/v2.0.0.2/PurenailCore.zip"
+      "sha256": "90AFA07B95E52C7C51C23370A82EAB1E4B30BFA458EECB48574EAAA92C7EF4A5",
+      "url": "https://github.com/dplochcoder/HollowKnight.PurenailCore/releases/download/v2.0.2.0/PurenailCore.zip"
     },
     "dependencies": [
       "Randomizer 4",
