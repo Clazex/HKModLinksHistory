@@ -153,7 +153,7 @@
 
 ### Architect
 
-- Version: 3.28.0.6 -> 3.30.0.0
+- Version: 3.28.0.7 -> 3.30.0.0
 - Dependencies
   + Added
     - ItemCreator
@@ -205,7 +205,7 @@
 
 ### UltimateChickenKnight
 
-- Version: 3.28.0.5 -> 4.0.12.0
+- Version: 4.0.10.0 -> 4.0.12.0
 
 ### Vietnamese Lang
 
