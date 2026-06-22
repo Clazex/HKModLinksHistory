@@ -34,20 +34,12 @@
 
 - Description: Keeps your lifeblood when sitting on a bench, useful to not accidentally kill your lifeblood stack on P5.
 
-### PedroSoulOrb
-
-- Description: A Hollow Knight mod that renders a friend when you have full soul
-- Dependencies
-  + MagicUI
-  + MenuChanger
-  + Satchel
-
 
 ## Updated mods
 
 ### Architect
 
-- Version: 3.29.3.2 -> 3.30.0.0
+- Version: 3.29.3.3 -> 3.30.1.0
 
 ### Charm Rebalanced
 
@@ -56,10 +48,6 @@
 ### DeathSync
 
 - Version: 1.0.0.0 -> 1.0.1.0
-
-### Hallowest
-
-- Version: 1.0.6.0 -> 1.1.0.1
 
 ### Hollow Knight ACTS
 
@@ -72,6 +60,10 @@
     - MagicUI
   + Added
     - SFCore
+
+### MoreStags
+
+- Version: 1.1.1.0 -> 1.1.1.1
 
 ### PurenailCore
 

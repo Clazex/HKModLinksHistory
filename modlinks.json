@@ -488,11 +488,11 @@
   },
   "Architect": {
     "description": "A Hollow Knight level editor mod, easily make and share custom levels with an in-game level editor and level sharer.",
-    "version": "3.30.0.0",
+    "version": "3.30.1.0",
     "links": {
       "type": "universal",
-      "sha256": "F0BF11D4B46F448AD3A61399DCE64A31506B7DB2F87CE14BE178832BD2A6BBDE",
-      "url": "https://github.com/cometcake575/Architect-HK/releases/download/3.30.0.0/Architect.zip"
+      "sha256": "84CA70060BC8CA0AE9420929081D0CE5335C2BBACEDE8142C013708F73A01671",
+      "url": "https://github.com/cometcake575/Architect-HK/releases/download/3.30.1.0/Architect.zip"
     },
     "dependencies": [
       "ItemChanger",
@@ -7229,11 +7229,11 @@
   },
   "MoreStags": {
     "description": "A Randomizer connection which adds new stag stations",
-    "version": "1.1.1.0",
+    "version": "1.1.1.1",
     "links": {
       "type": "universal",
-      "sha256": "6D48DF8459A172B49D6A9EB2E342E0337D922DAE07F36D0D2258B1F4007E2EEF",
-      "url": "https://github.com/TheMathGeek314/MoreStags/releases/download/v1.1.1.0/MoreStags.zip"
+      "sha256": "AC50EF815B4CADD04359096084CF6377A62D9CEE16F22AA1414BF0F268409D8F",
+      "url": "https://github.com/TheMathGeek314/MoreStags/releases/download/v1.1.1.1/MoreStags.zip"
     },
     "dependencies": [
       "AlreadyEnoughPlayMaker",
