@@ -5280,6 +5280,23 @@
       "Zickles"
     ]
   },
+  "HarderAPSettings": {
+    "description": "Adds Settings to make APs harder, like take extra damage, do less nail damage, and replaces Radiance with AbsRad. Works in non Archipelago saves too.",
+    "version": "1.1.0.1",
+    "links": {
+      "type": "universal",
+      "sha256": "D05E2B6931472672247CB7CCF5BFF6C6F76F2D776E3205A5D00DA45E8E99F1EF",
+      "url": "https://github.com/Bluepinkdragon/HarderAPSettings/releases/download/v1.1.0.1/HarderAPSettings.zip"
+    },
+    "dependencies": [
+      "HKMirror"
+    ],
+    "repository": "https://github.com/Bluepinkdragon/HarderAPSettings",
+    "issues": "https://github.com/Bluepinkdragon/HarderAPSettings/issues",
+    "authors": [
+      "Bluepinkdragon"
+    ]
+  },
   "Hat": {
     "description": "Wear Hats",
     "version": "1.4.0.0",

@@ -3,32 +3,11 @@
 
 ## New mods
 
-### DynamicRenderScale
+### HarderAPSettings
 
-- Description: Dynamically adjusts render scale based on performance.
-
-### GrubDay2026Plando
-
-- Description: Companion Mod for the 2026 grubday plando
+- Description: Adds Settings to make APs harder, like take extra damage, do less nail damage, and replaces Radiance with AbsRad. Works in non Archipelago saves too.
 - Dependencies
-  + ArchitectLegacy
-  + BenchWarpFix
-  + Benchwarp
-  + BingoUI
-  + DeathCounter
-  + HKTool
-  + ItemChanger
-  + ItemChangerDataLoader
-  + ItemSync
-  + PurenailCore
-  + QoL
-  + RandoMapMod
-  + RandoSettingsManager
-  + RandoStats
-  + Randomizer 4
-  + RecentItemsDisplay
-  + Satchel
-  + Scatternest
+  + HKMirror
 
 ### Keep lifeblood on bench
 
@@ -47,7 +26,7 @@
 
 ### DeathSync
 
-- Version: 1.0.0.0 -> 1.0.1.0
+- Version: 1.0.0.1 -> 1.0.1.0
 
 ### Hollow Knight ACTS
 

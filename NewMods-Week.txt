@@ -1,3 +1,2 @@
-DynamicRenderScale
-GrubDay2026Plando
 Keep lifeblood on bench
+HarderAPSettings

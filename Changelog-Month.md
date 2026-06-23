@@ -73,6 +73,12 @@
   + Expansion
   + Gameplay
 
+### HarderAPSettings
+
+- Description: Adds Settings to make APs harder, like take extra damage, do less nail damage, and replaces Radiance with AbsRad. Works in non Archipelago saves too.
+- Dependencies
+  + HKMirror
+
 ### ItemCreator
 
 - Description: Library used to create custom items that show up in the inventory.

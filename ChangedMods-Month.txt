@@ -58,3 +58,4 @@ Hollow Knight ACTS
 PurenailCore
 Architect
 MoreStags
+HarderAPSettings
