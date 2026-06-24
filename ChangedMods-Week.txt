@@ -1,10 +1,8 @@
 Charm Rebalanced
-DeathSync
-Keep lifeblood on bench
-Charm Rebalanced
 Architect
 Hollow Knight ACTS
 PurenailCore
 Architect
 MoreStags
 HarderAPSettings
+Architect

@@ -1,5 +1,4 @@
 Architect
-Architect
 Charm Rebalanced
 ItemCreator
 SkinBenchRoulette
@@ -59,3 +58,4 @@ PurenailCore
 Architect
 MoreStags
 HarderAPSettings
+Architect

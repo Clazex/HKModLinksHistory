@@ -152,7 +152,7 @@
 
 ### Architect
 
-- Version: 3.28.0.7 -> 3.30.1.0
+- Version: 3.28.0.9 -> 3.30.2.0
 - Dependencies
   + Added
     - ItemCreator
