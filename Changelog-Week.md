@@ -12,13 +12,13 @@
 
 ## Updated mods
 
+### AccessRandomizer
+
+- Version: 1.4.0.2 -> 1.4.1.0
+
 ### Architect
 
-- Version: 3.29.3.3 -> 3.30.2.0
-
-### Charm Rebalanced
-
-- Version: 2.0.2.0 -> 2.0.3.0
+- Version: 3.29.3.3 -> 3.30.3.0
 
 ### Hollow Knight ACTS
 

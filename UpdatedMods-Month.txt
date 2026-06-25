@@ -1,6 +1,3 @@
-Architect
-Charm Rebalanced
-TheRealTransitionRando
 YetAnotherRandoConnection
 Architect
 Charm Rebalanced
@@ -41,4 +38,6 @@ Hollow Knight ACTS
 PurenailCore
 Architect
 MoreStags
+Architect
+AccessRandomizer
 Architect

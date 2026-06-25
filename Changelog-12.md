@@ -3,17 +3,14 @@
 
 ## New mods
 
-### BingoGoalPackGrubDay
+### No More Shards
 
-- Description: A goal pack that adds automarking for 6 new goals for the 2026 Grub Day bingy events
-- Dependencies
-  + BingoGoalPack1
-  + BingoSync
+- Description: A simple mod that makes every mask shard and vessel fragment grant you a full mask or vessel respectively.
 
 
 ## Updated mods
 
-### Architect
+### Charm Rebalanced
 
-- Version: 3.29.2.0 -> 3.29.3.1
+- Version: 2.0.0.0 -> 2.0.1.0
 

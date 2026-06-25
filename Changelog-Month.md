@@ -79,14 +79,6 @@
 - Dependencies
   + HKMirror
 
-### ItemCreator
-
-- Description: Library used to create custom items that show up in the inventory.
-- Dependencies
-  + Satchel
-- Tags
-  + Library
-
 ### Keep lifeblood on bench
 
 - Description: Keeps your lifeblood when sitting on a bench, useful to not accidentally kill your lifeblood stack on P5.
@@ -121,14 +113,6 @@
 - Tags
   + Gameplay
 
-### SkinBenchRoulette
-
-- Description: Randomizes your Custom Knight skin every time you sit on a bench! Automatically detects your downloaded skins.
-- Dependencies
-  + Custom Knight
-- Tags
-  + Cosmetic
-
 ### Spell Counter
 
 - Description: Spell counter mod with many modes: Spells, Casual and Chain Shorogos
@@ -150,12 +134,13 @@
 
 ## Updated mods
 
+### AccessRandomizer
+
+- Version: 1.4.0.2 -> 1.4.1.0
+
 ### Architect
 
-- Version: 3.28.0.9 -> 3.30.2.0
-- Dependencies
-  + Added
-    - ItemCreator
+- Version: 3.28.0.10 -> 3.30.3.0
 
 ### BugPrince
 
@@ -163,10 +148,7 @@
 
 ### Charm Rebalanced
 
-- Version: 1.1.1.0 -> 2.0.3.0
-- Dependencies
-  + Added
-    - SFCore
+- Version: 1.1.2.0 -> 2.0.3.0
 
 ### DeathSync
 
@@ -183,6 +165,10 @@
   + Old: A mod which adds Skongs ACT system to hk. Act positions based of Singbuzzordenethcut video on yt.
   + New: A mod which adds SilkSongs ACT system to hk. Act positions based of Singbuzzordenethcut video on yt.
 
+### ItemCreator
+
+- Version: 1.0.0.1 -> 1.0.0.2
+
 ### MoreStags
 
 - Version: 1.1.0.3 -> 1.1.1.1
@@ -194,10 +180,6 @@
 ### TextMasher
 
 - Version: 1.0.0.0 -> 1.0.0.1
-
-### TheRealTransitionRando
-
-- Version: 1.1.0.0 -> 1.1.0.1
 
 ### UltimateChickenKnight
 

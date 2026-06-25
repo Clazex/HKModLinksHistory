@@ -73,11 +73,11 @@
   },
   "AccessRandomizer": {
     "description": "A randomizer add-on for miscellaneous access checks.",
-    "version": "1.4.0.2",
+    "version": "1.4.1.0",
     "links": {
       "type": "universal",
-      "sha256": "2B1B202821A944126924730E28F490C32A237A16BBD0A62C821E0A46B6799A2E",
-      "url": "https://github.com/nerthul11/AccessRandomizer/releases/download/1.4.0.2/AccessRandomizer.zip"
+      "sha256": "F9ECA8C850F658F212AEB462B5F52A937542A86A70A78D59E14DB4BA17E9C447",
+      "url": "https://github.com/nerthul11/AccessRandomizer/releases/download/1.4.1.0/AccessRandomizer.zip"
     },
     "dependencies": [
       "ItemChanger",
@@ -488,11 +488,11 @@
   },
   "Architect": {
     "description": "A Hollow Knight level editor mod, easily make and share custom levels with an in-game level editor and level sharer.",
-    "version": "3.30.2.0",
+    "version": "3.30.3.0",
     "links": {
       "type": "universal",
-      "sha256": "FB02059BA2BC8A19D8700F201DD953C127EF74BFAEE57A40FF2714CF5C19A3CF",
-      "url": "https://github.com/cometcake575/Architect-HK/releases/download/3.30.2.0/Architect.zip"
+      "sha256": "34FAB2B92FC0A86150FD0555DCDB926E828174C289EA5BE6EEA288AA695B159B",
+      "url": "https://github.com/cometcake575/Architect-HK/releases/download/3.30.3.0/Architect.zip"
     },
     "dependencies": [
       "ItemChanger",

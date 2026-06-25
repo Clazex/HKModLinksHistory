@@ -1,8 +1,3 @@
-Architect
-Charm Rebalanced
-ItemCreator
-SkinBenchRoulette
-TheRealTransitionRando
 YetAnotherRandoConnection
 Architect
 BossLib
@@ -58,4 +53,6 @@ PurenailCore
 Architect
 MoreStags
 HarderAPSettings
+Architect
+AccessRandomizer
 Architect
