@@ -140,7 +140,7 @@
 
 ### Architect
 
-- Version: 3.28.0.10 -> 3.30.3.0
+- Version: 3.28.0.10 -> 3.31.0.1
 
 ### BugPrince
 
@@ -157,6 +157,10 @@
 ### Gatling Aspid
 
 - Version: 1.0.0.2 -> 1.1.1.0
+
+### GodhomeQoL
+
+- Version: 1.0.1.2 -> 1.0.1.3
 
 ### Hollow Knight ACTS
 
@@ -191,5 +195,5 @@
 
 ### YetAnotherRandoConnection
 
-- Version: 1.2.2.1 -> 1.2.2.3
+- Version: 1.2.2.2 -> 1.2.2.3
 

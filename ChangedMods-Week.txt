@@ -1,9 +1,8 @@
 Architect
-Hollow Knight ACTS
-PurenailCore
-Architect
 MoreStags
 HarderAPSettings
 Architect
 AccessRandomizer
 Architect
+Architect
+GodhomeQoL
