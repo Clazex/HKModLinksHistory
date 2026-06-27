@@ -1,4 +1,3 @@
-BossLib
 EnemiesFightingEachOther
 VengeflyBombardier
 Ghost Macro

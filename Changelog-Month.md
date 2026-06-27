@@ -10,13 +10,6 @@
   + BingoGoalPack1
   + BingoSync
 
-### BossLib
-
-- Description: Makes creating bosses easier. Does nothing on its own.
-- Tags
-  + Library
-  + Utility
-
 ### DynamicRenderScale
 
 - Description: Dynamically adjusts render scale based on performance.
@@ -140,7 +133,7 @@
 
 ### Architect
 
-- Version: 3.28.0.10 -> 3.31.0.1
+- Version: 3.28.0.12 -> 3.31.0.1
 
 ### BugPrince
 
@@ -148,7 +141,7 @@
 
 ### Charm Rebalanced
 
-- Version: 1.1.2.0 -> 2.0.3.0
+- Version: 1.1.3.0 -> 2.0.3.0
 
 ### DeathSync
 
@@ -168,10 +161,11 @@
 - Description
   + Old: A mod which adds Skongs ACT system to hk. Act positions based of Singbuzzordenethcut video on yt.
   + New: A mod which adds SilkSongs ACT system to hk. Act positions based of Singbuzzordenethcut video on yt.
-
-### ItemCreator
-
-- Version: 1.0.0.1 -> 1.0.0.2
+- Dependencies
+  + Removed
+    - MagicUI
+  + Added
+    - SFCore
 
 ### MoreStags
 
@@ -180,6 +174,10 @@
 ### PurenailCore
 
 - Version: 2.0.0.2 -> 2.0.2.0
+
+### RngSync
+
+- Version: 0.3.2.0 -> 0.3.3.0
 
 ### TextMasher
 

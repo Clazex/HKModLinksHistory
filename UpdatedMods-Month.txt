@@ -1,6 +1,3 @@
-Architect
-Charm Rebalanced
-ItemCreator
 Charm Rebalanced
 Charm Rebalanced
 Charm Rebalanced
@@ -42,3 +39,4 @@ AccessRandomizer
 Architect
 Architect
 GodhomeQoL
+RngSync
