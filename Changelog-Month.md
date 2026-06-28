@@ -10,6 +10,14 @@
   + BingoGoalPack1
   + BingoSync
 
+### Double Enemies
+
+- Description: Duplicates most enemies in the game, and shares hp between duplicate bosses.
+- Dependencies
+  + DoubleRadiance
+  + Invincibility Monitor
+  + Satchel
+
 ### DynamicRenderScale
 
 - Description: Dynamically adjusts render scale based on performance.
@@ -55,6 +63,10 @@
   + RecentItemsDisplay
   + Satchel
   + Scatternest
+
+### HKBattle
+
+- Description: HKBattle is a Hollow Knight mod for solo practice and competitive boss and Pantheon challenges.
 
 ### Hallowest
 
@@ -141,7 +153,7 @@
 
 ### Charm Rebalanced
 
-- Version: 1.1.3.0 -> 2.0.3.0
+- Version: 1.1.4.0 -> 2.0.3.0
 
 ### DeathSync
 
@@ -167,6 +179,10 @@
   + Added
     - SFCore
 
+### Less Flashing Lights
+
+- Version: 1.0.2.0 -> 1.0.2.1
+
 ### MoreStags
 
 - Version: 1.1.0.3 -> 1.1.1.1
@@ -182,6 +198,10 @@
 ### TextMasher
 
 - Version: 1.0.0.0 -> 1.0.0.1
+
+### TreasureHunt
+
+- Version: 1.7.1.0 -> 1.7.2.0
 
 ### UltimateChickenKnight
 

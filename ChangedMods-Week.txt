@@ -1,5 +1,3 @@
-Architect
-MoreStags
 HarderAPSettings
 Architect
 AccessRandomizer
@@ -7,3 +5,7 @@ Architect
 Architect
 GodhomeQoL
 RngSync
+Double Enemies
+HKBattle
+Less Flashing Lights
+TreasureHunt

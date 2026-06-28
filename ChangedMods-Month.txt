@@ -1,5 +1,4 @@
 Charm Rebalanced
-Charm Rebalanced
 EnemiesFightingEachOther
 VengeflyBombardier
 Charm Rebalanced
@@ -54,3 +53,7 @@ Architect
 Architect
 GodhomeQoL
 RngSync
+Double Enemies
+HKBattle
+Less Flashing Lights
+TreasureHunt

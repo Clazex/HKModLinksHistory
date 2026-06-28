@@ -3003,6 +3003,25 @@
       "Baikal"
     ]
   },
+  "Double Enemies": {
+    "description": "Duplicates most enemies in the game, and shares hp between duplicate bosses.",
+    "version": "1.0.0.0",
+    "links": {
+      "type": "universal",
+      "sha256": "771E8CB3717F69928B8DC8D62C6CEA29CB7374ED7F4C101D7562AAABB092CE7D",
+      "url": "https://github.com/Genio250/Double-Enemies/releases/download/v1.0/Double.Enemies.zip"
+    },
+    "dependencies": [
+      "DoubleRadiance",
+      "Invincibility Monitor",
+      "Satchel"
+    ],
+    "repository": "https://github.com/Genio250/Double-Enemies",
+    "issues": "https://github.com/Genio250/Double-Enemies/issues",
+    "authors": [
+      "Genio250"
+    ]
+  },
   "DoubleJumpFix": {
     "description": "A mod to fix the notorious bug that the double jump is sometimes not properly canceled",
     "version": "1.0.0.0",
@@ -4920,6 +4939,22 @@
     ],
     "repository": "https://github.com/PrashantMohta/GrubTrain/"
   },
+  "HKBattle": {
+    "description": "HKBattle is a Hollow Knight mod for solo practice and competitive boss and Pantheon challenges.",
+    "version": "1.0.0.0",
+    "links": {
+      "type": "universal",
+      "sha256": "1CA0A6FDC111D305DFCD4F3267083F5D5E32E6D41578171DE369AC1E84A9A961",
+      "url": "https://github.com/NightFuryoOo/HKBattle/releases/download/v1.0.0.0/HKBattle.zip"
+    },
+    "dependencies": [],
+    "repository": "https://github.com/NightFuryoOo/HKBattle",
+    "authors": [
+      "NightFuryo3o",
+      "Prtsscout",
+      "mint"
+    ]
+  },
   "HKHKHKHKHK": {
     "description": "VVVVVVV but in HK. Flip gravity with the R key.",
     "version": "1.5.0.0",
@@ -6235,11 +6270,11 @@
   },
   "Less Flashing Lights": {
     "description": "Reduces the amount of flashing lights. Check the readme for more info",
-    "version": "1.0.2.0",
+    "version": "1.0.2.1",
     "links": {
       "type": "universal",
-      "sha256": "DAF4E927ED4DFC004B5BCF5ED8BAA4554FFED7E8D8C7E7A1F80347651820B133",
-      "url": "https://github.com/Arwangha/LessFlashingLights/releases/download/v1.0.2/LessFlashingLights.zip"
+      "sha256": "9EBDC544DE2C3095AEC9868F1E3D465D808D99BC6D9747AA2B0BE10B4508ED9F",
+      "url": "https://github.com/Arwangha/LessFlashingLights/releases/download/v1.0.2.1/LessFlashingLights.zip"
     },
     "dependencies": [
       "Satchel"
@@ -11096,11 +11131,11 @@
   },
   "TreasureHunt": {
     "description": "A Randomizer 4 connection fro a semi-spoiler format.",
-    "version": "1.7.1.0",
+    "version": "1.7.2.0",
     "links": {
       "type": "universal",
-      "sha256": "02583C30368E01FB2922F320F8FB76580F635AB54044B459A3CB3ED58D7E3AD6",
-      "url": "https://github.com/dplochcoder/HollowKnight.TreasureHunt/releases/download/v1.7.1.0/TreasureHunt.zip"
+      "sha256": "967BF2FAF061114163B56818A9179A08E6546EFF799241D58007C667BAF2EA30",
+      "url": "https://github.com/dplochcoder/HollowKnight.TreasureHunt/releases/download/v1.7.2.0/TreasureHunt.zip"
     },
     "dependencies": [
       "ConnectionMetadataInjector",
