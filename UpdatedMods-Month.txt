@@ -1,6 +1,5 @@
 Charm Rebalanced
 Charm Rebalanced
-Charm Rebalanced
 YetAnotherRandoConnection
 Architect
 Charm Rebalanced
@@ -41,3 +40,5 @@ GodhomeQoL
 RngSync
 Less Flashing Lights
 TreasureHunt
+Architect
+Charm Rebalanced

@@ -1,3 +1,2 @@
-HarderAPSettings
 Double Enemies
 HKBattle

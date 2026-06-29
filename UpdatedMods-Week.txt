@@ -6,3 +6,5 @@ GodhomeQoL
 RngSync
 Less Flashing Lights
 TreasureHunt
+Architect
+Charm Rebalanced

@@ -15,12 +15,6 @@
 
 - Description: HKBattle is a Hollow Knight mod for solo practice and competitive boss and Pantheon challenges.
 
-### HarderAPSettings
-
-- Description: Adds Settings to make APs harder, like take extra damage, do less nail damage, and replaces Radiance with AbsRad. Works in non Archipelago saves too.
-- Dependencies
-  + HKMirror
-
 
 ## Updated mods
 
@@ -30,7 +24,11 @@
 
 ### Architect
 
-- Version: 3.30.1.0 -> 3.31.0.1
+- Version: 3.30.1.0 -> 3.31.1.0
+
+### Charm Rebalanced
+
+- Version: 2.0.3.0 -> 3.0.1.0
 
 ### GodhomeQoL
 

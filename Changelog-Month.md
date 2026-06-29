@@ -22,15 +22,6 @@
 
 - Description: Dynamically adjusts render scale based on performance.
 
-### EnemiesFightingEachOther
-
-- Description: Allows the player to spawn in Gruz Mother and Hive Knight and have them fight each other
-- Dependencies
-  + Core.FsmUtil
-  + Satchel
-- Tags
-  + Gameplay
-
 ### Ghost Macro
 
 - Description: Scene-based hitbox recording and replay system with timeline playback, multi-visit support, and macro-like ghost replays
@@ -128,14 +119,6 @@
 - Tags
   + Gameplay
 
-### VengeflyBombardier
-
-- Description: VengeflyBombardier is a Hollow Knight mod that turns the Vengefly King into a much more aggressive boss encounter.
-- Dependencies
-  + Satchel
-- Tags
-  + Boss
-
 
 ## Updated mods
 
@@ -145,7 +128,7 @@
 
 ### Architect
 
-- Version: 3.28.0.12 -> 3.31.0.1
+- Version: 3.28.0.12 -> 3.31.1.0
 
 ### BugPrince
 
@@ -153,7 +136,7 @@
 
 ### Charm Rebalanced
 
-- Version: 1.1.4.0 -> 2.0.3.0
+- Version: 1.1.6.0 -> 3.0.1.0
 
 ### DeathSync
 
