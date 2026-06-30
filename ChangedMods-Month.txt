@@ -1,5 +1,4 @@
 Charm Rebalanced
-Charm Rebalanced
 Ghost Macro
 Noclip Accuracy
 RespawnPoint Manager
@@ -56,3 +55,5 @@ Less Flashing Lights
 TreasureHunt
 Architect
 Charm Rebalanced
+Charm Rebalanced
+YetAnotherRandoConnection

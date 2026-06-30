@@ -1,4 +1,3 @@
-Architect
 AccessRandomizer
 Architect
 Architect
@@ -10,3 +9,5 @@ Less Flashing Lights
 TreasureHunt
 Architect
 Charm Rebalanced
+Charm Rebalanced
+YetAnotherRandoConnection

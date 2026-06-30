@@ -24,11 +24,11 @@
 
 ### Architect
 
-- Version: 3.30.1.0 -> 3.31.1.0
+- Version: 3.30.2.0 -> 3.31.1.0
 
 ### Charm Rebalanced
 
-- Version: 2.0.3.0 -> 3.0.1.0
+- Version: 2.0.3.0 -> 3.0.2.0
 
 ### GodhomeQoL
 
@@ -45,4 +45,8 @@
 ### TreasureHunt
 
 - Version: 1.7.1.0 -> 1.7.2.0
+
+### YetAnotherRandoConnection
+
+- Version: 1.2.2.3 -> 1.3.0.0
 
