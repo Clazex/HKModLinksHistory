@@ -22,16 +22,6 @@
 
 - Description: Dynamically adjusts render scale based on performance.
 
-### Ghost Macro
-
-- Description: Scene-based hitbox recording and replay system with timeline playback, multi-visit support, and macro-like ghost replays
-- Dependencies
-  + DebugMod
-  + MagicUI
-  + Satchel
-- Tags
-  + Gameplay
-
 ### GrubDay2026Plando
 
 - Description: Companion Mod for the 2026 grubday plando
@@ -83,15 +73,6 @@
 
 - Description: A simple mod that makes every mask shard and vessel fragment grant you a full mask or vessel respectively.
 
-### Noclip Accuracy
-
-- Description: A lightweight mod that tracks how many spike damage hits you take during noclip / practice runs
-- Dependencies
-  + MagicUI
-  + Satchel
-- Tags
-  + Gameplay
-
 ### PedroSoulOrb
 
 - Description: A Hollow Knight mod that renders a friend when you have full soul
@@ -99,25 +80,6 @@
   + MagicUI
   + MenuChanger
   + Satchel
-
-### RespawnPoint Manager
-
-- Description: Spawnpoint manager that tracks, saves, and switches player checkpoints across scene with quick reset and custom spawn control
-- Dependencies
-  + MagicUI
-  + Satchel
-- Tags
-  + Gameplay
-
-### Spell Counter
-
-- Description: Spell counter mod with many modes: Spells, Casual and Chain Shorogos
-- Dependencies
-  + MagicUI
-  + ModCommon
-  + Satchel
-- Tags
-  + Gameplay
 
 
 ## Updated mods
@@ -136,7 +98,7 @@
 
 ### Charm Rebalanced
 
-- Version: 1.1.7.0 -> 3.0.2.0
+- Version: 1.1.8.0 -> 3.0.2.0
 
 ### DeathSync
 
@@ -196,5 +158,5 @@
 
 ### YetAnotherRandoConnection
 
-- Version: 1.2.2.2 -> 1.3.0.0
+- Version: 1.2.2.3 -> 1.3.0.0
 

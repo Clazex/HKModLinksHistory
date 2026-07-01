@@ -1,5 +1,3 @@
-Charm Rebalanced
-YetAnotherRandoConnection
 Architect
 Charm Rebalanced
 Hallowest
@@ -43,3 +41,4 @@ Architect
 Charm Rebalanced
 Charm Rebalanced
 YetAnotherRandoConnection
+Hallowest

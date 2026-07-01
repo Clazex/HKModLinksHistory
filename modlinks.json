@@ -5245,11 +5245,11 @@
   },
   "Hallowest": {
     "description": "Hardcore gameplay overhaul mod for Hollow Knight. Increases difficulty and rebalances combat.",
-    "version": "1.1.0.1",
+    "version": "1.1.0.2",
     "links": {
       "type": "universal",
-      "sha256": "5E8C976EDCB275E93C51D9225159200DF346637C52A91E4A3836C15482F76617",
-      "url": "https://github.com/Phant0m21/Hallowest/releases/download/v1.1.0.1/Hallowest.dll"
+      "sha256": "C27EE71AEC81DFB9C7D27B78F7CEF842151FF39EC9E4B9DAD89D74FAC43EE993",
+      "url": "https://github.com/Phant0m21/Hallowest/releases/download/v1.1.0.2/Hallowest.dll"
     },
     "dependencies": [
       "Satchel",

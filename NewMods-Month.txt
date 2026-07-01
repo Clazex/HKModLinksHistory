@@ -1,7 +1,3 @@
-Ghost Macro
-Noclip Accuracy
-RespawnPoint Manager
-Spell Counter
 Hallowest
 BingoGoalPackGrubDay
 No More Shards

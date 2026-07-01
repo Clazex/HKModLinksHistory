@@ -1,5 +1,3 @@
-AccessRandomizer
-Architect
 Architect
 GodhomeQoL
 RngSync
@@ -11,3 +9,4 @@ Architect
 Charm Rebalanced
 Charm Rebalanced
 YetAnotherRandoConnection
+Hallowest

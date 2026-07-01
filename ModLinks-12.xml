@@ -153,11 +153,11 @@
     <Manifest>
         <Name>Hollow Knight ACTS</Name>
         <DisplayName>Hollow Knight: ACTS</DisplayName>
-        <Description>A mod which adds Skongs ACT system to hk. Act positions based of Singbuzzordenethcut video on yt.</Description>
-        <Version>1.0.0.0</Version>
-        <Link SHA256="7FDE323BFBA8CB6430F4F5D7882D443C92ACD17F4980193653D6AD567CE0A335"><![CDATA[https://github.com/Bluescratch7545/Hollow-knight-ACTS/releases/download/1.0.0.0-yup-i-forgor-to-chage-dis/Hollow.knight.ACTS.zip]]></Link>
+        <Description>A mod which adds SilkSongs ACT system to hk. Act positions based of Singbuzzordenethcut video on yt.</Description>
+        <Version>1.0.0.1</Version>
+        <Link SHA256="4273E11AE046B989DF0431B691B2E83BAA51831078BBBDC70AB4512C7B720ECE"><![CDATA[https://github.com/Bluescratch7545/Hollow-knight-ACTS/releases/download/1.0.0.1/Hollow.knight.ACTS.zip]]></Link>
         <Dependencies>
-            <Dependency>MagicUI</Dependency>
+            <Dependency>SFCore</Dependency>
             <Dependency>WavLib</Dependency>
         </Dependencies>
         <Repository>
@@ -8282,9 +8282,9 @@ Enjoy!</Description>
     <Manifest>
         <Name>PurenailCore</Name>
         <Description>Common utilities and interop for Purenail mods</Description>
-        <Version>2.0.0.2</Version>
-        <Link SHA256="475db51958869f4a8c84db0c5c7102d4e41fa041acd417293a32eb0c4ec32b3a">
-            <![CDATA[https://github.com/dplochcoder/HollowKnight.PurenailCore/releases/download/v2.0.0.2/PurenailCore.zip]]>
+        <Version>2.0.2.0</Version>
+        <Link SHA256="90afa07b95e52c7c51c23370a82eab1e4b30bfa458eecb48574eaaa92c7ef4a5">
+            <![CDATA[https://github.com/dplochcoder/HollowKnight.PurenailCore/releases/download/v2.0.2.0/PurenailCore.zip]]>
         </Link>
         <Dependencies>
             <Dependency>RandomizerCore.Json</Dependency>
@@ -10907,9 +10907,9 @@ Enjoy!</Description>
     <Manifest>
         <Name>Architect</Name>
         <Description>A Hollow Knight level editor mod, easily make and share custom levels with an in-game level editor and level sharer.</Description>
-        <Version>3.29.3.3</Version>
-        <Link SHA256="f38e936a83b55313e3fa6fb0e9e0497cf92cd35d871e93099190992d6b47e636">
-            <![CDATA[https://github.com/cometcake575/Architect-HK/releases/download/3.29.3.3/Architect.zip]]>
+        <Version>3.30.0.0</Version>
+        <Link SHA256="f0bf11d4b46f448ad3a61399dce64a31506b7db2f87ce14be178832bd2a6bbde">
+            <![CDATA[https://github.com/cometcake575/Architect-HK/releases/download/3.30.0.0/Architect.zip]]>
         </Link>
         <Dependencies>
             <Dependency>Satchel</Dependency>
