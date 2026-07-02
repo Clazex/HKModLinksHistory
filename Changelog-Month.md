@@ -128,6 +128,10 @@
 
 - Version: 1.0.2.0 -> 1.0.2.1
 
+### MoreDoors
+
+- Version: 3.3.0.1 -> 3.3.1.0
+
 ### MoreStags
 
 - Version: 1.1.0.3 -> 1.1.1.1

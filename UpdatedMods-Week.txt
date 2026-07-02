@@ -1,5 +1,3 @@
-Architect
-GodhomeQoL
 RngSync
 Less Flashing Lights
 TreasureHunt
@@ -8,3 +6,4 @@ Charm Rebalanced
 Charm Rebalanced
 YetAnotherRandoConnection
 Hallowest
+MoreDoors

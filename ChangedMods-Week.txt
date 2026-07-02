@@ -1,5 +1,3 @@
-Architect
-GodhomeQoL
 RngSync
 Double Enemies
 HKBattle
@@ -10,3 +8,4 @@ Charm Rebalanced
 Charm Rebalanced
 YetAnotherRandoConnection
 Hallowest
+MoreDoors

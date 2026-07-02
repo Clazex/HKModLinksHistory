@@ -20,15 +20,11 @@
 
 ### Architect
 
-- Version: 3.30.3.0 -> 3.31.1.0
+- Version: 3.31.0.1 -> 3.31.1.0
 
 ### Charm Rebalanced
 
 - Version: 2.0.3.0 -> 3.0.2.0
-
-### GodhomeQoL
-
-- Version: 1.0.1.2 -> 1.0.1.3
 
 ### Hallowest
 
@@ -37,6 +33,10 @@
 ### Less Flashing Lights
 
 - Version: 1.0.2.0 -> 1.0.2.1
+
+### MoreDoors
+
+- Version: 3.3.0.1 -> 3.3.1.0
 
 ### RngSync
 
