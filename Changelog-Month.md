@@ -49,16 +49,6 @@
 
 - Description: HKBattle is a Hollow Knight mod for solo practice and competitive boss and Pantheon challenges.
 
-### Hallowest
-
-- Description: Hardcore gameplay overhaul mod for Hollow Knight. Increases difficulty and rebalances combat.
-- Dependencies
-  + Satchel
-  + Vasi
-- Tags
-  + Expansion
-  + Gameplay
-
 ### HarderAPSettings
 
 - Description: Adds Settings to make APs harder, like take extra damage, do less nail damage, and replaces Radiance with AbsRad. Works in non Archipelago saves too.
@@ -90,7 +80,7 @@
 
 ### Architect
 
-- Version: 3.28.0.12 -> 3.31.1.0
+- Version: 3.28.0.12 -> 3.31.2.0
 
 ### BugPrince
 
@@ -98,7 +88,7 @@
 
 ### Charm Rebalanced
 
-- Version: 1.1.8.0 -> 3.0.2.0
+- Version: 1.1.8.0 -> 3.0.4.0
 
 ### DeathSync
 
@@ -111,6 +101,13 @@
 ### GodhomeQoL
 
 - Version: 1.0.1.2 -> 1.0.1.3
+
+### Hallowest
+
+- Version: 1.0.1.0 -> 1.1.0.2
+- Dependencies
+  + Added
+    - Vasi
 
 ### Hollow Knight ACTS
 

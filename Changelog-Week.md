@@ -20,11 +20,11 @@
 
 ### Architect
 
-- Version: 3.31.0.1 -> 3.31.1.0
+- Version: 3.31.0.1 -> 3.31.2.0
 
 ### Charm Rebalanced
 
-- Version: 2.0.3.0 -> 3.0.2.0
+- Version: 2.0.3.0 -> 3.0.4.0
 
 ### Hallowest
 
@@ -37,10 +37,6 @@
 ### MoreDoors
 
 - Version: 3.3.0.1 -> 3.3.1.0
-
-### RngSync
-
-- Version: 0.3.2.0 -> 0.3.3.0
 
 ### TreasureHunt
 

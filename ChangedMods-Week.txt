@@ -1,4 +1,3 @@
-RngSync
 Double Enemies
 HKBattle
 Less Flashing Lights
@@ -9,3 +8,5 @@ Charm Rebalanced
 YetAnotherRandoConnection
 Hallowest
 MoreDoors
+Architect
+Charm Rebalanced

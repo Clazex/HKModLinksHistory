@@ -43,3 +43,5 @@ Charm Rebalanced
 YetAnotherRandoConnection
 Hallowest
 MoreDoors
+Architect
+Charm Rebalanced

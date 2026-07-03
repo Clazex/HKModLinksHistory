@@ -8048,9 +8048,9 @@ Enjoy!</Description>
     <Manifest>
         <Name>BugPrince</Name>
         <Description>A Randomizer 4 connection which combines Blue Prince mechanics with Hollow Knight transition randomizer.</Description>
-        <Version>1.5.0.1</Version>
-        <Link SHA256="ca7db41a385b5101bbb310053d64737bfdb24fee83d9d0397c28299ae7e87e9b">
-            <![CDATA[https://github.com/dplochcoder/HollowKnight.BugPrince/releases/download/v1.5.0.1/BugPrince.zip]]>
+        <Version>1.5.1.0</Version>
+        <Link SHA256="c99424bb696bdc7e2573451e2b5ceabd00a6c69a7ebe33a3363871d60edfd675">
+            <![CDATA[https://github.com/dplochcoder/HollowKnight.BugPrince/releases/download/v1.5.1/BugPrince.zip]]>
         </Link>
         <Dependencies>
             <Dependency>Benchwarp</Dependency>
@@ -12405,8 +12405,8 @@ Enjoy!</Description>
         <Name>Hallowest</Name>
         <DisplayName>Hallowest</DisplayName>
         <Description>Hardcore gameplay overhaul mod for Hollow Knight. Increases difficulty and rebalances combat.</Description>
-        <Version>1.0.4.0</Version>
-        <Link SHA256="0008bad3521de0248ccf09191edf3585909b82cb3817d503cd803793a3b735da"><![CDATA[https://github.com/Phant0m21/Hallowest/releases/download/v1.0.4/Hallowest.dll]]></Link>
+        <Version>1.0.5.0</Version>
+        <Link SHA256="f8b326594d5c1bd27109529a13f10ff9ac6cfd5aeb365e102ffae66b52514e3f"><![CDATA[https://github.com/Phant0m21/Hallowest/releases/download/v1.0.5/Hallowest.dll]]></Link>
         <Dependencies>
             <Dependency>Satchel</Dependency>
             <Dependency>Vasi</Dependency>
