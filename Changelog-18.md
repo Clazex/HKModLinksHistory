@@ -3,22 +3,37 @@
 
 ## New mods
 
-### PedroSoulOrb
+### DynamicRenderScale
 
-- Description: A Hollow Knight mod that renders a friend when you have full soul
+- Description: Dynamically adjusts render scale based on performance.
+
+### GrubDay2026Plando
+
+- Description: Companion Mod for the 2026 grubday plando
 - Dependencies
-  + MagicUI
-  + MenuChanger
+  + ArchitectLegacy
+  + BenchWarpFix
+  + Benchwarp
+  + BingoUI
+  + DeathCounter
+  + HKTool
+  + ItemChanger
+  + ItemChangerDataLoader
+  + ItemSync
+  + PurenailCore
+  + QoL
+  + RandoMapMod
+  + RandoSettingsManager
+  + RandoStats
+  + Randomizer 4
+  + RecentItemsDisplay
   + Satchel
+  + Scatternest
 
 
 ## Updated mods
 
-### Architect
+### DeathSync
 
-- Version: 3.29.3.2 -> 3.29.3.3
-
-### Hallowest
-
-- Version: 1.0.6.0 -> 1.1.0.1
+- Version: 1.0.0.0 -> 1.0.0.1
 

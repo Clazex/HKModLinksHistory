@@ -1,13 +1,11 @@
 # Changelog
 
 
-## Updated mods
+## New mods
 
-### Architect
+### HarderAPSettings
 
-- Version: 3.30.0.0 -> 3.30.1.0
-
-### MoreStags
-
-- Version: 1.1.1.0 -> 1.1.1.1
+- Description: Adds Settings to make APs harder, like take extra damage, do less nail damage, and replaces Radiance with AbsRad. Works in non Archipelago saves too.
+- Dependencies
+  + HKMirror
 
