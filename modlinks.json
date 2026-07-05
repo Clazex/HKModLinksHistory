@@ -11744,6 +11744,21 @@
       "Clazex"
     ]
   },
+  "WhatTheMoth": {
+    "description": "A Simon Says-inspired Hollow Knight mod where obeying Judge Radiance sends you straight to the Radiance arena, MOD IS IN SPANISH BY THE WAY.",
+    "version": "1.0.0.0",
+    "links": {
+      "type": "universal",
+      "sha256": "74802B1297F9109ABCE5947ACB40EAE3F38BCECBD7E85DA1316101D396175AC8",
+      "url": "https://github.com/iamsosigma/-WhatTheMoth-/releases/download/beta/WhatTheMoth.zip"
+    },
+    "dependencies": [],
+    "repository": "https://github.com/iamsosigma/-WhatTheMoth-",
+    "issues": "https://github.com/iamsosigma/-WhatTheMoth-/issues",
+    "authors": [
+      "PifferNL"
+    ]
+  },
   "WideCamera": {
     "description": "Make ultrawide screens possible without black bars. Should also work for thinner/taller than 16:9. In theory.",
     "version": "1.5.1.4",

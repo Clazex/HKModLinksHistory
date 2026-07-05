@@ -71,6 +71,10 @@
   + MenuChanger
   + Satchel
 
+### WhatTheMoth
+
+- Description: A Simon Says-inspired Hollow Knight mod where obeying Judge Radiance sends you straight to the Radiance arena, MOD IS IN SPANISH BY THE WAY.
+
 
 ## Updated mods
 
@@ -88,7 +92,7 @@
 
 ### Charm Rebalanced
 
-- Version: 1.1.9.0 -> 3.0.4.0
+- Version: 2.0.0.0 -> 3.0.4.0
 
 ### DeathSync
 
@@ -104,10 +108,7 @@
 
 ### Hallowest
 
-- Version: 1.0.3.0 -> 1.1.0.2
-- Dependencies
-  + Added
-    - Vasi
+- Version: 1.0.4.0 -> 1.1.0.2
 
 ### Hollow Knight ACTS
 

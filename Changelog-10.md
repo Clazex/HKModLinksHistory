@@ -3,11 +3,11 @@
 
 ## Updated mods
 
-### AccessRandomizer
-
-- Version: 1.4.0.2 -> 1.4.1.0
-
 ### Architect
 
-- Version: 3.30.2.0 -> 3.30.3.0
+- Version: 3.30.3.0 -> 3.31.0.1
+
+### GodhomeQoL
+
+- Version: 1.0.1.2 -> 1.0.1.3
 
