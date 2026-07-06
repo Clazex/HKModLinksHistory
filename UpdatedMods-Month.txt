@@ -1,6 +1,4 @@
 BugPrince
-Hallowest
-BugPrince
 TextMasher
 Vietnamese Lang
 Architect
