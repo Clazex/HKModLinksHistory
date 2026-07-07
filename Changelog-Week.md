@@ -18,9 +18,9 @@
 
 - Version: 3.0.2.0 -> 3.0.4.0
 
-### Hallowest
+### Double Enemies
 
-- Version: 1.1.0.1 -> 1.1.0.2
+- Version: 1.0.0.0 -> 1.1.1.0
 
 ### MoreDoors
 

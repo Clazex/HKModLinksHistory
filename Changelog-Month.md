@@ -86,10 +86,6 @@
 
 - Version: 3.28.1.0 -> 3.31.2.0
 
-### BugPrince
-
-- Version: 1.5.1.0 -> 1.5.1.1
-
 ### Charm Rebalanced
 
 - Version: 2.0.0.0 -> 3.0.4.0

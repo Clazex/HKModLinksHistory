@@ -1,4 +1,3 @@
-BugPrince
 TextMasher
 Vietnamese Lang
 Architect
@@ -47,3 +46,4 @@ MoreDoors
 Architect
 Charm Rebalanced
 WhatTheMoth
+Double Enemies

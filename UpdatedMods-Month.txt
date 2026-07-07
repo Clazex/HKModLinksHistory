@@ -1,4 +1,3 @@
-BugPrince
 TextMasher
 Vietnamese Lang
 Architect
@@ -37,3 +36,4 @@ Hallowest
 MoreDoors
 Architect
 Charm Rebalanced
+Double Enemies
