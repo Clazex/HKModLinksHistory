@@ -84,7 +84,7 @@
 
 ### Architect
 
-- Version: 3.28.1.0 -> 3.31.2.0
+- Version: 3.28.1.0 -> 3.31.3.2
 
 ### Charm Rebalanced
 
@@ -138,10 +138,6 @@
 
 - Version: 0.3.2.0 -> 0.3.3.0
 
-### TextMasher
-
-- Version: 1.0.0.0 -> 1.0.0.1
-
 ### TreasureHunt
 
 - Version: 1.7.1.0 -> 1.7.2.0
@@ -149,10 +145,6 @@
 ### UltimateChickenKnight
 
 - Version: 4.0.10.0 -> 4.0.12.0
-
-### Vietnamese Lang
-
-- Version: 1.0.0.0 -> 1.0.1.0
 
 ### YetAnotherRandoConnection
 

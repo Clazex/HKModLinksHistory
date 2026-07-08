@@ -1,5 +1,3 @@
-TextMasher
-Vietnamese Lang
 Architect
 Gatling Aspid
 Hallowest
@@ -37,3 +35,5 @@ MoreDoors
 Architect
 Charm Rebalanced
 Double Enemies
+Architect
+HKBattle

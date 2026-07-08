@@ -1,4 +1,5 @@
-MoreDoors
 Architect
 Charm Rebalanced
 Double Enemies
+Architect
+HKBattle

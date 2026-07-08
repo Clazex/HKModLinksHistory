@@ -12,7 +12,7 @@
 
 ### Architect
 
-- Version: 3.31.1.0 -> 3.31.2.0
+- Version: 3.31.1.0 -> 3.31.3.2
 
 ### Charm Rebalanced
 
@@ -22,7 +22,7 @@
 
 - Version: 1.0.0.0 -> 1.1.1.0
 
-### MoreDoors
+### HKBattle
 
-- Version: 3.3.0.1 -> 3.3.1.0
+- Version: 1.0.0.0 -> 1.0.0.1
 

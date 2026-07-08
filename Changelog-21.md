@@ -3,37 +3,18 @@
 
 ## New mods
 
-### DynamicRenderScale
+### Keep lifeblood on bench
 
-- Description: Dynamically adjusts render scale based on performance.
-
-### GrubDay2026Plando
-
-- Description: Companion Mod for the 2026 grubday plando
-- Dependencies
-  + ArchitectLegacy
-  + BenchWarpFix
-  + Benchwarp
-  + BingoUI
-  + DeathCounter
-  + HKTool
-  + ItemChanger
-  + ItemChangerDataLoader
-  + ItemSync
-  + PurenailCore
-  + QoL
-  + RandoMapMod
-  + RandoSettingsManager
-  + RandoStats
-  + Randomizer 4
-  + RecentItemsDisplay
-  + Satchel
-  + Scatternest
+- Description: Keeps your lifeblood when sitting on a bench, useful to not accidentally kill your lifeblood stack on P5.
 
 
 ## Updated mods
 
+### Charm Rebalanced
+
+- Version: 2.0.1.0 -> 2.0.2.0
+
 ### DeathSync
 
-- Version: 1.0.0.0 -> 1.0.0.1
+- Version: 1.0.0.1 -> 1.0.1.0
 
