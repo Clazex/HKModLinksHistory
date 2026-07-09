@@ -3005,11 +3005,11 @@
   },
   "Double Enemies": {
     "description": "Duplicates most enemies in the game, and shares hp between duplicate bosses.",
-    "version": "1.1.1.0",
+    "version": "1.1.2.0",
     "links": {
       "type": "universal",
-      "sha256": "F0DB3A6F276DD427C963BCF03AB053D348C050686911879F3553687969F59706",
-      "url": "https://github.com/Genio250/Double-Enemies/releases/download/v1.1.1/Double.Enemies.zip"
+      "sha256": "ADB6CC7C5EEA295A062D4B0E73B301348AA8E79FE9EBA1A66B3948B07E02D2EE",
+      "url": "https://github.com/Genio250/Double-Enemies/releases/download/v1.1.2/Double.Enemies.zip"
     },
     "dependencies": [
       "DoubleRadiance",
@@ -9392,11 +9392,11 @@
   },
   "ReplayLogger": {
     "description": "ReplayLoger is a mod that was created to verify the legitimacy of player challenge runs.",
-    "version": "1.1.0.3",
+    "version": "1.1.0.4",
     "links": {
       "type": "universal",
-      "sha256": "C093192544515517F6284F25AC6AB8F88DF76F71FE890CDEEB8FD29A9A68D01C",
-      "url": "https://github.com/NightFuryoOo/ReplayLogger/releases/download/v1.1.0.3/ReplayLogger.zip"
+      "sha256": "ACA7DBC91261E0574E3A08C386CB5FF4D4B2227D4F0481A3B1F78D1B18885B0A",
+      "url": "https://github.com/NightFuryoOo/ReplayLogger/releases/download/v1.1.0.4/ReplayLogger.zip"
     },
     "dependencies": [
       "Satchel"

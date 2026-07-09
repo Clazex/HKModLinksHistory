@@ -12,17 +12,17 @@
 
 ### Architect
 
-- Version: 3.31.1.0 -> 3.31.3.2
-
-### Charm Rebalanced
-
-- Version: 3.0.2.0 -> 3.0.4.0
+- Version: 3.31.2.0 -> 3.31.3.2
 
 ### Double Enemies
 
-- Version: 1.0.0.0 -> 1.1.1.0
+- Version: 1.0.0.0 -> 1.1.2.0
 
 ### HKBattle
 
 - Version: 1.0.0.0 -> 1.0.0.1
+
+### ReplayLogger
+
+- Version: 1.1.0.3 -> 1.1.0.4
 

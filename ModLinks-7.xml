@@ -10947,9 +10947,9 @@ Enjoy!</Description>
     <Manifest>
         <Name>Architect</Name>
         <Description>A Hollow Knight level editor mod, easily make and share custom levels with an in-game level editor and level sharer.</Description>
-        <Version>3.31.1.0</Version>
-        <Link SHA256="ab57732365f5b80a3995ba645ff3e68f7a8c95173a1dfd0a5bbf971b91dfd50e">
-            <![CDATA[https://github.com/cometcake575/Architect-HK/releases/download/3.31.1.0/Architect.zip]]>
+        <Version>3.31.2.0</Version>
+        <Link SHA256="332b8bf65bd5d44302374aee2b0f22116cee514c272b49d37de3d75653e2db1a">
+            <![CDATA[https://github.com/cometcake575/Architect-HK/releases/download/3.31.2.0/Architect.zip]]>
         </Link>
         <Dependencies>
             <Dependency>Satchel</Dependency>
@@ -12453,8 +12453,8 @@ Enjoy!</Description>
         <Name>Charm Rebalanced</Name>
         <DisplayName>Charm Rebalanced Mod</DisplayName>
         <Description>Click [View Readme] to see all the changes. If you enjoy the mod, please consider giving the GitHub repository a star, this will help spread the mod to more people!</Description>
-        <Version>3.0.2.0</Version>
-        <Link SHA256="65a33ed73ab341d184101710850b72e937f2afd270bbdacf123f50d99a73516c"><![CDATA[https://github.com/GyVn87/Charm-Rebalanced-Mod/releases/download/v3.0.2.0/CharmRebalanced.zip]]></Link>
+        <Version>3.0.4.0</Version>
+        <Link SHA256="39ac23c83b43d6c45531a317d9a40012d7741f7725fb1997f7b77a0934facb37"><![CDATA[https://github.com/GyVn87/Charm-Rebalanced-Mod/releases/download/v3.0.4.0/CharmRebalanced.zip]]></Link>
         <Dependencies>
             <Dependency>SFCore</Dependency>
         </Dependencies>

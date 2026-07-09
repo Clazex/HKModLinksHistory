@@ -1,8 +1,4 @@
 Architect
-Gatling Aspid
-Hallowest
-UltimateChickenKnight
-Architect
 Architect
 Architect
 BingoGoalPackGrubDay
@@ -47,3 +43,5 @@ WhatTheMoth
 Double Enemies
 Architect
 HKBattle
+Double Enemies
+ReplayLogger

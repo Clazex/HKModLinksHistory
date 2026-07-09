@@ -1,8 +1,4 @@
 Architect
-Gatling Aspid
-Hallowest
-UltimateChickenKnight
-Architect
 Architect
 Architect
 Charm Rebalanced
@@ -37,3 +33,5 @@ Charm Rebalanced
 Double Enemies
 Architect
 HKBattle
+Double Enemies
+ReplayLogger

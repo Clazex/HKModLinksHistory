@@ -1,6 +1,6 @@
-Architect
-Charm Rebalanced
 WhatTheMoth
 Double Enemies
 Architect
 HKBattle
+Double Enemies
+ReplayLogger
