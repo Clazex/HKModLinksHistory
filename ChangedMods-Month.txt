@@ -1,6 +1,5 @@
 Architect
 Architect
-Architect
 BingoGoalPackGrubDay
 Charm Rebalanced
 No More Shards
