@@ -1,4 +1,3 @@
-WhatTheMoth
 Double Enemies
 Architect
 HKBattle
