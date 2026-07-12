@@ -3,3 +3,5 @@ Architect
 HKBattle
 Double Enemies
 ReplayLogger
+Architect
+Double Enemies
