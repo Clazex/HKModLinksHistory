@@ -52,10 +52,6 @@
 
 - Description: Keeps your lifeblood when sitting on a bench, useful to not accidentally kill your lifeblood stack on P5.
 
-### No More Shards
-
-- Description: A simple mod that makes every mask shard and vessel fragment grant you a full mask or vessel respectively.
-
 ### PedroSoulOrb
 
 - Description: A Hollow Knight mod that renders a friend when you have full soul
@@ -81,7 +77,7 @@
 
 ### Charm Rebalanced
 
-- Version: 2.0.0.0 -> 3.0.4.0
+- Version: 2.0.1.0 -> 3.0.4.0
 
 ### DeathSync
 

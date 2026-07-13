@@ -1,7 +1,7 @@
-Double Enemies
 Architect
 HKBattle
 Double Enemies
 ReplayLogger
 Architect
 Double Enemies
+HKBattle
