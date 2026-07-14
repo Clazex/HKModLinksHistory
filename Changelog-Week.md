@@ -5,7 +5,7 @@
 
 ### Architect
 
-- Version: 3.31.2.0 -> 3.31.3.3
+- Version: 3.31.3.2 -> 3.31.3.3
 
 ### Double Enemies
 
@@ -13,7 +13,7 @@
 
 ### HKBattle
 
-- Version: 1.0.0.0 -> 1.0.0.2
+- Version: 1.0.0.1 -> 1.0.0.2
 
 ### ReplayLogger
 

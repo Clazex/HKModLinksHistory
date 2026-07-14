@@ -73,7 +73,7 @@
 
 ### Architect
 
-- Version: 3.29.3.1 -> 3.31.3.3
+- Version: 3.29.3.2 -> 3.31.3.3
 
 ### Charm Rebalanced
 

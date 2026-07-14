@@ -1,4 +1,2 @@
-Double Enemies
-HKBattle
-Less Flashing Lights
-TreasureHunt
+Architect
+Charm Rebalanced
