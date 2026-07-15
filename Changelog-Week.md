@@ -9,13 +9,9 @@
 
 ### Double Enemies
 
-- Version: 1.1.1.0 -> 1.1.3.0
+- Version: 1.1.2.0 -> 1.1.4.0
 
 ### HKBattle
 
 - Version: 1.0.0.1 -> 1.0.0.2
-
-### ReplayLogger
-
-- Version: 1.1.0.3 -> 1.1.0.4
 

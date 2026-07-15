@@ -1,6 +1,3 @@
-Architect
-Hallowest
-PedroSoulOrb
 DeathSync
 DynamicRenderScale
 GrubDay2026Plando
@@ -41,3 +38,4 @@ ReplayLogger
 Architect
 Double Enemies
 HKBattle
+Double Enemies

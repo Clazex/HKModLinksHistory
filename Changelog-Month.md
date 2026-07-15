@@ -52,14 +52,6 @@
 
 - Description: Keeps your lifeblood when sitting on a bench, useful to not accidentally kill your lifeblood stack on P5.
 
-### PedroSoulOrb
-
-- Description: A Hollow Knight mod that renders a friend when you have full soul
-- Dependencies
-  + MagicUI
-  + MenuChanger
-  + Satchel
-
 ### WhatTheMoth
 
 - Description: A Simon Says-inspired Hollow Knight mod where obeying Judge Radiance sends you straight to the Radiance arena, MOD IS IN SPANISH BY THE WAY.
@@ -73,7 +65,7 @@
 
 ### Architect
 
-- Version: 3.29.3.2 -> 3.31.3.3
+- Version: 3.29.3.3 -> 3.31.3.3
 
 ### Charm Rebalanced
 
@@ -89,7 +81,7 @@
 
 ### Hallowest
 
-- Version: 1.0.6.0 -> 1.1.0.2
+- Version: 1.1.0.1 -> 1.1.0.2
 
 ### Hollow Knight ACTS
 
