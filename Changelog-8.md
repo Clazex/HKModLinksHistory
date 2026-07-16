@@ -3,11 +3,11 @@
 
 ## Updated mods
 
-### Architect
+### Double Enemies
 
-- Version: 3.31.2.0 -> 3.31.3.2
+- Version: 1.1.1.0 -> 1.1.2.0
 
-### HKBattle
+### ReplayLogger
 
-- Version: 1.0.0.0 -> 1.0.0.1
+- Version: 1.1.0.3 -> 1.1.0.4
 
