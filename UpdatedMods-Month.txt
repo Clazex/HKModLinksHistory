@@ -1,6 +1,4 @@
 Charm Rebalanced
-DeathSync
-Charm Rebalanced
 Architect
 Hollow Knight ACTS
 PurenailCore

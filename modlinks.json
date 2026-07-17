@@ -383,6 +383,25 @@
       "Nickc01"
     ]
   },
+  "Another Location": {
+    "description": "Adds one location to the Randomizer. Terms and Conditions may apply",
+    "version": "1.0.0.0",
+    "links": {
+      "type": "universal",
+      "sha256": "C0E58D784014E470FC3A93F89BFE61A2EC1CE0D85C9D2ADA46F2CB68143398C2",
+      "url": "https://github.com/Roma-337/AnotherLocation/releases/download/v1.0.0.0/AnotherLocation.zip"
+    },
+    "dependencies": [
+      "Randomizer 4"
+    ],
+    "repository": "https://github.com/Roma-337/AnotherLocation",
+    "integrations": [
+      "RandoSettingsManager"
+    ],
+    "authors": [
+      "Roma 337"
+    ]
+  },
   "Any Radiance 3.0": {
     "description": "Any Radiance 3.0",
     "version": "1.0.0.0",

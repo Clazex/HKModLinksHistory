@@ -1,7 +1,4 @@
 Charm Rebalanced
-DeathSync
-Keep lifeblood on bench
-Charm Rebalanced
 Architect
 Hollow Knight ACTS
 PurenailCore
@@ -36,3 +33,4 @@ Architect
 Double Enemies
 HKBattle
 Double Enemies
+Another Location

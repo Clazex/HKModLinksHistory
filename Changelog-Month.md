@@ -3,6 +3,14 @@
 
 ## New mods
 
+### Another Location
+
+- Description: Adds one location to the Randomizer. Terms and Conditions may apply
+- Dependencies
+  + Randomizer 4
+- Integrations
+  + RandoSettingsManager
+
 ### Double Enemies
 
 - Description: Duplicates most enemies in the game, and shares hp between duplicate bosses.
@@ -21,10 +29,6 @@
 - Dependencies
   + HKMirror
 
-### Keep lifeblood on bench
-
-- Description: Keeps your lifeblood when sitting on a bench, useful to not accidentally kill your lifeblood stack on P5.
-
 ### WhatTheMoth
 
 - Description: A Simon Says-inspired Hollow Knight mod where obeying Judge Radiance sends you straight to the Radiance arena, MOD IS IN SPANISH BY THE WAY.
@@ -42,11 +46,7 @@
 
 ### Charm Rebalanced
 
-- Version: 2.0.1.0 -> 3.0.4.0
-
-### DeathSync
-
-- Version: 1.0.0.1 -> 1.0.1.0
+- Version: 2.0.2.0 -> 3.0.4.0
 
 ### GodhomeQoL
 
