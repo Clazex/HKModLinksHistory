@@ -42,11 +42,15 @@
 
 ### Architect
 
-- Version: 3.29.3.3 -> 3.31.3.3
+- Version: 3.29.3.3 -> 3.31.3.5
+
+### Breakable Wall Randomizer
+
+- Version: 4.1.1.8 -> 4.1.2.0
 
 ### Charm Rebalanced
 
-- Version: 2.0.2.0 -> 3.0.4.0
+- Version: 2.0.3.0 -> 3.0.4.0
 
 ### GodhomeQoL
 

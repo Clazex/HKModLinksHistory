@@ -1,4 +1,4 @@
-Architect
-Double Enemies
 HKBattle
 Double Enemies
+Architect
+Breakable Wall Randomizer

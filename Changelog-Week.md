@@ -16,11 +16,15 @@
 
 ### Architect
 
-- Version: 3.31.3.2 -> 3.31.3.3
+- Version: 3.31.3.3 -> 3.31.3.5
+
+### Breakable Wall Randomizer
+
+- Version: 4.1.1.8 -> 4.1.2.0
 
 ### Double Enemies
 
-- Version: 1.1.2.0 -> 1.1.4.0
+- Version: 1.1.3.0 -> 1.1.4.0
 
 ### HKBattle
 

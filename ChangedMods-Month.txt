@@ -1,4 +1,3 @@
-Charm Rebalanced
 Architect
 Hollow Knight ACTS
 PurenailCore
@@ -34,3 +33,5 @@ Double Enemies
 HKBattle
 Double Enemies
 Another Location
+Architect
+Breakable Wall Randomizer
