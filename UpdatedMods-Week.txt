@@ -1,4 +1,6 @@
-HKBattle
 Double Enemies
 Architect
 Breakable Wall Randomizer
+Architect
+Lore Randomizer
+LoreCore

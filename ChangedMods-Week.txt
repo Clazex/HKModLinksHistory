@@ -1,5 +1,7 @@
-HKBattle
 Double Enemies
 Another Location
 Architect
 Breakable Wall Randomizer
+Architect
+Lore Randomizer
+LoreCore

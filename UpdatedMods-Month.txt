@@ -1,7 +1,4 @@
 Architect
-Hollow Knight ACTS
-PurenailCore
-Architect
 MoreStags
 Architect
 AccessRandomizer
@@ -30,3 +27,6 @@ HKBattle
 Double Enemies
 Architect
 Breakable Wall Randomizer
+Architect
+Lore Randomizer
+LoreCore

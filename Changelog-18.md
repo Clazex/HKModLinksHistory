@@ -3,7 +3,7 @@
 
 ## Updated mods
 
-### Hallowest
+### MoreDoors
 
-- Version: 1.1.0.1 -> 1.1.0.2
+- Version: 3.3.0.1 -> 3.3.1.0
 

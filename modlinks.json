@@ -507,11 +507,11 @@
   },
   "Architect": {
     "description": "A Hollow Knight level editor mod, easily make and share custom levels with an in-game level editor and level sharer.",
-    "version": "3.31.3.5",
+    "version": "3.31.4.0",
     "links": {
       "type": "universal",
-      "sha256": "EA46A764BE795D266607CF096D44FF829C0A55729DB465669A3796FF97515E50",
-      "url": "https://github.com/cometcake575/Architect-HK/releases/download/3.31.3.5/Architect.zip"
+      "sha256": "9748B9F21A3E154EAE76A94F6C0A12B43D15E40D53C06195F9496F8D5383EB26",
+      "url": "https://github.com/cometcake575/Architect-HK/releases/download/3.31.4.0/Architect.zip"
     },
     "dependencies": [
       "ItemChanger",
@@ -6493,11 +6493,11 @@
   },
   "Lore Randomizer": {
     "description": "Randomizer 4 connection that adds a bunch of lore related items and locations.",
-    "version": "0.4.1.0",
+    "version": "0.4.2.0",
     "links": {
       "type": "universal",
-      "sha256": "3A03A95A6D0158D42A2C17BF4A1791D45255A9FB2B40B4AF96E084D11CA3E15E",
-      "url": "https://github.com/Korzer420/LoreRandomizer/releases/download/v0.4.1/LoreRandomizer.zip"
+      "sha256": "219D69221DC5DD6BEF72C54CBD4FCD97A9035E830DB8D1E506D51606769E35E8",
+      "url": "https://github.com/Korzer420/LoreRandomizer/releases/download/v0.4.2/LoreRandomizer.zip"
     },
     "dependencies": [
       "LoreCore",
@@ -6513,11 +6513,11 @@
   },
   "LoreCore": {
     "description": "Adds a bunch of lore related Item Changer locations and items.",
-    "version": "0.7.0.0",
+    "version": "0.7.1.0",
     "links": {
       "type": "universal",
-      "sha256": "5B16A559751DB99F069F1D9078488F9D6D074C543509FAD5151A7BE8F925F67F",
-      "url": "https://github.com/Korzer420/LoreCore/releases/download/v0.7.0/LoreCore.zip"
+      "sha256": "AD6AAD338EE9C3677377DAF17334BF4D2A6A1457343CF97C9DDE9D64ED5715E0",
+      "url": "https://github.com/Korzer420/LoreCore/releases/download/v0.7.1/LoreCore.zip"
     },
     "dependencies": [
       "ItemChanger",
