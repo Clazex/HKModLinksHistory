@@ -4,3 +4,4 @@ Breakable Wall Randomizer
 Architect
 Lore Randomizer
 LoreCore
+Architect

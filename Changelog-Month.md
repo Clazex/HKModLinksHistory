@@ -42,7 +42,7 @@
 
 ### Architect
 
-- Version: 3.30.0.0 -> 3.31.4.0
+- Version: 3.30.0.0 -> 3.31.4.2
 
 ### Breakable Wall Randomizer
 
