@@ -22,9 +22,9 @@
 
 - Version: 4.1.1.8 -> 4.1.2.0
 
-### Double Enemies
+### Charm Rebalanced
 
-- Version: 1.1.3.0 -> 1.1.4.0
+- Version: 3.0.4.0 -> 3.0.5.0
 
 ### Lore Randomizer
 

@@ -42,7 +42,7 @@
 
 ### Architect
 
-- Version: 3.30.0.0 -> 3.31.4.2
+- Version: 3.30.1.0 -> 3.31.4.2
 
 ### Breakable Wall Randomizer
 
@@ -50,7 +50,7 @@
 
 ### Charm Rebalanced
 
-- Version: 2.0.3.0 -> 3.0.4.0
+- Version: 2.0.3.0 -> 3.0.5.0
 
 ### GodhomeQoL
 
@@ -75,10 +75,6 @@
 ### MoreDoors
 
 - Version: 3.3.0.1 -> 3.3.1.0
-
-### MoreStags
-
-- Version: 1.1.1.0 -> 1.1.1.1
 
 ### ReplayLogger
 

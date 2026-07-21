@@ -1619,11 +1619,11 @@
   },
   "Charm Rebalanced": {
     "description": "Click [View Readme] to see all the changes. If you enjoy the mod, please consider giving the GitHub repository a star, this will help spread the mod to more people!",
-    "version": "3.0.4.0",
+    "version": "3.0.5.0",
     "links": {
       "type": "universal",
-      "sha256": "39AC23C83B43D6C45531A317D9A40012D7741F7725FB1997F7B77A0934FACB37",
-      "url": "https://github.com/GyVn87/Charm-Rebalanced-Mod/releases/download/v3.0.4.0/CharmRebalanced.zip"
+      "sha256": "109EEAB49F945CC96D8690E44879274E81A9335D20EA43419E7DCA3BCDB00475",
+      "url": "https://github.com/GyVn87/Charm-Rebalanced-Mod/releases/download/v3.0.5.0/CharmRebalanced.zip"
     },
     "dependencies": [
       "SFCore"

@@ -1,6 +1,4 @@
 Architect
-MoreStags
-Architect
 AccessRandomizer
 Architect
 Architect
@@ -31,3 +29,4 @@ Architect
 Lore Randomizer
 LoreCore
 Architect
+Charm Rebalanced
