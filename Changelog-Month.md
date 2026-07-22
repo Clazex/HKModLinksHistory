@@ -11,6 +11,17 @@
 - Integrations
   + RandoSettingsManager
 
+### Charmforging
+
+- Description: Add even more interesting charms to Hollow Knight world
+- Dependencies
+  + ItemChanger
+  + SFCore
+- Integrations
+  + Charm Rebalanced
+- Tags
+  + Charm
+
 ### Double Enemies
 
 - Description: Duplicates most enemies in the game, and shares hp between duplicate bosses.
@@ -22,12 +33,6 @@
 ### HKBattle
 
 - Description: HKBattle is a Hollow Knight mod for solo practice and competitive boss and Pantheon challenges.
-
-### HarderAPSettings
-
-- Description: Adds Settings to make APs harder, like take extra damage, do less nail damage, and replaces Radiance with AbsRad. Works in non Archipelago saves too.
-- Dependencies
-  + HKMirror
 
 ### WhatTheMoth
 
@@ -51,6 +56,9 @@
 ### Charm Rebalanced
 
 - Version: 2.0.3.0 -> 3.0.5.0
+- Integrations
+  + Added
+    - Charmforging
 
 ### GodhomeQoL
 
@@ -87,6 +95,10 @@
 ### TreasureHunt
 
 - Version: 1.7.1.0 -> 1.7.2.0
+
+### Wingy
+
+- Version: 1.0.0.0 -> 1.1.0.0
 
 ### YetAnotherRandoConnection
 

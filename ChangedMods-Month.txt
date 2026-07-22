@@ -1,4 +1,3 @@
-HarderAPSettings
 Architect
 AccessRandomizer
 Architect
@@ -35,3 +34,5 @@ Lore Randomizer
 LoreCore
 Architect
 Charm Rebalanced
+Charmforging
+Wingy

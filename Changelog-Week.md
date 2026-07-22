@@ -11,6 +11,17 @@
 - Integrations
   + RandoSettingsManager
 
+### Charmforging
+
+- Description: Add even more interesting charms to Hollow Knight world
+- Dependencies
+  + ItemChanger
+  + SFCore
+- Integrations
+  + Charm Rebalanced
+- Tags
+  + Charm
+
 
 ## Updated mods
 
@@ -25,6 +36,9 @@
 ### Charm Rebalanced
 
 - Version: 3.0.4.0 -> 3.0.5.0
+- Integrations
+  + Added
+    - Charmforging
 
 ### Lore Randomizer
 
@@ -33,4 +47,8 @@
 ### LoreCore
 
 - Version: 0.7.0.0 -> 0.7.1.0
+
+### Wingy
+
+- Version: 1.0.0.0 -> 1.1.0.0
 

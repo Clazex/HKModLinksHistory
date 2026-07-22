@@ -5,3 +5,4 @@ Lore Randomizer
 LoreCore
 Architect
 Charm Rebalanced
+Wingy

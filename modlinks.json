@@ -1630,6 +1630,9 @@
     ],
     "repository": "https://github.com/GyVn87/Charm-Rebalanced-Mod/",
     "issues": "https://github.com/GyVn87/Charm-Rebalanced-Mod/issues",
+    "integrations": [
+      "Charmforging"
+    ],
     "tags": [
       "Charm"
     ],
@@ -1707,6 +1710,30 @@
     ],
     "authors": [
       "ValancedBreakfast"
+    ]
+  },
+  "Charmforging": {
+    "description": "Add even more interesting charms to Hollow Knight world",
+    "version": "1.0.0.0",
+    "links": {
+      "type": "universal",
+      "sha256": "87279485C1B904BE133FDBC96B611C34627A9DDC6691BC3EA3F89568EF68C2D5",
+      "url": "https://github.com/GyVn87/Charmforging/releases/download/v1.0.0.0/Charmforging.zip"
+    },
+    "dependencies": [
+      "ItemChanger",
+      "SFCore"
+    ],
+    "repository": "https://github.com/GyVn87/Charmforging/",
+    "issues": "https://github.com/GyVn87/Charmforging/issues",
+    "integrations": [
+      "Charm Rebalanced"
+    ],
+    "tags": [
+      "Charm"
+    ],
+    "authors": [
+      "TuyenTuyenTuyen(GyVn87)"
     ]
   },
   "Christmas In Dirtmouth": {
@@ -11800,11 +11827,11 @@
   },
   "Wingy": {
     "description": "Supplemental mod for the clawless bingy community",
-    "version": "1.0.0.0",
+    "version": "1.1.0.0",
     "links": {
       "type": "universal",
-      "sha256": "1EB9CBC9D980437A66FFCA278E159FB518D2C6D446CFC20AFF90ECA8C2753AE2",
-      "url": "https://github.com/TheMathGeek314/Wingy/releases/download/v1.0.0.0/Wingy.zip"
+      "sha256": "2E1C478137FA9C5B56F971D4C73976E53B3AC0F7AD413DF952EDD0E5B5964714",
+      "url": "https://github.com/TheMathGeek314/Wingy/releases/download/v1.1.0.0/Wingy.zip"
     },
     "dependencies": [
       "Satchel"
