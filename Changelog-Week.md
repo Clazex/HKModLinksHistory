@@ -3,14 +3,6 @@
 
 ## New mods
 
-### Another Location
-
-- Description: Adds one location to the Randomizer. Terms and Conditions may apply
-- Dependencies
-  + Randomizer 4
-- Integrations
-  + RandoSettingsManager
-
 ### Charmforging
 
 - Description: Add even more interesting charms to Hollow Knight world
@@ -22,12 +14,25 @@
 - Tags
   + Charm
 
+### FsmMaster
+
+- Description: Visual FSM graph inspection and live editing for PlayMaker FSMs
+- Integrations
+  + DebugMod
+
 
 ## Updated mods
 
+### AlphabetRando
+
+- Version: 1.2.0.0 -> 1.3.0.0
+
 ### Architect
 
-- Version: 3.31.3.3 -> 3.31.4.2
+- Version: 3.31.3.3 -> 3.32.1.0
+- Dependencies
+  + Added
+    - FsmMaster
 
 ### Breakable Wall Randomizer
 

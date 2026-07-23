@@ -268,11 +268,11 @@
   },
   "AlphabetRando": {
     "description": "A Randomizer connection for the letters in the UI of the game itself",
-    "version": "1.2.0.0",
+    "version": "1.3.0.0",
     "links": {
       "type": "universal",
-      "sha256": "F5D055061038DAAA3F61200F3165ED8C5D21E5CF1FBA4A85F30362F3995FE631",
-      "url": "https://github.com/TheMathGeek314/AlphabetRando/releases/download/v1.2.0.0/AlphabetRando.zip"
+      "sha256": "622E42A56BB1555B33CAB4DA974A21788BD6CCB7D2B03FB74D6343CC5BA135EC",
+      "url": "https://github.com/TheMathGeek314/AlphabetRando/releases/download/v1.3.0.0/AlphabetRando.zip"
     },
     "dependencies": [
       "ItemChanger",
@@ -507,13 +507,14 @@
   },
   "Architect": {
     "description": "A Hollow Knight level editor mod, easily make and share custom levels with an in-game level editor and level sharer.",
-    "version": "3.31.4.2",
+    "version": "3.32.1.0",
     "links": {
       "type": "universal",
-      "sha256": "11A969BF36A20C5FDB7622761B823F0B746C5A0BA28947F233760B651B50994C",
-      "url": "https://github.com/cometcake575/Architect-HK/releases/download/3.31.4.2/Architect.zip"
+      "sha256": "8FD74E89D7607030901080C49C9E16185E75E9EE51E110FF49B86189055FA7DB",
+      "url": "https://github.com/cometcake575/Architect-HK/releases/download/3.32.1.0/Architect.zip"
     },
     "dependencies": [
+      "FsmMaster",
       "ItemChanger",
       "ItemCreator",
       "SFCore",
@@ -4095,6 +4096,24 @@
     "repository": "https://github.com/RedFrog6002/FrogCore/",
     "tags": [
       "Library"
+    ]
+  },
+  "FsmMaster": {
+    "description": "Visual FSM graph inspection and live editing for PlayMaker FSMs",
+    "version": "0.3.6.0",
+    "links": {
+      "type": "universal",
+      "sha256": "E08B78F2A6F42D5292CDD57B6E62A0103A1EF371FA10107E33DCB6CE34DE1B6C",
+      "url": "https://github.com/ConstructiveCynicism/FsmMaster/releases/download/v0.3.6/FsmMaster-hk1578.zip"
+    },
+    "dependencies": [],
+    "repository": "https://github.com/ConstructiveCynicism/FsmMaster",
+    "issues": "https://github.com/ConstructiveCynicism/FsmMaster/issues",
+    "integrations": [
+      "DebugMod"
+    ],
+    "authors": [
+      "ConstructiveCynicism"
     ]
   },
   "FsmSeer": {

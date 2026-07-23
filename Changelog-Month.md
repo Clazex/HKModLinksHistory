@@ -30,6 +30,12 @@
   + Invincibility Monitor
   + Satchel
 
+### FsmMaster
+
+- Description: Visual FSM graph inspection and live editing for PlayMaker FSMs
+- Integrations
+  + DebugMod
+
 ### HKBattle
 
 - Description: HKBattle is a Hollow Knight mod for solo practice and competitive boss and Pantheon challenges.
@@ -45,9 +51,16 @@
 
 - Version: 1.4.0.2 -> 1.4.1.0
 
+### AlphabetRando
+
+- Version: 1.2.0.0 -> 1.3.0.0
+
 ### Architect
 
-- Version: 3.30.1.0 -> 3.31.4.2
+- Version: 3.30.2.0 -> 3.32.1.0
+- Dependencies
+  + Added
+    - FsmMaster
 
 ### Breakable Wall Randomizer
 

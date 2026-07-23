@@ -3,3 +3,4 @@ HKBattle
 WhatTheMoth
 Another Location
 Charmforging
+FsmMaster

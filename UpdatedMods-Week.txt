@@ -6,3 +6,5 @@ LoreCore
 Architect
 Charm Rebalanced
 Wingy
+AlphabetRando
+Architect

@@ -1,4 +1,3 @@
-Architect
 AccessRandomizer
 Architect
 Architect
@@ -36,3 +35,6 @@ Architect
 Charm Rebalanced
 Charmforging
 Wingy
+AlphabetRando
+Architect
+FsmMaster
