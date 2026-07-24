@@ -1,1 +1,4 @@
-RngSync
+Double Enemies
+HKBattle
+Less Flashing Lights
+TreasureHunt

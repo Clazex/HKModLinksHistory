@@ -1,6 +1,4 @@
 Architect
-Breakable Wall Randomizer
-Architect
 Lore Randomizer
 LoreCore
 Architect
@@ -10,3 +8,6 @@ Wingy
 AlphabetRando
 Architect
 FsmMaster
+Architect
+Charm Rebalanced
+MyHK

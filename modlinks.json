@@ -507,11 +507,11 @@
   },
   "Architect": {
     "description": "A Hollow Knight level editor mod, easily make and share custom levels with an in-game level editor and level sharer.",
-    "version": "3.32.1.0",
+    "version": "3.32.2.0",
     "links": {
       "type": "universal",
-      "sha256": "8FD74E89D7607030901080C49C9E16185E75E9EE51E110FF49B86189055FA7DB",
-      "url": "https://github.com/cometcake575/Architect-HK/releases/download/3.32.1.0/Architect.zip"
+      "sha256": "8F3FE1ECE88A8F0F705BC8DCCC022EB4F216989C60BF4F10C959E0E446B35EB2",
+      "url": "https://github.com/cometcake575/Architect-HK/releases/download/3.32.2.0/Architect.zip"
     },
     "dependencies": [
       "FsmMaster",
@@ -1620,11 +1620,11 @@
   },
   "Charm Rebalanced": {
     "description": "Click [View Readme] to see all the changes. If you enjoy the mod, please consider giving the GitHub repository a star, this will help spread the mod to more people!",
-    "version": "3.0.5.0",
+    "version": "3.0.6.0",
     "links": {
       "type": "universal",
-      "sha256": "109EEAB49F945CC96D8690E44879274E81A9335D20EA43419E7DCA3BCDB00475",
-      "url": "https://github.com/GyVn87/Charm-Rebalanced-Mod/releases/download/v3.0.5.0/CharmRebalanced.zip"
+      "sha256": "CD9C8B928C8DD57D8432072C6701738F9F215359EAB87F41EFE441D630FB22CF",
+      "url": "https://github.com/GyVn87/Charm-Rebalanced-Mod/releases/download/v3.0.6.0/CharmRebalanced.zip"
     },
     "dependencies": [
       "SFCore"
@@ -7493,11 +7493,11 @@
   },
   "MyHK": {
     "description": "An assisting mod for HK that can improve the gaming experience significantly",
-    "version": "1.2.0.5",
+    "version": "1.2.0.6",
     "links": {
       "type": "universal",
-      "sha256": "DA1385B43CCF91D50B39DE34150DB00418CDC4235C8C87377A72FA3BCC543580",
-      "url": "https://github.com/QiQi7-7/MyHK/releases/download/v1.2.0.5/MyHK-v1.2.0.5.zip"
+      "sha256": "93D098EDE5E33832A714B39C3E75B68C59EF9DBDEBFD7CA5085B69D018CCE7B2",
+      "url": "https://github.com/QiQi7-7/MyHK/releases/download/v1.2.0.6/MyHK-v1.2.0.6.zip"
     },
     "dependencies": [
       "HKTool",

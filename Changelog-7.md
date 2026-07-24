@@ -1,13 +1,13 @@
 # Changelog
 
 
-## New mods
+## Updated mods
 
-### Another Location
+### Architect
 
-- Description: Adds one location to the Randomizer. Terms and Conditions may apply
-- Dependencies
-  + Randomizer 4
-- Integrations
-  + RandoSettingsManager
+- Version: 3.31.3.3 -> 3.31.3.5
+
+### Breakable Wall Randomizer
+
+- Version: 4.1.1.8 -> 4.1.2.0
 

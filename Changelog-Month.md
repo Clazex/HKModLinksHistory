@@ -47,17 +47,13 @@
 
 ## Updated mods
 
-### AccessRandomizer
-
-- Version: 1.4.0.2 -> 1.4.1.0
-
 ### AlphabetRando
 
 - Version: 1.2.0.0 -> 1.3.0.0
 
 ### Architect
 
-- Version: 3.30.2.0 -> 3.32.1.0
+- Version: 3.30.3.0 -> 3.32.2.0
 - Dependencies
   + Added
     - FsmMaster
@@ -68,7 +64,7 @@
 
 ### Charm Rebalanced
 
-- Version: 2.0.3.0 -> 3.0.5.0
+- Version: 2.0.3.0 -> 3.0.6.0
 - Integrations
   + Added
     - Charmforging
@@ -96,6 +92,10 @@
 ### MoreDoors
 
 - Version: 3.3.0.1 -> 3.3.1.0
+
+### MyHK
+
+- Version: 1.2.0.5 -> 1.2.0.6
 
 ### ReplayLogger
 
