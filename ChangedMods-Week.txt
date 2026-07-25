@@ -1,7 +1,4 @@
 Architect
-Lore Randomizer
-LoreCore
-Architect
 Charm Rebalanced
 Charmforging
 Wingy
@@ -11,3 +8,6 @@ FsmMaster
 Architect
 Charm Rebalanced
 MyHK
+Architect
+Double Enemies
+Pale Court Charms

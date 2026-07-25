@@ -1,7 +1,4 @@
 Architect
-Lore Randomizer
-LoreCore
-Architect
 Charm Rebalanced
 Wingy
 AlphabetRando
@@ -9,3 +6,6 @@ Architect
 Architect
 Charm Rebalanced
 MyHK
+Architect
+Double Enemies
+Pale Court Charms

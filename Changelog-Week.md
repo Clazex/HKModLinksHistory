@@ -29,7 +29,7 @@
 
 ### Architect
 
-- Version: 3.31.3.5 -> 3.32.2.0
+- Version: 3.31.4.0 -> 3.32.3.0
 - Dependencies
   + Added
     - FsmMaster
@@ -41,17 +41,17 @@
   + Added
     - Charmforging
 
-### Lore Randomizer
+### Double Enemies
 
-- Version: 0.4.1.0 -> 0.4.2.0
-
-### LoreCore
-
-- Version: 0.7.0.0 -> 0.7.1.0
+- Version: 1.1.4.0 -> 1.2.0.0
 
 ### MyHK
 
 - Version: 1.2.0.5 -> 1.2.0.6
+
+### Pale Court Charms
+
+- Version: 1.3.7.0 -> 1.4.0.0
 
 ### Wingy
 
