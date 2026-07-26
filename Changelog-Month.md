@@ -101,10 +101,6 @@
 
 - Version: 1.1.0.3 -> 1.1.0.4
 
-### RngSync
-
-- Version: 0.3.2.0 -> 0.3.3.0
-
 ### TreasureHunt
 
 - Version: 1.7.1.0 -> 1.7.2.0

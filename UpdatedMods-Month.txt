@@ -1,4 +1,3 @@
-RngSync
 Less Flashing Lights
 TreasureHunt
 Architect
