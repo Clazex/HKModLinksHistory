@@ -12006,6 +12006,22 @@
     ],
     "repository": "https://github.com/nQvTgLrp/HollowKnight.ZoteCollectorHelper/"
   },
+  "modthatclosesthegamewhenitopens": {
+    "description": "Mod that closes the game when it opens",
+    "version": "1.0.0.0",
+    "links": {
+      "type": "universal",
+      "sha256": "45966D23CE215FBEB40B0367E4E56629E2F13CFABE01870975F5BB744C36F6D2",
+      "url": "https://github.com/TheMathGeek314/modthatclosesthegamewhenitopens/releases/download/v1.0.0.0/modthatclosesthegamewhenitopens.zip"
+    },
+    "dependencies": [
+      "Satchel"
+    ],
+    "repository": "https://github.com/TheMathGeek314/modthatclosesthegamewhenitopens/",
+    "authors": [
+      "TheMathGeek_314"
+    ]
+  },
   "niaPfohtaP (PoP Upside Down)": {
     "description": "Makes Path of Pain upside down.",
     "version": "1.0.0.0",

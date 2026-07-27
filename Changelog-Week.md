@@ -20,6 +20,12 @@
 - Integrations
   + DebugMod
 
+### modthatclosesthegamewhenitopens
+
+- Description: Mod that closes the game when it opens
+- Dependencies
+  + Satchel
+
 
 ## Updated mods
 
@@ -36,7 +42,7 @@
 
 ### Charm Rebalanced
 
-- Version: 3.0.4.0 -> 3.0.6.0
+- Version: 3.0.5.0 -> 3.0.6.0
 - Integrations
   + Added
     - Charmforging

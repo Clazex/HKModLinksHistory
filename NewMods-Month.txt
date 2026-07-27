@@ -1,6 +1,5 @@
-Double Enemies
-HKBattle
 WhatTheMoth
 Another Location
 Charmforging
 FsmMaster
+modthatclosesthegamewhenitopens

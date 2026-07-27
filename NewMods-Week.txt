@@ -1,2 +1,3 @@
 Charmforging
 FsmMaster
+modthatclosesthegamewhenitopens

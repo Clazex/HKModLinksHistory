@@ -22,27 +22,21 @@
 - Tags
   + Charm
 
-### Double Enemies
-
-- Description: Duplicates most enemies in the game, and shares hp between duplicate bosses.
-- Dependencies
-  + DoubleRadiance
-  + Invincibility Monitor
-  + Satchel
-
 ### FsmMaster
 
 - Description: Visual FSM graph inspection and live editing for PlayMaker FSMs
 - Integrations
   + DebugMod
 
-### HKBattle
-
-- Description: HKBattle is a Hollow Knight mod for solo practice and competitive boss and Pantheon challenges.
-
 ### WhatTheMoth
 
 - Description: A Simon Says-inspired Hollow Knight mod where obeying Judge Radiance sends you straight to the Radiance arena, MOD IS IN SPANISH BY THE WAY.
+
+### modthatclosesthegamewhenitopens
+
+- Description: Mod that closes the game when it opens
+- Dependencies
+  + Satchel
 
 
 ## Updated mods
@@ -69,13 +63,17 @@
   + Added
     - Charmforging
 
+### Double Enemies
+
+- Version: 1.0.0.0 -> 1.2.0.0
+
+### HKBattle
+
+- Version: 1.0.0.0 -> 1.0.0.2
+
 ### Hallowest
 
 - Version: 1.1.0.1 -> 1.1.0.2
-
-### Less Flashing Lights
-
-- Version: 1.0.2.0 -> 1.0.2.1
 
 ### Lore Randomizer
 
@@ -100,10 +98,6 @@
 ### ReplayLogger
 
 - Version: 1.1.0.3 -> 1.1.0.4
-
-### TreasureHunt
-
-- Version: 1.7.1.0 -> 1.7.2.0
 
 ### Wingy
 
