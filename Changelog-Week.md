@@ -3,21 +3,24 @@
 
 ## New mods
 
-### Charmforging
-
-- Description: Add even more interesting charms to Hollow Knight world
-- Dependencies
-  + ItemChanger
-  + SFCore
-- Integrations
-  + Charm Rebalanced
-- Tags
-  + Charm
-
 ### FsmMaster
 
 - Description: Visual FSM graph inspection and live editing for PlayMaker FSMs
 - Integrations
+  + DebugMod
+
+### Quick Save States
+
+- Description: Save and instantly reload an in-game state with two customizable hotkeys
+- Dependencies
+  + Satchel
+- Tags
+  + Utility
+
+### Shade Retreat Macro
+
+- Description: A debug add-on that makes seeing shade retreat points easier. Function added to the Visual page
+- Dependencies
   + DebugMod
 
 ### modthatclosesthegamewhenitopens
@@ -43,9 +46,6 @@
 ### Charm Rebalanced
 
 - Version: 3.0.5.0 -> 3.0.6.0
-- Integrations
-  + Added
-    - Charmforging
 
 ### Double Enemies
 
@@ -58,8 +58,4 @@
 ### Pale Court Charms
 
 - Version: 1.3.7.0 -> 1.4.0.0
-
-### Wingy
-
-- Version: 1.0.0.0 -> 1.1.0.0
 

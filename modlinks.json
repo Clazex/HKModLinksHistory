@@ -8785,6 +8785,25 @@
       "talezshadid"
     ]
   },
+  "Quick Save States": {
+    "description": "Save and instantly reload an in-game state with two customizable hotkeys",
+    "version": "0.2.0.0",
+    "links": {
+      "type": "universal",
+      "sha256": "0E67EADA35CD14A8D5368C832020AFFAFE020CF3C533EC156B501770E3E045E8",
+      "url": "https://github.com/Ishmael-GameDev/QuickSaveStates/releases/download/v0.2.0/QuickSaveStates.dll"
+    },
+    "dependencies": [
+      "Satchel"
+    ],
+    "repository": "https://github.com/Ishmael-GameDev/QuickSaveStates",
+    "tags": [
+      "Utility"
+    ],
+    "authors": [
+      "Ishmael"
+    ]
+  },
   "QuickDive": {
     "description": "A mod that remaps your Quick Cast button to only Dive",
     "version": "1.0.0.0",
@@ -9990,6 +10009,22 @@
     ],
     "authors": [
       "OrusLiOx"
+    ]
+  },
+  "Shade Retreat Macro": {
+    "description": "A debug add-on that makes seeing shade retreat points easier. Function added to the Visual page",
+    "version": "1.0.0.0",
+    "links": {
+      "type": "universal",
+      "sha256": "3069261F290069784E5B130AA2D4B9E993AEECFD62E3A72E5A04DD3D1C82B479",
+      "url": "https://github.com/Roma-337/ShadeRetreatMacro/releases/download/v1.0.0/ShadeRetreatMacro.zip"
+    },
+    "dependencies": [
+      "DebugMod"
+    ],
+    "repository": "https://github.com/Roma-337/ShadeRetreatMacro",
+    "authors": [
+      "Roma 337"
     ]
   },
   "ShadeControl": {

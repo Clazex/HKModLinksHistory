@@ -3,3 +3,5 @@ Another Location
 Charmforging
 FsmMaster
 modthatclosesthegamewhenitopens
+Quick Save States
+Shade Retreat Macro

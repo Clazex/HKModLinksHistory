@@ -1,4 +1,3 @@
-Wingy
 AlphabetRando
 Architect
 Architect

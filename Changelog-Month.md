@@ -28,6 +28,20 @@
 - Integrations
   + DebugMod
 
+### Quick Save States
+
+- Description: Save and instantly reload an in-game state with two customizable hotkeys
+- Dependencies
+  + Satchel
+- Tags
+  + Utility
+
+### Shade Retreat Macro
+
+- Description: A debug add-on that makes seeing shade retreat points easier. Function added to the Visual page
+- Dependencies
+  + DebugMod
+
 ### WhatTheMoth
 
 - Description: A Simon Says-inspired Hollow Knight mod where obeying Judge Radiance sends you straight to the Radiance arena, MOD IS IN SPANISH BY THE WAY.
@@ -47,7 +61,7 @@
 
 ### Architect
 
-- Version: 3.31.0.1 -> 3.32.3.0
+- Version: 3.31.1.0 -> 3.32.3.0
 - Dependencies
   + Added
     - FsmMaster
@@ -58,7 +72,7 @@
 
 ### Charm Rebalanced
 
-- Version: 2.0.3.0 -> 3.0.6.0
+- Version: 3.0.1.0 -> 3.0.6.0
 - Integrations
   + Added
     - Charmforging
