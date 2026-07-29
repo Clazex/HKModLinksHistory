@@ -42,6 +42,12 @@
 - Dependencies
   + DebugMod
 
+### UndeadnameJasmine
+
+- Description: Replaces Jasmine Vines deadname with her new name.
+- Tags
+  + Cosmetic
+
 ### WhatTheMoth
 
 - Description: A Simon Says-inspired Hollow Knight mod where obeying Judge Radiance sends you straight to the Radiance arena, MOD IS IN SPANISH BY THE WAY.
@@ -70,9 +76,13 @@
 
 - Version: 4.1.1.8 -> 4.1.2.0
 
+### BugPrince
+
+- Version: 1.5.1.1 -> 1.5.2.0
+
 ### Charm Rebalanced
 
-- Version: 3.0.1.0 -> 3.0.6.0
+- Version: 3.0.2.0 -> 3.0.6.0
 - Integrations
   + Added
     - Charmforging
@@ -88,6 +98,10 @@
 ### Hallowest
 
 - Version: 1.1.0.1 -> 1.1.0.2
+
+### Knight of Nights
+
+- Version: 2.0.5.0 -> 2.0.6.0
 
 ### Lore Randomizer
 
@@ -109,15 +123,19 @@
 
 - Version: 1.3.7.0 -> 1.4.0.0
 
+### PurenailCore
+
+- Version: 2.0.2.0 -> 2.1.0.0
+
 ### ReplayLogger
 
 - Version: 1.1.0.3 -> 1.1.0.4
 
+### Scattered and Lost
+
+- Version: 1.6.3.0 -> 1.6.4.0
+
 ### Wingy
 
 - Version: 1.0.0.0 -> 1.1.0.0
-
-### YetAnotherRandoConnection
-
-- Version: 1.2.2.3 -> 1.3.0.0
 

@@ -1,9 +1,23 @@
 # Changelog
 
 
+## New mods
+
+### Charmforging
+
+- Description: Add even more interesting charms to Hollow Knight world
+- Dependencies
+  + ItemChanger
+  + SFCore
+- Integrations
+  + Charm Rebalanced
+- Tags
+  + Charm
+
+
 ## Updated mods
 
-### Charm Rebalanced
+### Wingy
 
-- Version: 3.0.4.0 -> 3.0.5.0
+- Version: 1.0.0.0 -> 1.1.0.0
 

@@ -3,12 +3,6 @@
 
 ## New mods
 
-### FsmMaster
-
-- Description: Visual FSM graph inspection and live editing for PlayMaker FSMs
-- Integrations
-  + DebugMod
-
 ### Quick Save States
 
 - Description: Save and instantly reload an in-game state with two customizable hotkeys
@@ -23,6 +17,12 @@
 - Dependencies
   + DebugMod
 
+### UndeadnameJasmine
+
+- Description: Replaces Jasmine Vines deadname with her new name.
+- Tags
+  + Cosmetic
+
 ### modthatclosesthegamewhenitopens
 
 - Description: Mod that closes the game when it opens
@@ -32,16 +32,13 @@
 
 ## Updated mods
 
-### AlphabetRando
-
-- Version: 1.2.0.0 -> 1.3.0.0
-
 ### Architect
 
-- Version: 3.31.4.2 -> 3.32.3.0
-- Dependencies
-  + Added
-    - FsmMaster
+- Version: 3.32.1.0 -> 3.32.3.0
+
+### BugPrince
+
+- Version: 1.5.1.1 -> 1.5.2.0
 
 ### Charm Rebalanced
 
@@ -51,6 +48,10 @@
 
 - Version: 1.1.4.0 -> 1.2.0.0
 
+### Knight of Nights
+
+- Version: 2.0.5.0 -> 2.0.6.0
+
 ### MyHK
 
 - Version: 1.2.0.5 -> 1.2.0.6
@@ -58,4 +59,12 @@
 ### Pale Court Charms
 
 - Version: 1.3.7.0 -> 1.4.0.0
+
+### PurenailCore
+
+- Version: 2.0.2.0 -> 2.1.0.0
+
+### Scattered and Lost
+
+- Version: 1.6.3.0 -> 1.6.4.0
 

@@ -1,5 +1,3 @@
-Charm Rebalanced
-YetAnotherRandoConnection
 Hallowest
 MoreDoors
 Architect
@@ -29,3 +27,7 @@ MyHK
 Architect
 Double Enemies
 Pale Court Charms
+BugPrince
+Knight of Nights
+PurenailCore
+Scattered and Lost

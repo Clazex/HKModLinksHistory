@@ -1,6 +1,3 @@
-AlphabetRando
-Architect
-FsmMaster
 Architect
 Charm Rebalanced
 MyHK
@@ -10,3 +7,8 @@ Pale Court Charms
 modthatclosesthegamewhenitopens
 Quick Save States
 Shade Retreat Macro
+BugPrince
+Knight of Nights
+PurenailCore
+Scattered and Lost
+UndeadnameJasmine
