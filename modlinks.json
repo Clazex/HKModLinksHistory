@@ -3052,11 +3052,11 @@
   },
   "Double Enemies": {
     "description": "Duplicates most enemies in the game, and shares hp between duplicate bosses.",
-    "version": "1.2.0.0",
+    "version": "1.2.1.0",
     "links": {
       "type": "universal",
-      "sha256": "9E3D88DC02F1DF60FC515788E35BAFAAF8B922108BA7B46E94E618D350B4E504",
-      "url": "https://github.com/Genio250/Double-Enemies/releases/download/v1.2.0/Double.Enemies.zip"
+      "sha256": "CFBD53A067AD117196E2B834F64EDFEA47EBAA6CE97E97FB074D296DAFF8C6B5",
+      "url": "https://github.com/Genio250/Double-Enemies/releases/download/v1.2.1/Double.Enemies.zip"
     },
     "dependencies": [
       "DoubleRadiance",
@@ -7195,11 +7195,11 @@
   },
   "MoreDoors": {
     "description": "A Rando 4 connection which adds more locked doors to Hallownest.",
-    "version": "3.3.1.0",
+    "version": "3.3.2.0",
     "links": {
       "type": "universal",
-      "sha256": "F21BEF14926795AA8FAD5489932BF981C486F58BEC2926B81ED396DB57219632",
-      "url": "https://github.com/dplochcoder/HollowKnight.MoreDoors/releases/download/v3.3.1.0/MoreDoors.zip"
+      "sha256": "E864855A7909A0B39C1EDE5B06B6F10A3BA44231FFA1B52BC1246AB77D488AAC",
+      "url": "https://github.com/dplochcoder/HollowKnight.MoreDoors/releases/download/v3.3.2.0/MoreDoors.zip"
     },
     "dependencies": [
       "ItemChanger",

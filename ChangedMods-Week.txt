@@ -1,7 +1,4 @@
 Architect
-Charm Rebalanced
-MyHK
-Architect
 Double Enemies
 Pale Court Charms
 modthatclosesthegamewhenitopens
@@ -12,3 +9,5 @@ Knight of Nights
 PurenailCore
 Scattered and Lost
 UndeadnameJasmine
+Double Enemies
+MoreDoors
