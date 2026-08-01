@@ -8,3 +8,4 @@ Scattered and Lost
 UndeadnameJasmine
 Double Enemies
 MoreDoors
+Architect

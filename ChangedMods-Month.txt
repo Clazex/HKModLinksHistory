@@ -1,5 +1,3 @@
-Architect
-Charm Rebalanced
 WhatTheMoth
 Double Enemies
 Architect
@@ -39,3 +37,4 @@ Scattered and Lost
 UndeadnameJasmine
 Double Enemies
 MoreDoors
+Architect

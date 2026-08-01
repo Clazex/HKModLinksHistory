@@ -67,7 +67,7 @@
 
 ### Architect
 
-- Version: 3.31.1.0 -> 3.32.3.0
+- Version: 3.31.2.0 -> 3.32.4.0
 - Dependencies
   + Added
     - FsmMaster
@@ -82,7 +82,7 @@
 
 ### Charm Rebalanced
 
-- Version: 3.0.2.0 -> 3.0.6.0
+- Version: 3.0.4.0 -> 3.0.6.0
 - Integrations
   + Added
     - Charmforging

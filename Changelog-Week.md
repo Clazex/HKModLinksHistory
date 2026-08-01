@@ -32,6 +32,10 @@
 
 ## Updated mods
 
+### Architect
+
+- Version: 3.32.3.0 -> 3.32.4.0
+
 ### BugPrince
 
 - Version: 1.5.1.1 -> 1.5.2.0
