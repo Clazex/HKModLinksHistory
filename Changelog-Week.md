@@ -23,18 +23,12 @@
 - Tags
   + Cosmetic
 
-### modthatclosesthegamewhenitopens
-
-- Description: Mod that closes the game when it opens
-- Dependencies
-  + Satchel
-
 
 ## Updated mods
 
 ### Architect
 
-- Version: 3.32.3.0 -> 3.32.4.0
+- Version: 3.32.3.0 -> 3.32.4.1
 
 ### BugPrince
 

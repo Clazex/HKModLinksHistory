@@ -6,9 +6,9 @@
     <Manifest>
         <Name>Double Enemies</Name>
         <Description>Duplicates most enemies in the game, and shares hp between duplicate bosses.</Description>
-        <Version>1.1.1.0</Version>
-        <Link SHA256="f0db3a6f276dd427c963bcf03ab053d348c050686911879f3553687969f59706">
-            <![CDATA[https://github.com/Genio250/Double-Enemies/releases/download/v1.1.1/Double.Enemies.zip]]>
+        <Version>1.1.2.0</Version>
+        <Link SHA256="adb6cc7c5eea295a062d4b0e73b301348aa8e79fe9eba1a66b3948b07e02d2ee">
+            <![CDATA[https://github.com/Genio250/Double-Enemies/releases/download/v1.1.2/Double.Enemies.zip]]>
         </Link>
         <Dependencies>
             <Dependency>Satchel</Dependency>
@@ -10587,9 +10587,9 @@ Enjoy!</Description>
      <Manifest>
         <Name>ReplayLogger</Name>
         <Description>ReplayLoger is a mod that was created to verify the legitimacy of player challenge runs.</Description>
-        <Version>1.1.0.3</Version>
-        <Link SHA256="c093192544515517f6284f25ac6ab8f88df76f71fe890cdeeb8fd29a9a68d01c">
-            <![CDATA[https://github.com/NightFuryoOo/ReplayLogger/releases/download/v1.1.0.3/ReplayLogger.zip]]>
+        <Version>1.1.0.4</Version>
+        <Link SHA256="aca7dbc91261e0574e3a08c386cb5ff4d4b2227d4f0481a3b1f78d1b18885b0a">
+            <![CDATA[https://github.com/NightFuryoOo/ReplayLogger/releases/download/v1.1.0.4/ReplayLogger.zip]]>
         </Link>
         <Dependencies>
              <Dependency>Satchel</Dependency>
