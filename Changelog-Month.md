@@ -48,10 +48,6 @@
 - Tags
   + Cosmetic
 
-### WhatTheMoth
-
-- Description: A Simon Says-inspired Hollow Knight mod where obeying Judge Radiance sends you straight to the Radiance arena, MOD IS IN SPANISH BY THE WAY.
-
 ### modthatclosesthegamewhenitopens
 
 - Description: Mod that closes the game when it opens
@@ -89,7 +85,7 @@
 
 ### Double Enemies
 
-- Version: 1.0.0.0 -> 1.2.1.0
+- Version: 1.0.0.0 -> 1.2.1.1
 
 ### HKBattle
 

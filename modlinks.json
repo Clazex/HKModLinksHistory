@@ -3052,11 +3052,11 @@
   },
   "Double Enemies": {
     "description": "Duplicates most enemies in the game, and shares hp between duplicate bosses.",
-    "version": "1.2.1.0",
+    "version": "1.2.1.1",
     "links": {
       "type": "universal",
-      "sha256": "CFBD53A067AD117196E2B834F64EDFEA47EBAA6CE97E97FB074D296DAFF8C6B5",
-      "url": "https://github.com/Genio250/Double-Enemies/releases/download/v1.2.1/Double.Enemies.zip"
+      "sha256": "0A1F7905F94D091CFC55003DE1FD0874A66AE1643AB803854602B9777EDCAC38",
+      "url": "https://github.com/Genio250/Double-Enemies/releases/download/v1.2.1.1/Double.Enemies.zip"
     },
     "dependencies": [
       "DoubleRadiance",
