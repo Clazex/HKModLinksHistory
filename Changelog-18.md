@@ -5,9 +5,13 @@
 
 ### Architect
 
-- Version: 3.31.3.3 -> 3.31.3.5
+- Version: 3.31.3.5 -> 3.31.4.0
 
-### Breakable Wall Randomizer
+### Lore Randomizer
 
-- Version: 4.1.1.8 -> 4.1.2.0
+- Version: 0.4.1.0 -> 0.4.2.0
+
+### LoreCore
+
+- Version: 0.7.0.0 -> 0.7.1.0
 
