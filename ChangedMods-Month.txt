@@ -1,5 +1,3 @@
-Architect
-HKBattle
 Double Enemies
 ReplayLogger
 Architect
@@ -38,3 +36,6 @@ MoreDoors
 Architect
 Architect
 Double Enemies
+Architect
+ConnectionSettingsRando
+HKBattle

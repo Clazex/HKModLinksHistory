@@ -5,3 +5,4 @@ modthatclosesthegamewhenitopens
 Quick Save States
 Shade Retreat Macro
 UndeadnameJasmine
+ConnectionSettingsRando

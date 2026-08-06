@@ -1,3 +1,6 @@
 Architect
 Architect
 Double Enemies
+Architect
+ConnectionSettingsRando
+HKBattle

@@ -22,6 +22,15 @@
 - Tags
   + Charm
 
+### ConnectionSettingsRando
+
+- Description: A Hollow Knight rando addon for Hollow Knight rando addons.
+- Dependencies
+  + MenuChanger
+  + Randomizer 4
+- Tags
+  + Gameplay
+
 ### FsmMaster
 
 - Description: Visual FSM graph inspection and live editing for PlayMaker FSMs
@@ -63,7 +72,7 @@
 
 ### Architect
 
-- Version: 3.31.2.0 -> 3.32.4.1
+- Version: 3.31.3.2 -> 3.32.5.0
 - Dependencies
   + Added
     - FsmMaster
@@ -89,7 +98,7 @@
 
 ### HKBattle
 
-- Version: 1.0.0.0 -> 1.0.0.2
+- Version: 1.0.0.1 -> 1.0.0.3
 
 ### Knight of Nights
 

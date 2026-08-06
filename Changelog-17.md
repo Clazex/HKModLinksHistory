@@ -3,7 +3,7 @@
 
 ## Updated mods
 
-### Architect
+### Charm Rebalanced
 
-- Version: 3.31.4.0 -> 3.31.4.2
+- Version: 3.0.4.0 -> 3.0.5.0
 
