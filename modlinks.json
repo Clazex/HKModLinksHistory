@@ -73,11 +73,11 @@
   },
   "AccessRandomizer": {
     "description": "A randomizer add-on for miscellaneous access checks.",
-    "version": "1.4.1.0",
+    "version": "1.4.2.0",
     "links": {
       "type": "universal",
-      "sha256": "F9ECA8C850F658F212AEB462B5F52A937542A86A70A78D59E14DB4BA17E9C447",
-      "url": "https://github.com/nerthul11/AccessRandomizer/releases/download/1.4.1.0/AccessRandomizer.zip"
+      "sha256": "DA687BBD1A1524806D1C916FBC11B9E3B735665D29A3AC5348468A6CEC33DED5",
+      "url": "https://github.com/nerthul11/AccessRandomizer/releases/download/1.4.2.0/AccessRandomizer.zip"
     },
     "dependencies": [
       "ItemChanger",
@@ -268,11 +268,11 @@
   },
   "AlphabetRando": {
     "description": "A Randomizer connection for the letters in the UI of the game itself",
-    "version": "1.3.0.0",
+    "version": "1.3.1.0",
     "links": {
       "type": "universal",
-      "sha256": "622E42A56BB1555B33CAB4DA974A21788BD6CCB7D2B03FB74D6343CC5BA135EC",
-      "url": "https://github.com/TheMathGeek314/AlphabetRando/releases/download/v1.3.0.0/AlphabetRando.zip"
+      "sha256": "1525E7D3CF8A11621F3EB7DEAFBC38758CF12175493199DFD2014B3CE7CA8BBB",
+      "url": "https://github.com/TheMathGeek314/AlphabetRando/releases/download/v1.3.1.0/AlphabetRando.zip"
     },
     "dependencies": [
       "ItemChanger",
@@ -284,6 +284,7 @@
     "repository": "https://github.com/TheMathGeek314/AlphabetRando/",
     "integrations": [
       "CondensedSpoilerLogger",
+      "ConnectionSettingsRando",
       "FStats",
       "RandoSettingsManager"
     ],
@@ -1200,11 +1201,11 @@
   },
   "Breakable Wall Randomizer": {
     "description": "A Hollow Knight Randomizer add-on for breakable walls.",
-    "version": "4.1.2.0",
+    "version": "4.1.3.0",
     "links": {
       "type": "universal",
-      "sha256": "9A1692BAC71437775D86574C0CB16B5BFFE2B93A79B98564F443A31D7E84F502",
-      "url": "https://github.com/nerthul11/BreakableWallRandomizer/releases/download/4.1.2.0/BreakableWallRandomizer.zip"
+      "sha256": "7C1C4A82B48627A1687FAFC27BDBC15C6A3FCCEF93BDD5A0C543985CF91D4BDD",
+      "url": "https://github.com/nerthul11/BreakableWallRandomizer/releases/download/4.1.3.0/BreakableWallRandomizer.zip"
     },
     "dependencies": [
       "Randomizer 4",
@@ -1815,11 +1816,11 @@
   },
   "CombatRandomizer": {
     "description": "A Randomizer add-on for a cursed combat experience.",
-    "version": "1.1.0.2",
+    "version": "1.1.1.0",
     "links": {
       "type": "universal",
-      "sha256": "9994BB7005BA0B08026A119308E339F98924A3D389EB867E78A1E475E01D4B33",
-      "url": "https://github.com/nerthul11/CombatRandomizer/releases/download/1.1.0.2/CombatRandomizer.zip"
+      "sha256": "9C401F02F18C9452B472134ECE757EE1F31F54B7F8A6BC8F1C905F8A5FBA2FB4",
+      "url": "https://github.com/nerthul11/CombatRandomizer/releases/download/1.1.1.0/CombatRandomizer.zip"
     },
     "dependencies": [
       "ItemChanger",
@@ -2029,11 +2030,11 @@
   },
   "CorpseDreamRando": {
     "description": "A Randomizer connection that adds dream nail dialogue for background corpses",
-    "version": "1.0.2.0",
+    "version": "1.0.3.0",
     "links": {
       "type": "universal",
-      "sha256": "0F223707215F33614B1BD8E7BB5A41D242C12BE2A7D6678CC5418700BCDF0ED0",
-      "url": "https://github.com/TheMathGeek314/CorpseDreamRando/releases/download/v1.0.2.0/CorpseDreamRando.zip"
+      "sha256": "F62624AD25377BA2829B2E986A2CE596F19A144B6C80241D8DDF7AEE74D4AF74",
+      "url": "https://github.com/TheMathGeek314/CorpseDreamRando/releases/download/v1.0.3.0/CorpseDreamRando.zip"
     },
     "dependencies": [
       "ItemChanger",
@@ -2044,6 +2045,7 @@
     ],
     "repository": "https://github.com/TheMathGeek314/CorpseDreamRando/",
     "integrations": [
+      "ConnectionSettingsRando",
       "Lore Randomizer",
       "RandoSettingsManager"
     ],
@@ -3989,11 +3991,11 @@
   },
   "FlowerRandomizer": {
     "description": "A Hollow Knight Randomizer add-on for flower quest lovers.",
-    "version": "1.0.1.0",
+    "version": "1.0.2.0",
     "links": {
       "type": "universal",
-      "sha256": "CDF4617BC601B5B9E56246EFF250AC693BCFB961A3855E98B910D2E19BC4BBBE",
-      "url": "https://github.com/nerthul11/FlowerRandomizer/releases/download/1.0.1.0/FlowerRandomizer.zip"
+      "sha256": "C2FD0382119D44BB988A5AFA1641116CC4A9ED1B9FC05E1B9522E9D7162DB772",
+      "url": "https://github.com/nerthul11/FlowerRandomizer/releases/download/1.0.2.0/FlowerRandomizer.zip"
     },
     "dependencies": [
       "ItemChanger",
@@ -4473,11 +4475,11 @@
   },
   "GeoRando": {
     "description": "A Randomizer connection for every individual piece of geo",
-    "version": "1.0.2.0",
+    "version": "1.0.3.0",
     "links": {
       "type": "universal",
-      "sha256": "6E05241709A513AEC7531647563CD9CAC2914628A2712303956582BFB01B4CA1",
-      "url": "https://github.com/TheMathGeek314/GeoRando/releases/download/v1.0.2.0/GeoRando.zip"
+      "sha256": "2AE032A1E76116D3AC158F973B15AEA36E28A3BBA5DCF6CA9F774BC482537275",
+      "url": "https://github.com/TheMathGeek314/GeoRando/releases/download/v1.0.3.0/GeoRando.zip"
     },
     "dependencies": [
       "ItemChanger",
@@ -4488,6 +4490,7 @@
     ],
     "repository": "https://github.com/TheMathGeek314/GeoRando/",
     "integrations": [
+      "ConnectionSettingsRando",
       "RandoSettingsManager"
     ],
     "authors": [
@@ -4697,11 +4700,11 @@
   },
   "GodhomeRandomizer": {
     "description": "A Randomizer add-on for Godhome elements.",
-    "version": "2.2.4.11",
+    "version": "2.2.5.0",
     "links": {
       "type": "universal",
-      "sha256": "B8F61FA20E77342F3C99BA082C61504AC0D281C9C3C2D10F46E7716D771D32E2",
-      "url": "https://github.com/nerthul11/GodhomeRandomizer/releases/download/2.2.4.11/GodhomeRandomizer.zip"
+      "sha256": "9BF7E487F6F160008F0A9731E5C1F428972596405B88ACFD0350F03EFFD9D166",
+      "url": "https://github.com/nerthul11/GodhomeRandomizer/releases/download/2.2.5.0/GodhomeRandomizer.zip"
     },
     "dependencies": [
       "ItemChanger",
@@ -7044,17 +7047,18 @@
   },
   "MilliGolf": {
     "description": "An 18-hole course featuring Millibelle the Golf Ball",
-    "version": "1.3.0.2",
+    "version": "1.3.1.0",
     "links": {
       "type": "universal",
-      "sha256": "1640243297315B09EDD7F0BEF5613E5743FA4865D6B040E1686D884B4D1CDEFB",
-      "url": "https://github.com/TheMathGeek314/MilliGolf/releases/download/v1.3.0.2/MilliGolf.zip"
+      "sha256": "29409280C0E5E99DD8B572A550EBBD79DB307827BCD1835BFBABE991239012BD",
+      "url": "https://github.com/TheMathGeek314/MilliGolf/releases/download/v1.3.1.0/MilliGolf.zip"
     },
     "dependencies": [
       "Satchel"
     ],
     "repository": "https://github.com/TheMathGeek314/MilliGolf/",
     "integrations": [
+      "ConnectionSettingsRando",
       "RandoSettingsManager",
       "Randomizer 4"
     ],
@@ -7367,11 +7371,11 @@
   },
   "MoreStags": {
     "description": "A Randomizer connection which adds new stag stations",
-    "version": "1.1.1.1",
+    "version": "1.1.2.0",
     "links": {
       "type": "universal",
-      "sha256": "AC50EF815B4CADD04359096084CF6377A62D9CEE16F22AA1414BF0F268409D8F",
-      "url": "https://github.com/TheMathGeek314/MoreStags/releases/download/v1.1.1.1/MoreStags.zip"
+      "sha256": "C8949FC69C24B4FA651372A437EBD32B8BDDADE0C0D4264A5781BDE4B6EE09F8",
+      "url": "https://github.com/TheMathGeek314/MoreStags/releases/download/v1.1.2.0/MoreStags.zip"
     },
     "dependencies": [
       "AlreadyEnoughPlayMaker",
@@ -7385,6 +7389,7 @@
     "repository": "https://github.com/TheMathGeek314/MoreStags/",
     "integrations": [
       "CondensedSpoilerLogger",
+      "ConnectionSettingsRando",
       "DebugMod",
       "RandoSettingsManager"
     ],
@@ -7474,11 +7479,11 @@
   },
   "MurderRando": {
     "description": "Another rando connection for those who despise the innocent.",
-    "version": "1.0.0.0",
+    "version": "1.0.1.0",
     "links": {
       "type": "universal",
-      "sha256": "F5EC211A3C61AA12F2AB58CD03EAAAEB2852C65E37BE0A54DE99B2EE87DD0CC7",
-      "url": "https://github.com/nerthul11/MurderRando/releases/download/1.0.0.0/MurderRando.zip"
+      "sha256": "05E868850CECB6B880DF6358E59634732EAB0BD1E169FC8AC8DF15C6081F9616",
+      "url": "https://github.com/nerthul11/MurderRando/releases/download/1.0.1.0/MurderRando.zip"
     },
     "dependencies": [
       "ItemChanger",
@@ -9425,11 +9430,11 @@
   },
   "RegretRecoveryRestoration": {
     "description": "A Randomizer connection which restores the ability to recover your shade when egg shop removes it",
-    "version": "1.0.1.0",
+    "version": "1.0.2.0",
     "links": {
       "type": "universal",
-      "sha256": "8F15B957E5FCF1038146F939C6ADFC617152843D18B0159A049383964A7A2696",
-      "url": "https://github.com/TheMathGeek314/RegretRecoveryRestoration/releases/download/v1.0.1.0/RegretRecoveryRestoration.zip"
+      "sha256": "0460F06E38C1DF86A717C996C4FDF2FD7D03FE0C7250EC565E218C21CE754C78",
+      "url": "https://github.com/TheMathGeek314/RegretRecoveryRestoration/releases/download/v1.0.2.0/RegretRecoveryRestoration.zip"
     },
     "dependencies": [
       "ItemChanger",
@@ -9439,6 +9444,7 @@
     ],
     "repository": "https://github.com/TheMathGeek314/RegretRecoveryRestoration/",
     "integrations": [
+      "ConnectionSettingsRando",
       "RandoSettingsManager"
     ],
     "authors": [
@@ -11133,11 +11139,11 @@
   },
   "TheRealTransitionRando": {
     "description": "A Randomizer connection that puts transitions into the same pool as the other items",
-    "version": "1.1.0.1",
+    "version": "1.1.1.0",
     "links": {
       "type": "universal",
-      "sha256": "14AFEEBA32A19AFC172B8CCEC1E46E9104DCE3B1AC0777FB35C1302307672162",
-      "url": "https://github.com/TheMathGeek314/TheRealTransitionRando/releases/download/v1.1.0.1/TheRealTransitionRando.zip"
+      "sha256": "33921757FE6EF549E007C722E26F8DFC5AE958FACBF4A30000886A5A69DA3F08",
+      "url": "https://github.com/TheMathGeek314/TheRealTransitionRando/releases/download/v1.1.1.0/TheRealTransitionRando.zip"
     },
     "dependencies": [
       "ItemChanger",
@@ -11149,6 +11155,7 @@
     "repository": "https://github.com/TheMathGeek314/TheRealTransitionRando/",
     "integrations": [
       "BugPrince",
+      "ConnectionSettingsRando",
       "ItemSync",
       "RandoMapCore",
       "RandoSettingsManager",
@@ -11654,11 +11661,11 @@
   },
   "VendorRando": {
     "description": "A Randomizer add-on that randomizes the physical locations of vendors",
-    "version": "1.1.3.0",
+    "version": "1.1.4.0",
     "links": {
       "type": "universal",
-      "sha256": "B64A9BB89D1EEBE5E3E636529E62A5E7678EB9E43A27B17AE439C296C9C40AF7",
-      "url": "https://github.com/TheMathGeek314/VendorRando/releases/download/v1.1.3.0/VendorRando.zip"
+      "sha256": "8771666941CB3607B87428385A729C41B4BFC322FBFB2CE511095F378AD40DC1",
+      "url": "https://github.com/TheMathGeek314/VendorRando/releases/download/v1.1.4.0/VendorRando.zip"
     },
     "dependencies": [
       "ItemChanger",
@@ -11671,6 +11678,7 @@
     "repository": "https://github.com/TheMathGeek314/VendorRando/",
     "integrations": [
       "CondensedSpoilerLogger",
+      "ConnectionSettingsRando",
       "QoL",
       "RandoSettingsManager"
     ],
@@ -11982,11 +11990,11 @@
   },
   "YetAnotherRandoConnection": {
     "description": "A Randomizer add-on with an assortment of additions",
-    "version": "1.3.0.0",
+    "version": "1.3.1.0",
     "links": {
       "type": "universal",
-      "sha256": "126BB390B8BCB4F97673AB9B93849B9FFC6AF104B7A4FA48A045BFADC820C3A2",
-      "url": "https://github.com/TheMathGeek314/YetAnotherRandoConnection/releases/download/v1.3.0.0/YetAnotherRandoConnection.zip"
+      "sha256": "1E2B53F3C006B8D2FBE48FC4D971AB6AF94829120C53EFD9DB8255227E51E3C4",
+      "url": "https://github.com/TheMathGeek314/YetAnotherRandoConnection/releases/download/v1.3.1.0/YetAnotherRandoConnection.zip"
     },
     "dependencies": [
       "ItemChanger",
@@ -11999,6 +12007,7 @@
     "repository": "https://github.com/TheMathGeek314/YetAnotherRandoConnection/",
     "integrations": [
       "CondensedSpoilerLogger",
+      "ConnectionSettingsRando",
       "FStats",
       "RandoSettingsManager"
     ],

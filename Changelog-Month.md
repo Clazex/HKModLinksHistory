@@ -66,9 +66,16 @@
 
 ## Updated mods
 
+### AccessRandomizer
+
+- Version: 1.4.1.0 -> 1.4.2.0
+
 ### AlphabetRando
 
-- Version: 1.2.0.0 -> 1.3.0.0
+- Version: 1.2.0.0 -> 1.3.1.0
+- Integrations
+  + Added
+    - ConnectionSettingsRando
 
 ### Architect
 
@@ -79,7 +86,7 @@
 
 ### Breakable Wall Randomizer
 
-- Version: 4.1.1.8 -> 4.1.2.0
+- Version: 4.1.1.8 -> 4.1.3.0
 
 ### BugPrince
 
@@ -92,9 +99,35 @@
   + Added
     - Charmforging
 
+### CombatRandomizer
+
+- Version: 1.1.0.2 -> 1.1.1.0
+
+### CorpseDreamRando
+
+- Version: 1.0.2.0 -> 1.0.3.0
+- Integrations
+  + Added
+    - ConnectionSettingsRando
+
 ### Double Enemies
 
-- Version: 1.1.1.0 -> 1.2.1.1
+- Version: 1.1.2.0 -> 1.2.1.1
+
+### FlowerRandomizer
+
+- Version: 1.0.1.0 -> 1.0.2.0
+
+### GeoRando
+
+- Version: 1.0.2.0 -> 1.0.3.0
+- Integrations
+  + Added
+    - ConnectionSettingsRando
+
+### GodhomeRandomizer
+
+- Version: 2.2.4.11 -> 2.2.5.0
 
 ### HKBattle
 
@@ -112,9 +145,27 @@
 
 - Version: 0.7.0.0 -> 0.7.1.0
 
+### MilliGolf
+
+- Version: 1.3.0.2 -> 1.3.1.0
+- Integrations
+  + Added
+    - ConnectionSettingsRando
+
 ### MoreDoors
 
 - Version: 3.3.1.0 -> 3.3.2.0
+
+### MoreStags
+
+- Version: 1.1.1.1 -> 1.1.2.0
+- Integrations
+  + Added
+    - ConnectionSettingsRando
+
+### MurderRando
+
+- Version: 1.0.0.0 -> 1.0.1.0
 
 ### MyHK
 
@@ -128,15 +179,39 @@
 
 - Version: 2.0.2.0 -> 2.1.0.0
 
-### ReplayLogger
+### RegretRecoveryRestoration
 
-- Version: 1.1.0.3 -> 1.1.0.4
+- Version: 1.0.1.0 -> 1.0.2.0
+- Integrations
+  + Added
+    - ConnectionSettingsRando
 
 ### Scattered and Lost
 
 - Version: 1.6.3.0 -> 1.6.4.0
 
+### TheRealTransitionRando
+
+- Version: 1.1.0.1 -> 1.1.1.0
+- Integrations
+  + Added
+    - ConnectionSettingsRando
+
+### VendorRando
+
+- Version: 1.1.3.0 -> 1.1.4.0
+- Integrations
+  + Added
+    - ConnectionSettingsRando
+
 ### Wingy
 
 - Version: 1.0.0.0 -> 1.1.0.0
+
+### YetAnotherRandoConnection
+
+- Version: 1.3.0.0 -> 1.3.1.0
+- Integrations
+  + Added
+    - ConnectionSettingsRando
 

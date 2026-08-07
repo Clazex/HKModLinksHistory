@@ -1,6 +1,20 @@
 Architect
-Architect
 Double Enemies
 Architect
 ConnectionSettingsRando
 HKBattle
+AccessRandomizer
+AlphabetRando
+Breakable Wall Randomizer
+CombatRandomizer
+CorpseDreamRando
+FlowerRandomizer
+GeoRando
+GodhomeRandomizer
+MilliGolf
+MoreStags
+MurderRando
+RegretRecoveryRestoration
+TheRealTransitionRando
+VendorRando
+YetAnotherRandoConnection
