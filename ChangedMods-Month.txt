@@ -52,3 +52,9 @@ RegretRecoveryRestoration
 TheRealTransitionRando
 VendorRando
 YetAnotherRandoConnection
+CombatRandomizer
+ConnectionSettingsRando
+DarknessRandomizer
+Knight of Nights
+Lore Randomizer
+LoreCore

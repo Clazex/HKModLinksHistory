@@ -101,11 +101,18 @@
 
 ### CombatRandomizer
 
-- Version: 1.1.0.2 -> 1.1.1.0
+- Version: 1.1.0.2 -> 1.1.1.1
 
 ### CorpseDreamRando
 
 - Version: 1.0.2.0 -> 1.0.3.0
+- Integrations
+  + Added
+    - ConnectionSettingsRando
+
+### DarknessRandomizer
+
+- Version: 1.5.1.0 -> 1.5.2.0
 - Integrations
   + Added
     - ConnectionSettingsRando
@@ -135,15 +142,18 @@
 
 ### Knight of Nights
 
-- Version: 2.0.5.0 -> 2.0.6.0
+- Version: 2.0.5.0 -> 2.0.7.0
+- Integrations
+  + Added
+    - ConnectionSettingsRando
 
 ### Lore Randomizer
 
-- Version: 0.4.1.0 -> 0.4.2.0
+- Version: 0.4.1.0 -> 0.4.3.0
 
 ### LoreCore
 
-- Version: 0.7.0.0 -> 0.7.1.0
+- Version: 0.7.0.0 -> 0.7.2.0
 
 ### MilliGolf
 

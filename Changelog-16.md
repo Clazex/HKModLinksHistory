@@ -1,25 +1,17 @@
 # Changelog
 
 
-## New mods
-
-### FsmMaster
-
-- Description: Visual FSM graph inspection and live editing for PlayMaker FSMs
-- Integrations
-  + DebugMod
-
-
 ## Updated mods
-
-### AlphabetRando
-
-- Version: 1.2.0.0 -> 1.3.0.0
 
 ### Architect
 
-- Version: 3.31.4.2 -> 3.32.1.0
-- Dependencies
-  + Added
-    - FsmMaster
+- Version: 3.32.1.0 -> 3.32.2.0
+
+### Charm Rebalanced
+
+- Version: 3.0.5.0 -> 3.0.6.0
+
+### MyHK
+
+- Version: 1.2.0.5 -> 1.2.0.6
 

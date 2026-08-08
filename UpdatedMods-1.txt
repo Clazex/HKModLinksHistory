@@ -1,15 +1,6 @@
-AccessRandomizer
-AlphabetRando
-Breakable Wall Randomizer
 CombatRandomizer
-CorpseDreamRando
-FlowerRandomizer
-GeoRando
-GodhomeRandomizer
-MilliGolf
-MoreStags
-MurderRando
-RegretRecoveryRestoration
-TheRealTransitionRando
-VendorRando
-YetAnotherRandoConnection
+ConnectionSettingsRando
+DarknessRandomizer
+Knight of Nights
+Lore Randomizer
+LoreCore

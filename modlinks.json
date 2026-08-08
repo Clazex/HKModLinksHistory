@@ -1816,11 +1816,11 @@
   },
   "CombatRandomizer": {
     "description": "A Randomizer add-on for a cursed combat experience.",
-    "version": "1.1.1.0",
+    "version": "1.1.1.1",
     "links": {
       "type": "universal",
-      "sha256": "9C401F02F18C9452B472134ECE757EE1F31F54B7F8A6BC8F1C905F8A5FBA2FB4",
-      "url": "https://github.com/nerthul11/CombatRandomizer/releases/download/1.1.1.0/CombatRandomizer.zip"
+      "sha256": "017CAD6B138488A15ABAA8FD75BAC775820250A82C9AA7DD2B212C471F9C9E71",
+      "url": "https://github.com/nerthul11/CombatRandomizer/releases/download/1.1.1.1/CombatRandomizer.zip"
     },
     "dependencies": [
       "ItemChanger",
@@ -1923,11 +1923,11 @@
   },
   "ConnectionSettingsRando": {
     "description": "A Hollow Knight rando addon for Hollow Knight rando addons.",
-    "version": "1.0.0.0",
+    "version": "1.1.0.0",
     "links": {
       "type": "universal",
-      "sha256": "9E3249B9C5927030A06A2542AA310298FA8DFED4B7F1336F47AFAC976A541FC0",
-      "url": "https://github.com/nerthul11/ConnectionSettingsRando/releases/download/1.0.0.0/ConnectionSettingsRando.zip"
+      "sha256": "2CB067A503F06CE014C91B106000B8349BB3C0BE4D4DB23F5365FC5092722C06",
+      "url": "https://github.com/nerthul11/ConnectionSettingsRando/releases/download/1.1.0.0/ConnectionSettingsRando.zip"
     },
     "dependencies": [
       "MenuChanger",
@@ -2642,11 +2642,11 @@
   },
   "DarknessRandomizer": {
     "description": "A Rando 4 connection to randomize the dark corners of Hallownest.",
-    "version": "1.5.1.0",
+    "version": "1.5.2.0",
     "links": {
       "type": "universal",
-      "sha256": "23FD3709688EB88803D0E98761EAFE0551F69FF9C7445A177FAEC8792D2BFBAE",
-      "url": "https://github.com/dplochcoder/HollowKnight.DarknessRandomizer/releases/download/v1.5.1.0/DarknessRandomizer.zip"
+      "sha256": "CB39DB950DFB7760511CF88A9C06FA2329E43339E18353656CA37E308C7F4C5A",
+      "url": "https://github.com/dplochcoder/HollowKnight.DarknessRandomizer/releases/download/v1.5.2.0/DarknessRandomizer.zip"
     },
     "dependencies": [
       "ItemChanger",
@@ -2657,6 +2657,7 @@
     ],
     "repository": "https://github.com/dplochcoder/HollowKnight.DarknessRandomizer",
     "integrations": [
+      "ConnectionSettingsRando",
       "RandoPlus",
       "Randomizer 4"
     ],
@@ -6197,11 +6198,11 @@
   },
   "Knight of Nights": {
     "description": "A mod for the Holloween 2025 plando, with some rando integration.",
-    "version": "2.0.6.0",
+    "version": "2.0.7.0",
     "links": {
       "type": "universal",
-      "sha256": "84C3535E55017D9299D01E6884510572CC2A38817ABCD88B981AFF7C522659DA",
-      "url": "https://github.com/dplochcoder/HollowKnight.KnightOfNights/releases/download/v2.0.6.0/KnightOfNights.zip"
+      "sha256": "4C1AA8B22B4B8B62D4123B67D8EBEE9A32BC62544D154F21ECFEE6309496C61D",
+      "url": "https://github.com/dplochcoder/HollowKnight.KnightOfNights/releases/download/v2.0.7.0/KnightOfNights.zip"
     },
     "dependencies": [
       "Benchwarp",
@@ -6215,6 +6216,7 @@
     ],
     "repository": "https://github.com/dplochcoder/HollowKnight.KnightOfNights",
     "integrations": [
+      "ConnectionSettingsRando",
       "RandoSettingsManager",
       "Randomizer 4"
     ],
@@ -6563,11 +6565,11 @@
   },
   "Lore Randomizer": {
     "description": "Randomizer 4 connection that adds a bunch of lore related items and locations.",
-    "version": "0.4.2.0",
+    "version": "0.4.3.0",
     "links": {
       "type": "universal",
-      "sha256": "219D69221DC5DD6BEF72C54CBD4FCD97A9035E830DB8D1E506D51606769E35E8",
-      "url": "https://github.com/Korzer420/LoreRandomizer/releases/download/v0.4.2/LoreRandomizer.zip"
+      "sha256": "944F072ADC4888849C4EC65A98CB3631F2795061506B979EEB87383027A6CF65",
+      "url": "https://github.com/Korzer420/LoreRandomizer/releases/download/v0.4.3/LoreRandomizer.zip"
     },
     "dependencies": [
       "LoreCore",
@@ -6583,11 +6585,11 @@
   },
   "LoreCore": {
     "description": "Adds a bunch of lore related Item Changer locations and items.",
-    "version": "0.7.1.0",
+    "version": "0.7.2.0",
     "links": {
       "type": "universal",
-      "sha256": "AD6AAD338EE9C3677377DAF17334BF4D2A6A1457343CF97C9DDE9D64ED5715E0",
-      "url": "https://github.com/Korzer420/LoreCore/releases/download/v0.7.1/LoreCore.zip"
+      "sha256": "E68327DB4E7FD4A2CF2F8A53CFC9D0B4B4BC0401C7F0A4719769B051F8AD53AB",
+      "url": "https://github.com/Korzer420/LoreCore/releases/download/v0.7.2/LoreCore.zip"
     },
     "dependencies": [
       "ItemChanger",
