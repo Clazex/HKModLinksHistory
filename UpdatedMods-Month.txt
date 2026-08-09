@@ -50,3 +50,4 @@ DarknessRandomizer
 Knight of Nights
 Lore Randomizer
 LoreCore
+Architect

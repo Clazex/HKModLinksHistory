@@ -1,4 +1,3 @@
-Double Enemies
 Architect
 ConnectionSettingsRando
 HKBattle
@@ -23,3 +22,4 @@ DarknessRandomizer
 Knight of Nights
 Lore Randomizer
 LoreCore
+Architect

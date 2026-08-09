@@ -28,7 +28,7 @@
 
 ### Architect
 
-- Version: 3.32.4.1 -> 3.32.5.0
+- Version: 3.32.4.1 -> 3.32.5.1
 
 ### Breakable Wall Randomizer
 
@@ -51,10 +51,6 @@
 - Integrations
   + Added
     - ConnectionSettingsRando
-
-### Double Enemies
-
-- Version: 1.2.1.0 -> 1.2.1.1
 
 ### FlowerRandomizer
 
