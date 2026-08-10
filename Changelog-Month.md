@@ -79,7 +79,7 @@
 
 ### Architect
 
-- Version: 3.31.3.2 -> 3.32.5.1
+- Version: 3.31.3.3 -> 3.32.5.1
 - Dependencies
   + Added
     - FsmMaster
@@ -119,7 +119,7 @@
 
 ### Double Enemies
 
-- Version: 1.1.2.0 -> 1.2.1.1
+- Version: 1.1.3.0 -> 1.2.1.1
 
 ### FlowerRandomizer
 
@@ -199,6 +199,10 @@
 ### Scattered and Lost
 
 - Version: 1.6.3.0 -> 1.6.4.0
+
+### Smart Nail
+
+- Version: 1.3.5.5 -> 1.3.6.0
 
 ### TheRealTransitionRando
 
