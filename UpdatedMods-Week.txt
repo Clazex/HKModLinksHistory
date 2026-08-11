@@ -23,3 +23,4 @@ Lore Randomizer
 LoreCore
 Architect
 Smart Nail
+PurenailCore

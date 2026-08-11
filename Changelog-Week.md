@@ -104,6 +104,10 @@
 
 - Version: 1.0.0.0 -> 1.0.1.0
 
+### PurenailCore
+
+- Version: 2.1.0.0 -> 2.1.1.0
+
 ### RegretRecoveryRestoration
 
 - Version: 1.0.1.0 -> 1.0.2.0

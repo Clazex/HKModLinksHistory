@@ -1,4 +1,3 @@
-HKBattle
 Double Enemies
 Architect
 Breakable Wall Randomizer
@@ -50,3 +49,4 @@ Lore Randomizer
 LoreCore
 Architect
 Smart Nail
+PurenailCore
