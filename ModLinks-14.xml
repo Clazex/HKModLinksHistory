@@ -6,9 +6,9 @@
     <Manifest>
         <Name>Double Enemies</Name>
         <Description>Duplicates most enemies in the game, and shares hp between duplicate bosses.</Description>
-        <Version>1.2.0.0</Version>
-        <Link SHA256="9e3d88dc02f1df60fc515788e35bafaaf8b922108ba7b46e94e618d350b4e504">
-            <![CDATA[https://github.com/Genio250/Double-Enemies/releases/download/v1.2.0/Double.Enemies.zip]]>
+        <Version>1.2.1.0</Version>
+        <Link SHA256="cfbd53a067ad117196e2b834f64edfea47ebaa6ce97e97fb074d296daff8c6b5">
+            <![CDATA[https://github.com/Genio250/Double-Enemies/releases/download/v1.2.1/Double.Enemies.zip]]>
         </Link>
         <Dependencies>
             <Dependency>Satchel</Dependency>
@@ -8290,9 +8290,9 @@ Enjoy!</Description>
     <Manifest>
         <Name>MoreDoors</Name>
         <Description>A Rando 4 connection which adds more locked doors to Hallownest.</Description>
-        <Version>3.3.1.0</Version>
-        <Link SHA256="f21bef14926795aa8fad5489932bf981c486f58bec2926b81ed396db57219632">
-            <![CDATA[https://github.com/dplochcoder/HollowKnight.MoreDoors/releases/download/v3.3.1.0/MoreDoors.zip]]>
+        <Version>3.3.2.0</Version>
+        <Link SHA256="e864855a7909a0b39c1ede5b06b6f10a3ba44231ffa1b52bc1246ab77d488aac">
+            <![CDATA[https://github.com/dplochcoder/HollowKnight.MoreDoors/releases/download/v3.3.2.0/MoreDoors.zip]]>
         </Link>
         <Dependencies>
             <Dependency>ItemChanger</Dependency>

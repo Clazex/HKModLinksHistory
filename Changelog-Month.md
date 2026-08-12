@@ -37,6 +37,14 @@
 - Integrations
   + DebugMod
 
+### Mana Refill Helper
+
+- Description: Refills player&#x27;s Soul on save/respawn. Great for LHT and Hitless Platforming
+- Dependencies
+  + Satchel
+- Tags
+  + Utility
+
 ### Quick Save States
 
 - Description: Save and instantly reload an in-game state with two customizable hotkeys
@@ -56,6 +64,13 @@
 - Description: Replaces Jasmine Vines deadname with her new name.
 - Tags
   + Cosmetic
+
+### Withered Foxy 1 in 10000
+
+- Description: Inspired by the Terraria mod 1 in 10000 Chance for Withered Foxy Jumpscare
+- Tags
+  + Cosmetic
+  + Joke
 
 ### modthatclosesthegamewhenitopens
 
@@ -123,7 +138,7 @@
 
 ### FlowerRandomizer
 
-- Version: 1.0.1.0 -> 1.0.2.0
+- Version: 1.0.1.0 -> 1.0.2.1
 
 ### GeoRando
 
@@ -213,7 +228,7 @@
 
 ### VendorRando
 
-- Version: 1.1.3.0 -> 1.1.4.0
+- Version: 1.1.3.0 -> 1.1.4.1
 - Integrations
   + Added
     - ConnectionSettingsRando

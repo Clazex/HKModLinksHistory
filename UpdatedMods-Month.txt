@@ -50,3 +50,6 @@ LoreCore
 Architect
 Smart Nail
 PurenailCore
+ConnectionSettingsRando
+FlowerRandomizer
+VendorRando

@@ -1,5 +1,3 @@
-Architect
-HKBattle
 AccessRandomizer
 AlphabetRando
 Breakable Wall Randomizer
@@ -24,3 +22,6 @@ LoreCore
 Architect
 Smart Nail
 PurenailCore
+ConnectionSettingsRando
+FlowerRandomizer
+VendorRando

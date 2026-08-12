@@ -6,3 +6,5 @@ Quick Save States
 Shade Retreat Macro
 UndeadnameJasmine
 ConnectionSettingsRando
+Mana Refill Helper
+Withered Foxy 1 in 10000

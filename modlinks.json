@@ -1923,11 +1923,11 @@
   },
   "ConnectionSettingsRando": {
     "description": "A Hollow Knight rando addon for Hollow Knight rando addons.",
-    "version": "1.1.0.0",
+    "version": "1.2.0.0",
     "links": {
       "type": "universal",
-      "sha256": "2CB067A503F06CE014C91B106000B8349BB3C0BE4D4DB23F5365FC5092722C06",
-      "url": "https://github.com/nerthul11/ConnectionSettingsRando/releases/download/1.1.0.0/ConnectionSettingsRando.zip"
+      "sha256": "EDD6B25608DF2661D96AE638CC7E099D1836317BD0B8BF6B6D2EB8549606EDF1",
+      "url": "https://github.com/nerthul11/ConnectionSettingsRando/releases/download/1.2.0.0/ConnectionSettingsRando.zip"
     },
     "dependencies": [
       "MenuChanger",
@@ -3992,11 +3992,11 @@
   },
   "FlowerRandomizer": {
     "description": "A Hollow Knight Randomizer add-on for flower quest lovers.",
-    "version": "1.0.2.0",
+    "version": "1.0.2.1",
     "links": {
       "type": "universal",
-      "sha256": "C2FD0382119D44BB988A5AFA1641116CC4A9ED1B9FC05E1B9522E9D7162DB772",
-      "url": "https://github.com/nerthul11/FlowerRandomizer/releases/download/1.0.2.0/FlowerRandomizer.zip"
+      "sha256": "69E13CF2AC591FD05115ED9D30E8796DE86E3C8E78F12270368FF8197D291E67",
+      "url": "https://github.com/nerthul11/FlowerRandomizer/releases/download/1.0.2.1/FlowerRandomizer.zip"
     },
     "dependencies": [
       "ItemChanger",
@@ -6704,6 +6704,25 @@
     ],
     "authors": [
       "BadMagic"
+    ]
+  },
+  "Mana Refill Helper": {
+    "description": "Refills player's Soul on save/respawn. Great for LHT and Hitless Platforming",
+    "version": "1.0.0.0",
+    "links": {
+      "type": "universal",
+      "sha256": "E0B6C0A99CB51632F21484AD046565186BD7EECB5394C35EF6283B391C167351",
+      "url": "https://github.com/Ishmael-GameDev/Mana-Refill-Helper/releases/download/v1.0.0/Mana.Refill.Helper.dll"
+    },
+    "dependencies": [
+      "Satchel"
+    ],
+    "repository": "https://github.com/Ishmael-GameDev/Mana-Refill-Helper",
+    "tags": [
+      "Utility"
+    ],
+    "authors": [
+      "Ishmael"
     ]
   },
   "Mantis Gods": {
@@ -11663,11 +11682,11 @@
   },
   "VendorRando": {
     "description": "A Randomizer add-on that randomizes the physical locations of vendors",
-    "version": "1.1.4.0",
+    "version": "1.1.4.1",
     "links": {
       "type": "universal",
-      "sha256": "8771666941CB3607B87428385A729C41B4BFC322FBFB2CE511095F378AD40DC1",
-      "url": "https://github.com/TheMathGeek314/VendorRando/releases/download/v1.1.4.0/VendorRando.zip"
+      "sha256": "0571BB841DC5D84F8D2E542C6F1DBEEB81B308A0BE4A06F6DBD7D41BDF2B055B",
+      "url": "https://github.com/TheMathGeek314/VendorRando/releases/download/v1.1.4.1/VendorRando.zip"
     },
     "dependencies": [
       "ItemChanger",
@@ -11941,6 +11960,25 @@
     "repository": "https://github.com/TheMathGeek314/Wingy/",
     "authors": [
       "TheMathGeek_314"
+    ]
+  },
+  "Withered Foxy 1 in 10000": {
+    "description": "Inspired by the Terraria mod 1 in 10000 Chance for Withered Foxy Jumpscare",
+    "version": "1.0.0.0",
+    "links": {
+      "type": "universal",
+      "sha256": "D5505D130DDC6507F0B3B040F5F54E3430B8FCC8346042CD947A8C7828BD0197",
+      "url": "https://github.com/Nitefurie/HK1in10000/releases/download/1.0.0.0/HK1in10000.zip"
+    },
+    "dependencies": [],
+    "repository": "https://github.com/Nitefurie/HK1in10000",
+    "issues": "https://github.com/Nitefurie/HK1in10000/issues",
+    "tags": [
+      "Cosmetic",
+      "Joke"
+    ],
+    "authors": [
+      "Nitefury"
     ]
   },
   "WorseSteadyBody": {

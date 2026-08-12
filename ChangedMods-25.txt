@@ -1,2 +1,3 @@
 Architect
-Breakable Wall Randomizer
+Lore Randomizer
+LoreCore

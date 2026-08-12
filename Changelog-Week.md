@@ -3,14 +3,20 @@
 
 ## New mods
 
-### ConnectionSettingsRando
+### Mana Refill Helper
 
-- Description: A Hollow Knight rando addon for Hollow Knight rando addons.
+- Description: Refills player&#x27;s Soul on save/respawn. Great for LHT and Hitless Platforming
 - Dependencies
-  + MenuChanger
-  + Randomizer 4
+  + Satchel
 - Tags
-  + Gameplay
+  + Utility
+
+### Withered Foxy 1 in 10000
+
+- Description: Inspired by the Terraria mod 1 in 10000 Chance for Withered Foxy Jumpscare
+- Tags
+  + Cosmetic
+  + Joke
 
 
 ## Updated mods
@@ -28,7 +34,7 @@
 
 ### Architect
 
-- Version: 3.32.4.1 -> 3.32.5.1
+- Version: 3.32.5.0 -> 3.32.5.1
 
 ### Breakable Wall Randomizer
 
@@ -37,6 +43,10 @@
 ### CombatRandomizer
 
 - Version: 1.1.0.2 -> 1.1.1.1
+
+### ConnectionSettingsRando
+
+- Version: 1.0.0.0 -> 1.2.0.0
 
 ### CorpseDreamRando
 
@@ -54,7 +64,7 @@
 
 ### FlowerRandomizer
 
-- Version: 1.0.1.0 -> 1.0.2.0
+- Version: 1.0.1.0 -> 1.0.2.1
 
 ### GeoRando
 
@@ -66,10 +76,6 @@
 ### GodhomeRandomizer
 
 - Version: 2.2.4.11 -> 2.2.5.0
-
-### HKBattle
-
-- Version: 1.0.0.2 -> 1.0.0.3
 
 ### Knight of Nights
 
@@ -128,7 +134,7 @@
 
 ### VendorRando
 
-- Version: 1.1.3.0 -> 1.1.4.0
+- Version: 1.1.3.0 -> 1.1.4.1
 - Integrations
   + Added
     - ConnectionSettingsRando
