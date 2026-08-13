@@ -5,13 +5,13 @@
 
 ### Architect
 
-- Version: 3.32.1.0 -> 3.32.2.0
+- Version: 3.32.2.0 -> 3.32.3.0
 
-### Charm Rebalanced
+### Double Enemies
 
-- Version: 3.0.5.0 -> 3.0.6.0
+- Version: 1.1.4.0 -> 1.2.0.0
 
-### MyHK
+### Pale Court Charms
 
-- Version: 1.2.0.5 -> 1.2.0.6
+- Version: 1.3.7.0 -> 1.4.0.0
 
