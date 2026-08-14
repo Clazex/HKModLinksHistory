@@ -52,3 +52,4 @@ PurenailCore
 ConnectionSettingsRando
 FlowerRandomizer
 VendorRando
+Architect

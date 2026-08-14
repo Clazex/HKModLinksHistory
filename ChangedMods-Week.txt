@@ -1,9 +1,3 @@
-CombatRandomizer
-ConnectionSettingsRando
-DarknessRandomizer
-Knight of Nights
-Lore Randomizer
-LoreCore
 Architect
 Smart Nail
 PurenailCore
@@ -12,3 +6,4 @@ FlowerRandomizer
 Mana Refill Helper
 VendorRando
 Withered Foxy 1 in 10000
+Architect
