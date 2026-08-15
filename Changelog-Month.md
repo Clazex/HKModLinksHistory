@@ -3,14 +3,6 @@
 
 ## New mods
 
-### Another Location
-
-- Description: Adds one location to the Randomizer. Terms and Conditions may apply
-- Dependencies
-  + Randomizer 4
-- Integrations
-  + RandoSettingsManager
-
 ### Charmforging
 
 - Description: Add even more interesting charms to Hollow Knight world
@@ -125,6 +117,10 @@
   + Added
     - ConnectionSettingsRando
 
+### Curse Randomizer
+
+- Version: 5.1.6.0 -> 6.0.0.0
+
 ### DarknessRandomizer
 
 - Version: 1.5.1.0 -> 1.5.2.0
@@ -154,6 +150,10 @@
 ### HKBattle
 
 - Version: 1.0.0.2 -> 1.0.0.3
+
+### HarderAPSettings
+
+- Version: 1.1.0.1 -> 1.2.0.0
 
 ### Knight of Nights
 

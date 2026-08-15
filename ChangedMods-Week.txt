@@ -1,4 +1,3 @@
-Architect
 Smart Nail
 PurenailCore
 ConnectionSettingsRando
@@ -7,3 +6,5 @@ Mana Refill Helper
 VendorRando
 Withered Foxy 1 in 10000
 Architect
+Curse Randomizer
+HarderAPSettings

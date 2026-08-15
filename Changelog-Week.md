@@ -23,15 +23,23 @@
 
 ### Architect
 
-- Version: 3.32.5.0 -> 3.32.5.2
+- Version: 3.32.5.1 -> 3.32.5.2
 
 ### ConnectionSettingsRando
 
 - Version: 1.1.0.0 -> 1.2.0.0
 
+### Curse Randomizer
+
+- Version: 5.1.6.0 -> 6.0.0.0
+
 ### FlowerRandomizer
 
 - Version: 1.0.2.0 -> 1.0.2.1
+
+### HarderAPSettings
+
+- Version: 1.1.0.1 -> 1.2.0.0
 
 ### PurenailCore
 

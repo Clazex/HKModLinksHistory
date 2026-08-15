@@ -1,7 +1,8 @@
-Architect
 Smart Nail
 PurenailCore
 ConnectionSettingsRando
 FlowerRandomizer
 VendorRando
 Architect
+Curse Randomizer
+HarderAPSettings

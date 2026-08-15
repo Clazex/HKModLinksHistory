@@ -53,3 +53,5 @@ ConnectionSettingsRando
 FlowerRandomizer
 VendorRando
 Architect
+Curse Randomizer
+HarderAPSettings

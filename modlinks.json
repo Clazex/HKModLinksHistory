@@ -2172,11 +2172,11 @@
   },
   "Curse Randomizer": {
     "description": "Randomizer 4 connection that adds additional cursed options.",
-    "version": "5.1.6.0",
+    "version": "6.0.0.0",
     "links": {
       "type": "universal",
-      "sha256": "ACC94D31C8A76EC8C64C6062D30308AF9A6C6BCBA4E8A7D6B73805E991B6E023",
-      "url": "https://github.com/Korzer420/CurseRandomizer/releases/download/v5.1.6/CurseRandomizer.zip"
+      "sha256": "11653286F637C97E47A37490B7F09DDCFCA4AB957C13296D5BD378B3D717292F",
+      "url": "https://github.com/Korzer420/CurseRandomizer/releases/download/v6.0.0/CurseRandomizer.zip"
     },
     "dependencies": [
       "Benchwarp",
@@ -5407,11 +5407,11 @@
   },
   "HarderAPSettings": {
     "description": "Adds Settings to make APs harder, like take extra damage, do less nail damage, and replaces Radiance with AbsRad. Works in non Archipelago saves too.",
-    "version": "1.1.0.1",
+    "version": "1.2.0.0",
     "links": {
       "type": "universal",
-      "sha256": "D05E2B6931472672247CB7CCF5BFF6C6F76F2D776E3205A5D00DA45E8E99F1EF",
-      "url": "https://github.com/Bluepinkdragon/HarderAPSettings/releases/download/v1.1.0.1/HarderAPSettings.zip"
+      "sha256": "B0E0A37C42F7FF61AAEE76544AFA20555110284D4D84CBC26E9C14E6E4EE2596",
+      "url": "https://github.com/Bluepinkdragon/HarderAPSettings/releases/download/v1.2.0.0/HarderAPSettings.zip"
     },
     "dependencies": [
       "HKMirror"
