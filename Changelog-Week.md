@@ -45,10 +45,6 @@
 
 - Version: 2.1.0.0 -> 2.1.1.0
 
-### Smart Nail
-
-- Version: 1.3.5.5 -> 1.3.6.0
-
 ### VendorRando
 
 - Version: 1.1.4.0 -> 1.1.4.1

@@ -86,14 +86,14 @@
 
 ### Architect
 
-- Version: 3.31.3.3 -> 3.32.5.2
+- Version: 3.31.3.5 -> 3.32.5.2
 - Dependencies
   + Added
     - FsmMaster
 
 ### Breakable Wall Randomizer
 
-- Version: 4.1.1.8 -> 4.1.3.0
+- Version: 4.1.2.0 -> 4.1.3.0
 
 ### BugPrince
 
