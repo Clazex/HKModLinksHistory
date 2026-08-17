@@ -9987,6 +9987,30 @@ Enjoy!</Description>
         </Authors>
     </Manifest>
     <Manifest>
+        <Name>ConnectionSettingsRando</Name>
+        <Description>A Hollow Knight rando addon for Hollow Knight rando addons.</Description>
+        <Version>1.0.0.0</Version>
+        <Link SHA256="9E3249B9C5927030A06A2542AA310298FA8DFED4B7F1336F47AFAC976A541FC0">
+            <![CDATA[https://github.com/nerthul11/ConnectionSettingsRando/releases/download/1.0.0.0/ConnectionSettingsRando.zip]]>
+        </Link>
+        <Dependencies>
+            <Dependency>MenuChanger</Dependency>
+            <Dependency>Randomizer 4</Dependency>
+        </Dependencies>
+        <Repository>
+            <![CDATA[https://github.com/nerthul11/ConnectionSettingsRando]]>
+        </Repository>
+        <Issues>
+            <![CDATA[https://github.com/nerthul11/ConnectionSettingsRando/issues]]>
+        </Issues>
+        <Tags>
+            <Tag>Gameplay</Tag>
+        </Tags>
+        <Authors>
+            <Author>nerthul11</Author>
+        </Authors>
+    </Manifest>
+    <Manifest>
         <Name>Moonside</Name>
         <Description>Yes is No and No is Yes. It makes perfect sense in Moonside.</Description>
         <Version>1.1.0.1</Version>
@@ -10660,9 +10684,9 @@ Enjoy!</Description>
      <Manifest>
         <Name>HKBattle</Name>
         <Description>HKBattle is a Hollow Knight mod for solo practice and competitive boss and Pantheon challenges.</Description>
-        <Version>1.0.0.2</Version>
-        <Link SHA256="7c9df967d05b745b44cd8d0d610843b7eb3cf906450bc117142760502f610850">
-            <![CDATA[https://github.com/NightFuryoOo/HKBattle/releases/download/v1.0.0.2/HKBattle.zip]]>
+        <Version>1.0.0.3</Version>
+        <Link SHA256="cd361771daaacb00f6cbc8744298a76015f78349ea9ac2b2effde25531ded0c6">
+            <![CDATA[https://github.com/NightFuryoOo/HKBattle/releases/download/v1.0.0.3/HKBattle.zip]]>
         </Link>
          <Dependencies>
          </Dependencies>
@@ -10978,9 +11002,9 @@ Enjoy!</Description>
     <Manifest>
         <Name>Architect</Name>
         <Description>A Hollow Knight level editor mod, easily make and share custom levels with an in-game level editor and level sharer.</Description>
-        <Version>3.32.4.1</Version>
-        <Link SHA256="cb025572b188c411efc5117dc42567d6ac7cf1e7979b4b0a5d55d5b3871ff732">
-            <![CDATA[https://github.com/cometcake575/Architect-HK/releases/download/3.32.4.1/Architect.zip]]>
+        <Version>3.32.5.0</Version>
+        <Link SHA256="9606d39de97e0782cf0710370860ee16bea246b35ffe773345772a5b924c8312">
+            <![CDATA[https://github.com/cometcake575/Architect-HK/releases/download/3.32.5.0/Architect.zip]]>
         </Link>
         <Dependencies>
             <Dependency>Satchel</Dependency>

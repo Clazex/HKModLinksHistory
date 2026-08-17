@@ -41,10 +41,6 @@
 
 - Version: 1.1.0.1 -> 1.2.0.0
 
-### PurenailCore
-
-- Version: 2.1.0.0 -> 2.1.1.0
-
 ### VendorRando
 
 - Version: 1.1.4.0 -> 1.1.4.1
