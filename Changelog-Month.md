@@ -86,7 +86,7 @@
 
 ### Architect
 
-- Version: 3.31.4.0 -> 3.32.5.2
+- Version: 3.31.4.2 -> 3.32.5.2
 - Dependencies
   + Added
     - FsmMaster
