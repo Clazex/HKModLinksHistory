@@ -5,7 +5,7 @@
 
 ### Architect
 
-- Version: 3.32.5.1 -> 3.32.5.2
+- Version: 3.32.5.1 -> 3.32.6.0
 
 ### Curse Randomizer
 

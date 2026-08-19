@@ -1,3 +1,4 @@
 Architect
 Curse Randomizer
 HarderAPSettings
+Architect

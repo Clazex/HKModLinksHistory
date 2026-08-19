@@ -1,4 +1,3 @@
-Charm Rebalanced
 Charmforging
 Wingy
 AlphabetRando
@@ -58,3 +57,4 @@ Withered Foxy 1 in 10000
 Architect
 Curse Randomizer
 HarderAPSettings
+Architect

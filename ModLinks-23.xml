@@ -12723,4 +12723,41 @@ Enjoy!</Description>
             <Author>ConstructiveCynicism</Author>
         </Authors>
     </Manifest>
+    <Manifest>
+        <Name>Shade Retreat Macro</Name>
+        <Description>A debug add-on that makes seeing shade retreat points easier. Function added to the Visual page</Description>
+        <Version>1.0.0.0</Version>
+        <Link SHA256 ="3069261f290069784e5b130aa2d4b9e993aeecfd62e3a72e5a04dd3d1c82b479">
+            <![CDATA[https://github.com/Roma-337/ShadeRetreatMacro/releases/download/v1.0.0/ShadeRetreatMacro.zip]]>
+        </Link>
+        <Dependencies>
+            <Dependency>DebugMod</Dependency>
+        </Dependencies>
+        <Repository>
+            <![CDATA[https://github.com/Roma-337/ShadeRetreatMacro]]>
+        </Repository>
+        <Authors>
+            <Author>Roma 337</Author>
+        </Authors>
+    </Manifest>
+    <Manifest>
+        <Name>Quick Save States</Name>
+        <Description>Save and instantly reload an in-game state with two customizable hotkeys</Description>
+        <Version>0.2.0.0</Version>
+        <Link SHA256="0e67eada35cd14a8d5368c832020affafe020cf3c533ec156b501770e3e045e8">
+            <![CDATA[https://github.com/Ishmael-GameDev/QuickSaveStates/releases/download/v0.2.0/QuickSaveStates.dll]]>
+        </Link>
+        <Dependencies>
+            <Dependency>Satchel</Dependency>
+        </Dependencies>
+        <Repository>
+            <![CDATA[https://github.com/Ishmael-GameDev/QuickSaveStates]]>
+        </Repository>
+        <Tags>
+            <Tag>Utility</Tag>
+        </Tags>
+        <Authors>
+            <Author>Ishmael</Author>
+        </Authors>
+    </Manifest>
 </ModLinks>
