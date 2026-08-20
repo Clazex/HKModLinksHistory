@@ -1,5 +1,3 @@
-Charmforging
-Wingy
 AlphabetRando
 Architect
 FsmMaster
@@ -58,3 +56,12 @@ Architect
 Curse Randomizer
 HarderAPSettings
 Architect
+Architect
+Flukemaster
+MidasTouch
+MilliGolf
+RespawnPoint Manager
+ShuffledCharmEffects
+UnconstrainedRotation
+UnlimitedHiveblood
+VoiceToCrySuffering

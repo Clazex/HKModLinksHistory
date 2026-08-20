@@ -1,4 +1,12 @@
-Architect
 Curse Randomizer
 HarderAPSettings
 Architect
+Architect
+Flukemaster
+MidasTouch
+MilliGolf
+RespawnPoint Manager
+ShuffledCharmEffects
+UnconstrainedRotation
+UnlimitedHiveblood
+VoiceToCrySuffering

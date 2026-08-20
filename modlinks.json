@@ -508,11 +508,11 @@
   },
   "Architect": {
     "description": "A Hollow Knight level editor mod, easily make and share custom levels with an in-game level editor and level sharer.",
-    "version": "3.32.6.0",
+    "version": "3.32.7.1",
     "links": {
       "type": "universal",
-      "sha256": "B8C94B74A472F97BA125128A2C4F8A1D2D1B4CE30F9968FAEC3F43F6B6C6B424",
-      "url": "https://github.com/cometcake575/Architect-HK/releases/download/3.32.6.0/Architect.zip"
+      "sha256": "DD6D79DA6D92581C8932B84BDB6B93222D6ABE5B1811916218746B4B2EC487B7",
+      "url": "https://github.com/cometcake575/Architect-HK/releases/download/3.32.7.1/Architect.zip"
     },
     "dependencies": [
       "FsmMaster",
@@ -4015,11 +4015,11 @@
   },
   "Flukemaster": {
     "description": "All spells are affected by flukenest",
-    "version": "1.0.0.1",
+    "version": "1.0.0.2",
     "links": {
       "type": "universal",
-      "sha256": "4E1E10A9818B4118A34687B6FC1133E0063A60C77DB01897D4D5C65943601D6E",
-      "url": "https://github.com/TheMathGeek314/Flukemaster/releases/download/v1.0.0.1/Flukemaster.zip"
+      "sha256": "079C19533820BBDAECBBA392B7541DA164E0C3F6B2184227F845B2E57727D595",
+      "url": "https://github.com/TheMathGeek314/Flukemaster/releases/download/v1.0.0.2/Flukemaster.zip"
     },
     "dependencies": [
       "HKTool",
@@ -7048,11 +7048,11 @@
   },
   "MidasTouch": {
     "description": "Gorgeous Husk drops a charm that turns enemies to gold",
-    "version": "1.1.0.0",
+    "version": "1.1.0.1",
     "links": {
       "type": "universal",
-      "sha256": "F4EB92A4B2A423A8C12A9D769B473A6055AC4B1A801BC828F9431FE728D3D076",
-      "url": "https://github.com/TheMathGeek314/MidasTouch/releases/download/v1.1.0.0/MidasTouch.zip"
+      "sha256": "31A9052DA3A4E366C56C2957CC488A1FD1B0C43AA02402E0C7F879E798DB266E",
+      "url": "https://github.com/TheMathGeek314/MidasTouch/releases/download/v1.1.0.1/MidasTouch.zip"
     },
     "dependencies": [
       "SFCore",
@@ -7068,11 +7068,11 @@
   },
   "MilliGolf": {
     "description": "An 18-hole course featuring Millibelle the Golf Ball",
-    "version": "1.3.1.0",
+    "version": "1.3.1.1",
     "links": {
       "type": "universal",
-      "sha256": "29409280C0E5E99DD8B572A550EBBD79DB307827BCD1835BFBABE991239012BD",
-      "url": "https://github.com/TheMathGeek314/MilliGolf/releases/download/v1.3.1.0/MilliGolf.zip"
+      "sha256": "8F85A1FB453CEA04CFB9538C663ACA1CA52D15CB3B980F22A8A56027B05DA153",
+      "url": "https://github.com/TheMathGeek314/MilliGolf/releases/download/v1.3.1.1/MilliGolf.zip"
     },
     "dependencies": [
       "Satchel"
@@ -9581,12 +9581,12 @@
     ]
   },
   "RespawnPoint Manager": {
-    "description": "Spawnpoint manager that tracks, saves, and switches player checkpoints across scene with quick reset and custom spawn control",
-    "version": "1.0.0.0",
+    "description": "Spawnpoint manager that tracks, saves, and switches player checkpoints across scenes with quick reset, preset system and custom spawn control",
+    "version": "1.2.0.0",
     "links": {
       "type": "universal",
-      "sha256": "9A01FADFA00A291784D426831ECB546F80AF9C51E1A466E2E33A9D9027EC2BD1",
-      "url": "https://github.com/Ishmael-GameDev/Respawn-Point-Manager/releases/download/v1/RespawnPointManager.dll"
+      "sha256": "864A542659FA5A3AE179214BB949F7EAF7ABDA430575BFC7E66D6D35F2E2D86C",
+      "url": "https://github.com/Ishmael-GameDev/Respawn-Point-Manager/releases/download/v2/RespawnPointManager.dll"
     },
     "dependencies": [
       "MagicUI",
@@ -9594,7 +9594,7 @@
     ],
     "repository": "https://github.com/Ishmael-GameDev/Respawn-Point-Manager",
     "tags": [
-      "Gameplay"
+      "Utility"
     ],
     "authors": [
       "Ishmael"
@@ -10198,16 +10198,20 @@
   },
   "ShuffledCharmEffects": {
     "description": "Equipped charms will have randomized effects",
-    "version": "1.0.0.1",
+    "version": "1.1.0.0",
     "links": {
       "type": "universal",
-      "sha256": "04C2DBDB7F019A63F49CE569AEAA5121678C0DA253A187A3AEA57DB399F56798",
-      "url": "https://github.com/TheMathGeek314/ShuffledCharmEffects/releases/download/v1.0.0.1/ShuffledCharmEffects.zip"
+      "sha256": "F9BFB81724F5BC48E2BA705D24B7BAC9D34B0B6144D16C2734F94358F80F9805",
+      "url": "https://github.com/TheMathGeek314/ShuffledCharmEffects/releases/download/v1.1.0.0/ShuffledCharmEffects.zip"
     },
     "dependencies": [
       "Satchel"
     ],
     "repository": "https://github.com/TheMathGeek314/ShuffledCharmEffects/",
+    "integrations": [
+      "Randomizer 4",
+      "SFCore"
+    ],
     "authors": [
       "TheMathGeek_314"
     ]
@@ -11438,11 +11442,11 @@
   },
   "UnconstrainedRotation": {
     "description": "The knight can rotate freely",
-    "version": "1.0.2.0",
+    "version": "1.1.0.0",
     "links": {
       "type": "universal",
-      "sha256": "736A748166A5C42FDCA40C316F4B3FF063607F817B782D12C457ABFB8F22FB34",
-      "url": "https://github.com/TheMathGeek314/UnconstrainedRotation/releases/download/v1.0.2.0/UnconstrainedRotation.zip"
+      "sha256": "6CF0CF48DA24E8A8DD2824611ECB832C6991DDB59C7DCC4824A418CE615B8912",
+      "url": "https://github.com/TheMathGeek314/UnconstrainedRotation/releases/download/v1.1.0.0/UnconstrainedRotation.zip"
     },
     "dependencies": [],
     "repository": "https://github.com/TheMathGeek314/UnconstrainedRotation/",
@@ -11518,11 +11522,11 @@
   },
   "UnlimitedHiveblood": {
     "description": "Adds synergy between Hiveblood and Kingsoul/Voidheart for unlimited regen",
-    "version": "1.0.0.2",
+    "version": "1.0.0.3",
     "links": {
       "type": "universal",
-      "sha256": "44AA3B93C740F2BEF3744C04935B38053C253133FF42AA882219B7CD997A7661",
-      "url": "https://github.com/TheMathGeek314/UnlimitedHiveblood/releases/download/v1.0.0.2/UnlimitedHiveblood.zip"
+      "sha256": "5A22C1094056D86A75EF08076D0FB4D32F617B52B131959CC4117ED2529C8B4E",
+      "url": "https://github.com/TheMathGeek314/UnlimitedHiveblood/releases/download/v1.0.0.3/UnlimitedHiveblood.zip"
     },
     "dependencies": [
       "Satchel"
@@ -11769,11 +11773,11 @@
   },
   "VoiceToCrySuffering": {
     "description": "A minor tweak to the Pure Vessel fight",
-    "version": "1.0.0.1",
+    "version": "1.0.1.0",
     "links": {
       "type": "universal",
-      "sha256": "BD10B3BA695CA50308C1C481AEB77303E842916D1FF98012DDC6B68BC0D7EB81",
-      "url": "https://github.com/TheMathGeek314/VoiceToCrySuffering/releases/download/v1.0.0.1/VoiceToCrySuffering.zip"
+      "sha256": "FDC5D9E396E87DBB22B97067A084747CB2984E051E3C5E036F980FDCCBC32A08",
+      "url": "https://github.com/TheMathGeek314/VoiceToCrySuffering/releases/download/v1.0.1.0/VoiceToCrySuffering.zip"
     },
     "dependencies": [
       "SFCore",

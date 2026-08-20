@@ -3,17 +3,6 @@
 
 ## New mods
 
-### Charmforging
-
-- Description: Add even more interesting charms to Hollow Knight world
-- Dependencies
-  + ItemChanger
-  + SFCore
-- Integrations
-  + Charm Rebalanced
-- Tags
-  + Charm
-
 ### ConnectionSettingsRando
 
 - Description: A Hollow Knight rando addon for Hollow Knight rando addons.
@@ -86,7 +75,7 @@
 
 ### Architect
 
-- Version: 3.31.4.2 -> 3.32.6.0
+- Version: 3.31.4.2 -> 3.32.7.1
 - Dependencies
   + Added
     - FsmMaster
@@ -102,9 +91,6 @@
 ### Charm Rebalanced
 
 - Version: 3.0.5.0 -> 3.0.6.0
-- Integrations
-  + Added
-    - Charmforging
 
 ### CombatRandomizer
 
@@ -135,6 +121,10 @@
 ### FlowerRandomizer
 
 - Version: 1.0.1.0 -> 1.0.2.1
+
+### Flukemaster
+
+- Version: 1.0.0.1 -> 1.0.0.2
 
 ### GeoRando
 
@@ -170,9 +160,13 @@
 
 - Version: 0.7.1.0 -> 0.7.2.0
 
+### MidasTouch
+
+- Version: 1.1.0.0 -> 1.1.0.1
+
 ### MilliGolf
 
-- Version: 1.3.0.2 -> 1.3.1.0
+- Version: 1.3.0.2 -> 1.3.1.1
 - Integrations
   + Added
     - ConnectionSettingsRando
@@ -211,9 +205,29 @@
   + Added
     - ConnectionSettingsRando
 
+### RespawnPoint Manager
+
+- Version: 1.0.0.0 -> 1.2.0.0
+- Description
+  + Old: Spawnpoint manager that tracks, saves, and switches player checkpoints across scene with quick reset and custom spawn control
+  + New: Spawnpoint manager that tracks, saves, and switches player checkpoints across scenes with quick reset, preset system and custom spawn control
+- Tags
+  + Removed
+    - Utility
+  + Added
+    - Gameplay
+
 ### Scattered and Lost
 
 - Version: 1.6.3.0 -> 1.6.4.0
+
+### ShuffledCharmEffects
+
+- Version: 1.0.0.1 -> 1.1.0.0
+- Integrations
+  + Added
+    - Randomizer 4
+    - SFCore
 
 ### Smart Nail
 
@@ -226,6 +240,14 @@
   + Added
     - ConnectionSettingsRando
 
+### UnconstrainedRotation
+
+- Version: 1.0.2.0 -> 1.1.0.0
+
+### UnlimitedHiveblood
+
+- Version: 1.0.0.2 -> 1.0.0.3
+
 ### VendorRando
 
 - Version: 1.1.3.0 -> 1.1.4.1
@@ -233,9 +255,9 @@
   + Added
     - ConnectionSettingsRando
 
-### Wingy
+### VoiceToCrySuffering
 
-- Version: 1.0.0.0 -> 1.1.0.0
+- Version: 1.0.0.1 -> 1.0.1.0
 
 ### YetAnotherRandoConnection
 

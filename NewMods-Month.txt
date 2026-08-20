@@ -1,4 +1,3 @@
-Charmforging
 FsmMaster
 modthatclosesthegamewhenitopens
 Quick Save States
