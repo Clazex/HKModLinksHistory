@@ -7,17 +7,9 @@
 
 - Version: 3.32.5.2 -> 3.32.7.1
 
-### Curse Randomizer
-
-- Version: 5.1.6.0 -> 6.0.0.0
-
 ### Flukemaster
 
 - Version: 1.0.0.1 -> 1.0.0.2
-
-### HarderAPSettings
-
-- Version: 1.1.0.1 -> 1.2.0.0
 
 ### MidasTouch
 

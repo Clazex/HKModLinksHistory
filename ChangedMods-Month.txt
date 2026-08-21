@@ -1,6 +1,3 @@
-AlphabetRando
-Architect
-FsmMaster
 Architect
 Charm Rebalanced
 MyHK

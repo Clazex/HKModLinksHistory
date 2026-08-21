@@ -12,12 +12,6 @@
 - Tags
   + Gameplay
 
-### FsmMaster
-
-- Description: Visual FSM graph inspection and live editing for PlayMaker FSMs
-- Integrations
-  + DebugMod
-
 ### Mana Refill Helper
 
 - Description: Refills player&#x27;s Soul on save/respawn. Great for LHT and Hitless Platforming
@@ -68,17 +62,14 @@
 
 ### AlphabetRando
 
-- Version: 1.2.0.0 -> 1.3.1.0
+- Version: 1.3.0.0 -> 1.3.1.0
 - Integrations
   + Added
     - ConnectionSettingsRando
 
 ### Architect
 
-- Version: 3.31.4.2 -> 3.32.7.1
-- Dependencies
-  + Added
-    - FsmMaster
+- Version: 3.32.1.0 -> 3.32.7.1
 
 ### Breakable Wall Randomizer
 
