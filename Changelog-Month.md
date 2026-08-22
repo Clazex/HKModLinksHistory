@@ -69,7 +69,7 @@
 
 ### Architect
 
-- Version: 3.32.1.0 -> 3.32.7.1
+- Version: 3.32.2.0 -> 3.32.7.1
 
 ### Breakable Wall Randomizer
 
@@ -78,10 +78,6 @@
 ### BugPrince
 
 - Version: 1.5.1.1 -> 1.5.2.0
-
-### Charm Rebalanced
-
-- Version: 3.0.5.0 -> 3.0.6.0
 
 ### CombatRandomizer
 
@@ -176,10 +172,6 @@
 ### MurderRando
 
 - Version: 1.0.0.0 -> 1.0.1.0
-
-### MyHK
-
-- Version: 1.2.0.5 -> 1.2.0.6
 
 ### Pale Court Charms
 
