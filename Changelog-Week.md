@@ -1,6 +1,24 @@
 # Changelog
 
 
+## New mods
+
+### Teleport Master
+
+- Description: Highlights rooms tracked by DecorationMaster/Architect and teleport there instantly, supports Full Map mode, and plays nicely with Additional Maps.
+- Dependencies
+  + AdditionalMaps
+  + CompassAlwaysOn
+  + Fast Travel
+  + MapChanger
+- Integrations
+  + Architect
+  + ArchitectLegacy
+  + DecorationMaster
+- Tags
+  + Utility
+
+
 ## Updated mods
 
 ### Architect
@@ -18,6 +36,10 @@
 ### MilliGolf
 
 - Version: 1.3.1.0 -> 1.3.1.1
+
+### MoreStags
+
+- Version: 1.1.2.0 -> 1.1.2.1
 
 ### RespawnPoint Manager
 

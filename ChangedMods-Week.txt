@@ -8,3 +8,5 @@ ShuffledCharmEffects
 UnconstrainedRotation
 UnlimitedHiveblood
 VoiceToCrySuffering
+MoreStags
+Teleport Master

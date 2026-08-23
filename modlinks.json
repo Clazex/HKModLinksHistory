@@ -7392,11 +7392,11 @@
   },
   "MoreStags": {
     "description": "A Randomizer connection which adds new stag stations",
-    "version": "1.1.2.0",
+    "version": "1.1.2.1",
     "links": {
       "type": "universal",
-      "sha256": "C8949FC69C24B4FA651372A437EBD32B8BDDADE0C0D4264A5781BDE4B6EE09F8",
-      "url": "https://github.com/TheMathGeek314/MoreStags/releases/download/v1.1.2.0/MoreStags.zip"
+      "sha256": "29E972F82FCF017BEF56D2E8F0A09C67C4C4E5B4661B74D947BFF81424A21D24",
+      "url": "https://github.com/TheMathGeek314/MoreStags/releases/download/v1.1.2.1/MoreStags.zip"
     },
     "dependencies": [
       "AlreadyEnoughPlayMaker",
@@ -10962,6 +10962,33 @@
     "repository": "https://github.com/TheMathGeek314/Taxes/",
     "authors": [
       "TheMathGeek_314"
+    ]
+  },
+  "Teleport Master": {
+    "description": "Highlights rooms tracked by DecorationMaster/Architect and teleport there instantly, supports Full Map mode, and plays nicely with Additional Maps.",
+    "version": "1.0.0.0",
+    "links": {
+      "type": "universal",
+      "sha256": "D79ECF1F55B55A95D8D5C1E4385B4DD6233669A9E5BE52225C231742E7EEC35B",
+      "url": "https://github.com/Ishmael-GameDev/Teleport-Master/releases/download/v1/TeleportMaster.dll"
+    },
+    "dependencies": [
+      "AdditionalMaps",
+      "CompassAlwaysOn",
+      "Fast Travel",
+      "MapChanger"
+    ],
+    "repository": "https://github.com/Ishmael-GameDev/Teleport-Master",
+    "integrations": [
+      "Architect",
+      "ArchitectLegacy",
+      "DecorationMaster"
+    ],
+    "tags": [
+      "Utility"
+    ],
+    "authors": [
+      "Ishmael"
     ]
   },
   "TestOfTeamwork": {

@@ -5,3 +5,4 @@ UndeadnameJasmine
 ConnectionSettingsRando
 Mana Refill Helper
 Withered Foxy 1 in 10000
+Teleport Master

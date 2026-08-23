@@ -34,6 +34,21 @@
 - Dependencies
   + DebugMod
 
+### Teleport Master
+
+- Description: Highlights rooms tracked by DecorationMaster/Architect and teleport there instantly, supports Full Map mode, and plays nicely with Additional Maps.
+- Dependencies
+  + AdditionalMaps
+  + CompassAlwaysOn
+  + Fast Travel
+  + MapChanger
+- Integrations
+  + Architect
+  + ArchitectLegacy
+  + DecorationMaster
+- Tags
+  + Utility
+
 ### UndeadnameJasmine
 
 - Description: Replaces Jasmine Vines deadname with her new name.
@@ -69,7 +84,7 @@
 
 ### Architect
 
-- Version: 3.32.2.0 -> 3.32.7.1
+- Version: 3.32.3.0 -> 3.32.7.1
 
 ### Breakable Wall Randomizer
 
@@ -103,7 +118,7 @@
 
 ### Double Enemies
 
-- Version: 1.1.4.0 -> 1.2.1.1
+- Version: 1.2.0.0 -> 1.2.1.1
 
 ### FlowerRandomizer
 
@@ -164,7 +179,7 @@
 
 ### MoreStags
 
-- Version: 1.1.1.1 -> 1.1.2.0
+- Version: 1.1.1.1 -> 1.1.2.1
 - Integrations
   + Added
     - ConnectionSettingsRando
@@ -172,10 +187,6 @@
 ### MurderRando
 
 - Version: 1.0.0.0 -> 1.0.1.0
-
-### Pale Court Charms
-
-- Version: 1.3.7.0 -> 1.4.0.0
 
 ### PurenailCore
 
