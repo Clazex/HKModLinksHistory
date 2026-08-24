@@ -1,4 +1,2 @@
-BugPrince
-Knight of Nights
-PurenailCore
-Scattered and Lost
+Double Enemies
+MoreDoors
