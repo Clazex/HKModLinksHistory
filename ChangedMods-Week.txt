@@ -1,5 +1,4 @@
 Architect
-Architect
 Flukemaster
 MidasTouch
 MilliGolf
@@ -10,3 +9,4 @@ UnlimitedHiveblood
 VoiceToCrySuffering
 MoreStags
 Teleport Master
+ConnectionSettingsRando

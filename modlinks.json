@@ -1923,11 +1923,11 @@
   },
   "ConnectionSettingsRando": {
     "description": "A Hollow Knight rando addon for Hollow Knight rando addons.",
-    "version": "1.2.0.0",
+    "version": "1.3.1.2",
     "links": {
       "type": "universal",
-      "sha256": "EDD6B25608DF2661D96AE638CC7E099D1836317BD0B8BF6B6D2EB8549606EDF1",
-      "url": "https://github.com/nerthul11/ConnectionSettingsRando/releases/download/1.2.0.0/ConnectionSettingsRando.zip"
+      "sha256": "51EFED690E2344121BDE556726398C522FEB4D97FED7D96BD2C0FF9EB3F68ACD",
+      "url": "https://github.com/nerthul11/ConnectionSettingsRando/releases/download/1.3.1.2/ConnectionSettingsRando.zip"
     },
     "dependencies": [
       "MenuChanger",

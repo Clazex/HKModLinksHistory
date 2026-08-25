@@ -1,3 +1,0 @@
-ConnectionSettingsRando
-FlowerRandomizer
-VendorRando

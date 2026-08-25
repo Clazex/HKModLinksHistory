@@ -23,7 +23,11 @@
 
 ### Architect
 
-- Version: 3.32.5.2 -> 3.32.7.1
+- Version: 3.32.6.0 -> 3.32.7.1
+
+### ConnectionSettingsRando
+
+- Version: 1.2.0.0 -> 1.3.1.2
 
 ### Flukemaster
 

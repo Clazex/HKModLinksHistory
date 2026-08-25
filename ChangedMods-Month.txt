@@ -1,4 +1,3 @@
-modthatclosesthegamewhenitopens
 Quick Save States
 Shade Retreat Macro
 BugPrince
@@ -58,3 +57,4 @@ UnlimitedHiveblood
 VoiceToCrySuffering
 MoreStags
 Teleport Master
+ConnectionSettingsRando

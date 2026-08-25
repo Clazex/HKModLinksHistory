@@ -1,5 +1,4 @@
 Architect
-Architect
 Flukemaster
 MidasTouch
 MilliGolf
@@ -9,3 +8,4 @@ UnconstrainedRotation
 UnlimitedHiveblood
 VoiceToCrySuffering
 MoreStags
+ConnectionSettingsRando

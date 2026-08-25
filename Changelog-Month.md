@@ -62,12 +62,6 @@
   + Cosmetic
   + Joke
 
-### modthatclosesthegamewhenitopens
-
-- Description: Mod that closes the game when it opens
-- Dependencies
-  + Satchel
-
 
 ## Updated mods
 
