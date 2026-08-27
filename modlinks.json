@@ -4594,6 +4594,27 @@
     ],
     "repository": "https://github.com/Nexade/God-Soul-Mod/"
   },
+  "GodSeeker112": {
+    "description": "Configures Godseeker Plus' Add Soul option to have customisable values for each boss",
+    "version": "0.0.0.0",
+    "links": {
+      "type": "universal",
+      "sha256": "3F9EF44A3FD94E7813D3C18B3ABA983608309B16F2E6C09A6F39C016405CFEDF",
+      "url": "https://github.com/Regulus297/Godseeker112/releases/download/v0.0.0.1/GodSeeker112.zip"
+    },
+    "dependencies": [
+      "GodSeekerPlus",
+      "Satchel"
+    ],
+    "repository": "https://github.com/Regulus297/Godseeker112",
+    "tags": [
+      "Gameplay",
+      "Utility"
+    ],
+    "authors": [
+      "Lenore"
+    ]
+  },
   "GodSeekerPlus": {
     "description": "Various tweaks and utilities to enhance your Godhome experience",
     "version": "0.25.0.0",

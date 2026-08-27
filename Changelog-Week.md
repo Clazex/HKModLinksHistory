@@ -3,6 +3,16 @@
 
 ## New mods
 
+### GodSeeker112
+
+- Description: Configures Godseeker Plus&#x27; Add Soul option to have customisable values for each boss
+- Dependencies
+  + GodSeekerPlus
+  + Satchel
+- Tags
+  + Gameplay
+  + Utility
+
 ### Teleport Master
 
 - Description: Highlights rooms tracked by DecorationMaster/Architect and teleport there instantly, supports Full Map mode, and plays nicely with Additional Maps.

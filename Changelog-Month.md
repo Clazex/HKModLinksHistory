@@ -12,6 +12,16 @@
 - Tags
   + Gameplay
 
+### GodSeeker112
+
+- Description: Configures Godseeker Plus&#x27; Add Soul option to have customisable values for each boss
+- Dependencies
+  + GodSeekerPlus
+  + Satchel
+- Tags
+  + Gameplay
+  + Utility
+
 ### Mana Refill Helper
 
 - Description: Refills player&#x27;s Soul on save/respawn. Great for LHT and Hitless Platforming
@@ -34,12 +44,6 @@
   + DecorationMaster
 - Tags
   + Utility
-
-### UndeadnameJasmine
-
-- Description: Replaces Jasmine Vines deadname with her new name.
-- Tags
-  + Cosmetic
 
 ### Withered Foxy 1 in 10000
 
@@ -69,10 +73,6 @@
 ### Breakable Wall Randomizer
 
 - Version: 4.1.2.0 -> 4.1.3.0
-
-### BugPrince
-
-- Version: 1.5.1.1 -> 1.5.2.0
 
 ### CombatRandomizer
 
@@ -129,7 +129,7 @@
 
 ### Knight of Nights
 
-- Version: 2.0.5.0 -> 2.0.7.0
+- Version: 2.0.6.0 -> 2.0.7.0
 - Integrations
   + Added
     - ConnectionSettingsRando
@@ -170,7 +170,7 @@
 
 ### PurenailCore
 
-- Version: 2.0.2.0 -> 2.1.1.0
+- Version: 2.1.0.0 -> 2.1.1.0
 
 ### RegretRecoveryRestoration
 
@@ -190,10 +190,6 @@
     - Utility
   + Added
     - Gameplay
-
-### Scattered and Lost
-
-- Version: 1.6.3.0 -> 1.6.4.0
 
 ### ShuffledCharmEffects
 
