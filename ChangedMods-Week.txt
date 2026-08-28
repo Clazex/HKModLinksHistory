@@ -2,3 +2,4 @@ MoreStags
 Teleport Master
 ConnectionSettingsRando
 GodSeeker112
+HalallowKnight

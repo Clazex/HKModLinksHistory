@@ -22,6 +22,13 @@
   + Gameplay
   + Utility
 
+### HalallowKnight
+
+- Description: Rewords the game&#x27;s religious and supernatural framing - gods, worship, magic, souls, charms, dreams and the dead - into neutral alternatives. Text only: no gameplay, scenes or game files are touched.
+- Tags
+  + Cosmetic
+  + LLM-Assisted
+
 ### Mana Refill Helper
 
 - Description: Refills player&#x27;s Soul on save/respawn. Great for LHT and Hitless Platforming
@@ -98,7 +105,7 @@
 
 ### Double Enemies
 
-- Version: 1.2.0.0 -> 1.2.1.1
+- Version: 1.2.1.0 -> 1.2.1.1
 
 ### FlowerRandomizer
 
@@ -152,10 +159,6 @@
 - Integrations
   + Added
     - ConnectionSettingsRando
-
-### MoreDoors
-
-- Version: 3.3.1.0 -> 3.3.2.0
 
 ### MoreStags
 

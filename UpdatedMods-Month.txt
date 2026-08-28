@@ -1,5 +1,3 @@
-Double Enemies
-MoreDoors
 Architect
 Architect
 Double Enemies

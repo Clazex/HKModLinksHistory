@@ -1,5 +1,3 @@
-Double Enemies
-MoreDoors
 Architect
 Architect
 Double Enemies
@@ -52,3 +50,4 @@ MoreStags
 Teleport Master
 ConnectionSettingsRando
 GodSeeker112
+HalallowKnight

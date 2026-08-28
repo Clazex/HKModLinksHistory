@@ -5341,6 +5341,25 @@
     "dependencies": [],
     "repository": "https://github.com/PrashantMohta/hkmote/"
   },
+  "HalallowKnight": {
+    "description": "Rewords the game's religious and supernatural framing - gods, worship, magic, souls, charms, dreams and the dead - into neutral alternatives. Text only: no gameplay, scenes or game files are touched.",
+    "version": "1.0.0.0",
+    "links": {
+      "type": "universal",
+      "sha256": "0761AB7CA9F1BDCFD2BD5EB087BE5ABE03B6AFD6D1B8626AAA109F66A78C8247",
+      "url": "https://github.com/akhihaani/Halallow-Knight/releases/download/v1.0.0/HalallowKnight-1.0.0.zip"
+    },
+    "dependencies": [],
+    "repository": "https://github.com/akhihaani/Halallow-Knight",
+    "issues": "https://github.com/akhihaani/Halallow-Knight/issues",
+    "tags": [
+      "Cosmetic",
+      "LLM-Assisted"
+    ],
+    "authors": [
+      "akhihaani"
+    ]
+  },
   "Hall of Gods Extras": {
     "description": "Adds The Hollow Knight and The Radiance to the Hall of Gods.",
     "version": "1.0.0.0",
