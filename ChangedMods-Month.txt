@@ -51,3 +51,11 @@ Teleport Master
 ConnectionSettingsRando
 GodSeeker112
 HalallowKnight
+ArchitectLegacy
+BugPrince
+DecorationMaster
+GlobalList Atlas
+MoreDoors
+Scattered and Lost
+SpicyRando
+TreasureHunt

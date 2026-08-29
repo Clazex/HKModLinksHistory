@@ -4,3 +4,4 @@ Withered Foxy 1 in 10000
 Teleport Master
 GodSeeker112
 HalallowKnight
+GlobalList Atlas

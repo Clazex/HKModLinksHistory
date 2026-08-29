@@ -1663,8 +1663,8 @@ Not recommended for use in new mods.</Description>
     <Manifest>
         <Name>VendorRando</Name>
         <Description>A Randomizer add-on that randomizes the physical locations of vendors</Description>
-        <Version>1.1.4.0</Version>
-        <Link SHA256="8771666941CB3607B87428385A729C41B4BFC322FBFB2CE511095F378AD40DC1"><![CDATA[https://github.com/TheMathGeek314/VendorRando/releases/download/v1.1.4.0/VendorRando.zip]]></Link>
+        <Version>1.1.4.1</Version>
+        <Link SHA256="0571BB841DC5D84F8D2E542C6F1DBEEB81B308A0BE4A06F6DBD7D41BDF2B055B"><![CDATA[https://github.com/TheMathGeek314/VendorRando/releases/download/v1.1.4.1/VendorRando.zip]]></Link>
         <Dependencies>
             <Dependency>ItemChanger</Dependency>
             <Dependency>MenuChanger</Dependency>
@@ -9723,9 +9723,9 @@ Enjoy!</Description>
     <Manifest>
         <Name>FlowerRandomizer</Name>
         <Description>A Hollow Knight Randomizer add-on for flower quest lovers.</Description>
-        <Version>1.0.2.0</Version>
-        <Link SHA256="C2FD0382119D44BB988A5AFA1641116CC4A9ED1B9FC05E1B9522E9D7162DB772">
-            <![CDATA[https://github.com/nerthul11/FlowerRandomizer/releases/download/1.0.2.0/FlowerRandomizer.zip]]>
+        <Version>1.0.2.1</Version>
+        <Link SHA256="69E13CF2AC591FD05115ED9D30E8796DE86E3C8E78F12270368FF8197D291E67">
+            <![CDATA[https://github.com/nerthul11/FlowerRandomizer/releases/download/1.0.2.1/FlowerRandomizer.zip]]>
         </Link>
         <Dependencies>
             <Dependency>ItemChanger</Dependency>
@@ -10000,9 +10000,9 @@ Enjoy!</Description>
     <Manifest>
         <Name>ConnectionSettingsRando</Name>
         <Description>A Hollow Knight rando addon for Hollow Knight rando addons.</Description>
-        <Version>1.1.0.0</Version>
-        <Link SHA256="2CB067A503F06CE014C91B106000B8349BB3C0BE4D4DB23F5365FC5092722C06">
-            <![CDATA[https://github.com/nerthul11/ConnectionSettingsRando/releases/download/1.1.0.0/ConnectionSettingsRando.zip]]>
+        <Version>1.2.0.0</Version>
+        <Link SHA256="EDD6B25608DF2661D96AE638CC7E099D1836317BD0B8BF6B6D2EB8549606EDF1">
+            <![CDATA[https://github.com/nerthul11/ConnectionSettingsRando/releases/download/1.2.0.0/ConnectionSettingsRando.zip]]>
         </Link>
         <Dependencies>
             <Dependency>MenuChanger</Dependency>
@@ -12809,6 +12809,48 @@ Enjoy!</Description>
         </Tags>
         <Authors>
             <Author>Ishmael</Author>
+        </Authors>
+    </Manifest>
+    <Manifest>
+        <Name>Mana Refill Helper</Name>
+        <Description>Refills player's Soul on save/respawn. Great for LHT and Hitless Platforming</Description>
+        <Version>1.0.0.0</Version>
+        <Link SHA256="e0b6c0a99cb51632f21484ad046565186bd7eecb5394c35ef6283b391c167351">
+            <![CDATA[https://github.com/Ishmael-GameDev/Mana-Refill-Helper/releases/download/v1.0.0/Mana.Refill.Helper.dll]]>
+        </Link>
+        <Dependencies>
+            <Dependency>Satchel</Dependency>
+        </Dependencies>
+        <Repository>
+            <![CDATA[https://github.com/Ishmael-GameDev/Mana-Refill-Helper]]>
+        </Repository>
+        <Tags>
+            <Tag>Utility</Tag>
+        </Tags>
+        <Authors>
+            <Author>Ishmael</Author>
+        </Authors>
+    </Manifest>
+    <Manifest>
+        <Name>Withered Foxy 1 in 10000</Name>
+        <Description>Inspired by the Terraria mod 1 in 10000 Chance for Withered Foxy Jumpscare</Description>
+        <Version>1.0.0.0</Version>
+        <Link SHA256="d5505d130ddc6507f0b3b040f5f54e3430b8fcc8346042cd947a8c7828bd0197">
+            <![CDATA[https://github.com/Nitefurie/HK1in10000/releases/download/1.0.0.0/HK1in10000.zip]]>
+        </Link>
+        <Dependencies />
+        <Repository>
+            <![CDATA[https://github.com/Nitefurie/HK1in10000]]>
+        </Repository>
+        <Issues>
+            <![CDATA[https://github.com/Nitefurie/HK1in10000/issues]]>
+        </Issues>
+        <Tags>
+            <Tag>Cosmetic</Tag>
+            <Tag>Joke</Tag>
+        </Tags>
+        <Authors>
+            <Author>Nitefury</Author>
         </Authors>
     </Manifest>
 </ModLinks>

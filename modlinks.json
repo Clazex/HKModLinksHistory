@@ -535,11 +535,11 @@
   },
   "ArchitectLegacy": {
     "description": "The old version of Architect, a Hollow Knight level editor.",
-    "version": "1.18.0.6",
+    "version": "1.19.0.0",
     "links": {
       "type": "universal",
-      "sha256": "46D33BA0A4D2E180022838650C64F99DC2AAD93EEC2FF917C6A3415EC50B11B7",
-      "url": "https://github.com/cometcake575/Architect/releases/download/1.18.0.6/Architect.zip"
+      "sha256": "40C95D29501E35880077291F87CBC9104F8DF6334B8176CD258D819B5B6E1C23",
+      "url": "https://github.com/cometcake575/Architect/releases/download/1.19.0.0/Architect.zip"
     },
     "dependencies": [
       "MagicUI",
@@ -1281,11 +1281,11 @@
   },
   "BugPrince": {
     "description": "A Randomizer 4 connection which combines Blue Prince mechanics with Hollow Knight transition randomizer.",
-    "version": "1.5.2.0",
+    "version": "1.5.3.0",
     "links": {
       "type": "universal",
-      "sha256": "43F908EE02EA6875F1635162AE9D3C733AF0993E7CC14F89188F253BDAD278AB",
-      "url": "https://github.com/dplochcoder/HollowKnight.BugPrince/releases/download/v1.5.2/BugPrince.zip"
+      "sha256": "A7CA29532294CD054A91908C657A0E8826FBC0FF915CCF5E9C853768D15E1906",
+      "url": "https://github.com/dplochcoder/HollowKnight.BugPrince/releases/download/v1.5.3.0/BugPrince.zip"
     },
     "dependencies": [
       "Benchwarp",
@@ -1298,7 +1298,9 @@
     ],
     "repository": "https://github.com/dplochcoder/HollowKnight.BugPrince",
     "integrations": [
-      "RandoSettingsManager"
+      "ConnectionSettingsRando",
+      "RandoSettingsManager",
+      "Randomizer 4"
     ],
     "tags": [
       "Gameplay"
@@ -2888,15 +2890,15 @@
     ]
   },
   "DecorationMaster": {
-    "description": "A mod for making area harder by adding spike and saw",
-    "version": "1.0.1.0",
+    "description": "An older level editor for Hollow Knight used for platforming maps",
+    "version": "1.0.1.1",
     "links": {
       "type": "universal",
-      "sha256": "6090DB10C6B36A8A1661834299BEF620F47EF48612BDB1C1B3449F0EDDDCFF8A",
-      "url": "https://github.com/ygsbzr/HollowKnight.Decoration/releases/download/0.42/Decoration.zip"
+      "sha256": "0C7FEE165753E383FE56C0F13F8FDA508C822577A7915FD824BC3986E5936627",
+      "url": "https://github.com/cometcake575/HollowKnight.Decoration/releases/download/1.0.1.1/DecorationMaster.zip"
     },
     "dependencies": [],
-    "repository": "https://github.com/ygsbzr/HollowKnight.Decoration/",
+    "repository": "https://github.com/cometcake575/HollowKnight.Decoration/",
     "tags": [
       "Gameplay"
     ]
@@ -4563,6 +4565,28 @@
     "authors": [
       "753",
       "Mulhima"
+    ]
+  },
+  "GlobalList Atlas": {
+    "description": "Connects to the community's global spreadsheet archive of fan-made rated maps. Browse and filter maps by editor, tags, rating and verification status, then download, install, and launch them directly from an in-game menu — including required editors and public mods.",
+    "version": "1.0.0.0",
+    "links": {
+      "type": "universal",
+      "sha256": "DA5861F2361C1B051A98D2E0CFE4551B6D7774AAC8FE077441864BBAC46FF7B8",
+      "url": "https://github.com/Ishmael-GameDev/GlobalList-Atlas/releases/download/v1/GlobalListAtlas.dll"
+    },
+    "dependencies": [],
+    "repository": "https://github.com/Ishmael-GameDev/GlobalList-Atlas",
+    "integrations": [
+      "Architect",
+      "ArchitectLegacy",
+      "DecorationMaster"
+    ],
+    "tags": [
+      "Utility"
+    ],
+    "authors": [
+      "Ishmael"
     ]
   },
   "GloriousGrimmMusic": {
@@ -7281,11 +7305,11 @@
   },
   "MoreDoors": {
     "description": "A Rando 4 connection which adds more locked doors to Hallownest.",
-    "version": "3.3.2.0",
+    "version": "3.4.1.0",
     "links": {
       "type": "universal",
-      "sha256": "E864855A7909A0B39C1EDE5B06B6F10A3BA44231FFA1B52BC1246AB77D488AAC",
-      "url": "https://github.com/dplochcoder/HollowKnight.MoreDoors/releases/download/v3.3.2.0/MoreDoors.zip"
+      "sha256": "8AEE6FE43DA4F13ED9BBC77F423F55A90175489F336BB5E207240E4F4B7A708E",
+      "url": "https://github.com/dplochcoder/HollowKnight.MoreDoors/releases/download/v3.4.1.0/MoreDoors.zip"
     },
     "dependencies": [
       "ItemChanger",
@@ -7296,6 +7320,7 @@
     ],
     "repository": "https://github.com/dplochcoder/HollowKnight.MoreDoors",
     "integrations": [
+      "ConnectionSettingsRando",
       "Extra Rando",
       "RandoSettingsManager",
       "Randomizer 4"
@@ -9891,11 +9916,11 @@
   },
   "Scattered and Lost": {
     "description": "Celeste-themed content mod, expanding Bretta's hut",
-    "version": "1.6.4.0",
+    "version": "1.6.5.0",
     "links": {
       "type": "universal",
-      "sha256": "E6D8B62A53126EF0EC22C1E5BA1072FDDDA5952E9B1764A172C21C679605B62C",
-      "url": "https://github.com/dplochcoder/HollowKnight.ScatteredAndLost/releases/download/v1.6.4.0/Scattered.and.Lost.zip"
+      "sha256": "581850F3A7ECA9E272E183EFBDC60F176A3DDD81C12977913ED10E7CF50A0430",
+      "url": "https://github.com/dplochcoder/HollowKnight.ScatteredAndLost/releases/download/v1.6.5.0/Scattered.and.Lost.zip"
     },
     "dependencies": [
       "ItemChanger",
@@ -9910,6 +9935,7 @@
       "ArchitectLegacy",
       "BugPrince",
       "CondensedSpoilerLogger",
+      "ConnectionSettingsRando",
       "DebugMod",
       "DecorationMaster",
       "RandoSettingsManager",
@@ -10686,11 +10712,11 @@
   },
   "SpicyRando": {
     "description": "Various difficulty increases in specific parts of rando",
-    "version": "2.1.1.0",
+    "version": "2.1.2.0",
     "links": {
       "type": "universal",
-      "sha256": "379B9FDC1C78E16AF5FF37B0D2D43A61E60482D9640C4312C7795BDE9C8DEAC4",
-      "url": "https://github.com/dplochcoder/HollowKnight.SpicyRando/releases/download/v2.1.1.0/SpicyRando.zip"
+      "sha256": "88242C910D79A1F475F10A24219ED41F9B2A96A52EE4ACDB63E8890EACE9400D",
+      "url": "https://github.com/dplochcoder/HollowKnight.SpicyRando/releases/download/v2.1.2.0/SpicyRando.zip"
     },
     "dependencies": [
       "ItemChanger",
@@ -10701,6 +10727,7 @@
     ],
     "repository": "https://github.com/dplochcoder/HollowKnight.SpicyRando",
     "integrations": [
+      "ConnectionSettingsRando",
       "RandoSettingsManager",
       "Randomizer 4"
     ],
@@ -11351,11 +11378,11 @@
   },
   "TreasureHunt": {
     "description": "A Randomizer 4 connection fro a semi-spoiler format.",
-    "version": "1.7.2.0",
+    "version": "1.7.3.0",
     "links": {
       "type": "universal",
-      "sha256": "967BF2FAF061114163B56818A9179A08E6546EFF799241D58007C667BAF2EA30",
-      "url": "https://github.com/dplochcoder/HollowKnight.TreasureHunt/releases/download/v1.7.2.0/TreasureHunt.zip"
+      "sha256": "4015EE3C26D8F9C459A0DAC078B9F4CEDE7542A89C6C6906B7EEDC8EE7E2FC63",
+      "url": "https://github.com/dplochcoder/HollowKnight.TreasureHunt/releases/download/v1.7.3.0/TreasureHunt.zip"
     },
     "dependencies": [
       "ConnectionMetadataInjector",
