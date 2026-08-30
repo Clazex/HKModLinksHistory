@@ -9,3 +9,6 @@ MoreDoors
 Scattered and Lost
 SpicyRando
 TreasureHunt
+Architect
+HallownestWayfinder
+RadianceSkin

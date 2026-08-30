@@ -39,6 +39,13 @@
   + Cosmetic
   + LLM-Assisted
 
+### HallownestWayfinder
+
+- Description: An in-game route guide and navigation assistant with guided 112%, five-hour speedrun and save-completion routes, a progress checklist, and save-aware pathfinding.
+- Tags
+  + LLM-Assisted
+  + Utility
+
 ### Mana Refill Helper
 
 - Description: Refills player&#x27;s Soul on save/respawn. Great for LHT and Hitless Platforming
@@ -46,6 +53,15 @@
   + Satchel
 - Tags
   + Utility
+
+### RadianceSkin
+
+- Description: A mod that customizes Absolute Radiance with selectable skins, music, visual effects, backgrounds, and animations.
+- Dependencies
+  + Satchel
+  + WavLib
+- Tags
+  + Cosmetic
 
 ### Teleport Master
 
@@ -85,7 +101,7 @@
 
 ### Architect
 
-- Version: 3.32.3.0 -> 3.32.7.1
+- Version: 3.32.4.0 -> 3.34.0.0
 
 ### ArchitectLegacy
 
