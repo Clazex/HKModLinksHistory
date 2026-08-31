@@ -51,11 +51,11 @@
 
 ### Architect
 
-- Version: 3.32.7.1 -> 3.34.0.0
+- Version: 3.32.7.1 -> 3.34.0.1
 
 ### ArchitectLegacy
 
-- Version: 1.18.0.6 -> 1.19.0.0
+- Version: 1.18.0.6 -> 1.19.0.1
 
 ### BugPrince
 
@@ -65,13 +65,9 @@
     - ConnectionSettingsRando
     - Randomizer 4
 
-### ConnectionSettingsRando
-
-- Version: 1.2.0.0 -> 1.3.1.2
-
 ### DecorationMaster
 
-- Version: 1.0.1.0 -> 1.0.1.1
+- Version: 1.0.1.0 -> 1.0.1.2
 - Description
   + Old: A mod for making area harder by adding spike and saw
   + New: An older level editor for Hollow Knight used for platforming maps

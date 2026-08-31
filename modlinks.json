@@ -508,11 +508,11 @@
   },
   "Architect": {
     "description": "A Hollow Knight level editor mod, easily make and share custom levels with an in-game level editor and level sharer.",
-    "version": "3.34.0.0",
+    "version": "3.34.0.1",
     "links": {
       "type": "universal",
-      "sha256": "99D7F5D222CA6256C820D1DD34504DA3E0991938B35CD026CF141C17AFB29AA8",
-      "url": "https://github.com/cometcake575/Architect-HK/releases/download/3.34.0.0/Architect.zip"
+      "sha256": "4A185A715649FA0726F98E37365E7666159FD3205EEF7A42982E530E67562E6C",
+      "url": "https://github.com/cometcake575/Architect-HK/releases/download/3.34.0.1/Architect.zip"
     },
     "dependencies": [
       "FsmMaster",
@@ -535,11 +535,11 @@
   },
   "ArchitectLegacy": {
     "description": "The old version of Architect, a Hollow Knight level editor.",
-    "version": "1.19.0.0",
+    "version": "1.19.0.1",
     "links": {
       "type": "universal",
-      "sha256": "40C95D29501E35880077291F87CBC9104F8DF6334B8176CD258D819B5B6E1C23",
-      "url": "https://github.com/cometcake575/Architect/releases/download/1.19.0.0/Architect.zip"
+      "sha256": "FC49A304CF590C71CD0AE2862CD96CCACC41753B3E96982FC0F09A23F4A74E99",
+      "url": "https://github.com/cometcake575/Architect/releases/download/1.19.0.1/Architect.zip"
     },
     "dependencies": [
       "MagicUI",
@@ -2891,11 +2891,11 @@
   },
   "DecorationMaster": {
     "description": "An older level editor for Hollow Knight used for platforming maps",
-    "version": "1.0.1.1",
+    "version": "1.0.1.2",
     "links": {
       "type": "universal",
-      "sha256": "0C7FEE165753E383FE56C0F13F8FDA508C822577A7915FD824BC3986E5936627",
-      "url": "https://github.com/cometcake575/HollowKnight.Decoration/releases/download/1.0.1.1/DecorationMaster.zip"
+      "sha256": "48DD8037A11923E664D7459CA7CE63D2759CA82CC82DC1CE93C90F8AC6D57FF9",
+      "url": "https://github.com/cometcake575/HollowKnight.Decoration/releases/download/1.0.1.2/DecorationMaster.zip"
     },
     "dependencies": [],
     "repository": "https://github.com/cometcake575/HollowKnight.Decoration/",

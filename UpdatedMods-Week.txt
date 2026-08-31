@@ -1,4 +1,3 @@
-ConnectionSettingsRando
 ArchitectLegacy
 BugPrince
 DecorationMaster
@@ -7,3 +6,6 @@ Scattered and Lost
 SpicyRando
 TreasureHunt
 Architect
+Architect
+ArchitectLegacy
+DecorationMaster

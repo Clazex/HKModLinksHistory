@@ -1,4 +1,3 @@
-Architect
 Double Enemies
 Architect
 ConnectionSettingsRando
@@ -61,3 +60,6 @@ TreasureHunt
 Architect
 HallownestWayfinder
 RadianceSkin
+Architect
+ArchitectLegacy
+DecorationMaster
