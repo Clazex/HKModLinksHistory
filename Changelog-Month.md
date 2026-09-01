@@ -148,10 +148,6 @@
   + Old: A mod for making area harder by adding spike and saw
   + New: An older level editor for Hollow Knight used for platforming maps
 
-### Double Enemies
-
-- Version: 1.2.1.0 -> 1.2.1.1
-
 ### FlowerRandomizer
 
 - Version: 1.0.1.0 -> 1.0.2.1
