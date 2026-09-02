@@ -13,16 +13,6 @@
 - Tags
   + Utility
 
-### GodSeeker112
-
-- Description: Configures Godseeker Plus&#x27; Add Soul option to have customisable values for each boss
-- Dependencies
-  + GodSeekerPlus
-  + Satchel
-- Tags
-  + Gameplay
-  + Utility
-
 ### HalallowKnight
 
 - Description: Rewords the game&#x27;s religious and supernatural framing - gods, worship, magic, souls, charms, dreams and the dead - into neutral alternatives. Text only: no gameplay, scenes or game files are touched.
@@ -35,6 +25,14 @@
 - Description: An in-game route guide and navigation assistant with guided 112%, five-hour speedrun and save-completion routes, a progress checklist, and save-aware pathfinding.
 - Tags
   + LLM-Assisted
+  + Utility
+
+### Input Display
+
+- Description: Shows an input display in the bottom right corner. Compatible with both controller and mouse/keyboard.
+- Dependencies
+  + MagicUI
+- Tags
   + Utility
 
 ### RadianceSkin

@@ -46,6 +46,14 @@
   + LLM-Assisted
   + Utility
 
+### Input Display
+
+- Description: Shows an input display in the bottom right corner. Compatible with both controller and mouse/keyboard.
+- Dependencies
+  + MagicUI
+- Tags
+  + Utility
+
 ### Mana Refill Helper
 
 - Description: Refills player&#x27;s Soul on save/respawn. Great for LHT and Hitless Platforming

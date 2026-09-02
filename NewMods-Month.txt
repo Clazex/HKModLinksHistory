@@ -7,3 +7,4 @@ HalallowKnight
 GlobalList Atlas
 HallownestWayfinder
 RadianceSkin
+Input Display

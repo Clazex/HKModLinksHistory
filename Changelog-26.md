@@ -3,90 +3,33 @@
 
 ## Updated mods
 
-### AccessRandomizer
-
-- Version: 1.4.1.0 -> 1.4.2.0
-
-### AlphabetRando
-
-- Version: 1.3.0.0 -> 1.3.1.0
-- Integrations
-  + Added
-    - ConnectionSettingsRando
-
-### Breakable Wall Randomizer
-
-- Version: 4.1.2.0 -> 4.1.3.0
-
 ### CombatRandomizer
 
-- Version: 1.1.0.2 -> 1.1.1.0
+- Version: 1.1.1.0 -> 1.1.1.1
 
-### CorpseDreamRando
+### ConnectionSettingsRando
 
-- Version: 1.0.2.0 -> 1.0.3.0
+- Version: 1.0.0.0 -> 1.1.0.0
+
+### DarknessRandomizer
+
+- Version: 1.5.1.0 -> 1.5.2.0
 - Integrations
   + Added
     - ConnectionSettingsRando
 
-### FlowerRandomizer
+### Knight of Nights
 
-- Version: 1.0.1.0 -> 1.0.2.0
-
-### GeoRando
-
-- Version: 1.0.2.0 -> 1.0.3.0
+- Version: 2.0.6.0 -> 2.0.7.0
 - Integrations
   + Added
     - ConnectionSettingsRando
 
-### GodhomeRandomizer
+### Lore Randomizer
 
-- Version: 2.2.4.11 -> 2.2.5.0
+- Version: 0.4.2.0 -> 0.4.3.0
 
-### MilliGolf
+### LoreCore
 
-- Version: 1.3.0.2 -> 1.3.1.0
-- Integrations
-  + Added
-    - ConnectionSettingsRando
-
-### MoreStags
-
-- Version: 1.1.1.1 -> 1.1.2.0
-- Integrations
-  + Added
-    - ConnectionSettingsRando
-
-### MurderRando
-
-- Version: 1.0.0.0 -> 1.0.1.0
-
-### RegretRecoveryRestoration
-
-- Version: 1.0.1.0 -> 1.0.2.0
-- Integrations
-  + Added
-    - ConnectionSettingsRando
-
-### TheRealTransitionRando
-
-- Version: 1.1.0.1 -> 1.1.1.0
-- Integrations
-  + Added
-    - ConnectionSettingsRando
-
-### VendorRando
-
-- Version: 1.1.3.0 -> 1.1.4.0
-- Integrations
-  + Added
-    - ConnectionSettingsRando
-
-### YetAnotherRandoConnection
-
-- Version: 1.3.0.0 -> 1.3.1.0
-- Integrations
-  + Added
-    - ConnectionSettingsRando
+- Version: 0.7.1.0 -> 0.7.2.0
 

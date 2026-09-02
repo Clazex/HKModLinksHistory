@@ -6033,6 +6033,26 @@
       "Phenomenol"
     ]
   },
+  "Input Display": {
+    "description": "Shows an input display in the bottom right corner. Compatible with both controller and mouse/keyboard.",
+    "version": "1.0.0.0",
+    "links": {
+      "type": "universal",
+      "sha256": "98883D82405F6148FA0F7C0097BBABDFE83861E2A1224431527BF08BD905F402",
+      "url": "https://github.com/hoverAdev/HollowKnight.InputDisplay/releases/download/1.0.0/InputDisplay.zip"
+    },
+    "dependencies": [
+      "MagicUI"
+    ],
+    "repository": "https://github.com/hoverAdev/HollowKnight.InputDisplay",
+    "issues": "https://github.com/hoverAdev/HollowKnight.InputDisplay/issues",
+    "tags": [
+      "Utility"
+    ],
+    "authors": [
+      "hoverAdev"
+    ]
+  },
   "Inputs Recheck": {
     "description": "Rechecks for the held buttons on any Knight state change, so the action is triggered even if the button was pushed down before it was available, if the button is still held down. Based on Input Buffers mod by Phenomenol, but with completely different logic.",
     "version": "1.0.0.0",
