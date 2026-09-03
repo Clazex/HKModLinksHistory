@@ -13,13 +13,6 @@
 - Tags
   + Utility
 
-### HalallowKnight
-
-- Description: Rewords the game&#x27;s religious and supernatural framing - gods, worship, magic, souls, charms, dreams and the dead - into neutral alternatives. Text only: no gameplay, scenes or game files are touched.
-- Tags
-  + Cosmetic
-  + LLM-Assisted
-
 ### HallownestWayfinder
 
 - Description: An in-game route guide and navigation assistant with guided 112%, five-hour speedrun and save-completion routes, a progress checklist, and save-aware pathfinding.
@@ -76,6 +69,10 @@
 - Integrations
   + Added
     - ConnectionSettingsRando
+
+### ReplayLogger
+
+- Version: 1.1.0.4 -> 1.1.0.6
 
 ### Scattered and Lost
 

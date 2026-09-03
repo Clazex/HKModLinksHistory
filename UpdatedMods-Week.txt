@@ -9,3 +9,4 @@ Architect
 Architect
 ArchitectLegacy
 DecorationMaster
+ReplayLogger

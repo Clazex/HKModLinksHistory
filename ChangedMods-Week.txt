@@ -1,4 +1,3 @@
-HalallowKnight
 ArchitectLegacy
 BugPrince
 DecorationMaster
@@ -14,3 +13,4 @@ Architect
 ArchitectLegacy
 DecorationMaster
 Input Display
+ReplayLogger

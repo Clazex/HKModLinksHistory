@@ -63,3 +63,4 @@ Architect
 ArchitectLegacy
 DecorationMaster
 Input Display
+ReplayLogger
