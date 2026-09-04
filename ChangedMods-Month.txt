@@ -1,6 +1,3 @@
-Architect
-ConnectionSettingsRando
-HKBattle
 AccessRandomizer
 AlphabetRando
 Breakable Wall Randomizer

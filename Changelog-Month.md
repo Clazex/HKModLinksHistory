@@ -3,15 +3,6 @@
 
 ## New mods
 
-### ConnectionSettingsRando
-
-- Description: A Hollow Knight rando addon for Hollow Knight rando addons.
-- Dependencies
-  + MenuChanger
-  + Randomizer 4
-- Tags
-  + Gameplay
-
 ### GlobalList Atlas
 
 - Description: Connects to the community&#x27;s global spreadsheet archive of fan-made rated maps. Browse and filter maps by editor, tags, rating and verification status, then download, install, and launch them directly from an in-game menu — including required editors and public mods.
@@ -109,7 +100,7 @@
 
 ### Architect
 
-- Version: 3.32.4.1 -> 3.34.0.1
+- Version: 3.32.5.0 -> 3.34.0.1
 
 ### ArchitectLegacy
 
@@ -130,6 +121,10 @@
 ### CombatRandomizer
 
 - Version: 1.1.0.2 -> 1.1.1.1
+
+### ConnectionSettingsRando
+
+- Version: 1.0.0.0 -> 1.3.1.2
 
 ### CorpseDreamRando
 
@@ -174,10 +169,6 @@
 ### GodhomeRandomizer
 
 - Version: 2.2.4.11 -> 2.2.5.0
-
-### HKBattle
-
-- Version: 1.0.0.2 -> 1.0.0.3
 
 ### HarderAPSettings
 

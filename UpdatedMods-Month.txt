@@ -1,5 +1,3 @@
-Architect
-HKBattle
 AccessRandomizer
 AlphabetRando
 Breakable Wall Randomizer
