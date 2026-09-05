@@ -1,5 +1,7 @@
 Architect
-Architect
 ArchitectLegacy
 DecorationMaster
 ReplayLogger
+GodhomeRandomizer
+Grass Randomizer
+MoreStags

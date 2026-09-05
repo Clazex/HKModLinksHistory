@@ -87,17 +87,6 @@
 
 ## Updated mods
 
-### AccessRandomizer
-
-- Version: 1.4.1.0 -> 1.4.2.0
-
-### AlphabetRando
-
-- Version: 1.3.0.0 -> 1.3.1.0
-- Integrations
-  + Added
-    - ConnectionSettingsRando
-
 ### Architect
 
 - Version: 3.32.5.0 -> 3.34.0.1
@@ -105,10 +94,6 @@
 ### ArchitectLegacy
 
 - Version: 1.18.0.6 -> 1.19.0.1
-
-### Breakable Wall Randomizer
-
-- Version: 4.1.2.0 -> 4.1.3.0
 
 ### BugPrince
 
@@ -120,18 +105,11 @@
 
 ### CombatRandomizer
 
-- Version: 1.1.0.2 -> 1.1.1.1
+- Version: 1.1.1.0 -> 1.1.1.1
 
 ### ConnectionSettingsRando
 
 - Version: 1.0.0.0 -> 1.3.1.2
-
-### CorpseDreamRando
-
-- Version: 1.0.2.0 -> 1.0.3.0
-- Integrations
-  + Added
-    - ConnectionSettingsRando
 
 ### Curse Randomizer
 
@@ -153,22 +131,22 @@
 
 ### FlowerRandomizer
 
-- Version: 1.0.1.0 -> 1.0.2.1
+- Version: 1.0.2.0 -> 1.0.2.1
 
 ### Flukemaster
 
 - Version: 1.0.0.1 -> 1.0.0.2
 
-### GeoRando
+### GodhomeRandomizer
 
-- Version: 1.0.2.0 -> 1.0.3.0
+- Version: 2.2.5.0 -> 2.2.5.1
+
+### Grass Randomizer
+
+- Version: 1.1.2.1 -> 1.1.3.0
 - Integrations
   + Added
     - ConnectionSettingsRando
-
-### GodhomeRandomizer
-
-- Version: 2.2.4.11 -> 2.2.5.0
 
 ### HarderAPSettings
 
@@ -195,10 +173,7 @@
 
 ### MilliGolf
 
-- Version: 1.3.0.2 -> 1.3.1.1
-- Integrations
-  + Added
-    - ConnectionSettingsRando
+- Version: 1.3.1.0 -> 1.3.1.1
 
 ### MoreDoors
 
@@ -209,25 +184,11 @@
 
 ### MoreStags
 
-- Version: 1.1.1.1 -> 1.1.2.1
-- Integrations
-  + Added
-    - ConnectionSettingsRando
-
-### MurderRando
-
-- Version: 1.0.0.0 -> 1.0.1.0
+- Version: 1.1.2.0 -> 1.1.2.2
 
 ### PurenailCore
 
 - Version: 2.1.0.0 -> 2.1.1.0
-
-### RegretRecoveryRestoration
-
-- Version: 1.0.1.0 -> 1.0.2.0
-- Integrations
-  + Added
-    - ConnectionSettingsRando
 
 ### ReplayLogger
 
@@ -271,13 +232,6 @@
   + Added
     - ConnectionSettingsRando
 
-### TheRealTransitionRando
-
-- Version: 1.1.0.1 -> 1.1.1.0
-- Integrations
-  + Added
-    - ConnectionSettingsRando
-
 ### TreasureHunt
 
 - Version: 1.7.2.0 -> 1.7.3.0
@@ -292,19 +246,9 @@
 
 ### VendorRando
 
-- Version: 1.1.3.0 -> 1.1.4.1
-- Integrations
-  + Added
-    - ConnectionSettingsRando
+- Version: 1.1.4.0 -> 1.1.4.1
 
 ### VoiceToCrySuffering
 
 - Version: 1.0.0.1 -> 1.0.1.0
-
-### YetAnotherRandoConnection
-
-- Version: 1.3.0.0 -> 1.3.1.0
-- Integrations
-  + Added
-    - ConnectionSettingsRando
 

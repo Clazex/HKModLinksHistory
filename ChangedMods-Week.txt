@@ -1,8 +1,8 @@
 Architect
-HallownestWayfinder
-RadianceSkin
-Architect
 ArchitectLegacy
 DecorationMaster
 Input Display
 ReplayLogger
+GodhomeRandomizer
+Grass Randomizer
+MoreStags

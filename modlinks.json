@@ -4746,11 +4746,11 @@
   },
   "GodhomeRandomizer": {
     "description": "A Randomizer add-on for Godhome elements.",
-    "version": "2.2.5.0",
+    "version": "2.2.5.1",
     "links": {
       "type": "universal",
-      "sha256": "9BF7E487F6F160008F0A9731E5C1F428972596405B88ACFD0350F03EFFD9D166",
-      "url": "https://github.com/nerthul11/GodhomeRandomizer/releases/download/2.2.5.0/GodhomeRandomizer.zip"
+      "sha256": "E043B6DCABEFCE9702E79B09F25EA846076AAD92DAE7FA8FA918317FA37EE5F9",
+      "url": "https://github.com/nerthul11/GodhomeRandomizer/releases/download/2.2.5.1/GodhomeRandomizer.zip"
     },
     "dependencies": [
       "ItemChanger",
@@ -4839,19 +4839,20 @@
   },
   "Grass Randomizer": {
     "description": "Randomizer 4 connection that adds grass to the pool of randomized items and locations.",
-    "version": "1.1.2.1",
+    "version": "1.1.3.0",
     "links": {
       "type": "universal",
-      "sha256": "1CBEE53610A872BE04AE55D74A91D68027D5592F849506BC62C3D85C5A2FC18B",
-      "url": "https://github.com/ManicJamie/HollowKnightGrassRando/releases/download/v1.1.2.1/GrassRandoV2.zip"
+      "sha256": "9A327BDAC3C76AF5D9307136990EE26AFEC4BF0D28880CBF3F3EE8D17168A267",
+      "url": "https://github.com/ManicJamie/HollowKnightGrassRando/releases/download/v1.1.3.0/GrassRandoV2.zip"
     },
     "dependencies": [
       "GrassCore",
       "Randomizer 4"
     ],
-    "repository": "https://github.com/ManicJamie/HollowKnightGrassRando",
-    "issues": "https://github.com/ManicJamie/HollowKnightGrassRando/issues",
+    "repository": "https://github.com/ManicJamie/HollowKnight.GrassRando",
+    "issues": "https://github.com/ManicJamie/HollowKnight.GrassRando/issues",
     "integrations": [
+      "ConnectionSettingsRando",
       "RandoSettingsManager"
     ],
     "tags": [
@@ -7496,11 +7497,11 @@
   },
   "MoreStags": {
     "description": "A Randomizer connection which adds new stag stations",
-    "version": "1.1.2.1",
+    "version": "1.1.2.2",
     "links": {
       "type": "universal",
-      "sha256": "29E972F82FCF017BEF56D2E8F0A09C67C4C4E5B4661B74D947BFF81424A21D24",
-      "url": "https://github.com/TheMathGeek314/MoreStags/releases/download/v1.1.2.1/MoreStags.zip"
+      "sha256": "B02AC56A41C66EB586015B01E7FDA50C55DECF14A709A327FC4356D476C3F753",
+      "url": "https://github.com/TheMathGeek314/MoreStags/releases/download/v1.1.2.2/MoreStags.zip"
     },
     "dependencies": [
       "AlreadyEnoughPlayMaker",
