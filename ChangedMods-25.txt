@@ -1,5 +1,0 @@
-ConnectionSettingsRando
-FlowerRandomizer
-Mana Refill Helper
-VendorRando
-Withered Foxy 1 in 10000

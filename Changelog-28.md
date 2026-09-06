@@ -3,7 +3,7 @@
 
 ## Updated mods
 
-### Architect
+### Smart Nail
 
-- Version: 3.32.5.0 -> 3.32.5.1
+- Version: 1.3.5.5 -> 1.3.6.0
 

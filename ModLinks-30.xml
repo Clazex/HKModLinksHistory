@@ -8051,9 +8051,9 @@ Enjoy!</Description>
     <Manifest>
         <Name>LoreCore</Name>
         <Description>Adds a bunch of lore related Item Changer locations and items.</Description>
-        <Version>0.7.1.0</Version>
-        <Link SHA256="ad6aad338ee9c3677377daf17334bf4d2a6a1457343cf97c9dde9d64ed5715e0">
-            <![CDATA[https://github.com/Korzer420/LoreCore/releases/download/v0.7.1/LoreCore.zip]]></Link>
+        <Version>0.7.2.0</Version>
+        <Link SHA256="e68327db4e7fd4a2cf2f8a53cfc9d0b4b4bc0401c7f0a4719769b051f8ad53ab">
+            <![CDATA[https://github.com/Korzer420/LoreCore/releases/download/v0.7.2/LoreCore.zip]]></Link>
         <Dependencies>
             <Dependency>ItemChanger</Dependency>
             <Dependency>KorzUtils</Dependency>
@@ -8071,9 +8071,9 @@ Enjoy!</Description>
     <Manifest>
         <Name>Lore Randomizer</Name>
         <Description>Randomizer 4 connection that adds a bunch of lore related items and locations.</Description>
-        <Version>0.4.2.0</Version>
-        <Link SHA256="219d69221dc5dd6bef72c54cbd4fcd97a9035e830db8d1e506d51606769e35e8">
-            <![CDATA[https://github.com/Korzer420/LoreRandomizer/releases/download/v0.4.2/LoreRandomizer.zip]]></Link>
+        <Version>0.4.3.0</Version>
+        <Link SHA256="944f072adc4888849c4ec65a98cb3631f2795061506b979eeb87383027a6cf65">
+            <![CDATA[https://github.com/Korzer420/LoreRandomizer/releases/download/v0.4.3/LoreRandomizer.zip]]></Link>
         <Dependencies>
             <Dependency>Randomizer 4</Dependency>
             <Dependency>LoreCore</Dependency>
@@ -8220,9 +8220,9 @@ Enjoy!</Description>
     <Manifest>
         <Name>DarknessRandomizer</Name>
         <Description>A Rando 4 connection to randomize the dark corners of Hallownest.</Description>
-        <Version>1.5.1.0</Version>
-        <Link SHA256="23fd3709688eb88803d0e98761eafe0551f69ff9c7445a177faec8792d2bfbae">
-            <![CDATA[https://github.com/dplochcoder/HollowKnight.DarknessRandomizer/releases/download/v1.5.1.0/DarknessRandomizer.zip]]>
+        <Version>1.5.2.0</Version>
+        <Link SHA256="cb39db950dfb7760511cf88a9c06fa2329e43339e18353656ca37e308c7f4c5a">
+            <![CDATA[https://github.com/dplochcoder/HollowKnight.DarknessRandomizer/releases/download/v1.5.2.0/DarknessRandomizer.zip]]>
         </Link>
         <Dependencies>
             <Dependency>ItemChanger</Dependency>
@@ -8235,6 +8235,7 @@ Enjoy!</Description>
             <![CDATA[https://github.com/dplochcoder/HollowKnight.DarknessRandomizer]]>
         </Repository>
         <Integrations>
+            <Integration>ConnectionSettingsRando</Integration>
             <Integration>Randomizer 4</Integration>
             <Integration>RandoPlus</Integration>
         </Integrations>
@@ -8268,9 +8269,9 @@ Enjoy!</Description>
     <Manifest>
         <Name>Knight of Nights</Name>
         <Description>A mod for the Holloween 2025 plando, with some rando integration.</Description>
-        <Version>2.0.6.0</Version>
-        <Link SHA256="84c3535e55017d9299d01e6884510572cc2a38817abcd88b981aff7c522659da">
-            <![CDATA[https://github.com/dplochcoder/HollowKnight.KnightOfNights/releases/download/v2.0.6.0/KnightOfNights.zip]]>
+        <Version>2.0.7.0</Version>
+        <Link SHA256="4c1aa8b22b4b8b62d4123b67d8ebee9a32bc62544d154f21ecfee6309496c61d">
+            <![CDATA[https://github.com/dplochcoder/HollowKnight.KnightOfNights/releases/download/v2.0.7.0/KnightOfNights.zip]]>
         </Link>
         <Dependencies>
             <Dependency>Benchwarp</Dependency>
@@ -8286,6 +8287,7 @@ Enjoy!</Description>
             <![CDATA[https://github.com/dplochcoder/HollowKnight.KnightOfNights]]>
         </Repository>
         <Integrations>
+            <Integration>ConnectionSettingsRando</Integration>
             <Integration>Randomizer 4</Integration>
             <Integration>RandoSettingsManager</Integration>
         </Integrations>
@@ -9696,9 +9698,9 @@ Enjoy!</Description>
     <Manifest>
         <Name>CombatRandomizer</Name>
         <Description>A Randomizer add-on for a cursed combat experience.</Description>
-        <Version>1.1.1.0</Version>
-        <Link SHA256="9C401F02F18C9452B472134ECE757EE1F31F54B7F8A6BC8F1C905F8A5FBA2FB4">
-            <![CDATA[https://github.com/nerthul11/CombatRandomizer/releases/download/1.1.1.0/CombatRandomizer.zip]]>
+        <Version>1.1.1.1</Version>
+        <Link SHA256="017CAD6B138488A15ABAA8FD75BAC775820250A82C9AA7DD2B212C471F9C9E71">
+            <![CDATA[https://github.com/nerthul11/CombatRandomizer/releases/download/1.1.1.1/CombatRandomizer.zip]]>
         </Link>
         <Dependencies>
             <Dependency>ItemChanger</Dependency>
@@ -9998,9 +10000,9 @@ Enjoy!</Description>
     <Manifest>
         <Name>ConnectionSettingsRando</Name>
         <Description>A Hollow Knight rando addon for Hollow Knight rando addons.</Description>
-        <Version>1.0.0.0</Version>
-        <Link SHA256="9E3249B9C5927030A06A2542AA310298FA8DFED4B7F1336F47AFAC976A541FC0">
-            <![CDATA[https://github.com/nerthul11/ConnectionSettingsRando/releases/download/1.0.0.0/ConnectionSettingsRando.zip]]>
+        <Version>1.1.0.0</Version>
+        <Link SHA256="2CB067A503F06CE014C91B106000B8349BB3C0BE4D4DB23F5365FC5092722C06">
+            <![CDATA[https://github.com/nerthul11/ConnectionSettingsRando/releases/download/1.1.0.0/ConnectionSettingsRando.zip]]>
         </Link>
         <Dependencies>
             <Dependency>MenuChanger</Dependency>
