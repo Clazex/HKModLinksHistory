@@ -508,11 +508,11 @@
   },
   "Architect": {
     "description": "A Hollow Knight level editor mod, easily make and share custom levels with an in-game level editor and level sharer.",
-    "version": "3.34.0.1",
+    "version": "3.34.1.0",
     "links": {
       "type": "universal",
-      "sha256": "4A185A715649FA0726F98E37365E7666159FD3205EEF7A42982E530E67562E6C",
-      "url": "https://github.com/cometcake575/Architect-HK/releases/download/3.34.0.1/Architect.zip"
+      "sha256": "FBD93AA6A0D610E11B2B1AD8F04AB6C891CDBA8AA8EE0FE4E5072467561890DF",
+      "url": "https://github.com/cometcake575/Architect-HK/releases/download/3.34.1.0/Architect.zip"
     },
     "dependencies": [
       "FsmMaster",
@@ -1201,11 +1201,11 @@
   },
   "Breakable Wall Randomizer": {
     "description": "A Hollow Knight Randomizer add-on for breakable walls.",
-    "version": "4.1.3.0",
+    "version": "4.1.4.0",
     "links": {
       "type": "universal",
-      "sha256": "7C1C4A82B48627A1687FAFC27BDBC15C6A3FCCEF93BDD5A0C543985CF91D4BDD",
-      "url": "https://github.com/nerthul11/BreakableWallRandomizer/releases/download/4.1.3.0/BreakableWallRandomizer.zip"
+      "sha256": "E6CA0ECA41F545C0B15658A469894F8040C9BA3DF882E8CEA55F8513E806F678",
+      "url": "https://github.com/nerthul11/BreakableWallRandomizer/releases/download/4.1.4.0/BreakableWallRandomizer.zip"
     },
     "dependencies": [
       "Randomizer 4",
@@ -6439,6 +6439,32 @@
     ],
     "authors": [
       "Wangha"
+    ]
+  },
+  "LegacyRando": {
+    "description": "A Randomizer connection for old removed objects",
+    "version": "1.0.0.0",
+    "links": {
+      "type": "universal",
+      "sha256": "D45FCD1D31A6F060BEFD30D15B54326EFDA40F59E6F6E89B770A0E3C41DA956A",
+      "url": "https://github.com/TheMathGeek314/LegacyRando/releases/download/v1.0.0.0/LegacyRando.zip"
+    },
+    "dependencies": [
+      "ItemChanger",
+      "MenuChanger",
+      "Randomizer 4",
+      "RandomizerCore",
+      "RandomizerCore.Json"
+    ],
+    "repository": "https://github.com/TheMathGeek314/LegacyRando/",
+    "integrations": [
+      "CondensedSpoilerLogger",
+      "ConnectionSettingsRando",
+      "RandoSettingsManager"
+    ],
+    "authors": [
+      "TheMathGeek_314",
+      "nerthul11"
     ]
   },
   "Lego Power Bricks": {

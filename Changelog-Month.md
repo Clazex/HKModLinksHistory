@@ -45,6 +45,20 @@
 - Tags
   + Utility
 
+### LegacyRando
+
+- Description: A Randomizer connection for old removed objects
+- Dependencies
+  + ItemChanger
+  + MenuChanger
+  + Randomizer 4
+  + RandomizerCore
+  + RandomizerCore.Json
+- Integrations
+  + CondensedSpoilerLogger
+  + ConnectionSettingsRando
+  + RandoSettingsManager
+
 ### Mana Refill Helper
 
 - Description: Refills player&#x27;s Soul on save/respawn. Great for LHT and Hitless Platforming
@@ -89,11 +103,15 @@
 
 ### Architect
 
-- Version: 3.32.5.0 -> 3.34.0.1
+- Version: 3.32.5.1 -> 3.34.1.0
 
 ### ArchitectLegacy
 
 - Version: 1.18.0.6 -> 1.19.0.1
+
+### Breakable Wall Randomizer
+
+- Version: 4.1.3.0 -> 4.1.4.0
 
 ### BugPrince
 

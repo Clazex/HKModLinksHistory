@@ -2,3 +2,5 @@ ReplayLogger
 GodhomeRandomizer
 Grass Randomizer
 MoreStags
+Architect
+Breakable Wall Randomizer
