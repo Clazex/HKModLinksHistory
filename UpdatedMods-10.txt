@@ -1,7 +1,1 @@
-ArchitectLegacy
-BugPrince
-DecorationMaster
-MoreDoors
-Scattered and Lost
-SpicyRando
-TreasureHunt
+Architect

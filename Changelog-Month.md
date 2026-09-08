@@ -213,10 +213,6 @@
     - Randomizer 4
     - SFCore
 
-### Smart Nail
-
-- Version: 1.3.5.5 -> 1.3.6.0
-
 ### SpicyRando
 
 - Version: 2.1.1.0 -> 2.1.2.0

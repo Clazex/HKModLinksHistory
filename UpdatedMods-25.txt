@@ -1,1 +1,2 @@
-Architect
+Curse Randomizer
+HarderAPSettings
