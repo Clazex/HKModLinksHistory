@@ -1,7 +1,9 @@
-ReplayLogger
 GodhomeRandomizer
 Grass Randomizer
 MoreStags
 Architect
 Breakable Wall Randomizer
 LegacyRando
+Architect
+Instawings Helper
+SOCD Cleaner

@@ -1,4 +1,3 @@
-PurenailCore
 ConnectionSettingsRando
 FlowerRandomizer
 VendorRando
@@ -34,3 +33,4 @@ Grass Randomizer
 MoreStags
 Architect
 Breakable Wall Randomizer
+Architect

@@ -3,6 +3,14 @@
 
 ## New mods
 
+### Instawings Helper
+
+- Description: Assign a spare key to fully imitate one of your existing binds. 3 bindable pairs. Helpful for instawings!
+- Dependencies
+  + Satchel
+- Tags
+  + Utility
+
 ### LegacyRando
 
 - Description: A Randomizer connection for old removed objects
@@ -17,12 +25,20 @@
   + ConnectionSettingsRando
   + RandoSettingsManager
 
+### SOCD Cleaner
+
+- Description: Simultaneous Opposite Cardinal Directions
+- Dependencies
+  + Satchel
+- Tags
+  + Utility
+
 
 ## Updated mods
 
 ### Architect
 
-- Version: 3.34.0.1 -> 3.34.1.0
+- Version: 3.34.0.1 -> 3.35.0.0
 
 ### Breakable Wall Randomizer
 
@@ -42,8 +58,4 @@
 ### MoreStags
 
 - Version: 1.1.2.1 -> 1.1.2.2
-
-### ReplayLogger
-
-- Version: 1.1.0.4 -> 1.1.0.6
 

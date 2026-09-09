@@ -1,4 +1,3 @@
-PurenailCore
 ConnectionSettingsRando
 FlowerRandomizer
 Mana Refill Helper
@@ -44,3 +43,6 @@ MoreStags
 Architect
 Breakable Wall Randomizer
 LegacyRando
+Architect
+Instawings Helper
+SOCD Cleaner

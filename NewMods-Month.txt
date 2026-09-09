@@ -8,3 +8,5 @@ HallownestWayfinder
 RadianceSkin
 Input Display
 LegacyRando
+Instawings Helper
+SOCD Cleaner

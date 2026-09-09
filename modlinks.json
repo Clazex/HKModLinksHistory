@@ -508,11 +508,11 @@
   },
   "Architect": {
     "description": "A Hollow Knight level editor mod, easily make and share custom levels with an in-game level editor and level sharer.",
-    "version": "3.34.1.0",
+    "version": "3.35.0.0",
     "links": {
       "type": "universal",
-      "sha256": "FBD93AA6A0D610E11B2B1AD8F04AB6C891CDBA8AA8EE0FE4E5072467561890DF",
-      "url": "https://github.com/cometcake575/Architect-HK/releases/download/3.34.1.0/Architect.zip"
+      "sha256": "AD473AE2B6621D8053F56CFD3EEC7A881E643AD1208064B63D554170B8F02E87",
+      "url": "https://github.com/cometcake575/Architect-HK/releases/download/3.35.0.0/Architect.zip"
     },
     "dependencies": [
       "FsmMaster",
@@ -6073,6 +6073,25 @@
       "Chamie"
     ]
   },
+  "Instawings Helper": {
+    "description": "Assign a spare key to fully imitate one of your existing binds. 3 bindable pairs. Helpful for instawings!",
+    "version": "1.0.0.0",
+    "links": {
+      "type": "universal",
+      "sha256": "306F1A0434D30AFE8CDA2F822A205B7128225E8B64F22B3D6445B3DDB77820C4",
+      "url": "https://github.com/Ishmael-GameDev/Instawings-Helper/releases/download/v1/Instawings_Helper.dll"
+    },
+    "dependencies": [
+      "Satchel"
+    ],
+    "repository": "https://github.com/Ishmael-GameDev/Instawings-Helper",
+    "tags": [
+      "Utility"
+    ],
+    "authors": [
+      "Ishmael"
+    ]
+  },
   "IntangibleShadow": {
     "description": "Shade Cloak can go through just about anything",
     "version": "1.0.0.0",
@@ -9937,6 +9956,25 @@
       "Dandy",
       "SFGrenade",
       "dplochcoder"
+    ]
+  },
+  "SOCD Cleaner": {
+    "description": "Simultaneous Opposite Cardinal Directions",
+    "version": "1.0.0.0",
+    "links": {
+      "type": "universal",
+      "sha256": "A6971AE2F0225F86D4F7E7D90254593BEA72F27903A6CD1D5A1DE992D1FD75B8",
+      "url": "https://github.com/Ishmael-GameDev/SOCD-Cleaner/releases/download/v1/SOCD_Cleaner.dll"
+    },
+    "dependencies": [
+      "Satchel"
+    ],
+    "repository": "https://github.com/Ishmael-GameDev/SOCD-Cleaner",
+    "tags": [
+      "Utility"
+    ],
+    "authors": [
+      "Ishmael"
     ]
   },
   "STFUGrimmChild": {

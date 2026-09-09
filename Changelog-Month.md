@@ -45,6 +45,14 @@
 - Tags
   + Utility
 
+### Instawings Helper
+
+- Description: Assign a spare key to fully imitate one of your existing binds. 3 bindable pairs. Helpful for instawings!
+- Dependencies
+  + Satchel
+- Tags
+  + Utility
+
 ### LegacyRando
 
 - Description: A Randomizer connection for old removed objects
@@ -76,6 +84,14 @@
 - Tags
   + Cosmetic
 
+### SOCD Cleaner
+
+- Description: Simultaneous Opposite Cardinal Directions
+- Dependencies
+  + Satchel
+- Tags
+  + Utility
+
 ### Teleport Master
 
 - Description: Highlights rooms tracked by DecorationMaster/Architect and teleport there instantly, supports Full Map mode, and plays nicely with Additional Maps.
@@ -103,7 +119,7 @@
 
 ### Architect
 
-- Version: 3.32.5.1 -> 3.34.1.0
+- Version: 3.32.5.1 -> 3.35.0.0
 
 ### ArchitectLegacy
 
@@ -177,10 +193,6 @@
 ### MoreStags
 
 - Version: 1.1.2.0 -> 1.1.2.2
-
-### PurenailCore
-
-- Version: 2.1.0.0 -> 2.1.1.0
 
 ### ReplayLogger
 

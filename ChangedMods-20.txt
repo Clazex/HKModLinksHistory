@@ -1,9 +1,0 @@
-Architect
-Flukemaster
-MidasTouch
-MilliGolf
-RespawnPoint Manager
-ShuffledCharmEffects
-UnconstrainedRotation
-UnlimitedHiveblood
-VoiceToCrySuffering
