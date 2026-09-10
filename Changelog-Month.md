@@ -67,14 +67,6 @@
   + ConnectionSettingsRando
   + RandoSettingsManager
 
-### Mana Refill Helper
-
-- Description: Refills player&#x27;s Soul on save/respawn. Great for LHT and Hitless Platforming
-- Dependencies
-  + Satchel
-- Tags
-  + Utility
-
 ### RadianceSkin
 
 - Description: A mod that customizes Absolute Radiance with selectable skins, music, visual effects, backgrounds, and animations.
@@ -107,13 +99,6 @@
 - Tags
   + Utility
 
-### Withered Foxy 1 in 10000
-
-- Description: Inspired by the Terraria mod 1 in 10000 Chance for Withered Foxy Jumpscare
-- Tags
-  + Cosmetic
-  + Joke
-
 
 ## Updated mods
 
@@ -139,7 +124,7 @@
 
 ### ConnectionSettingsRando
 
-- Version: 1.1.0.0 -> 1.3.1.2
+- Version: 1.2.0.0 -> 1.3.1.2
 
 ### Curse Randomizer
 
@@ -151,10 +136,6 @@
 - Description
   + Old: A mod for making area harder by adding spike and saw
   + New: An older level editor for Hollow Knight used for platforming maps
-
-### FlowerRandomizer
-
-- Version: 1.0.2.0 -> 1.0.2.1
 
 ### Flukemaster
 
@@ -243,10 +224,6 @@
 ### UnlimitedHiveblood
 
 - Version: 1.0.0.2 -> 1.0.0.3
-
-### VendorRando
-
-- Version: 1.1.4.0 -> 1.1.4.1
 
 ### VoiceToCrySuffering
 

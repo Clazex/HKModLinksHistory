@@ -1466,8 +1466,8 @@ Not recommended for use in new mods.</Description>
     <Manifest>
         <Name>MoreStags</Name>
         <Description>A Randomizer connection which adds new stag stations</Description>
-        <Version>1.1.2.0</Version>
-        <Link SHA256="C8949FC69C24B4FA651372A437EBD32B8BDDADE0C0D4264A5781BDE4B6EE09F8"><![CDATA[https://github.com/TheMathGeek314/MoreStags/releases/download/v1.1.2.0/MoreStags.zip]]></Link>
+        <Version>1.1.2.1</Version>
+        <Link SHA256="29E972F82FCF017BEF56D2E8F0A09C67C4C4E5B4661B74D947BFF81424A21D24"><![CDATA[https://github.com/TheMathGeek314/MoreStags/releases/download/v1.1.2.1/MoreStags.zip]]></Link>
         <Dependencies>
             <Dependency>AlreadyEnoughPlayMaker</Dependency>
             <Dependency>ItemChanger</Dependency>
@@ -12855,6 +12855,34 @@ Enjoy!</Description>
         </Tags>
         <Authors>
             <Author>Nitefury</Author>
+        </Authors>
+    </Manifest>
+    <Manifest>
+        <Name>Teleport Master</Name>
+        <Description>Highlights rooms tracked by DecorationMaster/Architect and teleport there instantly, supports Full Map mode, and plays nicely with Additional Maps. </Description>
+        <Version>1.0.0.0</Version>
+        <Link SHA256="d79ecf1f55b55a95d8d5c1e4385b4dd6233669a9e5be52225c231742e7eec35b">
+            <![CDATA[https://github.com/Ishmael-GameDev/Teleport-Master/releases/download/v1/TeleportMaster.dll]]>
+        </Link>
+        <Dependencies>
+            <Dependency>MapChanger</Dependency>
+            <Dependency>AdditionalMaps</Dependency>
+            <Dependency>CompassAlwaysOn</Dependency>
+            <Dependency>Fast Travel</Dependency>
+        </Dependencies>
+        <Repository>
+            <![CDATA[https://github.com/Ishmael-GameDev/Teleport-Master]]>
+        </Repository>
+        <Integrations>
+            <Integration>DecorationMaster</Integration>
+            <Integration>ArchitectLegacy</Integration>
+            <Integration>Architect</Integration>
+        </Integrations>
+        <Tags>
+            <Tag>Utility</Tag>
+        </Tags>
+        <Authors>
+            <Author>Ishmael</Author>
         </Authors>
     </Manifest>
 </ModLinks>
