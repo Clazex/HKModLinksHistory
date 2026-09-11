@@ -44,18 +44,11 @@
 
 - Version: 4.1.3.0 -> 4.1.4.0
 
-### GodhomeRandomizer
+### Knight of Nights
 
-- Version: 2.2.5.0 -> 2.2.5.1
+- Version: 2.0.7.0 -> 2.0.8.0
 
-### Grass Randomizer
+### MoreDoors
 
-- Version: 1.1.2.1 -> 1.1.3.0
-- Integrations
-  + Added
-    - ConnectionSettingsRando
-
-### MoreStags
-
-- Version: 1.1.2.1 -> 1.1.2.2
+- Version: 3.4.1.0 -> 3.4.2.0
 

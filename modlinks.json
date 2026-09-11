@@ -6321,11 +6321,11 @@
   },
   "Knight of Nights": {
     "description": "A mod for the Holloween 2025 plando, with some rando integration.",
-    "version": "2.0.7.0",
+    "version": "2.0.8.0",
     "links": {
       "type": "universal",
-      "sha256": "4C1AA8B22B4B8B62D4123B67D8EBEE9A32BC62544D154F21ECFEE6309496C61D",
-      "url": "https://github.com/dplochcoder/HollowKnight.KnightOfNights/releases/download/v2.0.7.0/KnightOfNights.zip"
+      "sha256": "F746E29206287D06F39B42F2BB4C29F2721E698D8C69285F36491967C61DFEEB",
+      "url": "https://github.com/dplochcoder/HollowKnight.KnightOfNights/releases/download/v2.0.8.0/KnightOfNights.zip"
     },
     "dependencies": [
       "Benchwarp",
@@ -7390,11 +7390,11 @@
   },
   "MoreDoors": {
     "description": "A Rando 4 connection which adds more locked doors to Hallownest.",
-    "version": "3.4.1.0",
+    "version": "3.4.2.0",
     "links": {
       "type": "universal",
-      "sha256": "8AEE6FE43DA4F13ED9BBC77F423F55A90175489F336BB5E207240E4F4B7A708E",
-      "url": "https://github.com/dplochcoder/HollowKnight.MoreDoors/releases/download/v3.4.1.0/MoreDoors.zip"
+      "sha256": "26D3D861B39D04BDB5E324A5859CC82F0D6C41522E85D762AD0C844117F17A0E",
+      "url": "https://github.com/dplochcoder/HollowKnight.MoreDoors/releases/download/v3.4.2.0/MoreDoors.zip"
     },
     "dependencies": [
       "ItemChanger",

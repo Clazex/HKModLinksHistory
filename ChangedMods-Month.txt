@@ -41,3 +41,5 @@ LegacyRando
 Architect
 Instawings Helper
 SOCD Cleaner
+Knight of Nights
+MoreDoors
