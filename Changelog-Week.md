@@ -52,3 +52,7 @@
 
 - Version: 3.4.1.0 -> 3.4.2.0
 
+### Scattered and Lost
+
+- Version: 1.6.5.0 -> 1.6.6.0
+

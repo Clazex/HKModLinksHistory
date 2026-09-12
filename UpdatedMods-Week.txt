@@ -3,3 +3,4 @@ Breakable Wall Randomizer
 Architect
 Knight of Nights
 MoreDoors
+Scattered and Lost

@@ -104,7 +104,7 @@
 
 ### Architect
 
-- Version: 3.32.5.1 -> 3.35.0.0
+- Version: 3.32.5.2 -> 3.35.0.0
 
 ### ArchitectLegacy
 
@@ -197,7 +197,7 @@
 
 ### Scattered and Lost
 
-- Version: 1.6.4.0 -> 1.6.5.0
+- Version: 1.6.4.0 -> 1.6.6.0
 - Integrations
   + Added
     - ConnectionSettingsRando
