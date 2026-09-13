@@ -126,10 +126,6 @@
 
 - Version: 1.2.0.0 -> 1.3.1.2
 
-### Curse Randomizer
-
-- Version: 5.1.6.0 -> 6.0.0.0
-
 ### DecorationMaster
 
 - Version: 1.0.1.0 -> 1.0.1.2
@@ -151,10 +147,6 @@
 - Integrations
   + Added
     - ConnectionSettingsRando
-
-### HarderAPSettings
-
-- Version: 1.1.0.1 -> 1.2.0.0
 
 ### Knight of Nights
 

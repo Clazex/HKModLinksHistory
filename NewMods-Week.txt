@@ -1,3 +1,2 @@
-LegacyRando
 Instawings Helper
 SOCD Cleaner
