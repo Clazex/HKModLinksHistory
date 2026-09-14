@@ -8,3 +8,4 @@ Input Display
 LegacyRando
 Instawings Helper
 SOCD Cleaner
+GeoOverHud

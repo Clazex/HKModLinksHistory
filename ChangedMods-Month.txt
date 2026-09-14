@@ -41,3 +41,7 @@ SOCD Cleaner
 Knight of Nights
 MoreDoors
 Scattered and Lost
+GeoOverHud
+Noclip Accuracy
+RespawnPoint Manager
+Spell Counter

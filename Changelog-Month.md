@@ -3,6 +3,10 @@
 
 ## New mods
 
+### GeoOverHud
+
+- Description: A small mod to tweak the HUD rendering order
+
 ### GlobalList Atlas
 
 - Description: Connects to the community&#x27;s global spreadsheet archive of fan-made rated maps. Browse and filter maps by editor, tags, rating and verification status, then download, install, and launch them directly from an in-game menu — including required editors and public mods.
@@ -171,16 +175,23 @@
 
 - Version: 1.1.2.0 -> 1.1.2.2
 
+### Noclip Accuracy
+
+- Version: 1.0.0.0 -> 1.1.0.0
+
 ### ReplayLogger
 
 - Version: 1.1.0.4 -> 1.1.0.6
 
 ### RespawnPoint Manager
 
-- Version: 1.0.0.0 -> 1.2.0.0
+- Version: 1.0.0.0 -> 1.3.0.0
 - Description
   + Old: Spawnpoint manager that tracks, saves, and switches player checkpoints across scene with quick reset and custom spawn control
-  + New: Spawnpoint manager that tracks, saves, and switches player checkpoints across scenes with quick reset, preset system and custom spawn control
+  + New: Spawnpoint manager that tracks, saves, render and switches player checkpoints across scenes with quick reset, preset system and custom spawn control
+- Dependencies
+  + Removed
+    - MagicUI
 - Tags
   + Removed
     - Utility
@@ -201,6 +212,14 @@
   + Added
     - Randomizer 4
     - SFCore
+
+### Spell Counter
+
+- Version: 1.0.0.0 -> 1.1.0.0
+- Dependencies
+  + Removed
+    - MagicUI
+    - ModCommon
 
 ### SpicyRando
 
