@@ -27,6 +27,16 @@
   + Gameplay
   + Utility
 
+### HKMP.Timer
+
+- Description: Synchronized timer for Hollow Knight multiplayer through HKMP.
+- Dependencies
+  + HKMP
+  + Satchel
+- Tags
+  + Accessibility
+  + Utility
+
 ### HalallowKnight
 
 - Description: Rewords the game&#x27;s religious and supernatural framing - gods, worship, magic, souls, charms, dreams and the dead - into neutral alternatives. Text only: no gameplay, scenes or game files are touched.
@@ -71,6 +81,15 @@
   + ConnectionSettingsRando
   + RandoSettingsManager
 
+### OneShot PvP
+
+- Description: A fast-paced Hollow Knight PvP mod where players fight with 1 HP and limited spell casts.
+- Dependencies
+  + HKMP
+- Tags
+  + Gameplay
+  + Utility
+
 ### RadianceSkin
 
 - Description: A mod that customizes Absolute Radiance with selectable skins, music, visual effects, backgrounds, and animations.
@@ -108,7 +127,7 @@
 
 ### Architect
 
-- Version: 3.32.5.2 -> 3.35.0.0
+- Version: 3.32.5.2 -> 3.35.1.1
 
 ### ArchitectLegacy
 
@@ -154,7 +173,7 @@
 
 ### Knight of Nights
 
-- Version: 2.0.7.0 -> 2.0.8.0
+- Version: 2.0.7.0 -> 2.0.9.0
 
 ### MidasTouch
 
@@ -178,6 +197,13 @@
 ### Noclip Accuracy
 
 - Version: 1.0.0.0 -> 1.1.0.0
+
+### PlatformingQoL
+
+- Version: 1.2.0.0 -> 1.3.0.0
+- Description
+  + Old: Quality of life improvements for Hollow Knight platforming, including hitbox visualization and respawn animation skipping.
+  + New: Quality of life improvements for Hollow Knight platforming, including better hitbox visualization and respawn animation skipping.
 
 ### ReplayLogger
 

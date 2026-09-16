@@ -4,3 +4,6 @@ Scattered and Lost
 Noclip Accuracy
 RespawnPoint Manager
 Spell Counter
+Architect
+Knight of Nights
+PlatformingQoL

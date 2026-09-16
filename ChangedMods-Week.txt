@@ -5,3 +5,8 @@ GeoOverHud
 Noclip Accuracy
 RespawnPoint Manager
 Spell Counter
+Architect
+HKMP.Timer
+Knight of Nights
+OneShot PvP
+PlatformingQoL
