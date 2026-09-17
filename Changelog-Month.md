@@ -127,7 +127,7 @@
 
 ### Architect
 
-- Version: 3.32.5.2 -> 3.35.1.1
+- Version: 3.32.6.0 -> 3.35.1.1
 
 ### ArchitectLegacy
 
