@@ -1,12 +1,3 @@
-Architect
-Flukemaster
-MidasTouch
-MilliGolf
-RespawnPoint Manager
-ShuffledCharmEffects
-UnconstrainedRotation
-UnlimitedHiveblood
-VoiceToCrySuffering
 MoreStags
 ConnectionSettingsRando
 ArchitectLegacy
@@ -36,3 +27,4 @@ Spell Counter
 Architect
 Knight of Nights
 PlatformingQoL
+Architect

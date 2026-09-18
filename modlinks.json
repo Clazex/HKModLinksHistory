@@ -508,11 +508,11 @@
   },
   "Architect": {
     "description": "A Hollow Knight level editor mod, easily make and share custom levels with an in-game level editor and level sharer.",
-    "version": "3.35.1.1",
+    "version": "3.35.3.0",
     "links": {
       "type": "universal",
-      "sha256": "FDD2AD2A7EA61F12CF1FA8AFB75D0E220500B94CCE2BECDED2CFDFDD679F7051",
-      "url": "https://github.com/cometcake575/Architect-HK/releases/download/3.35.1.1/Architect.zip"
+      "sha256": "6205FDC0EE15A7E66AA8A8610222B21E4C7EBF58D2761425D1F85BABF552EC8C",
+      "url": "https://github.com/cometcake575/Architect-HK/releases/download/3.35.3.0/Architect.zip"
     },
     "dependencies": [
       "FsmMaster",
@@ -3851,6 +3851,24 @@
     ],
     "authors": [
       "Hien Ngo"
+    ]
+  },
+  "FasterAnimators": {
+    "description": "Increases the speed of Animator objects, making some hazards faster",
+    "version": "1.0.0.0",
+    "links": {
+      "type": "universal",
+      "sha256": "BD2319A2EE914D1A88D2B31DB29D29C93A71C6D2C84787BD0E93280ED0071A70",
+      "url": "https://github.com/cometcake575/FasterAnimators/releases/download/1.0.0.0/FasterAnimators.zip"
+    },
+    "dependencies": [],
+    "repository": "https://github.com/cometcake575/FasterAnimators",
+    "issues": "https://github.com/cometcake575/FasterAnimators/issues",
+    "tags": [
+      "Gameplay"
+    ],
+    "authors": [
+      "cometcake575"
     ]
   },
   "FasterIntroSkip": {

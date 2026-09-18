@@ -11,3 +11,4 @@ SOCD Cleaner
 GeoOverHud
 HKMP.Timer
 OneShot PvP
+FasterAnimators

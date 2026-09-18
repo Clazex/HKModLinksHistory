@@ -1,3 +1,4 @@
 GeoOverHud
 HKMP.Timer
 OneShot PvP
+FasterAnimators

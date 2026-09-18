@@ -1,4 +1,3 @@
-Scattered and Lost
 GeoOverHud
 Noclip Accuracy
 RespawnPoint Manager
@@ -8,3 +7,5 @@ HKMP.Timer
 Knight of Nights
 OneShot PvP
 PlatformingQoL
+Architect
+FasterAnimators

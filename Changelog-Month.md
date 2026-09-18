@@ -3,6 +3,12 @@
 
 ## New mods
 
+### FasterAnimators
+
+- Description: Increases the speed of Animator objects, making some hazards faster
+- Tags
+  + Gameplay
+
 ### GeoOverHud
 
 - Description: A small mod to tweak the HUD rendering order
@@ -127,7 +133,7 @@
 
 ### Architect
 
-- Version: 3.32.6.0 -> 3.35.1.1
+- Version: 3.32.7.1 -> 3.35.3.0
 
 ### ArchitectLegacy
 
@@ -156,10 +162,6 @@
   + Old: A mod for making area harder by adding spike and saw
   + New: An older level editor for Hollow Knight used for platforming maps
 
-### Flukemaster
-
-- Version: 1.0.0.1 -> 1.0.0.2
-
 ### GodhomeRandomizer
 
 - Version: 2.2.5.0 -> 2.2.5.1
@@ -174,14 +176,6 @@
 ### Knight of Nights
 
 - Version: 2.0.7.0 -> 2.0.9.0
-
-### MidasTouch
-
-- Version: 1.1.0.0 -> 1.1.0.1
-
-### MilliGolf
-
-- Version: 1.3.1.0 -> 1.3.1.1
 
 ### MoreDoors
 
@@ -211,18 +205,13 @@
 
 ### RespawnPoint Manager
 
-- Version: 1.0.0.0 -> 1.3.0.0
+- Version: 1.2.0.0 -> 1.3.0.0
 - Description
-  + Old: Spawnpoint manager that tracks, saves, and switches player checkpoints across scene with quick reset and custom spawn control
+  + Old: Spawnpoint manager that tracks, saves, and switches player checkpoints across scenes with quick reset, preset system and custom spawn control
   + New: Spawnpoint manager that tracks, saves, render and switches player checkpoints across scenes with quick reset, preset system and custom spawn control
 - Dependencies
   + Removed
     - MagicUI
-- Tags
-  + Removed
-    - Utility
-  + Added
-    - Gameplay
 
 ### Scattered and Lost
 
@@ -230,14 +219,6 @@
 - Integrations
   + Added
     - ConnectionSettingsRando
-
-### ShuffledCharmEffects
-
-- Version: 1.0.0.1 -> 1.1.0.0
-- Integrations
-  + Added
-    - Randomizer 4
-    - SFCore
 
 ### Spell Counter
 
@@ -257,16 +238,4 @@
 ### TreasureHunt
 
 - Version: 1.7.2.0 -> 1.7.3.0
-
-### UnconstrainedRotation
-
-- Version: 1.0.2.0 -> 1.1.0.0
-
-### UnlimitedHiveblood
-
-- Version: 1.0.0.2 -> 1.0.0.3
-
-### VoiceToCrySuffering
-
-- Version: 1.0.0.1 -> 1.0.1.0
 

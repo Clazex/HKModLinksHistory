@@ -3,6 +3,12 @@
 
 ## New mods
 
+### FasterAnimators
+
+- Description: Increases the speed of Animator objects, making some hazards faster
+- Tags
+  + Gameplay
+
 ### GeoOverHud
 
 - Description: A small mod to tweak the HUD rendering order
@@ -31,7 +37,7 @@
 
 ### Architect
 
-- Version: 3.35.0.0 -> 3.35.1.1
+- Version: 3.35.0.0 -> 3.35.3.0
 
 ### Knight of Nights
 
@@ -57,10 +63,6 @@
 - Dependencies
   + Removed
     - MagicUI
-
-### Scattered and Lost
-
-- Version: 1.6.5.0 -> 1.6.6.0
 
 ### Spell Counter
 
