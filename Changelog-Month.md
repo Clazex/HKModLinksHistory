@@ -186,7 +186,7 @@
 
 ### MoreStags
 
-- Version: 1.1.2.0 -> 1.1.2.2
+- Version: 1.1.2.0 -> 1.1.2.3
 
 ### Noclip Accuracy
 

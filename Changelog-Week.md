@@ -43,6 +43,10 @@
 
 - Version: 2.0.8.0 -> 2.0.9.0
 
+### MoreStags
+
+- Version: 1.1.2.2 -> 1.1.2.3
+
 ### Noclip Accuracy
 
 - Version: 1.0.0.0 -> 1.1.0.0
