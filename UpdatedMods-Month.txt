@@ -1,4 +1,3 @@
-MoreStags
 ConnectionSettingsRando
 ArchitectLegacy
 BugPrince
