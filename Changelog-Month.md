@@ -136,10 +136,6 @@
     - ConnectionSettingsRando
     - Randomizer 4
 
-### ConnectionSettingsRando
-
-- Version: 1.2.0.0 -> 1.3.1.2
-
 ### DecorationMaster
 
 - Version: 1.0.1.0 -> 1.0.1.2
