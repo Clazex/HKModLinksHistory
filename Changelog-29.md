@@ -3,13 +3,10 @@
 
 ## New mods
 
-### GodSeeker112
+### HalallowKnight
 
-- Description: Configures Godseeker Plus&#x27; Add Soul option to have customisable values for each boss
-- Dependencies
-  + GodSeekerPlus
-  + Satchel
+- Description: Rewords the game&#x27;s religious and supernatural framing - gods, worship, magic, souls, charms, dreams and the dead - into neutral alternatives. Text only: no gameplay, scenes or game files are touched.
 - Tags
-  + Gameplay
-  + Utility
+  + Cosmetic
+  + LLM-Assisted
 

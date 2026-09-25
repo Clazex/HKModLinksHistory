@@ -3,11 +3,7 @@
 
 ## Updated mods
 
-### Knight of Nights
+### Scattered and Lost
 
-- Version: 2.0.7.0 -> 2.0.8.0
-
-### MoreDoors
-
-- Version: 3.4.1.0 -> 3.4.2.0
+- Version: 1.6.5.0 -> 1.6.6.0
 

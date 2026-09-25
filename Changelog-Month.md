@@ -23,16 +23,6 @@
 - Tags
   + Utility
 
-### GodSeeker112
-
-- Description: Configures Godseeker Plus&#x27; Add Soul option to have customisable values for each boss
-- Dependencies
-  + GodSeekerPlus
-  + Satchel
-- Tags
-  + Gameplay
-  + Utility
-
 ### HKMP.Timer
 
 - Description: Synchronized timer for Hollow Knight multiplayer through HKMP.
