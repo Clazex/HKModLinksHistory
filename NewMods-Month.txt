@@ -1,4 +1,3 @@
-HalallowKnight
 GlobalList Atlas
 HallownestWayfinder
 RadianceSkin
