@@ -11044,9 +11044,9 @@ Enjoy!</Description>
     <Manifest>
         <Name>Architect</Name>
         <Description>A Hollow Knight level editor mod, easily make and share custom levels with an in-game level editor and level sharer.</Description>
-        <Version>3.32.7.1</Version>
-        <Link SHA256="dd6d79da6d92581c8932b84bdb6b93222d6abe5b1811916218746b4b2ec487b7">
-            <![CDATA[https://github.com/cometcake575/Architect-HK/releases/download/3.32.7.1/Architect.zip]]>
+        <Version>3.34.0.0</Version>
+        <Link SHA256="99d7f5d222ca6256c820d1dd34504da3e0991938b35cd026cf141c17afb29aa8">
+            <![CDATA[https://github.com/cometcake575/Architect-HK/releases/download/3.34.0.0/Architect.zip]]>
         </Link>
         <Dependencies>
             <Dependency>Satchel</Dependency>
@@ -12959,6 +12959,57 @@ Enjoy!</Description>
         </Tags>
         <Authors>
             <Author>akhihaani</Author>
+        </Authors>
+    </Manifest>
+    <Manifest>
+        <Name>HallownestWayfinder</Name>
+        <DisplayName>Hallownest Wayfinder</DisplayName>
+        <Description>An in-game route guide and navigation assistant with guided 112%, five-hour speedrun and save-completion routes, a progress checklist, and save-aware pathfinding.</Description>
+        <Version>0.12.0.0</Version>
+        <Link SHA256="2317F463320A053CC4EFD380002C41BCBA7E2098D9E83C5CAB97FFA0F14A722B">
+            <![CDATA[https://github.com/srryabouthemess/hallownest-wayfinder/releases/download/v0.12.0/HallownestWayfinder.zip]]>
+        </Link>
+        <Dependencies />
+        <Repository>
+            <![CDATA[https://github.com/srryabouthemess/hallownest-wayfinder]]>
+        </Repository>
+        <ReadMe>
+            <![CDATA[https://github.com/srryabouthemess/hallownest-wayfinder/raw/refs/heads/main/README.md]]>
+        </ReadMe>
+        <Issues>
+            <![CDATA[https://github.com/srryabouthemess/hallownest-wayfinder/issues]]>
+        </Issues>
+        <Tags>
+            <Tag>Utility</Tag>
+            <Tag>LLM-Assisted</Tag>
+        </Tags>
+        <Authors>
+            <Author>srryabouthemess</Author>
+        </Authors>
+    </Manifest>
+    <Manifest>
+        <Name>RadianceSkin</Name>
+        <DisplayName>RadianceSkin</DisplayName>
+        <Description>A mod that customizes Absolute Radiance with selectable skins, music, visual effects, backgrounds, and animations.</Description>
+        <Version>0.1.1.0</Version>
+        <Link SHA256="C4E7CD1012B51409D960D2A5CF98990911A5AD0D28AF2FFF0B8F37D9669E3EE4">
+            <![CDATA[https://github.com/MCXGK3/RadianceSkin/releases/download/0.1.1.0/RadianceSkin.zip]]>
+        </Link>
+        <Dependencies>
+            <Dependency>Satchel</Dependency>
+            <Dependency>WavLib</Dependency>
+        </Dependencies>
+        <Repository>
+            <![CDATA[https://github.com/MCXGK3/RadianceSkin]]>
+        </Repository>
+        <Issues>
+            <![CDATA[https://github.com/MCXGK3/RadianceSkin/issues]]>
+        </Issues>
+        <Tags>
+            <Tag>Cosmetic</Tag>
+        </Tags>
+        <Authors>
+            <Author>MCXGK3</Author>
         </Authors>
     </Manifest>
 </ModLinks>

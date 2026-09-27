@@ -386,11 +386,11 @@
   },
   "Another Location": {
     "description": "Adds one location to the Randomizer. Terms and Conditions may apply",
-    "version": "1.0.0.0",
+    "version": "1.0.0.1",
     "links": {
       "type": "universal",
-      "sha256": "C0E58D784014E470FC3A93F89BFE61A2EC1CE0D85C9D2ADA46F2CB68143398C2",
-      "url": "https://github.com/Roma-337/AnotherLocation/releases/download/v1.0.0.0/AnotherLocation.zip"
+      "sha256": "CBAEF0E21C93B5D2771C6B2F1E42DEE143DA0BBA5A8F5E8F57EBD09EE64FBF36",
+      "url": "https://github.com/Roma-337/AnotherLocation/releases/download/v1.0.0.1/AnotherLocation.zip"
     },
     "dependencies": [
       "Randomizer 4"
@@ -508,11 +508,11 @@
   },
   "Architect": {
     "description": "A Hollow Knight level editor mod, easily make and share custom levels with an in-game level editor and level sharer.",
-    "version": "3.35.3.0",
+    "version": "3.37.0.3",
     "links": {
       "type": "universal",
-      "sha256": "6205FDC0EE15A7E66AA8A8610222B21E4C7EBF58D2761425D1F85BABF552EC8C",
-      "url": "https://github.com/cometcake575/Architect-HK/releases/download/3.35.3.0/Architect.zip"
+      "sha256": "51DB418958372E69C3C29153FE0C23096BCB179285E5D07915D5E48A5F9F7141",
+      "url": "https://github.com/cometcake575/Architect-HK/releases/download/3.37.0.3/Architect.zip"
     },
     "dependencies": [
       "FsmMaster",
@@ -1623,11 +1623,11 @@
   },
   "Charm Rebalanced": {
     "description": "Click [View Readme] to see all the changes. If you enjoy the mod, please consider giving the GitHub repository a star, this will help spread the mod to more people!",
-    "version": "3.0.6.0",
+    "version": "3.0.7.0",
     "links": {
       "type": "universal",
-      "sha256": "CD9C8B928C8DD57D8432072C6701738F9F215359EAB87F41EFE441D630FB22CF",
-      "url": "https://github.com/GyVn87/Charm-Rebalanced-Mod/releases/download/v3.0.6.0/CharmRebalanced.zip"
+      "sha256": "15C78ED5D2A4A49D2BADB58BE2D749FB2464CEBBE3EDAD04EC29F3C08DCFCCB0",
+      "url": "https://github.com/GyVn87/Charm-Rebalanced-Mod/releases/download/v3.0.7.0/CharmRebalanced.zip"
     },
     "dependencies": [
       "SFCore"
@@ -4533,19 +4533,20 @@
     ]
   },
   "Ghost Macro": {
-    "description": "Scene-based hitbox recording and replay system with timeline playback, multi-visit support, and macro-like ghost replays",
-    "version": "1.0.0.0",
+    "description": "Scene-based character recording and replay system with timeline playback, multi-visit support, and macro-like ghost replays",
+    "version": "2.0.0.0",
     "links": {
       "type": "universal",
-      "sha256": "7AB6653DE492767C8B9807607CE0AFA93FDE3F83FD21DF31FB8DBF8F5CCD71FD",
-      "url": "https://github.com/Ishmael-GameDev/Ghost-Macro/releases/download/v1/Ghost.Macro.dll"
+      "sha256": "08BB6FD32AA4082AB24AA67637BC2AC7FFB3926BFCB7445637CC55B841163F47",
+      "url": "https://github.com/Ishmael-GameDev/Ghost-Macro/releases/download/v2/Ghost.Macro.dll"
     },
     "dependencies": [
-      "DebugMod",
-      "MagicUI",
       "Satchel"
     ],
     "repository": "https://github.com/Ishmael-GameDev/Ghost-Macro",
+    "integrations": [
+      "Custom Knight"
+    ],
     "tags": [
       "Gameplay"
     ],
@@ -4601,11 +4602,11 @@
   },
   "GlobalList Atlas": {
     "description": "Connects to the community's global spreadsheet archive of fan-made rated maps. Browse and filter maps by editor, tags, rating and verification status, then download, install, and launch them directly from an in-game menu — including required editors and public mods.",
-    "version": "1.0.0.0",
+    "version": "1.5.0.0",
     "links": {
       "type": "universal",
-      "sha256": "DA5861F2361C1B051A98D2E0CFE4551B6D7774AAC8FE077441864BBAC46FF7B8",
-      "url": "https://github.com/Ishmael-GameDev/GlobalList-Atlas/releases/download/v1/GlobalListAtlas.dll"
+      "sha256": "E565835D4281CC7DA6206878D081D9C938F4A12D8D0F97C63D3371FA39283C05",
+      "url": "https://github.com/Ishmael-GameDev/GlobalList-Atlas/releases/download/v1.5/GlobalListAtlas.dll"
     },
     "dependencies": [],
     "repository": "https://github.com/Ishmael-GameDev/GlobalList-Atlas",
@@ -7248,6 +7249,25 @@
       "HMertAcr"
     ]
   },
+  "MidAirHealing": {
+    "description": "Allows you to heal in mid-air (as well as on water).",
+    "version": "1.1.0.0",
+    "links": {
+      "type": "universal",
+      "sha256": "8BE1DFDA204CCA1DECA0A12943A4623221077B62EE57F01CB789E16AFD596A0D",
+      "url": "https://github.com/user500050/HKMidAirHealing/releases/download/v.1.1.0/MidAirHealing.zip"
+    },
+    "dependencies": [],
+    "repository": "https://github.com/user500050/HKMidAirHealing",
+    "issues": "https://github.com/user500050/HKMidAirHealing/issues",
+    "tags": [
+      "Accessibility",
+      "Gameplay"
+    ],
+    "authors": [
+      "user500050"
+    ]
+  },
   "MidasTouch": {
     "description": "Gorgeous Husk drops a charm that turns enemies to gold",
     "version": "1.1.0.1",
@@ -7595,11 +7615,11 @@
   },
   "MoreStags": {
     "description": "A Randomizer connection which adds new stag stations",
-    "version": "1.1.2.3",
+    "version": "1.1.2.4",
     "links": {
       "type": "universal",
-      "sha256": "5273E6914DE91803ABF7074B5C2A13FD622453FEB4219FFAF62233BA9D0E8729",
-      "url": "https://github.com/TheMathGeek314/MoreStags/releases/download/v1.1.2.3/MoreStags.zip"
+      "sha256": "AAB103E567748E0070834E502E0BD6E485F12C33C5C2734C5EE3641CE66413BB",
+      "url": "https://github.com/TheMathGeek314/MoreStags/releases/download/v1.1.2.4/MoreStags.zip"
     },
     "dependencies": [
       "AlreadyEnoughPlayMaker",
@@ -7721,6 +7741,23 @@
     ],
     "authors": [
       "nerthul11"
+    ]
+  },
+  "MusicShuffle": {
+    "description": "Shuffles the soundtrack around randomly.",
+    "version": "1.0.0.0",
+    "links": {
+      "type": "universal",
+      "sha256": "FA39DA1D40B67972D1856166C5AD9A47DC32AFFF5CD470C3A24AA35368F3B17B",
+      "url": "https://github.com/thoughthouse/HollowKnight.MusicShuffle/releases/download/1.0.0.0/MusicShuffle.zip"
+    },
+    "dependencies": [
+      "Osmi",
+      "Satchel"
+    ],
+    "repository": "https://github.com/thoughthouse/HollowKnight.MusicShuffle",
+    "tags": [
+      "Cosmetic"
     ]
   },
   "MuteBosses": {
@@ -10462,11 +10499,11 @@
   },
   "ShuffledCharmEffects": {
     "description": "Equipped charms will have randomized effects",
-    "version": "1.1.0.0",
+    "version": "1.1.0.1",
     "links": {
       "type": "universal",
-      "sha256": "F9BFB81724F5BC48E2BA705D24B7BAC9D34B0B6144D16C2734F94358F80F9805",
-      "url": "https://github.com/TheMathGeek314/ShuffledCharmEffects/releases/download/v1.1.0.0/ShuffledCharmEffects.zip"
+      "sha256": "8BEC028DA2AA6C1D49A1494CA1359554A9A80253AE3D289C0DDC327D88A2ADEC",
+      "url": "https://github.com/TheMathGeek314/ShuffledCharmEffects/releases/download/v1.1.0.1/ShuffledCharmEffects.zip"
     },
     "dependencies": [
       "Satchel"

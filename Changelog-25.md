@@ -1,13 +1,9 @@
 # Changelog
 
 
-## New mods
+## Updated mods
 
-### Input Display
+### ReplayLogger
 
-- Description: Shows an input display in the bottom right corner. Compatible with both controller and mouse/keyboard.
-- Dependencies
-  + MagicUI
-- Tags
-  + Utility
+- Version: 1.1.0.4 -> 1.1.0.6
 
