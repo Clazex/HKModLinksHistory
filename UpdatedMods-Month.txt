@@ -1,5 +1,4 @@
 Architect
-Architect
 ArchitectLegacy
 DecorationMaster
 ReplayLogger
@@ -27,3 +26,6 @@ Ghost Macro
 GlobalList Atlas
 MoreStags
 ShuffledCharmEffects
+Architect
+EverySceneUtil
+GodhomeQoL

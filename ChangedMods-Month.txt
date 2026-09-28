@@ -1,7 +1,4 @@
 Architect
-HallownestWayfinder
-RadianceSkin
-Architect
 ArchitectLegacy
 DecorationMaster
 Input Display
@@ -39,3 +36,7 @@ MidAirHealing
 MoreStags
 MusicShuffle
 ShuffledCharmEffects
+Architect
+BetterParrying
+EverySceneUtil
+GodhomeQoL

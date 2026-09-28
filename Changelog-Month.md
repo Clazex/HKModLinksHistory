@@ -3,6 +3,13 @@
 
 ## New mods
 
+### BetterParrying
+
+- Description: Simplifies the game&#x27;s parrying mechanics.
+- Tags
+  + Accessibility
+  + Gameplay
+
 ### FasterAnimators
 
 - Description: Increases the speed of Animator objects, making some hazards faster
@@ -21,13 +28,6 @@
   + Satchel
 - Tags
   + Accessibility
-  + Utility
-
-### HallownestWayfinder
-
-- Description: An in-game route guide and navigation assistant with guided 112%, five-hour speedrun and save-completion routes, a progress checklist, and save-aware pathfinding.
-- Tags
-  + LLM-Assisted
   + Utility
 
 ### Input Display
@@ -85,15 +85,6 @@
   + Gameplay
   + Utility
 
-### RadianceSkin
-
-- Description: A mod that customizes Absolute Radiance with selectable skins, music, visual effects, backgrounds, and animations.
-- Dependencies
-  + Satchel
-  + WavLib
-- Tags
-  + Cosmetic
-
 ### SOCD Cleaner
 
 - Description: Simultaneous Opposite Cardinal Directions
@@ -111,7 +102,7 @@
 
 ### Architect
 
-- Version: 3.32.7.1 -> 3.37.0.3
+- Version: 3.34.0.0 -> 3.37.1.0
 
 ### ArchitectLegacy
 
@@ -128,6 +119,10 @@
 ### DecorationMaster
 
 - Version: 1.0.1.1 -> 1.0.1.2
+
+### EverySceneUtil
+
+- Version: 1.2.0.0 -> 1.3.0.0
 
 ### Ghost Macro
 
@@ -146,6 +141,10 @@
 ### GlobalList Atlas
 
 - Version: 1.0.0.0 -> 1.5.0.0
+
+### GodhomeQoL
+
+- Version: 1.0.1.3 -> 1.0.1.4
 
 ### GodhomeRandomizer
 

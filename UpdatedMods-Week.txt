@@ -5,3 +5,6 @@ Ghost Macro
 GlobalList Atlas
 MoreStags
 ShuffledCharmEffects
+Architect
+EverySceneUtil
+GodhomeQoL

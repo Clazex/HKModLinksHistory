@@ -7,3 +7,7 @@ MidAirHealing
 MoreStags
 MusicShuffle
 ShuffledCharmEffects
+Architect
+BetterParrying
+EverySceneUtil
+GodhomeQoL

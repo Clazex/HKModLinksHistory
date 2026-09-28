@@ -1,1 +1,3 @@
 Architect
+ArchitectLegacy
+DecorationMaster
