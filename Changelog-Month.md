@@ -102,11 +102,7 @@
 
 ### Architect
 
-- Version: 3.34.0.0 -> 3.37.1.0
-
-### ArchitectLegacy
-
-- Version: 1.19.0.0 -> 1.19.0.1
+- Version: 3.34.0.1 -> 3.37.2.0
 
 ### Breakable Wall Randomizer
 
@@ -115,10 +111,6 @@
 ### Charm Rebalanced
 
 - Version: 3.0.6.0 -> 3.0.7.0
-
-### DecorationMaster
-
-- Version: 1.0.1.1 -> 1.0.1.2
 
 ### EverySceneUtil
 

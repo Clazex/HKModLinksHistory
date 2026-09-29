@@ -8,3 +8,4 @@ ShuffledCharmEffects
 Architect
 EverySceneUtil
 GodhomeQoL
+Architect

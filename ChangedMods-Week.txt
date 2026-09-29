@@ -11,3 +11,4 @@ Architect
 BetterParrying
 EverySceneUtil
 GodhomeQoL
+Architect

@@ -1,9 +1,4 @@
-Another Location
 Architect
-Charm Rebalanced
-Ghost Macro
-GlobalList Atlas
-MidAirHealing
-MoreStags
-MusicShuffle
-ShuffledCharmEffects
+BetterParrying
+EverySceneUtil
+GodhomeQoL
