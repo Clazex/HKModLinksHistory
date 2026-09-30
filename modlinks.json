@@ -508,11 +508,11 @@
   },
   "Architect": {
     "description": "A Hollow Knight level editor mod, easily make and share custom levels with an in-game level editor and level sharer.",
-    "version": "3.37.2.0",
+    "version": "3.37.3.4",
     "links": {
       "type": "universal",
-      "sha256": "98D6C2A77C087A584254B1CB70370455659FAB095BF66B30440504DC4E8C620A",
-      "url": "https://github.com/cometcake575/Architect-HK/releases/download/3.37.2.0/Architect.zip"
+      "sha256": "CB0AA5CC7211F054EEAA9AD9AA00B24D33C9D41EDD85A19E9779A16AF797A03D",
+      "url": "https://github.com/cometcake575/Architect-HK/releases/download/3.37.3.4/Architect.zip"
     },
     "dependencies": [
       "FsmMaster",
@@ -1300,11 +1300,11 @@
   },
   "BugPrince": {
     "description": "A Randomizer 4 connection which combines Blue Prince mechanics with Hollow Knight transition randomizer.",
-    "version": "1.5.3.0",
+    "version": "1.5.4.0",
     "links": {
       "type": "universal",
-      "sha256": "A7CA29532294CD054A91908C657A0E8826FBC0FF915CCF5E9C853768D15E1906",
-      "url": "https://github.com/dplochcoder/HollowKnight.BugPrince/releases/download/v1.5.3.0/BugPrince.zip"
+      "sha256": "6DBCE68F1D5742AD5BB5356051104F94215167BA0BB5AD85B15C00DFDC598998",
+      "url": "https://github.com/dplochcoder/HollowKnight.BugPrince/releases/download/v1.5.4.0/BugPrince.zip"
     },
     "dependencies": [
       "Benchwarp",
@@ -2663,11 +2663,11 @@
   },
   "DarknessRandomizer": {
     "description": "A Rando 4 connection to randomize the dark corners of Hallownest.",
-    "version": "1.5.2.0",
+    "version": "1.5.3.0",
     "links": {
       "type": "universal",
-      "sha256": "CB39DB950DFB7760511CF88A9C06FA2329E43339E18353656CA37E308C7F4C5A",
-      "url": "https://github.com/dplochcoder/HollowKnight.DarknessRandomizer/releases/download/v1.5.2.0/DarknessRandomizer.zip"
+      "sha256": "9267B012230B3C59F8A7C2432CDCECAD73C6391AFE9EA0BC154FE25055A6B758",
+      "url": "https://github.com/dplochcoder/HollowKnight.DarknessRandomizer/releases/download/v1.5.3.0/DarknessRandomizer.zip"
     },
     "dependencies": [
       "ItemChanger",
@@ -6394,11 +6394,11 @@
   },
   "Knight of Nights": {
     "description": "A mod for the Holloween 2025 plando, with some rando integration.",
-    "version": "2.0.9.0",
+    "version": "2.0.10.0",
     "links": {
       "type": "universal",
-      "sha256": "10A903F78D3ED2AA311A0B7C6463882DB2B4D2B348D9BE82642DFCDC5FAA44C1",
-      "url": "https://github.com/dplochcoder/HollowKnight.KnightOfNights/releases/download/v2.0.9.0/KnightOfNights.zip"
+      "sha256": "90D4D2F02513D88D9F06151DBD9A59C2F9156C5CB615634ACF1314690CD7000A",
+      "url": "https://github.com/dplochcoder/HollowKnight.KnightOfNights/releases/download/v2.0.10.0/Knight.of.Nights.zip"
     },
     "dependencies": [
       "Benchwarp",
@@ -7482,11 +7482,11 @@
   },
   "MoreDoors": {
     "description": "A Rando 4 connection which adds more locked doors to Hallownest.",
-    "version": "3.4.2.0",
+    "version": "3.4.3.0",
     "links": {
       "type": "universal",
-      "sha256": "26D3D861B39D04BDB5E324A5859CC82F0D6C41522E85D762AD0C844117F17A0E",
-      "url": "https://github.com/dplochcoder/HollowKnight.MoreDoors/releases/download/v3.4.2.0/MoreDoors.zip"
+      "sha256": "66D19CB7002B500A47012F00F79EFB35545DC21E797CC5712EF3CB6F7838B3EE",
+      "url": "https://github.com/dplochcoder/HollowKnight.MoreDoors/releases/download/v3.4.3.0/MoreDoors.zip"
     },
     "dependencies": [
       "ItemChanger",
@@ -7764,11 +7764,11 @@
   },
   "MusicShuffle": {
     "description": "Shuffles the soundtrack around randomly.",
-    "version": "1.0.0.0",
+    "version": "1.0.1.0",
     "links": {
       "type": "universal",
-      "sha256": "FA39DA1D40B67972D1856166C5AD9A47DC32AFFF5CD470C3A24AA35368F3B17B",
-      "url": "https://github.com/thoughthouse/HollowKnight.MusicShuffle/releases/download/1.0.0.0/MusicShuffle.zip"
+      "sha256": "97AC7B642DB24C492349E1B0CCC8ADD04672677FA068B425FCE907705B321474",
+      "url": "https://github.com/thoughthouse/HollowKnight.MusicShuffle/releases/download/1.0.1.0/MusicShuffle.zip"
     },
     "dependencies": [
       "Osmi",
@@ -8641,16 +8641,16 @@
     "links": {
       "type": "universal",
       "sha256": "E7D10561FAEF728DD1798A2A692EF30ADFC525B4548B81C6B57538DFC62B1FD8",
-      "url": "https://github.com/ultranumbzz/pantheon-architect/releases/download/1.0.0.4/PantheonArchitect.zip"
+      "url": "https://codeberg.org/PantheonArchitect/PantheonArchitect/releases/download/1.0.0.4/PantheonArchitect.zip"
     },
     "dependencies": [],
-    "repository": "https://github.com/ultranumbzz/pantheon-architect",
-    "issues": "https://github.com/ultranumbzz/pantheon-architect/issues",
+    "repository": "https://codeberg.org/PantheonArchitect/PantheonArchitect",
+    "issues": "https://codeberg.org/PantheonArchitect/PantheonArchitect/issues",
     "tags": [
       "Gameplay"
     ],
     "authors": [
-      "ULTRAnumbz"
+      "PantheonArchitect"
     ]
   },
   "PantheonOfRegions": {
@@ -9031,17 +9031,20 @@
   },
   "PurenailCore": {
     "description": "Common utilities and interop for Purenail mods",
-    "version": "2.1.1.0",
+    "version": "2.2.1.0",
     "links": {
       "type": "universal",
-      "sha256": "631DCEBD371253E83CEBD0B41E90CA596FAD523625E5B98AC66A39FFB0D842FE",
-      "url": "https://github.com/dplochcoder/HollowKnight.PurenailCore/releases/download/v2.1.1.0/PurenailCore.zip"
+      "sha256": "EBE50B2A3F77328AF686509822BD002729C9DF80CAB9F2404BDAADF5C0947831",
+      "url": "https://github.com/dplochcoder/HollowKnight.PurenailCore/releases/download/v2.2.1.0/PurenailCore.zip"
     },
     "dependencies": [
       "Randomizer 4",
       "RandomizerCore.Json"
     ],
-    "repository": "https://github.com/dplochcoder/HollowKnight.PurenailCore"
+    "repository": "https://github.com/dplochcoder/HollowKnight.PurenailCore",
+    "authors": [
+      "Purenail"
+    ]
   },
   "PvpArena": {
     "description": "This mod adds a PvP arena with an invisible entrance right of the bench in Dirtmouth.",
@@ -10170,11 +10173,11 @@
   },
   "Scattered and Lost": {
     "description": "Celeste-themed content mod, expanding Bretta's hut",
-    "version": "1.6.6.0",
+    "version": "1.6.7.0",
     "links": {
       "type": "universal",
-      "sha256": "792F81E27D30F74DF5CB87EE8B59E09FB5BFF20DC97251A054588F1E3F210A78",
-      "url": "https://github.com/dplochcoder/HollowKnight.ScatteredAndLost/releases/download/v1.6.6.0/Scattered.and.Lost.zip"
+      "sha256": "36E135B964F11F429933FDF5838BB994C1688DE3524DA338E9330D88D5A2EC45",
+      "url": "https://github.com/dplochcoder/HollowKnight.ScatteredAndLost/releases/download/v1.6.7.0/Scattered.and.Lost.zip"
     },
     "dependencies": [
       "ItemChanger",
@@ -10989,11 +10992,11 @@
   },
   "SpoilerViewerMod": {
     "description": "Provides a Java GUI for navigating the spoiler log of randos or plandos. Requires Java to be installed.",
-    "version": "2.13.0.0",
+    "version": "2.13.1.0",
     "links": {
       "type": "universal",
-      "sha256": "5B1E276ED3AFFD88126F4847A96EA81359179252F586A1174CFD5DEE949C2E8C",
-      "url": "https://github.com/dplochcoder/hkspoilerviewer/releases/download/v2.13.0/SpoilerViewerMod.zip"
+      "sha256": "A6D987C43F9CCFCD1EE8DBAC4123D79FA18981D24619D5E19DFD1E973A7C0ADC",
+      "url": "https://github.com/dplochcoder/hkspoilerviewer/releases/download/v2.13.1.0/SpoilerViewerMod.zip"
     },
     "dependencies": [
       "ItemChanger",
@@ -11475,7 +11478,7 @@
       "KorzUtils",
       "Satchel"
     ],
-    "repository": "https://github.com/Korzer420/TheHuntIsOn",
+    "repository": "https://github.com/dplochcoder/TheHuntIsOn",
     "tags": [
       "Gameplay"
     ],
@@ -11630,11 +11633,11 @@
   },
   "TreasureHunt": {
     "description": "A Randomizer 4 connection fro a semi-spoiler format.",
-    "version": "1.7.3.0",
+    "version": "1.7.4.0",
     "links": {
       "type": "universal",
-      "sha256": "4015EE3C26D8F9C459A0DAC078B9F4CEDE7542A89C6C6906B7EEDC8EE7E2FC63",
-      "url": "https://github.com/dplochcoder/HollowKnight.TreasureHunt/releases/download/v1.7.3.0/TreasureHunt.zip"
+      "sha256": "3249585CFA8B56716B29D4303B9345FF4FCB688260687CF5A27EBC6F8415269D",
+      "url": "https://github.com/dplochcoder/HollowKnight.TreasureHunt/releases/download/v1.7.4.0/TreasureHunt.zip"
     },
     "dependencies": [
       "ConnectionMetadataInjector",
