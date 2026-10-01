@@ -30,14 +30,6 @@
   + Accessibility
   + Utility
 
-### Input Display
-
-- Description: Shows an input display in the bottom right corner. Compatible with both controller and mouse/keyboard.
-- Dependencies
-  + MagicUI
-- Tags
-  + Utility
-
 ### Instawings Helper
 
 - Description: Assign a spare key to fully imitate one of your existing binds. 3 bindable pairs. Helpful for instawings!
