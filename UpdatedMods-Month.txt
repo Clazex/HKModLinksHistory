@@ -1,4 +1,3 @@
-ReplayLogger
 GodhomeRandomizer
 Grass Randomizer
 MoreStags

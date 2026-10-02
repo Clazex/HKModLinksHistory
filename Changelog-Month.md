@@ -176,10 +176,6 @@
 
 - Version: 2.1.1.0 -> 2.2.1.0
 
-### ReplayLogger
-
-- Version: 1.1.0.4 -> 1.1.0.6
-
 ### RespawnPoint Manager
 
 - Version: 1.2.0.0 -> 1.3.0.0
