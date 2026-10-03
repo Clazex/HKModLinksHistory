@@ -8,3 +8,4 @@ FasterAnimators
 MidAirHealing
 MusicShuffle
 BetterParrying
+HollowKnightTAS

@@ -30,6 +30,12 @@
   + Accessibility
   + Utility
 
+### HollowKnightTAS
+
+- Description: A TAS toolkit for Hollow Knight with a visual Studio editor, frame-by-frame input editing, recording and replay, timeline branching, MP4 export, and local control for AI agents and scripts. Windows only.
+- Tags
+  + Utility
+
 ### Instawings Helper
 
 - Description: Assign a spare key to fully imitate one of your existing binds. 3 bindable pairs. Helpful for instawings!
@@ -178,7 +184,7 @@
 
 ### RespawnPoint Manager
 
-- Version: 1.2.0.0 -> 1.3.0.0
+- Version: 1.2.0.0 -> 1.4.0.0
 - Description
   + Old: Spawnpoint manager that tracks, saves, and switches player checkpoints across scenes with quick reset, preset system and custom spawn control
   + New: Spawnpoint manager that tracks, saves, render and switches player checkpoints across scenes with quick reset, preset system and custom spawn control

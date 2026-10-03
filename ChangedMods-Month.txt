@@ -46,3 +46,5 @@ PurenailCore
 Scattered and Lost
 SpoilerViewerMod
 TreasureHunt
+HollowKnightTAS
+RespawnPoint Manager

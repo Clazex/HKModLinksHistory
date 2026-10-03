@@ -1,10 +1,3 @@
-Another Location
-Architect
-Charm Rebalanced
-Ghost Macro
-GlobalList Atlas
-MoreStags
-ShuffledCharmEffects
 Architect
 EverySceneUtil
 GodhomeQoL
@@ -19,3 +12,4 @@ PurenailCore
 Scattered and Lost
 SpoilerViewerMod
 TreasureHunt
+RespawnPoint Manager

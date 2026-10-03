@@ -36,3 +36,4 @@ PurenailCore
 Scattered and Lost
 SpoilerViewerMod
 TreasureHunt
+RespawnPoint Manager
