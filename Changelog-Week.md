@@ -3,13 +3,6 @@
 
 ## New mods
 
-### BetterParrying
-
-- Description: Simplifies the game&#x27;s parrying mechanics.
-- Tags
-  + Accessibility
-  + Gameplay
-
 ### HollowKnightTAS
 
 - Description: A TAS toolkit for Hollow Knight with a visual Studio editor, frame-by-frame input editing, recording and replay, timeline branching, MP4 export, and local control for AI agents and scripts. Windows only.
@@ -21,7 +14,7 @@
 
 ### Architect
 
-- Version: 3.37.0.3 -> 3.37.3.4
+- Version: 3.37.1.0 -> 3.37.3.4
 
 ### BugPrince
 
@@ -30,14 +23,6 @@
 ### DarknessRandomizer
 
 - Version: 1.5.2.0 -> 1.5.3.0
-
-### EverySceneUtil
-
-- Version: 1.2.0.0 -> 1.3.0.0
-
-### GodhomeQoL
-
-- Version: 1.0.1.3 -> 1.0.1.4
 
 ### Knight of Nights
 

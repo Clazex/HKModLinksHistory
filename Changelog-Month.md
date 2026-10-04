@@ -139,21 +139,13 @@
 ### GlobalList Atlas
 
 - Version: 1.0.0.0 -> 1.5.0.0
+- Description
+  + Old: Connects to the community&#x27;s global spreadsheet archive of fan-made rated maps. Browse and filter maps by editor, tags, rating and verification status, then download, install, and launch them directly from an in-game menu — including required editors and public mods.
+  + New: [Broken on MacOS] Connects to the community&#x27;s global spreadsheet archive of fan-made rated maps. Browse and filter maps by editor, tags, rating and verification status, then download, install, and launch them directly from an in-game menu — including required editors and public mods.
 
 ### GodhomeQoL
 
 - Version: 1.0.1.3 -> 1.0.1.4
-
-### GodhomeRandomizer
-
-- Version: 2.2.5.0 -> 2.2.5.1
-
-### Grass Randomizer
-
-- Version: 1.1.2.1 -> 1.1.3.0
-- Integrations
-  + Added
-    - ConnectionSettingsRando
 
 ### Knight of Nights
 
@@ -165,7 +157,7 @@
 
 ### MoreStags
 
-- Version: 1.1.2.1 -> 1.1.2.4
+- Version: 1.1.2.2 -> 1.1.2.4
 
 ### Noclip Accuracy
 

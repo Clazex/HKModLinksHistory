@@ -1,8 +1,4 @@
 Architect
-BetterParrying
-EverySceneUtil
-GodhomeQoL
-Architect
 Architect
 BugPrince
 DarknessRandomizer

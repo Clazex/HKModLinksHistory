@@ -4620,7 +4620,7 @@
     ]
   },
   "GlobalList Atlas": {
-    "description": "Connects to the community's global spreadsheet archive of fan-made rated maps. Browse and filter maps by editor, tags, rating and verification status, then download, install, and launch them directly from an in-game menu — including required editors and public mods.",
+    "description": "[Broken on MacOS] Connects to the community's global spreadsheet archive of fan-made rated maps. Browse and filter maps by editor, tags, rating and verification status, then download, install, and launch them directly from an in-game menu — including required editors and public mods.",
     "version": "1.5.0.0",
     "links": {
       "type": "universal",
@@ -8296,7 +8296,7 @@
     ]
   },
   "OWO_HollowKnight": {
-    "description": "A mod that allows the integration of OWO Skin haptic device with HK",
+    "description": "[STEAM ONLY] A mod that allows the integration of OWO Skin haptic device with HK",
     "version": "1.0.0.0",
     "links": {
       "type": "universal",
