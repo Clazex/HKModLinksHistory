@@ -1,5 +1,4 @@
 Architect
-Architect
 BugPrince
 DarknessRandomizer
 Knight of Nights
@@ -11,3 +10,7 @@ SpoilerViewerMod
 TreasureHunt
 HollowKnightTAS
 RespawnPoint Manager
+LegacyRando
+MendBreakables
+VendorRando
+VocesDelVacio

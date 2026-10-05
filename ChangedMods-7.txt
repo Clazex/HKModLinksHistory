@@ -1,4 +1,1 @@
 Architect
-BetterParrying
-EverySceneUtil
-GodhomeQoL

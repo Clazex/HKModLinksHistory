@@ -9,12 +9,24 @@
 - Tags
   + Utility
 
+### VocesDelVacio
+
+- Description: Mod de doblaje al español latino para Hollow Knight
+- Dependencies
+  + Core.FsmUtil
+  + FrogCore
+  + HKMirror
+  + SFCore
+  + Satchel
+- Tags
+  + Gameplay
+
 
 ## Updated mods
 
 ### Architect
 
-- Version: 3.37.1.0 -> 3.37.3.4
+- Version: 3.37.2.0 -> 3.37.3.4
 
 ### BugPrince
 
@@ -27,6 +39,14 @@
 ### Knight of Nights
 
 - Version: 2.0.9.0 -> 2.0.10.0
+
+### LegacyRando
+
+- Version: 1.0.0.0 -> 1.0.1.0
+
+### MendBreakables
+
+- Version: 1.0.0.0 -> 1.0.1.0
 
 ### MoreDoors
 
@@ -55,4 +75,8 @@
 ### TreasureHunt
 
 - Version: 1.7.3.0 -> 1.7.4.0
+
+### VendorRando
+
+- Version: 1.1.4.1 -> 1.1.5.0
 

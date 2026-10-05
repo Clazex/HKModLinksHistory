@@ -6553,11 +6553,11 @@
   },
   "LegacyRando": {
     "description": "A Randomizer connection for old removed objects",
-    "version": "1.0.0.0",
+    "version": "1.0.1.0",
     "links": {
       "type": "universal",
-      "sha256": "D45FCD1D31A6F060BEFD30D15B54326EFDA40F59E6F6E89B770A0E3C41DA956A",
-      "url": "https://github.com/TheMathGeek314/LegacyRando/releases/download/v1.0.0.0/LegacyRando.zip"
+      "sha256": "8A59265DDA829021F25931B1A586042DE376FB8F13E4DBAA73B4A6187B27FDB8",
+      "url": "https://github.com/TheMathGeek314/LegacyRando/releases/download/v1.0.1.0/LegacyRando.zip"
     },
     "dependencies": [
       "ItemChanger",
@@ -7172,11 +7172,11 @@
   },
   "MendBreakables": {
     "description": "Repairs certain breakable objects",
-    "version": "1.0.0.0",
+    "version": "1.0.1.0",
     "links": {
       "type": "universal",
-      "sha256": "87D1ABED4C3D9F033DD71534182DBFF2BB828780F370A790E76DFE6F0C03FC90",
-      "url": "https://github.com/danielstegink/HollowKnight.MendBreakables/releases/download/1.0.0.0/MendBreakables.zip"
+      "sha256": "5C4C95EE414F7C99F73FB3EE44E457F31DA97942F9AFF381787D02E40FEDC566",
+      "url": "https://github.com/danielstegink/HollowKnight.MendBreakables/releases/download/1.0.1.0/MendBreakables.zip"
     },
     "dependencies": [
       "Satchel"
@@ -12053,11 +12053,11 @@
   },
   "VendorRando": {
     "description": "A Randomizer add-on that randomizes the physical locations of vendors",
-    "version": "1.1.4.1",
+    "version": "1.1.5.0",
     "links": {
       "type": "universal",
-      "sha256": "0571BB841DC5D84F8D2E542C6F1DBEEB81B308A0BE4A06F6DBD7D41BDF2B055B",
-      "url": "https://github.com/TheMathGeek314/VendorRando/releases/download/v1.1.4.1/VendorRando.zip"
+      "sha256": "9397C0FEF8F4489E69E243833C35102C0ACAC4A6853547D2E5F18CE9482E49D1",
+      "url": "https://github.com/TheMathGeek314/VendorRando/releases/download/v1.1.5.0/VendorRando.zip"
     },
     "dependencies": [
       "ItemChanger",
@@ -12136,6 +12136,29 @@
     ],
     "authors": [
       "Hien Ngo"
+    ]
+  },
+  "VocesDelVacio": {
+    "description": "Mod de doblaje al español latino para Hollow Knight",
+    "version": "1.0.0.0",
+    "links": {
+      "type": "universal",
+      "sha256": "558EE0C1342A7A0AB95FD1E335308110D6466CF0BA6BA7DB4DED597648B6A2D5",
+      "url": "https://github.com/smartmovil825-beep/VocesdelVacio/releases/download/1.0.0.0/VocesdelVacio.zip"
+    },
+    "dependencies": [
+      "Core.FsmUtil",
+      "FrogCore",
+      "HKMirror",
+      "SFCore",
+      "Satchel"
+    ],
+    "repository": "https://github.com/smartmovil825-beep/VocesdelVacio",
+    "tags": [
+      "Gameplay"
+    ],
+    "authors": [
+      "Z-LIVE"
     ]
   },
   "VoiceToCrySuffering": {

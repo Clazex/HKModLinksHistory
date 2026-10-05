@@ -45,3 +45,7 @@ SpoilerViewerMod
 TreasureHunt
 HollowKnightTAS
 RespawnPoint Manager
+LegacyRando
+MendBreakables
+VendorRando
+VocesDelVacio

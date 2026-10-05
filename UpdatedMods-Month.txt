@@ -34,3 +34,6 @@ Scattered and Lost
 SpoilerViewerMod
 TreasureHunt
 RespawnPoint Manager
+LegacyRando
+MendBreakables
+VendorRando
