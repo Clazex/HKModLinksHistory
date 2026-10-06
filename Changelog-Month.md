@@ -44,20 +44,6 @@
 - Tags
   + Utility
 
-### LegacyRando
-
-- Description: A Randomizer connection for old removed objects
-- Dependencies
-  + ItemChanger
-  + MenuChanger
-  + Randomizer 4
-  + RandomizerCore
-  + RandomizerCore.Json
-- Integrations
-  + CondensedSpoilerLogger
-  + ConnectionSettingsRando
-  + RandoSettingsManager
-
 ### MidAirHealing
 
 - Description: Allows you to heal in mid-air (as well as on water).
@@ -112,11 +98,7 @@
 
 ### Architect
 
-- Version: 3.34.0.1 -> 3.37.3.4
-
-### Breakable Wall Randomizer
-
-- Version: 4.1.3.0 -> 4.1.4.0
+- Version: 3.34.1.0 -> 3.37.3.4
 
 ### BugPrince
 
@@ -162,6 +144,10 @@
 ### Knight of Nights
 
 - Version: 2.0.7.0 -> 2.0.10.0
+
+### LegacyRando
+
+- Version: 1.0.0.0 -> 1.0.1.0
 
 ### MendBreakables
 

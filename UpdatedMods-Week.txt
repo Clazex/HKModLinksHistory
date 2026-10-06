@@ -1,13 +1,3 @@
-Architect
-BugPrince
-DarknessRandomizer
-Knight of Nights
-MoreDoors
-MusicShuffle
-PurenailCore
-Scattered and Lost
-SpoilerViewerMod
-TreasureHunt
 RespawnPoint Manager
 LegacyRando
 MendBreakables
