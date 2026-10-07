@@ -35,3 +35,8 @@ RespawnPoint Manager
 LegacyRando
 MendBreakables
 VendorRando
+GlobalList Atlas
+HKMP.Timer
+HollowKnightTAS
+ReplayLogger
+Teleport Master

@@ -1,2 +1,4 @@
 HollowKnightTAS
 VocesDelVacio
+HKMP.Rounds
+mahoraga-wheel

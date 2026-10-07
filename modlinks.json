@@ -4620,19 +4620,20 @@
     ]
   },
   "GlobalList Atlas": {
-    "description": "[Broken on MacOS] Connects to the community's global spreadsheet archive of fan-made rated maps. Browse and filter maps by editor, tags, rating and verification status, then download, install, and launch them directly from an in-game menu — including required editors and public mods.",
-    "version": "1.5.0.0",
+    "description": "Connects to the community's global spreadsheet archive of fan-made rated maps and the public Architect server catalog. Browse and filter maps by editor, tags, rating, verification status and league, then download, install and launch them from an in-game menu, including required editors and public mods.",
+    "version": "2.5.0.0",
     "links": {
       "type": "universal",
-      "sha256": "E565835D4281CC7DA6206878D081D9C938F4A12D8D0F97C63D3371FA39283C05",
-      "url": "https://github.com/Ishmael-GameDev/GlobalList-Atlas/releases/download/v1.5/GlobalListAtlas.dll"
+      "sha256": "A9770B275EB5975442755F763E6F7823F47DEBB03B16B656DA33D7F6931631BC",
+      "url": "https://github.com/Ishmael-GameDev/GlobalList-Atlas/releases/download/v2.5/GlobalListAtlas.dll"
     },
     "dependencies": [],
     "repository": "https://github.com/Ishmael-GameDev/GlobalList-Atlas",
     "integrations": [
       "Architect",
       "ArchitectLegacy",
-      "DecorationMaster"
+      "DecorationMaster",
+      "Teleport Master"
     ],
     "tags": [
       "Utility"
@@ -5256,13 +5257,33 @@
     ],
     "repository": "https://github.com/BlindGarret/HKMP.ModDiff/"
   },
-  "HKMP.Timer": {
-    "description": "Synchronized timer for Hollow Knight multiplayer through HKMP.",
-    "version": "1.0.0.0",
+  "HKMP.Rounds": {
+    "description": "An HKMP addon that adds a round-based system, automatic round starts, and PvP win statistics.",
+    "version": "1.1.0.0",
     "links": {
       "type": "universal",
-      "sha256": "A296E6679CD8C6A0A524613873AF33C2137A53D538510BDBAD988ABB5F2D413E",
-      "url": "https://github.com/aristocrat27/HKMP.Timer/releases/download/Release/HKMP.Timer.zip"
+      "sha256": "3520782B87871219D7986F8484BE7EE75CDDBEFE52582177FBA1FDB15DBC57B0",
+      "url": "https://github.com/aristocrat27/HKMP.Rounds/releases/download/1.1.0.0/HKMP.Rounds.zip"
+    },
+    "dependencies": [
+      "HKMP"
+    ],
+    "repository": "https://github.com/aristocrat27/HKMP.Rounds",
+    "tags": [
+      "Gameplay",
+      "Utility"
+    ],
+    "authors": [
+      "Aristocrat"
+    ]
+  },
+  "HKMP.Timer": {
+    "description": "Synchronized timer/stopwatch for Hollow Knight multiplayer through HKMP.",
+    "version": "1.1.0.0",
+    "links": {
+      "type": "universal",
+      "sha256": "530F38AE68D60C3EF01D5913C9AFC835E4CE4067C0D7F47A43B78FC68D438BA5",
+      "url": "https://github.com/aristocrat27/HKMP.Timer/releases/download/1.1.0.0/HKMP.Timer.zip"
     },
     "dependencies": [
       "HKMP",
@@ -5800,11 +5821,11 @@
   },
   "HollowKnightTAS": {
     "description": "A TAS toolkit for Hollow Knight with a visual Studio editor, frame-by-frame input editing, recording and replay, timeline branching, MP4 export, and local control for AI agents and scripts. Windows only.",
-    "version": "0.1.5.0",
+    "version": "0.1.7.0",
     "links": {
       "type": "universal",
-      "sha256": "EC4F9E53BF70DBCD50E6DC3D48905A7649DB8DBA459D21DAFD12A352962813FA",
-      "url": "https://github.com/windplusflower/HollowKnightTASMod/releases/download/v0.1.5/HollowKnightTAS.zip"
+      "sha256": "AF993061AF51EF7ED12804704DEC0FBF250F06E8A519E395D2DC1A3F243CE58F",
+      "url": "https://github.com/windplusflower/HollowKnightTASMod/releases/download/v0.1.7/HollowKnightTAS.zip"
     },
     "dependencies": [],
     "repository": "https://github.com/windplusflower/HollowKnightTASMod",
@@ -9846,11 +9867,11 @@
   },
   "ReplayLogger": {
     "description": "ReplayLoger is a mod that was created to verify the legitimacy of player challenge runs.",
-    "version": "1.1.0.6",
+    "version": "2.0.0.0",
     "links": {
       "type": "universal",
-      "sha256": "29ED3E8C93B8150751B7B8D2B7C4DF6E309A13450152199408940BC5B77727AC",
-      "url": "https://github.com/NightFuryoOo/ReplayLogger/releases/download/v1.1.0.6/ReplayLogger.zip"
+      "sha256": "E1D26C37854BE5CE357E315F6F5DABB11730C5889BFCF79B06578BD4D9C2AEFC",
+      "url": "https://github.com/NightFuryoOo/ReplayLogger/releases/download/v2.0.0.0/ReplayLogger.zip"
     },
     "dependencies": [
       "Satchel"
@@ -11305,12 +11326,12 @@
     ]
   },
   "Teleport Master": {
-    "description": "Highlights rooms tracked by DecorationMaster/Architect and teleport there instantly, supports Full Map mode, and plays nicely with Additional Maps.",
-    "version": "1.0.0.0",
+    "description": "Teleport to any room by clicking it on the map, highlight rooms with DecorationMaster/Architect decorations or a custom palette, and use Full Map mode with Additional Maps support. With HKMP, the host can disable teleport or take away maps for all players.",
+    "version": "1.5.0.0",
     "links": {
       "type": "universal",
-      "sha256": "D79ECF1F55B55A95D8D5C1E4385B4DD6233669A9E5BE52225C231742E7EEC35B",
-      "url": "https://github.com/Ishmael-GameDev/Teleport-Master/releases/download/v1/TeleportMaster.dll"
+      "sha256": "DD2A1B08D61463B815B4BBD9453E9A63CA497459F1B75D58EC94307051DFCDCE",
+      "url": "https://github.com/Ishmael-GameDev/Teleport-Master/releases/download/v1.5/TeleportMaster.dll"
     },
     "dependencies": [
       "AdditionalMaps",
@@ -11322,9 +11343,11 @@
     "integrations": [
       "Architect",
       "ArchitectLegacy",
-      "DecorationMaster"
+      "DecorationMaster",
+      "HKMP"
     ],
     "tags": [
+      "Gameplay",
       "Utility"
     ],
     "authors": [
@@ -12521,6 +12544,27 @@
       "Satchel"
     ],
     "repository": "https://github.com/nQvTgLrp/HollowKnight.ZoteCollectorHelper/"
+  },
+  "mahoraga-wheel": {
+    "description": "Hollow Knight mod that replaces the Absolute Radiance halo with mahogara's wheel",
+    "version": "1.1.0.0",
+    "links": {
+      "type": "universal",
+      "sha256": "0A7C7D6028E42D2FFFCB3EC92562C3C7FD0FF76DE3A7542E42100A56D090ED35",
+      "url": "https://github.com/OsHK00/mahoraga-halo/releases/download/v1.1.0/mahoraga-halo.zip"
+    },
+    "dependencies": [
+      "ModCommon",
+      "Satchel"
+    ],
+    "repository": "https://github.com/OsHK00/mahoraga-halo",
+    "issues": "https://github.com/OsHK00/mahoraga-halo/issues",
+    "tags": [
+      "Cosmetic"
+    ],
+    "authors": [
+      "OscarHK"
+    ]
   },
   "modthatclosesthegamewhenitopens": {
     "description": "Mod that closes the game when it opens",

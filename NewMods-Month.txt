@@ -9,3 +9,5 @@ MusicShuffle
 BetterParrying
 HollowKnightTAS
 VocesDelVacio
+HKMP.Rounds
+mahoraga-wheel
