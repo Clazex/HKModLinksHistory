@@ -45,14 +45,6 @@
 - Tags
   + Utility
 
-### Instawings Helper
-
-- Description: Assign a spare key to fully imitate one of your existing binds. 3 bindable pairs. Helpful for instawings!
-- Dependencies
-  + Satchel
-- Tags
-  + Utility
-
 ### MidAirHealing
 
 - Description: Allows you to heal in mid-air (as well as on water).
@@ -76,14 +68,6 @@
   + HKMP
 - Tags
   + Gameplay
-  + Utility
-
-### SOCD Cleaner
-
-- Description: Simultaneous Opposite Cardinal Directions
-- Dependencies
-  + Satchel
-- Tags
   + Utility
 
 ### VocesDelVacio
@@ -116,7 +100,7 @@
 
 ### Architect
 
-- Version: 3.34.1.0 -> 3.37.3.4
+- Version: 3.35.0.0 -> 3.37.3.4
 
 ### BugPrince
 

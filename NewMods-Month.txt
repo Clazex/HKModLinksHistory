@@ -1,5 +1,3 @@
-Instawings Helper
-SOCD Cleaner
 GeoOverHud
 HKMP.Timer
 OneShot PvP
