@@ -3,6 +3,12 @@
 
 ## New mods
 
+### BetterScreenShot
+
+- Description: Press Print Screen to freeze the game, zoom out up to ×25, and save any area of the room at full resolution to a file or the clipboard.
+- Tags
+  + Utility
+
 ### HKMP.Rounds
 
 - Description: An HKMP addon that adds a round-based system, automatic round starts, and PvP win statistics.
@@ -12,11 +18,14 @@
   + Gameplay
   + Utility
 
-### HollowKnightTAS
+### Hollow Knight 8-Player Co-op
 
-- Description: A TAS toolkit for Hollow Knight with a visual Studio editor, frame-by-frame input editing, recording and replay, timeline branching, MP4 export, and local control for AI agents and scripts. Windows only.
+- Description: Local co-op for up to 8 players, with independent controls, charms and roles, shared progression, and configurable PvP arenas.
+- Integrations
+  + Custom Knight
 - Tags
-  + Utility
+  + Gameplay
+  + LLM-Assisted
 
 ### VocesDelVacio
 
@@ -42,6 +51,10 @@
 
 ## Updated mods
 
+### Architect
+
+- Version: 3.37.3.4 -> 3.38.0.0
+
 ### GlobalList Atlas
 
 - Version: 1.5.0.0 -> 2.5.0.0
@@ -59,6 +72,10 @@
   + Old: Synchronized timer for Hollow Knight multiplayer through HKMP.
   + New: Synchronized timer/stopwatch for Hollow Knight multiplayer through HKMP.
 
+### HollowKnightTAS
+
+- Version: 0.1.5.0 -> 0.1.7.0
+
 ### LegacyRando
 
 - Version: 1.0.0.0 -> 1.0.1.0
@@ -70,10 +87,6 @@
 ### ReplayLogger
 
 - Version: 1.1.0.6 -> 2.0.0.0
-
-### RespawnPoint Manager
-
-- Version: 1.3.0.0 -> 1.4.0.0
 
 ### Teleport Master
 

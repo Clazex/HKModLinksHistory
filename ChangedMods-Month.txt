@@ -50,3 +50,6 @@ HollowKnightTAS
 ReplayLogger
 Teleport Master
 mahoraga-wheel
+Architect
+BetterScreenShot
+Hollow Knight 8-Player Co-op

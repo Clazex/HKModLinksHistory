@@ -39,3 +39,4 @@ HKMP.Timer
 HollowKnightTAS
 ReplayLogger
 Teleport Master
+Architect

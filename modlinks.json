@@ -508,11 +508,11 @@
   },
   "Architect": {
     "description": "A Hollow Knight level editor mod, easily make and share custom levels with an in-game level editor and level sharer.",
-    "version": "3.37.3.4",
+    "version": "3.38.0.0",
     "links": {
       "type": "universal",
-      "sha256": "CB0AA5CC7211F054EEAA9AD9AA00B24D33C9D41EDD85A19E9779A16AF797A03D",
-      "url": "https://github.com/cometcake575/Architect-HK/releases/download/3.37.3.4/Architect.zip"
+      "sha256": "FAE1D7A9A2A199561F707BF5A84C4BD5A9C4AE4E4C30A2F8717A7E884DC62104",
+      "url": "https://github.com/cometcake575/Architect-HK/releases/download/3.38.0.0/Architect.zip"
     },
     "dependencies": [
       "FsmMaster",
@@ -871,6 +871,23 @@
     ],
     "authors": [
       "user500050"
+    ]
+  },
+  "BetterScreenShot": {
+    "description": "Press Print Screen to freeze the game, zoom out up to ×25, and save any area of the room at full resolution to a file or the clipboard.",
+    "version": "1.0.0.0",
+    "links": {
+      "type": "universal",
+      "sha256": "2D22FE7934C69BDCB0CC92F3AD1934FE7ACEA9C2F5CBA94467F24885618498A2",
+      "url": "https://github.com/Ishmael-GameDev/BetterScreenShot/releases/download/v1/BetterScreenShot.dll"
+    },
+    "dependencies": [],
+    "repository": "https://github.com/Ishmael-GameDev/BetterScreenShot",
+    "tags": [
+      "Utility"
+    ],
+    "authors": [
+      "Ishmael"
     ]
   },
   "Biblically Accurate Lasers": {
@@ -5775,6 +5792,28 @@
     "repository": "https://github.com/TheMathGeek314/HkmpTransitionAlerts/",
     "authors": [
       "TheMathGeek_314"
+    ]
+  },
+  "Hollow Knight 8-Player Co-op": {
+    "description": "Local co-op for up to 8 players, with independent controls, charms and roles, shared progression, and configurable PvP arenas.",
+    "version": "0.10.0.0",
+    "links": {
+      "type": "universal",
+      "sha256": "4B14E65C60C0AD8A1F02E84D421901963F63AF623300FD3612B1FB103F9B3397",
+      "url": "https://github.com/RaulSB-code/HollowKnight-Local8/releases/download/v0.10.0/HollowKnightLocal8-v0.10.0.zip"
+    },
+    "dependencies": [],
+    "repository": "https://github.com/RaulSB-code/HollowKnight-Local8",
+    "issues": "https://github.com/RaulSB-code/HollowKnight-Local8/issues",
+    "integrations": [
+      "Custom Knight"
+    ],
+    "tags": [
+      "Gameplay",
+      "LLM-Assisted"
+    ],
+    "authors": [
+      "RaulSB-code"
     ]
   },
   "Hollow Knight ACTS": {

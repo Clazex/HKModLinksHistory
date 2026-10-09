@@ -1,4 +1,3 @@
-RespawnPoint Manager
 LegacyRando
 MendBreakables
 VendorRando
@@ -7,3 +6,4 @@ HKMP.Timer
 HollowKnightTAS
 ReplayLogger
 Teleport Master
+Architect
