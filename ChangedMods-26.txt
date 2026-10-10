@@ -1,4 +1,0 @@
-GeoOverHud
-Noclip Accuracy
-RespawnPoint Manager
-Spell Counter

@@ -59,7 +59,7 @@
 
 - Version: 1.5.0.0 -> 2.5.0.0
 - Description
-  + Old: Connects to the community&#x27;s global spreadsheet archive of fan-made rated maps. Browse and filter maps by editor, tags, rating and verification status, then download, install, and launch them directly from an in-game menu — including required editors and public mods.
+  + Old: [Broken on MacOS] Connects to the community&#x27;s global spreadsheet archive of fan-made rated maps. Browse and filter maps by editor, tags, rating and verification status, then download, install, and launch them directly from an in-game menu — including required editors and public mods.
   + New: Connects to the community&#x27;s global spreadsheet archive of fan-made rated maps and the public Architect server catalog. Browse and filter maps by editor, tags, rating, verification status and league, then download, install and launch them from an in-game menu, including required editors and public mods.
 - Integrations
   + Added

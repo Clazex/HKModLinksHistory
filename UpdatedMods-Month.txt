@@ -1,5 +1,3 @@
-Knight of Nights
-MoreDoors
 Scattered and Lost
 Noclip Accuracy
 RespawnPoint Manager

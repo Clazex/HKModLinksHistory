@@ -163,7 +163,7 @@
 
 ### Knight of Nights
 
-- Version: 2.0.7.0 -> 2.0.10.0
+- Version: 2.0.8.0 -> 2.0.10.0
 
 ### LegacyRando
 
@@ -175,7 +175,7 @@
 
 ### MoreDoors
 
-- Version: 3.4.1.0 -> 3.4.3.0
+- Version: 3.4.2.0 -> 3.4.3.0
 
 ### MoreStags
 
