@@ -212,7 +212,7 @@
 
 ### Scattered and Lost
 
-- Version: 1.6.5.0 -> 1.6.7.0
+- Version: 1.6.6.0 -> 1.6.7.0
 
 ### ShuffledCharmEffects
 

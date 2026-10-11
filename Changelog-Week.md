@@ -27,18 +27,6 @@
   + Gameplay
   + LLM-Assisted
 
-### VocesDelVacio
-
-- Description: Mod de doblaje al español latino para Hollow Knight
-- Dependencies
-  + Core.FsmUtil
-  + FrogCore
-  + HKMirror
-  + SFCore
-  + Satchel
-- Tags
-  + Gameplay
-
 ### mahoraga-wheel
 
 - Description: Hollow Knight mod that replaces the Absolute Radiance halo with mahogara&#x27;s wheel
@@ -76,14 +64,6 @@
 
 - Version: 0.1.5.0 -> 0.1.7.0
 
-### LegacyRando
-
-- Version: 1.0.0.0 -> 1.0.1.0
-
-### MendBreakables
-
-- Version: 1.0.0.0 -> 1.0.1.0
-
 ### ReplayLogger
 
 - Version: 1.1.0.6 -> 2.0.0.0
@@ -100,8 +80,4 @@
 - Tags
   + Removed
     - Gameplay
-
-### VendorRando
-
-- Version: 1.1.4.1 -> 1.1.5.0
 
