@@ -58,6 +58,7 @@
 
 - Description: A TAS toolkit for Hollow Knight with a visual Studio editor, frame-by-frame input editing, recording and replay, timeline branching, MP4 export, and local control for AI agents and scripts. Windows only.
 - Tags
+  + LLM-Assisted
   + Utility
 
 ### MidAirHealing
@@ -115,7 +116,7 @@
 
 ### Architect
 
-- Version: 3.35.0.0 -> 3.38.0.0
+- Version: 3.35.0.0 -> 3.38.1.0
 
 ### BugPrince
 
@@ -149,12 +150,13 @@
 
 ### GlobalList Atlas
 
-- Version: 1.0.0.0 -> 2.5.0.0
+- Version: 1.0.0.0 -> 2.6.0.0
 - Description
   + Old: Connects to the community&#x27;s global spreadsheet archive of fan-made rated maps. Browse and filter maps by editor, tags, rating and verification status, then download, install, and launch them directly from an in-game menu — including required editors and public mods.
   + New: Connects to the community&#x27;s global spreadsheet archive of fan-made rated maps and the public Architect server catalog. Browse and filter maps by editor, tags, rating, verification status and league, then download, install and launch them from an in-game menu, including required editors and public mods.
 - Integrations
   + Added
+    - HKMP
     - Teleport Master
 
 ### GodhomeQoL

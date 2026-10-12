@@ -508,11 +508,11 @@
   },
   "Architect": {
     "description": "A Hollow Knight level editor mod, easily make and share custom levels with an in-game level editor and level sharer.",
-    "version": "3.38.0.0",
+    "version": "3.38.1.0",
     "links": {
       "type": "universal",
-      "sha256": "FAE1D7A9A2A199561F707BF5A84C4BD5A9C4AE4E4C30A2F8717A7E884DC62104",
-      "url": "https://github.com/cometcake575/Architect-HK/releases/download/3.38.0.0/Architect.zip"
+      "sha256": "5E25A6BAED6AB07F121F18A593A17F7B520A3D3A83B708155874F59BF673C8EC",
+      "url": "https://github.com/cometcake575/Architect-HK/releases/download/3.38.1.0/Architect.zip"
     },
     "dependencies": [
       "FsmMaster",
@@ -4638,11 +4638,11 @@
   },
   "GlobalList Atlas": {
     "description": "Connects to the community's global spreadsheet archive of fan-made rated maps and the public Architect server catalog. Browse and filter maps by editor, tags, rating, verification status and league, then download, install and launch them from an in-game menu, including required editors and public mods.",
-    "version": "2.5.0.0",
+    "version": "2.6.0.0",
     "links": {
       "type": "universal",
-      "sha256": "A9770B275EB5975442755F763E6F7823F47DEBB03B16B656DA33D7F6931631BC",
-      "url": "https://github.com/Ishmael-GameDev/GlobalList-Atlas/releases/download/v2.5/GlobalListAtlas.dll"
+      "sha256": "C3206DAB1F2069318167DF2F9DE119ED90ED94841F8E788466664111F14CD291",
+      "url": "https://github.com/Ishmael-GameDev/GlobalList-Atlas/releases/download/v2.6/GlobalListAtlas.dll"
     },
     "dependencies": [],
     "repository": "https://github.com/Ishmael-GameDev/GlobalList-Atlas",
@@ -4650,6 +4650,7 @@
       "Architect",
       "ArchitectLegacy",
       "DecorationMaster",
+      "HKMP",
       "Teleport Master"
     ],
     "tags": [
@@ -5870,6 +5871,7 @@
     "repository": "https://github.com/windplusflower/HollowKnightTASMod",
     "issues": "https://github.com/windplusflower/HollowKnightTASMod/issues",
     "tags": [
+      "LLM-Assisted",
       "Utility"
     ],
     "authors": [

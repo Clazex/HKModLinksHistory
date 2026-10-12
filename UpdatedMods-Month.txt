@@ -37,3 +37,5 @@ HollowKnightTAS
 ReplayLogger
 Teleport Master
 Architect
+Architect
+GlobalList Atlas
