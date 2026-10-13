@@ -909,11 +909,11 @@
   },
   "BingoAdvancedCustomGeneration": {
     "description": "A mod allowing for more complex board generation using BingoSync",
-    "version": "1.1.1.0",
+    "version": "1.2.1.2",
     "links": {
       "type": "universal",
-      "sha256": "F3E197241B3D885AA6A661A90CCE323498819D80698191C6EB991846840090A7",
-      "url": "https://github.com/TheRealAlph4/HollowKnight.BingoAdvancedCustomGeneration/releases/download/v1.1.1.0/BingoAdvancedCustomGeneration.zip"
+      "sha256": "160C883EDBE7295D9A09D7EFDBB22006208FDA74151CF254DC7B0292A7EFF7F2",
+      "url": "https://github.com/TheRealAlph4/HollowKnight.BingoAdvancedCustomGeneration/releases/download/v1.2.1.2/BingoAdvancedCustomGeneration.zip"
     },
     "dependencies": [
       "BingoSync"
@@ -939,11 +939,11 @@
   },
   "BingoBoardReplay": {
     "description": "A mod for bingo tournament organizers to help restream the board when the players have stream delay. See GitHub readme for usage.",
-    "version": "1.3.4.4",
+    "version": "1.4.0.1",
     "links": {
       "type": "universal",
-      "sha256": "BC9794AB1F0317CED53436CAA18C035A83AD9ACB5A0F6117753DC684CF58E213",
-      "url": "https://github.com/TheRealAlph4/HollowKnight.BingoBoardReplay/releases/download/v1.3.4.4/BingoBoardReplay.zip"
+      "sha256": "FF688CF519AB5C6179EB9B5D7F138D559273AB2963BCDE67DB871EB66FF07329",
+      "url": "https://github.com/TheRealAlph4/HollowKnight.BingoBoardReplay/releases/download/v1.4.0.1/BingoBoardReplay.zip"
     },
     "dependencies": [
       "BingoSync"
@@ -955,11 +955,11 @@
   },
   "BingoGoalPack1": {
     "description": "Adds more goals to BingoSync and includes new board types",
-    "version": "1.6.0.0",
+    "version": "1.7.0.0",
     "links": {
       "type": "universal",
-      "sha256": "AD7131E1F7FBB8DFF4583ECD09AF880EF3B673B0E16EDA778015D66227A58AC3",
-      "url": "https://github.com/TheMathGeek314/BingoGoalPack1/releases/download/v1.6.0.0/BingoGoalPack1.zip"
+      "sha256": "9FF7EC88396B5CC2DE4BF6AD1843FD7724F21373BE8C2DBB732E24FCC7BEFE34",
+      "url": "https://github.com/TheMathGeek314/BingoGoalPack1/releases/download/v1.7.0.0/BingoGoalPack1.zip"
     },
     "dependencies": [
       "BingoSync",
@@ -974,11 +974,11 @@
   },
   "BingoGoalPack2": {
     "description": "Adds more granular specifications for custom BingoSync challenges",
-    "version": "1.1.0.0",
+    "version": "1.2.0.0",
     "links": {
       "type": "universal",
-      "sha256": "1761076D667D9A4128ABF9DDB5EAC8BA90D4F3B763D4748C828E2AA0A5D573B8",
-      "url": "https://github.com/TheMathGeek314/BingoGoalPack2/releases/download/v1.1.0.0/BingoGoalPack2.zip"
+      "sha256": "5886A4CEF9926DC683FEC4BB9A18B912C92714A29F55AEE63E9A84E3CA6CF38C",
+      "url": "https://github.com/TheMathGeek314/BingoGoalPack2/releases/download/v1.2.0.0/BingoGoalPack2.zip"
     },
     "dependencies": [
       "BingoSync"
@@ -990,11 +990,11 @@
   },
   "BingoGoalPackGrubDay": {
     "description": "A goal pack that adds automarking for 6 new goals for the 2026 Grub Day bingy events",
-    "version": "1.0.0.0",
+    "version": "1.1.0.0",
     "links": {
       "type": "universal",
-      "sha256": "AC654D9A52FF366842103B2687936672A7615C8203A6F32EFC4351BFFCDBADE2",
-      "url": "https://github.com/TheRealAlph4/HollowKnight.BingoGoalPackGrubDay/releases/download/v1.0.0.0/BingoGoalPackGrubDay.zip"
+      "sha256": "228AFAB8322350CDD6FEAA6A829036CCFC9826348DC4CD0736D752A7150A11B1",
+      "url": "https://github.com/TheRealAlph4/HollowKnight.BingoGoalPackGrubDay/releases/download/v1.1.0.0/BingoGoalPackGrubDay.zip"
     },
     "dependencies": [
       "BingoGoalPack1",
@@ -1008,11 +1008,11 @@
   },
   "BingoGoalPackSpleengy": {
     "description": "An alternate bingo goalpack designed for the lockout format",
-    "version": "1.0.0.0",
+    "version": "1.1.0.0",
     "links": {
       "type": "universal",
-      "sha256": "1BA9F902CE26971BDD23B73EB4CC5397A2C6D02952D063BF3AC411FDFAF13589",
-      "url": "https://github.com/notahumanhand/BingoGoalPackSpleengy/releases/download/1.0/BingoGoalPackSpleengy.zip"
+      "sha256": "A4F39234182DEA5DAEC68352C4F93853A075D13B542D7E8FF60500992F35AFA3",
+      "url": "https://github.com/TheRealAlph4/HollowKnight.BingoGoalPackSpleengy/releases/download/v1.1/BingoGoalPackSpleengy.zip"
     },
     "dependencies": [
       "BingoAdvancedCustomGeneration",
@@ -1027,11 +1027,11 @@
   },
   "BingoSync": {
     "description": "A Hollow Knight mod that automatically marks squares on bingosync.com",
-    "version": "1.4.5.5",
+    "version": "1.6.2.3",
     "links": {
       "type": "universal",
-      "sha256": "4E9B6228EEA32181C176FC1A131496BD54D247E1ED3A8CCC8466392CAE3ED332",
-      "url": "https://github.com/pedroteosousa/HollowKnight.BingoSync/releases/download/1.4.5.5/BingoSync.zip"
+      "sha256": "AE7D3CAD67AC05F3E33FD43AF2A21495099C8FEE26A254FB83C48E0EC8F1CD95",
+      "url": "https://github.com/pedroteosousa/HollowKnight.BingoSync/releases/download/1.6.2.3/BingoSync.zip"
     },
     "dependencies": [
       "ItemChanger",
@@ -9918,6 +9918,9 @@
       "Satchel"
     ],
     "repository": "https://github.com/NightFuryoOo/ReplayLogger",
+    "tags": [
+      "LLM-Assisted"
+    ],
     "authors": [
       "Egir",
       "NightFuryo3o",

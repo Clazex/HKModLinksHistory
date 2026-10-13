@@ -1,6 +1,3 @@
-Noclip Accuracy
-RespawnPoint Manager
-Spell Counter
 Architect
 Knight of Nights
 PlatformingQoL
@@ -39,3 +36,10 @@ Teleport Master
 Architect
 Architect
 GlobalList Atlas
+BingoAdvancedCustomGeneration
+BingoBoardReplay
+BingoGoalPack1
+BingoGoalPack2
+BingoGoalPackGrubDay
+BingoGoalPackSpleengy
+BingoSync

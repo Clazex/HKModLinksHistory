@@ -22,10 +22,6 @@
 - Tags
   + Gameplay
 
-### GeoOverHud
-
-- Description: A small mod to tweak the HUD rendering order
-
 ### HKMP.Rounds
 
 - Description: An HKMP addon that adds a round-based system, automatic round starts, and PvP win statistics.
@@ -118,6 +114,34 @@
 
 - Version: 3.35.0.0 -> 3.38.1.0
 
+### BingoAdvancedCustomGeneration
+
+- Version: 1.1.1.0 -> 1.2.1.2
+
+### BingoBoardReplay
+
+- Version: 1.3.4.4 -> 1.4.0.1
+
+### BingoGoalPack1
+
+- Version: 1.6.0.0 -> 1.7.0.0
+
+### BingoGoalPack2
+
+- Version: 1.1.0.0 -> 1.2.0.0
+
+### BingoGoalPackGrubDay
+
+- Version: 1.0.0.0 -> 1.1.0.0
+
+### BingoGoalPackSpleengy
+
+- Version: 1.0.0.0 -> 1.1.0.0
+
+### BingoSync
+
+- Version: 1.4.5.5 -> 1.6.2.3
+
 ### BugPrince
 
 - Version: 1.5.3.0 -> 1.5.4.0
@@ -183,10 +207,6 @@
 
 - Version: 1.1.2.2 -> 1.1.2.4
 
-### Noclip Accuracy
-
-- Version: 1.0.0.0 -> 1.1.0.0
-
 ### PlatformingQoL
 
 - Version: 1.2.0.0 -> 1.3.0.0
@@ -201,16 +221,13 @@
 ### ReplayLogger
 
 - Version: 1.1.0.6 -> 2.0.0.0
+- Tags
+  + Removed
+    - LLM-Assisted
 
 ### RespawnPoint Manager
 
-- Version: 1.2.0.0 -> 1.4.0.0
-- Description
-  + Old: Spawnpoint manager that tracks, saves, and switches player checkpoints across scenes with quick reset, preset system and custom spawn control
-  + New: Spawnpoint manager that tracks, saves, render and switches player checkpoints across scenes with quick reset, preset system and custom spawn control
-- Dependencies
-  + Removed
-    - MagicUI
+- Version: 1.3.0.0 -> 1.4.0.0
 
 ### Scattered and Lost
 
@@ -219,14 +236,6 @@
 ### ShuffledCharmEffects
 
 - Version: 1.1.0.0 -> 1.1.0.1
-
-### Spell Counter
-
-- Version: 1.0.0.0 -> 1.1.0.0
-- Dependencies
-  + Removed
-    - MagicUI
-    - ModCommon
 
 ### SpoilerViewerMod
 

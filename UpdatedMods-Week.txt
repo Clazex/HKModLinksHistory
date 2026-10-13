@@ -1,8 +1,10 @@
-GlobalList Atlas
-HKMP.Timer
-HollowKnightTAS
-ReplayLogger
-Teleport Master
 Architect
 Architect
 GlobalList Atlas
+BingoAdvancedCustomGeneration
+BingoBoardReplay
+BingoGoalPack1
+BingoGoalPack2
+BingoGoalPackGrubDay
+BingoGoalPackSpleengy
+BingoSync
