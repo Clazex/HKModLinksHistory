@@ -8812,6 +8812,7 @@
       "url": "https://github.com/ygsbzr/PathOfPureVessel/releases/download/v1.0/PathOfPureVessel.zip"
     },
     "dependencies": [
+      "HKTool",
       "Satchel"
     ],
     "repository": "https://github.com/ygsbzr/PathOfPureVessel/",
