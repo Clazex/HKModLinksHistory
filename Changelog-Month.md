@@ -31,16 +31,6 @@
   + Gameplay
   + Utility
 
-### HKMP.Timer
-
-- Description: Synchronized timer/stopwatch for Hollow Knight multiplayer through HKMP.
-- Dependencies
-  + HKMP
-  + Satchel
-- Tags
-  + Accessibility
-  + Utility
-
 ### Hollow Knight 8-Player Co-op
 
 - Description: Local co-op for up to 8 players, with independent controls, charms and roles, shared progression, and configurable PvP arenas.
@@ -73,15 +63,6 @@
 - Tags
   + Cosmetic
 
-### OneShot PvP
-
-- Description: A fast-paced Hollow Knight PvP mod where players fight with 1 HP and limited spell casts.
-- Dependencies
-  + HKMP
-- Tags
-  + Gameplay
-  + Utility
-
 ### VocesDelVacio
 
 - Description: Mod de doblaje al español latino para Hollow Knight
@@ -112,7 +93,7 @@
 
 ### Architect
 
-- Version: 3.35.0.0 -> 3.38.1.0
+- Version: 3.35.1.1 -> 3.38.1.0
 
 ### BingoAdvancedCustomGeneration
 
@@ -187,9 +168,16 @@
 
 - Version: 1.0.1.3 -> 1.0.1.4
 
+### HKMP.Timer
+
+- Version: 1.0.0.0 -> 1.1.0.0
+- Description
+  + Old: Synchronized timer for Hollow Knight multiplayer through HKMP.
+  + New: Synchronized timer/stopwatch for Hollow Knight multiplayer through HKMP.
+
 ### Knight of Nights
 
-- Version: 2.0.8.0 -> 2.0.10.0
+- Version: 2.0.9.0 -> 2.0.10.0
 
 ### LegacyRando
 
@@ -206,13 +194,6 @@
 ### MoreStags
 
 - Version: 1.1.2.2 -> 1.1.2.4
-
-### PlatformingQoL
-
-- Version: 1.2.0.0 -> 1.3.0.0
-- Description
-  + Old: Quality of life improvements for Hollow Knight platforming, including hitbox visualization and respawn animation skipping.
-  + New: Quality of life improvements for Hollow Knight platforming, including better hitbox visualization and respawn animation skipping.
 
 ### PurenailCore
 

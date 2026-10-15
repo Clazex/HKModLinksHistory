@@ -1,5 +1,3 @@
-HKMP.Timer
-OneShot PvP
 FasterAnimators
 MidAirHealing
 MusicShuffle

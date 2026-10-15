@@ -1,7 +1,4 @@
 Architect
-BetterScreenShot
-Hollow Knight 8-Player Co-op
-Architect
 GlobalList Atlas
 BingoAdvancedCustomGeneration
 BingoBoardReplay

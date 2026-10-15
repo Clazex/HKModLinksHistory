@@ -1,9 +1,4 @@
 Architect
-HKMP.Timer
-Knight of Nights
-OneShot PvP
-PlatformingQoL
-Architect
 FasterAnimators
 MoreStags
 Another Location

@@ -1,7 +1,0 @@
-GlobalList Atlas
-HKMP.Rounds
-HKMP.Timer
-HollowKnightTAS
-ReplayLogger
-Teleport Master
-mahoraga-wheel
