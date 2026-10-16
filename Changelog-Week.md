@@ -5,7 +5,7 @@
 
 ### Architect
 
-- Version: 3.38.0.0 -> 3.38.1.0
+- Version: 3.38.0.0 -> 3.39.0.0
 
 ### BingoAdvancedCustomGeneration
 

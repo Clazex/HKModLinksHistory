@@ -7,3 +7,4 @@ BingoGoalPack2
 BingoGoalPackGrubDay
 BingoGoalPackSpleengy
 BingoSync
+Architect

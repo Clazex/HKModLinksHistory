@@ -1,18 +1,9 @@
 # Changelog
 
 
-## New mods
-
-### FasterAnimators
-
-- Description: Increases the speed of Animator objects, making some hazards faster
-- Tags
-  + Gameplay
-
-
 ## Updated mods
 
-### Architect
+### MoreStags
 
-- Version: 3.35.1.1 -> 3.35.3.0
+- Version: 1.1.2.2 -> 1.1.2.3
 

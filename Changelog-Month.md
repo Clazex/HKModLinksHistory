@@ -93,7 +93,7 @@
 
 ### Architect
 
-- Version: 3.35.1.1 -> 3.38.1.0
+- Version: 3.35.1.1 -> 3.39.0.0
 
 ### BingoAdvancedCustomGeneration
 
