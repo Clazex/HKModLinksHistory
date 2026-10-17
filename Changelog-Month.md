@@ -16,12 +16,6 @@
 - Tags
   + Utility
 
-### FasterAnimators
-
-- Description: Increases the speed of Animator objects, making some hazards faster
-- Tags
-  + Gameplay
-
 ### HKMP.Rounds
 
 - Description: An HKMP addon that adds a round-based system, automatic round starts, and PvP win statistics.
@@ -93,7 +87,7 @@
 
 ### Architect
 
-- Version: 3.35.1.1 -> 3.39.0.0
+- Version: 3.35.3.0 -> 3.39.0.0
 
 ### BingoAdvancedCustomGeneration
 
