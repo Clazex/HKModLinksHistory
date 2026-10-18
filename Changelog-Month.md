@@ -16,6 +16,17 @@
 - Tags
   + Utility
 
+### HKMP.List
+
+- Description: An HKMP addon for displaying the player list and managing host settings.
+- Dependencies
+  + HKMP
+- Integrations
+  + HKMP.Rounds
+- Tags
+  + Accessibility
+  + Utility
+
 ### HKMP.Rounds
 
 - Description: An HKMP addon that adds a round-based system, automatic round starts, and PvP win statistics.
@@ -57,6 +68,14 @@
 - Tags
   + Cosmetic
 
+### TerrariaArsenal
+
+- Description: Play Hollow Knight as a Terraria character: 36 Terraria weapons (melee, ranged, magic, summoner with whips) from chests after bosses, Terraria accessories instead of movement abilities, Terraria boss bar, character creator and Terraria music. Requires Terraria installed - all Terraria assets are loaded from your own copy.
+- Tags
+  + Expansion
+  + Gameplay
+  + LLM-Assisted
+
 ### VocesDelVacio
 
 - Description: Mod de doblaje al español latino para Hollow Knight
@@ -87,7 +106,7 @@
 
 ### Architect
 
-- Version: 3.35.3.0 -> 3.39.0.0
+- Version: 3.35.3.0 -> 3.39.1.0
 
 ### BingoAdvancedCustomGeneration
 
@@ -187,7 +206,7 @@
 
 ### MoreStags
 
-- Version: 1.1.2.2 -> 1.1.2.4
+- Version: 1.1.2.3 -> 1.1.2.4
 
 ### PurenailCore
 

@@ -508,11 +508,11 @@
   },
   "Architect": {
     "description": "A Hollow Knight level editor mod, easily make and share custom levels with an in-game level editor and level sharer.",
-    "version": "3.39.0.0",
+    "version": "3.39.1.0",
     "links": {
       "type": "universal",
-      "sha256": "713B1A1DE9C3772146B8AC08E705803A452A4E67D2C6AD3F37CF124F4223B892",
-      "url": "https://github.com/cometcake575/Architect-HK/releases/download/3.39.0.0/Architect.zip"
+      "sha256": "EA5BAA0140B3B3AAB0E61D962DB1CED1592AFE460598083BD4CF168294D0D6A8",
+      "url": "https://github.com/cometcake575/Architect-HK/releases/download/3.39.1.0/Architect.zip"
     },
     "dependencies": [
       "FsmMaster",
@@ -5262,6 +5262,29 @@
     ],
     "repository": "https://github.com/MorozicH20/Hkmp.CheckSave/"
   },
+  "HKMP.List": {
+    "description": "An HKMP addon for displaying the player list and managing host settings.",
+    "version": "1.0.0.0",
+    "links": {
+      "type": "universal",
+      "sha256": "E3132865BE37D6A4054A1CA3FB6EE7D8402B889F973B0AF54BB85BC8ED5250C6",
+      "url": "https://github.com/aristocrat27/HKMP.List/releases/download/Release/HKMP.List.zip"
+    },
+    "dependencies": [
+      "HKMP"
+    ],
+    "repository": "https://github.com/aristocrat27/HKMP.List",
+    "integrations": [
+      "HKMP.Rounds"
+    ],
+    "tags": [
+      "Accessibility",
+      "Utility"
+    ],
+    "authors": [
+      "Aristocrat"
+    ]
+  },
   "HKMP.ModDiff": {
     "description": "HKMP Addon for checking mod lists between Clients and Servers.",
     "version": "1.0.2.0",
@@ -5797,11 +5820,11 @@
   },
   "Hollow Knight 8-Player Co-op": {
     "description": "Local co-op for up to 8 players, with independent controls, charms and roles, shared progression, and configurable PvP arenas.",
-    "version": "0.10.0.0",
+    "version": "0.11.0.0",
     "links": {
       "type": "universal",
-      "sha256": "4B14E65C60C0AD8A1F02E84D421901963F63AF623300FD3612B1FB103F9B3397",
-      "url": "https://github.com/RaulSB-code/HollowKnight-Local8/releases/download/v0.10.0/HollowKnightLocal8-v0.10.0.zip"
+      "sha256": "ED1ACBD9547AA4A0C4D1775FF777926C19CFF189210110C1C30A735A32C28E56",
+      "url": "https://github.com/RaulSB-code/HollowKnight-Local8/releases/download/v0.11.0/HollowKnightLocal8-v0.11.0.zip"
     },
     "dependencies": [],
     "repository": "https://github.com/RaulSB-code/HollowKnight-Local8",
@@ -11397,6 +11420,25 @@
     ],
     "authors": [
       "Ishmael"
+    ]
+  },
+  "TerrariaArsenal": {
+    "description": "Play Hollow Knight as a Terraria character: 36 Terraria weapons (melee, ranged, magic, summoner with whips) from chests after bosses, Terraria accessories instead of movement abilities, Terraria boss bar, character creator and Terraria music. Requires Terraria installed - all Terraria assets are loaded from your own copy.",
+    "version": "1.0.2.0",
+    "links": {
+      "type": "universal",
+      "sha256": "C5CEAB8462FC32F2F5B38D18A4DE2C2C90B4CED73094381A94E034BB0B5C204D",
+      "url": "https://raw.githubusercontent.com/Kaenari/Hollow-Knight-But-Terraria-Wanted-Me-to-Play-It-So-It-Took-My-Game-and-Forced-Me-to-Play-It/afd0095fa9b1ea9be48a5a09cbde15181d193def/release/TerrariaArsenal_1.0.2.0.zip"
+    },
+    "dependencies": [],
+    "repository": "https://github.com/Kaenari/Hollow-Knight-But-Terraria-Wanted-Me-to-Play-It-So-It-Took-My-Game-and-Forced-Me-to-Play-It",
+    "tags": [
+      "Expansion",
+      "Gameplay",
+      "LLM-Assisted"
+    ],
+    "authors": [
+      "Kaenari"
     ]
   },
   "TestOfTeamwork": {
