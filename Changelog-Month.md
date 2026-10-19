@@ -16,6 +16,20 @@
 - Tags
   + Utility
 
+### Bullshittery
+
+- Description: Adds probably the most random features you&#x27;ve ever seen, ranging from simple features to jawdropping bullshit
+- Tags
+  + Gameplay
+  + Joke
+
+### GreenKnight
+
+- Description: A mod which literally just makes the Knight green
+- Tags
+  + Gameplay
+  + Joke
+
 ### HKMP.List
 
 - Description: An HKMP addon for displaying the player list and managing host settings.

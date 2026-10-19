@@ -1345,6 +1345,25 @@
       "Purenail"
     ]
   },
+  "Bullshittery": {
+    "description": "Adds probably the most random features you've ever seen, ranging from simple features to jawdropping bullshit",
+    "version": "1.5.69.5",
+    "links": {
+      "type": "universal",
+      "sha256": "E8FC9F3A2EA38CE902B505E22580E7BD767B9B3E18D1A6E979855E4529A9E4F8",
+      "url": "https://github.com/ChadMcOrgans2022/Bullshittery/releases/download/v1.5.69.5/Bullshittery.1.5.69.5.zip"
+    },
+    "dependencies": [],
+    "repository": "https://github.com/ChadMcOrgans2022/Bullshittery",
+    "issues": "https://github.com/ChadMcOrgans2022/Bullshittery/issues",
+    "tags": [
+      "Gameplay",
+      "Joke"
+    ],
+    "authors": [
+      "MuffinCakes65"
+    ]
+  },
   "CabbyCodes": {
     "description": "A comprehensive cheat menu mod that provides control over player stats, inventory, and game state through an in-game interface",
     "version": "1.4.2.0",
@@ -5000,6 +5019,25 @@
     "repository": "https://github.com/ygsbzr/HollowKnight.GreatChampion/",
     "tags": [
       "Boss"
+    ]
+  },
+  "GreenKnight": {
+    "description": "A mod which literally just makes the Knight green",
+    "version": "1.0.255.0",
+    "links": {
+      "type": "universal",
+      "sha256": "D2C8879F72128B5E514C03AE9929077A8AD19F6F0627BF4EE953FA2E2D65BEEE",
+      "url": "https://github.com/ChadMcOrgans2022/GreenKnight/releases/download/v1.0.255.0/GreenKnight.1.0.255.0.zip"
+    },
+    "dependencies": [],
+    "repository": "https://github.com/ChadMcOrgans2022/GreenKnight",
+    "issues": "https://github.com/ChadMcOrgans2022/GreenKnight/issues",
+    "tags": [
+      "Gameplay",
+      "Joke"
+    ],
+    "authors": [
+      "MuffinCakes65"
     ]
   },
   "Grimmchild Anywhere": {

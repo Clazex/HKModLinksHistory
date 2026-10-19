@@ -1,12 +1,7 @@
-BingoAdvancedCustomGeneration
-BingoBoardReplay
-BingoGoalPack1
-BingoGoalPack2
-BingoGoalPackGrubDay
-BingoGoalPackSpleengy
-BingoSync
 Architect
 Architect
 HKMP.List
 Hollow Knight 8-Player Co-op
 TerrariaArsenal
+Bullshittery
+GreenKnight

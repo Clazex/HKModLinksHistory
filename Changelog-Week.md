@@ -3,6 +3,20 @@
 
 ## New mods
 
+### Bullshittery
+
+- Description: Adds probably the most random features you&#x27;ve ever seen, ranging from simple features to jawdropping bullshit
+- Tags
+  + Gameplay
+  + Joke
+
+### GreenKnight
+
+- Description: A mod which literally just makes the Knight green
+- Tags
+  + Gameplay
+  + Joke
+
 ### HKMP.List
 
 - Description: An HKMP addon for displaying the player list and managing host settings.
@@ -28,34 +42,6 @@
 ### Architect
 
 - Version: 3.38.1.0 -> 3.39.1.0
-
-### BingoAdvancedCustomGeneration
-
-- Version: 1.1.1.0 -> 1.2.1.2
-
-### BingoBoardReplay
-
-- Version: 1.3.4.4 -> 1.4.0.1
-
-### BingoGoalPack1
-
-- Version: 1.6.0.0 -> 1.7.0.0
-
-### BingoGoalPack2
-
-- Version: 1.1.0.0 -> 1.2.0.0
-
-### BingoGoalPackGrubDay
-
-- Version: 1.0.0.0 -> 1.1.0.0
-
-### BingoGoalPackSpleengy
-
-- Version: 1.0.0.0 -> 1.1.0.0
-
-### BingoSync
-
-- Version: 1.4.5.5 -> 1.6.2.3
 
 ### Hollow Knight 8-Player Co-op
 
