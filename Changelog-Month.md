@@ -120,7 +120,7 @@
 
 ### Architect
 
-- Version: 3.35.3.0 -> 3.39.1.0
+- Version: 3.35.3.0 -> 3.39.2.0
 
 ### BingoAdvancedCustomGeneration
 

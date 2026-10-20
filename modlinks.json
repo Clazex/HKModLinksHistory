@@ -508,11 +508,11 @@
   },
   "Architect": {
     "description": "A Hollow Knight level editor mod, easily make and share custom levels with an in-game level editor and level sharer.",
-    "version": "3.39.1.0",
+    "version": "3.39.2.0",
     "links": {
       "type": "universal",
-      "sha256": "EA5BAA0140B3B3AAB0E61D962DB1CED1592AFE460598083BD4CF168294D0D6A8",
-      "url": "https://github.com/cometcake575/Architect-HK/releases/download/3.39.1.0/Architect.zip"
+      "sha256": "4327259804BD06774B3FBCBA602F31AB2778BAA4A05C20EF6695CA831432079D",
+      "url": "https://github.com/cometcake575/Architect-HK/releases/download/3.39.2.0/Architect.zip"
     },
     "dependencies": [
       "FsmMaster",
@@ -5858,11 +5858,11 @@
   },
   "Hollow Knight 8-Player Co-op": {
     "description": "Local co-op for up to 8 players, with independent controls, charms and roles, shared progression, and configurable PvP arenas.",
-    "version": "0.11.0.0",
+    "version": "0.11.1.0",
     "links": {
       "type": "universal",
-      "sha256": "ED1ACBD9547AA4A0C4D1775FF777926C19CFF189210110C1C30A735A32C28E56",
-      "url": "https://github.com/RaulSB-code/HollowKnight-Local8/releases/download/v0.11.0/HollowKnightLocal8-v0.11.0.zip"
+      "sha256": "CF8A67C3256F7CC89F5645634EE2BD26DD539F19B9B22933A51F40F771D98D69",
+      "url": "https://github.com/RaulSB-code/HollowKnight-Local8/releases/download/v0.11.1/HollowKnightLocal8-v0.11.1.zip"
     },
     "dependencies": [],
     "repository": "https://github.com/RaulSB-code/HollowKnight-Local8",

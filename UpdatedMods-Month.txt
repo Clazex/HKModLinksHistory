@@ -41,3 +41,5 @@ BingoSync
 Architect
 Architect
 Hollow Knight 8-Player Co-op
+Architect
+Hollow Knight 8-Player Co-op
