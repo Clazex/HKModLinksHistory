@@ -1,5 +1,4 @@
 Architect
-Architect
 HKMP.List
 Hollow Knight 8-Player Co-op
 TerrariaArsenal
@@ -8,3 +7,5 @@ GreenKnight
 Architect
 Hollow Knight 8-Player Co-op
 Architect
+CustomizableAbilities
+HKMP.Rounds
