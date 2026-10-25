@@ -508,11 +508,11 @@
   },
   "Architect": {
     "description": "A Hollow Knight level editor mod, easily make and share custom levels with an in-game level editor and level sharer.",
-    "version": "3.39.3.0",
+    "version": "3.39.4.0",
     "links": {
       "type": "universal",
-      "sha256": "3F7234CBAB8B7F9232EEDEAF6470EA9DE44FC2ED2EDA81F5870A168E8754344A",
-      "url": "https://github.com/cometcake575/Architect-HK/releases/download/3.39.3.0/Architect.zip"
+      "sha256": "EAB9253C633885CB832654BC849C07805B325B55ABB806DBA22F183DBE8E210D",
+      "url": "https://github.com/cometcake575/Architect-HK/releases/download/3.39.4.0/Architect.zip"
     },
     "dependencies": [
       "FsmMaster",
@@ -683,6 +683,25 @@
       "HKTool Legacy"
     ],
     "repository": "https://github.com/HK-Modding-Preservation/Box074/"
+  },
+  "BadApple": {
+    "description": "Plays the Bad Apple!! shadow-art music video on a loop over the whole game. You can only see the game through the inside of the silhouettes. Purely visual, with optional music, background and size settings.",
+    "version": "1.0.0.0",
+    "links": {
+      "type": "universal",
+      "sha256": "C6D0328D8CE100A6E3B0420766B6DAFC80D6CFD74FC50532DEFFF810C7BC6A3F",
+      "url": "https://github.com/Dreamy-Catty/HollowKnight.BadApple/releases/download/v1.0.0.0/BadApple.zip"
+    },
+    "dependencies": [],
+    "repository": "https://github.com/Dreamy-Catty/HollowKnight.BadApple",
+    "issues": "https://github.com/Dreamy-Catty/HollowKnight.BadApple/issues",
+    "tags": [
+      "Cosmetic",
+      "Joke"
+    ],
+    "authors": [
+      "Dreamy-Catty"
+    ]
   },
   "BaldurRngConfig": {
     "description": "Configure various Elder Baldur settings",
@@ -5356,6 +5375,29 @@
       "Aristocrat"
     ]
   },
+  "HKMP.Spectator": {
+    "description": "An HKMP addon that adds a spectator mode, free-cam, player tracking, and integration with HKMP.Rounds.",
+    "version": "1.0.0.0",
+    "links": {
+      "type": "universal",
+      "sha256": "F599994CA2FA5E7C814815B277C722546596DA8978701508FD3B7F1A48D65B47",
+      "url": "https://github.com/aristocrat27/HKMP.Spectator/releases/download/Release/HKMP.Spectator.zip"
+    },
+    "dependencies": [
+      "HKMP"
+    ],
+    "repository": "https://github.com/aristocrat27/HKMP.Spectator",
+    "integrations": [
+      "HKMP.Rounds"
+    ],
+    "tags": [
+      "Accessibility",
+      "Utility"
+    ],
+    "authors": [
+      "Aristocrat"
+    ]
+  },
   "HKMP.Timer": {
     "description": "Synchronized timer/stopwatch for Hollow Knight multiplayer through HKMP.",
     "version": "1.1.0.0",
@@ -5858,11 +5900,11 @@
   },
   "Hollow Knight 8-Player Co-op": {
     "description": "Local co-op for up to 8 players, with independent controls, charms and roles, shared progression, and configurable PvP arenas.",
-    "version": "0.11.1.0",
+    "version": "0.11.2.0",
     "links": {
       "type": "universal",
-      "sha256": "CF8A67C3256F7CC89F5645634EE2BD26DD539F19B9B22933A51F40F771D98D69",
-      "url": "https://github.com/RaulSB-code/HollowKnight-Local8/releases/download/v0.11.1/HollowKnightLocal8-v0.11.1.zip"
+      "sha256": "62FB936525F5A6A704A3C6854CBFC289C258F3DFD84A0148DEE4732BA9EDCB8A",
+      "url": "https://github.com/RaulSB-code/HollowKnight-Local8/releases/download/v0.11.2/HollowKnightLocal8-v0.11.2.zip"
     },
     "dependencies": [],
     "repository": "https://github.com/RaulSB-code/HollowKnight-Local8",
@@ -12553,11 +12595,11 @@
   },
   "Wrong Gravity": {
     "description": "Hallownest? Hɐlloʍuǝsʇ!",
-    "version": "1.0.0.0",
+    "version": "1.0.0.9",
     "links": {
       "type": "universal",
-      "sha256": "A95BCAE12E8DD96EEA1D1107A3CB71D3090525CE864BFBF6E34E3BCB542D5137",
-      "url": "https://github.com/FrogBishop/HollowKnight.WrongGravity/releases/download/1.0.0.0/WrongGravity.zip"
+      "sha256": "C4B5C4A4C468288229855806567C5CD10F3DFBE6420A0BE7E371B86C944BA616",
+      "url": "https://github.com/FrogBishop/HollowKnight.WrongGravity/releases/download/1.0.0.9/WrongGravity.zip"
     },
     "dependencies": [
       "Vasi"

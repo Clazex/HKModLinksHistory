@@ -3,26 +3,30 @@
 
 ## New mods
 
-### Bullshittery
+### BadApple
 
-- Description: Adds probably the most random features you&#x27;ve ever seen, ranging from simple features to jawdropping bullshit
+- Description: Plays the Bad Apple!! shadow-art music video on a loop over the whole game. You can only see the game through the inside of the silhouettes. Purely visual, with optional music, background and size settings.
 - Tags
-  + Gameplay
+  + Cosmetic
   + Joke
 
-### GreenKnight
+### HKMP.Spectator
 
-- Description: A mod which literally just makes the Knight green
+- Description: An HKMP addon that adds a spectator mode, free-cam, player tracking, and integration with HKMP.Rounds.
+- Dependencies
+  + HKMP
+- Integrations
+  + HKMP.Rounds
 - Tags
-  + Gameplay
-  + Joke
+  + Accessibility
+  + Utility
 
 
 ## Updated mods
 
 ### Architect
 
-- Version: 3.39.1.0 -> 3.39.3.0
+- Version: 3.39.1.0 -> 3.39.4.0
 
 ### CustomizableAbilities
 
@@ -37,5 +41,9 @@
 
 ### Hollow Knight 8-Player Co-op
 
-- Version: 0.11.0.0 -> 0.11.1.0
+- Version: 0.11.0.0 -> 0.11.2.0
+
+### Wrong Gravity
+
+- Version: 1.0.0.0 -> 1.0.0.9
 

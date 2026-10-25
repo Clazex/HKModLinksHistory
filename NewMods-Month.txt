@@ -11,3 +11,5 @@ HKMP.List
 TerrariaArsenal
 Bullshittery
 GreenKnight
+BadApple
+HKMP.Spectator

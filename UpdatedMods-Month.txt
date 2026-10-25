@@ -46,3 +46,6 @@ Hollow Knight 8-Player Co-op
 Architect
 CustomizableAbilities
 HKMP.Rounds
+Architect
+Hollow Knight 8-Player Co-op
+Wrong Gravity
