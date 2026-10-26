@@ -30,6 +30,24 @@
   + Gameplay
   + Joke
 
+### GhostPlando
+
+- Description: Supplemental code for the Incorporeal Echoes plando
+- Dependencies
+  + AccessRandomizer
+  + HKTool
+  + ItemChanger
+  + ItemChangerDataLoader
+  + Lore Randomizer
+  + LoreCore
+  + MenuChanger
+  + MoreDoors
+  + Randomizer 4
+  + RandomizerCore
+  + WavLib
+- Integrations
+  + DebugMod
+
 ### GreenKnight
 
 - Description: A mod which literally just makes the Knight green
@@ -84,22 +102,6 @@
   + LLM-Assisted
   + Utility
 
-### MidAirHealing
-
-- Description: Allows you to heal in mid-air (as well as on water).
-- Tags
-  + Accessibility
-  + Gameplay
-
-### MusicShuffle
-
-- Description: Shuffles the soundtrack around randomly.
-- Dependencies
-  + Osmi
-  + Satchel
-- Tags
-  + Cosmetic
-
 ### TerrariaArsenal
 
 - Description: Play Hollow Knight as a Terraria character: 36 Terraria weapons (melee, ranged, magic, summoner with whips) from chests after bosses, Terraria accessories instead of movement abilities, Terraria boss bar, character creator and Terraria music. Requires Terraria installed - all Terraria assets are loaded from your own copy.
@@ -132,13 +134,9 @@
 
 ## Updated mods
 
-### Another Location
-
-- Version: 1.0.0.0 -> 1.0.0.1
-
 ### Architect
 
-- Version: 3.35.3.0 -> 3.39.4.0
+- Version: 3.37.0.3 -> 3.39.4.0
 
 ### BingoAdvancedCustomGeneration
 
@@ -172,10 +170,6 @@
 
 - Version: 1.5.3.0 -> 1.5.4.0
 
-### Charm Rebalanced
-
-- Version: 3.0.6.0 -> 3.0.7.0
-
 ### CustomizableAbilities
 
 - Version: 1.3.4.1 -> 1.5.0.0
@@ -191,23 +185,9 @@
 
 - Version: 1.2.0.0 -> 1.3.0.0
 
-### Ghost Macro
-
-- Version: 1.0.0.0 -> 2.0.0.0
-- Description
-  + Old: Scene-based hitbox recording and replay system with timeline playback, multi-visit support, and macro-like ghost replays
-  + New: Scene-based character recording and replay system with timeline playback, multi-visit support, and macro-like ghost replays
-- Dependencies
-  + Removed
-    - DebugMod
-    - MagicUI
-- Integrations
-  + Added
-    - Custom Knight
-
 ### GlobalList Atlas
 
-- Version: 1.0.0.0 -> 2.6.0.0
+- Version: 1.5.0.0 -> 2.6.0.0
 - Description
   + Old: Connects to the community&#x27;s global spreadsheet archive of fan-made rated maps. Browse and filter maps by editor, tags, rating and verification status, then download, install, and launch them directly from an in-game menu — including required editors and public mods.
   + New: Connects to the community&#x27;s global spreadsheet archive of fan-made rated maps and the public Architect server catalog. Browse and filter maps by editor, tags, rating, verification status and league, then download, install and launch them from an in-game menu, including required editors and public mods.
@@ -243,9 +223,9 @@
 
 - Version: 3.4.2.0 -> 3.4.3.0
 
-### MoreStags
+### MusicShuffle
 
-- Version: 1.1.2.3 -> 1.1.2.4
+- Version: 1.0.0.0 -> 1.0.1.0
 
 ### PurenailCore
 
@@ -265,10 +245,6 @@
 ### Scattered and Lost
 
 - Version: 1.6.6.0 -> 1.6.7.0
-
-### ShuffledCharmEffects
-
-- Version: 1.1.0.0 -> 1.1.0.1
 
 ### SpoilerViewerMod
 

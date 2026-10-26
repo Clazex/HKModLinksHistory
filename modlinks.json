@@ -4643,6 +4643,35 @@
     ],
     "repository": "https://github.com/PrashantMohta/GhostHunter/"
   },
+  "GhostPlando": {
+    "description": "Supplemental code for the Incorporeal Echoes plando",
+    "version": "1.0.0.0",
+    "links": {
+      "type": "universal",
+      "sha256": "6F3922193812E9EB271A780E5BC411491CD93609DCDC5ECF07A328B0292EB85C",
+      "url": "https://github.com/TheMathGeek314/GhostPlando/releases/download/v1.0.0.0/GhostPlando.zip"
+    },
+    "dependencies": [
+      "AccessRandomizer",
+      "HKTool",
+      "ItemChanger",
+      "ItemChangerDataLoader",
+      "Lore Randomizer",
+      "LoreCore",
+      "MenuChanger",
+      "MoreDoors",
+      "Randomizer 4",
+      "RandomizerCore",
+      "WavLib"
+    ],
+    "repository": "https://github.com/TheMathGeek314/GhostPlando/",
+    "integrations": [
+      "DebugMod"
+    ],
+    "authors": [
+      "TheMathGeek_314"
+    ]
+  },
   "Glass Cannon Mod": {
     "description": "Makes everything one shot, including you",
     "version": "1.0.0.0",

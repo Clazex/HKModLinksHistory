@@ -1,5 +1,3 @@
-MidAirHealing
-MusicShuffle
 BetterParrying
 HollowKnightTAS
 VocesDelVacio
@@ -13,3 +11,4 @@ Bullshittery
 GreenKnight
 BadApple
 HKMP.Spectator
+GhostPlando

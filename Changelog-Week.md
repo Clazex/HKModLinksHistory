@@ -10,6 +10,24 @@
   + Cosmetic
   + Joke
 
+### GhostPlando
+
+- Description: Supplemental code for the Incorporeal Echoes plando
+- Dependencies
+  + AccessRandomizer
+  + HKTool
+  + ItemChanger
+  + ItemChangerDataLoader
+  + Lore Randomizer
+  + LoreCore
+  + MenuChanger
+  + MoreDoors
+  + Randomizer 4
+  + RandomizerCore
+  + WavLib
+- Integrations
+  + DebugMod
+
 ### HKMP.Spectator
 
 - Description: An HKMP addon that adds a spectator mode, free-cam, player tracking, and integration with HKMP.Rounds.
@@ -26,7 +44,7 @@
 
 ### Architect
 
-- Version: 3.39.1.0 -> 3.39.4.0
+- Version: 3.39.2.0 -> 3.39.4.0
 
 ### CustomizableAbilities
 
@@ -41,7 +59,7 @@
 
 ### Hollow Knight 8-Player Co-op
 
-- Version: 0.11.0.0 -> 0.11.2.0
+- Version: 0.11.1.0 -> 0.11.2.0
 
 ### Wrong Gravity
 
