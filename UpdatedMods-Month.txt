@@ -1,7 +1,4 @@
 Architect
-EverySceneUtil
-GodhomeQoL
-Architect
 Architect
 BugPrince
 DarknessRandomizer
@@ -42,3 +39,4 @@ HKMP.Rounds
 Architect
 Hollow Knight 8-Player Co-op
 Wrong Gravity
+ReplayTimerMod

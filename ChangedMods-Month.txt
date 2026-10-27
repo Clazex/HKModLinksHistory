@@ -1,8 +1,4 @@
 Architect
-BetterParrying
-EverySceneUtil
-GodhomeQoL
-Architect
 Architect
 BugPrince
 DarknessRandomizer
@@ -56,3 +52,5 @@ HKMP.Spectator
 Hollow Knight 8-Player Co-op
 Wrong Gravity
 GhostPlando
+ReplayTimerMod
+Spell Staller Charms

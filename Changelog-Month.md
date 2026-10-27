@@ -10,13 +10,6 @@
   + Cosmetic
   + Joke
 
-### BetterParrying
-
-- Description: Simplifies the game&#x27;s parrying mechanics.
-- Tags
-  + Accessibility
-  + Gameplay
-
 ### BetterScreenShot
 
 - Description: Press Print Screen to freeze the game, zoom out up to ×25, and save any area of the room at full resolution to a file or the clipboard.
@@ -102,6 +95,20 @@
   + LLM-Assisted
   + Utility
 
+### Spell Staller Charms
+
+- Description: Adds some fun spell-related charms
+- Dependencies
+  + ItemChanger
+  + KorzUtils
+  + MenuChanger
+  + RandoSettingsManager
+  + Randomizer 4
+  + RandomizerCore
+  + RandomizerCore.Json
+  + SFCore
+  + Vasi
+
 ### TerrariaArsenal
 
 - Description: Play Hollow Knight as a Terraria character: 36 Terraria weapons (melee, ranged, magic, summoner with whips) from chests after bosses, Terraria accessories instead of movement abilities, Terraria boss bar, character creator and Terraria music. Requires Terraria installed - all Terraria assets are loaded from your own copy.
@@ -136,7 +143,7 @@
 
 ### Architect
 
-- Version: 3.37.0.3 -> 3.39.4.0
+- Version: 3.37.1.0 -> 3.39.4.0
 
 ### BingoAdvancedCustomGeneration
 
@@ -181,10 +188,6 @@
 
 - Version: 1.5.2.0 -> 1.5.3.0
 
-### EverySceneUtil
-
-- Version: 1.2.0.0 -> 1.3.0.0
-
 ### GlobalList Atlas
 
 - Version: 1.5.0.0 -> 2.6.0.0
@@ -195,10 +198,6 @@
   + Added
     - HKMP
     - Teleport Master
-
-### GodhomeQoL
-
-- Version: 1.0.1.3 -> 1.0.1.4
 
 ### HKMP.Timer
 
@@ -237,6 +236,13 @@
 - Tags
   + Removed
     - LLM-Assisted
+
+### ReplayTimerMod
+
+- Version: 0.4.0.0 -> 0.1.0.0
+- Description
+  + Old: Records your best times through each room and plays it back as a ghost on your next attempt.
+  + New: Times every room and replays your best run through it as a ghost. Runs can be copied and shared with others.
 
 ### RespawnPoint Manager
 

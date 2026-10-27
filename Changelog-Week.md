@@ -39,12 +39,26 @@
   + Accessibility
   + Utility
 
+### Spell Staller Charms
+
+- Description: Adds some fun spell-related charms
+- Dependencies
+  + ItemChanger
+  + KorzUtils
+  + MenuChanger
+  + RandoSettingsManager
+  + Randomizer 4
+  + RandomizerCore
+  + RandomizerCore.Json
+  + SFCore
+  + Vasi
+
 
 ## Updated mods
 
 ### Architect
 
-- Version: 3.39.2.0 -> 3.39.4.0
+- Version: 3.39.3.0 -> 3.39.4.0
 
 ### CustomizableAbilities
 
@@ -60,6 +74,13 @@
 ### Hollow Knight 8-Player Co-op
 
 - Version: 0.11.1.0 -> 0.11.2.0
+
+### ReplayTimerMod
+
+- Version: 0.4.0.0 -> 0.1.0.0
+- Description
+  + Old: Records your best times through each room and plays it back as a ghost on your next attempt.
+  + New: Times every room and replays your best run through it as a ghost. Runs can be copied and shared with others.
 
 ### Wrong Gravity
 

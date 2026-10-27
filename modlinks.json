@@ -10062,12 +10062,12 @@
     ]
   },
   "ReplayTimerMod": {
-    "description": "Records your best times through each room and plays it back as a ghost on your next attempt.",
-    "version": "0.4.0.0",
+    "description": "Times every room and replays your best run through it as a ghost. Runs can be copied and shared with others.",
+    "version": "0.1.0.0",
     "links": {
       "type": "universal",
-      "sha256": "7B7087843D9CD2ECADF9AA07BBFDEB66531A6DD471EC8693A9228DC5CDA30F0F",
-      "url": "https://github.com/AdiPrk/ReplayTimerMod/releases/download/v0.4.0/ReplayModHK1578.zip"
+      "sha256": "3B7EB65DC58CECC5F4906109100F1AAA26C84B81F356F61608B5F0EBC4D8BB8E",
+      "url": "https://github.com/AdiPrk/ReplayTimerMod/releases/download/v1.0.0/ReplayModHK1578.zip"
     },
     "dependencies": [],
     "repository": "https://github.com/AdiPrk/ReplayTimerMod",
@@ -11162,6 +11162,30 @@
     ],
     "authors": [
       "Ishmael"
+    ]
+  },
+  "Spell Staller Charms": {
+    "description": "Adds some fun spell-related charms",
+    "version": "1.0.0.0",
+    "links": {
+      "type": "universal",
+      "sha256": "8CE818B7A5205D176E39A6510B6A45B1530FDE903D5FC58713385D47B9FF78D2",
+      "url": "https://github.com/Pengwizard/SpellStaller/releases/download/v1.0/SpellStaller.zip"
+    },
+    "dependencies": [
+      "ItemChanger",
+      "KorzUtils",
+      "MenuChanger",
+      "RandoSettingsManager",
+      "Randomizer 4",
+      "RandomizerCore",
+      "RandomizerCore.Json",
+      "SFCore",
+      "Vasi"
+    ],
+    "repository": "https://github.com/Pengwizard/SpellStaller/",
+    "authors": [
+      "Nopre"
     ]
   },
   "SpellChanger": {
