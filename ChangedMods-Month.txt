@@ -1,5 +1,4 @@
 Architect
-Architect
 BugPrince
 DarknessRandomizer
 Knight of Nights
@@ -53,4 +52,6 @@ Hollow Knight 8-Player Co-op
 Wrong Gravity
 GhostPlando
 ReplayTimerMod
+Spell Staller Charms
+Midautumn&#x27;s Knightmare
 Spell Staller Charms

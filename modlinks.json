@@ -7519,6 +7519,56 @@
       "TheMathGeek_314"
     ]
   },
+  "Midautumn's Knightmare": {
+    "description": "Main mod for Nopre's 2026 Holloween Plando",
+    "version": "1.0.0.0",
+    "links": {
+      "type": "universal",
+      "sha256": "B8A9F7B917A52A98C721E1E57543E6E6F4FF70CFCEFF111B3C73C3E63ECC8BC8",
+      "url": "https://github.com/Pengwizard/CorruptedDreamsPlando/releases/download/v1.3/CorruptedDreamsPlando.zip"
+    },
+    "dependencies": [
+      "AccessRandomizer",
+      "Benchwarp",
+      "BingoUI",
+      "CustomPoolInjector",
+      "DebugMod",
+      "Extra Rando",
+      "FStats",
+      "FrogCore",
+      "HKTool",
+      "ICExtraDeployers",
+      "ItemChanger",
+      "ItemChangerDataLoader",
+      "ItemSync",
+      "KorzUtils",
+      "MapChanger",
+      "MenuChanger",
+      "MoreDoors",
+      "PurenailCore",
+      "QoL",
+      "RandoMapMod",
+      "RandoPlus",
+      "RandoSettingsManager",
+      "RandoStats",
+      "Randomizable Levers",
+      "Randomizer 4",
+      "RandomizerCore",
+      "RandomizerCore.Json",
+      "RecentItemsDisplay",
+      "Rope Rando",
+      "SFCore",
+      "Satchel",
+      "Scatternest",
+      "Spell Staller Charms",
+      "TheGloryOfBeingAFoolRandomizer",
+      "WavLib"
+    ],
+    "repository": "https://github.com/Pengwizard/CorruptedDreamsPlando/",
+    "authors": [
+      "Nopre"
+    ]
+  },
   "MilliGolf": {
     "description": "An 18-hole course featuring Millibelle the Golf Ball",
     "version": "1.3.1.1",
@@ -11166,13 +11216,14 @@
   },
   "Spell Staller Charms": {
     "description": "Adds some fun spell-related charms",
-    "version": "1.0.0.0",
+    "version": "1.1.0.0",
     "links": {
       "type": "universal",
-      "sha256": "8CE818B7A5205D176E39A6510B6A45B1530FDE903D5FC58713385D47B9FF78D2",
-      "url": "https://github.com/Pengwizard/SpellStaller/releases/download/v1.0/SpellStaller.zip"
+      "sha256": "B248C67953B84DCE975C28C8C61E96F3CA39E66C76E3B15862635313DCE2C639",
+      "url": "https://github.com/Pengwizard/SpellStaller/releases/download/v1.1/SpellStaller.zip"
     },
     "dependencies": [
+      "DebugMod",
       "ItemChanger",
       "KorzUtils",
       "MenuChanger",

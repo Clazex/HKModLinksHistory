@@ -1,5 +1,4 @@
 Architect
-Architect
 BugPrince
 DarknessRandomizer
 Knight of Nights
@@ -40,3 +39,4 @@ Architect
 Hollow Knight 8-Player Co-op
 Wrong Gravity
 ReplayTimerMod
+Spell Staller Charms

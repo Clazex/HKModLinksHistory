@@ -39,10 +39,51 @@
   + Accessibility
   + Utility
 
+### Midautumn&#x27;s Knightmare
+
+- Description: Main mod for Nopre&#x27;s 2026 Holloween Plando
+- Dependencies
+  + AccessRandomizer
+  + Benchwarp
+  + BingoUI
+  + CustomPoolInjector
+  + DebugMod
+  + Extra Rando
+  + FStats
+  + FrogCore
+  + HKTool
+  + ICExtraDeployers
+  + ItemChanger
+  + ItemChangerDataLoader
+  + ItemSync
+  + KorzUtils
+  + MapChanger
+  + MenuChanger
+  + MoreDoors
+  + PurenailCore
+  + QoL
+  + RandoMapMod
+  + RandoPlus
+  + RandoSettingsManager
+  + RandoStats
+  + Randomizable Levers
+  + Randomizer 4
+  + RandomizerCore
+  + RandomizerCore.Json
+  + RecentItemsDisplay
+  + Rope Rando
+  + SFCore
+  + Satchel
+  + Scatternest
+  + Spell Staller Charms
+  + TheGloryOfBeingAFoolRandomizer
+  + WavLib
+
 ### Spell Staller Charms
 
 - Description: Adds some fun spell-related charms
 - Dependencies
+  + DebugMod
   + ItemChanger
   + KorzUtils
   + MenuChanger
@@ -59,17 +100,6 @@
 ### Architect
 
 - Version: 3.39.3.0 -> 3.39.4.0
-
-### CustomizableAbilities
-
-- Version: 1.3.4.1 -> 1.5.0.0
-- Description
-  + Old: Mod that allows you to customize abilities: negative and fractional nail; the amount of SOUL received from nail hits; nail cooldown; damage (also negative and fractional) and the amount of SOUL received from dream nail; spells and other abilities. Negative damage heals enemies.
-  + New: Mod that allows you to change the abilities: positive, negative and fractional nail damage; nail cooldown; amount of SOUL gained from nail hits; dream nail damage and SOUL gain; spells damage; crystal dash damage; focus cost and focus time. Negative damage heals enemies.
-
-### HKMP.Rounds
-
-- Version: 1.1.0.0 -> 1.2.0.0
 
 ### Hollow Knight 8-Player Co-op
 
