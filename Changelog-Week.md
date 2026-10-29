@@ -99,7 +99,7 @@
 
 ### Architect
 
-- Version: 3.39.3.0 -> 3.39.4.0
+- Version: 3.39.3.0 -> 3.39.5.0
 
 ### Hollow Knight 8-Player Co-op
 

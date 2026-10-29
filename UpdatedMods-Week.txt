@@ -3,3 +3,4 @@ Hollow Knight 8-Player Co-op
 Wrong Gravity
 ReplayTimerMod
 Spell Staller Charms
+Architect

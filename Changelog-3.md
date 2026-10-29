@@ -3,21 +3,27 @@
 
 ## New mods
 
-### GhostPlando
+### Spell Staller Charms
 
-- Description: Supplemental code for the Incorporeal Echoes plando
+- Description: Adds some fun spell-related charms
 - Dependencies
-  + AccessRandomizer
-  + HKTool
   + ItemChanger
-  + ItemChangerDataLoader
-  + Lore Randomizer
-  + LoreCore
+  + KorzUtils
   + MenuChanger
-  + MoreDoors
+  + RandoSettingsManager
   + Randomizer 4
   + RandomizerCore
-  + WavLib
-- Integrations
-  + DebugMod
+  + RandomizerCore.Json
+  + SFCore
+  + Vasi
+
+
+## Updated mods
+
+### ReplayTimerMod
+
+- Version: 0.4.0.0 -> 0.1.0.0
+- Description
+  + Old: Records your best times through each room and plays it back as a ghost on your next attempt.
+  + New: Times every room and replays your best run through it as a ghost. Runs can be copied and shared with others.
 

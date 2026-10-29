@@ -184,7 +184,7 @@
 
 ### Architect
 
-- Version: 3.37.2.0 -> 3.39.4.0
+- Version: 3.37.3.4 -> 3.39.5.0
 
 ### BingoAdvancedCustomGeneration
 
@@ -214,20 +214,12 @@
 
 - Version: 1.4.5.5 -> 1.6.2.3
 
-### BugPrince
-
-- Version: 1.5.3.0 -> 1.5.4.0
-
 ### CustomizableAbilities
 
 - Version: 1.3.4.1 -> 1.5.0.0
 - Description
   + Old: Mod that allows you to customize abilities: negative and fractional nail; the amount of SOUL received from nail hits; nail cooldown; damage (also negative and fractional) and the amount of SOUL received from dream nail; spells and other abilities. Negative damage heals enemies.
   + New: Mod that allows you to change the abilities: positive, negative and fractional nail damage; nail cooldown; amount of SOUL gained from nail hits; dream nail damage and SOUL gain; spells damage; crystal dash damage; focus cost and focus time. Negative damage heals enemies.
-
-### DarknessRandomizer
-
-- Version: 1.5.2.0 -> 1.5.3.0
 
 ### GlobalList Atlas
 
@@ -247,10 +239,6 @@
   + Old: Synchronized timer for Hollow Knight multiplayer through HKMP.
   + New: Synchronized timer/stopwatch for Hollow Knight multiplayer through HKMP.
 
-### Knight of Nights
-
-- Version: 2.0.9.0 -> 2.0.10.0
-
 ### LegacyRando
 
 - Version: 1.0.0.0 -> 1.0.1.0
@@ -258,18 +246,6 @@
 ### MendBreakables
 
 - Version: 1.0.0.0 -> 1.0.1.0
-
-### MoreDoors
-
-- Version: 3.4.2.0 -> 3.4.3.0
-
-### MusicShuffle
-
-- Version: 1.0.0.0 -> 1.0.1.0
-
-### PurenailCore
-
-- Version: 2.1.1.0 -> 2.2.1.0
 
 ### ReplayLogger
 
@@ -289,14 +265,6 @@
 
 - Version: 1.3.0.0 -> 1.4.0.0
 
-### Scattered and Lost
-
-- Version: 1.6.6.0 -> 1.6.7.0
-
-### SpoilerViewerMod
-
-- Version: 2.13.0.0 -> 2.13.1.0
-
 ### Teleport Master
 
 - Version: 1.0.0.0 -> 1.5.0.0
@@ -309,10 +277,6 @@
 - Tags
   + Removed
     - Gameplay
-
-### TreasureHunt
-
-- Version: 1.7.3.0 -> 1.7.4.0
 
 ### VendorRando
 
