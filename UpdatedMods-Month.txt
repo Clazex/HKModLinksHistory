@@ -31,3 +31,4 @@ Wrong Gravity
 ReplayTimerMod
 Spell Staller Charms
 Architect
+GhostPlando

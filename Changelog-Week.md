@@ -3,13 +3,6 @@
 
 ## New mods
 
-### BadApple
-
-- Description: Plays the Bad Apple!! shadow-art music video on a loop over the whole game. You can only see the game through the inside of the silhouettes. Purely visual, with optional music, background and size settings.
-- Tags
-  + Cosmetic
-  + Joke
-
 ### GhostPlando
 
 - Description: Supplemental code for the Incorporeal Echoes plando
@@ -27,17 +20,6 @@
   + WavLib
 - Integrations
   + DebugMod
-
-### HKMP.Spectator
-
-- Description: An HKMP addon that adds a spectator mode, free-cam, player tracking, and integration with HKMP.Rounds.
-- Dependencies
-  + HKMP
-- Integrations
-  + HKMP.Rounds
-- Tags
-  + Accessibility
-  + Utility
 
 ### Midautumn&#x27;s Knightmare
 
@@ -99,11 +81,7 @@
 
 ### Architect
 
-- Version: 3.39.3.0 -> 3.39.5.0
-
-### Hollow Knight 8-Player Co-op
-
-- Version: 0.11.1.0 -> 0.11.2.0
+- Version: 3.39.4.0 -> 3.39.5.0
 
 ### ReplayTimerMod
 
@@ -111,8 +89,4 @@
 - Description
   + Old: Records your best times through each room and plays it back as a ghost on your next attempt.
   + New: Times every room and replays your best run through it as a ghost. Runs can be copied and shared with others.
-
-### Wrong Gravity
-
-- Version: 1.0.0.0 -> 1.0.0.9
 

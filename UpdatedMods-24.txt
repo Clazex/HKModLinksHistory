@@ -1,5 +1,0 @@
-GlobalList Atlas
-HKMP.Timer
-HollowKnightTAS
-ReplayLogger
-Teleport Master

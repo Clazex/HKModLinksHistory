@@ -4645,11 +4645,11 @@
   },
   "GhostPlando": {
     "description": "Supplemental code for the Incorporeal Echoes plando",
-    "version": "1.0.0.0",
+    "version": "1.0.0.1",
     "links": {
       "type": "universal",
-      "sha256": "6F3922193812E9EB271A780E5BC411491CD93609DCDC5ECF07A328B0292EB85C",
-      "url": "https://github.com/TheMathGeek314/GhostPlando/releases/download/v1.0.0.0/GhostPlando.zip"
+      "sha256": "FC2C3C526C09E2C7F1F79F2A0BDBB648640A8A7F22DEC6D548BC5762C077144A",
+      "url": "https://github.com/TheMathGeek314/GhostPlando/releases/download/v1.0.0.1/GhostPlando.zip"
     },
     "dependencies": [
       "AccessRandomizer",
