@@ -1,5 +1,3 @@
-HollowKnightTAS
-RespawnPoint Manager
 LegacyRando
 MendBreakables
 VendorRando
@@ -47,3 +45,4 @@ Midautumn&#x27;s Knightmare
 Spell Staller Charms
 Architect
 GhostPlando
+Isma&#x27;s Embrace

@@ -6421,6 +6421,32 @@
       "EarlyHemisphere"
     ]
   },
+  "Isma's Embrace": {
+    "description": "A Randomizer connection for swimming beneath the surface",
+    "version": "1.0.0.0",
+    "links": {
+      "type": "universal",
+      "sha256": "61E3CAD9473E7CA44EB2BD3150D78E66D27371DAE0E9CFA85C7B79787DB1BE6D",
+      "url": "https://github.com/TheMathGeek314/IsmasEmbrace/releases/download/v1.0.0.0/IsmasEmbrace.zip"
+    },
+    "dependencies": [
+      "HKTool",
+      "ItemChanger",
+      "MenuChanger",
+      "Randomizer 4",
+      "RandomizerCore",
+      "RandomizerCore.Json"
+    ],
+    "repository": "https://github.com/TheMathGeek314/IsmasEmbrace/",
+    "integrations": [
+      "CondensedSpoilerLogger",
+      "ConnectionSettingsRando",
+      "RandoSettingsManager"
+    ],
+    "authors": [
+      "TheMathGeek_314"
+    ]
+  },
   "ItemChanger": {
     "description": "Mod which handles editing items and locations for other mods.",
     "version": "2.1.6.0",

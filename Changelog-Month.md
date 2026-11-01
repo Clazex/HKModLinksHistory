@@ -88,12 +88,20 @@
   + Gameplay
   + LLM-Assisted
 
-### HollowKnightTAS
+### Isma&#x27;s Embrace
 
-- Description: A TAS toolkit for Hollow Knight with a visual Studio editor, frame-by-frame input editing, recording and replay, timeline branching, MP4 export, and local control for AI agents and scripts. Windows only.
-- Tags
-  + LLM-Assisted
-  + Utility
+- Description: A Randomizer connection for swimming beneath the surface
+- Dependencies
+  + HKTool
+  + ItemChanger
+  + MenuChanger
+  + Randomizer 4
+  + RandomizerCore
+  + RandomizerCore.Json
+- Integrations
+  + CondensedSpoilerLogger
+  + ConnectionSettingsRando
+  + RandoSettingsManager
 
 ### Midautumn&#x27;s Knightmare
 
@@ -239,6 +247,13 @@
   + Old: Synchronized timer for Hollow Knight multiplayer through HKMP.
   + New: Synchronized timer/stopwatch for Hollow Knight multiplayer through HKMP.
 
+### HollowKnightTAS
+
+- Version: 0.1.5.0 -> 0.1.7.0
+- Tags
+  + Removed
+    - LLM-Assisted
+
 ### LegacyRando
 
 - Version: 1.0.0.0 -> 1.0.1.0
@@ -260,10 +275,6 @@
 - Description
   + Old: Records your best times through each room and plays it back as a ghost on your next attempt.
   + New: Times every room and replays your best run through it as a ghost. Runs can be copied and shared with others.
-
-### RespawnPoint Manager
-
-- Version: 1.3.0.0 -> 1.4.0.0
 
 ### Teleport Master
 

@@ -3,23 +3,20 @@
 
 ## New mods
 
-### GhostPlando
+### Isma&#x27;s Embrace
 
-- Description: Supplemental code for the Incorporeal Echoes plando
+- Description: A Randomizer connection for swimming beneath the surface
 - Dependencies
-  + AccessRandomizer
   + HKTool
   + ItemChanger
-  + ItemChangerDataLoader
-  + Lore Randomizer
-  + LoreCore
   + MenuChanger
-  + MoreDoors
   + Randomizer 4
   + RandomizerCore
-  + WavLib
+  + RandomizerCore.Json
 - Integrations
-  + DebugMod
+  + CondensedSpoilerLogger
+  + ConnectionSettingsRando
+  + RandoSettingsManager
 
 ### Midautumn&#x27;s Knightmare
 
@@ -82,6 +79,10 @@
 ### Architect
 
 - Version: 3.39.4.0 -> 3.39.5.0
+
+### GhostPlando
+
+- Version: 1.0.0.0 -> 1.0.0.1
 
 ### ReplayTimerMod
 

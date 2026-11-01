@@ -1,4 +1,3 @@
-RespawnPoint Manager
 LegacyRando
 MendBreakables
 VendorRando
