@@ -1560,6 +1560,27 @@
       "Gameplay"
     ]
   },
+  "Champion's Shell": {
+    "description": "Adds Champion's Shell, a 1-notch charm found in Dirtmouth that shows enemy health bars. Upgrade it at the Nailsmith with geo and relics to deal bonus nail damage to nearly dead enemies.",
+    "version": "0.1.0.0",
+    "links": {
+      "type": "universal",
+      "sha256": "67250A8705919B00FE9FF682241C7544B1221FBBFD07370BFDDD52D85F49D4E6",
+      "url": "https://github.com/owenqren/Champion-s-Shell/releases/download/v0.1.0/ChampionsShell.zip"
+    },
+    "dependencies": [
+      "SFCore"
+    ],
+    "repository": "https://github.com/owenqren/Champion-s-Shell",
+    "issues": "https://github.com/owenqren/Champion-s-Shell/issues",
+    "tags": [
+      "Charm",
+      "LLM-Assisted"
+    ],
+    "authors": [
+      "owenqren"
+    ]
+  },
   "ChangeHud": {
     "description": "A mod let you can use different kinds of huds in same mode.",
     "version": "1.0.0.0",
@@ -6423,11 +6444,11 @@
   },
   "Isma's Embrace": {
     "description": "A Randomizer connection for swimming beneath the surface",
-    "version": "1.0.0.0",
+    "version": "1.0.1.0",
     "links": {
       "type": "universal",
-      "sha256": "61E3CAD9473E7CA44EB2BD3150D78E66D27371DAE0E9CFA85C7B79787DB1BE6D",
-      "url": "https://github.com/TheMathGeek314/IsmasEmbrace/releases/download/v1.0.0.0/IsmasEmbrace.zip"
+      "sha256": "4BFCDFDA0F5388F091C591ACB503A7BA14B2936B7F5DBD250BD70D0368629072",
+      "url": "https://github.com/TheMathGeek314/IsmasEmbrace/releases/download/v1.0.1.0/IsmasEmbrace.zip"
     },
     "dependencies": [
       "HKTool",

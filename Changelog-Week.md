@@ -3,6 +3,15 @@
 
 ## New mods
 
+### Champion&#x27;s Shell
+
+- Description: Adds Champion&#x27;s Shell, a 1-notch charm found in Dirtmouth that shows enemy health bars. Upgrade it at the Nailsmith with geo and relics to deal bonus nail damage to nearly dead enemies.
+- Dependencies
+  + SFCore
+- Tags
+  + Charm
+  + LLM-Assisted
+
 ### Isma&#x27;s Embrace
 
 - Description: A Randomizer connection for swimming beneath the surface
@@ -58,21 +67,6 @@
   + TheGloryOfBeingAFoolRandomizer
   + WavLib
 
-### Spell Staller Charms
-
-- Description: Adds some fun spell-related charms
-- Dependencies
-  + DebugMod
-  + ItemChanger
-  + KorzUtils
-  + MenuChanger
-  + RandoSettingsManager
-  + Randomizer 4
-  + RandomizerCore
-  + RandomizerCore.Json
-  + SFCore
-  + Vasi
-
 
 ## Updated mods
 
@@ -84,10 +78,10 @@
 
 - Version: 1.0.0.0 -> 1.0.0.1
 
-### ReplayTimerMod
+### Spell Staller Charms
 
-- Version: 0.4.0.0 -> 0.1.0.0
-- Description
-  + Old: Records your best times through each room and plays it back as a ghost on your next attempt.
-  + New: Times every room and replays your best run through it as a ghost. Runs can be copied and shared with others.
+- Version: 1.0.0.0 -> 1.1.0.0
+- Dependencies
+  + Added
+    - DebugMod
 
