@@ -11872,11 +11872,11 @@
   },
   "TheRealTransitionRando": {
     "description": "A Randomizer connection that puts transitions into the same pool as the other items",
-    "version": "1.1.1.0",
+    "version": "1.1.2.0",
     "links": {
       "type": "universal",
-      "sha256": "33921757FE6EF549E007C722E26F8DFC5AE958FACBF4A30000886A5A69DA3F08",
-      "url": "https://github.com/TheMathGeek314/TheRealTransitionRando/releases/download/v1.1.1.0/TheRealTransitionRando.zip"
+      "sha256": "CEC45DABFB1D24F0C9291EDEDEAA18284CDE307F8CA41D3D98BE431563943C34",
+      "url": "https://github.com/TheMathGeek314/TheRealTransitionRando/releases/download/v1.1.2.0/TheRealTransitionRando.zip"
     },
     "dependencies": [
       "ItemChanger",

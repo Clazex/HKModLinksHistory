@@ -1,6 +1,3 @@
-LegacyRando
-MendBreakables
-VendorRando
 GlobalList Atlas
 HKMP.Timer
 HollowKnightTAS
@@ -32,3 +29,4 @@ Spell Staller Charms
 Architect
 GhostPlando
 Isma&#x27;s Embrace
+TheRealTransitionRando
