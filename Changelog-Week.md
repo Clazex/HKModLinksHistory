@@ -30,9 +30,9 @@
 
 ## Updated mods
 
-### Architect
+### GeoRando
 
-- Version: 3.39.4.0 -> 3.39.5.0
+- Version: 1.0.3.0 -> 1.0.3.1
 
 ### GhostPlando
 
