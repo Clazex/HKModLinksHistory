@@ -1,9 +1,11 @@
 # Changelog
 
 
-## Updated mods
+## New mods
 
-### GeoRando
+### QoL.Lite
 
-- Version: 1.0.3.0 -> 1.0.3.1
+- Description: A range of quality of life changes that are valid for Team Hitless no hit runs.
+- Tags
+  + Utility
 

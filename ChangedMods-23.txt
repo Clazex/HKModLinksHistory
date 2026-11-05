@@ -1,7 +1,0 @@
-BingoAdvancedCustomGeneration
-BingoBoardReplay
-BingoGoalPack1
-BingoGoalPack2
-BingoGoalPackGrubDay
-BingoGoalPackSpleengy
-BingoSync
