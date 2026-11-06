@@ -40,10 +40,6 @@
 
 - Version: 1.0.3.0 -> 1.0.3.1
 
-### GhostPlando
-
-- Version: 1.0.0.0 -> 1.0.0.1
-
 ### TheRealTransitionRando
 
 - Version: 1.1.1.0 -> 1.1.2.0
