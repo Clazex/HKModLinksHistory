@@ -1,6 +1,10 @@
-Isma&#x27;s Embrace
 Champion&#x27;s Shell
 Isma&#x27;s Embrace
 TheRealTransitionRando
 GeoRando
 QoL.Lite
+Architect
+CustomizableAbilities
+GeoShare
+MoreStags
+Pale Court Charms

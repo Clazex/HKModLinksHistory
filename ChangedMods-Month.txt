@@ -1,7 +1,4 @@
 Architect
-BetterScreenShot
-Hollow Knight 8-Player Co-op
-Architect
 GlobalList Atlas
 BingoAdvancedCustomGeneration
 BingoBoardReplay
@@ -40,3 +37,8 @@ Isma&#x27;s Embrace
 TheRealTransitionRando
 GeoRando
 QoL.Lite
+Architect
+CustomizableAbilities
+GeoShare
+MoreStags
+Pale Court Charms

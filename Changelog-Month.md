@@ -10,12 +10,6 @@
   + Cosmetic
   + Joke
 
-### BetterScreenShot
-
-- Description: Press Print Screen to freeze the game, zoom out up to ×25, and save any area of the room at full resolution to a file or the clipboard.
-- Tags
-  + Utility
-
 ### Bullshittery
 
 - Description: Adds probably the most random features you&#x27;ve ever seen, ranging from simple features to jawdropping bullshit
@@ -31,6 +25,14 @@
 - Tags
   + Charm
   + LLM-Assisted
+
+### GeoShare
+
+- Description: Allows players to transfer Geo in HKMP lobbies using chat commands.
+- Dependencies
+  + HKMP
+- Tags
+  + Gameplay
 
 ### GhostPlando
 
@@ -78,15 +80,6 @@
 - Tags
   + Accessibility
   + Utility
-
-### Hollow Knight 8-Player Co-op
-
-- Description: Local co-op for up to 8 players, with independent controls, charms and roles, shared progression, and configurable PvP arenas.
-- Integrations
-  + Custom Knight
-- Tags
-  + Gameplay
-  + LLM-Assisted
 
 ### Isma&#x27;s Embrace
 
@@ -146,6 +139,8 @@
 ### QoL.Lite
 
 - Description: A range of quality of life changes that are valid for Team Hitless no hit runs.
+- Dependencies
+  + Vasi
 - Tags
   + Utility
 
@@ -177,7 +172,7 @@
 
 ### Architect
 
-- Version: 3.37.3.4 -> 3.39.5.0
+- Version: 3.38.0.0 -> 3.40.0.0
 
 ### BingoAdvancedCustomGeneration
 
@@ -209,7 +204,7 @@
 
 ### CustomizableAbilities
 
-- Version: 1.3.4.1 -> 1.5.0.0
+- Version: 1.3.4.1 -> 1.5.0.1
 - Description
   + Old: Mod that allows you to customize abilities: negative and fractional nail; the amount of SOUL received from nail hits; nail cooldown; damage (also negative and fractional) and the amount of SOUL received from dream nail; spells and other abilities. Negative damage heals enemies.
   + New: Mod that allows you to change the abilities: positive, negative and fractional nail damage; nail cooldown; amount of SOUL gained from nail hits; dream nail damage and SOUL gain; spells damage; crystal dash damage; focus cost and focus time. Negative damage heals enemies.
@@ -228,6 +223,18 @@
 ### HKMP.Rounds
 
 - Version: 1.1.0.0 -> 1.2.0.0
+
+### Hollow Knight 8-Player Co-op
+
+- Version: 0.10.0.0 -> 0.11.2.0
+
+### MoreStags
+
+- Version: 1.1.2.4 -> 1.1.2.5
+
+### Pale Court Charms
+
+- Version: 1.4.0.0 -> 1.4.1.0
 
 ### ReplayTimerMod
 

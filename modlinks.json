@@ -508,11 +508,11 @@
   },
   "Architect": {
     "description": "A Hollow Knight level editor mod, easily make and share custom levels with an in-game level editor and level sharer.",
-    "version": "3.39.5.0",
+    "version": "3.40.0.0",
     "links": {
       "type": "universal",
-      "sha256": "9F4530F55ABFE9CF5DF00BE116597E9B974B265F4A2E1008B0D0D330C57BBAF1",
-      "url": "https://github.com/cometcake575/Architect-HK/releases/download/3.39.5.0/Architect.zip"
+      "sha256": "5804FB4D677FBE22E3DFD3517549632CB28851D283AEC6875764E37AA8835772",
+      "url": "https://github.com/cometcake575/Architect-HK/releases/download/3.40.0.0/Architect.zip"
     },
     "dependencies": [
       "FsmMaster",
@@ -2562,11 +2562,11 @@
   },
   "CustomizableAbilities": {
     "description": "Mod that allows you to change the abilities: positive, negative and fractional nail damage; nail cooldown; amount of SOUL gained from nail hits; dream nail damage and SOUL gain; spells damage; crystal dash damage; focus cost and focus time. Negative damage heals enemies.",
-    "version": "1.5.0.0",
+    "version": "1.5.0.1",
     "links": {
       "type": "universal",
-      "sha256": "B51CF8547A9819CDFA3393F9BCCA80B09CA265E1B86BE8C4D70B7D9FEE24C272",
-      "url": "https://github.com/kon4ino/CustomizableAbilities/releases/download/1.5.0.0/CustomizableNailDamage.zip"
+      "sha256": "6951D17A3B07D92DE8618CAE6A0263AC5B9EF550A8A12E3B246814074B54C270",
+      "url": "https://github.com/kon4ino/CustomizableAbilities/releases/download/1.5.0.1/CustomizableNailDamage.zip"
     },
     "dependencies": [
       "HKMirror",
@@ -4625,6 +4625,25 @@
     ],
     "authors": [
       "TheMathGeek_314"
+    ]
+  },
+  "GeoShare": {
+    "description": "Allows players to transfer Geo in HKMP lobbies using chat commands.",
+    "version": "0.9.0.0",
+    "links": {
+      "type": "universal",
+      "sha256": "F0D0A36AF2E563EBC2DFD9C5D9C99F9B6D1DE71E8837417E37101F3FC37F8241",
+      "url": "https://github.com/Euktop/HKMP-GeoShare/releases/download/v0.9.0-beta/GeoShare.zip"
+    },
+    "dependencies": [
+      "HKMP"
+    ],
+    "repository": "https://github.com/Euktop/HKMP-GeoShare",
+    "tags": [
+      "Gameplay"
+    ],
+    "authors": [
+      "Euktop"
     ]
   },
   "Ghost Macro": {
@@ -7943,11 +7962,11 @@
   },
   "MoreStags": {
     "description": "A Randomizer connection which adds new stag stations",
-    "version": "1.1.2.4",
+    "version": "1.1.2.5",
     "links": {
       "type": "universal",
-      "sha256": "AAB103E567748E0070834E502E0BD6E485F12C33C5C2734C5EE3641CE66413BB",
-      "url": "https://github.com/TheMathGeek314/MoreStags/releases/download/v1.1.2.4/MoreStags.zip"
+      "sha256": "CACF4E6F3EC06341A0E13826BF59ECA8402910AE7C82E4D99BB7923B00E63C85",
+      "url": "https://github.com/TheMathGeek314/MoreStags/releases/download/v1.1.2.5/MoreStags.zip"
     },
     "dependencies": [
       "AlreadyEnoughPlayMaker",
@@ -8817,11 +8836,11 @@
   },
   "Pale Court Charms": {
     "description": "Adds charms from Pale Court. Made to allow compatibility with mods that don't work with the main Pale Court. Works with Randomizer and Transcendence.\n        Do not use with Pale Court,as both mods add the same charms.",
-    "version": "1.4.0.0",
+    "version": "1.4.1.0",
     "links": {
       "type": "universal",
-      "sha256": "3D877111F06A8FEBAE07B72D582856B5D39234BBE2618DF76F7EB9C9E770F684",
-      "url": "https://github.com/Roma-337/PaleCourtCharms/releases/download/v1.4.0/PaleCourtCharms.zip"
+      "sha256": "0218D143FB89DF88AFB21548FAB6DB382A5BCF6289CDE724D9E7B1F3E5837AA8",
+      "url": "https://github.com/Roma-337/PaleCourtCharms/releases/download/v1.4.1/PaleCourtCharms.zip"
     },
     "dependencies": [
       "ItemChanger",
@@ -9397,7 +9416,9 @@
       "sha256": "86EBC74ACCC9E6669F19FA27237C6D2EE8F3F1BABF8DDCF31926E374038AE0A6",
       "url": "https://github.com/kyleanderror13/QoL.Lite/releases/download/v1.0.0/QoL.Lite.zip"
     },
-    "dependencies": [],
+    "dependencies": [
+      "Vasi"
+    ],
     "repository": "https://github.com/kyleanderror13/QoL.Lite",
     "tags": [
       "Utility"

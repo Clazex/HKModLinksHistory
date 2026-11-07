@@ -1,5 +1,4 @@
 Architect
-Architect
 GlobalList Atlas
 BingoAdvancedCustomGeneration
 BingoBoardReplay
@@ -26,3 +25,7 @@ GhostPlando
 Isma&#x27;s Embrace
 TheRealTransitionRando
 GeoRando
+Architect
+CustomizableAbilities
+MoreStags
+Pale Court Charms
