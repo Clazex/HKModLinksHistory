@@ -42,3 +42,4 @@ CustomizableAbilities
 GeoShare
 MoreStags
 Pale Court Charms
+ReplayLogger
