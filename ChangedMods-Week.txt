@@ -1,4 +1,3 @@
-TheRealTransitionRando
 GeoRando
 QoL.Lite
 Architect
