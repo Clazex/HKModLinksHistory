@@ -1,4 +1,3 @@
-GeoRando
 QoL.Lite
 Architect
 CustomizableAbilities

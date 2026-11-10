@@ -172,7 +172,7 @@
 
 ### Architect
 
-- Version: 3.38.0.0 -> 3.40.0.0
+- Version: 3.38.1.0 -> 3.40.0.0
 
 ### BingoAdvancedCustomGeneration
 
@@ -212,13 +212,6 @@
 ### GeoRando
 
 - Version: 1.0.3.0 -> 1.0.3.1
-
-### GlobalList Atlas
-
-- Version: 2.5.0.0 -> 2.6.0.0
-- Integrations
-  + Added
-    - HKMP
 
 ### HKMP.Rounds
 
