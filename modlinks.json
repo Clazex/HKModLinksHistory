@@ -508,11 +508,11 @@
   },
   "Architect": {
     "description": "A Hollow Knight level editor mod, easily make and share custom levels with an in-game level editor and level sharer.",
-    "version": "3.40.0.0",
+    "version": "3.40.2.0",
     "links": {
       "type": "universal",
-      "sha256": "5804FB4D677FBE22E3DFD3517549632CB28851D283AEC6875764E37AA8835772",
-      "url": "https://github.com/cometcake575/Architect-HK/releases/download/3.40.0.0/Architect.zip"
+      "sha256": "7684E1C4344A73888D56BD0A5DE11F21EDB62A4473524C8C96E3910F80C79D37",
+      "url": "https://github.com/cometcake575/Architect-HK/releases/download/3.40.2.0/Architect.zip"
     },
     "dependencies": [
       "FsmMaster",
@@ -4449,6 +4449,23 @@
       "TheMathGeek_314"
     ]
   },
+  "Gaslight": {
+    "description": "FPS and mod load profiler. Shows what eats your FPS: in-game graph, per-mod and per-method timings, lag spikes with the culprit, HTML report. Observer only; interface in English and Russian.",
+    "version": "1.1.0.0",
+    "links": {
+      "type": "universal",
+      "sha256": "F1DC6ED7D6004AB327CF052BE55C1C197C7FA406277EB3B93608DBC99E0B5D96",
+      "url": "https://github.com/Sova-89/Gaslight/releases/download/v1.1.0/Gaslight.zip"
+    },
+    "dependencies": [],
+    "repository": "https://github.com/Sova-89/Gaslight",
+    "tags": [
+      "Utility"
+    ],
+    "authors": [
+      "Sova"
+    ]
+  },
   "GatheringSwarmAlwaysOn": {
     "description": "Makes it so geo is collected with Gathering Swarm, even if the charm isn't in your inventory.",
     "version": "1.0.0.0",
@@ -4903,11 +4920,11 @@
   },
   "GodhomeQoL": {
     "description": "This mod is a large collection of tools designed to help challenge runners with their tasks.",
-    "version": "1.0.1.4",
+    "version": "2.0.0.0",
     "links": {
       "type": "universal",
-      "sha256": "30113C77F11DB5287BE6E9673617CA79DB5EBA6CEAE792BC775797F102061E24",
-      "url": "https://github.com/NightFuryoOo/GodhomeQoL/releases/download/v1.0.1.4/GodhomeQoL.zip"
+      "sha256": "D2B7022D8A1A80EA4E497122B29FC61D3CCCA36AAE711506A49EEDE83FB8E230",
+      "url": "https://github.com/NightFuryoOo/GodhomeQoL/releases/download/v2.0.0.0/GodhomeQoL.zip"
     },
     "dependencies": [
       "Osmi",
@@ -5274,11 +5291,11 @@
   },
   "HKBattle": {
     "description": "HKBattle is a Hollow Knight mod for solo practice and competitive boss and Pantheon challenges.",
-    "version": "1.0.0.3",
+    "version": "1.0.0.4",
     "links": {
       "type": "universal",
-      "sha256": "CD361771DAAACB00F6CBC8744298A76015F78349EA9AC2B2EFFDE25531DED0C6",
-      "url": "https://github.com/NightFuryoOo/HKBattle/releases/download/v1.0.0.3/HKBattle.zip"
+      "sha256": "061CBB74B8A0B2598FFE94C0C885AA8963CB5D77FA0163FE3153CF83DB34C2F4",
+      "url": "https://github.com/NightFuryoOo/HKBattle/releases/download/v1.0.0.4/HKBattle.zip"
     },
     "dependencies": [],
     "repository": "https://github.com/NightFuryoOo/HKBattle",
@@ -5390,17 +5407,18 @@
   },
   "HKMP.List": {
     "description": "An HKMP addon for displaying the player list and managing host settings.",
-    "version": "1.0.0.0",
+    "version": "1.1.0.0",
     "links": {
       "type": "universal",
-      "sha256": "E3132865BE37D6A4054A1CA3FB6EE7D8402B889F973B0AF54BB85BC8ED5250C6",
-      "url": "https://github.com/aristocrat27/HKMP.List/releases/download/Release/HKMP.List.zip"
+      "sha256": "7EBC40F079B4784E91B6CA88A5635232397389C3928D78EFC60A456EE6FDB2EF",
+      "url": "https://github.com/aristocrat27/HKMP.List/releases/download/1.1.0.0/HKMP.List.zip"
     },
     "dependencies": [
       "HKMP"
     ],
     "repository": "https://github.com/aristocrat27/HKMP.List",
     "integrations": [
+      "HKMP.MoreTeams",
       "HKMP.Rounds"
     ],
     "tags": [
@@ -5423,6 +5441,29 @@
       "HKMP"
     ],
     "repository": "https://github.com/BlindGarret/HKMP.ModDiff/"
+  },
+  "HKMP.MoreTeams": {
+    "description": "An HKMP addon that adds 8 additional teams and the ability to create custom ones.",
+    "version": "1.0.0.0",
+    "links": {
+      "type": "universal",
+      "sha256": "C7E6B9ECBE7AC80434D4BB0037AFCA79CA723B9D983EFDCC062E213EA8899B19",
+      "url": "https://github.com/aristocrat27/HKMP.MoreTeams/releases/download/Release/HKMP.MoreTeams.zip"
+    },
+    "dependencies": [
+      "HKMP"
+    ],
+    "repository": "https://github.com/aristocrat27/HKMP.MoreTeams",
+    "integrations": [
+      "HKMP.List"
+    ],
+    "tags": [
+      "Accessibility",
+      "Utility"
+    ],
+    "authors": [
+      "Aristocrat"
+    ]
   },
   "HKMP.Rounds": {
     "description": "An HKMP addon that adds a round-based system, automatic round starts, and PvP win statistics.",
@@ -6008,6 +6049,21 @@
     ],
     "authors": [
       "Bluescratch"
+    ]
+  },
+  "Hollow Knight Native Rumble — macOS": {
+    "description": "Native macOS controller rumble for Hollow Knight 1.5.78.11833. Works through Rosetta. Tested with 8BitDo Ultimate 2. Supports only macOS builds.",
+    "version": "1.0.0.0",
+    "links": {
+      "type": "universal",
+      "sha256": "8093AAF4B64A12127ABDC13E127DB562DC53B0155CF5F796BD6757C4FF42C87D",
+      "url": "https://github.com/Last1kkk/hollow-knight-native-rumble/releases/download/v1.0.0/Hollow-Knight-Native-Rumble-v1.0.0.zip"
+    },
+    "dependencies": [],
+    "repository": "https://github.com/Last1kkk/hollow-knight-native-rumble",
+    "issues": "https://github.com/Last1kkk/hollow-knight-native-rumble/issues",
+    "authors": [
+      "Last1kkk"
     ]
   },
   "HollowKnightAchievementManager": {
@@ -11585,6 +11641,24 @@
     ],
     "authors": [
       "Windflower"
+    ]
+  },
+  "Stumble": {
+    "description": "The Knight is a little clumsy: every so often while running, they trip, fall flat on their face, and have to pick themselves back up.",
+    "version": "0.1.0.0",
+    "links": {
+      "type": "universal",
+      "sha256": "3F555EBA76F4381B797CDD9F8E60AD3E24DAAAB6CE9D5D9B43B188761D4DF7BB",
+      "url": "https://github.com/BShadid/HKStumbleMod/releases/download/v0.1/Stumble.zip"
+    },
+    "dependencies": [],
+    "repository": "https://github.com/BShadid/HKStumbleMod",
+    "tags": [
+      "Gameplay",
+      "LLM-Assisted"
+    ],
+    "authors": [
+      "TCM"
     ]
   },
   "Sunset Rad": {

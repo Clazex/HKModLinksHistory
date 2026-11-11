@@ -3,3 +3,7 @@ CustomizableAbilities
 MoreStags
 Pale Court Charms
 ReplayLogger
+Architect
+GodhomeQoL
+HKBattle
+HKMP.List

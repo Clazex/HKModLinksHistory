@@ -1,10 +1,3 @@
-BingoAdvancedCustomGeneration
-BingoBoardReplay
-BingoGoalPack1
-BingoGoalPack2
-BingoGoalPackGrubDay
-BingoGoalPackSpleengy
-BingoSync
 Architect
 Architect
 HKMP.List
@@ -41,3 +34,11 @@ GeoShare
 MoreStags
 Pale Court Charms
 ReplayLogger
+Architect
+Gaslight
+GodhomeQoL
+HKBattle
+HKMP.List
+HKMP.MoreTeams
+Hollow Knight Native Rumble — macOS
+Stumble

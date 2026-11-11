@@ -1,9 +1,20 @@
 # Changelog
 
 
-## Updated mods
+## New mods
 
-### GhostPlando
+### Isma&#x27;s Embrace
 
-- Version: 1.0.0.0 -> 1.0.0.1
+- Description: A Randomizer connection for swimming beneath the surface
+- Dependencies
+  + HKTool
+  + ItemChanger
+  + MenuChanger
+  + Randomizer 4
+  + RandomizerCore
+  + RandomizerCore.Json
+- Integrations
+  + CondensedSpoilerLogger
+  + ConnectionSettingsRando
+  + RandoSettingsManager
 
