@@ -9,14 +9,6 @@
 - Tags
   + Utility
 
-### GeoShare
-
-- Description: Allows players to transfer Geo in HKMP lobbies using chat commands.
-- Dependencies
-  + HKMP
-- Tags
-  + Gameplay
-
 ### HKMP.MoreTeams
 
 - Description: An HKMP addon that adds 8 additional teams and the ability to create custom ones.
@@ -44,11 +36,7 @@
 
 ### Architect
 
-- Version: 3.39.5.0 -> 3.40.2.0
-
-### CustomizableAbilities
-
-- Version: 1.5.0.0 -> 1.5.0.1
+- Version: 3.40.0.0 -> 3.40.2.0
 
 ### GodhomeQoL
 
@@ -64,14 +52,6 @@
 - Integrations
   + Added
     - HKMP.MoreTeams
-
-### MoreStags
-
-- Version: 1.1.2.4 -> 1.1.2.5
-
-### Pale Court Charms
-
-- Version: 1.4.0.0 -> 1.4.1.0
 
 ### ReplayLogger
 

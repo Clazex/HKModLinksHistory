@@ -1,7 +1,3 @@
-Architect
-CustomizableAbilities
-MoreStags
-Pale Court Charms
 ReplayLogger
 Architect
 GodhomeQoL
