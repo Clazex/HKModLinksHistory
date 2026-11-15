@@ -3,27 +3,53 @@
 
 ## New mods
 
-### Spell Staller Charms
+### Midautumn&#x27;s Knightmare
 
-- Description: Adds some fun spell-related charms
+- Description: Main mod for Nopre&#x27;s 2026 Holloween Plando
 - Dependencies
+  + AccessRandomizer
+  + Benchwarp
+  + BingoUI
+  + CustomPoolInjector
+  + DebugMod
+  + Extra Rando
+  + FStats
+  + FrogCore
+  + HKTool
+  + ICExtraDeployers
   + ItemChanger
+  + ItemChangerDataLoader
+  + ItemSync
   + KorzUtils
+  + MapChanger
   + MenuChanger
+  + MoreDoors
+  + PurenailCore
+  + QoL
+  + RandoMapMod
+  + RandoPlus
   + RandoSettingsManager
+  + RandoStats
+  + Randomizable Levers
   + Randomizer 4
   + RandomizerCore
   + RandomizerCore.Json
+  + RecentItemsDisplay
+  + Rope Rando
   + SFCore
-  + Vasi
+  + Satchel
+  + Scatternest
+  + Spell Staller Charms
+  + TheGloryOfBeingAFoolRandomizer
+  + WavLib
 
 
 ## Updated mods
 
-### ReplayTimerMod
+### Spell Staller Charms
 
-- Version: 0.4.0.0 -> 0.1.0.0
-- Description
-  + Old: Records your best times through each room and plays it back as a ghost on your next attempt.
-  + New: Times every room and replays your best run through it as a ghost. Runs can be copied and shared with others.
+- Version: 1.0.0.0 -> 1.1.0.0
+- Dependencies
+  + Added
+    - DebugMod
 

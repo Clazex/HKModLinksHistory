@@ -1,19 +1,13 @@
 # Changelog
 
 
-## New mods
+## Updated mods
 
-### Bullshittery
+### Architect
 
-- Description: Adds probably the most random features you&#x27;ve ever seen, ranging from simple features to jawdropping bullshit
-- Tags
-  + Gameplay
-  + Joke
+- Version: 3.39.1.0 -> 3.39.2.0
 
-### GreenKnight
+### Hollow Knight 8-Player Co-op
 
-- Description: A mod which literally just makes the Knight green
-- Tags
-  + Gameplay
-  + Joke
+- Version: 0.11.0.0 -> 0.11.1.0
 
