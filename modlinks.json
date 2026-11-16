@@ -508,11 +508,11 @@
   },
   "Architect": {
     "description": "A Hollow Knight level editor mod, easily make and share custom levels with an in-game level editor and level sharer.",
-    "version": "3.40.2.0",
+    "version": "3.40.2.1",
     "links": {
       "type": "universal",
-      "sha256": "7684E1C4344A73888D56BD0A5DE11F21EDB62A4473524C8C96E3910F80C79D37",
-      "url": "https://github.com/cometcake575/Architect-HK/releases/download/3.40.2.0/Architect.zip"
+      "sha256": "A59E060E32A9FFFF7D42AAE0AC856A7B941436D9D997525BEA25D7849F8330FC",
+      "url": "https://github.com/cometcake575/Architect-HK/releases/download/3.40.2.1/Architect.zip"
     },
     "dependencies": [
       "FsmMaster",
@@ -4920,11 +4920,11 @@
   },
   "GodhomeQoL": {
     "description": "This mod is a large collection of tools designed to help challenge runners with their tasks.",
-    "version": "2.0.0.0",
+    "version": "2.1.0.0",
     "links": {
       "type": "universal",
-      "sha256": "D2B7022D8A1A80EA4E497122B29FC61D3CCCA36AAE711506A49EEDE83FB8E230",
-      "url": "https://github.com/NightFuryoOo/GodhomeQoL/releases/download/v2.0.0.0/GodhomeQoL.zip"
+      "sha256": "1CDA8026DCE1EACB11711678869FFB0C86F7FEBDBDDEEDC137BC2BE22D2ADF74",
+      "url": "https://github.com/NightFuryoOo/GodhomeQoL/releases/download/v2.1.0.0/GodhomeQoL.zip"
     },
     "dependencies": [
       "Osmi",
@@ -6589,6 +6589,35 @@
       "cometcake575"
     ]
   },
+  "ItemReveal": {
+    "description": "A Hollow Knight mod that allows you to reveal the location of specific items on the map at the start of a randomizer 4 save.",
+    "version": "0.1.0.0",
+    "links": {
+      "type": "universal",
+      "sha256": "8B2AED1C694FD14CCE7C1737AD30C97F8003751DB9E788DB7714CB1C78AC4B2B",
+      "url": "https://github.com/jwwood3/ItemReveal/releases/download/v0.1.0.0/ItemReveal.zip"
+    },
+    "dependencies": [
+      "ItemChanger",
+      "MapChanger",
+      "MenuChanger",
+      "RandoMapCore",
+      "RandoMapMod",
+      "RandoSettingsManager",
+      "Randomizer 4",
+      "RandomizerCore"
+    ],
+    "repository": "https://github.com/jwwood3/ItemReveal",
+    "issues": "https://github.com/jwwood3/ItemReveal/issues",
+    "tags": [
+      "Gameplay",
+      "LLM-Assisted",
+      "Utility"
+    ],
+    "authors": [
+      "Jackson Wood"
+    ]
+  },
   "ItemSync": {
     "description": "A RandomizerMod 4 add-on for sharing item pickups between players. The default IP no longer works. Please use `mw.hkmp.org` if you want to connect to the public server.",
     "version": "2.7.3.0",
@@ -8018,11 +8047,11 @@
   },
   "MoreStags": {
     "description": "A Randomizer connection which adds new stag stations",
-    "version": "1.1.2.5",
+    "version": "1.1.2.6",
     "links": {
       "type": "universal",
-      "sha256": "CACF4E6F3EC06341A0E13826BF59ECA8402910AE7C82E4D99BB7923B00E63C85",
-      "url": "https://github.com/TheMathGeek314/MoreStags/releases/download/v1.1.2.5/MoreStags.zip"
+      "sha256": "967C78F627DE81F9CBFE1EC430E7193F76402F39571AAA500EE01A637714F9F3",
+      "url": "https://github.com/TheMathGeek314/MoreStags/releases/download/v1.1.2.6/MoreStags.zip"
     },
     "dependencies": [
       "AlreadyEnoughPlayMaker",
@@ -8408,6 +8437,53 @@
     ],
     "authors": [
       "Samihamer1"
+    ]
+  },
+  "NightmareAccess": {
+    "description": "Adds randomized non-consumable access requirements (Geo, Eggs, Essence, abilities, collectibles, etc.) to Randomizer 4 items and locations.",
+    "version": "1.1.0.6",
+    "links": {
+      "type": "universal",
+      "sha256": "0A5D5E9D1D5FBBFA446ED04AEDA8CC4FE6CC64BA35BC2441581927C4082EBA04",
+      "url": "https://github.com/Pikatyu8/NightmareAccess/releases/download/v1.1.0.6/NightmareAccess.dll"
+    },
+    "dependencies": [
+      "ItemChanger",
+      "MenuChanger",
+      "Randomizer 4",
+      "Satchel"
+    ],
+    "repository": "https://github.com/Pikatyu8/NightmareAccess",
+    "issues": "https://github.com/Pikatyu8/NightmareAccess/issues",
+    "integrations": [
+      "AccessRandomizer",
+      "AlphabetRando",
+      "BenchRando",
+      "Breakable Wall Randomizer",
+      "CombatRandomizer",
+      "CorpseDreamRando",
+      "Curse Randomizer",
+      "DarknessRandomizer",
+      "Extra Rando",
+      "Fishing",
+      "FlowerRandomizer",
+      "GodhomeRandomizer",
+      "Lore Randomizer",
+      "MoreLocations",
+      "MoreStags",
+      "RandoPlus",
+      "RandoSettingsManager",
+      "RgbRando",
+      "Rope Rando",
+      "TheGloryOfBeingAFoolRandomizer",
+      "YetAnotherRandoConnection"
+    ],
+    "tags": [
+      "Gameplay",
+      "LLM-Assisted"
+    ],
+    "authors": [
+      "Pikatyu8"
     ]
   },
   "No More Shards": {
@@ -9769,11 +9845,11 @@
   },
   "RandoMapCore": {
     "description": "A library for RandoMapMod and ArchipelagoMapMod.",
-    "version": "1.0.19.0",
+    "version": "1.0.20.0",
     "links": {
       "type": "universal",
-      "sha256": "C8CAEC5FD204DB61006366C6B01478B91B2163090394CF2D56A7801AC44A5C73",
-      "url": "https://github.com/syyePhenomenol/RandoMapCore/releases/download/v1.0.19/RandoMapCore.zip"
+      "sha256": "FD4695A0641F3167AB27FACDA9D5D19C3F16361D849AB2BA96158401127A010C",
+      "url": "https://github.com/syyePhenomenol/RandoMapCore/releases/download/v1.0.20/RandoMapCore.zip"
     },
     "dependencies": [
       "ConnectionMetadataInjector",
@@ -9799,11 +9875,11 @@
   },
   "RandoMapMod": {
     "description": "A Randomizer 4 overhaul of the World Map to help find item and transition checks.",
-    "version": "3.6.8.0",
+    "version": "3.6.9.0",
     "links": {
       "type": "universal",
-      "sha256": "E373C31A35755608AC282934E1CB603D194E72BB23B4C39BC9EF0617C30573FA",
-      "url": "https://github.com/syyePhenomenol/RandoMapMod/releases/download/v3.6.8/RandoMapMod.zip"
+      "sha256": "CCE0AA749672B509F094034A59ECF7C512401B185090E18F15517DDFA00B926E",
+      "url": "https://github.com/syyePhenomenol/RandoMapMod/releases/download/v3.6.9/RandoMapMod.zip"
     },
     "dependencies": [
       "ItemChanger",
@@ -10232,11 +10308,11 @@
   },
   "ReplayLogger": {
     "description": "ReplayLoger is a mod that was created to verify the legitimacy of player challenge runs.",
-    "version": "2.0.0.1",
+    "version": "2.0.0.2",
     "links": {
       "type": "universal",
-      "sha256": "003A699D5C65D360DCE45C87268626B3FDE8131D4E58CC5D3118339638ACB90E",
-      "url": "https://github.com/NightFuryoOo/ReplayLogger/releases/download/v2.0.0.1/ReplayLogger.zip"
+      "sha256": "557E6E9553BBFBAC686BDB67C61F5052BA38B0CE483138C122D144A8159C0A44",
+      "url": "https://github.com/NightFuryoOo/ReplayLogger/releases/download/v2.0.0.2/ReplayLogger.zip"
     },
     "dependencies": [
       "Satchel"
@@ -11644,12 +11720,12 @@
     ]
   },
   "Stumble": {
-    "description": "The Knight is a little clumsy: every so often while running, they trip, fall flat on their face, and have to pick themselves back up.",
-    "version": "0.1.0.0",
+    "description": "The Knight is a little clumsy: every so often while running, they trip, fall flat on their face, and have to pick themselves back up. With the Mantis Claw, they sometimes lose their grip on walls too.",
+    "version": "0.2.0.0",
     "links": {
       "type": "universal",
-      "sha256": "3F555EBA76F4381B797CDD9F8E60AD3E24DAAAB6CE9D5D9B43B188761D4DF7BB",
-      "url": "https://github.com/BShadid/HKStumbleMod/releases/download/v0.1/Stumble.zip"
+      "sha256": "0D0B8B4523FDD4353BFD449A125775BD843222B3EA08EB422A7945B1DC058B22",
+      "url": "https://github.com/BShadid/HKStumbleMod/releases/download/v0.2/Stumble.zip"
     },
     "dependencies": [],
     "repository": "https://github.com/BShadid/HKStumbleMod",
@@ -11679,6 +11755,27 @@
     ],
     "authors": [
       "Rotaelis"
+    ]
+  },
+  "SuperUltrawideHUD": {
+    "description": "HUD and menu layout fixes for 32:9 super-ultrawide screens only (e.g. 5120x1440). Moves the HUD to the screen edge, makes inventory, map, charms, journal, shop and pause menus use the full width. Every fix has its own On/Off switch. Requires WideCamera.",
+    "version": "1.0.1.0",
+    "links": {
+      "type": "universal",
+      "sha256": "29E56AB609397FED8BC50C24D5ACCDDC877D8506DD13116B7C5A5C67DC048CDF",
+      "url": "https://github.com/jinxcase000/SuperUltrawideHUD/releases/download/v1.0.1.0/SuperUltrawideHUD.zip"
+    },
+    "dependencies": [
+      "WideCamera"
+    ],
+    "repository": "https://github.com/jinxcase000/SuperUltrawideHUD",
+    "issues": "https://github.com/jinxcase000/SuperUltrawideHUD/issues",
+    "tags": [
+      "LLM-Assisted",
+      "Utility"
+    ],
+    "authors": [
+      "jinxcase000"
     ]
   },
   "SvgLib": {

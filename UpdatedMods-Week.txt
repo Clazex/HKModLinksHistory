@@ -2,3 +2,10 @@ Architect
 GodhomeQoL
 HKBattle
 HKMP.List
+Architect
+GodhomeQoL
+MoreStags
+RandoMapCore
+RandoMapMod
+ReplayLogger
+Stumble

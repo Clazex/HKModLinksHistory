@@ -6,3 +6,13 @@ HKMP.List
 HKMP.MoreTeams
 Hollow Knight Native Rumble — macOS
 Stumble
+Architect
+GodhomeQoL
+ItemReveal
+MoreStags
+NightmareAccess
+RandoMapCore
+RandoMapMod
+ReplayLogger
+Stumble
+SuperUltrawideHUD

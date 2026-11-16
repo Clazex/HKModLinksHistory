@@ -65,18 +65,6 @@
   + Gameplay
   + Joke
 
-### HKMP.List
-
-- Description: An HKMP addon for displaying the player list and managing host settings.
-- Dependencies
-  + HKMP
-- Integrations
-  + HKMP.MoreTeams
-  + HKMP.Rounds
-- Tags
-  + Accessibility
-  + Utility
-
 ### HKMP.MoreTeams
 
 - Description: An HKMP addon that adds 8 additional teams and the ability to create custom ones.
@@ -118,6 +106,23 @@
   + ConnectionSettingsRando
   + RandoSettingsManager
 
+### ItemReveal
+
+- Description: A Hollow Knight mod that allows you to reveal the location of specific items on the map at the start of a randomizer 4 save.
+- Dependencies
+  + ItemChanger
+  + MapChanger
+  + MenuChanger
+  + RandoMapCore
+  + RandoMapMod
+  + RandoSettingsManager
+  + Randomizer 4
+  + RandomizerCore
+- Tags
+  + Gameplay
+  + LLM-Assisted
+  + Utility
+
 ### Midautumn&#x27;s Knightmare
 
 - Description: Main mod for Nopre&#x27;s 2026 Holloween Plando
@@ -158,6 +163,40 @@
   + TheGloryOfBeingAFoolRandomizer
   + WavLib
 
+### NightmareAccess
+
+- Description: Adds randomized non-consumable access requirements (Geo, Eggs, Essence, abilities, collectibles, etc.) to Randomizer 4 items and locations.
+- Dependencies
+  + ItemChanger
+  + MenuChanger
+  + Randomizer 4
+  + Satchel
+- Integrations
+  + AccessRandomizer
+  + AlphabetRando
+  + BenchRando
+  + Breakable Wall Randomizer
+  + CombatRandomizer
+  + CorpseDreamRando
+  + Curse Randomizer
+  + DarknessRandomizer
+  + Extra Rando
+  + Fishing
+  + FlowerRandomizer
+  + GodhomeRandomizer
+  + Lore Randomizer
+  + MoreLocations
+  + MoreStags
+  + RandoPlus
+  + RandoSettingsManager
+  + RgbRando
+  + Rope Rando
+  + TheGloryOfBeingAFoolRandomizer
+  + YetAnotherRandoConnection
+- Tags
+  + Gameplay
+  + LLM-Assisted
+
 ### QoL.Lite
 
 - Description: A range of quality of life changes that are valid for Team Hitless no hit runs.
@@ -183,25 +222,26 @@
 
 ### Stumble
 
-- Description: The Knight is a little clumsy: every so often while running, they trip, fall flat on their face, and have to pick themselves back up.
+- Description: The Knight is a little clumsy: every so often while running, they trip, fall flat on their face, and have to pick themselves back up. With the Mantis Claw, they sometimes lose their grip on walls too.
 - Tags
   + Gameplay
   + LLM-Assisted
 
-### TerrariaArsenal
+### SuperUltrawideHUD
 
-- Description: Play Hollow Knight as a Terraria character: 36 Terraria weapons (melee, ranged, magic, summoner with whips) from chests after bosses, Terraria accessories instead of movement abilities, Terraria boss bar, character creator and Terraria music. Requires Terraria installed - all Terraria assets are loaded from your own copy.
+- Description: HUD and menu layout fixes for 32:9 super-ultrawide screens only (e.g. 5120x1440). Moves the HUD to the screen edge, makes inventory, map, charms, journal, shop and pause menus use the full width. Every fix has its own On/Off switch. Requires WideCamera.
+- Dependencies
+  + WideCamera
 - Tags
-  + Expansion
-  + Gameplay
   + LLM-Assisted
+  + Utility
 
 
 ## Updated mods
 
 ### Architect
 
-- Version: 3.39.0.0 -> 3.40.2.0
+- Version: 3.39.1.0 -> 3.40.2.1
 
 ### CustomizableAbilities
 
@@ -216,11 +256,18 @@
 
 ### GodhomeQoL
 
-- Version: 1.0.1.4 -> 2.0.0.0
+- Version: 1.0.1.4 -> 2.1.0.0
 
 ### HKBattle
 
 - Version: 1.0.0.3 -> 1.0.0.4
+
+### HKMP.List
+
+- Version: 1.0.0.0 -> 1.1.0.0
+- Integrations
+  + Added
+    - HKMP.MoreTeams
 
 ### HKMP.Rounds
 
@@ -228,19 +275,27 @@
 
 ### Hollow Knight 8-Player Co-op
 
-- Version: 0.10.0.0 -> 0.11.2.0
+- Version: 0.11.0.0 -> 0.11.2.0
 
 ### MoreStags
 
-- Version: 1.1.2.4 -> 1.1.2.5
+- Version: 1.1.2.4 -> 1.1.2.6
 
 ### Pale Court Charms
 
 - Version: 1.4.0.0 -> 1.4.1.0
 
+### RandoMapCore
+
+- Version: 1.0.19.0 -> 1.0.20.0
+
+### RandoMapMod
+
+- Version: 3.6.8.0 -> 3.6.9.0
+
 ### ReplayLogger
 
-- Version: 2.0.0.0 -> 2.0.0.1
+- Version: 2.0.0.0 -> 2.0.0.2
 
 ### ReplayTimerMod
 
