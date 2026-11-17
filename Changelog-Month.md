@@ -10,13 +10,6 @@
   + Cosmetic
   + Joke
 
-### Bullshittery
-
-- Description: Adds probably the most random features you&#x27;ve ever seen, ranging from simple features to jawdropping bullshit
-- Tags
-  + Gameplay
-  + Joke
-
 ### Champion&#x27;s Shell
 
 - Description: Adds Champion&#x27;s Shell, a 1-notch charm found in Dirtmouth that shows enemy health bars. Upgrade it at the Nailsmith with geo and relics to deal bonus nail damage to nearly dead enemies.
@@ -57,13 +50,6 @@
   + WavLib
 - Integrations
   + DebugMod
-
-### GreenKnight
-
-- Description: A mod which literally just makes the Knight green
-- Tags
-  + Gameplay
-  + Joke
 
 ### HKMP.MoreTeams
 

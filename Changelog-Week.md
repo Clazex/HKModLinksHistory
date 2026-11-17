@@ -3,27 +3,6 @@
 
 ## New mods
 
-### Gaslight
-
-- Description: FPS and mod load profiler. Shows what eats your FPS: in-game graph, per-mod and per-method timings, lag spikes with the culprit, HTML report. Observer only; interface in English and Russian.
-- Tags
-  + Utility
-
-### HKMP.MoreTeams
-
-- Description: An HKMP addon that adds 8 additional teams and the ability to create custom ones.
-- Dependencies
-  + HKMP
-- Integrations
-  + HKMP.List
-- Tags
-  + Accessibility
-  + Utility
-
-### Hollow Knight Native Rumble — macOS
-
-- Description: Native macOS controller rumble for Hollow Knight 1.5.78.11833. Works through Rosetta. Tested with 8BitDo Ultimate 2. Supports only macOS builds.
-
 ### ItemReveal
 
 - Description: A Hollow Knight mod that allows you to reveal the location of specific items on the map at the start of a randomizer 4 save.
@@ -75,13 +54,6 @@
   + Gameplay
   + LLM-Assisted
 
-### Stumble
-
-- Description: The Knight is a little clumsy: every so often while running, they trip, fall flat on their face, and have to pick themselves back up. With the Mantis Claw, they sometimes lose their grip on walls too.
-- Tags
-  + Gameplay
-  + LLM-Assisted
-
 ### SuperUltrawideHUD
 
 - Description: HUD and menu layout fixes for 32:9 super-ultrawide screens only (e.g. 5120x1440). Moves the HUD to the screen edge, makes inventory, map, charms, journal, shop and pause menus use the full width. Every fix has its own On/Off switch. Requires WideCamera.
@@ -96,22 +68,11 @@
 
 ### Architect
 
-- Version: 3.40.0.0 -> 3.40.2.1
+- Version: 3.40.2.0 -> 3.40.2.1
 
 ### GodhomeQoL
 
-- Version: 1.0.1.4 -> 2.1.0.0
-
-### HKBattle
-
-- Version: 1.0.0.3 -> 1.0.0.4
-
-### HKMP.List
-
-- Version: 1.0.0.0 -> 1.1.0.0
-- Integrations
-  + Added
-    - HKMP.MoreTeams
+- Version: 2.0.0.0 -> 2.1.0.0
 
 ### MoreStags
 
@@ -128,4 +89,11 @@
 ### ReplayLogger
 
 - Version: 2.0.0.1 -> 2.0.0.2
+
+### Stumble
+
+- Version: 0.1.0.0 -> 0.2.0.0
+- Description
+  + Old: The Knight is a little clumsy: every so often while running, they trip, fall flat on their face, and have to pick themselves back up.
+  + New: The Knight is a little clumsy: every so often while running, they trip, fall flat on their face, and have to pick themselves back up. With the Mantis Claw, they sometimes lose their grip on walls too.
 
