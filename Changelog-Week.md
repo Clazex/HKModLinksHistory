@@ -78,6 +78,10 @@
 
 - Version: 1.1.2.5 -> 1.1.2.6
 
+### QoL
+
+- Version: 4.9.0.0 -> 4.10.0.0
+
 ### RandoMapCore
 
 - Version: 1.0.19.0 -> 1.0.20.0

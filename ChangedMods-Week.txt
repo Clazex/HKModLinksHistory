@@ -8,3 +8,4 @@ RandoMapMod
 ReplayLogger
 Stumble
 SuperUltrawideHUD
+QoL

@@ -5,3 +5,4 @@ RandoMapCore
 RandoMapMod
 ReplayLogger
 Stumble
+QoL

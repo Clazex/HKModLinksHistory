@@ -227,7 +227,7 @@
 
 ### Architect
 
-- Version: 3.39.2.0 -> 3.40.2.1
+- Version: 3.39.3.0 -> 3.40.2.1
 
 ### CustomizableAbilities
 
@@ -270,6 +270,10 @@
 ### Pale Court Charms
 
 - Version: 1.4.0.0 -> 1.4.1.0
+
+### QoL
+
+- Version: 4.9.0.0 -> 4.10.0.0
 
 ### RandoMapCore
 
