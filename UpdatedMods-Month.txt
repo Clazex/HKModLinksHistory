@@ -25,3 +25,5 @@ RandoMapMod
 ReplayLogger
 Stumble
 QoL
+MapChanger
+MoreStags

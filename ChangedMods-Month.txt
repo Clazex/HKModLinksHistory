@@ -41,3 +41,8 @@ ReplayLogger
 Stumble
 SuperUltrawideHUD
 QoL
+Back Dash
+CreatureSpawner
+MapChanger
+MoreStags
+ParryMod
