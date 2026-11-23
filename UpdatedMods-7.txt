@@ -1,7 +1,0 @@
-Architect
-GodhomeQoL
-MoreStags
-RandoMapCore
-RandoMapMod
-ReplayLogger
-Stumble

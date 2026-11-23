@@ -27,6 +27,16 @@
   + Gameplay
   + LLM-Assisted
 
+### core.GMIC
+
+- Description: a collection of HK-compatible shaders from G&#x27;MIC
+- Dependencies
+  + Satchel
+- Tags
+  + Cosmetic
+  + LLM-Assisted
+  + Library
+
 
 ## Updated mods
 
@@ -36,7 +46,7 @@
 
 ### MoreStags
 
-- Version: 1.1.2.6 -> 1.1.2.7
+- Version: 1.1.2.6 -> 1.1.2.8
 
 ### QoL
 

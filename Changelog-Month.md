@@ -10,13 +10,6 @@
   + Gameplay
   + LLM-Assisted
 
-### BadApple
-
-- Description: Plays the Bad Apple!! shadow-art music video on a loop over the whole game. You can only see the game through the inside of the silhouettes. Purely visual, with optional music, background and size settings.
-- Tags
-  + Cosmetic
-  + Joke
-
 ### Champion&#x27;s Shell
 
 - Description: Adds Champion&#x27;s Shell, a 1-notch charm found in Dirtmouth that shows enemy health bars. Upgrade it at the Nailsmith with geo and relics to deal bonus nail damage to nearly dead enemies.
@@ -73,17 +66,6 @@
   + HKMP
 - Integrations
   + HKMP.List
-- Tags
-  + Accessibility
-  + Utility
-
-### HKMP.Spectator
-
-- Description: An HKMP addon that adds a spectator mode, free-cam, player tracking, and integration with HKMP.Rounds.
-- Dependencies
-  + HKMP
-- Integrations
-  + HKMP.Rounds
 - Tags
   + Accessibility
   + Utility
@@ -246,12 +228,22 @@
   + LLM-Assisted
   + Utility
 
+### core.GMIC
+
+- Description: a collection of HK-compatible shaders from G&#x27;MIC
+- Dependencies
+  + Satchel
+- Tags
+  + Cosmetic
+  + LLM-Assisted
+  + Library
+
 
 ## Updated mods
 
 ### Architect
 
-- Version: 3.39.3.0 -> 3.40.2.1
+- Version: 3.39.4.0 -> 3.40.2.1
 
 ### CustomizableAbilities
 
@@ -276,17 +268,13 @@
   + Added
     - HKMP.MoreTeams
 
-### Hollow Knight 8-Player Co-op
-
-- Version: 0.11.1.0 -> 0.11.2.0
-
 ### MapChanger
 
 - Version: 1.3.11.0 -> 1.3.12.0
 
 ### MoreStags
 
-- Version: 1.1.2.4 -> 1.1.2.7
+- Version: 1.1.2.4 -> 1.1.2.8
 
 ### Pale Court Charms
 
@@ -318,8 +306,4 @@
 ### TheRealTransitionRando
 
 - Version: 1.1.1.0 -> 1.1.2.0
-
-### Wrong Gravity
-
-- Version: 1.0.0.0 -> 1.0.0.9
 

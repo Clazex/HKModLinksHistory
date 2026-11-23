@@ -8086,11 +8086,11 @@
   },
   "MoreStags": {
     "description": "A Randomizer connection which adds new stag stations",
-    "version": "1.1.2.7",
+    "version": "1.1.2.8",
     "links": {
       "type": "universal",
-      "sha256": "D57C7428F77E6B8CDE74017E41660E5D4754A1446D38AF71042A1FDEA4106A81",
-      "url": "https://github.com/TheMathGeek314/MoreStags/releases/download/v1.1.2.7/MoreStags.zip"
+      "sha256": "CAF0BE52A21F315093E0F54721AF116095601A451BC197AEAC307041FB6C801B",
+      "url": "https://github.com/TheMathGeek314/MoreStags/releases/download/v1.1.2.8/MoreStags.zip"
     },
     "dependencies": [
       "AlreadyEnoughPlayMaker",
@@ -13131,6 +13131,28 @@
       "Satchel"
     ],
     "repository": "https://github.com/nQvTgLrp/HollowKnight.ZoteCollectorHelper/"
+  },
+  "core.GMIC": {
+    "description": "a collection of HK-compatible shaders from G'MIC",
+    "version": "0.1.0.0",
+    "links": {
+      "type": "universal",
+      "sha256": "C876CCB9C4CEDE827ED53D9B590F035811B6E1525873E1EF1514365713F4EFDB",
+      "url": "https://github.com/Pikatyu8/core.G-MIC/releases/download/v0.1.0/core.GMIC.dll"
+    },
+    "dependencies": [
+      "Satchel"
+    ],
+    "repository": "https://github.com/Pikatyu8/core.G-MIC",
+    "issues": "https://github.com/Pikatyu8/core.G-MIC/issues",
+    "tags": [
+      "Cosmetic",
+      "LLM-Assisted",
+      "Library"
+    ],
+    "authors": [
+      "Pikatyu8"
+    ]
   },
   "mahoraga-wheel": {
     "description": "Hollow Knight mod that replaces the Absolute Radiance halo with mahogara's wheel",

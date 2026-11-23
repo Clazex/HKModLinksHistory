@@ -4,3 +4,5 @@ CreatureSpawner
 MapChanger
 MoreStags
 ParryMod
+MoreStags
+core.GMIC
