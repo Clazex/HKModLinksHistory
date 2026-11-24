@@ -41,24 +41,6 @@
 - Tags
   + Gameplay
 
-### GhostPlando
-
-- Description: Supplemental code for the Incorporeal Echoes plando
-- Dependencies
-  + AccessRandomizer
-  + HKTool
-  + ItemChanger
-  + ItemChangerDataLoader
-  + Lore Randomizer
-  + LoreCore
-  + MenuChanger
-  + MoreDoors
-  + Randomizer 4
-  + RandomizerCore
-  + WavLib
-- Integrations
-  + DebugMod
-
 ### HKMP.MoreTeams
 
 - Description: An HKMP addon that adds 8 additional teams and the ability to create custom ones.
@@ -252,6 +234,10 @@
 ### GeoRando
 
 - Version: 1.0.3.0 -> 1.0.3.1
+
+### GhostPlando
+
+- Version: 1.0.0.0 -> 1.0.0.1
 
 ### GodhomeQoL
 
