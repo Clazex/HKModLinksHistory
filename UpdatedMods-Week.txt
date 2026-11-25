@@ -1,4 +1,3 @@
-QoL
 MapChanger
 MoreStags
 MoreStags

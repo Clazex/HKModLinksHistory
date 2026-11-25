@@ -1,5 +1,2 @@
-Back Dash
-CreatureSpawner
-MapChanger
 MoreStags
-ParryMod
+core.GMIC

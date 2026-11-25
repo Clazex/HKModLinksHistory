@@ -1,4 +1,3 @@
-QoL
 Back Dash
 CreatureSpawner
 MapChanger

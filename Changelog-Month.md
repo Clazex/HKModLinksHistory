@@ -179,21 +179,6 @@
 - Tags
   + Utility
 
-### Spell Staller Charms
-
-- Description: Adds some fun spell-related charms
-- Dependencies
-  + DebugMod
-  + ItemChanger
-  + KorzUtils
-  + MenuChanger
-  + RandoSettingsManager
-  + Randomizer 4
-  + RandomizerCore
-  + RandomizerCore.Json
-  + SFCore
-  + Vasi
-
 ### Stumble
 
 - Description: The Knight is a little clumsy: every so often while running, they trip, fall flat on their face, and have to pick themselves back up. With the Mantis Claw, they sometimes lose their grip on walls too.
@@ -282,12 +267,12 @@
 
 - Version: 2.0.0.0 -> 2.0.0.2
 
-### ReplayTimerMod
+### Spell Staller Charms
 
-- Version: 0.4.0.0 -> 0.1.0.0
-- Description
-  + Old: Records your best times through each room and plays it back as a ghost on your next attempt.
-  + New: Times every room and replays your best run through it as a ghost. Runs can be copied and shared with others.
+- Version: 1.0.0.0 -> 1.1.0.0
+- Dependencies
+  + Added
+    - DebugMod
 
 ### TheRealTransitionRando
 

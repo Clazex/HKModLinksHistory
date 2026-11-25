@@ -1,4 +1,3 @@
-ReplayTimerMod
 Spell Staller Charms
 Architect
 GhostPlando
