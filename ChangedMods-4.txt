@@ -1,2 +1,0 @@
-MoreStags
-core.GMIC

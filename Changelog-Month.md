@@ -170,7 +170,7 @@
 
 ### Architect
 
-- Version: 3.39.4.0 -> 3.40.2.1
+- Version: 3.39.5.0 -> 3.40.2.1
 
 ### CustomizableAbilities
 
