@@ -3,30 +3,6 @@
 
 ## New mods
 
-### Back Dash
-
-- Description: Brings back the cut beta back dash: dash backwards without turning around, also as a shadow dash.
-- Tags
-  + Gameplay
-  + LLM-Assisted
-
-### CreatureSpawner
-
-- Description: Spawn any creature or boss anywhere with a hotkey (Ctrl by default; changeable in Mods &gt; Creature Spawner).
-- Tags
-  + Boss
-  + LLM-Assisted
-  + Utility
-
-### ParryMod
-
-- Description: Sekiro-inspired parry with hand-drawn animations, custom sounds and boss reactions. Adds Shinobi&#x27;s Charm.
-- Dependencies
-  + SFCore
-- Tags
-  + Gameplay
-  + LLM-Assisted
-
 ### core.GMIC
 
 - Description: a collection of HK-compatible shaders from G&#x27;MIC
@@ -38,13 +14,52 @@
   + Library
 
 
+## Removed mods
+
+- OneShot PvP
+
+
 ## Updated mods
 
-### MapChanger
+### Architect
 
-- Version: 1.3.11.0 -> 1.3.12.0
+- Version: 3.40.2.1 -> 3.41.0.0
+
+### HKMP.MoreTeams
+
+- Version: 1.0.0.0 -> 1.0.1.0
+
+### HKMP.Rounds
+
+- Version: 1.2.0.0 -> 2.0.0.0
+- Dependencies
+  + Added
+    - Satchel
+
+### HKMP.Timer
+
+- Version: 1.1.0.0 -> 1.2.0.0
+
+### Isma&#x27;s Embrace
+
+- Version: 1.0.1.0 -> 1.0.2.0
+- Integrations
+  + Added
+    - FStats
 
 ### MoreStags
 
-- Version: 1.1.2.6 -> 1.1.2.8
+- Version: 1.1.2.7 -> 1.1.2.8
+
+### ParryMod
+
+- Version: 1.0.0.0 -> 1.0.1.0
+
+### UltimateChickenKnight
+
+- Version: 4.0.12.0 -> 4.0.12.1
+
+### Wrong Gravity
+
+- Version: 1.0.0.9 -> 1.0.0.12
 

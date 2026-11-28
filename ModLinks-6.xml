@@ -3,6 +3,33 @@
     xmlns:xsd="http://www.w3.org/2001/XMLSchema"
     xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
     xsi:schemaLocation="https://github.com/HollowKnight-Modding/HollowKnight.ModLinks/HollowKnight.ModManager https://raw.githubusercontent.com/HollowKnight-Modding/HollowKnight.ModLinks/main/Schemas/ModLinks.xml">
+	<Manifest>
+	    <Name>core.GMIC</Name>
+	    <DisplayName>core.G'MIC</DisplayName>
+	    <Description>a collection of HK-compatible shaders from G'MIC</Description>
+	    <Version>0.1.0.0</Version>
+	    <Link SHA256="c876ccb9c4cede827ed53d9b590f035811b6e1525873e1ef1514365713f4efdb"><![CDATA[https://github.com/Pikatyu8/core.G-MIC/releases/download/v0.1.0/core.GMIC.dll]]></Link>
+	    <Dependencies>
+	        <Dependency>Satchel</Dependency>
+	    </Dependencies>
+	    <Repository>
+	        <![CDATA[https://github.com/Pikatyu8/core.G-MIC]]>
+	    </Repository>
+	    <ReadMe>
+	        <![CDATA[https://github.com/Pikatyu8/core.G-MIC/raw/refs/heads/main/README.md]]>
+	    </ReadMe>
+	    <Issues>
+	        <![CDATA[https://github.com/Pikatyu8/core.G-MIC/issues]]>
+	    </Issues>
+	    <Tags>
+	        <Tag>Cosmetic</Tag>
+	        <Tag>Library</Tag>
+	        <Tag>LLM-Assisted</Tag>
+	    </Tags>
+	    <Authors>
+	        <Author>Pikatyu8</Author>
+	    </Authors>
+	</Manifest>
     <Manifest>
         <Name>NightmareAccess</Name>
         <DisplayName>Nightmare Access</DisplayName>
@@ -1869,8 +1896,8 @@ Not recommended for use in new mods.</Description>
     <Manifest>
         <Name>MoreStags</Name>
         <Description>A Randomizer connection which adds new stag stations</Description>
-        <Version>1.1.2.7</Version>
-        <Link SHA256="D57C7428F77E6B8CDE74017E41660E5D4754A1446D38AF71042A1FDEA4106A81"><![CDATA[https://github.com/TheMathGeek314/MoreStags/releases/download/v1.1.2.7/MoreStags.zip]]></Link>
+        <Version>1.1.2.8</Version>
+        <Link SHA256="CAF0BE52A21F315093E0F54721AF116095601A451BC197AEAC307041FB6C801B"><![CDATA[https://github.com/TheMathGeek314/MoreStags/releases/download/v1.1.2.8/MoreStags.zip]]></Link>
         <Dependencies>
             <Dependency>AlreadyEnoughPlayMaker</Dependency>
             <Dependency>ItemChanger</Dependency>

@@ -69,6 +69,7 @@
 - Integrations
   + CondensedSpoilerLogger
   + ConnectionSettingsRando
+  + FStats
   + RandoSettingsManager
 
 ### ItemReveal
@@ -166,11 +167,16 @@
   + Library
 
 
+## Removed mods
+
+- OneShot PvP
+
+
 ## Updated mods
 
 ### Architect
 
-- Version: 3.39.5.0 -> 3.40.2.1
+- Version: 3.39.5.0 -> 3.41.0.0
 
 ### CustomizableAbilities
 
@@ -198,6 +204,17 @@
 - Integrations
   + Added
     - HKMP.MoreTeams
+
+### HKMP.Rounds
+
+- Version: 1.2.0.0 -> 2.0.0.0
+- Dependencies
+  + Added
+    - Satchel
+
+### HKMP.Timer
+
+- Version: 1.1.0.0 -> 1.2.0.0
 
 ### MapChanger
 
@@ -230,4 +247,12 @@
 ### TheRealTransitionRando
 
 - Version: 1.1.1.0 -> 1.1.2.0
+
+### UltimateChickenKnight
+
+- Version: 4.0.12.0 -> 4.0.12.1
+
+### Wrong Gravity
+
+- Version: 1.0.0.9 -> 1.0.0.12
 

@@ -37,3 +37,11 @@ MoreStags
 ParryMod
 MoreStags
 core.GMIC
+Architect
+HKMP.MoreTeams
+HKMP.Rounds
+HKMP.Timer
+Isma&#x27;s Embrace
+ParryMod
+UltimateChickenKnight
+Wrong Gravity

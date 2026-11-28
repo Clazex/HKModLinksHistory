@@ -508,11 +508,11 @@
   },
   "Architect": {
     "description": "A Hollow Knight level editor mod, easily make and share custom levels with an in-game level editor and level sharer.",
-    "version": "3.40.2.1",
+    "version": "3.41.0.0",
     "links": {
       "type": "universal",
-      "sha256": "A59E060E32A9FFFF7D42AAE0AC856A7B941436D9D997525BEA25D7849F8330FC",
-      "url": "https://github.com/cometcake575/Architect-HK/releases/download/3.40.2.1/Architect.zip"
+      "sha256": "C948266DCD1621EE6AC01F14AC22F32ACF8E8F92C6744F232514AA111D316547",
+      "url": "https://github.com/cometcake575/Architect-HK/releases/download/3.41.0.0/Architect.zip"
     },
     "dependencies": [
       "FsmMaster",
@@ -676,7 +676,7 @@
     "version": "1.0.0.0",
     "links": {
       "type": "universal",
-      "sha256": "E74357E8C479AADE91AE248825B69AE0EC4359337F58C43A86DDBE1FF80F36EF",
+      "sha256": "D8A7F66F3FABD9F151F70A76A09466BFDFE5E90BBEC54D3091F40BC2CBE0E0C5",
       "url": "https://github.com/Lewixen/Parry-and-Back-Dash-Mods/releases/download/v1.0.0.0/BackDash.zip"
     },
     "dependencies": [],
@@ -5483,11 +5483,11 @@
   },
   "HKMP.MoreTeams": {
     "description": "An HKMP addon that adds 8 additional teams and the ability to create custom ones.",
-    "version": "1.0.0.0",
+    "version": "1.0.1.0",
     "links": {
       "type": "universal",
-      "sha256": "C7E6B9ECBE7AC80434D4BB0037AFCA79CA723B9D983EFDCC062E213EA8899B19",
-      "url": "https://github.com/aristocrat27/HKMP.MoreTeams/releases/download/Release/HKMP.MoreTeams.zip"
+      "sha256": "EC824DB10B794B7CB5FDA06E6BC6E0697D666920D7D255B76C1A3E586F173AF4",
+      "url": "https://github.com/aristocrat27/HKMP.MoreTeams/releases/download/1.0.1.0/HKMP.MoreTeams.zip"
     },
     "dependencies": [
       "HKMP"
@@ -5506,14 +5506,15 @@
   },
   "HKMP.Rounds": {
     "description": "An HKMP addon that adds a round-based system, automatic round starts, and PvP win statistics.",
-    "version": "1.2.0.0",
+    "version": "2.0.0.0",
     "links": {
       "type": "universal",
-      "sha256": "23B8850E28E21FD33148B8B1DF07800A3AABD81A69307AF7064F8CF9E7990E0D",
-      "url": "https://github.com/aristocrat27/HKMP.Rounds/releases/download/1.2.0.0/HKMP.Rounds.zip"
+      "sha256": "07BDAACE477B9B14B19226D42DA0C6E4C00DA94512412BE11690EF2BCCD1D64F",
+      "url": "https://github.com/aristocrat27/HKMP.Rounds/releases/download/2.0.0.0/HKMP.Rounds.zip"
     },
     "dependencies": [
-      "HKMP"
+      "HKMP",
+      "Satchel"
     ],
     "repository": "https://github.com/aristocrat27/HKMP.Rounds",
     "tags": [
@@ -5549,11 +5550,11 @@
   },
   "HKMP.Timer": {
     "description": "Synchronized timer/stopwatch for Hollow Knight multiplayer through HKMP.",
-    "version": "1.1.0.0",
+    "version": "1.2.0.0",
     "links": {
       "type": "universal",
-      "sha256": "530F38AE68D60C3EF01D5913C9AFC835E4CE4067C0D7F47A43B78FC68D438BA5",
-      "url": "https://github.com/aristocrat27/HKMP.Timer/releases/download/1.1.0.0/HKMP.Timer.zip"
+      "sha256": "D3E513699B0208975CCD077A574726FC035DD6EE806F2CDD6FD4DB787772841C",
+      "url": "https://github.com/aristocrat27/HKMP.Timer/releases/download/1.2.0.0/HKMP.Timer.zip"
     },
     "dependencies": [
       "HKMP",
@@ -6558,11 +6559,11 @@
   },
   "Isma's Embrace": {
     "description": "A Randomizer connection for swimming beneath the surface",
-    "version": "1.0.1.0",
+    "version": "1.0.2.0",
     "links": {
       "type": "universal",
-      "sha256": "4BFCDFDA0F5388F091C591ACB503A7BA14B2936B7F5DBD250BD70D0368629072",
-      "url": "https://github.com/TheMathGeek314/IsmasEmbrace/releases/download/v1.0.1.0/IsmasEmbrace.zip"
+      "sha256": "C9F2F0AF3B16EA662F4466C48B510E243DE41E7218D22261748E481051F4D0E9",
+      "url": "https://github.com/TheMathGeek314/IsmasEmbrace/releases/download/v1.0.2.0/IsmasEmbrace.zip"
     },
     "dependencies": [
       "HKTool",
@@ -6576,6 +6577,7 @@
     "integrations": [
       "CondensedSpoilerLogger",
       "ConnectionSettingsRando",
+      "FStats",
       "RandoSettingsManager"
     ],
     "authors": [
@@ -8814,27 +8816,6 @@
       "talezshadid"
     ]
   },
-  "OneShot PvP": {
-    "description": "A fast-paced Hollow Knight PvP mod where players fight with 1 HP and limited spell casts.",
-    "version": "1.0.0.0",
-    "links": {
-      "type": "universal",
-      "sha256": "DACD9D0B0FBDD6B149136A440A5131B42F2E2BC278A11B63345114207E349F7B",
-      "url": "https://github.com/aristocrat27/OneShot-PvP/releases/download/Release/OneShot_PvP.zip"
-    },
-    "dependencies": [
-      "HKMP"
-    ],
-    "repository": "https://github.com/aristocrat27/OneShot-PvP",
-    "tags": [
-      "Gameplay",
-      "Utility"
-    ],
-    "authors": [
-      "Aristocrat",
-      "Bobry Cola"
-    ]
-  },
   "OnlyBosses": {
     "description": "OnlyBosses is an alternative to TheHuntIsOn enemy module (which removes basic enemies), but since it got removed this mod is here.",
     "version": "1.0.0.0",
@@ -9224,11 +9205,11 @@
   },
   "ParryMod": {
     "description": "Sekiro-inspired parry with hand-drawn animations, custom sounds and boss reactions. Adds Shinobi's Charm.",
-    "version": "1.0.0.0",
+    "version": "1.0.1.0",
     "links": {
       "type": "universal",
-      "sha256": "EE6971917F039F7FAA9546C3E104383A86ADAFA12FD98248CF1C69FB0F011A37",
-      "url": "https://github.com/Lewixen/Parry-and-Back-Dash-Mods/releases/download/v1.0.0.0/ParryMod.zip"
+      "sha256": "CFBA49177C0BA589F7A44B004517FB72A238B370EBD4B10D0FB8D415AA58D64A",
+      "url": "https://github.com/Lewixen/Parry-and-Back-Dash-Mods/releases/download/v1.0.1.0/ParryMod.zip"
     },
     "dependencies": [
       "SFCore"
@@ -12372,11 +12353,11 @@
   },
   "UltimateChickenKnight": {
     "description": "Ultimate Chicken Horse in Hollow Knight, using HKMP and the Architect mod.",
-    "version": "4.0.12.0",
+    "version": "4.0.12.1",
     "links": {
       "type": "universal",
-      "sha256": "AEA1283E48D030D541786E0DBAC0D7799C80B457D66BFDF72850E738C5DA0441",
-      "url": "https://github.com/cometcake575/UltimateChickenKnight/releases/download/1.0.12.0/UltimateChickenKnight.zip"
+      "sha256": "F13C0ACB7A5C05BD4FB192CFCB263E472F23605AB2AF4B58D7EC883CE1CDF8F0",
+      "url": "https://github.com/cometcake575/UltimateChickenKnight/releases/download/1.0.12.1/UltimateChickenKnight.zip"
     },
     "dependencies": [
       "Architect",
@@ -13015,11 +12996,11 @@
   },
   "Wrong Gravity": {
     "description": "Hallownest? Hɐlloʍuǝsʇ!",
-    "version": "1.0.0.9",
+    "version": "1.0.0.12",
     "links": {
       "type": "universal",
-      "sha256": "C4B5C4A4C468288229855806567C5CD10F3DFBE6420A0BE7E371B86C944BA616",
-      "url": "https://github.com/FrogBishop/HollowKnight.WrongGravity/releases/download/1.0.0.9/WrongGravity.zip"
+      "sha256": "FAB2D048BA223147AB6B9C05EE0142B6FD469E0507B0A9D38BBBB0866C432DBF",
+      "url": "https://github.com/FrogBishop/HollowKnight.WrongGravity/releases/download/1.0.0.12/WrongGravity.zip"
     },
     "dependencies": [
       "Vasi"
